@@ -1,0 +1,22 @@
+{
+  "name": "$BTCclanker",
+  "symbol": "$BTCclanker",
+  "decimals": 18,
+  "description": "$BTCclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24BTCclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$BTCclanker",
+  "addresses": {
+    "8453": "0x1c6b8dad47baef5256f625820fecf7b6b735a3e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$BTCclanker",
+    "sanitizedSymbol": "BTCCLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1329570",
+    "lockerAddress": "0xe74BcB23B2bB1dBD0BBdA337DA54646abaD560E1"
+  },
+  "clankerInfo": null
+}

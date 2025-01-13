@@ -1,0 +1,22 @@
+{
+  "name": "stakefish",
+  "symbol": "stakefish",
+  "decimals": 18,
+  "description": "stakefish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stakefish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stakefish",
+  "addresses": {
+    "8453": "0x2b006596e71791312f79e0de668821747dd734ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stakefish",
+    "sanitizedSymbol": "STAKEFISH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1288115",
+    "lockerAddress": "0x4d9cAAA1F82978873393c7E2205342926B5c44dE"
+  },
+  "clankerInfo": null
+}

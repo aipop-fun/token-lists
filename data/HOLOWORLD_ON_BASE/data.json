@@ -1,0 +1,22 @@
+{
+  "name": "Holoworld on Base",
+  "symbol": "Holoworld on Base",
+  "decimals": 18,
+  "description": "Holoworld on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Holoworld%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Holoworld on Base",
+  "addresses": {
+    "8453": "0x160e0fe6a0933c3bfecac8858cb0a741fa37606b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Holoworld on Base",
+    "sanitizedSymbol": "HOLOWORLD_ON_BASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157956",
+    "lockerAddress": "0x2b45D01E71F3C49a9CaB3622E669405D3B6597e4"
+  },
+  "clankerInfo": null
+}

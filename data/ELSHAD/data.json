@@ -1,0 +1,22 @@
+{
+  "name": "ELSHAD",
+  "symbol": "ELSHAD",
+  "decimals": 18,
+  "description": "ELSHAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELSHAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELSHAD",
+  "addresses": {
+    "8453": "0x3ee3c4eabff499904a205d244a3c5bbcef1d1f3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELSHAD",
+    "sanitizedSymbol": "ELSHAD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1d59CEb0f8f343e0D4e68F93E3003C1494aBe87E",
+    "lpNftId": "1329899",
+    "lockerAddress": "0x5892333f926a8544AdC4D56414569bbbf7d29723"
+  },
+  "clankerInfo": null
+}

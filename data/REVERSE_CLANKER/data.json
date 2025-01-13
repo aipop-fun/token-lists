@@ -1,0 +1,22 @@
+{
+  "name": "Reverse Clanker",
+  "symbol": "Reverse Clanker",
+  "decimals": 18,
+  "description": "Reverse Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reverse%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reverse Clanker",
+  "addresses": {
+    "8453": "0x2b313c959a35af88665832c72da1a435be9ced46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reverse Clanker",
+    "sanitizedSymbol": "REVERSE_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4501457c36aE0647Cd43a1a81EA4e9E69604215f",
+    "lpNftId": "1323505",
+    "lockerAddress": "0x7cf5232a112655554F1c156218E201b04162F577"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "vota",
+  "symbol": "vota",
+  "decimals": 18,
+  "description": "vota is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vota",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vota",
+  "addresses": {
+    "8453": "0x3a88131498ac646fa5391d373db0515aa815c4ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vota",
+    "sanitizedSymbol": "VOTA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1323996",
+    "lockerAddress": "0x20CFB687895d14a187dD78f62422bCD62645B045"
+  },
+  "clankerInfo": null
+}

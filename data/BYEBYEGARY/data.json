@@ -1,0 +1,22 @@
+{
+  "name": "ByeByeGary",
+  "symbol": "ByeByeGary",
+  "decimals": 18,
+  "description": "ByeByeGary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ByeByeGary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ByeByeGary",
+  "addresses": {
+    "8453": "0x268e2c61644fd1722d5e08427521d389cd472eb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ByeByeGary",
+    "sanitizedSymbol": "BYEBYEGARY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206047",
+    "lockerAddress": "0xbaF424754c0b452F75CBF4052047Ff20185C50D4"
+  },
+  "clankerInfo": null
+}

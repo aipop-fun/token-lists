@@ -1,0 +1,22 @@
+{
+  "name": "pseudonymous",
+  "symbol": "pseudonymous",
+  "decimals": 18,
+  "description": "pseudonymous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pseudonymous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pseudonymous",
+  "addresses": {
+    "8453": "0x372b83f973ef3f6b635e46eec39e9a94f4a079ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pseudonymous",
+    "sanitizedSymbol": "PSEUDONYMOUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1335121",
+    "lockerAddress": "0xA46C1329B91a7866c5a6886414c15E902e170Dd3"
+  },
+  "clankerInfo": null
+}

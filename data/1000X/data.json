@@ -1,0 +1,22 @@
+{
+  "name": "1000x",
+  "symbol": "1000x",
+  "decimals": 18,
+  "description": "1000x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1000x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1000x",
+  "addresses": {
+    "8453": "0x397af86a35288f7a219febaab34f9b947d4d772d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1000x",
+    "sanitizedSymbol": "1000X",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119817",
+    "lockerAddress": "0x379ca1226237E69156Ac7018005f9F8e61161807"
+  },
+  "clankerInfo": null
+}

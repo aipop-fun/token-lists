@@ -1,0 +1,22 @@
+{
+  "name": "ClankerDICK",
+  "symbol": "ClankerDICK",
+  "decimals": 18,
+  "description": "ClankerDICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerDICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerDICK",
+  "addresses": {
+    "8453": "0x2ad0f07899d249a8c6de7fff0ccfd3a9e8c4ce0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerDICK",
+    "sanitizedSymbol": "CLANKERDICK",
+    "created_at": "2024-12-11T19:07:14.12844",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1424543",
+    "lockerAddress": "0x4236fDcc5619A02f4d5f5b3CB5ffC577a3705Aca"
+  },
+  "clankerInfo": null
+}

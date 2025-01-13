@@ -1,0 +1,22 @@
+{
+  "name": "Rocket Fuel Token",
+  "symbol": "Rocket Fuel Token",
+  "decimals": 18,
+  "description": "Rocket Fuel Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rocket%20Fuel%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rocket Fuel Token",
+  "addresses": {
+    "8453": "0x11bf51de22429aea0fbed3adc255548cdcd40ef0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rocket Fuel Token",
+    "sanitizedSymbol": "ROCKET_FUEL_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118309",
+    "lockerAddress": "0xFaA1D6011F8D8662c2B4E77097a75eF3699caA5F"
+  },
+  "clankerInfo": null
+}

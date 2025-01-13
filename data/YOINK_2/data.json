@@ -1,0 +1,22 @@
+{
+  "name": "YOINK",
+  "symbol": "YOINK",
+  "decimals": 18,
+  "description": "YOINK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOINK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOINK",
+  "addresses": {
+    "8453": "0x25bcbf37f9e17df8d639d60511ab07d6c3ba0de4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOINK",
+    "sanitizedSymbol": "YOINK_2",
+    "created_at": "2024-12-12T08:00:24.82326",
+    "deployer": "0x78a97e1011714822a4021C507281F4dc8C3500F7",
+    "lpNftId": "1429848",
+    "lockerAddress": "0xC3AebE1a4DA8AA7249678aC1F24452c5bd6c5E03"
+  },
+  "clankerInfo": null
+}

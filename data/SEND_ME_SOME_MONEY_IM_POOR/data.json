@@ -1,0 +1,22 @@
+{
+  "name": "Send me some money Im poor",
+  "symbol": "Send me some money Im poor",
+  "decimals": 18,
+  "description": "Send me some money Im poor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Send%20me%20some%20money%20Im%20poor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Send me some money Im poor",
+  "addresses": {
+    "8453": "0x3e99d399cedc853be66b65b6cdcba6cc0865fdc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Send me some money Im poor",
+    "sanitizedSymbol": "SEND_ME_SOME_MONEY_IM_POOR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9fb08748c3858Ca6a39357D6D70D1Eeb9586026E",
+    "lpNftId": "1253063",
+    "lockerAddress": "0x5Ce56582147ee56eE10775D1BDCf37ea61fb2718"
+  },
+  "clankerInfo": null
+}

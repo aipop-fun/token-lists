@@ -1,0 +1,22 @@
+{
+  "name": "zorbBucks",
+  "symbol": "zorbBucks",
+  "decimals": 18,
+  "description": "zorbBucks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zorbBucks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zorbBucks",
+  "addresses": {
+    "8453": "0x0ed63b170a7283fb23d04bf5616d26fb3574e1b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zorbBucks",
+    "sanitizedSymbol": "ZORBBUCKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153787",
+    "lockerAddress": "0x72cad6c390Fd8Aa7B1c928E3EF221375d79F4F1b"
+  },
+  "clankerInfo": null
+}

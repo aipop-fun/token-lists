@@ -1,0 +1,22 @@
+{
+  "name": "purrbyte",
+  "symbol": "purrbyte",
+  "decimals": 18,
+  "description": "purrbyte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=purrbyte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "purrbyte",
+  "addresses": {
+    "8453": "0x07e24fd635fa2092eaea096006e26fc71d4699c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "purrbyte",
+    "sanitizedSymbol": "PURRBYTE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe20C54BaE4826173346A50E48B78C60FA141d333",
+    "lpNftId": "1269381",
+    "lockerAddress": "0x74c8C3211a62f183636861f9f6D22518acCb0489"
+  },
+  "clankerInfo": null
+}

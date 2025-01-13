@@ -1,0 +1,22 @@
+{
+  "name": "CHILLGIRL",
+  "symbol": "CHILLGIRL",
+  "decimals": 18,
+  "description": "CHILLGIRL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILLGIRL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILLGIRL",
+  "addresses": {
+    "8453": "0x2b2c32b65d88b4d850722ecf3b2e82ae8313d339"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILLGIRL",
+    "sanitizedSymbol": "CHILLGIRL_3",
+    "created_at": "2024-12-11T20:24:15.094194",
+    "deployer": "0x38553C869d5d28ab4127EDC8Da295f656a3dBA18",
+    "lpNftId": "1425418",
+    "lockerAddress": "0x990EC2b16F01150ED7BBA7DDc11A826bD8c9D1D3"
+  },
+  "clankerInfo": null
+}

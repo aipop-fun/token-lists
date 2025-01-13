@@ -1,0 +1,22 @@
+{
+  "name": "slur",
+  "symbol": "slur",
+  "decimals": 18,
+  "description": "slur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slur",
+  "addresses": {
+    "8453": "0x2f92b48f20a94c116166ef676a4158a26850d7a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slur",
+    "sanitizedSymbol": "SLUR",
+    "created_at": "2024-12-12T07:20:03.434923",
+    "deployer": "0x2A7bcc1906e3E2058e5c4c2c53a9dA4C83207a10",
+    "lpNftId": "1429724",
+    "lockerAddress": "0x01a36709AC0D6F4f690658c7689E7cB380f7d26B"
+  },
+  "clankerInfo": null
+}

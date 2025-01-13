@@ -1,0 +1,22 @@
+{
+  "name": "World news",
+  "symbol": "World news",
+  "decimals": 18,
+  "description": "World news is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20news",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World news",
+  "addresses": {
+    "8453": "0x34d6af90a5e867c571f008d9779c3ee29e30cd65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World news",
+    "sanitizedSymbol": "WORLD_NEWS",
+    "created_at": "2024-12-11T20:46:17.436014",
+    "deployer": "0x6Dc73b551d166364Ab36250Fce18E658b1d2e59d",
+    "lpNftId": "1425619",
+    "lockerAddress": "0x9b9B1e43C37B1C6676aC4fCaC93b40221A886F1E"
+  },
+  "clankerInfo": null
+}

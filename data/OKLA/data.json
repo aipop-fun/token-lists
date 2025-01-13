@@ -1,0 +1,22 @@
+{
+  "name": "OKLA",
+  "symbol": "OKLA",
+  "decimals": 18,
+  "description": "OKLA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OKLA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OKLA",
+  "addresses": {
+    "8453": "0x2860b65e3abcf213bffe640aebcb49380e9c018d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OKLA",
+    "sanitizedSymbol": "OKLA",
+    "created_at": "2024-12-10T11:17:59.009595",
+    "deployer": "0x0b9096313Bde171b1AD3f97E60514cFFC8f3c859",
+    "lpNftId": "1400160",
+    "lockerAddress": "0xEb8D43DdF7Cf1913312dAB7DE9ef2307A53B4a7d"
+  },
+  "clankerInfo": null
+}

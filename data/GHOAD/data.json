@@ -1,0 +1,22 @@
+{
+  "name": "GHOAD",
+  "symbol": "GHOAD",
+  "decimals": 18,
+  "description": "GHOAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GHOAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GHOAD",
+  "addresses": {
+    "8453": "0x19d7073740ec599cb7ab5cde2b522a60b4b98f75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GHOAD",
+    "sanitizedSymbol": "GHOAD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF44D82E2027997aB151c108707d63a5102F24f8D",
+    "lpNftId": "1269052",
+    "lockerAddress": "0xCE066f2E6E39cCEEA6711140544d575D4D63867a"
+  },
+  "clankerInfo": null
+}

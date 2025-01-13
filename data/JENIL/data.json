@@ -1,0 +1,22 @@
+{
+  "name": "jenil",
+  "symbol": "jenil",
+  "decimals": 18,
+  "description": "jenil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jenil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jenil",
+  "addresses": {
+    "8453": "0x404dbef7c3a33a40972f3e23cc6f3be01b32155c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jenil",
+    "sanitizedSymbol": "JENIL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1323139",
+    "lockerAddress": "0xa084D87a9BCdf8937D69C345ba169E967d84C724"
+  },
+  "clankerInfo": null
+}

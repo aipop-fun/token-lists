@@ -1,0 +1,22 @@
+{
+  "name": "8888",
+  "symbol": "8888",
+  "decimals": 18,
+  "description": "8888 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=8888",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "8888",
+  "addresses": {
+    "8453": "0x00244cba3dd1226d1aa3f19fbdb6f0552bb3e4ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "8888",
+    "sanitizedSymbol": "8888",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1328049",
+    "lockerAddress": "0x3e096351AB5fA2B52A34Ddc02EaAC55D9FDA6B41"
+  },
+  "clankerInfo": null
+}

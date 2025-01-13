@@ -1,0 +1,22 @@
+{
+  "name": "no Clank no Party",
+  "symbol": "no Clank no Party",
+  "decimals": 18,
+  "description": "no Clank no Party is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=no%20Clank%20no%20Party",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "no Clank no Party",
+  "addresses": {
+    "8453": "0x241b2241d993b1579ed0db460bf04691e2e437d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "no Clank no Party",
+    "sanitizedSymbol": "NO_CLANK_NO_PARTY",
+    "created_at": "2024-12-12T20:39:31.665696",
+    "deployer": "0x786200A1B260F6160903547B62DB09Be4D7776e9",
+    "lpNftId": "1442502",
+    "lockerAddress": "0xeb597837bF08dFabCeddc9d8dC6Ef4385FD7Afe4"
+  },
+  "clankerInfo": null
+}

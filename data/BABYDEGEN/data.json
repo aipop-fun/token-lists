@@ -1,0 +1,22 @@
+{
+  "name": "BABYDEGEN",
+  "symbol": "BABYDEGEN",
+  "decimals": 18,
+  "description": "BABYDEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABYDEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABYDEGEN",
+  "addresses": {
+    "8453": "0x3d91555869b444931dcd8eb5c6b0645a0276725c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABYDEGEN",
+    "sanitizedSymbol": "BABYDEGEN",
+    "created_at": "2024-12-10T17:03:37.076153",
+    "deployer": "0x73D1aA788C87CB2EF0843a8d638D7399b1608A65",
+    "lpNftId": "1404323",
+    "lockerAddress": "0x4230f197b8aD94feae128E8b4AC50a00c9633465"
+  },
+  "clankerInfo": null
+}

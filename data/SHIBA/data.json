@@ -1,0 +1,22 @@
+{
+  "name": "SHIBA",
+  "symbol": "SHIBA",
+  "decimals": 18,
+  "description": "SHIBA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIBA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIBA",
+  "addresses": {
+    "8453": "0x1a83df7709c239b6c92b6a1ddd3185840ecc6d72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIBA",
+    "sanitizedSymbol": "SHIBA",
+    "created_at": "2024-12-10T23:37:15.649115",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408455",
+    "lockerAddress": "0x51BFd4E2EC368C62a96987528cEC4180677E351A"
+  },
+  "clankerInfo": null
+}

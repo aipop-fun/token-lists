@@ -1,0 +1,22 @@
+{
+  "name": "Invisible",
+  "symbol": "Invisible",
+  "decimals": 18,
+  "description": "Invisible is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Invisible",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Invisible",
+  "addresses": {
+    "8453": "0x113e16cf2fee67667ac15dc65986390b40ca7e17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Invisible",
+    "sanitizedSymbol": "INVISIBLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaD9f179e3383AD27F64A814b1ea07ff4785D9fE8",
+    "lpNftId": "1317511",
+    "lockerAddress": "0x756E2FC9CB4ccfA61644ca5E8Baa709696a8b580"
+  },
+  "clankerInfo": null
+}

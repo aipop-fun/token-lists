@@ -1,0 +1,22 @@
+{
+  "name": "Osaka",
+  "symbol": "Osaka",
+  "decimals": 18,
+  "description": "Osaka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Osaka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Osaka",
+  "addresses": {
+    "8453": "0x076b8f3ec8760e6416223d659c3dba088fc181a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Osaka",
+    "sanitizedSymbol": "OSAKA_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xCDf8E93BD9700d7274bC02927621A968Aede4cb5",
+    "lpNftId": "1267015",
+    "lockerAddress": "0xe3eE1F8e6Ed885Cc2e71a10eBB9af3F51BAD4Faa"
+  },
+  "clankerInfo": null
+}

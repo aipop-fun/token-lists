@@ -1,0 +1,22 @@
+{
+  "name": "GodDji",
+  "symbol": "GodDji",
+  "decimals": 18,
+  "description": "GodDji is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GodDji",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GodDji",
+  "addresses": {
+    "8453": "0x10c8de125eab09401d13186df03c0d9a431f38a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GodDji",
+    "sanitizedSymbol": "GODDJI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb33Ed88f913f8eca8027c3877Ae5D2e3C17B8117",
+    "lpNftId": "1328187",
+    "lockerAddress": "0x50cF44A126593424496758E492913BC8Eb794A47"
+  },
+  "clankerInfo": null
+}

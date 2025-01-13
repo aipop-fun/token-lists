@@ -1,0 +1,22 @@
+{
+  "name": "POOP COIN",
+  "symbol": "POOP COIN",
+  "decimals": 18,
+  "description": "POOP COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POOP%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POOP COIN",
+  "addresses": {
+    "8453": "0x297b827b079b9d7896e301aa8fc9dbf283d7dc79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POOP COIN",
+    "sanitizedSymbol": "POOP_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfC4842d215753B38C66F0f903DC71F4C40D11ec7",
+    "lpNftId": "1326238",
+    "lockerAddress": "0x241f51c0Ff2cD74a0ED08b671C08b88b23915cF0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SuperWarpcast",
+  "symbol": "SuperWarpcast",
+  "decimals": 18,
+  "description": "SuperWarpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperWarpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperWarpcast",
+  "addresses": {
+    "8453": "0x01f635fae4ace94ac3234f87be7d256277575a22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperWarpcast",
+    "sanitizedSymbol": "SUPERWARPCAST",
+    "created_at": "2024-12-11T12:56:01.53751",
+    "deployer": "0x41014C5F3A5E27A64AD4894f96150C9ebcE9BBa4",
+    "lpNftId": "1418581",
+    "lockerAddress": "0xbA03d3a505330CF4Ffed3e547A557B21a1d7Cc88"
+  },
+  "clankerInfo": null
+}

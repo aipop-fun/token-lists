@@ -1,0 +1,22 @@
+{
+  "name": "Artificial Intelligence Coin",
+  "symbol": "Artificial Intelligence Coin",
+  "decimals": 18,
+  "description": "Artificial Intelligence Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Artificial%20Intelligence%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Artificial Intelligence Coin",
+  "addresses": {
+    "8453": "0x0ca32290d261ba8d9f3c6805f29dee5e0cd1ec30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Artificial Intelligence Coin",
+    "sanitizedSymbol": "ARTIFICIAL_INTELLIGENCE_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193032",
+    "lockerAddress": "0x7Aae52F529D85f4F454c2D9852C47F84D95eeA5D"
+  },
+  "clankerInfo": null
+}

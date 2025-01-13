@@ -1,0 +1,22 @@
+{
+  "name": "Life",
+  "symbol": "Life",
+  "decimals": 18,
+  "description": "Life is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Life",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Life",
+  "addresses": {
+    "8453": "0x1359229cf00698e2572edad4774b8b9491bba433"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Life",
+    "sanitizedSymbol": "LIFE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x62d517B3913f9d8f04e2ff70Dc5FbBE73119FF6f",
+    "lpNftId": "1263612",
+    "lockerAddress": "0x4aC25adFf69a946BB9aA1293f8d541aC3EA9B436"
+  },
+  "clankerInfo": null
+}

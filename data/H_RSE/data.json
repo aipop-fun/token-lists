@@ -1,0 +1,22 @@
+{
+  "name": "H↑RSE",
+  "symbol": "H↑RSE",
+  "decimals": 18,
+  "description": "H↑RSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=H%E2%86%91RSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "H↑RSE",
+  "addresses": {
+    "8453": "0x0379fb32786f90d3962d27a77183836db874cc38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "H↑RSE",
+    "sanitizedSymbol": "H_RSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173615",
+    "lockerAddress": "0x4b044252a4423E6d0CDe31a08961eb255f71C6Ce"
+  },
+  "clankerInfo": null
+}

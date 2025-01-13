@@ -1,0 +1,22 @@
+{
+  "name": "0 follow = 0 buy?",
+  "symbol": "0 follow = 0 buy?",
+  "decimals": 18,
+  "description": "0 follow = 0 buy? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=0%20follow%20%3D%200%20buy%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "0 follow = 0 buy?",
+  "addresses": {
+    "8453": "0x34161372ced81e526829ece16c3abeb38c433556"
+  },
+  "tokenInfo": {
+    "originalSymbol": "0 follow = 0 buy?",
+    "sanitizedSymbol": "0_FOLLOW_0_BUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223567",
+    "lockerAddress": "0x650BF1e55D08c9a5c0db4a3d3c4978c84CC610d6"
+  },
+  "clankerInfo": null
+}

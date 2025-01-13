@@ -1,0 +1,22 @@
+{
+  "name": "RogerRoger",
+  "symbol": "RogerRoger",
+  "decimals": 18,
+  "description": "RogerRoger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RogerRoger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RogerRoger",
+  "addresses": {
+    "8453": "0x14f0c356bccaf93c32878b4223a6d37486b14aa4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RogerRoger",
+    "sanitizedSymbol": "ROGERROGER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210466",
+    "lockerAddress": "0xc101fA1EDee7747e3C0a4b706f08Ef487C888F8E"
+  },
+  "clankerInfo": null
+}

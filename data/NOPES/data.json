@@ -1,0 +1,22 @@
+{
+  "name": "NOPES",
+  "symbol": "NOPES",
+  "decimals": 18,
+  "description": "NOPES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOPES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOPES",
+  "addresses": {
+    "8453": "0x2b1a08ae60e6d34afa3d85fab1b87e3f7a72143c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOPES",
+    "sanitizedSymbol": "NOPES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229886",
+    "lockerAddress": "0xE04ec441E5e3A0D218A038Beb61F3AD2d3E7eD25"
+  },
+  "clankerInfo": null
+}

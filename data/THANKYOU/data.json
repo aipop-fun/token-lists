@@ -1,0 +1,22 @@
+{
+  "name": "thankyou",
+  "symbol": "thankyou",
+  "decimals": 18,
+  "description": "thankyou is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=thankyou",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "thankyou",
+  "addresses": {
+    "8453": "0x1816a454f0b82bfb8e55a47b1725eab850e2290c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "thankyou",
+    "sanitizedSymbol": "THANKYOU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbfbD69e77976530D33841690A94B16D8aaf0b033",
+    "lpNftId": "1285107",
+    "lockerAddress": "0x12e8C78B81dAc87E9A9507bf31F80A4647E96611"
+  },
+  "clankerInfo": null
+}

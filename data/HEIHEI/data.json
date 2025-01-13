@@ -1,0 +1,22 @@
+{
+  "name": "HeiHei",
+  "symbol": "HeiHei",
+  "decimals": 18,
+  "description": "HeiHei is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HeiHei",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HeiHei",
+  "addresses": {
+    "8453": "0x31a23e8b6d6a4772a0a8a2f067d8eecf878c5e85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HeiHei",
+    "sanitizedSymbol": "HEIHEI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223335",
+    "lockerAddress": "0xc0474F46ABA54b350a4CfC5eDdd421BaB122676e"
+  },
+  "clankerInfo": null
+}

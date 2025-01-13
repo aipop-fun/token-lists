@@ -1,0 +1,22 @@
+{
+  "name": "Baby Dogs",
+  "symbol": "Baby Dogs",
+  "decimals": 18,
+  "description": "Baby Dogs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Dogs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Dogs",
+  "addresses": {
+    "8453": "0x079d3f3e4aebe344da3bfcd0115f0c8f6eebd873"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Dogs",
+    "sanitizedSymbol": "BABY_DOGS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1310483",
+    "lockerAddress": "0x62ADBE633931B217966E3576D488B16c66004BF2"
+  },
+  "clankerInfo": null
+}

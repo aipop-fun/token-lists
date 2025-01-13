@@ -1,0 +1,22 @@
+{
+  "name": "tanker",
+  "symbol": "tanker",
+  "decimals": 18,
+  "description": "tanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tanker",
+  "addresses": {
+    "8453": "0x338f55d7e362b2896316d84fc20cb6dc2868997e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tanker",
+    "sanitizedSymbol": "TANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119531",
+    "lockerAddress": "0xE0fae14f3FD3E2d1b9EdA817f308E128120FB3E6"
+  },
+  "clankerInfo": null
+}

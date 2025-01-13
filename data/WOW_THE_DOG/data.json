@@ -1,0 +1,22 @@
+{
+  "name": "Wow The Dog",
+  "symbol": "Wow The Dog",
+  "decimals": 18,
+  "description": "Wow The Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wow%20The%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wow The Dog",
+  "addresses": {
+    "8453": "0x0e6554d3ba6fa3e8561e908389623f877b585414"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wow The Dog",
+    "sanitizedSymbol": "WOW_THE_DOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1136220",
+    "lockerAddress": "0xd8CB3d91450519CC6B380A6bC0F3FC93A5b1f9E3"
+  },
+  "clankerInfo": null
+}

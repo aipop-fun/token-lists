@@ -1,0 +1,22 @@
+{
+  "name": "ETHBeta",
+  "symbol": "ETHBeta",
+  "decimals": 18,
+  "description": "ETHBeta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETHBeta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETHBeta",
+  "addresses": {
+    "8453": "0x100ecd8a1faa0190591f4f58106a76ef3eaeb581"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETHBeta",
+    "sanitizedSymbol": "ETHBETA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8D3532184dFd7bcae33371f8197b9237E93E65E9",
+    "lpNftId": "1326214",
+    "lockerAddress": "0x76bE390FF3790CE3D78519E0CC5580A974cC5F95"
+  },
+  "clankerInfo": null
+}

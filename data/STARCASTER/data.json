@@ -1,0 +1,22 @@
+{
+  "name": "Starcaster",
+  "symbol": "Starcaster",
+  "decimals": 18,
+  "description": "Starcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Starcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Starcaster",
+  "addresses": {
+    "8453": "0x3fedb3655ff72af0ede931863f6ef5246eb46cc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Starcaster",
+    "sanitizedSymbol": "STARCASTER",
+    "created_at": "2024-12-11T07:07:53.651853",
+    "deployer": "0x4e7a5f0e913993125E6e23be2B27266A863D5Ee5",
+    "lpNftId": "1414016",
+    "lockerAddress": "0x5016A1344a554DDc75c1ad08448d02722A214ebd"
+  },
+  "clankerInfo": null
+}

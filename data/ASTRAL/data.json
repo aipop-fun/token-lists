@@ -1,0 +1,22 @@
+{
+  "name": "ASTRAL",
+  "symbol": "ASTRAL",
+  "decimals": 18,
+  "description": "ASTRAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ASTRAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ASTRAL",
+  "addresses": {
+    "8453": "0x416b0a36c8a3e5fd9d3ed47fcf88e8e5281b3f29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ASTRAL",
+    "sanitizedSymbol": "ASTRAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa74FaeBC8cdCA953E2bebF2F6E86927162ACfD13",
+    "lpNftId": "1297277",
+    "lockerAddress": "0x3171fF7a2B84Bd23052d0CF237c7a0F963030970"
+  },
+  "clankerInfo": null
+}

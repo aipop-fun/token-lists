@@ -1,0 +1,22 @@
+{
+  "name": "Cosmic Singularity",
+  "symbol": "Cosmic Singularity",
+  "decimals": 18,
+  "description": "Cosmic Singularity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cosmic%20Singularity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cosmic Singularity",
+  "addresses": {
+    "8453": "0x3dec290f1f55370bb7bed41764d8c60b0873cd12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cosmic Singularity",
+    "sanitizedSymbol": "COSMIC_SINGULARITY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3a882e269Cf83aC50FDdD24C0BCA8Cd241E42f4C",
+    "lpNftId": "1267195",
+    "lockerAddress": "0x59736C6847125d00baeB41F4Aac464E28DC6fb58"
+  },
+  "clankerInfo": null
+}

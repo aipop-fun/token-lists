@@ -1,0 +1,22 @@
+{
+  "name": "ALFA FRIENDS",
+  "symbol": "ALFA FRIENDS",
+  "decimals": 18,
+  "description": "ALFA FRIENDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALFA%20FRIENDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALFA FRIENDS",
+  "addresses": {
+    "8453": "0x313ecd0b7e78c1070c0f7e200bb5af8dd29c29bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALFA FRIENDS",
+    "sanitizedSymbol": "ALFA_FRIENDS",
+    "created_at": "2024-12-12T18:24:48.607162",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1440729",
+    "lockerAddress": "0xBbBd23Aa0125FCA4Cb1b73B05c5da1eaB44Bdc33"
+  },
+  "clankerInfo": null
+}

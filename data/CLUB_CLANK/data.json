@@ -1,0 +1,22 @@
+{
+  "name": "Club Clank",
+  "symbol": "Club Clank",
+  "decimals": 18,
+  "description": "Club Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Club%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Club Clank",
+  "addresses": {
+    "8453": "0x3008abb540cba1da2a641983407715d54c9f87e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Club Clank",
+    "sanitizedSymbol": "CLUB_CLANK",
+    "created_at": "2024-12-10T04:04:29.161409",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1396047",
+    "lockerAddress": "0xa960819296A527946b22F9a41682Ba521A25F564"
+  },
+  "clankerInfo": null
+}

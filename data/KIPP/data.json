@@ -1,0 +1,22 @@
+{
+  "name": "KIPP",
+  "symbol": "KIPP",
+  "decimals": 18,
+  "description": "KIPP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KIPP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KIPP",
+  "addresses": {
+    "8453": "0x04b224e2d86eafce5c963b6497867d064f910d9a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KIPP",
+    "sanitizedSymbol": "KIPP",
+    "created_at": "2024-12-10T03:47:46.956789",
+    "deployer": "0xCF2D8AD5B5e729717d27Dc89f03283CFEc260eA3",
+    "lpNftId": "1395862",
+    "lockerAddress": "0xE7E89B79E619bA3D186C21c7a3d8BD0046ec0ddc"
+  },
+  "clankerInfo": null
+}

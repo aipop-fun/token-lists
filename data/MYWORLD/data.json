@@ -1,0 +1,22 @@
+{
+  "name": "myworld",
+  "symbol": "myworld",
+  "decimals": 18,
+  "description": "myworld is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=myworld",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "myworld",
+  "addresses": {
+    "8453": "0x1bf83203d480a1d58fc40a3901025452e5fe6bf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "myworld",
+    "sanitizedSymbol": "MYWORLD",
+    "created_at": "2024-12-11T01:47:01.224107",
+    "deployer": "0x756743d571c130bcEa0Af63770D91F38cDdbBd41",
+    "lpNftId": "1410039",
+    "lockerAddress": "0x07B4c17217287F947CD3c2046280B1bF2610851B"
+  },
+  "clankerInfo": null
+}

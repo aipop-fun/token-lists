@@ -1,0 +1,22 @@
+{
+  "name": "PumpSea",
+  "symbol": "PumpSea",
+  "decimals": 18,
+  "description": "PumpSea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpSea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpSea",
+  "addresses": {
+    "8453": "0x00bbf33ab549c7b1e84406bdbc60f195b7964079"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpSea",
+    "sanitizedSymbol": "PUMPSEA",
+    "created_at": "2024-12-12T09:09:20.646436",
+    "deployer": "0x224ae25F9BB2cB9D9F503A5FBfc010d483269a0A",
+    "lpNftId": "1430701",
+    "lockerAddress": "0x8eEd4dDCA694ad14A2016014ffA9c4A42c9f0649"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Flying Dog",
+  "symbol": "Flying Dog",
+  "decimals": 18,
+  "description": "Flying Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flying%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flying Dog",
+  "addresses": {
+    "8453": "0x13dc42c4c236d5ad5432af18e80608485c113b03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flying Dog",
+    "sanitizedSymbol": "FLYING_DOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb3911B480D9455F4B168B52b2Ad204774fCDB38E",
+    "lpNftId": "1318619",
+    "lockerAddress": "0xfde2659674b463C369A0bd27A7B4CD6c9279c2C8"
+  },
+  "clankerInfo": null
+}

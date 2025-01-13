@@ -1,0 +1,22 @@
+{
+  "name": "Baby Quant",
+  "symbol": "Baby Quant",
+  "decimals": 18,
+  "description": "Baby Quant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Quant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Quant",
+  "addresses": {
+    "8453": "0x2bd59e126510b6a81259c89ae8b22ce657f57408"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Quant",
+    "sanitizedSymbol": "BABY_QUANT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204392",
+    "lockerAddress": "0x7c591903a15265b55E671eC45737850d0cF5be94"
+  },
+  "clankerInfo": null
+}

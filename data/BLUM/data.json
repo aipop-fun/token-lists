@@ -1,0 +1,22 @@
+{
+  "name": "BLUM",
+  "symbol": "BLUM",
+  "decimals": 18,
+  "description": "BLUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUM",
+  "addresses": {
+    "8453": "0x2d3078a20c0c8ed0dfa656c6b87966f027e4a15b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUM",
+    "sanitizedSymbol": "BLUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0D4F1241c6854e6f9D99d404807001cd1cc5D0AA",
+    "lpNftId": "1312861",
+    "lockerAddress": "0x797B70af5a6FE6b1852636e0bBC986e81a731361"
+  },
+  "clankerInfo": null
+}

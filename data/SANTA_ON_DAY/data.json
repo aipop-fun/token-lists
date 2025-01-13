@@ -1,0 +1,22 @@
+{
+  "name": "Santa On Day",
+  "symbol": "Santa On Day",
+  "decimals": 18,
+  "description": "Santa On Day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20On%20Day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa On Day",
+  "addresses": {
+    "8453": "0x01108ade79b1311fa963d80c695663c981aafbcc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa On Day",
+    "sanitizedSymbol": "SANTA_ON_DAY",
+    "created_at": "2024-12-10T07:18:13.007228",
+    "deployer": "0x4e0EA281a5782A3BA15e92194b2f179305764723",
+    "lpNftId": "1397790",
+    "lockerAddress": "0xe452b18E4e2124A4725e00B459105973aE535D94"
+  },
+  "clankerInfo": null
+}

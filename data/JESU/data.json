@@ -1,0 +1,22 @@
+{
+  "name": "JESU$",
+  "symbol": "JESU$",
+  "decimals": 18,
+  "description": "JESU$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JESU%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JESU$",
+  "addresses": {
+    "8453": "0x18d5ea3591aaa476222dabca00de4025c215e2f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JESU$",
+    "sanitizedSymbol": "JESU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAf090D3e78530B3C9A4ed035BBe09978b560d7ee",
+    "lpNftId": "1339278",
+    "lockerAddress": "0x376d8654F8620166D168f524706d31f5048a16C1"
+  },
+  "clankerInfo": null
+}

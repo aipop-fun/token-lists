@@ -1,0 +1,22 @@
+{
+  "name": "FromZeroToHero",
+  "symbol": "FromZeroToHero",
+  "decimals": 18,
+  "description": "FromZeroToHero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FromZeroToHero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FromZeroToHero",
+  "addresses": {
+    "8453": "0x41d325b20ad8773a92e0fd9a0291a87865748f6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FromZeroToHero",
+    "sanitizedSymbol": "FROMZEROTOHERO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234847",
+    "lockerAddress": "0x877E1F3E3dd548eC3Dd9eBCA8b16a330B80a3d6c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Eternal Ai",
+  "symbol": "Eternal Ai",
+  "decimals": 18,
+  "description": "Eternal Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eternal%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eternal Ai",
+  "addresses": {
+    "8453": "0x3e84378d0a294ca4645bcf3e3f8d7b5b4cfdc01e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eternal Ai",
+    "sanitizedSymbol": "ETERNAL_AI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1330438",
+    "lockerAddress": "0x2d2EE645649BE9Cb273e3Dc624D82e6476052243"
+  },
+  "clankerInfo": null
+}

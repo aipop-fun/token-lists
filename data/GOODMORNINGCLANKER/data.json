@@ -1,0 +1,22 @@
+{
+  "name": "GoodMorningClanker",
+  "symbol": "GoodMorningClanker",
+  "decimals": 18,
+  "description": "GoodMorningClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoodMorningClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoodMorningClanker",
+  "addresses": {
+    "8453": "0x3d530be5cf50ba67a0cc76162ca8adec77a24144"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoodMorningClanker",
+    "sanitizedSymbol": "GOODMORNINGCLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x40c15967C2367f1910cbb80e261d0d5eC31e3430",
+    "lpNftId": "1266779",
+    "lockerAddress": "0x1373c517e26bF086728710275009E48e564670db"
+  },
+  "clankerInfo": null
+}

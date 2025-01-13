@@ -1,0 +1,22 @@
+{
+  "name": "LUCIFER",
+  "symbol": "LUCIFER",
+  "decimals": 18,
+  "description": "LUCIFER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUCIFER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUCIFER",
+  "addresses": {
+    "8453": "0x3cc9c6cd369e8d9b9e426aac58fc733e0283a2bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUCIFER",
+    "sanitizedSymbol": "LUCIFER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x555449D6e2Ec6C72735a8C8341e1E039552407f0",
+    "lpNftId": "1333635",
+    "lockerAddress": "0xd3574004EA135869FFFAd976556DB335b332f256"
+  },
+  "clankerInfo": null
+}

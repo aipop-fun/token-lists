@@ -1,0 +1,22 @@
+{
+  "name": "SayYes",
+  "symbol": "SayYes",
+  "decimals": 18,
+  "description": "SayYes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SayYes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SayYes",
+  "addresses": {
+    "8453": "0x3898255a1fd1c04a3e6704577bc7c0e55ad1c516"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SayYes",
+    "sanitizedSymbol": "SAYYES",
+    "created_at": "2024-12-10T22:17:42.207872",
+    "deployer": "0x7948bc7502dDC2b05125FCC4bc9d76D042BcC419",
+    "lpNftId": "1407900",
+    "lockerAddress": "0x4f5fd91832aa5a6f89A7E9cbC6Bd3D01cD525052"
+  },
+  "clankerInfo": null
+}

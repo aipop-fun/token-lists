@@ -1,0 +1,22 @@
+{
+  "name": "IND",
+  "symbol": "IND",
+  "decimals": 18,
+  "description": "IND is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IND",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IND",
+  "addresses": {
+    "8453": "0x2ab36e92e06fe64344b2399c82c285d2f16805ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IND",
+    "sanitizedSymbol": "IND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1372902",
+    "lockerAddress": "0xBfd7e09379F54e98F4253eF6AF89bD4E19Def5dC"
+  },
+  "clankerInfo": null
+}

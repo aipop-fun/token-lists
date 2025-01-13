@@ -1,0 +1,22 @@
+{
+  "name": "SANTARIO",
+  "symbol": "SANTARIO",
+  "decimals": 18,
+  "description": "SANTARIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTARIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTARIO",
+  "addresses": {
+    "8453": "0x2ba00c60d5d0c53e08eb46f81788113ea52a0bef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTARIO",
+    "sanitizedSymbol": "SANTARIO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229559",
+    "lockerAddress": "0xb53844AFA3AEecb5919539f60BcB1Ac0571bDdD0"
+  },
+  "clankerInfo": null
+}

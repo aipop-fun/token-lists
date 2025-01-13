@@ -1,0 +1,22 @@
+{
+  "name": "wibufamily",
+  "symbol": "wibufamily",
+  "decimals": 18,
+  "description": "wibufamily is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wibufamily",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wibufamily",
+  "addresses": {
+    "8453": "0x07c93fb3121a7e21f3e42e2f41ac00da9ac44f98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wibufamily",
+    "sanitizedSymbol": "WIBUFAMILY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135464",
+    "lockerAddress": "0xE73505ebcB2d4Af295b0D3F4D48BdE8f6754aa43"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Phoenix Blue",
+  "symbol": "Phoenix Blue",
+  "decimals": 18,
+  "description": "Phoenix Blue is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phoenix%20Blue",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phoenix Blue",
+  "addresses": {
+    "8453": "0x1d5c26f0d5231bf4ddb7f9d0c3e718591be08075"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phoenix Blue",
+    "sanitizedSymbol": "PHOENIX_BLUE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229683",
+    "lockerAddress": "0x940d13248A178Bc85C864c2fCc89778eA2Ebb7cC"
+  },
+  "clankerInfo": null
+}

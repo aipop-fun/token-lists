@@ -1,0 +1,22 @@
+{
+  "name": "Stupidmonkey",
+  "symbol": "Stupidmonkey",
+  "decimals": 18,
+  "description": "Stupidmonkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stupidmonkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stupidmonkey",
+  "addresses": {
+    "8453": "0x3dd57d8ba40d91d9f8a808e8a2d470fba651a45e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stupidmonkey",
+    "sanitizedSymbol": "STUPIDMONKEY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0d36f3b293144d18667823635342e151468Fe6F1",
+    "lpNftId": "1320953",
+    "lockerAddress": "0x1d9682722121b0E566F6197746ef2217686A3477"
+  },
+  "clankerInfo": null
+}

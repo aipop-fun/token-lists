@@ -1,0 +1,22 @@
+{
+  "name": "uber bobr",
+  "symbol": "uber bobr",
+  "decimals": 18,
+  "description": "uber bobr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=uber%20bobr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "uber bobr",
+  "addresses": {
+    "8453": "0x2447560fb9c0e1e3797dbc0a7a531a8058110a7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "uber bobr",
+    "sanitizedSymbol": "UBER_BOBR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1289044",
+    "lockerAddress": "0x35Efec99B7c6914b247E6b9dFaCf9379d42F5a25"
+  },
+  "clankerInfo": null
+}

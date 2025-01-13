@@ -1,0 +1,22 @@
+{
+  "name": "CLANK SUNDAY",
+  "symbol": "CLANK SUNDAY",
+  "decimals": 18,
+  "description": "CLANK SUNDAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANK%20SUNDAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANK SUNDAY",
+  "addresses": {
+    "8453": "0x3c4eb446c0d75f25b74b33031a5a61550edd1ee4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANK SUNDAY",
+    "sanitizedSymbol": "CLANK_SUNDAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x675D882d6CDcDd8b2eAEA95F21Fbfc6916aF89f8",
+    "lpNftId": "1370183",
+    "lockerAddress": "0x43FE5c48D3A55FA6c6D69383789497D90E989d44"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RUG-DOTFUN",
+  "symbol": "RUG-DOTFUN",
+  "decimals": 18,
+  "description": "RUG-DOTFUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUG-DOTFUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUG-DOTFUN",
+  "addresses": {
+    "8453": "0x1b98913a41a7037883201fa14709118b4ac03cf1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUG-DOTFUN",
+    "sanitizedSymbol": "RUG_DOTFUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB4B1bB74eB40B56bd18325cf5C028C69faDd7Fac",
+    "lpNftId": "1365650",
+    "lockerAddress": "0xfe3e06c9e9d0bFed14F573Dcd9A44911A01ddE56"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERWUKONG",
+  "symbol": "CLANKERWUKONG",
+  "decimals": 18,
+  "description": "CLANKERWUKONG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERWUKONG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERWUKONG",
+  "addresses": {
+    "8453": "0x296ae2c165828ae87481dfdce3289304689e162b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERWUKONG",
+    "sanitizedSymbol": "CLANKERWUKONG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBf5288Ca06D08B19885B107d51b81462f3AF4D84",
+    "lpNftId": "1321230",
+    "lockerAddress": "0x3A2Ee5C70c87a16Fe42C813600f290Fe34e72456"
+  },
+  "clankerInfo": null
+}

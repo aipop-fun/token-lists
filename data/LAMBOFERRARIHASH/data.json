@@ -1,0 +1,22 @@
+{
+  "name": "LamboFerrariHash",
+  "symbol": "LamboFerrariHash",
+  "decimals": 18,
+  "description": "LamboFerrariHash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LamboFerrariHash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LamboFerrariHash",
+  "addresses": {
+    "8453": "0x0a27bbf1d9bae47a0029256a97eb9c9cf0c87b95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LamboFerrariHash",
+    "sanitizedSymbol": "LAMBOFERRARIHASH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf1c5465dB36f756472948E29D25383C78ca299B7",
+    "lpNftId": "1330970",
+    "lockerAddress": "0x2802dBC2adc3a93A4ab1104a86aae2Ca45ac33EC"
+  },
+  "clankerInfo": null
+}

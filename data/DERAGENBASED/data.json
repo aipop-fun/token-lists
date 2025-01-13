@@ -1,0 +1,22 @@
+{
+  "name": "DERAGENBASED",
+  "symbol": "DERAGENBASED",
+  "decimals": 18,
+  "description": "DERAGENBASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DERAGENBASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DERAGENBASED",
+  "addresses": {
+    "8453": "0x221a464da3661eff4232ec78c3b80b8587b88d9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DERAGENBASED",
+    "sanitizedSymbol": "DERAGENBASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x69FaDAa5a16D93003724F1fA8ccd1e9e74De414D",
+    "lpNftId": "1308612",
+    "lockerAddress": "0xcb9Fa8d5c5B3A046Eca44153d93801454A3ab8c6"
+  },
+  "clankerInfo": null
+}

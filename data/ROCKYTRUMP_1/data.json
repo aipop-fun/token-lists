@@ -1,0 +1,22 @@
+{
+  "name": "Rockytrump",
+  "symbol": "Rockytrump",
+  "decimals": 18,
+  "description": "Rockytrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rockytrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rockytrump",
+  "addresses": {
+    "8453": "0x26455bf7cbfce8a79b43cb148c4c5398c88bf0fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rockytrump",
+    "sanitizedSymbol": "ROCKYTRUMP_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158760",
+    "lockerAddress": "0x2b4c58b39413aAA317f535D71887C461F3ddE36e"
+  },
+  "clankerInfo": null
+}

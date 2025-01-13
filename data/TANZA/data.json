@@ -1,0 +1,22 @@
+{
+  "name": "TANZA",
+  "symbol": "TANZA",
+  "decimals": 18,
+  "description": "TANZA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TANZA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TANZA",
+  "addresses": {
+    "8453": "0x06de79dd6a0f5d520b3097cae9d8fd8d723637b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TANZA",
+    "sanitizedSymbol": "TANZA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA65478a126E420585f9e24AdEB45f94ebf26cC56",
+    "lpNftId": "1266530",
+    "lockerAddress": "0xc5F75cD58158DA68781b8Dc86Bf352D4d41916E7"
+  },
+  "clankerInfo": null
+}

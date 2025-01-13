@@ -1,0 +1,22 @@
+{
+  "name": "Just a chill",
+  "symbol": "Just a chill",
+  "decimals": 18,
+  "description": "Just a chill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20chill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a chill",
+  "addresses": {
+    "8453": "0x074b17eb406a8b47b5fc7ed80cd13533e480336f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a chill",
+    "sanitizedSymbol": "JUST_A_CHILL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xBbB083bF9E0A9a82798Cd1416f96c89129722972",
+    "lpNftId": "1232056",
+    "lockerAddress": "0x1732A5C76d691649e8A7d8474aCc69F52453B8ad"
+  },
+  "clankerInfo": null
+}

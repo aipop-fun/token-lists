@@ -1,0 +1,22 @@
+{
+  "name": "LamaDrama",
+  "symbol": "LamaDrama",
+  "decimals": 18,
+  "description": "LamaDrama is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LamaDrama",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LamaDrama",
+  "addresses": {
+    "8453": "0x284e0756d70ef6636a3c4389dc5d0222ab542053"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LamaDrama",
+    "sanitizedSymbol": "LAMADRAMA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x92bA98347C909e1F599E3B6d254f6aeee5FA2b15",
+    "lpNftId": "1365172",
+    "lockerAddress": "0x2f96e1a888e7971023f121bF2d0e3681A1058696"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Coffee",
+  "symbol": "Coffee",
+  "decimals": 18,
+  "description": "Coffee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coffee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coffee",
+  "addresses": {
+    "8453": "0x2846ede9c92e76eb95da6c40d960e547ac358d09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coffee",
+    "sanitizedSymbol": "COFFEE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1285131",
+    "lockerAddress": "0xF1bdf5E857874E15b1Cf1BaaF91701b52a17681C"
+  },
+  "clankerInfo": null
+}

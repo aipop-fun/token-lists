@@ -1,0 +1,22 @@
+{
+  "name": "TINKY WINKY",
+  "symbol": "TINKY WINKY",
+  "decimals": 18,
+  "description": "TINKY WINKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TINKY%20WINKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TINKY WINKY",
+  "addresses": {
+    "8453": "0x303d7cb7db5a85dfa6b929e199e800a583a5f747"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TINKY WINKY",
+    "sanitizedSymbol": "TINKY_WINKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x44f6498D1403321890F3f2917E00F22dBDE3577a",
+    "lpNftId": "1228269",
+    "lockerAddress": "0x699Effa3cdb713d664786FaA4d1DE8E9C1fB35DF"
+  },
+  "clankerInfo": null
+}

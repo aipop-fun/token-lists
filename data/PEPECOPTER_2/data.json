@@ -1,0 +1,22 @@
+{
+  "name": "PepeCopter",
+  "symbol": "PepeCopter",
+  "decimals": 18,
+  "description": "PepeCopter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PepeCopter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PepeCopter",
+  "addresses": {
+    "8453": "0x23cef49fd75768da90b96acd6f8fa792a3edb46d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PepeCopter",
+    "sanitizedSymbol": "PEPECOPTER_2",
+    "created_at": "2024-12-12T10:03:23.804468",
+    "deployer": "0x2425a22bb273949467aEEF8aBF8c3E24C4Ef1c61",
+    "lpNftId": "1432106",
+    "lockerAddress": "0xaee71A0544Bb0E13D7139371666Bc2EFF45b80f1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FEAR",
+  "symbol": "FEAR",
+  "decimals": 18,
+  "description": "FEAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FEAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FEAR",
+  "addresses": {
+    "8453": "0x15bf6cd5a64d000fe8fd95e6364af1beb74b1692"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FEAR",
+    "sanitizedSymbol": "FEAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x01A29134723ef72a968838cb1DF498BC4f910bEc",
+    "lpNftId": "1284332",
+    "lockerAddress": "0x2221276422C3286320ef11dB5c0930d62e730270"
+  },
+  "clankerInfo": null
+}

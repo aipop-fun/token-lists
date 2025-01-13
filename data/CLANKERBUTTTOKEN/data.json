@@ -1,0 +1,22 @@
+{
+  "name": "ClankerButtToken",
+  "symbol": "ClankerButtToken",
+  "decimals": 18,
+  "description": "ClankerButtToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerButtToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerButtToken",
+  "addresses": {
+    "8453": "0x0c7a36ce4fab5f1574c2c812b1d788c07de8516d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerButtToken",
+    "sanitizedSymbol": "CLANKERBUTTTOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x3272e78b04e9E6552261A411f982d10484Dc9f0f",
+    "lpNftId": "1250639",
+    "lockerAddress": "0xD9E81bF86e1C47d51A903bd91dA82675FA30ce7c"
+  },
+  "clankerInfo": null
+}

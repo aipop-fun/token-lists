@@ -1,0 +1,22 @@
+{
+  "name": "CryptoDickbutts",
+  "symbol": "CryptoDickbutts",
+  "decimals": 18,
+  "description": "CryptoDickbutts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoDickbutts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoDickbutts",
+  "addresses": {
+    "8453": "0x292d1687357dda80a4b168afc312e16f07e5d80f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoDickbutts",
+    "sanitizedSymbol": "CRYPTODICKBUTTS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213437",
+    "lockerAddress": "0xC20F284F7247e9D0ecb556ff176B3935aEbBF93D"
+  },
+  "clankerInfo": null
+}

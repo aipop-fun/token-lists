@@ -1,0 +1,22 @@
+{
+  "name": "Kenji",
+  "symbol": "Kenji",
+  "decimals": 18,
+  "description": "Kenji is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kenji",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kenji",
+  "addresses": {
+    "8453": "0x2ac6b887c7dfc7906915fa9e833a7fd1457e5b6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kenji",
+    "sanitizedSymbol": "KENJI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x39288b2fDE888720BE5C3bd2E59Ab865e62E3B96",
+    "lpNftId": "1252142",
+    "lockerAddress": "0x6174BF74a9146a25Db7E9aF8CE648CBf370bD9Cd"
+  },
+  "clankerInfo": null
+}

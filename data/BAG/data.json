@@ -1,0 +1,22 @@
+{
+  "name": "bag",
+  "symbol": "bag",
+  "decimals": 18,
+  "description": "bag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bag",
+  "addresses": {
+    "8453": "0x40c20e14114d75334cef892e344e245196b38c62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bag",
+    "sanitizedSymbol": "BAG",
+    "created_at": "2024-12-11T01:48:09.115967",
+    "deployer": "0x1f35E74d2bB0A43fE79cA376eaD63dA7c926e455",
+    "lpNftId": "1410044",
+    "lockerAddress": "0x3e817FBE2Ee444FEB86aE74E30D71f42d8E35E98"
+  },
+  "clankerInfo": null
+}

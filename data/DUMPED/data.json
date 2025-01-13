@@ -1,0 +1,22 @@
+{
+  "name": "DUMPED",
+  "symbol": "DUMPED",
+  "decimals": 18,
+  "description": "DUMPED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUMPED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUMPED",
+  "addresses": {
+    "8453": "0x145f6983c0592f2042b45a76f9e4cf4030a7b62e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUMPED",
+    "sanitizedSymbol": "DUMPED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206493",
+    "lockerAddress": "0x6798956f07f8411305573627C65Ddbc22Cb735D3"
+  },
+  "clankerInfo": null
+}

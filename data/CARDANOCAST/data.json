@@ -1,0 +1,22 @@
+{
+  "name": "Cardanocast",
+  "symbol": "Cardanocast",
+  "decimals": 18,
+  "description": "Cardanocast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cardanocast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cardanocast",
+  "addresses": {
+    "8453": "0x27265b6ad5904236a691184d4fc2861d90f9774b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cardanocast",
+    "sanitizedSymbol": "CARDANOCAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBdca844aD4ec4AEfB7CA5b167194E227A208Db8B",
+    "lpNftId": "1286228",
+    "lockerAddress": "0x8e82c43f8a8F9983c27038Fb47E60b2Ca0149A35"
+  },
+  "clankerInfo": null
+}

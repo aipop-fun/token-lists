@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERUPONLY",
+  "symbol": "CLANKERUPONLY",
+  "decimals": 18,
+  "description": "CLANKERUPONLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERUPONLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERUPONLY",
+  "addresses": {
+    "8453": "0x01f4a25266ca4b265c2e26a31708feb45ab66ce9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERUPONLY",
+    "sanitizedSymbol": "CLANKERUPONLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237372",
+    "lockerAddress": "0xa5D7442aE1abf6D602f8583Cef9549421a4E1241"
+  },
+  "clankerInfo": null
+}

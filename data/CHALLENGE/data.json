@@ -1,0 +1,22 @@
+{
+  "name": "challenge",
+  "symbol": "challenge",
+  "decimals": 18,
+  "description": "challenge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=challenge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "challenge",
+  "addresses": {
+    "8453": "0x164a17feb1b74157968e7a85bed3bdffa4ddd978"
+  },
+  "tokenInfo": {
+    "originalSymbol": "challenge",
+    "sanitizedSymbol": "CHALLENGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1288760",
+    "lockerAddress": "0xc7d41f02e0A43fab44De2eBf801bBab4C61f8afF"
+  },
+  "clankerInfo": null
+}

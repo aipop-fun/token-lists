@@ -1,0 +1,22 @@
+{
+  "name": "X-Ribbit Token",
+  "symbol": "X-Ribbit Token",
+  "decimals": 18,
+  "description": "X-Ribbit Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X-Ribbit%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X-Ribbit Token",
+  "addresses": {
+    "8453": "0x0150ba28a9f0633e0e24557eee0904ccb233b501"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X-Ribbit Token",
+    "sanitizedSymbol": "X_RIBBIT_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x033Be5EFb9d405Ca6E5f042f13a01a7d34A9FD74",
+    "lpNftId": "1288440",
+    "lockerAddress": "0x19c39A040783c03c1283208b350E7fb2A9550d4a"
+  },
+  "clankerInfo": null
+}

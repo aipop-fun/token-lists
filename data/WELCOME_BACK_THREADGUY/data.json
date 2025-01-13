@@ -1,0 +1,22 @@
+{
+  "name": "Welcome Back ThreadGuy",
+  "symbol": "Welcome Back ThreadGuy",
+  "decimals": 18,
+  "description": "Welcome Back ThreadGuy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Welcome%20Back%20ThreadGuy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Welcome Back ThreadGuy",
+  "addresses": {
+    "8453": "0x3d91a04e180106ebd2536db52ae2808e5f5f6305"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Welcome Back ThreadGuy",
+    "sanitizedSymbol": "WELCOME_BACK_THREADGUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236036",
+    "lockerAddress": "0xBceD999A0D554F7AeCa829E5435d49766c94a49c"
+  },
+  "clankerInfo": null
+}

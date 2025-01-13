@@ -1,0 +1,22 @@
+{
+  "name": "Mars Streamer",
+  "symbol": "Mars Streamer",
+  "decimals": 18,
+  "description": "Mars Streamer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mars%20Streamer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mars Streamer",
+  "addresses": {
+    "8453": "0x1732289930a17ffb12e968f44f61c4b4802c3370"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mars Streamer",
+    "sanitizedSymbol": "MARS_STREAMER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x12845db333731A8c22578930579Ae6BE33A73199",
+    "lpNftId": "1287616",
+    "lockerAddress": "0x1Ca91C9251fA698dD015eFbC78729C2f41ce847D"
+  },
+  "clankerInfo": null
+}

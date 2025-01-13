@@ -1,0 +1,22 @@
+{
+  "name": "Cat Cam",
+  "symbol": "Cat Cam",
+  "decimals": 18,
+  "description": "Cat Cam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Cam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Cam",
+  "addresses": {
+    "8453": "0x0d514e451f2e21cdad57a56d03d3cd713adbe237"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Cam",
+    "sanitizedSymbol": "CAT_CAM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226398",
+    "lockerAddress": "0xd673e7A0Ad2b7Eef40F0FB07612D7561540A41F1"
+  },
+  "clankerInfo": null
+}

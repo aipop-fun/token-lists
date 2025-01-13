@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Degen",
+  "symbol": "Crypto Degen",
+  "decimals": 18,
+  "description": "Crypto Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Degen",
+  "addresses": {
+    "8453": "0x3858ca395effe66596df817c06846f4b2ef1c56a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Degen",
+    "sanitizedSymbol": "CRYPTO_DEGEN",
+    "created_at": "2024-12-11T00:30:05.636627",
+    "deployer": "0x7606328c81514A19f70b3DA1535Fc819906d46Ab",
+    "lpNftId": "1408949",
+    "lockerAddress": "0x8d7a60faE6f44b65F41860C49C15EfB2b2Bfd068"
+  },
+  "clankerInfo": null
+}

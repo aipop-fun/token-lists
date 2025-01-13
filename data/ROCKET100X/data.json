@@ -1,0 +1,22 @@
+{
+  "name": "Rocket100x",
+  "symbol": "Rocket100x",
+  "decimals": 18,
+  "description": "Rocket100x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rocket100x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rocket100x",
+  "addresses": {
+    "8453": "0x25b322773d072ffac56d0a35bb3491e679581baa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rocket100x",
+    "sanitizedSymbol": "ROCKET100X",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6217E13578D8F88f3729C1394293c885C275f0d4",
+    "lpNftId": "1285931",
+    "lockerAddress": "0x82a4b98f0B25c7Cf10091Df0900A690E8012ca17"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ThxtoJeff",
+  "symbol": "ThxtoJeff",
+  "decimals": 18,
+  "description": "ThxtoJeff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ThxtoJeff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ThxtoJeff",
+  "addresses": {
+    "8453": "0x29d729b03d984bc659658f7dbdec17018c251d99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ThxtoJeff",
+    "sanitizedSymbol": "THXTOJEFF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x787b22e4c88b4b35516F4A8464CA3fF57995EB53",
+    "lpNftId": "1285545",
+    "lockerAddress": "0xE8404BE3d8576F66b457452A2e17B8c3AA446231"
+  },
+  "clankerInfo": null
+}

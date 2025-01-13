@@ -1,0 +1,22 @@
+{
+  "name": "GentleCat",
+  "symbol": "GentleCat",
+  "decimals": 18,
+  "description": "GentleCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GentleCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GentleCat",
+  "addresses": {
+    "8453": "0x0660f0e388c89b338ee76361a0827bef28831c78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GentleCat",
+    "sanitizedSymbol": "GENTLECAT",
+    "created_at": "2024-12-11T06:40:56.300184",
+    "deployer": "0xE60173109c946C76aBd4c8201FbFF61377471D10",
+    "lpNftId": "1413944",
+    "lockerAddress": "0x96fE724Ff7EcDc3aCBFE5307f267cff86e020d83"
+  },
+  "clankerInfo": null
+}

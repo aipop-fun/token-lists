@@ -1,0 +1,22 @@
+{
+  "name": "Base Good",
+  "symbol": "Base Good",
+  "decimals": 18,
+  "description": "Base Good is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Good",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Good",
+  "addresses": {
+    "8453": "0x1ef8cac53441418b19238bf159d0e3ac674c80cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Good",
+    "sanitizedSymbol": "BASE_GOOD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153045",
+    "lockerAddress": "0x47e03d1A51C45d31E5A10BB75118d60898236300"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ANKCLANK",
+  "symbol": "ANKCLANK",
+  "decimals": 18,
+  "description": "ANKCLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANKCLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANKCLANK",
+  "addresses": {
+    "8453": "0x2efed19067fb6ceecfee320fb74c0c57b9f19cab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANKCLANK",
+    "sanitizedSymbol": "ANKCLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1307579",
+    "lockerAddress": "0xf4AD9aC8FB0856790AF9301e315b2Ae3e25b23Bb"
+  },
+  "clankerInfo": null
+}

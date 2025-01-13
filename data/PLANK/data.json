@@ -1,0 +1,22 @@
+{
+  "name": "Plank",
+  "symbol": "Plank",
+  "decimals": 18,
+  "description": "Plank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Plank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Plank",
+  "addresses": {
+    "8453": "0x24f8ba839ac172bf615ceea505e5b1ee6b951435"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Plank",
+    "sanitizedSymbol": "PLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaD9f179e3383AD27F64A814b1ea07ff4785D9fE8",
+    "lpNftId": "1283361",
+    "lockerAddress": "0x34450a74c6f1b6b677777FE64C7e80B6De5Cfa22"
+  },
+  "clankerInfo": null
+}

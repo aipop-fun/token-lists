@@ -1,0 +1,22 @@
+{
+  "name": "red pepe",
+  "symbol": "red pepe",
+  "decimals": 18,
+  "description": "red pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=red%20pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "red pepe",
+  "addresses": {
+    "8453": "0x178a574ca3f11eeb78118b90fe492e08606ee7fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "red pepe",
+    "sanitizedSymbol": "RED_PEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1341401",
+    "lockerAddress": "0xBe49e7E101C295F2397368353549C4206023891f"
+  },
+  "clankerInfo": null
+}

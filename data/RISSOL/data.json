@@ -1,0 +1,22 @@
+{
+  "name": "RISSOL",
+  "symbol": "RISSOL",
+  "decimals": 18,
+  "description": "RISSOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RISSOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RISSOL",
+  "addresses": {
+    "8453": "0x28f28ea3e3368b47ba6af4f97fd29af1c8be9417"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RISSOL",
+    "sanitizedSymbol": "RISSOL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160055",
+    "lockerAddress": "0x11041d0489f137ba50325c4F865f21264eB7085c"
+  },
+  "clankerInfo": null
+}

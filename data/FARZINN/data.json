@@ -1,0 +1,22 @@
+{
+  "name": "farzinn",
+  "symbol": "farzinn",
+  "decimals": 18,
+  "description": "farzinn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=farzinn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "farzinn",
+  "addresses": {
+    "8453": "0x24460a0db9e94d5c3e6f79edb0fda108a246f66e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "farzinn",
+    "sanitizedSymbol": "FARZINN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0b0b3fC837fEf1491C9adC07791b15B9F8c1b798",
+    "lpNftId": "1310678",
+    "lockerAddress": "0x652B21c500ed6433bfF2375bfff1b25C08Ed4C59"
+  },
+  "clankerInfo": null
+}

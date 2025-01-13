@@ -1,0 +1,22 @@
+{
+  "name": "Golden Grok",
+  "symbol": "Golden Grok",
+  "decimals": 18,
+  "description": "Golden Grok is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golden%20Grok",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golden Grok",
+  "addresses": {
+    "8453": "0x0ad857392406c848c7ac53403da18e82fb62d623"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golden Grok",
+    "sanitizedSymbol": "GOLDEN_GROK",
+    "created_at": "2024-12-12T00:52:57.751962",
+    "deployer": "0x5950100624DB91ed6e90F35e79F96474501193cA",
+    "lpNftId": "1428264",
+    "lockerAddress": "0xe230E1055bC3A3C6Fa5385109b43b9cAa6abfc4a"
+  },
+  "clankerInfo": null
+}

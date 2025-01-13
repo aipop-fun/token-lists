@@ -1,0 +1,22 @@
+{
+  "name": "Basedimage",
+  "symbol": "Basedimage",
+  "decimals": 18,
+  "description": "Basedimage is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basedimage",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basedimage",
+  "addresses": {
+    "8453": "0x28b5bb29af8b93f257ec3dc55a933fdde62172ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basedimage",
+    "sanitizedSymbol": "BASEDIMAGE",
+    "created_at": "2024-12-09T07:37:48.628291",
+    "deployer": "0xD0916b40Ac01e5a641bc19604f725D24a8211359",
+    "lpNftId": "1384442",
+    "lockerAddress": "0x40eC667Dfcdf5B68EaaF1cEC1D98ED86Dab56c19"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OXYGEN",
+  "symbol": "OXYGEN",
+  "decimals": 18,
+  "description": "OXYGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OXYGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OXYGEN",
+  "addresses": {
+    "8453": "0x11c6293f2df62555a7ed6f70cfd4691ff0788830"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OXYGEN",
+    "sanitizedSymbol": "OXYGEN",
+    "created_at": "2024-12-11T15:56:29.672014",
+    "deployer": "0xEeA497A33809238910083ca127C1D5Fe4EFc05CA",
+    "lpNftId": "1421335",
+    "lockerAddress": "0x3462c2499221FEBc0ab7ABa109aac98E904B2013"
+  },
+  "clankerInfo": null
+}

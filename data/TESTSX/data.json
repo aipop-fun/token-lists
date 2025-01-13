@@ -1,0 +1,22 @@
+{
+  "name": "TESTSX",
+  "symbol": "TESTSX",
+  "decimals": 18,
+  "description": "TESTSX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESTSX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESTSX",
+  "addresses": {
+    "8453": "0x01665e9d608abd710eac21460ed8bbbd7b749d71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESTSX",
+    "sanitizedSymbol": "TESTSX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6510cB12a2B6bb49cDbfbd23E6D40ba521f48f35",
+    "lpNftId": "1207968",
+    "lockerAddress": "0x1BAed2e807673FAC5df9105579B7bbf8059Ae84a"
+  },
+  "clankerInfo": null
+}

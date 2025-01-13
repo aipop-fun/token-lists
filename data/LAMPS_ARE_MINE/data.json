@@ -1,0 +1,22 @@
+{
+  "name": "Lamps are mine",
+  "symbol": "Lamps are mine",
+  "decimals": 18,
+  "description": "Lamps are mine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lamps%20are%20mine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lamps are mine",
+  "addresses": {
+    "8453": "0x384531d042515336d1b2a0b95f7f7441e965ba1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lamps are mine",
+    "sanitizedSymbol": "LAMPS_ARE_MINE",
+    "created_at": "2024-12-11T02:14:59.815539",
+    "deployer": "0x56e0072B934ff08ed36CB42B8148905504EfB9FB",
+    "lpNftId": "1410605",
+    "lockerAddress": "0x6002D547Ae2673C166c0a19B9707ba56BBe2ac44"
+  },
+  "clankerInfo": null
+}

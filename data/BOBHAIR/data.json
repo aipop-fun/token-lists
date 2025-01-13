@@ -1,0 +1,22 @@
+{
+  "name": "BobHair",
+  "symbol": "BobHair",
+  "decimals": 18,
+  "description": "BobHair is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BobHair",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BobHair",
+  "addresses": {
+    "8453": "0x0cdf5a9b5c206483b4b3dccf7f34e56684a83240"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BobHair",
+    "sanitizedSymbol": "BOBHAIR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232066",
+    "lockerAddress": "0xD26BA069eD6a02BcC0002318a18bA386d737b620"
+  },
+  "clankerInfo": null
+}

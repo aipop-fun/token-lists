@@ -1,0 +1,22 @@
+{
+  "name": "YOGA",
+  "symbol": "YOGA",
+  "decimals": 18,
+  "description": "YOGA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOGA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOGA",
+  "addresses": {
+    "8453": "0x0e970eaf51a6b03452935835cc662b860021d37c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOGA",
+    "sanitizedSymbol": "YOGA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230685",
+    "lockerAddress": "0xb1679CcE6060a0a981D8b6D60f0e5EB1f74f66e8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Skunky Coin",
+  "symbol": "Skunky Coin",
+  "decimals": 18,
+  "description": "Skunky Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skunky%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skunky Coin",
+  "addresses": {
+    "8453": "0x0d93846da1b6a47bea4384c5913e999b95419c08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skunky Coin",
+    "sanitizedSymbol": "SKUNKY_COIN",
+    "created_at": "2024-12-12T10:37:54.197034",
+    "deployer": "0x9A7C60d62ac68136443968De6aBA60bc685840D7",
+    "lpNftId": "1432732",
+    "lockerAddress": "0xA5A502211183b845Bd3cD87ff9C3F0d83Db1116A"
+  },
+  "clankerInfo": null
+}

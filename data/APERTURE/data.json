@@ -1,0 +1,22 @@
+{
+  "name": "Aperture",
+  "symbol": "Aperture",
+  "decimals": 18,
+  "description": "Aperture is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aperture",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aperture",
+  "addresses": {
+    "8453": "0x3a19c31f86a29856432eb7b890f97654ea68dd26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aperture",
+    "sanitizedSymbol": "APERTURE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2Fb0e475F6D495DFdfd9176aF9113f48F7687565",
+    "lpNftId": "1323038",
+    "lockerAddress": "0xF07EF053eb283829Bb28c5F9deA7B5836D761f5a"
+  },
+  "clankerInfo": null
+}

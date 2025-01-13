@@ -1,0 +1,22 @@
+{
+  "name": "Out of control",
+  "symbol": "Out of control",
+  "decimals": 18,
+  "description": "Out of control is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Out%20of%20control",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Out of control",
+  "addresses": {
+    "8453": "0x1fbf16b795382a969e119900bc88e21f3cc9afd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Out of control",
+    "sanitizedSymbol": "OUT_OF_CONTROL",
+    "created_at": "2024-12-10T16:34:48.844588",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1404099",
+    "lockerAddress": "0x75311aaD0a026aC4A5FAb8E9eC333DF5E084538C"
+  },
+  "clankerInfo": null
+}

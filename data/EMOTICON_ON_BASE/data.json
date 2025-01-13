@@ -1,0 +1,22 @@
+{
+  "name": "Emoticon On Base",
+  "symbol": "Emoticon On Base",
+  "decimals": 18,
+  "description": "Emoticon On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Emoticon%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Emoticon On Base",
+  "addresses": {
+    "8453": "0x2c0d538b4680e8f1c6da90fdd18fb39689c63f1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Emoticon On Base",
+    "sanitizedSymbol": "EMOTICON_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224870",
+    "lockerAddress": "0xE84eBd52296D1B03f904c0729891271B3632D7a5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RENT",
+  "symbol": "RENT",
+  "decimals": 18,
+  "description": "RENT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RENT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RENT",
+  "addresses": {
+    "8453": "0x2469e4990acb3860fdc16144fe0ef33e33c8c54e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RENT",
+    "sanitizedSymbol": "RENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x281E6843cC18c8d58eE131309F788879F6C18D10",
+    "lpNftId": "1294619",
+    "lockerAddress": "0x351A8d7Cb4884D3c2c6166BE27cd1B7FABd99C04"
+  },
+  "clankerInfo": null
+}

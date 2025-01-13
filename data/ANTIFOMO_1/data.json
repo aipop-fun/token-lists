@@ -1,0 +1,22 @@
+{
+  "name": "Antifomo",
+  "symbol": "Antifomo",
+  "decimals": 18,
+  "description": "Antifomo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Antifomo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Antifomo",
+  "addresses": {
+    "8453": "0x1115f028263fcc0f00102d1caf92348257ebd031"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Antifomo",
+    "sanitizedSymbol": "ANTIFOMO_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x56688a7F8932EFDf7AFaB2a0724a1eEe12147C20",
+    "lpNftId": "1320999",
+    "lockerAddress": "0xC1a28cC3269078a00dd15C23F272701DbAE2C9F8"
+  },
+  "clankerInfo": null
+}

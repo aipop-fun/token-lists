@@ -1,0 +1,22 @@
+{
+  "name": "ClankerBits",
+  "symbol": "ClankerBits",
+  "decimals": 18,
+  "description": "ClankerBits is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerBits",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerBits",
+  "addresses": {
+    "8453": "0x163d573683f3382b22312c631dc6cce374b6b437"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerBits",
+    "sanitizedSymbol": "CLANKERBITS",
+    "created_at": "2024-12-11T00:41:29.305007",
+    "deployer": "0x7606328c81514A19f70b3DA1535Fc819906d46Ab",
+    "lpNftId": "1409017",
+    "lockerAddress": "0x92F278693157d2195c1A66acAE6D52FF792565CD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shakira Coin",
+  "symbol": "Shakira Coin",
+  "decimals": 18,
+  "description": "Shakira Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shakira%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shakira Coin",
+  "addresses": {
+    "8453": "0x03d6b8a4b7070594de7695ae1f4dbe3a725d9aba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shakira Coin",
+    "sanitizedSymbol": "SHAKIRA_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142318",
+    "lockerAddress": "0x9C118d24dc0D23e528C5D69b0142eb05127B6Dd2"
+  },
+  "clankerInfo": null
+}

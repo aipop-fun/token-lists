@@ -1,0 +1,22 @@
+{
+  "name": "AZN SQUAT",
+  "symbol": "AZN SQUAT",
+  "decimals": 18,
+  "description": "AZN SQUAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AZN%20SQUAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AZN SQUAT",
+  "addresses": {
+    "8453": "0x3d41b39d845bcac00c998eb38ba500ab495b7cd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AZN SQUAT",
+    "sanitizedSymbol": "AZN_SQUAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xECAA5f28Aa25cC39A848836B32744673a555b9bA",
+    "lpNftId": "1324202",
+    "lockerAddress": "0x3Cf35EDA3Fa5c05100759763301b4615020FA17a"
+  },
+  "clankerInfo": null
+}

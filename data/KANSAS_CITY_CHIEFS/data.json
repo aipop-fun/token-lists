@@ -1,0 +1,22 @@
+{
+  "name": "Kansas City Chiefs",
+  "symbol": "Kansas City Chiefs",
+  "decimals": 18,
+  "description": "Kansas City Chiefs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kansas%20City%20Chiefs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kansas City Chiefs",
+  "addresses": {
+    "8453": "0x02579acdbc4b2e9248644234b2dae04dff2504f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kansas City Chiefs",
+    "sanitizedSymbol": "KANSAS_CITY_CHIEFS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226101",
+    "lockerAddress": "0x872a3ce218423CF61550955C19563dCea86B1d12"
+  },
+  "clankerInfo": null
+}

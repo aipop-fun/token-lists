@@ -1,0 +1,22 @@
+{
+  "name": "KREX",
+  "symbol": "KREX",
+  "decimals": 18,
+  "description": "KREX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KREX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KREX",
+  "addresses": {
+    "8453": "0x291cb7e8bbc45ffed990a49540eff7a93da15420"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KREX",
+    "sanitizedSymbol": "KREX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3B932d65F279FC4A7fF381571881b54Fa2a66fcA",
+    "lpNftId": "1320659",
+    "lockerAddress": "0xA8dC4AaF86eD0F2A53af39297bB3174b58888a88"
+  },
+  "clankerInfo": null
+}

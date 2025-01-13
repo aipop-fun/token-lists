@@ -1,0 +1,22 @@
+{
+  "name": "BTCMOON",
+  "symbol": "BTCMOON",
+  "decimals": 18,
+  "description": "BTCMOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTCMOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTCMOON",
+  "addresses": {
+    "8453": "0x0620bb1d27ac2a8223c6a6b62e94a73c941f4b79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTCMOON",
+    "sanitizedSymbol": "BTCMOON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1328522",
+    "lockerAddress": "0xA7D0b6D51701f967682D8F741ac374b6a8489535"
+  },
+  "clankerInfo": null
+}

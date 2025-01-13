@@ -1,0 +1,22 @@
+{
+  "name": "Gobble",
+  "symbol": "Gobble",
+  "decimals": 18,
+  "description": "Gobble is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gobble",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gobble",
+  "addresses": {
+    "8453": "0x2a4ff0197fd99ad71358be8709cb3672aec706a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gobble",
+    "sanitizedSymbol": "GOBBLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220819",
+    "lockerAddress": "0x69466F78Ec44FdD451AE2dd3cEa957C9498bA5B5"
+  },
+  "clankerInfo": null
+}

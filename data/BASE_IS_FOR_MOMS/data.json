@@ -1,0 +1,22 @@
+{
+  "name": "Base is for moms",
+  "symbol": "Base is for moms",
+  "decimals": 18,
+  "description": "Base is for moms is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20is%20for%20moms",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base is for moms",
+  "addresses": {
+    "8453": "0x2139f2c5490868a589c248fb2c370b2241d4f06e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base is for moms",
+    "sanitizedSymbol": "BASE_IS_FOR_MOMS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7f70BE4cee161dc5273EaCd5E1dB5Da3D5C60567",
+    "lpNftId": "1324987",
+    "lockerAddress": "0x3e50cfBd0d10b93c9AE88e86f2c0858A528c43e8"
+  },
+  "clankerInfo": null
+}

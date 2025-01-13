@@ -1,0 +1,22 @@
+{
+  "name": "DND Token",
+  "symbol": "DND Token",
+  "decimals": 18,
+  "description": "DND Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DND%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DND Token",
+  "addresses": {
+    "8453": "0x334253197c00f2e492b6d1acc017fd0dac186658"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DND Token",
+    "sanitizedSymbol": "DND_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233054",
+    "lockerAddress": "0x8762CD8FC50D5e8BF1f33A3aa0E094B389b8A6B5"
+  },
+  "clankerInfo": null
+}

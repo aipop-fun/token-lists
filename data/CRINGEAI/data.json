@@ -1,0 +1,22 @@
+{
+  "name": "CringeAi",
+  "symbol": "CringeAi",
+  "decimals": 18,
+  "description": "CringeAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CringeAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CringeAi",
+  "addresses": {
+    "8453": "0x106dd3c246a4b3ccaa63a7332ee3f1fb833af902"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CringeAi",
+    "sanitizedSymbol": "CRINGEAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119892",
+    "lockerAddress": "0xD2A97E38775d210A0Ad5345545943612ba093C17"
+  },
+  "clankerInfo": null
+}

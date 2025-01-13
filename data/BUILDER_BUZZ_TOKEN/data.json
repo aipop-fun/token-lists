@@ -1,0 +1,22 @@
+{
+  "name": "Builder Buzz Token",
+  "symbol": "Builder Buzz Token",
+  "decimals": 18,
+  "description": "Builder Buzz Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Builder%20Buzz%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Builder Buzz Token",
+  "addresses": {
+    "8453": "0x3d8ad7711b041eb170eb99daed82498c50cf575c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Builder Buzz Token",
+    "sanitizedSymbol": "BUILDER_BUZZ_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124974",
+    "lockerAddress": "0xfd9C983ec31a6bfd62016B1A4ADFEF96Fe716722"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VforVendetta",
+  "symbol": "VforVendetta",
+  "decimals": 18,
+  "description": "VforVendetta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VforVendetta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VforVendetta",
+  "addresses": {
+    "8453": "0x18c26af8df2f320724ebc16b8d4eb1da9b02652e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VforVendetta",
+    "sanitizedSymbol": "VFORVENDETTA",
+    "created_at": "2024-12-09T00:08:13.313625",
+    "deployer": "0x728B386DfB3C9a6b6A8ce2d38124Cd1cdF1085BE",
+    "lpNftId": "1376747",
+    "lockerAddress": "0x34E1242845CBA0873b47B65740077e9357Fa5682"
+  },
+  "clankerInfo": null
+}

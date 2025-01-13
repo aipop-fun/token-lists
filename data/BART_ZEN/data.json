@@ -1,0 +1,22 @@
+{
+  "name": "BART ZEN",
+  "symbol": "BART ZEN",
+  "decimals": 18,
+  "description": "BART ZEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BART%20ZEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BART ZEN",
+  "addresses": {
+    "8453": "0x1601d0999926451dbc49e5d73e816b79bfeaba63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BART ZEN",
+    "sanitizedSymbol": "BART_ZEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0F7ED9D175c740675F5D3811933a9FbabDcfEEcB",
+    "lpNftId": "1298717",
+    "lockerAddress": "0xF28cb65E8fB71f7dEE89e93C52A14118259E1987"
+  },
+  "clankerInfo": null
+}

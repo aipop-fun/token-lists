@@ -1,0 +1,22 @@
+{
+  "name": "EtherFar",
+  "symbol": "EtherFar",
+  "decimals": 18,
+  "description": "EtherFar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EtherFar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EtherFar",
+  "addresses": {
+    "8453": "0x0666eb168ead56aaf2254da8d18e48b2584accc1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EtherFar",
+    "sanitizedSymbol": "ETHERFAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212813",
+    "lockerAddress": "0x2BBEB8589EEad2C328f88d18b745F7802a0DBEDa"
+  },
+  "clankerInfo": null
+}

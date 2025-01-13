@@ -1,0 +1,22 @@
+{
+  "name": "BongF Coin",
+  "symbol": "BongF Coin",
+  "decimals": 18,
+  "description": "BongF Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BongF%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BongF Coin",
+  "addresses": {
+    "8453": "0x231453ed064fc44d5a531f9e233e3e2a9e68d544"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BongF Coin",
+    "sanitizedSymbol": "BONGF_COIN",
+    "created_at": "2024-12-10T13:39:29.239346",
+    "deployer": "0x9960b96dd6C7cA465b5bb96c3222373ed390Bf6a",
+    "lpNftId": "1401536",
+    "lockerAddress": "0x29A0Af884a1f0CAD03d62dbdF6aE53DE83164642"
+  },
+  "clankerInfo": null
+}

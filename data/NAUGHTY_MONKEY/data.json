@@ -1,0 +1,22 @@
+{
+  "name": "Naughty Monkey",
+  "symbol": "Naughty Monkey",
+  "decimals": 18,
+  "description": "Naughty Monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Naughty%20Monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Naughty Monkey",
+  "addresses": {
+    "8453": "0x3e11ac702624128db490dcb5c5d70523e7fde0c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Naughty Monkey",
+    "sanitizedSymbol": "NAUGHTY_MONKEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205581",
+    "lockerAddress": "0x1e757B0804CD45316BA1433645fbE5ED0E842d3e"
+  },
+  "clankerInfo": null
+}

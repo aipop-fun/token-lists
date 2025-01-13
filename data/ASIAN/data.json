@@ -1,0 +1,22 @@
+{
+  "name": "Asian",
+  "symbol": "Asian",
+  "decimals": 18,
+  "description": "Asian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Asian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Asian",
+  "addresses": {
+    "8453": "0x07d59cca4f5f1d34bc92f7894fc6006ef738f877"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Asian",
+    "sanitizedSymbol": "ASIAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226935",
+    "lockerAddress": "0x4281111366885e6Ce50B5a4Dd086528Fc76B5b64"
+  },
+  "clankerInfo": null
+}

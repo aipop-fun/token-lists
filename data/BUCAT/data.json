@@ -1,0 +1,22 @@
+{
+  "name": "BUCAT",
+  "symbol": "BUCAT",
+  "decimals": 18,
+  "description": "BUCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUCAT",
+  "addresses": {
+    "8453": "0x2aa43ee091702b96946baa2ea31287f1c01d6c05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUCAT",
+    "sanitizedSymbol": "BUCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1318245",
+    "lockerAddress": "0xE6261395aac27246e2deBd340e9dec805316C738"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bigboy",
+  "symbol": "bigboy",
+  "decimals": 18,
+  "description": "bigboy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bigboy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bigboy",
+  "addresses": {
+    "8453": "0x2108ed46ed748d583aef327597e0c5e878856d81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bigboy",
+    "sanitizedSymbol": "BIGBOY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231185",
+    "lockerAddress": "0x3B20E65C3ED822C326D822824C82Cc8e3fF132B4"
+  },
+  "clankerInfo": null
+}

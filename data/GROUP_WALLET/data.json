@@ -1,0 +1,22 @@
+{
+  "name": "Group Wallet",
+  "symbol": "Group Wallet",
+  "decimals": 18,
+  "description": "Group Wallet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Group%20Wallet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Group Wallet",
+  "addresses": {
+    "8453": "0x351e5c2cbd5fcd1d58adef93f94c06968190222b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Group Wallet",
+    "sanitizedSymbol": "GROUP_WALLET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230857",
+    "lockerAddress": "0xeDDF0422280445B71251A320Af1E1bD0016a66c9"
+  },
+  "clankerInfo": null
+}

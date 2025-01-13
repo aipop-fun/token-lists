@@ -1,0 +1,22 @@
+{
+  "name": "GN",
+  "symbol": "GN",
+  "decimals": 18,
+  "description": "GN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GN",
+  "addresses": {
+    "8453": "0x18985ae8f979b8e7365981f669b4bdfb31700596"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GN",
+    "sanitizedSymbol": "GN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1340764",
+    "lockerAddress": "0xdb3D782de2F321FB7CafC27c3C957a8293636212"
+  },
+  "clankerInfo": null
+}

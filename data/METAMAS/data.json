@@ -1,0 +1,22 @@
+{
+  "name": "metamas",
+  "symbol": "metamas",
+  "decimals": 18,
+  "description": "metamas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=metamas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "metamas",
+  "addresses": {
+    "8453": "0x1715d5e7fcb6bad3819eb3122ba5f8963a1dbd64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "metamas",
+    "sanitizedSymbol": "METAMAS",
+    "created_at": "2024-12-12T05:18:17.210564",
+    "deployer": "0x79eDb125f22C4085A11DAACbb5Eaa8507A3759AE",
+    "lpNftId": "1429352",
+    "lockerAddress": "0xFA8653030213fa8b321Bf2638F679b9eA16391c8"
+  },
+  "clankerInfo": null
+}

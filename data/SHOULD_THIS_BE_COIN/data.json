@@ -1,0 +1,22 @@
+{
+  "name": "should this be coin?",
+  "symbol": "should this be coin?",
+  "decimals": 18,
+  "description": "should this be coin? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=should%20this%20be%20coin%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "should this be coin?",
+  "addresses": {
+    "8453": "0x37639dbcc017e244fba6092ae351f0834268df6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "should this be coin?",
+    "sanitizedSymbol": "SHOULD_THIS_BE_COIN",
+    "created_at": "2024-12-11T02:26:13.26701",
+    "deployer": "0xB152Df6B3646d04A3232821778277049ae21Bb99",
+    "lpNftId": "1410675",
+    "lockerAddress": "0x455bf7D713608Ec0209D142D55a70926d6b5e2C1"
+  },
+  "clankerInfo": null
+}

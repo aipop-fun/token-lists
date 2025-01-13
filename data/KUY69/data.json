@@ -1,0 +1,22 @@
+{
+  "name": "kuy69",
+  "symbol": "kuy69",
+  "decimals": 18,
+  "description": "kuy69 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kuy69",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kuy69",
+  "addresses": {
+    "8453": "0x08f0e8831074b426c44e6b1585f0df862dd6e5cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kuy69",
+    "sanitizedSymbol": "KUY69",
+    "created_at": "2024-12-11T10:10:46.756422",
+    "deployer": "0x9412976973BEa57d61278cf9D5fA8084071179c6",
+    "lpNftId": "1416049",
+    "lockerAddress": "0x7c19986d3dc663d8dfBd92445be27c4dA449b5f8"
+  },
+  "clankerInfo": null
+}

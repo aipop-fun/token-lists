@@ -1,0 +1,22 @@
+{
+  "name": "super dog",
+  "symbol": "super dog",
+  "decimals": 18,
+  "description": "super dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=super%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "super dog",
+  "addresses": {
+    "8453": "0x38c1fe3636872d125e31416cfc3f121a0228528b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "super dog",
+    "sanitizedSymbol": "SUPER_DOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5066E4a067A3e4ad984A962Be83075709863B8ad",
+    "lpNftId": "1309664",
+    "lockerAddress": "0x91e2C00E138a5Ac5FdC7d7C010f9E7EB7F3e3AeF"
+  },
+  "clankerInfo": null
+}

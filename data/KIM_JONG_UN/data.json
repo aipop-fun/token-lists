@@ -1,0 +1,22 @@
+{
+  "name": "Kim Jong-un",
+  "symbol": "Kim Jong-un",
+  "decimals": 18,
+  "description": "Kim Jong-un is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kim%20Jong-un",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kim Jong-un",
+  "addresses": {
+    "8453": "0x13974e337778eed42429b4bbd2de9e8eacd977e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kim Jong-un",
+    "sanitizedSymbol": "KIM_JONG_UN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160231",
+    "lockerAddress": "0x20C91143DEEEf2EAE9bbE06Ef64EacdB11047eba"
+  },
+  "clankerInfo": null
+}

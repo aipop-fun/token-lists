@@ -1,0 +1,22 @@
+{
+  "name": "degen mob",
+  "symbol": "degen mob",
+  "decimals": 18,
+  "description": "degen mob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degen%20mob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degen mob",
+  "addresses": {
+    "8453": "0x185d61223f976ddbc11ea45e691cfa20961c98b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degen mob",
+    "sanitizedSymbol": "DEGEN_MOB",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x63C309A5e162E93D890c7eab32954f5276BBC0B6",
+    "lpNftId": "1269093",
+    "lockerAddress": "0xFc78F23C65a666977398a4DD432079B95f899c83"
+  },
+  "clankerInfo": null
+}

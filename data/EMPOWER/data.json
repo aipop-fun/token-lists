@@ -1,0 +1,22 @@
+{
+  "name": "EMPOWER",
+  "symbol": "EMPOWER",
+  "decimals": 18,
+  "description": "EMPOWER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EMPOWER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EMPOWER",
+  "addresses": {
+    "8453": "0x00f9780ad4c55bf4341ad3c1db50a34f551d9b1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EMPOWER",
+    "sanitizedSymbol": "EMPOWER",
+    "created_at": "2024-12-09T20:33:49.809865",
+    "deployer": "0xBe99589cF9173Ea24ae1E1178dB54Bc6befA6fAA",
+    "lpNftId": "1391768",
+    "lockerAddress": "0x871f6702a9Aff5Df048d05c250d690FCA84362dE"
+  },
+  "clankerInfo": null
+}

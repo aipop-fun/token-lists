@@ -1,0 +1,22 @@
+{
+  "name": "PepeHasbula",
+  "symbol": "PepeHasbula",
+  "decimals": 18,
+  "description": "PepeHasbula is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PepeHasbula",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PepeHasbula",
+  "addresses": {
+    "8453": "0x35ce77a02148db2fe5a4955dc7f228a867eb64e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PepeHasbula",
+    "sanitizedSymbol": "PEPEHASBULA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6D98A1CD0E594B2042A0b7be0Ab98872300A2985",
+    "lpNftId": "1252641",
+    "lockerAddress": "0x145ccf9971811f005b49A29A9Dfb073d81480877"
+  },
+  "clankerInfo": null
+}

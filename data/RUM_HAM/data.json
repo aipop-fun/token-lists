@@ -1,0 +1,22 @@
+{
+  "name": "Rum Ham",
+  "symbol": "Rum Ham",
+  "decimals": 18,
+  "description": "Rum Ham is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rum%20Ham",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rum Ham",
+  "addresses": {
+    "8453": "0x3a7294c96236626d76ca7b400970c9360337ed54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rum Ham",
+    "sanitizedSymbol": "RUM_HAM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229244",
+    "lockerAddress": "0x5Ff94E75866054E473ABAe346d62EfaB9b3BF069"
+  },
+  "clankerInfo": null
+}

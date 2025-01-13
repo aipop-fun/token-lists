@@ -1,0 +1,22 @@
+{
+  "name": "dancing sushi",
+  "symbol": "dancing sushi",
+  "decimals": 18,
+  "description": "dancing sushi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dancing%20sushi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dancing sushi",
+  "addresses": {
+    "8453": "0x2912215fb9560a6eaaad549822d952f219804ca5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dancing sushi",
+    "sanitizedSymbol": "DANCING_SUSHI",
+    "created_at": "2024-12-12T05:08:41.123272",
+    "deployer": "0x8C83b739A72Cdf0E562cFba9089b072683BcAD88",
+    "lpNftId": "1429309",
+    "lockerAddress": "0xB7F7d179e222eDbd67F038E92B00cF8072fEbcBF"
+  },
+  "clankerInfo": null
+}

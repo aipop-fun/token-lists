@@ -1,0 +1,22 @@
+{
+  "name": "HOST",
+  "symbol": "HOST",
+  "decimals": 18,
+  "description": "HOST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOST",
+  "addresses": {
+    "8453": "0x0a7f83397a215105d5f33af72e3b0b039d8be48e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOST",
+    "sanitizedSymbol": "HOST",
+    "created_at": "2024-12-12T10:20:31.70971",
+    "deployer": "0x06AedA6E7aA5a8381b061bACB760236467551E15",
+    "lpNftId": "1432421",
+    "lockerAddress": "0x49bD5204549773CC9aC7203BAf13cD76F5510937"
+  },
+  "clankerInfo": null
+}

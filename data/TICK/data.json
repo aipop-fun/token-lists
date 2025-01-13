@@ -1,0 +1,22 @@
+{
+  "name": "tick",
+  "symbol": "tick",
+  "decimals": 18,
+  "description": "tick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tick",
+  "addresses": {
+    "8453": "0x31554f80a2dd8cdc5157e9ea996df892f8675f23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tick",
+    "sanitizedSymbol": "TICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3FaEB948b3300AaCe019F10989A59BF199D2B40c",
+    "lpNftId": "1285587",
+    "lockerAddress": "0xdfEc06F853faFBDCB5c4F718207C50d8CE973270"
+  },
+  "clankerInfo": null
+}

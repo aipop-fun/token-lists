@@ -1,0 +1,22 @@
+{
+  "name": "Shadow Dan",
+  "symbol": "Shadow Dan",
+  "decimals": 18,
+  "description": "Shadow Dan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shadow%20Dan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shadow Dan",
+  "addresses": {
+    "8453": "0x1ca78ca171e36dd2c80486bce67176f3a73dc63c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shadow Dan",
+    "sanitizedSymbol": "SHADOW_DAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218574",
+    "lockerAddress": "0xe243cC7eCaC3AeEc048Ad39c2d23F81189dDA615"
+  },
+  "clankerInfo": null
+}

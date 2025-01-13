@@ -1,0 +1,22 @@
+{
+  "name": "Boa Hancock",
+  "symbol": "Boa Hancock",
+  "decimals": 18,
+  "description": "Boa Hancock is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boa%20Hancock",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boa Hancock",
+  "addresses": {
+    "8453": "0x2e5610afca5715525ed7bff3ce69d7c38aa52f25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boa Hancock",
+    "sanitizedSymbol": "BOA_HANCOCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6110DFca53554486489E07dFFde2E384AFe99827",
+    "lpNftId": "1323971",
+    "lockerAddress": "0x7Bbfa84d01292F1B06175c0D7F3f795C44F59E6b"
+  },
+  "clankerInfo": null
+}

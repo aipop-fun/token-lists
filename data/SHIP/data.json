@@ -1,0 +1,22 @@
+{
+  "name": "SHIP",
+  "symbol": "SHIP",
+  "decimals": 18,
+  "description": "SHIP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIP",
+  "addresses": {
+    "8453": "0x3996c2cc8e6a46e4dbd2c1fd88e67384778c8727"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIP",
+    "sanitizedSymbol": "SHIP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2d68A5d82D13f2E5Ed0f3404BD8652a4BeAF3ADB",
+    "lpNftId": "1315055",
+    "lockerAddress": "0x4fF938fD2b1724DdFf383E16517Fb89c39C4184F"
+  },
+  "clankerInfo": null
+}

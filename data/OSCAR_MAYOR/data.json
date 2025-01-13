@@ -1,0 +1,22 @@
+{
+  "name": "Oscar Mayor",
+  "symbol": "Oscar Mayor",
+  "decimals": 18,
+  "description": "Oscar Mayor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oscar%20Mayor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oscar Mayor",
+  "addresses": {
+    "8453": "0x102c244cf4bc60281ed5ce987dc4ad7965dcdc46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oscar Mayor",
+    "sanitizedSymbol": "OSCAR_MAYOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229782",
+    "lockerAddress": "0x6dFCd7ED22879178B8dbe7e306adcc6DF6F6f04e"
+  },
+  "clankerInfo": null
+}

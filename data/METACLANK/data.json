@@ -1,0 +1,22 @@
+{
+  "name": "MetaClank",
+  "symbol": "MetaClank",
+  "decimals": 18,
+  "description": "MetaClank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MetaClank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MetaClank",
+  "addresses": {
+    "8453": "0x2a024bf4812453bbee9fb707edaa93d80c7a2ed8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MetaClank",
+    "sanitizedSymbol": "METACLANK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1327570",
+    "lockerAddress": "0xB96727d1885c0F69A15E7Aaf6D2726D24aAf7E75"
+  },
+  "clankerInfo": null
+}

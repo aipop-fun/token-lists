@@ -1,0 +1,22 @@
+{
+  "name": "AICreator",
+  "symbol": "AICreator",
+  "decimals": 18,
+  "description": "AICreator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AICreator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AICreator",
+  "addresses": {
+    "8453": "0x17c09a726f0000d06b9ef7db92ded81d56acc3f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AICreator",
+    "sanitizedSymbol": "AICREATOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124760",
+    "lockerAddress": "0x9F66A06c9bBe84A84aB2c0905A8b47C37a3473de"
+  },
+  "clankerInfo": null
+}

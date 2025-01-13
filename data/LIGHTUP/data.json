@@ -1,0 +1,22 @@
+{
+  "name": "lightup",
+  "symbol": "lightup",
+  "decimals": 18,
+  "description": "lightup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lightup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lightup",
+  "addresses": {
+    "8453": "0x32a05c706b3e205512ab3f568ca1bee7a59bac82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lightup",
+    "sanitizedSymbol": "LIGHTUP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1292322",
+    "lockerAddress": "0xd6422BB608A1F759aa5414BC0dD950CaBb49365c"
+  },
+  "clankerInfo": null
+}

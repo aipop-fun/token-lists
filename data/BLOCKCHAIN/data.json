@@ -1,0 +1,22 @@
+{
+  "name": "Blockchain",
+  "symbol": "Blockchain",
+  "decimals": 18,
+  "description": "Blockchain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blockchain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blockchain",
+  "addresses": {
+    "8453": "0x17db76883112f4a9c485dcd19944c7425a16975e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blockchain",
+    "sanitizedSymbol": "BLOCKCHAIN",
+    "created_at": "2024-12-12T16:58:36.649066",
+    "deployer": "0xCA1D2dBc3Bb2B19895459f8a82642821DD227365",
+    "lpNftId": "1439012",
+    "lockerAddress": "0xCE8173B53c9BE7f5f52BfB141CC4fc7417587252"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fake jordan",
+  "symbol": "fake jordan",
+  "decimals": 18,
+  "description": "fake jordan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fake%20jordan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fake jordan",
+  "addresses": {
+    "8453": "0x2cf0eaff90d347f980826bfb733f1d389aacc711"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fake jordan",
+    "sanitizedSymbol": "FAKE_JORDAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x61e615d2d68eb253Cb0AD811Db1882b7DFf08582",
+    "lpNftId": "1324109",
+    "lockerAddress": "0x770a254a2160CE1c8cB6BD22690749B96659c6eA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pixel Rebels",
+  "symbol": "Pixel Rebels",
+  "decimals": 18,
+  "description": "Pixel Rebels is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pixel%20Rebels",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pixel Rebels",
+  "addresses": {
+    "8453": "0x36baee74ac3d812c3aca0dbcdedc1cc61a7d2495"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pixel Rebels",
+    "sanitizedSymbol": "PIXEL_REBELS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0c1D6E4fA19C102A65D79d3DE0Ac322a1534Fb6B",
+    "lpNftId": "1323300",
+    "lockerAddress": "0x6c19433f0e1F883aF3428257bdFeaa7c9f64e2A2"
+  },
+  "clankerInfo": null
+}

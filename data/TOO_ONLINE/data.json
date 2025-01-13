@@ -1,0 +1,22 @@
+{
+  "name": "Too Online",
+  "symbol": "Too Online",
+  "decimals": 18,
+  "description": "Too Online is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Too%20Online",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Too Online",
+  "addresses": {
+    "8453": "0x1706447bff0454f7535147650dbd4e0e73bc2dec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Too Online",
+    "sanitizedSymbol": "TOO_ONLINE",
+    "created_at": "2024-12-10T21:54:57.143964",
+    "deployer": "0x05FF7cC8B490B38898744037f951F3247673C2ed",
+    "lpNftId": "1407591",
+    "lockerAddress": "0xC6C988E88b7A2Ebd3EAc88de74Fc9d15e7718069"
+  },
+  "clankerInfo": null
+}

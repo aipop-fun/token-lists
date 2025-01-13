@@ -1,0 +1,22 @@
+{
+  "name": "FURK",
+  "symbol": "FURK",
+  "decimals": 18,
+  "description": "FURK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FURK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FURK",
+  "addresses": {
+    "8453": "0x0f32f616de2ce5264f00047d63955d07ed42bb4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FURK",
+    "sanitizedSymbol": "FURK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E3e88E34dEB2B6273c9F939B3e0e3A9890f8D60",
+    "lpNftId": "1317117",
+    "lockerAddress": "0x752d0A3D4157a2D41F20Dc3EA446B9040a180cdD"
+  },
+  "clankerInfo": null
+}

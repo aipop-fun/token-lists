@@ -1,0 +1,22 @@
+{
+  "name": "Golden Bullrun",
+  "symbol": "Golden Bullrun",
+  "decimals": 18,
+  "description": "Golden Bullrun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golden%20Bullrun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golden Bullrun",
+  "addresses": {
+    "8453": "0x1c2575a0e8f91927147042c8ddb02a2dd638dce1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golden Bullrun",
+    "sanitizedSymbol": "GOLDEN_BULLRUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231823",
+    "lockerAddress": "0x3900F35f4d1c24ba42d3a9551f746590a86Cb1e0"
+  },
+  "clankerInfo": null
+}

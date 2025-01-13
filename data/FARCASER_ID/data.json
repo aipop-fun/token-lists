@@ -1,0 +1,22 @@
+{
+  "name": "FARCASER ID",
+  "symbol": "FARCASER ID",
+  "decimals": 18,
+  "description": "FARCASER ID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCASER%20ID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCASER ID",
+  "addresses": {
+    "8453": "0x386286a489f16d313cf13fcca1d81f99583ae6d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCASER ID",
+    "sanitizedSymbol": "FARCASER_ID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x44f9009B7810f15f1FCB22C7f4a5cD18aA9A6fAA",
+    "lpNftId": "1286188",
+    "lockerAddress": "0xF4dE49834545EaC153047e7A2485633b183383a7"
+  },
+  "clankerInfo": null
+}

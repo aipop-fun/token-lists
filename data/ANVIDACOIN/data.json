@@ -1,0 +1,22 @@
+{
+  "name": "Anvidacoin",
+  "symbol": "Anvidacoin",
+  "decimals": 18,
+  "description": "Anvidacoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anvidacoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anvidacoin",
+  "addresses": {
+    "8453": "0x41cc5c3a619e17b731016f6f50dc44860ceb537a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anvidacoin",
+    "sanitizedSymbol": "ANVIDACOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205991",
+    "lockerAddress": "0xF1D70FD2e099b51F091726fe73952033Dac60852"
+  },
+  "clankerInfo": null
+}

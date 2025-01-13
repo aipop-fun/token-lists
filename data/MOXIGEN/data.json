@@ -1,0 +1,22 @@
+{
+  "name": "moxigen",
+  "symbol": "moxigen",
+  "decimals": 18,
+  "description": "moxigen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moxigen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moxigen",
+  "addresses": {
+    "8453": "0x332fe2c64643f3e0757f8b95de87600070ccef38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moxigen",
+    "sanitizedSymbol": "MOXIGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaBe1eb1caB90dcafF58065749f1017080E22A934",
+    "lpNftId": "1292206",
+    "lockerAddress": "0xd8c9E09f082d462Fc8571cD98a83445bf3624EEd"
+  },
+  "clankerInfo": null
+}

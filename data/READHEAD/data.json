@@ -1,0 +1,22 @@
+{
+  "name": "Readhead",
+  "symbol": "Readhead",
+  "decimals": 18,
+  "description": "Readhead is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Readhead",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Readhead",
+  "addresses": {
+    "8453": "0x2b1deca7b4b56118f48004fa4832420388e959ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Readhead",
+    "sanitizedSymbol": "READHEAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226015",
+    "lockerAddress": "0xc2F45E986b6079c74fc93CB6F2e234f8b7c5c7AD"
+  },
+  "clankerInfo": null
+}

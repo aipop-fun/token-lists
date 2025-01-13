@@ -1,0 +1,22 @@
+{
+  "name": "First cast",
+  "symbol": "First cast",
+  "decimals": 18,
+  "description": "First cast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=First%20cast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "First cast",
+  "addresses": {
+    "8453": "0x075158242abfd6e48e6f9a6fc23ee0cf6d121882"
+  },
+  "tokenInfo": {
+    "originalSymbol": "First cast",
+    "sanitizedSymbol": "FIRST_CAST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206103",
+    "lockerAddress": "0x45AB349004A8C68D2581451bC68Ff30D1B1953bE"
+  },
+  "clankerInfo": null
+}

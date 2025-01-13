@@ -1,0 +1,22 @@
+{
+  "name": "clan",
+  "symbol": "clan",
+  "decimals": 18,
+  "description": "clan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clan",
+  "addresses": {
+    "8453": "0x152ee444aaf16c83b080a076a9ed21a9d7d1ec0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clan",
+    "sanitizedSymbol": "CLAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDe485E91762D97Ac69df96359a6bfc48C624bdD4",
+    "lpNftId": "1251800",
+    "lockerAddress": "0x0BE2818c9bfC128c67c7A4E8ca44Ef400Bbb5976"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dragon",
+  "symbol": "Dragon",
+  "decimals": 18,
+  "description": "Dragon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dragon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dragon",
+  "addresses": {
+    "8453": "0x1e5a7bf3b288d726c1b6395e0758c446386d28c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dragon",
+    "sanitizedSymbol": "DRAGON_4",
+    "created_at": "2024-12-12T03:59:25.635473",
+    "deployer": "0xf40Da4Eb6B393133B11DDed0be1cDe12270b3A99",
+    "lpNftId": "1429047",
+    "lockerAddress": "0x7A6DB5B045e1059DB2883144a156c524A69DE877"
+  },
+  "clankerInfo": null
+}

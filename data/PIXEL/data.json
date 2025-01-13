@@ -1,0 +1,22 @@
+{
+  "name": "PIXEL",
+  "symbol": "PIXEL",
+  "decimals": 18,
+  "description": "PIXEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIXEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIXEL",
+  "addresses": {
+    "8453": "0x2082fd13562aab0ce6fda7f93af2cc9904e82b2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIXEL",
+    "sanitizedSymbol": "PIXEL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1281799",
+    "lockerAddress": "0x1c5325e1d557e928B6Da24eF97d57b924869ec59"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LOOL",
+  "symbol": "LOOL",
+  "decimals": 18,
+  "description": "LOOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOOL",
+  "addresses": {
+    "8453": "0x12116fff4786f3f32cd3e83d00f62d3c80178b05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOOL",
+    "sanitizedSymbol": "LOOL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124613",
+    "lockerAddress": "0x9ef2C69d13e71f9eeF5e7a1F891C00C3bE96715a"
+  },
+  "clankerInfo": null
+}

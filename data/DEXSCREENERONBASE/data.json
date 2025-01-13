@@ -1,0 +1,22 @@
+{
+  "name": "DexScreenerOnBase",
+  "symbol": "DexScreenerOnBase",
+  "decimals": 18,
+  "description": "DexScreenerOnBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DexScreenerOnBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DexScreenerOnBase",
+  "addresses": {
+    "8453": "0x2c8573379595542f77c00d5e7b3301cb34cbb0eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DexScreenerOnBase",
+    "sanitizedSymbol": "DEXSCREENERONBASE",
+    "created_at": "2024-12-12T09:27:30.425113",
+    "deployer": "0xb0e5A7aB88E5ce660C844c1AEF682b06cC146752",
+    "lpNftId": "1431275",
+    "lockerAddress": "0x2c3552D2253B9Ff44dE0805dB4f5841FCA91e9a6"
+  },
+  "clankerInfo": null
+}

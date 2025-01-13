@@ -1,0 +1,22 @@
+{
+  "name": "VaultX",
+  "symbol": "VaultX",
+  "decimals": 18,
+  "description": "VaultX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VaultX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VaultX",
+  "addresses": {
+    "8453": "0x21bae88d345d7b52fcd43ec03f61eebd48866bff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VaultX",
+    "sanitizedSymbol": "VAULTX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225348",
+    "lockerAddress": "0x1A500dc7f2E25f9d93f15Bdd5748330a2EAc57F4"
+  },
+  "clankerInfo": null
+}

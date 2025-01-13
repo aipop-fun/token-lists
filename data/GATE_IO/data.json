@@ -1,0 +1,22 @@
+{
+  "name": "gate.io",
+  "symbol": "gate.io",
+  "decimals": 18,
+  "description": "gate.io is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gate.io",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gate.io",
+  "addresses": {
+    "8453": "0x268197a45db021bed6e30bd2e22368d20e8db739"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gate.io",
+    "sanitizedSymbol": "GATE_IO",
+    "created_at": "2024-12-11T06:50:53.44425",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1413975",
+    "lockerAddress": "0x26455c25c920901c8f848B37Ea5C98804cBd490c"
+  },
+  "clankerInfo": null
+}

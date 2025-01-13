@@ -1,0 +1,22 @@
+{
+  "name": "vadapav",
+  "symbol": "vadapav",
+  "decimals": 18,
+  "description": "vadapav is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vadapav",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vadapav",
+  "addresses": {
+    "8453": "0x29311588a6b5734611b7044c7d4dd04824a49d0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vadapav",
+    "sanitizedSymbol": "VADAPAV",
+    "created_at": "2024-12-10T03:51:22.855453",
+    "deployer": "0x19439fCdB55A5A16f44d9AdEEa68670414B3a5C6",
+    "lpNftId": "1395901",
+    "lockerAddress": "0x0E49EddaD88C9259966bDF7dAFcB822F43c3CC50"
+  },
+  "clankerInfo": null
+}

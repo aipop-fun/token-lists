@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Army",
+  "symbol": "Clanker Army",
+  "decimals": 18,
+  "description": "Clanker Army is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Army",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Army",
+  "addresses": {
+    "8453": "0x2c79e4f359766baff169f3359c73b9053924c415"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Army",
+    "sanitizedSymbol": "CLANKER_ARMY",
+    "created_at": "2024-12-12T18:14:29.602712",
+    "deployer": "0xA02864d0AD84C1cb5De68EBeAFbdc95D70061747",
+    "lpNftId": "1440594",
+    "lockerAddress": "0xb9af1cb115Dd2087542f664d50E3Ea6086242335"
+  },
+  "clankerInfo": null
+}

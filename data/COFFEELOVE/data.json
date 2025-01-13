@@ -1,0 +1,22 @@
+{
+  "name": "CoffeeLove",
+  "symbol": "CoffeeLove",
+  "decimals": 18,
+  "description": "CoffeeLove is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CoffeeLove",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CoffeeLove",
+  "addresses": {
+    "8453": "0x0027f835fd1118dedc9302cb6306b87088f9f6f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CoffeeLove",
+    "sanitizedSymbol": "COFFEELOVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE97cF541eCF916Cde6907addad109E4DC973B98F",
+    "lpNftId": "1288390",
+    "lockerAddress": "0xbDb5a1161ba8F2F296d0Ab5eE46b66836882f96d"
+  },
+  "clankerInfo": null
+}

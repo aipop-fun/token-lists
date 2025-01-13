@@ -1,0 +1,22 @@
+{
+  "name": "onchainmusic.fun",
+  "symbol": "onchainmusic.fun",
+  "decimals": 18,
+  "description": "onchainmusic.fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onchainmusic.fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onchainmusic.fun",
+  "addresses": {
+    "8453": "0x0e85baab19731e3d69d042f1df6329361d704684"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onchainmusic.fun",
+    "sanitizedSymbol": "ONCHAINMUSIC_FUN",
+    "created_at": "2024-12-11T20:24:24.967475",
+    "deployer": "0x0CeA79c95c60B827C11d9D25ba8d967ca051dfC1",
+    "lpNftId": "1425421",
+    "lockerAddress": "0x58E9CB8284bfD52A103F1DD79f1F8a9a0AfC8193"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hammer and Saw",
+  "symbol": "Hammer and Saw",
+  "decimals": 18,
+  "description": "Hammer and Saw is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hammer%20and%20Saw",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hammer and Saw",
+  "addresses": {
+    "8453": "0x2cfd9a45905f36476e469f3780a510746243ffbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hammer and Saw",
+    "sanitizedSymbol": "HAMMER_AND_SAW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222264",
+    "lockerAddress": "0x0AA55a21391B9F8A4Dbb48E5758667B95a59A938"
+  },
+  "clankerInfo": null
+}

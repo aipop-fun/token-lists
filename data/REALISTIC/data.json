@@ -1,0 +1,22 @@
+{
+  "name": "REALISTIC",
+  "symbol": "REALISTIC",
+  "decimals": 18,
+  "description": "REALISTIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REALISTIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REALISTIC",
+  "addresses": {
+    "8453": "0x00897f3f9e01fbb12f0ebd5e9262a70cd91dcb8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REALISTIC",
+    "sanitizedSymbol": "REALISTIC",
+    "created_at": "2024-12-11T12:45:01.879148",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1418378",
+    "lockerAddress": "0x1F0dC45B58D5902bf61e68438Bff4Ba14cC5344c"
+  },
+  "clankerInfo": null
+}

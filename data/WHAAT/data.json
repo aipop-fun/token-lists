@@ -1,0 +1,22 @@
+{
+  "name": "WHAAT",
+  "symbol": "WHAAT",
+  "decimals": 18,
+  "description": "WHAAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WHAAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WHAAT",
+  "addresses": {
+    "8453": "0x1722ad6bfa25180aa7773de5bcfb9137cfd13b04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WHAAT",
+    "sanitizedSymbol": "WHAAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd5f2FbC5E739C7f2cC68Dfa907FB66801ed3Ada8",
+    "lpNftId": "1351639",
+    "lockerAddress": "0x3Bd08db07D1CEd2d3080B118b8B41dAdfb539BA3"
+  },
+  "clankerInfo": null
+}

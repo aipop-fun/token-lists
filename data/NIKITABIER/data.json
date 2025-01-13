@@ -1,0 +1,22 @@
+{
+  "name": "nikitabier",
+  "symbol": "nikitabier",
+  "decimals": 18,
+  "description": "nikitabier is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nikitabier",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nikitabier",
+  "addresses": {
+    "8453": "0x0750a6b580d7abcf5f2fa65c75cf94f1b97c9090"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nikitabier",
+    "sanitizedSymbol": "NIKITABIER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217756",
+    "lockerAddress": "0xf6C984aaDCA94b7FF771F0be2a659Cbb2157d92d"
+  },
+  "clankerInfo": null
+}

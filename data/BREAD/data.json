@@ -1,0 +1,22 @@
+{
+  "name": "bread",
+  "symbol": "bread",
+  "decimals": 18,
+  "description": "bread is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bread",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bread",
+  "addresses": {
+    "8453": "0x1fb39a1ae91d34a18effccaea7c35056e1428732"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bread",
+    "sanitizedSymbol": "BREAD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5ec874D76AF49F53E7b2F8BB07d1180874886f87",
+    "lpNftId": "1284059",
+    "lockerAddress": "0x8d8E575c5E7E399C7c6A5C6fdBdaD21dd823a192"
+  },
+  "clankerInfo": null
+}

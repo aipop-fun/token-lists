@@ -1,0 +1,22 @@
+{
+  "name": "Diet Coke",
+  "symbol": "Diet Coke",
+  "decimals": 18,
+  "description": "Diet Coke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diet%20Coke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diet Coke",
+  "addresses": {
+    "8453": "0x2bd4f0764940f104ce93dc45929100d4f1f31d7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diet Coke",
+    "sanitizedSymbol": "DIET_COKE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221306",
+    "lockerAddress": "0x18d40d9c534Ac164d19F4Ea10FECe61b9720839e"
+  },
+  "clankerInfo": null
+}

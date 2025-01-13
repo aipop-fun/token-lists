@@ -1,0 +1,22 @@
+{
+  "name": "sini boss",
+  "symbol": "sini boss",
+  "decimals": 18,
+  "description": "sini boss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sini%20boss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sini boss",
+  "addresses": {
+    "8453": "0x2ca9065aac77a0712f3bd9ecda6bc8ed56caf250"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sini boss",
+    "sanitizedSymbol": "SINI_BOSS",
+    "created_at": "2024-12-12T16:29:57.91915",
+    "deployer": "0xE11e1a29612EEC758f687Cb1F72F900F59198E5C",
+    "lpNftId": "1438581",
+    "lockerAddress": "0x4fa170beB50B7e6C19C3f14Ef46CCd4023Da1B52"
+  },
+  "clankerInfo": null
+}

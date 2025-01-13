@@ -1,0 +1,22 @@
+{
+  "name": "Van Damme Coin",
+  "symbol": "Van Damme Coin",
+  "decimals": 18,
+  "description": "Van Damme Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Van%20Damme%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Van Damme Coin",
+  "addresses": {
+    "8453": "0x0c428e8788cec9be2661afd4f07ceecc52e4aa6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Van Damme Coin",
+    "sanitizedSymbol": "VAN_DAMME_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158152",
+    "lockerAddress": "0xE6b8B15699898790694D1FC2630b286497b16713"
+  },
+  "clankerInfo": null
+}

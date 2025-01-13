@@ -1,0 +1,22 @@
+{
+  "name": "PUMP IT",
+  "symbol": "PUMP IT",
+  "decimals": 18,
+  "description": "PUMP IT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMP%20IT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMP IT",
+  "addresses": {
+    "8453": "0x359c6be971ca78515467c5f8ebcc94f1c5ef4571"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMP IT",
+    "sanitizedSymbol": "PUMP_IT_5",
+    "created_at": "2024-12-11T07:03:11.126475",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1414004",
+    "lockerAddress": "0x393a7b81F6B06b93dc8070fEAC508B68dD42006A"
+  },
+  "clankerInfo": null
+}

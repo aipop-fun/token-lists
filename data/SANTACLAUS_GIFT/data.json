@@ -1,0 +1,22 @@
+{
+  "name": "SantaClaus Gift",
+  "symbol": "SantaClaus Gift",
+  "decimals": 18,
+  "description": "SantaClaus Gift is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaClaus%20Gift",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaClaus Gift",
+  "addresses": {
+    "8453": "0x3692c2d7ef8ce01a4ce60cfa045d5e13e4e05803"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaClaus Gift",
+    "sanitizedSymbol": "SANTACLAUS_GIFT",
+    "created_at": "2024-12-12T01:15:12.928543",
+    "deployer": "0xD67581c5bdd634f1458627fAf7F90080E6e3DD37",
+    "lpNftId": "1428370",
+    "lockerAddress": "0x497E5B258001C495013F6453eDF64e465C2AC4b7"
+  },
+  "clankerInfo": null
+}

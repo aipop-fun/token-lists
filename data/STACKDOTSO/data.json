@@ -1,0 +1,22 @@
+{
+  "name": "StackDotso",
+  "symbol": "StackDotso",
+  "decimals": 18,
+  "description": "StackDotso is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StackDotso",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StackDotso",
+  "addresses": {
+    "8453": "0x3722778df74475a843c0cf42fd0646936d794eea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StackDotso",
+    "sanitizedSymbol": "STACKDOTSO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1323616",
+    "lockerAddress": "0xF1DEe2846FEb5e7E73197b271953b38db52A7EDC"
+  },
+  "clankerInfo": null
+}

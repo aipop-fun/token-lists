@@ -1,0 +1,22 @@
+{
+  "name": "Dosi",
+  "symbol": "Dosi",
+  "decimals": 18,
+  "description": "Dosi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dosi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dosi",
+  "addresses": {
+    "8453": "0x39a3a34edca4edeb2811037313e1f698c17ba277"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dosi",
+    "sanitizedSymbol": "DOSI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7ffDdA5034147233f4ccd22648df6C00423a916a",
+    "lpNftId": "1327518",
+    "lockerAddress": "0x208353006d38cf8F26946f3E8c7744D0c369F2B2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blvck Pirates",
+  "symbol": "Blvck Pirates",
+  "decimals": 18,
+  "description": "Blvck Pirates is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blvck%20Pirates",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blvck Pirates",
+  "addresses": {
+    "8453": "0x09ebf5dccbfa6fdf219eca1939aa75306979ea60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blvck Pirates",
+    "sanitizedSymbol": "BLVCK_PIRATES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC3C1eE5B0103B6978349307066460e724CFc6ec3",
+    "lpNftId": "1264912",
+    "lockerAddress": "0x8edfEE5268112A65Ab5FA8099A2e4fd7b101d72C"
+  },
+  "clankerInfo": null
+}

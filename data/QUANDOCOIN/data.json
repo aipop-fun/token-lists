@@ -1,0 +1,22 @@
+{
+  "name": "Quandocoin",
+  "symbol": "Quandocoin",
+  "decimals": 18,
+  "description": "Quandocoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quandocoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quandocoin",
+  "addresses": {
+    "8453": "0x2e6b2ff63e87da4b6f95a54d8865a54bdd81cb92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quandocoin",
+    "sanitizedSymbol": "QUANDOCOIN",
+    "created_at": "2024-12-11T02:48:33.058593",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411175",
+    "lockerAddress": "0xfdf73e00fFD79448c4eb4D9E09ddc21c7388119E"
+  },
+  "clankerInfo": null
+}

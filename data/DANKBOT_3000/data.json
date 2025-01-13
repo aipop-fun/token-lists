@@ -1,0 +1,22 @@
+{
+  "name": "Dankbot 3000",
+  "symbol": "Dankbot 3000",
+  "decimals": 18,
+  "description": "Dankbot 3000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dankbot%203000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dankbot 3000",
+  "addresses": {
+    "8453": "0x3d2a9a20b508151c1164cd882569865abc2d3538"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dankbot 3000",
+    "sanitizedSymbol": "DANKBOT_3000",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC1aeBd6f0D37611d744B0ECD0865984fbCb4B4c4",
+    "lpNftId": "1286621",
+    "lockerAddress": "0x8FEb502a2A03436b26E645CFCeCe054a6a7f23a4"
+  },
+  "clankerInfo": null
+}

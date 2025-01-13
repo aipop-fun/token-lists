@@ -1,0 +1,22 @@
+{
+  "name": "Send NudeZ",
+  "symbol": "Send NudeZ",
+  "decimals": 18,
+  "description": "Send NudeZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Send%20NudeZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Send NudeZ",
+  "addresses": {
+    "8453": "0x151eaed1726f9e4c9b8baa390198b343b5008ee5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Send NudeZ",
+    "sanitizedSymbol": "SEND_NUDEZ",
+    "created_at": "2024-12-11T16:59:01.581372",
+    "deployer": "0xf4bA6552836c9F8F7B1b8fB34470B81854Ef2dCB",
+    "lpNftId": "1422157",
+    "lockerAddress": "0x181c39e09421af20dAdc0bA0d363BDFF88765227"
+  },
+  "clankerInfo": null
+}

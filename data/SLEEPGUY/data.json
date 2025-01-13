@@ -1,0 +1,22 @@
+{
+  "name": "Sleepguy",
+  "symbol": "Sleepguy",
+  "decimals": 18,
+  "description": "Sleepguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sleepguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sleepguy",
+  "addresses": {
+    "8453": "0x2e9b9cad4970a994c27767be21375d36a50c9e9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sleepguy",
+    "sanitizedSymbol": "SLEEPGUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x118108b3964489E138db95212c462f7f572351A8",
+    "lpNftId": "1326738",
+    "lockerAddress": "0x1AE94c44e01d44036f43927d7Ee267bE56E4ccf7"
+  },
+  "clankerInfo": null
+}

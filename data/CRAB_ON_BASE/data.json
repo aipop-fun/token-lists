@@ -1,0 +1,22 @@
+{
+  "name": "Crab On Base",
+  "symbol": "Crab On Base",
+  "decimals": 18,
+  "description": "Crab On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crab%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crab On Base",
+  "addresses": {
+    "8453": "0x1be97b0813d21a072c7a99b483622f8476b566e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crab On Base",
+    "sanitizedSymbol": "CRAB_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1214112",
+    "lockerAddress": "0xb23e522Bb7677c96e4037806f7619c60517d0093"
+  },
+  "clankerInfo": null
+}

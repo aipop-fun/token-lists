@@ -1,0 +1,22 @@
+{
+  "name": "ME",
+  "symbol": "ME",
+  "decimals": 18,
+  "description": "ME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ME",
+  "addresses": {
+    "8453": "0x1b3809f29459a8b56e1054a5f1a25147c6739b74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ME",
+    "sanitizedSymbol": "ME_1",
+    "created_at": "2024-12-10T15:28:44.749431",
+    "deployer": "0x74bA4F0A218B1c7722e6654133dA206C277263Da",
+    "lpNftId": "1402692",
+    "lockerAddress": "0x023368Ce57D419E108376D3bd905E5e868DC95da"
+  },
+  "clankerInfo": null
+}

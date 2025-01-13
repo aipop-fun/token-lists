@@ -1,0 +1,22 @@
+{
+  "name": "anjas",
+  "symbol": "anjas",
+  "decimals": 18,
+  "description": "anjas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anjas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anjas",
+  "addresses": {
+    "8453": "0x119d749fdcd8b1d41006a37bb8556d2b662c3218"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anjas",
+    "sanitizedSymbol": "ANJAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9412976973BEa57d61278cf9D5fA8084071179c6",
+    "lpNftId": "1283326",
+    "lockerAddress": "0x0f70013aF8F2359Cbb60ebFd0F225D8DE9cf33CE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WEN LAMBO",
+  "symbol": "WEN LAMBO",
+  "decimals": 18,
+  "description": "WEN LAMBO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEN%20LAMBO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEN LAMBO",
+  "addresses": {
+    "8453": "0x3e1d5cfd52c3e0315dcd43ffc05fd611df99f7a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEN LAMBO",
+    "sanitizedSymbol": "WEN_LAMBO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203339",
+    "lockerAddress": "0xCBF3222e0A7B77cC1d99b83D7864100115F1056b"
+  },
+  "clankerInfo": null
+}

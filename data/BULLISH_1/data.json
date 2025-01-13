@@ -1,0 +1,22 @@
+{
+  "name": "bullish",
+  "symbol": "bullish",
+  "decimals": 18,
+  "description": "bullish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bullish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bullish",
+  "addresses": {
+    "8453": "0x04462f324105f40fe5d16b160b5515ca853a4fca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bullish",
+    "sanitizedSymbol": "BULLISH_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6B12F9Db268ee3dd251a6dAA7F03f114c628A71C",
+    "lpNftId": "1287390",
+    "lockerAddress": "0xA1da0686b903E4A9cba7Cb2bc48C1e8d0d80b160"
+  },
+  "clankerInfo": null
+}

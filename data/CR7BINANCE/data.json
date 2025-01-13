@@ -1,0 +1,22 @@
+{
+  "name": "CR7BINANCE",
+  "symbol": "CR7BINANCE",
+  "decimals": 18,
+  "description": "CR7BINANCE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CR7BINANCE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CR7BINANCE",
+  "addresses": {
+    "8453": "0x2e1d5bb8dd7a95148d21830af30d23dcebfe2017"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CR7BINANCE",
+    "sanitizedSymbol": "CR7BINANCE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x89c368132E87be6309468b33372Ff695E99451f8",
+    "lpNftId": "1276264",
+    "lockerAddress": "0x86c489810654fe62F516D594bB5DC3D5c4599007"
+  },
+  "clankerInfo": null
+}

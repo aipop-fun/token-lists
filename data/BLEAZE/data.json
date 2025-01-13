@@ -1,0 +1,22 @@
+{
+  "name": "BLEAZE",
+  "symbol": "BLEAZE",
+  "decimals": 18,
+  "description": "BLEAZE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLEAZE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLEAZE",
+  "addresses": {
+    "8453": "0x22c11e0ef8baeadb1f27f51e239c011ac944e180"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLEAZE",
+    "sanitizedSymbol": "BLEAZE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226269",
+    "lockerAddress": "0x582F365910c69EE3db30F42AeE5Ed1be72cA8B8D"
+  },
+  "clankerInfo": null
+}

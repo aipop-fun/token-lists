@@ -1,0 +1,22 @@
+{
+  "name": "Ego",
+  "symbol": "Ego",
+  "decimals": 18,
+  "description": "Ego is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ego",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ego",
+  "addresses": {
+    "8453": "0x068fc4f6814d73f89ee68f1f142c48181e525eef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ego",
+    "sanitizedSymbol": "EGO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119762",
+    "lockerAddress": "0x3bfDb7bf0374Ab4a1BAF3383603323B90A6b53bf"
+  },
+  "clankerInfo": null
+}

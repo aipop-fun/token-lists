@@ -1,0 +1,22 @@
+{
+  "name": "Tuzki",
+  "symbol": "Tuzki",
+  "decimals": 18,
+  "description": "Tuzki is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tuzki",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tuzki",
+  "addresses": {
+    "8453": "0x0f1bd97b823f32fb45c572429773856d4f379ea5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tuzki",
+    "sanitizedSymbol": "TUZKI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x73bCDFc7dF9570C67749D8C22583803F0a5d55CE",
+    "lpNftId": "1252651",
+    "lockerAddress": "0xe38fDe9B3f02B03EBCB50fD59EC4D6485E8f0A4E"
+  },
+  "clankerInfo": null
+}

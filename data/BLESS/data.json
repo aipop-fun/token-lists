@@ -1,0 +1,22 @@
+{
+  "name": "bless",
+  "symbol": "bless",
+  "decimals": 18,
+  "description": "bless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bless",
+  "addresses": {
+    "8453": "0x2eea5372fdbd6584092d8186a0043847bea5abe5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bless",
+    "sanitizedSymbol": "BLESS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xCbc539d55840b986407EFA19dA40e1D6Cb4e0F1a",
+    "lpNftId": "1263894",
+    "lockerAddress": "0xaB4A2D80fFc4Ea6C581776ce37d2aF3CFC97B418"
+  },
+  "clankerInfo": null
+}

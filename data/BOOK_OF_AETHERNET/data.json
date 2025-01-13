@@ -1,0 +1,22 @@
+{
+  "name": "Book Of Aethernet",
+  "symbol": "Book Of Aethernet",
+  "decimals": 18,
+  "description": "Book Of Aethernet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Book%20Of%20Aethernet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Book Of Aethernet",
+  "addresses": {
+    "8453": "0x3e2b9ff08f7ca1fb083d7e0a04619aed9505dfe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Book Of Aethernet",
+    "sanitizedSymbol": "BOOK_OF_AETHERNET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152415",
+    "lockerAddress": "0x044171c32242aff3C5bd395F49ee0DCbc2A517F1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPEBROS",
+  "symbol": "PEPEBROS",
+  "decimals": 18,
+  "description": "PEPEBROS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPEBROS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPEBROS",
+  "addresses": {
+    "8453": "0x11d5ec3de33d3dba36c515d73c54a941a8d75f50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPEBROS",
+    "sanitizedSymbol": "PEPEBROS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0dA53864f41F702892cbed60482431feE7d5B522",
+    "lpNftId": "1281305",
+    "lockerAddress": "0xb8f64852d4368769a4B31A713E7e83815D6ecB3B"
+  },
+  "clankerInfo": null
+}

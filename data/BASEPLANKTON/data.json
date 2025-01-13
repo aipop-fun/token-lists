@@ -1,0 +1,22 @@
+{
+  "name": "BasePlankton",
+  "symbol": "BasePlankton",
+  "decimals": 18,
+  "description": "BasePlankton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasePlankton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasePlankton",
+  "addresses": {
+    "8453": "0x0176b8fef80555c09faa4bf30fd0cd254188da1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasePlankton",
+    "sanitizedSymbol": "BASEPLANKTON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xadd446769D566C5fc57E6A045fd325920938c41d",
+    "lpNftId": "1343731",
+    "lockerAddress": "0x9602CA50c93a8D61670BCcc73570c54ACCD264C0"
+  },
+  "clankerInfo": null
+}

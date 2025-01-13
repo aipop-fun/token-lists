@@ -1,0 +1,22 @@
+{
+  "name": "TerraNova",
+  "symbol": "TerraNova",
+  "decimals": 18,
+  "description": "TerraNova is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TerraNova",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TerraNova",
+  "addresses": {
+    "8453": "0x1b723af115a8c292190a9d40e08201dce38a01c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TerraNova",
+    "sanitizedSymbol": "TERRANOVA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132434",
+    "lockerAddress": "0x2386160953bb95B3BB4433dc7610220E1B5b9Fe0"
+  },
+  "clankerInfo": null
+}

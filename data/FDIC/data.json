@@ -1,0 +1,22 @@
+{
+  "name": "FDIC",
+  "symbol": "FDIC",
+  "decimals": 18,
+  "description": "FDIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FDIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FDIC",
+  "addresses": {
+    "8453": "0x403d026489f6a4d6b44cf878adc036da94165698"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FDIC",
+    "sanitizedSymbol": "FDIC",
+    "created_at": "2024-12-12T19:01:04.721778",
+    "deployer": "0xDF102BEbD2159F50f544bb3953b674A9a9e2F296",
+    "lpNftId": "1441189",
+    "lockerAddress": "0x1CD43F6Cd26c012f42A192439206C995AC2075eD"
+  },
+  "clankerInfo": null
+}

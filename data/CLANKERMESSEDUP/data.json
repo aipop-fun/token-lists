@@ -1,0 +1,22 @@
+{
+  "name": "ClankerMessedUp",
+  "symbol": "ClankerMessedUp",
+  "decimals": 18,
+  "description": "ClankerMessedUp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerMessedUp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerMessedUp",
+  "addresses": {
+    "8453": "0x10df66970f201b7d134ea7c620a896e7189bb69a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerMessedUp",
+    "sanitizedSymbol": "CLANKERMESSEDUP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C515F7776F41FFC9Df45a4BBD515C85e21ABA62",
+    "lpNftId": "1331265",
+    "lockerAddress": "0xA253575E3020a7167df852Ea786181237234e808"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$Ann",
+  "symbol": "$Ann",
+  "decimals": 18,
+  "description": "$Ann is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24Ann",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$Ann",
+  "addresses": {
+    "8453": "0x3797e4331fcd9496889f34f280cdd0c4a1f15b14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$Ann",
+    "sanitizedSymbol": "ANN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56C22db989ca5f19e8f167F8cEbaeB4094d41c19",
+    "lpNftId": "1327088",
+    "lockerAddress": "0xDA08D102340B433F808474da3a24d78c58257414"
+  },
+  "clankerInfo": null
+}

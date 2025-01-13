@@ -1,0 +1,22 @@
+{
+  "name": "AIDOG",
+  "symbol": "AIDOG",
+  "decimals": 18,
+  "description": "AIDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIDOG",
+  "addresses": {
+    "8453": "0x14725de1263daec9a0b16f35fe3e2e0614a0781c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIDOG",
+    "sanitizedSymbol": "AIDOG",
+    "created_at": "2024-12-12T14:28:39.042234",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1435870",
+    "lockerAddress": "0x42D508659F08e3109Aad62a0a10edf5935dA9c70"
+  },
+  "clankerInfo": null
+}

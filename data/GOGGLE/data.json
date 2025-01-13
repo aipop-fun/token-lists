@@ -1,0 +1,22 @@
+{
+  "name": "GOGGLE",
+  "symbol": "GOGGLE",
+  "decimals": 18,
+  "description": "GOGGLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOGGLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOGGLE",
+  "addresses": {
+    "8453": "0x16b529b58af9c12c70fb624bd3287d7d2fcfa8b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOGGLE",
+    "sanitizedSymbol": "GOGGLE",
+    "created_at": "2024-12-11T17:15:53.95435",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1422365",
+    "lockerAddress": "0x488C74802B91EF13A73cDB82E228585878E7Fb11"
+  },
+  "clankerInfo": null
+}

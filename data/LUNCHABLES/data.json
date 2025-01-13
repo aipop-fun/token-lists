@@ -1,0 +1,22 @@
+{
+  "name": "Lunchables",
+  "symbol": "Lunchables",
+  "decimals": 18,
+  "description": "Lunchables is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lunchables",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lunchables",
+  "addresses": {
+    "8453": "0x349b140702cf5c5adce03bbb94732248893ba175"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lunchables",
+    "sanitizedSymbol": "LUNCHABLES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAcaE0F9df590590db9fC6Ed0ae7C8030e02e0E94",
+    "lpNftId": "1317473",
+    "lockerAddress": "0x1D4F4cB368C7F3CC34248daF3E073Df381B5728f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HiBroz",
+  "symbol": "HiBroz",
+  "decimals": 18,
+  "description": "HiBroz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HiBroz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HiBroz",
+  "addresses": {
+    "8453": "0x0436f1c549b3b84c347221f0a0b0b20e0201f1f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HiBroz",
+    "sanitizedSymbol": "HIBROZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1691D489969c5B2485F44CbA7114f245De47a4A7",
+    "lpNftId": "1322127",
+    "lockerAddress": "0x6891C20ba5472c147Ec774aE578065da5890f841"
+  },
+  "clankerInfo": null
+}

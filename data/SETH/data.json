@@ -1,0 +1,22 @@
+{
+  "name": "SETH",
+  "symbol": "SETH",
+  "decimals": 18,
+  "description": "SETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SETH",
+  "addresses": {
+    "8453": "0x39e1cb8f4baa58c872f2c40f38caea0ff92e9e09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SETH",
+    "sanitizedSymbol": "SETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125331",
+    "lockerAddress": "0x69a2aC69fcEBBB8137BAD8304Ee2e55781818BF4"
+  },
+  "clankerInfo": null
+}

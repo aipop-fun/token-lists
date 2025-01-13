@@ -1,0 +1,22 @@
+{
+  "name": "FREEREALESTATE",
+  "symbol": "FREEREALESTATE",
+  "decimals": 18,
+  "description": "FREEREALESTATE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FREEREALESTATE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FREEREALESTATE",
+  "addresses": {
+    "8453": "0x22b0cc089c671a742ee945c0edf11c08da20a8c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FREEREALESTATE",
+    "sanitizedSymbol": "FREEREALESTATE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x934C80e3a3e9136eE3558950385B66Ac5e7D9bf7",
+    "lpNftId": "1309056",
+    "lockerAddress": "0x49579605C3F17e2334132257F659669acB48A96E"
+  },
+  "clankerInfo": null
+}

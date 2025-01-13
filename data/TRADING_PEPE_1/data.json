@@ -1,0 +1,22 @@
+{
+  "name": "Trading PEPE",
+  "symbol": "Trading PEPE",
+  "decimals": 18,
+  "description": "Trading PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trading%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trading PEPE",
+  "addresses": {
+    "8453": "0x07821126a6865d18e3022e2ee7e1cf5d2c726dd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trading PEPE",
+    "sanitizedSymbol": "TRADING_PEPE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219701",
+    "lockerAddress": "0x10eB347a2123993082F28D907a57A9FDcB7A96da"
+  },
+  "clankerInfo": null
+}

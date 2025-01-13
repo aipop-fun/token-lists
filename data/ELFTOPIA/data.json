@@ -1,0 +1,22 @@
+{
+  "name": "ELFtopia",
+  "symbol": "ELFtopia",
+  "decimals": 18,
+  "description": "ELFtopia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELFtopia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELFtopia",
+  "addresses": {
+    "8453": "0x0cb21e548bdce658971e945e3b11325e693f8e3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELFtopia",
+    "sanitizedSymbol": "ELFTOPIA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0B1a724228e857a867b6F639F838EF86A906B3AF",
+    "lpNftId": "1251857",
+    "lockerAddress": "0x75cEa70e787B03B5F0E8C40196551675EBf84c32"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FlopHouse",
+  "symbol": "FlopHouse",
+  "decimals": 18,
+  "description": "FlopHouse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FlopHouse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FlopHouse",
+  "addresses": {
+    "8453": "0x2beb069b1a656e4ee547ccf82425e30c570f04cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FlopHouse",
+    "sanitizedSymbol": "FLOPHOUSE",
+    "created_at": "2024-12-10T01:43:34.835025",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1394416",
+    "lockerAddress": "0x132a5FcB3d974233c140A52f5f3F9BaD58c68b96"
+  },
+  "clankerInfo": null
+}

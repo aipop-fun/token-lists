@@ -1,0 +1,22 @@
+{
+  "name": "ExitPlan",
+  "symbol": "ExitPlan",
+  "decimals": 18,
+  "description": "ExitPlan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ExitPlan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ExitPlan",
+  "addresses": {
+    "8453": "0x34c5e72387120bfa054c46a11c3e12a9441dcee0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ExitPlan",
+    "sanitizedSymbol": "EXITPLAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1227012",
+    "lockerAddress": "0x4DC172AEb08Dce0439B08dAA655AB99f21fe18ef"
+  },
+  "clankerInfo": null
+}

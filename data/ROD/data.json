@@ -1,0 +1,22 @@
+{
+  "name": "RODİ",
+  "symbol": "RODİ",
+  "decimals": 18,
+  "description": "RODİ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROD%C4%B0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RODİ",
+  "addresses": {
+    "8453": "0x3c9df0775bc0b6c00da980fd93b65393d4f1444c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RODİ",
+    "sanitizedSymbol": "ROD",
+    "created_at": "2024-12-09T13:20:00.776894",
+    "deployer": "0xB22F9BaB1010075aEFc319A69eE2F66eC8a1Cea4",
+    "lpNftId": "1387368",
+    "lockerAddress": "0x64D03CC273875e4ef5d3F90FdbC21DfE723662B5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KNIGHT",
+  "symbol": "KNIGHT",
+  "decimals": 18,
+  "description": "KNIGHT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KNIGHT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KNIGHT",
+  "addresses": {
+    "8453": "0x0813668b3aadcd35ee9c872778edf1a74652af08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KNIGHT",
+    "sanitizedSymbol": "KNIGHT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217573",
+    "lockerAddress": "0xe6623e85bd4B27deA0A38163456FDBA84ea95F24"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pengu",
+  "symbol": "Pengu",
+  "decimals": 18,
+  "description": "Pengu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pengu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pengu",
+  "addresses": {
+    "8453": "0x36f25d0e523ff855920e5600be5d5742bf408a32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pengu",
+    "sanitizedSymbol": "PENGU_2",
+    "created_at": "2024-12-09T11:07:04.847075",
+    "deployer": "0x53Fdd2853d7bB8fbcEe77B0eFF77EF7F180Ad38D",
+    "lpNftId": "1386281",
+    "lockerAddress": "0xef97AeF4e06115a005AB12Cc2297eC7726B64a24"
+  },
+  "clankerInfo": null
+}

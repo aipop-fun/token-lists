@@ -1,0 +1,22 @@
+{
+  "name": "MoonMutt",
+  "symbol": "MoonMutt",
+  "decimals": 18,
+  "description": "MoonMutt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonMutt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonMutt",
+  "addresses": {
+    "8453": "0x212aea4659871f1d96479571daad35a17db2394b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonMutt",
+    "sanitizedSymbol": "MOONMUTT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193861",
+    "lockerAddress": "0x6CC90Fa7D94dA25cB7cf1A7A21a2C3246a66C18a"
+  },
+  "clankerInfo": null
+}

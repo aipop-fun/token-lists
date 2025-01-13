@@ -1,0 +1,22 @@
+{
+  "name": "Podcast",
+  "symbol": "Podcast",
+  "decimals": 18,
+  "description": "Podcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Podcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Podcast",
+  "addresses": {
+    "8453": "0x2ec6c2a40c1400756ca46926af9c515e1c75d4fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Podcast",
+    "sanitizedSymbol": "PODCAST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218476",
+    "lockerAddress": "0x84D20cE63B093C1DC707Ea9DFB0DbE79C8BB9A35"
+  },
+  "clankerInfo": null
+}

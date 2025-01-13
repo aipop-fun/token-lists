@@ -1,0 +1,22 @@
+{
+  "name": "Quibbler",
+  "symbol": "Quibbler",
+  "decimals": 18,
+  "description": "Quibbler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quibbler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quibbler",
+  "addresses": {
+    "8453": "0x1111b43b5e528457fda836b16bf7922990cb02a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quibbler",
+    "sanitizedSymbol": "QUIBBLER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB6FbA009c0Dc55f4aD3b2109000f64862db293aB",
+    "lpNftId": "1341894",
+    "lockerAddress": "0x95C77a41807e7421544Aa2F6C36AD058aA574cf2"
+  },
+  "clankerInfo": null
+}

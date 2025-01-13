@@ -1,0 +1,22 @@
+{
+  "name": "Barker",
+  "symbol": "Barker",
+  "decimals": 18,
+  "description": "Barker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Barker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Barker",
+  "addresses": {
+    "8453": "0x3f94d78a0ec9aa3f0678a686cf59054617fe7af9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Barker",
+    "sanitizedSymbol": "BARKER",
+    "created_at": "2024-12-12T14:22:34.332286",
+    "deployer": "0x105d2e3cb2ddD50463DE78060433c0eA1fFe0453",
+    "lpNftId": "1435721",
+    "lockerAddress": "0x014e8531Fe1337eAFc7C807C8902Df1f09a09BD1"
+  },
+  "clankerInfo": null
+}

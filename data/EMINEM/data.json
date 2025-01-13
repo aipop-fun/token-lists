@@ -1,0 +1,22 @@
+{
+  "name": "Eminem",
+  "symbol": "Eminem",
+  "decimals": 18,
+  "description": "Eminem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eminem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eminem",
+  "addresses": {
+    "8453": "0x27ea935056625b552d3890c645073433f721c7e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eminem",
+    "sanitizedSymbol": "EMINEM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1311137",
+    "lockerAddress": "0x68d8168688317cf1c46A845b0b64abAF4Eff7C19"
+  },
+  "clankerInfo": null
+}

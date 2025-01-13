@@ -1,0 +1,22 @@
+{
+  "name": "TXS",
+  "symbol": "TXS",
+  "decimals": 18,
+  "description": "TXS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TXS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TXS",
+  "addresses": {
+    "8453": "0x2d0d2c05ce6c96a517b5a6f1ba36cbec9b41442f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TXS",
+    "sanitizedSymbol": "TXS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE5AC80a69E9fA7f6428480b2300338eE5136044d",
+    "lpNftId": "1311044",
+    "lockerAddress": "0x13F67A1F4554425F2D02EFaa6aE7E95Dd96F8176"
+  },
+  "clankerInfo": null
+}

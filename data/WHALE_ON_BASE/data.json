@@ -1,0 +1,22 @@
+{
+  "name": "Whale On Base",
+  "symbol": "Whale On Base",
+  "decimals": 18,
+  "description": "Whale On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whale%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whale On Base",
+  "addresses": {
+    "8453": "0x06bef3da2de723297df46637e4f84614d5299ddd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whale On Base",
+    "sanitizedSymbol": "WHALE_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6dc92d2D11136f93c52cBBE2c0298F1071D54300",
+    "lpNftId": "1312930",
+    "lockerAddress": "0xCc68b9413221f09A38e3e3895265Db8819a9474f"
+  },
+  "clankerInfo": null
+}

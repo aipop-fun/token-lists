@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin100K$",
+  "symbol": "Bitcoin100K$",
+  "decimals": 18,
+  "description": "Bitcoin100K$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin100K%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin100K$",
+  "addresses": {
+    "8453": "0x253dace0fa26cd4448ce1887010101bff82f599e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin100K$",
+    "sanitizedSymbol": "BITCOIN100K",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232493",
+    "lockerAddress": "0xaB631bF4406e3126f92758498Ca7BfAEc2996917"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SHIT",
+  "symbol": "SHIT",
+  "decimals": 18,
+  "description": "SHIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIT",
+  "addresses": {
+    "8453": "0x14f59b86cac9fba34591c924723bc165bd398977"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIT",
+    "sanitizedSymbol": "SHIT_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe054C5ecbd69e1cE755329AfB1c18b0Fb8bA4C4c",
+    "lpNftId": "1320045",
+    "lockerAddress": "0x570925Abf05bCc6F9428Bf5a4A119F79300a6C1d"
+  },
+  "clankerInfo": null
+}

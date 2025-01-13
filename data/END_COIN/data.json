@@ -1,0 +1,22 @@
+{
+  "name": "END COIN",
+  "symbol": "END COIN",
+  "decimals": 18,
+  "description": "END COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=END%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "END COIN",
+  "addresses": {
+    "8453": "0x2638cdefda9ddabaf9d0a8c4edc3b38e9a3b2d6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "END COIN",
+    "sanitizedSymbol": "END_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1204755",
+    "lockerAddress": "0x719b32f80d917dfeD7b1530047b4E74e9078661A"
+  },
+  "clankerInfo": null
+}

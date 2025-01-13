@@ -1,0 +1,22 @@
+{
+  "name": "Not Luigi",
+  "symbol": "Not Luigi",
+  "decimals": 18,
+  "description": "Not Luigi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Luigi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Luigi",
+  "addresses": {
+    "8453": "0x18bb53a23bd967a5e53553a499cab48977f8ed4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Luigi",
+    "sanitizedSymbol": "NOT_LUIGI",
+    "created_at": "2024-12-11T04:18:33.890523",
+    "deployer": "0x6E6752174EbF01F8F84e672E0b1db7F60584ef3C",
+    "lpNftId": "1412387",
+    "lockerAddress": "0x2631b28A3e0fcf1a0dF959Ea52B35ee82F7D395A"
+  },
+  "clankerInfo": null
+}

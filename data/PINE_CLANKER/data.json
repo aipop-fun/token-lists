@@ -1,0 +1,22 @@
+{
+  "name": "PINE CLANKER",
+  "symbol": "PINE CLANKER",
+  "decimals": 18,
+  "description": "PINE CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PINE%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PINE CLANKER",
+  "addresses": {
+    "8453": "0x3754aeecd4a9c7cd383b09b7f2feed52b3de5d4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PINE CLANKER",
+    "sanitizedSymbol": "PINE_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1320355",
+    "lockerAddress": "0xE5e6d47C4f25ab853e5A2A4AEc0048807e78265b"
+  },
+  "clankerInfo": null
+}

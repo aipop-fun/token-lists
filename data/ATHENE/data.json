@@ -1,0 +1,22 @@
+{
+  "name": "Athene",
+  "symbol": "Athene",
+  "decimals": 18,
+  "description": "Athene is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Athene",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Athene",
+  "addresses": {
+    "8453": "0x1066b0761a4ba989b473e5e4052c99d3a730903e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Athene",
+    "sanitizedSymbol": "ATHENE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223508",
+    "lockerAddress": "0x8C212faC56CD410A2A5C4F5592259dB43ada25D0"
+  },
+  "clankerInfo": null
+}

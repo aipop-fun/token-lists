@@ -1,0 +1,22 @@
+{
+  "name": "Poker",
+  "symbol": "Poker",
+  "decimals": 18,
+  "description": "Poker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Poker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Poker",
+  "addresses": {
+    "8453": "0x025dd4de18d7c0833820de177b450cbec02d37e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Poker",
+    "sanitizedSymbol": "POKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x153657145eA2d579691a146c7Ea4CFAE37D27Fae",
+    "lpNftId": "1309440",
+    "lockerAddress": "0x049A96133533f5940ebdE13dA57831be3163a7A9"
+  },
+  "clankerInfo": null
+}

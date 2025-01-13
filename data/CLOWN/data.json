@@ -1,0 +1,22 @@
+{
+  "name": "Clown",
+  "symbol": "Clown",
+  "decimals": 18,
+  "description": "Clown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clown",
+  "addresses": {
+    "8453": "0x0699a626e515d9a536d5ce19461d0e7914045bfc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clown",
+    "sanitizedSymbol": "CLOWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173539",
+    "lockerAddress": "0x94f28e9217056306E9B241e575b337a10927f337"
+  },
+  "clankerInfo": null
+}

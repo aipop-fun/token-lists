@@ -1,0 +1,22 @@
+{
+  "name": "Skidaddle Skidoodle",
+  "symbol": "Skidaddle Skidoodle",
+  "decimals": 18,
+  "description": "Skidaddle Skidoodle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skidaddle%20Skidoodle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skidaddle Skidoodle",
+  "addresses": {
+    "8453": "0x1f176ff45bede47bc151eb3842b2f1ba53962d2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skidaddle Skidoodle",
+    "sanitizedSymbol": "SKIDADDLE_SKIDOODLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf4bA6552836c9F8F7B1b8fB34470B81854Ef2dCB",
+    "lpNftId": "1319672",
+    "lockerAddress": "0x1e3162a7bBA3Ca35BcE2Fb065FaC0de2680B435a"
+  },
+  "clankerInfo": null
+}

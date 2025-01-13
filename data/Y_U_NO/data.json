@@ -1,0 +1,22 @@
+{
+  "name": "Y U NO",
+  "symbol": "Y U NO",
+  "decimals": 18,
+  "description": "Y U NO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Y%20U%20NO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Y U NO",
+  "addresses": {
+    "8453": "0x18d693181fd09bf0cf4fa4347a1ccf44f33e0298"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Y U NO",
+    "sanitizedSymbol": "Y_U_NO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229457",
+    "lockerAddress": "0x3B70Ce73Cda62632CC66DdF4B5740D712b1DBC36"
+  },
+  "clankerInfo": null
+}

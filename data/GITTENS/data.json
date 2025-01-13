@@ -1,0 +1,22 @@
+{
+  "name": "Gittens",
+  "symbol": "Gittens",
+  "decimals": 18,
+  "description": "Gittens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gittens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gittens",
+  "addresses": {
+    "8453": "0x0d19a1d480dc98314b39dcb87c0ad2419538518a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gittens",
+    "sanitizedSymbol": "GITTENS",
+    "created_at": "2024-12-11T20:07:52.057042",
+    "deployer": "0xa5E0Ce154FBA6d7cD9435b17A8D4BDbCD7BA4fa1",
+    "lpNftId": "1425196",
+    "lockerAddress": "0xAeBb69F21fd3053B0B7ad1227c495b702BcB1525"
+  },
+  "clankerInfo": null
+}

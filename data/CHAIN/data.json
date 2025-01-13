@@ -1,0 +1,22 @@
+{
+  "name": "CHAIN",
+  "symbol": "CHAIN",
+  "decimals": 18,
+  "description": "CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAIN",
+  "addresses": {
+    "8453": "0x3e66785322a3a906d22949c9f180da7d896b3be7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAIN",
+    "sanitizedSymbol": "CHAIN",
+    "created_at": "2024-12-09T09:22:03.194836",
+    "deployer": "0x87A34874Fa707f2fb9385603D21Ca6dAa8337BE7",
+    "lpNftId": "1385255",
+    "lockerAddress": "0x60B0be8F82a25b2ead66a7177600f9Fc827eb872"
+  },
+  "clankerInfo": null
+}

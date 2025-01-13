@@ -1,0 +1,22 @@
+{
+  "name": "Basehub",
+  "symbol": "Basehub",
+  "decimals": 18,
+  "description": "Basehub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basehub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basehub",
+  "addresses": {
+    "8453": "0x37ea73f1aa5fa0c1f4682c5b4db8721e90fb5442"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basehub",
+    "sanitizedSymbol": "BASEHUB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129134",
+    "lockerAddress": "0xC62FDC80A0C16d1B18F88ba57A87258c30851Bb8"
+  },
+  "clankerInfo": null
+}

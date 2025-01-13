@@ -1,0 +1,22 @@
+{
+  "name": "Net",
+  "symbol": "Net",
+  "decimals": 18,
+  "description": "Net is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Net",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Net",
+  "addresses": {
+    "8453": "0x0bc945e3ea693ad1527683d9cfe999407ebaabb0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Net",
+    "sanitizedSymbol": "NET",
+    "created_at": "2024-12-09T03:08:27.297403",
+    "deployer": "0xcf75Bf188c5CA5198eF571aed3D75ECDe3bcD9D9",
+    "lpNftId": "1379606",
+    "lockerAddress": "0xC67E543993B6D90d98104B1701FcB08A8A4167f7"
+  },
+  "clankerInfo": null
+}

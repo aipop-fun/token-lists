@@ -1,0 +1,22 @@
+{
+  "name": "Nasi Padang",
+  "symbol": "Nasi Padang",
+  "decimals": 18,
+  "description": "Nasi Padang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nasi%20Padang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nasi Padang",
+  "addresses": {
+    "8453": "0x1f1860b118f9f097b2bd429b76f2abf8947df9ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nasi Padang",
+    "sanitizedSymbol": "NASI_PADANG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219922",
+    "lockerAddress": "0x653C4010910E40eB516B6CB3D854E46121C2ce6D"
+  },
+  "clankerInfo": null
+}

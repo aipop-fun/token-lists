@@ -1,0 +1,22 @@
+{
+  "name": "DOGE UNCHAINED",
+  "symbol": "DOGE UNCHAINED",
+  "decimals": 18,
+  "description": "DOGE UNCHAINED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGE%20UNCHAINED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGE UNCHAINED",
+  "addresses": {
+    "8453": "0x04874f717a6ef9055382e1e915d36467266007f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGE UNCHAINED",
+    "sanitizedSymbol": "DOGE_UNCHAINED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC660fddEa71c945282EEC81C90882EE5FD887628",
+    "lpNftId": "1323435",
+    "lockerAddress": "0xf5Bb014aa2A383A287602E81e8D97A1CF986b634"
+  },
+  "clankerInfo": null
+}

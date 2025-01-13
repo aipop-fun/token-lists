@@ -1,0 +1,22 @@
+{
+  "name": "NightmareBluntRotation",
+  "symbol": "NightmareBluntRotation",
+  "decimals": 18,
+  "description": "NightmareBluntRotation is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NightmareBluntRotation",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NightmareBluntRotation",
+  "addresses": {
+    "8453": "0x2508ecf700b9c7642ac0158591a50e1564841b2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NightmareBluntRotation",
+    "sanitizedSymbol": "NIGHTMAREBLUNTROTATION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6f25A0DD4c3BD4eF1A89916B3E0162061249885a",
+    "lpNftId": "1287635",
+    "lockerAddress": "0xA0F7De36eCC1728EfA4DCda4fE6FB93e85a8AD07"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HealthToken",
+  "symbol": "HealthToken",
+  "decimals": 18,
+  "description": "HealthToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HealthToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HealthToken",
+  "addresses": {
+    "8453": "0x291785014ce2fb8bb6fa55ee24685aab352c799d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HealthToken",
+    "sanitizedSymbol": "HEALTHTOKEN",
+    "created_at": "2024-12-11T16:22:37.621691",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1421791",
+    "lockerAddress": "0x70A40DFe162E78C86b8F7648A020740D0B674470"
+  },
+  "clankerInfo": null
+}

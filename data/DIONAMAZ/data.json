@@ -1,0 +1,22 @@
+{
+  "name": "DIONAMAZ",
+  "symbol": "DIONAMAZ",
+  "decimals": 18,
+  "description": "DIONAMAZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DIONAMAZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DIONAMAZ",
+  "addresses": {
+    "8453": "0x3addabd78da401be692fe2ac10ad76849fcbcecb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DIONAMAZ",
+    "sanitizedSymbol": "DIONAMAZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xba4B28C34f32E9353412c8b7b1B81FceE4183879",
+    "lpNftId": "1309446",
+    "lockerAddress": "0xac980214933cA1C08aF68940a25a0d9dDc613D65"
+  },
+  "clankerInfo": null
+}

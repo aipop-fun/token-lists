@@ -1,0 +1,22 @@
+{
+  "name": "Base Guy",
+  "symbol": "Base Guy",
+  "decimals": 18,
+  "description": "Base Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Guy",
+  "addresses": {
+    "8453": "0x3bd3c6cf7695a3dbe73cf40077abfe663dc5aeee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Guy",
+    "sanitizedSymbol": "BASE_GUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1198667d6Cc00AFa078dd4333f8328D8870f3C6d",
+    "lpNftId": "1347465",
+    "lockerAddress": "0xe0e37863a9fED0B2B6b25992433CBA10aa9D19AE"
+  },
+  "clankerInfo": null
+}

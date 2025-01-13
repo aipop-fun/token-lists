@@ -1,0 +1,22 @@
+{
+  "name": "TEST ALL FOLLOWERS",
+  "symbol": "TEST ALL FOLLOWERS",
+  "decimals": 18,
+  "description": "TEST ALL FOLLOWERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEST%20ALL%20FOLLOWERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEST ALL FOLLOWERS",
+  "addresses": {
+    "8453": "0x0334e3228fd706c2b4169bd7b0e6b68351881c9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEST ALL FOLLOWERS",
+    "sanitizedSymbol": "TEST_ALL_FOLLOWERS",
+    "created_at": "2024-12-11T05:43:31.415075",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1413582",
+    "lockerAddress": "0x5C5B20159DCE235afe8d1D474C10C6195a58d3F9"
+  },
+  "clankerInfo": null
+}

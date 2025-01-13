@@ -1,0 +1,22 @@
+{
+  "name": "MerryPepe",
+  "symbol": "MerryPepe",
+  "decimals": 18,
+  "description": "MerryPepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MerryPepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MerryPepe",
+  "addresses": {
+    "8453": "0x063ae0d396cb46d892a3a4cc4c87c664f6f00c62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MerryPepe",
+    "sanitizedSymbol": "MERRYPEPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x00D73851373E082FE89Bb85448Dd15e5F61d94ef",
+    "lpNftId": "1268241",
+    "lockerAddress": "0x40DaCAb68b9e722df6F2590AD0506EE37A97D812"
+  },
+  "clankerInfo": null
+}

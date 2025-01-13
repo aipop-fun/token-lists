@@ -1,0 +1,22 @@
+{
+  "name": "AceOfBase",
+  "symbol": "AceOfBase",
+  "decimals": 18,
+  "description": "AceOfBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AceOfBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AceOfBase",
+  "addresses": {
+    "8453": "0x2217a2c1c7e3524173d212609553fb3682602f8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AceOfBase",
+    "sanitizedSymbol": "ACEOFBASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232768",
+    "lockerAddress": "0xcF5140db16d9c65F8E45f35bAF8349d30198311A"
+  },
+  "clankerInfo": null
+}

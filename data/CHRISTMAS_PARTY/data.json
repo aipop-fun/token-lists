@@ -1,0 +1,22 @@
+{
+  "name": "Christmas party",
+  "symbol": "Christmas party",
+  "decimals": 18,
+  "description": "Christmas party is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Christmas%20party",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Christmas party",
+  "addresses": {
+    "8453": "0x3099dc9f2792d6276017310696f8331e4682c5bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Christmas party",
+    "sanitizedSymbol": "CHRISTMAS_PARTY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1320190",
+    "lockerAddress": "0xf814F634CFA1aDD2A4765E6d7872FAd30cdd7340"
+  },
+  "clankerInfo": null
+}

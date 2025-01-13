@@ -1,0 +1,22 @@
+{
+  "name": "BATMAN",
+  "symbol": "BATMAN",
+  "decimals": 18,
+  "description": "BATMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BATMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BATMAN",
+  "addresses": {
+    "8453": "0x36f0fa2d9dea3251a7ec6d8925051cc571c28f43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BATMAN",
+    "sanitizedSymbol": "BATMAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215794",
+    "lockerAddress": "0x0427896a1CeC29344A79956dCCa67DdCb21FC561"
+  },
+  "clankerInfo": null
+}

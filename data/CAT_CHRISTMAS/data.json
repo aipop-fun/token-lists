@@ -1,0 +1,22 @@
+{
+  "name": "Cat Christmas",
+  "symbol": "Cat Christmas",
+  "decimals": 18,
+  "description": "Cat Christmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Christmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Christmas",
+  "addresses": {
+    "8453": "0x2be6e0fb8a2c55e374d38e5ef3232b57ea387da6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Christmas",
+    "sanitizedSymbol": "CAT_CHRISTMAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x042273183818FF50cAE2cD5883AB2c7ffD421b8b",
+    "lpNftId": "1323952",
+    "lockerAddress": "0xb416A65a843d136FC25C72c9e61abA9C2d0eab15"
+  },
+  "clankerInfo": null
+}

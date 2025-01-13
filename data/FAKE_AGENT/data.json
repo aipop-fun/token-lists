@@ -1,0 +1,22 @@
+{
+  "name": "Fake Agent",
+  "symbol": "Fake Agent",
+  "decimals": 18,
+  "description": "Fake Agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fake%20Agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fake Agent",
+  "addresses": {
+    "8453": "0x266cc8bd7e756705803ec7fdf762c72c9bacfda5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fake Agent",
+    "sanitizedSymbol": "FAKE_AGENT",
+    "created_at": "2024-12-09T10:49:15.221184",
+    "deployer": "0xfA173f55A61Bd5292778D9daa13Cd12B86CAd1Dd",
+    "lpNftId": "1386084",
+    "lockerAddress": "0x35F4A546A9fdd8184bF1E0453A1142C402c6BB63"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Qubitcoin",
+  "symbol": "Qubitcoin",
+  "decimals": 18,
+  "description": "Qubitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Qubitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Qubitcoin",
+  "addresses": {
+    "8453": "0x3815eb77a808ce4a2cbd3c71a8ddc03a3ecc4714"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Qubitcoin",
+    "sanitizedSymbol": "QUBITCOIN",
+    "created_at": "2024-12-10T03:52:23.500143",
+    "deployer": "0x04333a1788a47068b9102D2d35695c312A0b312F",
+    "lpNftId": "1395929",
+    "lockerAddress": "0x2f4Ef12203De865405832BF6448bdd0a153080a4"
+  },
+  "clankerInfo": null
+}

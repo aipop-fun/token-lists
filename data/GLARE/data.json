@@ -1,0 +1,22 @@
+{
+  "name": "GLARE",
+  "symbol": "GLARE",
+  "decimals": 18,
+  "description": "GLARE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GLARE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GLARE",
+  "addresses": {
+    "8453": "0x072de063edeb42d699d9207cd51fadb9bd2f120e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GLARE",
+    "sanitizedSymbol": "GLARE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8d36dceafEc1e9eC5972e067fd7703d3F5ffC085",
+    "lpNftId": "1286460",
+    "lockerAddress": "0x021F4E2620CDEA400b4D763FCc45289EaDbD174f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "moooood",
+  "symbol": "moooood",
+  "decimals": 18,
+  "description": "moooood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moooood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moooood",
+  "addresses": {
+    "8453": "0x24d72621f11c00c13a4b47bc369432180004cf40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moooood",
+    "sanitizedSymbol": "MOOOOOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb31Cf365b31B76D5f449FF79c6e2BB0AB06d968E",
+    "lpNftId": "1347156",
+    "lockerAddress": "0xbEbD6Fe772c41935edDD15A3f45e811585aff9a1"
+  },
+  "clankerInfo": null
+}

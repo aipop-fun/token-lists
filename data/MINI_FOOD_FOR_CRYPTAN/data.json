@@ -1,0 +1,22 @@
+{
+  "name": "Mini food for cryptan",
+  "symbol": "Mini food for cryptan",
+  "decimals": 18,
+  "description": "Mini food for cryptan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mini%20food%20for%20cryptan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mini food for cryptan",
+  "addresses": {
+    "8453": "0x2ab61a95461d667b5ef10a37756a9e82d4fe2836"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mini food for cryptan",
+    "sanitizedSymbol": "MINI_FOOD_FOR_CRYPTAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3fC2ca5D9629F2826c8FCA8667e1C74dAE3F76D4",
+    "lpNftId": "1320682",
+    "lockerAddress": "0x21111B55F99EFe34A44b0dFa28962431292C7BCB"
+  },
+  "clankerInfo": null
+}

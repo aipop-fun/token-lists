@@ -1,0 +1,22 @@
+{
+  "name": "TGH",
+  "symbol": "TGH",
+  "decimals": 18,
+  "description": "TGH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TGH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TGH",
+  "addresses": {
+    "8453": "0x337212f91f24e520d8d4811226cde0c2950c495f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TGH",
+    "sanitizedSymbol": "TGH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x04a93274045e96924B0A3E5D037A834B6e14012E",
+    "lpNftId": "1328081",
+    "lockerAddress": "0x1328DC1452A019E7cDE2465e0933088fFc799b95"
+  },
+  "clankerInfo": null
+}

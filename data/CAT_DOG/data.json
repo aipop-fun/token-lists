@@ -1,0 +1,22 @@
+{
+  "name": "CAT&DOG",
+  "symbol": "CAT&DOG",
+  "decimals": 18,
+  "description": "CAT&DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT%26DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT&DOG",
+  "addresses": {
+    "8453": "0x20284df3492fe388698f473b79468701b7dcce18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT&DOG",
+    "sanitizedSymbol": "CAT_DOG",
+    "created_at": "2024-12-12T14:29:06.511194",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1435872",
+    "lockerAddress": "0xc2d3A4C2Bf2CD047358B96a2c64975a2C6f39986"
+  },
+  "clankerInfo": null
+}

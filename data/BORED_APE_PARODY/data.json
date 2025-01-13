@@ -1,0 +1,22 @@
+{
+  "name": "Bored Ape Parody",
+  "symbol": "Bored Ape Parody",
+  "decimals": 18,
+  "description": "Bored Ape Parody is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bored%20Ape%20Parody",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bored Ape Parody",
+  "addresses": {
+    "8453": "0x2fb3ff66c01d988572b94ce50ab32479d66efe52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bored Ape Parody",
+    "sanitizedSymbol": "BORED_APE_PARODY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143067",
+    "lockerAddress": "0x1aF27f645225185aaC679B32868Ef00B0e6F5918"
+  },
+  "clankerInfo": null
+}

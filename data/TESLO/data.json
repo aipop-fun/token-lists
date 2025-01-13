@@ -1,0 +1,22 @@
+{
+  "name": "TESLO",
+  "symbol": "TESLO",
+  "decimals": 18,
+  "description": "TESLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESLO",
+  "addresses": {
+    "8453": "0x1f2da4f980a3dcf29047fa7fc9468ef7769a27a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESLO",
+    "sanitizedSymbol": "TESLO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1228380",
+    "lockerAddress": "0xD12Cd8C7A58dA3081ac5091F0b2281C86BDB3c3a"
+  },
+  "clankerInfo": null
+}

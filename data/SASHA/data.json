@@ -1,0 +1,22 @@
+{
+  "name": "Sasha",
+  "symbol": "Sasha",
+  "decimals": 18,
+  "description": "Sasha is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sasha",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sasha",
+  "addresses": {
+    "8453": "0x3dc5afd2bad82b4570e3b45110a34929c7c6b5a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sasha",
+    "sanitizedSymbol": "SASHA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233013",
+    "lockerAddress": "0xE806Cd97137f00935949Ae10b06d2aC25F13A95B"
+  },
+  "clankerInfo": null
+}

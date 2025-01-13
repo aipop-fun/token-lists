@@ -1,0 +1,22 @@
+{
+  "name": "LAMP",
+  "symbol": "LAMP",
+  "decimals": 18,
+  "description": "LAMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAMP",
+  "addresses": {
+    "8453": "0x018d7211b9850facae8ec54e4899e555271e1bc2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAMP",
+    "sanitizedSymbol": "LAMP_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x026AD69764a4b6924375C325b6F92794e74099C4",
+    "lpNftId": "1251973",
+    "lockerAddress": "0x1eFd53932deB288a8e3be73750d63873ea64102A"
+  },
+  "clankerInfo": null
+}

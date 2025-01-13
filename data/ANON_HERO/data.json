@@ -1,0 +1,22 @@
+{
+  "name": "ANON HERO",
+  "symbol": "ANON HERO",
+  "decimals": 18,
+  "description": "ANON HERO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANON%20HERO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANON HERO",
+  "addresses": {
+    "8453": "0x2fd03c37c8544521db9a2aa49bbb5ff095dce431"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANON HERO",
+    "sanitizedSymbol": "ANON_HERO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8718f408adf297E9701d92Aae8027676A805Ec10",
+    "lpNftId": "1328087",
+    "lockerAddress": "0xA8e418a6b447F4647f4518775cB6F43814660770"
+  },
+  "clankerInfo": null
+}

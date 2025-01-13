@@ -1,0 +1,22 @@
+{
+  "name": "Waffler",
+  "symbol": "Waffler",
+  "decimals": 18,
+  "description": "Waffler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Waffler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Waffler",
+  "addresses": {
+    "8453": "0x28d5bbec18c501a30e3482f50884a1426aa127ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Waffler",
+    "sanitizedSymbol": "WAFFLER",
+    "created_at": "2024-12-10T07:06:21.220981",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397613",
+    "lockerAddress": "0xdd68345BF92cFA66579B0E57a4241c4E7E55bbA9"
+  },
+  "clankerInfo": null
+}

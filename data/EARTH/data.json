@@ -1,0 +1,22 @@
+{
+  "name": "Earth",
+  "symbol": "Earth",
+  "decimals": 18,
+  "description": "Earth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Earth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Earth",
+  "addresses": {
+    "8453": "0x3602069e47ddcd3635fc587bfa22afcf31c5bd85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Earth",
+    "sanitizedSymbol": "EARTH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223407",
+    "lockerAddress": "0xF0B3B29368D1D541c5236b35645Ee06fdCcd750A"
+  },
+  "clankerInfo": null
+}

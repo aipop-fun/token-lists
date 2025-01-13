@@ -1,0 +1,22 @@
+{
+  "name": "MarsMusk",
+  "symbol": "MarsMusk",
+  "decimals": 18,
+  "description": "MarsMusk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MarsMusk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MarsMusk",
+  "addresses": {
+    "8453": "0x0674f14973fa8a4434e792b3831ecebd33acc111"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MarsMusk",
+    "sanitizedSymbol": "MARSMUSK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236326",
+    "lockerAddress": "0xc00d1A0DBaFf036bB40d9001F4Ec49717BCE5cCA"
+  },
+  "clankerInfo": null
+}

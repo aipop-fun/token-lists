@@ -1,0 +1,22 @@
+{
+  "name": "SANTA PEPE",
+  "symbol": "SANTA PEPE",
+  "decimals": 18,
+  "description": "SANTA PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA PEPE",
+  "addresses": {
+    "8453": "0x0997dc646700644e5290de8b051eaac4523d1554"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA PEPE",
+    "sanitizedSymbol": "SANTA_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1286096",
+    "lockerAddress": "0x064BA5539260b96D8199DfD5100BffC551847233"
+  },
+  "clankerInfo": null
+}

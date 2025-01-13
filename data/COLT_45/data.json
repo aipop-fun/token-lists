@@ -1,0 +1,22 @@
+{
+  "name": "Colt 45",
+  "symbol": "Colt 45",
+  "decimals": 18,
+  "description": "Colt 45 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Colt%2045",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Colt 45",
+  "addresses": {
+    "8453": "0x2c76ba6725f3877a8614a09db4bd2913ff47b687"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Colt 45",
+    "sanitizedSymbol": "COLT_45",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeF1ACC76f004EC43a3c3052f189956F995a9D134",
+    "lpNftId": "1327357",
+    "lockerAddress": "0x78EF61F44B329d4A94352fF208d4C07c6E0E66f4"
+  },
+  "clankerInfo": null
+}

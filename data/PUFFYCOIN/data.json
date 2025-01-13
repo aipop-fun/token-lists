@@ -1,0 +1,22 @@
+{
+  "name": "PuffyCoin",
+  "symbol": "PuffyCoin",
+  "decimals": 18,
+  "description": "PuffyCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PuffyCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PuffyCoin",
+  "addresses": {
+    "8453": "0x213accc4a4cf9b561d162c1716b69ffd591bdced"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PuffyCoin",
+    "sanitizedSymbol": "PUFFYCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1313277",
+    "lockerAddress": "0xFFa33A6F6f09Ac2595525110e55A47bf25bEF56c"
+  },
+  "clankerInfo": null
+}

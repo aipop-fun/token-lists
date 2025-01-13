@@ -1,0 +1,22 @@
+{
+  "name": "buling",
+  "symbol": "buling",
+  "decimals": 18,
+  "description": "buling is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=buling",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "buling",
+  "addresses": {
+    "8453": "0x0700c78d59bd876073d8ec77cf4a3056f7a224a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "buling",
+    "sanitizedSymbol": "BULING",
+    "created_at": "2024-12-09T06:12:33.202296",
+    "deployer": "0xF45fcB6571eA9Fe3F102f650FEb514E988D2590A",
+    "lpNftId": "1383703",
+    "lockerAddress": "0x7D942A6e8EEae5BAf2356022a257C2d7c762AdDC"
+  },
+  "clankerInfo": null
+}

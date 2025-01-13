@@ -1,0 +1,22 @@
+{
+  "name": "Rizzmas",
+  "symbol": "Rizzmas",
+  "decimals": 18,
+  "description": "Rizzmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rizzmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rizzmas",
+  "addresses": {
+    "8453": "0x12e0dc9ef5fb030006cc23e6602dbbbd9809b07c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rizzmas",
+    "sanitizedSymbol": "RIZZMAS_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE3F1864E378057c77064B50f948F08525C190157",
+    "lpNftId": "1319843",
+    "lockerAddress": "0xEB91f99F1117A4282bb7712DcC92dcdDcbff8a47"
+  },
+  "clankerInfo": null
+}

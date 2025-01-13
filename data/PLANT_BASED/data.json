@@ -1,0 +1,22 @@
+{
+  "name": "Plant Based",
+  "symbol": "Plant Based",
+  "decimals": 18,
+  "description": "Plant Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Plant%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Plant Based",
+  "addresses": {
+    "8453": "0x2311dec620bfd6fe6f3d7755fb7a8203712e076c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Plant Based",
+    "sanitizedSymbol": "PLANT_BASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84ce35C1093C366a8f55E9BD5290ae7E32B486De",
+    "lpNftId": "1311873",
+    "lockerAddress": "0x81C8F247665a372fB8fA04Df658Fa6e191f3e18b"
+  },
+  "clankerInfo": null
+}

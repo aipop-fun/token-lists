@@ -1,0 +1,22 @@
+{
+  "name": "FBOTS",
+  "symbol": "FBOTS",
+  "decimals": 18,
+  "description": "FBOTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FBOTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FBOTS",
+  "addresses": {
+    "8453": "0x3e8daea55d7df956c9cc17a652de4eb0334bb9c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FBOTS",
+    "sanitizedSymbol": "FBOTS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xabF5c67112327608c7A67102abd5B3F608ADb4B5",
+    "lpNftId": "1264274",
+    "lockerAddress": "0x90247495f2317E211dDf3776b3D83fF051fb00C4"
+  },
+  "clankerInfo": null
+}

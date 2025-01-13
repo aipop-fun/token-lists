@@ -1,0 +1,22 @@
+{
+  "name": "moxito",
+  "symbol": "moxito",
+  "decimals": 18,
+  "description": "moxito is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moxito",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moxito",
+  "addresses": {
+    "8453": "0x2f7f9100770fbbd8874fe5a9987f991eb17184d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moxito",
+    "sanitizedSymbol": "MOXITO",
+    "created_at": "2024-12-12T03:22:48.655141",
+    "deployer": "0x6a2f6c4C10c8AF0f0EeE8eEa8b7859C2a6000902",
+    "lpNftId": "1428863",
+    "lockerAddress": "0x3664aeA36CB0EF15C488Fae35FC4D86650D8B8B4"
+  },
+  "clankerInfo": null
+}

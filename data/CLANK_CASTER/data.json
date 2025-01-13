@@ -1,0 +1,22 @@
+{
+  "name": "Clank Caster",
+  "symbol": "Clank Caster",
+  "decimals": 18,
+  "description": "Clank Caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Caster",
+  "addresses": {
+    "8453": "0x34a2f58b81ecb611bf4aee87c7b827ad1c8ea88c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Caster",
+    "sanitizedSymbol": "CLANK_CASTER",
+    "created_at": "2024-12-10T09:40:30.842174",
+    "deployer": "0x3F18F3da2a49b493D171d7cAbD358338af9e5B71",
+    "lpNftId": "1399317",
+    "lockerAddress": "0x3832e00bFD2D4bDBEF70A926871340A2E6392B4c"
+  },
+  "clankerInfo": null
+}

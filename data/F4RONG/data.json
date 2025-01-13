@@ -1,0 +1,22 @@
+{
+  "name": "F4RONG",
+  "symbol": "F4RONG",
+  "decimals": 18,
+  "description": "F4RONG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=F4RONG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "F4RONG",
+  "addresses": {
+    "8453": "0x1ba13803eb75f5c58e52bf99ce9cfc14f69b7db1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "F4RONG",
+    "sanitizedSymbol": "F4RONG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3c7984fD4B1e4777488B7e0320fE615C0Bd42235",
+    "lpNftId": "1283746",
+    "lockerAddress": "0x5F732d28FC35f0c634792B1bE5bACFE538A319e1"
+  },
+  "clankerInfo": null
+}

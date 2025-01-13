@@ -1,0 +1,22 @@
+{
+  "name": "HALO",
+  "symbol": "HALO",
+  "decimals": 18,
+  "description": "HALO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HALO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HALO",
+  "addresses": {
+    "8453": "0x3b04c9c750418ebbab7afa4f02da4d9df3529c7e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HALO",
+    "sanitizedSymbol": "HALO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235032",
+    "lockerAddress": "0x6B592ea3F76B6619F38FB9a9B5B20d838feaffcA"
+  },
+  "clankerInfo": null
+}

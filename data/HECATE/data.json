@@ -1,0 +1,22 @@
+{
+  "name": "HECATE",
+  "symbol": "HECATE",
+  "decimals": 18,
+  "description": "HECATE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HECATE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HECATE",
+  "addresses": {
+    "8453": "0x0ebe941046ce528efa952071e8f202bed1543f10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HECATE",
+    "sanitizedSymbol": "HECATE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6110DFca53554486489E07dFFde2E384AFe99827",
+    "lpNftId": "1291825",
+    "lockerAddress": "0xb73536E1c4251297C83AF364671AEae2C92062Cf"
+  },
+  "clankerInfo": null
+}

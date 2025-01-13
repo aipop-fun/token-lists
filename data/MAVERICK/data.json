@@ -1,0 +1,22 @@
+{
+  "name": "Maverick",
+  "symbol": "Maverick",
+  "decimals": 18,
+  "description": "Maverick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maverick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maverick",
+  "addresses": {
+    "8453": "0x13087364f4646ce8265322156ebbef1ff92d20b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maverick",
+    "sanitizedSymbol": "MAVERICK",
+    "created_at": "2024-12-10T20:49:33.574367",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1407056",
+    "lockerAddress": "0x46443e696043df18382152BE30a72140a14779e7"
+  },
+  "clankerInfo": null
+}

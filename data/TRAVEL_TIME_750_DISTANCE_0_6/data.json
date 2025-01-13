@@ -1,0 +1,22 @@
+{
+  "name": "Travel Time ~=750*distance^0.6",
+  "symbol": "Travel Time ~=750*distance^0.6",
+  "decimals": 18,
+  "description": "Travel Time ~=750*distance^0.6 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Travel%20Time%20~%3D750*distance%5E0.6",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Travel Time ~=750*distance^0.6",
+  "addresses": {
+    "8453": "0x00d15d5c47a7352a7a14db70806eefd378b55ea9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Travel Time ~=750*distance^0.6",
+    "sanitizedSymbol": "TRAVEL_TIME_750_DISTANCE_0_6",
+    "created_at": "2024-12-12T01:14:33.008664",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1428364",
+    "lockerAddress": "0x39638BcfdD94DcF99cb5FBF26cdf0b3E7b6f4971"
+  },
+  "clankerInfo": null
+}

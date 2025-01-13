@@ -1,0 +1,22 @@
+{
+  "name": "Jason Calacanis",
+  "symbol": "Jason Calacanis",
+  "decimals": 18,
+  "description": "Jason Calacanis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jason%20Calacanis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jason Calacanis",
+  "addresses": {
+    "8453": "0x2591df101dcfd4df2a6b574b45a186f22f6f9329"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jason Calacanis",
+    "sanitizedSymbol": "JASON_CALACANIS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1347398",
+    "lockerAddress": "0x32a4fD9224a77E5c6C1A1Ec80B7A4A95FFe765E7"
+  },
+  "clankerInfo": null
+}

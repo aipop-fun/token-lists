@@ -1,0 +1,22 @@
+{
+  "name": "$SWITCH",
+  "symbol": "$SWITCH",
+  "decimals": 18,
+  "description": "$SWITCH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24SWITCH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$SWITCH",
+  "addresses": {
+    "8453": "0x1792de5291843f421fab6b707732c85c91579804"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$SWITCH",
+    "sanitizedSymbol": "SWITCH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x271a76F815E544aDB83e84d368295c0E83305e5a",
+    "lpNftId": "1320345",
+    "lockerAddress": "0xE1d506F7eEabF238e4eEBE4bfC81d46f04188094"
+  },
+  "clankerInfo": null
+}

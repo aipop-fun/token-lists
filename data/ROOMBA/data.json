@@ -1,0 +1,22 @@
+{
+  "name": "roomba",
+  "symbol": "roomba",
+  "decimals": 18,
+  "description": "roomba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=roomba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "roomba",
+  "addresses": {
+    "8453": "0x1d9e0623987b9008308e6dbe362b2d898ccc9560"
+  },
+  "tokenInfo": {
+    "originalSymbol": "roomba",
+    "sanitizedSymbol": "ROOMBA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232258",
+    "lockerAddress": "0x6CDA9C15b01E570003CEC750440DF963D780fFa2"
+  },
+  "clankerInfo": null
+}

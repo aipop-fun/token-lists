@@ -1,0 +1,22 @@
+{
+  "name": "TRYING",
+  "symbol": "TRYING",
+  "decimals": 18,
+  "description": "TRYING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRYING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRYING",
+  "addresses": {
+    "8453": "0x364d90d4b00ca2df83452989d28a45abfa31bb8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRYING",
+    "sanitizedSymbol": "TRYING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6510cB12a2B6bb49cDbfbd23E6D40ba521f48f35",
+    "lpNftId": "1208282",
+    "lockerAddress": "0x112d1f9c513E782FA5980861D4713EeE6eD3f673"
+  },
+  "clankerInfo": null
+}

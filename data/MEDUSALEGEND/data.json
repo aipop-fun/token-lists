@@ -1,0 +1,22 @@
+{
+  "name": "MEDUSALEGEND",
+  "symbol": "MEDUSALEGEND",
+  "decimals": 18,
+  "description": "MEDUSALEGEND is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEDUSALEGEND",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEDUSALEGEND",
+  "addresses": {
+    "8453": "0x22d88909d4f1d6e6838ac3886f24df49ce3f14da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEDUSALEGEND",
+    "sanitizedSymbol": "MEDUSALEGEND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x72D534BdF4Af8F694AfdEBF51516C8B713c5bEBA",
+    "lpNftId": "1311232",
+    "lockerAddress": "0x926717fDB59f840460EE05B9063B5f5dFd72f64C"
+  },
+  "clankerInfo": null
+}

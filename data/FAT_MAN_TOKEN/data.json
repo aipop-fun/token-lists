@@ -1,0 +1,22 @@
+{
+  "name": "Fat Man Token",
+  "symbol": "Fat Man Token",
+  "decimals": 18,
+  "description": "Fat Man Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fat%20Man%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fat Man Token",
+  "addresses": {
+    "8453": "0x2795f450173076348bb3420eb2b3d81d69835785"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fat Man Token",
+    "sanitizedSymbol": "FAT_MAN_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA7071299Be9dE85A7ac0C170E7f129856b7aDc9F",
+    "lpNftId": "1345051",
+    "lockerAddress": "0xC461B41F43edA6f5823B02d442Fd13ccc4D7a15B"
+  },
+  "clankerInfo": null
+}

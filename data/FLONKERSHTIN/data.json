@@ -1,0 +1,22 @@
+{
+  "name": "Flonkershtin",
+  "symbol": "Flonkershtin",
+  "decimals": 18,
+  "description": "Flonkershtin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flonkershtin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flonkershtin",
+  "addresses": {
+    "8453": "0x27a9b0d68ded07fa03020106751348a8a5c9133a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flonkershtin",
+    "sanitizedSymbol": "FLONKERSHTIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x01EB860feda19Aaac7AdACC0b16CD9F53EEd8222",
+    "lpNftId": "1283735",
+    "lockerAddress": "0x07cC998E7aB83FFe02bF97B802a24e9e1685fec9"
+  },
+  "clankerInfo": null
+}

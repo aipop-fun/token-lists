@@ -1,0 +1,22 @@
+{
+  "name": "Fashion hat",
+  "symbol": "Fashion hat",
+  "decimals": 18,
+  "description": "Fashion hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fashion%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fashion hat",
+  "addresses": {
+    "8453": "0x085cc391f39430f383268871c077979b47eaf863"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fashion hat",
+    "sanitizedSymbol": "FASHION_HAT",
+    "created_at": "2024-12-10T12:37:31.181268",
+    "deployer": "0x6217E13578D8F88f3729C1394293c885C275f0d4",
+    "lpNftId": "1400982",
+    "lockerAddress": "0x2A779859eB1E0Dacec39665769eba38667194Fa8"
+  },
+  "clankerInfo": null
+}

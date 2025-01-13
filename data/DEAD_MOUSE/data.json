@@ -1,0 +1,22 @@
+{
+  "name": "Dead mouse",
+  "symbol": "Dead mouse",
+  "decimals": 18,
+  "description": "Dead mouse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dead%20mouse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dead mouse",
+  "addresses": {
+    "8453": "0x036cd9d73cdb55f930856562160ecb19c0412400"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dead mouse",
+    "sanitizedSymbol": "DEAD_MOUSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210297",
+    "lockerAddress": "0xdF35F63D6C270d66b0a20FCF00CECFbc39a633a4"
+  },
+  "clankerInfo": null
+}

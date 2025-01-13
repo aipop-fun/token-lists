@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik First Cast",
+  "symbol": "Vitalik First Cast",
+  "decimals": 18,
+  "description": "Vitalik First Cast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20First%20Cast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik First Cast",
+  "addresses": {
+    "8453": "0x151b8ef8cba21f90c6bf3f9d051e1e980b8de886"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik First Cast",
+    "sanitizedSymbol": "VITALIK_FIRST_CAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x867b7A48aea47041568fD754d1A80Ae76E2143b0",
+    "lpNftId": "1305880",
+    "lockerAddress": "0xe353B43eA58DC8bA723Dd8B58d82F9949a9d0638"
+  },
+  "clankerInfo": null
+}

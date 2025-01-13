@@ -1,0 +1,22 @@
+{
+  "name": "Fear of Missing Fees",
+  "symbol": "Fear of Missing Fees",
+  "decimals": 18,
+  "description": "Fear of Missing Fees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fear%20of%20Missing%20Fees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fear of Missing Fees",
+  "addresses": {
+    "8453": "0x183d94d46a56f634fd6ab77be914fa27e9f7e877"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fear of Missing Fees",
+    "sanitizedSymbol": "FEAR_OF_MISSING_FEES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1A8652b88D2dBF84d362676E47d0E4Ac5E564060",
+    "lpNftId": "1299717",
+    "lockerAddress": "0xc95F78BA9D6daBb20eB0Bf2B2Ca70FF8C0a9700D"
+  },
+  "clankerInfo": null
+}

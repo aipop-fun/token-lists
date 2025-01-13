@@ -1,0 +1,22 @@
+{
+  "name": "Weinacht",
+  "symbol": "Weinacht",
+  "decimals": 18,
+  "description": "Weinacht is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weinacht",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weinacht",
+  "addresses": {
+    "8453": "0x1aee96fc41bc9f61ee47268098989e89bb340e9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weinacht",
+    "sanitizedSymbol": "WEINACHT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23bD9d34961616FA9f59976278DA6D3E8BA29b77",
+    "lpNftId": "1364415",
+    "lockerAddress": "0x8994f7203DBD899877BD6e11C51daDd7E2801ADa"
+  },
+  "clankerInfo": null
+}

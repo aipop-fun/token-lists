@@ -1,0 +1,22 @@
+{
+  "name": "Goose Galaxy",
+  "symbol": "Goose Galaxy",
+  "decimals": 18,
+  "description": "Goose Galaxy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goose%20Galaxy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goose Galaxy",
+  "addresses": {
+    "8453": "0x1b734315e7ef594c13f20b6b11ee3a38e5366301"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goose Galaxy",
+    "sanitizedSymbol": "GOOSE_GALAXY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xAc34e483065F68a074D0a8d3411a0179ab1bFA2E",
+    "lpNftId": "1250723",
+    "lockerAddress": "0xb78a5986cA71Ecbd3045D8d58281BBB54B1c21d7"
+  },
+  "clankerInfo": null
+}

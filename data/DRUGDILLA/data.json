@@ -1,0 +1,22 @@
+{
+  "name": "drUgdilla",
+  "symbol": "drUgdilla",
+  "decimals": 18,
+  "description": "drUgdilla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=drUgdilla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "drUgdilla",
+  "addresses": {
+    "8453": "0x3477d521e9bb50d0c1a55ef78a750b8486f7fdce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "drUgdilla",
+    "sanitizedSymbol": "DRUGDILLA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232122",
+    "lockerAddress": "0x5ce7b164eB532cbD603cCC4E2b00062dDE5b941a"
+  },
+  "clankerInfo": null
+}

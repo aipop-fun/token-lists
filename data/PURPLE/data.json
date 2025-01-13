@@ -1,0 +1,22 @@
+{
+  "name": "Purple",
+  "symbol": "Purple",
+  "decimals": 18,
+  "description": "Purple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purple",
+  "addresses": {
+    "8453": "0x3b7d8ede1eeed1a1bec47e8bb79ecfeb3044a43a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purple",
+    "sanitizedSymbol": "PURPLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xecb00427816E652a94c6D85406D1C3904909F421",
+    "lpNftId": "1322420",
+    "lockerAddress": "0x090dc26e1A1582A67C555B2f444507da2C899085"
+  },
+  "clankerInfo": null
+}

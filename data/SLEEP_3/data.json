@@ -1,0 +1,22 @@
+{
+  "name": "SLEEP",
+  "symbol": "SLEEP",
+  "decimals": 18,
+  "description": "SLEEP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLEEP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLEEP",
+  "addresses": {
+    "8453": "0x130457d4fbf17063fdc55a0cb3f4cedacb17a78c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLEEP",
+    "sanitizedSymbol": "SLEEP_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9De6114eB7c8E185D028d6A5d9BCcFDd3f1c7Ffc",
+    "lpNftId": "1319853",
+    "lockerAddress": "0xee172c6A0108114c45612A276c8Cda2F845a64cA"
+  },
+  "clankerInfo": null
+}

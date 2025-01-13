@@ -1,0 +1,22 @@
+{
+  "name": "Frank",
+  "symbol": "Frank",
+  "decimals": 18,
+  "description": "Frank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frank",
+  "addresses": {
+    "8453": "0x396333c335b935c3d58343ebdb413685cd83b4b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frank",
+    "sanitizedSymbol": "FRANK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152223",
+    "lockerAddress": "0xB374663E86404824218eFB495Cf9412db8f215d8"
+  },
+  "clankerInfo": null
+}

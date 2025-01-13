@@ -1,0 +1,22 @@
+{
+  "name": "the moist maker",
+  "symbol": "the moist maker",
+  "decimals": 18,
+  "description": "the moist maker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20moist%20maker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the moist maker",
+  "addresses": {
+    "8453": "0x2fb8fd811598c6fda6c6c4f0d1fe4495e11421d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the moist maker",
+    "sanitizedSymbol": "THE_MOIST_MAKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xAFcA747b067C40Ae0Dda3F170Ae971a2CBf4D05C",
+    "lpNftId": "1265373",
+    "lockerAddress": "0x63eD30bB0701839145c97C436501B1FaD5Eee167"
+  },
+  "clankerInfo": null
+}

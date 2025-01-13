@@ -1,0 +1,22 @@
+{
+  "name": "PawPals",
+  "symbol": "PawPals",
+  "decimals": 18,
+  "description": "PawPals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PawPals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PawPals",
+  "addresses": {
+    "8453": "0x33e9e185bbd7d1e43ec36dd509143664f014b6a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PawPals",
+    "sanitizedSymbol": "PAWPALS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1148290",
+    "lockerAddress": "0x349B53F2cE1920a6a5E15056A118977cd66a0365"
+  },
+  "clankerInfo": null
+}

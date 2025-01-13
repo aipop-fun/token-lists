@@ -1,0 +1,22 @@
+{
+  "name": "Toshi AI",
+  "symbol": "Toshi AI",
+  "decimals": 18,
+  "description": "Toshi AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Toshi%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Toshi AI",
+  "addresses": {
+    "8453": "0x1ee3967da072c465423fff564aea33246f8a041a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Toshi AI",
+    "sanitizedSymbol": "TOSHI_AI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152195",
+    "lockerAddress": "0x55392F133C72535AF7CFF3948EdB6485b5f49083"
+  },
+  "clankerInfo": null
+}

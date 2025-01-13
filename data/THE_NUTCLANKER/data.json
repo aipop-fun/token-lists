@@ -1,0 +1,22 @@
+{
+  "name": "The Nutclanker",
+  "symbol": "The Nutclanker",
+  "decimals": 18,
+  "description": "The Nutclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Nutclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Nutclanker",
+  "addresses": {
+    "8453": "0x1c26fd4a62ceb24bb16d50d0b488495e323506e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Nutclanker",
+    "sanitizedSymbol": "THE_NUTCLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
+    "lpNftId": "1319343",
+    "lockerAddress": "0x956912CFAA28De72CFe54471A165e4fD4e88C667"
+  },
+  "clankerInfo": null
+}

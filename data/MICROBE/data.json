@@ -1,0 +1,22 @@
+{
+  "name": "Microbe",
+  "symbol": "Microbe",
+  "decimals": 18,
+  "description": "Microbe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Microbe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Microbe",
+  "addresses": {
+    "8453": "0x2066c9517a49e65d7efd2a622b3d860647bf0f9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Microbe",
+    "sanitizedSymbol": "MICROBE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x55B74d42Ac254e459c1F297a910F9C7Ffd300E00",
+    "lpNftId": "1321384",
+    "lockerAddress": "0xf790889D2E36e1F635bd099EC1C786A677Ce3499"
+  },
+  "clankerInfo": null
+}

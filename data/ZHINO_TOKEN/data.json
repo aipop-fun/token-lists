@@ -1,0 +1,22 @@
+{
+  "name": "zhino token",
+  "symbol": "zhino token",
+  "decimals": 18,
+  "description": "zhino token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zhino%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zhino token",
+  "addresses": {
+    "8453": "0x17ae2e15ab28ae1722ff040536d5961af756425b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zhino token",
+    "sanitizedSymbol": "ZHINO_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x52e21100CaaaA88247123439dDAfe81bB4C1cBc0",
+    "lpNftId": "1308897",
+    "lockerAddress": "0x5716e8789C3Dc4De5B1ea4471abC13D9E3AC92D3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FireFly",
+  "symbol": "FireFly",
+  "decimals": 18,
+  "description": "FireFly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FireFly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FireFly",
+  "addresses": {
+    "8453": "0x23bd2010abf147c82a84b95b10c937d7a664c865"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FireFly",
+    "sanitizedSymbol": "FIREFLY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x43A7680a5b84FAd81ACd708dC419E3CEFdA4D879",
+    "lpNftId": "1320451",
+    "lockerAddress": "0x0c5CBB5D4d57C7B160BcCD03865E0839a823F2d3"
+  },
+  "clankerInfo": null
+}

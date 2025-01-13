@@ -1,0 +1,22 @@
+{
+  "name": "Monke Enlightenment Token",
+  "symbol": "Monke Enlightenment Token",
+  "decimals": 18,
+  "description": "Monke Enlightenment Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monke%20Enlightenment%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monke Enlightenment Token",
+  "addresses": {
+    "8453": "0x361d4a990b23c8c6b615dba308d19044788bd96a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monke Enlightenment Token",
+    "sanitizedSymbol": "MONKE_ENLIGHTENMENT_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128346",
+    "lockerAddress": "0x870c9E65aeC3d42F84678CFb8A825D79c95BF640"
+  },
+  "clankerInfo": null
+}

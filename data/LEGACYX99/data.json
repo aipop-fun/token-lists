@@ -1,0 +1,22 @@
+{
+  "name": "LegacyX99",
+  "symbol": "LegacyX99",
+  "decimals": 18,
+  "description": "LegacyX99 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LegacyX99",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LegacyX99",
+  "addresses": {
+    "8453": "0x2109b3a9d35721c8ae3c7b2dce00a4ae7d57ec72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LegacyX99",
+    "sanitizedSymbol": "LEGACYX99",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226759",
+    "lockerAddress": "0x0E8c3a2cf45657f4a92294180A2BaceC7b46A5d9"
+  },
+  "clankerInfo": null
+}

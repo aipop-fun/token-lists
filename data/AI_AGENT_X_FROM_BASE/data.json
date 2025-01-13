@@ -1,0 +1,22 @@
+{
+  "name": "AI agent X from base",
+  "symbol": "AI agent X from base",
+  "decimals": 18,
+  "description": "AI agent X from base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20agent%20X%20from%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI agent X from base",
+  "addresses": {
+    "8453": "0x1f008ff2f3bf62cf813c6fe2277c5cd6bfe6c16c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI agent X from base",
+    "sanitizedSymbol": "AI_AGENT_X_FROM_BASE",
+    "created_at": "2024-12-10T06:17:45.339964",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1397354",
+    "lockerAddress": "0x95F1A375F2DC8387D4a3B8a4D55CcBCe5c95b625"
+  },
+  "clankerInfo": null
+}

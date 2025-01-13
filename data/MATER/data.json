@@ -1,0 +1,22 @@
+{
+  "name": "Mater",
+  "symbol": "Mater",
+  "decimals": 18,
+  "description": "Mater is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mater",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mater",
+  "addresses": {
+    "8453": "0x0f377345f85acb86470b203303ee196f6c87806b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mater",
+    "sanitizedSymbol": "MATER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219431",
+    "lockerAddress": "0xA3Ddde38974Cf0CFDDA4dF6Ed41e09e49e6E0605"
+  },
+  "clankerInfo": null
+}

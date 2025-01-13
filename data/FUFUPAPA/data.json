@@ -1,0 +1,22 @@
+{
+  "name": "Fufupapa",
+  "symbol": "Fufupapa",
+  "decimals": 18,
+  "description": "Fufupapa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fufupapa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fufupapa",
+  "addresses": {
+    "8453": "0x332fa37fb93b79113dd90a31b0caefa37b0315e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fufupapa",
+    "sanitizedSymbol": "FUFUPAPA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218356",
+    "lockerAddress": "0xd92b0a1C58324787F8A9671a9178643692786ff7"
+  },
+  "clankerInfo": null
+}

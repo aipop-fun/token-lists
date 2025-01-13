@@ -1,0 +1,22 @@
+{
+  "name": "Susan",
+  "symbol": "Susan",
+  "decimals": 18,
+  "description": "Susan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Susan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Susan",
+  "addresses": {
+    "8453": "0x2f491e1f87fca20a31196c5cbfb84026678ae3c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Susan",
+    "sanitizedSymbol": "SUSAN",
+    "created_at": "2024-12-10T23:20:58.224349",
+    "deployer": "0x0511115527ABd9458E09374c9496c9e7407753c1",
+    "lpNftId": "1408306",
+    "lockerAddress": "0x39ABD899b9F829126716d2bb848f486c060db753"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "World Peace Token",
+  "symbol": "World Peace Token",
+  "decimals": 18,
+  "description": "World Peace Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20Peace%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World Peace Token",
+  "addresses": {
+    "8453": "0x0df635e869fa1472543419a3423aac018599cd1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World Peace Token",
+    "sanitizedSymbol": "WORLD_PEACE_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166538",
+    "lockerAddress": "0xdc1a2ad1534943A9ca684b16233eb7754c490696"
+  },
+  "clankerInfo": null
+}

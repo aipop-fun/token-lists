@@ -1,0 +1,22 @@
+{
+  "name": "fun cat",
+  "symbol": "fun cat",
+  "decimals": 18,
+  "description": "fun cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fun%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fun cat",
+  "addresses": {
+    "8453": "0x308c2858af1856f1ca593f1647b27a475a8822bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fun cat",
+    "sanitizedSymbol": "FUN_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9467b927697024aE0B66c8635d967db0Acc3d96b",
+    "lpNftId": "1320365",
+    "lockerAddress": "0x21749b6bF15c5E8be4c0C5043dE5B69D2161862B"
+  },
+  "clankerInfo": null
+}

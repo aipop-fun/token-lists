@@ -1,0 +1,22 @@
+{
+  "name": "Samyang",
+  "symbol": "Samyang",
+  "decimals": 18,
+  "description": "Samyang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Samyang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Samyang",
+  "addresses": {
+    "8453": "0x003379ce97806cc767b3c796c01b6690339c9a36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Samyang",
+    "sanitizedSymbol": "SAMYANG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219054",
+    "lockerAddress": "0x3a48A481021a34894182d0181565d83D300E8578"
+  },
+  "clankerInfo": null
+}

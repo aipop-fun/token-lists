@@ -1,0 +1,22 @@
+{
+  "name": "Real Possum",
+  "symbol": "Real Possum",
+  "decimals": 18,
+  "description": "Real Possum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Real%20Possum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Real Possum",
+  "addresses": {
+    "8453": "0x0a40c5ebd031fe34b959ff69fd176d7b6eb6064d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Real Possum",
+    "sanitizedSymbol": "REAL_POSSUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199327",
+    "lockerAddress": "0x0893278b18771F453fBE68ea6391bE9AA1A99CA0"
+  },
+  "clankerInfo": null
+}

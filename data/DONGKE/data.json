@@ -1,0 +1,22 @@
+{
+  "name": "dongke",
+  "symbol": "dongke",
+  "decimals": 18,
+  "description": "dongke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dongke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dongke",
+  "addresses": {
+    "8453": "0x129d1bbf9b3ede17b4ba35c2f3852b970b953a55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dongke",
+    "sanitizedSymbol": "DONGKE",
+    "created_at": "2024-12-12T16:25:50.021003",
+    "deployer": "0x557c4816d619E527E78f00262c5EA784065e7570",
+    "lpNftId": "1438557",
+    "lockerAddress": "0xf3AC31773ce3bC20272f5DBf233F15870e9b8a21"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Built Different",
+  "symbol": "Built Different",
+  "decimals": 18,
+  "description": "Built Different is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Built%20Different",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Built Different",
+  "addresses": {
+    "8453": "0x3cacd28de6e0edf2e2b85b97162f8d943b114bbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Built Different",
+    "sanitizedSymbol": "BUILT_DIFFERENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6f50f30E148B0aeC9a10706b2784Fc596136384c",
+    "lpNftId": "1307872",
+    "lockerAddress": "0xF31266E32a07C468DeB78B03793707A648738ED4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LOVE",
+  "symbol": "LOVE",
+  "decimals": 18,
+  "description": "LOVE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOVE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOVE",
+  "addresses": {
+    "8453": "0x40a1fe3ff12817e708ab8060b9d3879348db8f0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOVE",
+    "sanitizedSymbol": "LOVE_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAB87959792497ea7758544c517b7cD9e6064211e",
+    "lpNftId": "1326410",
+    "lockerAddress": "0x9C5710585d334760468D575191429a92e397F706"
+  },
+  "clankerInfo": null
+}

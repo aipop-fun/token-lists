@@ -1,0 +1,22 @@
+{
+  "name": "liliny",
+  "symbol": "liliny",
+  "decimals": 18,
+  "description": "liliny is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=liliny",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "liliny",
+  "addresses": {
+    "8453": "0x0055faedac8fa6f25e20542486d59b38ff5c9568"
+  },
+  "tokenInfo": {
+    "originalSymbol": "liliny",
+    "sanitizedSymbol": "LILINY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3F880D158452EFFFE41EE3579a43D8ad13294a8f",
+    "lpNftId": "1253065",
+    "lockerAddress": "0x9dB4826A2e23a0Ac94AAdef89a57C0a4b27c61F2"
+  },
+  "clankerInfo": null
+}

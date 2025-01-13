@@ -1,0 +1,22 @@
+{
+  "name": "catitooth",
+  "symbol": "catitooth",
+  "decimals": 18,
+  "description": "catitooth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=catitooth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "catitooth",
+  "addresses": {
+    "8453": "0x32479f7223bbe8cab1bbacc8206edd0ce4393630"
+  },
+  "tokenInfo": {
+    "originalSymbol": "catitooth",
+    "sanitizedSymbol": "CATITOOTH",
+    "created_at": "2024-12-12T17:18:27.844899",
+    "deployer": "0xde9bD31EA219A95085882125FAD92FcaF94f30AF",
+    "lpNftId": "1439326",
+    "lockerAddress": "0xdF5d9Ea3ACE732021768Fca68c30a777d69aF877"
+  },
+  "clankerInfo": null
+}

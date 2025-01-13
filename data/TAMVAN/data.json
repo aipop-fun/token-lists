@@ -1,0 +1,22 @@
+{
+  "name": "Tamvan",
+  "symbol": "Tamvan",
+  "decimals": 18,
+  "description": "Tamvan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tamvan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tamvan",
+  "addresses": {
+    "8453": "0x05454d1f5b06af0c932f06b673a77be9b30ba23b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tamvan",
+    "sanitizedSymbol": "TAMVAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfA63cAC5504e2CaF9b2184117881818695dFD80D",
+    "lpNftId": "1272944",
+    "lockerAddress": "0x32b06677d3060feE3Eba691f06f258F21227b507"
+  },
+  "clankerInfo": null
+}

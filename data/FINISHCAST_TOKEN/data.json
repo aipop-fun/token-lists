@@ -1,0 +1,22 @@
+{
+  "name": "Finishcast Token",
+  "symbol": "Finishcast Token",
+  "decimals": 18,
+  "description": "Finishcast Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Finishcast%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Finishcast Token",
+  "addresses": {
+    "8453": "0x10055d3bf62ee80d51abad3df7ff014f7aadec14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Finishcast Token",
+    "sanitizedSymbol": "FINISHCAST_TOKEN",
+    "created_at": "2024-12-12T19:49:36.479561",
+    "deployer": "0x2A22C10e9CA60427A0091c0807A200a8d5c80B0A",
+    "lpNftId": "1441890",
+    "lockerAddress": "0xA6BD433AE6EB51bAFc6Cf463D8025D0df692AF89"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Xava",
+  "symbol": "Xava",
+  "decimals": 18,
+  "description": "Xava is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xava",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xava",
+  "addresses": {
+    "8453": "0x391f1930c516966e71d602d8d92f73d0d9bd3d8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xava",
+    "sanitizedSymbol": "XAVA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3D99eEb67A57d56E56315934C15F94D559b8da4d",
+    "lpNftId": "1330013",
+    "lockerAddress": "0x1eE0948BB297Bfc54DE0f5B9dA4B74b263EDb67C"
+  },
+  "clankerInfo": null
+}

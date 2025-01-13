@@ -1,0 +1,22 @@
+{
+  "name": "Mustard Cave",
+  "symbol": "Mustard Cave",
+  "decimals": 18,
+  "description": "Mustard Cave is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mustard%20Cave",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mustard Cave",
+  "addresses": {
+    "8453": "0x36743591191b9b950b22956e152691999eda286b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mustard Cave",
+    "sanitizedSymbol": "MUSTARD_CAVE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230025",
+    "lockerAddress": "0x2119A31F186CFc9477e8D7d66B4249B9fC8Db838"
+  },
+  "clankerInfo": null
+}

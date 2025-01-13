@@ -1,0 +1,22 @@
+{
+  "name": "BELLO",
+  "symbol": "BELLO",
+  "decimals": 18,
+  "description": "BELLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BELLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BELLO",
+  "addresses": {
+    "8453": "0x0f00037ce0db51253cf84100c07c4f77497723a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BELLO",
+    "sanitizedSymbol": "BELLO",
+    "created_at": "2024-12-12T06:31:30.98344",
+    "deployer": "0x72b4A8D6D36455D5AeA9ea86095878300D613203",
+    "lpNftId": "1429594",
+    "lockerAddress": "0x6493bfA37E1952d6277405C0C0B643bdCddD0E1B"
+  },
+  "clankerInfo": null
+}

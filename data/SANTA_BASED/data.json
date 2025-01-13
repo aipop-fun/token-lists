@@ -1,0 +1,22 @@
+{
+  "name": "Santa based",
+  "symbol": "Santa based",
+  "decimals": 18,
+  "description": "Santa based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa based",
+  "addresses": {
+    "8453": "0x267b4db95f75aba05d28d49084c7c338339c0e5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa based",
+    "sanitizedSymbol": "SANTA_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0772f0ad91F024031769EF0338316f7Ee8B86F0F",
+    "lpNftId": "1323416",
+    "lockerAddress": "0x6CD6C89d212749e7834EC02b595D5A96B67C5E7D"
+  },
+  "clankerInfo": null
+}

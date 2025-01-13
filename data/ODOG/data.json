@@ -1,0 +1,22 @@
+{
+  "name": "ODOG",
+  "symbol": "ODOG",
+  "decimals": 18,
+  "description": "ODOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ODOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ODOG",
+  "addresses": {
+    "8453": "0x33b9bf7ff88e47210f9a7b771955bc51ddaa7ea2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ODOG",
+    "sanitizedSymbol": "ODOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74e2b970218eDC202c2721200D3Fa089c681F25A",
+    "lpNftId": "1318389",
+    "lockerAddress": "0x977abB09C33ed513EEb595eAcf2ee8d6173f34e3"
+  },
+  "clankerInfo": null
+}

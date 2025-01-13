@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Brett",
+  "symbol": "Clanker Brett",
+  "decimals": 18,
+  "description": "Clanker Brett is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Brett",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Brett",
+  "addresses": {
+    "8453": "0x1cffe90a525fdca1b3b73c7497903cef5974c023"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Brett",
+    "sanitizedSymbol": "CLANKER_BRETT_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8709B2C13e5B3850dfc56B00a489dAEAD656e911",
+    "lpNftId": "1253049",
+    "lockerAddress": "0x9c91886F18BE9f4030C72689a648d67DBAe6B45D"
+  },
+  "clankerInfo": null
+}

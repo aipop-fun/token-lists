@@ -1,0 +1,22 @@
+{
+  "name": "Nebumi",
+  "symbol": "Nebumi",
+  "decimals": 18,
+  "description": "Nebumi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nebumi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nebumi",
+  "addresses": {
+    "8453": "0x139b13607d791d007f44aaab0f00c352a90d5bef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nebumi",
+    "sanitizedSymbol": "NEBUMI",
+    "created_at": "2024-12-12T15:41:13.315051",
+    "deployer": "0xeADa460F552A2074B723fa4E232BDc1f7852acDc",
+    "lpNftId": "1437271",
+    "lockerAddress": "0x341bd80eb63118EaD26b80A0109Fb46b6243b5b3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clain",
+  "symbol": "Clain",
+  "decimals": 18,
+  "description": "Clain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clain",
+  "addresses": {
+    "8453": "0x3bf43131c3d24fb2ecb27f5acf57cca70ef33653"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clain",
+    "sanitizedSymbol": "CLAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195800",
+    "lockerAddress": "0x1658fAc0D231e0cA4ad2dF77568eE672531214Ac"
+  },
+  "clankerInfo": null
+}

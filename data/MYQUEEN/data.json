@@ -1,0 +1,22 @@
+{
+  "name": "myqueen",
+  "symbol": "myqueen",
+  "decimals": 18,
+  "description": "myqueen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=myqueen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "myqueen",
+  "addresses": {
+    "8453": "0x361a8d011fc874a9f34e6709df7e3f8254581628"
+  },
+  "tokenInfo": {
+    "originalSymbol": "myqueen",
+    "sanitizedSymbol": "MYQUEEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192895",
+    "lockerAddress": "0x101aE011913Eb22a4221BE11a35F8C84e17C5527"
+  },
+  "clankerInfo": null
+}

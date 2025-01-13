@@ -1,0 +1,22 @@
+{
+  "name": "BEARBALLS",
+  "symbol": "BEARBALLS",
+  "decimals": 18,
+  "description": "BEARBALLS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEARBALLS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEARBALLS",
+  "addresses": {
+    "8453": "0x06cfab349b09957017bd4c6f0d1da73b67174861"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEARBALLS",
+    "sanitizedSymbol": "BEARBALLS",
+    "created_at": "2024-12-12T16:50:41.14351",
+    "deployer": "0x36de990133D36d7E3DF9a820aA3eDE5a2320De71",
+    "lpNftId": "1438891",
+    "lockerAddress": "0x0E1257014B61e96216cD77292Be9BE7c13B51117"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zora",
+  "symbol": "zora",
+  "decimals": 18,
+  "description": "zora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zora",
+  "addresses": {
+    "8453": "0x4025200d632ccdc721858704353759a49354ea6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zora",
+    "sanitizedSymbol": "ZORA_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1370492",
+    "lockerAddress": "0x04CC149E8990E197aF1434B9503c9C63820D9b27"
+  },
+  "clankerInfo": null
+}

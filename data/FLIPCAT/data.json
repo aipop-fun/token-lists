@@ -1,0 +1,22 @@
+{
+  "name": "Flipcat",
+  "symbol": "Flipcat",
+  "decimals": 18,
+  "description": "Flipcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flipcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flipcat",
+  "addresses": {
+    "8453": "0x1ff3567387a8b3a450fc2c76d81f3b811cf2c5d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flipcat",
+    "sanitizedSymbol": "FLIPCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232009",
+    "lockerAddress": "0x2C5A85DB89576E5514463161fac8F341223e1837"
+  },
+  "clankerInfo": null
+}

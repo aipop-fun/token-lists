@@ -1,0 +1,22 @@
+{
+  "name": "Natan",
+  "symbol": "Natan",
+  "decimals": 18,
+  "description": "Natan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Natan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Natan",
+  "addresses": {
+    "8453": "0x2c8c98c9a63b1de7a22ba659d6031af94aec5c61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Natan",
+    "sanitizedSymbol": "NATAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x17bf04ac18596926FC2fB389965fC882F791c65f",
+    "lpNftId": "1285154",
+    "lockerAddress": "0xBbaA0AA5629b8cf3D4A8D5EABAe3461801FC6A09"
+  },
+  "clankerInfo": null
+}

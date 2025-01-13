@@ -1,0 +1,22 @@
+{
+  "name": "vsh",
+  "symbol": "vsh",
+  "decimals": 18,
+  "description": "vsh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vsh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vsh",
+  "addresses": {
+    "8453": "0x323df889b585b36e487bb32aa90e5c9f504cfb47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vsh",
+    "sanitizedSymbol": "VSH",
+    "created_at": "2024-12-12T15:58:55.680806",
+    "deployer": "0x3E9C4F2Dcaa79381b723e7FFd38457778A133fE6",
+    "lpNftId": "1437713",
+    "lockerAddress": "0xa20099B57Ba512ac260C632BB37bE87D8b0dd99D"
+  },
+  "clankerInfo": null
+}

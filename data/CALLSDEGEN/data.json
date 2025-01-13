@@ -1,0 +1,22 @@
+{
+  "name": "CALLSDEGEN",
+  "symbol": "CALLSDEGEN",
+  "decimals": 18,
+  "description": "CALLSDEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CALLSDEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CALLSDEGEN",
+  "addresses": {
+    "8453": "0x05c50c5542d006634f712b65a1a2273f8de1481b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CALLSDEGEN",
+    "sanitizedSymbol": "CALLSDEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1319945",
+    "lockerAddress": "0x7357aDB8213F523e118bC7b9Dd180439a4Bf70aC"
+  },
+  "clankerInfo": null
+}

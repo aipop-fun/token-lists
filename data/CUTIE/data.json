@@ -1,0 +1,22 @@
+{
+  "name": "CUTIE",
+  "symbol": "CUTIE",
+  "decimals": 18,
+  "description": "CUTIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CUTIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CUTIE",
+  "addresses": {
+    "8453": "0x230aa85af910d87a21cf4b4ba8b66e11eb2cd5d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CUTIE",
+    "sanitizedSymbol": "CUTIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6ADF9DDAEb5178510149E92aF66207A8a307F6aB",
+    "lpNftId": "1320918",
+    "lockerAddress": "0xE0910c91C24a7a8e3584EbCcFE25C62Fe9dBFAa4"
+  },
+  "clankerInfo": null
+}

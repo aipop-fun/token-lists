@@ -1,0 +1,22 @@
+{
+  "name": "gmeow",
+  "symbol": "gmeow",
+  "decimals": 18,
+  "description": "gmeow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gmeow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gmeow",
+  "addresses": {
+    "8453": "0x2dbedb78b2a2d8a3129dd1e390e340cfa3158600"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gmeow",
+    "sanitizedSymbol": "GMEOW",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e101f29db1dB07b04faeBc987A9B5D0df36c5B0",
+    "lpNftId": "1289410",
+    "lockerAddress": "0x80bace15D1e33c0367b1Ae83810cA5FC82d4E796"
+  },
+  "clankerInfo": null
+}

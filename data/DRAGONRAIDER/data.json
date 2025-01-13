@@ -1,0 +1,22 @@
+{
+  "name": "DragonRaider",
+  "symbol": "DragonRaider",
+  "decimals": 18,
+  "description": "DragonRaider is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DragonRaider",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DragonRaider",
+  "addresses": {
+    "8453": "0x2b1f9f3dcfe380b78a0fb1f5fdd09d23e6f80536"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DragonRaider",
+    "sanitizedSymbol": "DRAGONRAIDER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193351",
+    "lockerAddress": "0xd6e201E238cA9951edD8adb5d8d0CC4ebf09fC29"
+  },
+  "clankerInfo": null
+}

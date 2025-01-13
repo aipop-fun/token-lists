@@ -1,0 +1,22 @@
+{
+  "name": "Digital Olive Branch",
+  "symbol": "Digital Olive Branch",
+  "decimals": 18,
+  "description": "Digital Olive Branch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Olive%20Branch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Olive Branch",
+  "addresses": {
+    "8453": "0x1e08440fd46a4e56f800b497ba2cd0eec022024f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Olive Branch",
+    "sanitizedSymbol": "DIGITAL_OLIVE_BRANCH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150279",
+    "lockerAddress": "0x0A722D62A23cFA586bB2fe3b188f4F46C335AEC7"
+  },
+  "clankerInfo": null
+}

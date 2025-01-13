@@ -1,0 +1,22 @@
+{
+  "name": "Duck Hero AI",
+  "symbol": "Duck Hero AI",
+  "decimals": 18,
+  "description": "Duck Hero AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Duck%20Hero%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Duck Hero AI",
+  "addresses": {
+    "8453": "0x2b8d6258f1ca9838a6b27a988199dc4bde2eaf3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Duck Hero AI",
+    "sanitizedSymbol": "DUCK_HERO_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1295443",
+    "lockerAddress": "0x8fE697C176EB7EFA866C5bbe55bD37FFcc927F7F"
+  },
+  "clankerInfo": null
+}

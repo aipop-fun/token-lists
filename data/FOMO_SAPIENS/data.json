@@ -1,0 +1,22 @@
+{
+  "name": "FOMO Sapiens",
+  "symbol": "FOMO Sapiens",
+  "decimals": 18,
+  "description": "FOMO Sapiens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMO%20Sapiens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMO Sapiens",
+  "addresses": {
+    "8453": "0x196cce963c1bc48c987d813a67f642a1e042084c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMO Sapiens",
+    "sanitizedSymbol": "FOMO_SAPIENS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158467",
+    "lockerAddress": "0xf5A71B2Fc0BC09716407BE6a75BF7588e8173B90"
+  },
+  "clankerInfo": null
+}

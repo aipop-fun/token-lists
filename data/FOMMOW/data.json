@@ -1,0 +1,22 @@
+{
+  "name": "Fommow",
+  "symbol": "Fommow",
+  "decimals": 18,
+  "description": "Fommow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fommow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fommow",
+  "addresses": {
+    "8453": "0x157947786ffdc25592fa0513b3524ed54d3f885c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fommow",
+    "sanitizedSymbol": "FOMMOW",
+    "created_at": "2024-12-10T12:37:55.372703",
+    "deployer": "0x75B67d6bcD7E39B08C091E482b305454b103e2ea",
+    "lpNftId": "1400986",
+    "lockerAddress": "0x2322BafC50048D13aD7Df5C639619cD9689fCaFF"
+  },
+  "clankerInfo": null
+}

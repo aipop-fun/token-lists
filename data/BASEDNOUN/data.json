@@ -1,0 +1,22 @@
+{
+  "name": "BasedNoun",
+  "symbol": "BasedNoun",
+  "decimals": 18,
+  "description": "BasedNoun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedNoun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedNoun",
+  "addresses": {
+    "8453": "0x1b68bea278a2365ef333352eb9c4f64bca05a605"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedNoun",
+    "sanitizedSymbol": "BASEDNOUN",
+    "created_at": "2024-12-11T08:59:53.480391",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1415310",
+    "lockerAddress": "0x7f98Bd6DDCE0c9911c6657F05A044D302FD05852"
+  },
+  "clankerInfo": null
+}

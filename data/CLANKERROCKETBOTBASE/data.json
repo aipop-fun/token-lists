@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERROCKETBOTBASE",
+  "symbol": "CLANKERROCKETBOTBASE",
+  "decimals": 18,
+  "description": "CLANKERROCKETBOTBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERROCKETBOTBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERROCKETBOTBASE",
+  "addresses": {
+    "8453": "0x2377667ba651f927bca8977feec76801dcf6debc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERROCKETBOTBASE",
+    "sanitizedSymbol": "CLANKERROCKETBOTBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128682",
+    "lockerAddress": "0xEeF8E384E04C33900383341a5280C1c066f1E011"
+  },
+  "clankerInfo": null
+}

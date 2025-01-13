@@ -1,0 +1,22 @@
+{
+  "name": "strawberry pie",
+  "symbol": "strawberry pie",
+  "decimals": 18,
+  "description": "strawberry pie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=strawberry%20pie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "strawberry pie",
+  "addresses": {
+    "8453": "0x3af8bc70879bdb03767f104ef1ca1d42d32a43cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "strawberry pie",
+    "sanitizedSymbol": "STRAWBERRY_PIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152657",
+    "lockerAddress": "0x28294393082FE759Ba305b38AD009F9888B38a56"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "diamond9",
+  "symbol": "diamond9",
+  "decimals": 18,
+  "description": "diamond9 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=diamond9",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "diamond9",
+  "addresses": {
+    "8453": "0x15548ada4d561689b08192a815d981ae4a92f347"
+  },
+  "tokenInfo": {
+    "originalSymbol": "diamond9",
+    "sanitizedSymbol": "DIAMOND9",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x42ed830989388F96d31Ebf3f71bb6BCEF4cd40B4",
+    "lpNftId": "1324398",
+    "lockerAddress": "0x498Dc969FbE8fa04eb6852EE95e187aB32a14bcE"
+  },
+  "clankerInfo": null
+}

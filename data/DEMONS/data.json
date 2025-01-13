@@ -1,0 +1,22 @@
+{
+  "name": "Demons",
+  "symbol": "Demons",
+  "decimals": 18,
+  "description": "Demons is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Demons",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Demons",
+  "addresses": {
+    "8453": "0x3ab96c735209cfeb3b710aa595e4fea1a9ec76e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Demons",
+    "sanitizedSymbol": "DEMONS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222427",
+    "lockerAddress": "0x2A91dB739931e0216502296BbF107a8a05834Dd5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dominance",
+  "symbol": "Dominance",
+  "decimals": 18,
+  "description": "Dominance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dominance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dominance",
+  "addresses": {
+    "8453": "0x3feb54350e0f6f7bbf3bf439ba0b1e8141ef3229"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dominance",
+    "sanitizedSymbol": "DOMINANCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1148961",
+    "lockerAddress": "0x237111979C5A422a7f44CEDaF867b1f9eb56f558"
+  },
+  "clankerInfo": null
+}

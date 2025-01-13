@@ -1,0 +1,22 @@
+{
+  "name": "HOPA",
+  "symbol": "HOPA",
+  "decimals": 18,
+  "description": "HOPA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOPA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOPA",
+  "addresses": {
+    "8453": "0x05e9e85a7f6c3986c924f6835874f53e2add694c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOPA",
+    "sanitizedSymbol": "HOPA",
+    "created_at": "2024-12-10T13:30:13.289955",
+    "deployer": "0x884e04811e27eD661908C319a9044A9f387eb1a8",
+    "lpNftId": "1401509",
+    "lockerAddress": "0xF92ef0D2586C70059297Ee38162Ef8Bd48A94259"
+  },
+  "clankerInfo": null
+}

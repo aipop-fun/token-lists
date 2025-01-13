@@ -1,0 +1,22 @@
+{
+  "name": "sevin",
+  "symbol": "sevin",
+  "decimals": 18,
+  "description": "sevin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sevin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sevin",
+  "addresses": {
+    "8453": "0x331e2c7253563efa614ec71d8942215ffaad79bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sevin",
+    "sanitizedSymbol": "SEVIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa81c4D9526D38876bEa6123870d425291A7a5e6C",
+    "lpNftId": "1308992",
+    "lockerAddress": "0x57B50b0Ff705e6e9613E48CA3f2FA6840Cf8E0e6"
+  },
+  "clankerInfo": null
+}

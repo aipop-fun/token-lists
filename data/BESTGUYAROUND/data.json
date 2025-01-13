@@ -1,0 +1,22 @@
+{
+  "name": "BestGuyAround",
+  "symbol": "BestGuyAround",
+  "decimals": 18,
+  "description": "BestGuyAround is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BestGuyAround",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BestGuyAround",
+  "addresses": {
+    "8453": "0x39f052c5f55bfa3a3114ee3765099aa8d88fcd0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BestGuyAround",
+    "sanitizedSymbol": "BESTGUYAROUND",
+    "created_at": "2024-12-12T07:18:30.728022",
+    "deployer": "0x496505251A17845A2714A0D89e91475Dc1D79b30",
+    "lpNftId": "1429719",
+    "lockerAddress": "0xcec98581988Ef53ef7AbEf70f9029A75f6c15200"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ottechain",
+  "symbol": "Ottechain",
+  "decimals": 18,
+  "description": "Ottechain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ottechain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ottechain",
+  "addresses": {
+    "8453": "0x2f768dc7a454bf5e123b56b23b903bd67b18a2b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ottechain",
+    "sanitizedSymbol": "OTTECHAIN",
+    "created_at": "2024-12-11T18:22:22.295997",
+    "deployer": "0xc0E46e817daaab13c6B6424BeeB0E053C5f32C3B",
+    "lpNftId": "1423735",
+    "lockerAddress": "0x5794e05d42e0929a00E4bC608D719905233DEf1A"
+  },
+  "clankerInfo": null
+}

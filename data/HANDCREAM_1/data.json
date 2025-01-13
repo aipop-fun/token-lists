@@ -1,0 +1,22 @@
+{
+  "name": "HANDCREAM",
+  "symbol": "HANDCREAM",
+  "decimals": 18,
+  "description": "HANDCREAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HANDCREAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HANDCREAM",
+  "addresses": {
+    "8453": "0x15e521d7e2d783573a28e7c8841a577fbe5747a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HANDCREAM",
+    "sanitizedSymbol": "HANDCREAM_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236588",
+    "lockerAddress": "0x7eEDfC3c84FaF251be02D007f4a94e28664c9702"
+  },
+  "clankerInfo": null
+}

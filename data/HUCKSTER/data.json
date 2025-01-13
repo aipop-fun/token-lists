@@ -1,0 +1,22 @@
+{
+  "name": "Huckster",
+  "symbol": "Huckster",
+  "decimals": 18,
+  "description": "Huckster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Huckster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Huckster",
+  "addresses": {
+    "8453": "0x16f942459cf90a5907e76a64f077e1022a069ebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Huckster",
+    "sanitizedSymbol": "HUCKSTER",
+    "created_at": "2024-12-11T23:55:41.004267",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1428013",
+    "lockerAddress": "0x33A64c18C09Bf97919505d467189e7f6ECF7cf0c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tomjapes",
+  "symbol": "Tomjapes",
+  "decimals": 18,
+  "description": "Tomjapes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tomjapes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tomjapes",
+  "addresses": {
+    "8453": "0x0bf824b877ef4fea8577e68b868e6d8ae35383b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tomjapes",
+    "sanitizedSymbol": "TOMJAPES",
+    "created_at": "2024-12-10T23:41:48.516113",
+    "deployer": "0xe2525c510fedfE17BfC079EA8393e71E6de7CD86",
+    "lpNftId": "1408526",
+    "lockerAddress": "0x80F1d9E7002D8c8Fb540f62cef5eC08038158967"
+  },
+  "clankerInfo": null
+}

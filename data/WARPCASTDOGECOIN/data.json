@@ -1,0 +1,22 @@
+{
+  "name": "WarpcastDogeCoin",
+  "symbol": "WarpcastDogeCoin",
+  "decimals": 18,
+  "description": "WarpcastDogeCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpcastDogeCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpcastDogeCoin",
+  "addresses": {
+    "8453": "0x1ae860623e57d271bb963260f664a90823dbcaa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpcastDogeCoin",
+    "sanitizedSymbol": "WARPCASTDOGECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x334c6207252F6f9EfF93a3dE588195767628cd19",
+    "lpNftId": "1321491",
+    "lockerAddress": "0x8c6E5d3f176Bc017f2A999a2ed94296f36D87684"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "moleymoleymoley",
+  "symbol": "moleymoleymoley",
+  "decimals": 18,
+  "description": "moleymoleymoley is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moleymoleymoley",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moleymoleymoley",
+  "addresses": {
+    "8453": "0x0eb711bbb4bfc9f1f08e7eec48e23ea53dd8c657"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moleymoleymoley",
+    "sanitizedSymbol": "MOLEYMOLEYMOLEY_2",
+    "created_at": "2024-12-12T22:23:19.571295",
+    "deployer": "0x91C8D6d0C38B31085fc61404Da41cC3811F188ae",
+    "lpNftId": "1444520",
+    "lockerAddress": "0x726fBD7E9f6Cae8002f27dd573e6Fc86aEE7EEa8"
+  },
+  "clankerInfo": null
+}

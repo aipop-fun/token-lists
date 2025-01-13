@@ -1,0 +1,22 @@
+{
+  "name": "BrodrHaste",
+  "symbol": "BrodrHaste",
+  "decimals": 18,
+  "description": "BrodrHaste is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BrodrHaste",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BrodrHaste",
+  "addresses": {
+    "8453": "0x2d986c2cad60fa702c32c627715a3a837bc83a83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BrodrHaste",
+    "sanitizedSymbol": "BRODRHASTE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb676CF017266959950E66D5EDb260218bD3907c0",
+    "lpNftId": "1283911",
+    "lockerAddress": "0x969fe77d39a7A00a815724e90a462E76AA30fC05"
+  },
+  "clankerInfo": null
+}

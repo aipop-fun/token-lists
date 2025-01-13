@@ -1,0 +1,22 @@
+{
+  "name": "PIKACHU",
+  "symbol": "PIKACHU",
+  "decimals": 18,
+  "description": "PIKACHU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIKACHU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIKACHU",
+  "addresses": {
+    "8453": "0x334083559b34bf0507fc809baa858d18f9d5f2c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIKACHU",
+    "sanitizedSymbol": "PIKACHU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225098",
+    "lockerAddress": "0x8C01E0D660FA717f52db8dAeF72ca10BA64878c8"
+  },
+  "clankerInfo": null
+}

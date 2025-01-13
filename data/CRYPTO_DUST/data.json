@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTO DUST",
+  "symbol": "CRYPTO DUST",
+  "decimals": 18,
+  "description": "CRYPTO DUST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTO%20DUST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTO DUST",
+  "addresses": {
+    "8453": "0x189b9211055ee764dc97da4d4c03b5da51287da4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTO DUST",
+    "sanitizedSymbol": "CRYPTO_DUST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8E3d504ACFa412b7Fdc91f7a95dff264344A4B6F",
+    "lpNftId": "1313839",
+    "lockerAddress": "0x0790FFD25b975CbDB29277D4B64c57d214495F76"
+  },
+  "clankerInfo": null
+}

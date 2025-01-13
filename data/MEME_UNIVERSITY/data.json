@@ -1,0 +1,22 @@
+{
+  "name": "Meme University",
+  "symbol": "Meme University",
+  "decimals": 18,
+  "description": "Meme University is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20University",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme University",
+  "addresses": {
+    "8453": "0x2d35ec701a687bc6f6c24bbd91c3a607a5d35499"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme University",
+    "sanitizedSymbol": "MEME_UNIVERSITY",
+    "created_at": "2024-12-11T00:20:44.637548",
+    "deployer": "0x7606328c81514A19f70b3DA1535Fc819906d46Ab",
+    "lpNftId": "1408835",
+    "lockerAddress": "0x468e0191cDBfb9614E2EcF4B433CDf91d5b77bC9"
+  },
+  "clankerInfo": null
+}

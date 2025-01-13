@@ -1,0 +1,22 @@
+{
+  "name": "Waffle House",
+  "symbol": "Waffle House",
+  "decimals": 18,
+  "description": "Waffle House is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Waffle%20House",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Waffle House",
+  "addresses": {
+    "8453": "0x21e9fe650c77292c4a04acb0db8087b3cc9dd5fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Waffle House",
+    "sanitizedSymbol": "WAFFLE_HOUSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237363",
+    "lockerAddress": "0x87089e22E4D356e32A98bE1abDF4530a8dd9e299"
+  },
+  "clankerInfo": null
+}

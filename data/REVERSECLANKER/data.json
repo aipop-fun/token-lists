@@ -1,0 +1,22 @@
+{
+  "name": "ReverseClanker",
+  "symbol": "ReverseClanker",
+  "decimals": 18,
+  "description": "ReverseClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ReverseClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ReverseClanker",
+  "addresses": {
+    "8453": "0x1fd09779e23dae43f24ba62b23eacfb7a3f1525e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ReverseClanker",
+    "sanitizedSymbol": "REVERSECLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218403",
+    "lockerAddress": "0x244B55806F930639A45BDc60E3BE87A21D9655c8"
+  },
+  "clankerInfo": null
+}

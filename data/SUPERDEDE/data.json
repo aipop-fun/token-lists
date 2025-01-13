@@ -1,0 +1,22 @@
+{
+  "name": "superdede",
+  "symbol": "superdede",
+  "decimals": 18,
+  "description": "superdede is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=superdede",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "superdede",
+  "addresses": {
+    "8453": "0x379e6ade1c79e6d386b5581a05bbd011898d973e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "superdede",
+    "sanitizedSymbol": "SUPERDEDE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193849",
+    "lockerAddress": "0x7e57053759F858b9D64170F9cb1c7a4FD9a368E6"
+  },
+  "clankerInfo": null
+}

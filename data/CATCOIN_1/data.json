@@ -1,0 +1,22 @@
+{
+  "name": "CATCOIN",
+  "symbol": "CATCOIN",
+  "decimals": 18,
+  "description": "CATCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATCOIN",
+  "addresses": {
+    "8453": "0x0f76281c7522b794d189bff9eea7788495b248ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATCOIN",
+    "sanitizedSymbol": "CATCOIN_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb4b671E84AB5708F1b4bd1D63FB88718B2ee6dB5",
+    "lpNftId": "1253416",
+    "lockerAddress": "0xdfbBFBE6B17453541Cf9b3b8ED627A82164d617f"
+  },
+  "clankerInfo": null
+}

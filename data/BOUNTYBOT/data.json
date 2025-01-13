@@ -1,0 +1,22 @@
+{
+  "name": "bountybot",
+  "symbol": "bountybot",
+  "decimals": 18,
+  "description": "bountybot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bountybot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bountybot",
+  "addresses": {
+    "8453": "0x2d7c6448c13cee770069aea71a3b13ecd8b3029f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bountybot",
+    "sanitizedSymbol": "BOUNTYBOT",
+    "created_at": "2024-12-12T06:39:42.772181",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1429621",
+    "lockerAddress": "0x387ae7DAA4a127A55090D46Cd5D82A6B64af844e"
+  },
+  "clankerInfo": null
+}

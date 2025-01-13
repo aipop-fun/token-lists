@@ -1,0 +1,22 @@
+{
+  "name": "Iffyrium",
+  "symbol": "Iffyrium",
+  "decimals": 18,
+  "description": "Iffyrium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Iffyrium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Iffyrium",
+  "addresses": {
+    "8453": "0x07f5ab54a419e8e625f33b2620ad9851fe217f8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Iffyrium",
+    "sanitizedSymbol": "IFFYRIUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210951",
+    "lockerAddress": "0xB1C6E8C671Cd39F290254b57b065765b03Ad1a2D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Based Builder League",
+  "symbol": "Based Builder League",
+  "decimals": 18,
+  "description": "Based Builder League is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Builder%20League",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Builder League",
+  "addresses": {
+    "8453": "0x33677f7d1c64fac4cfddddf1615fc5425713dcc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Builder League",
+    "sanitizedSymbol": "BASED_BUILDER_LEAGUE",
+    "created_at": "2024-12-11T17:25:43.166179",
+    "deployer": "0x109094D990aDbdfC97c5c9Ea5F5bcE54f4EB1BDB",
+    "lpNftId": "1422464",
+    "lockerAddress": "0x726Bce66F09Da0A5Ca7D54cE138A95e0679eF3dc"
+  },
+  "clankerInfo": null
+}

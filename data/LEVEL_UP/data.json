@@ -1,0 +1,22 @@
+{
+  "name": "LEVEL UP !",
+  "symbol": "LEVEL UP !",
+  "decimals": 18,
+  "description": "LEVEL UP ! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEVEL%20UP%20!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEVEL UP !",
+  "addresses": {
+    "8453": "0x0bc454dbdfa21b38fdda6a54962383becf5ba813"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEVEL UP !",
+    "sanitizedSymbol": "LEVEL_UP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB53B26F0bDe66Fb1203A187c79E1d25c8F0e9549",
+    "lpNftId": "1320585",
+    "lockerAddress": "0x6E8E469d959f43ABf80bfA33Bd052352DD9fEC14"
+  },
+  "clankerInfo": null
+}

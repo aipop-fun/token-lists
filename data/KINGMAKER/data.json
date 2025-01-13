@@ -1,0 +1,22 @@
+{
+  "name": "KingMaker",
+  "symbol": "KingMaker",
+  "decimals": 18,
+  "description": "KingMaker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KingMaker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KingMaker",
+  "addresses": {
+    "8453": "0x18544e6be2d3ef5050294ff5e41ecf1dd7831ee4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KingMaker",
+    "sanitizedSymbol": "KINGMAKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x057e81967a541E4390f6A2ada032025BE01CFD7e",
+    "lpNftId": "1305697",
+    "lockerAddress": "0xBc79b50cebD0D5b747D508a6D8368E2C358C1BDF"
+  },
+  "clankerInfo": null
+}

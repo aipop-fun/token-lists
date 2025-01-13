@@ -1,0 +1,22 @@
+{
+  "name": "cat clanker",
+  "symbol": "cat clanker",
+  "decimals": 18,
+  "description": "cat clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cat%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cat clanker",
+  "addresses": {
+    "8453": "0x17e0c5a9368f14222b8f9d605bac2e2c495574d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cat clanker",
+    "sanitizedSymbol": "CAT_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF8508946af6FE18134eb227C6Fefa48Dc526eb67",
+    "lpNftId": "1312433",
+    "lockerAddress": "0x3Bf8209fbA3fDDA93b294856b5327dFbeAe0d2c6"
+  },
+  "clankerInfo": null
+}

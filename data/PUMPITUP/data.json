@@ -1,0 +1,22 @@
+{
+  "name": "PumpItUp",
+  "symbol": "PumpItUp",
+  "decimals": 18,
+  "description": "PumpItUp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpItUp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpItUp",
+  "addresses": {
+    "8453": "0x159c428d1d608deede816e03188025b6b1418e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpItUp",
+    "sanitizedSymbol": "PUMPITUP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC1d02aBAdc2fed2619512ADeA1418Bd83490E66d",
+    "lpNftId": "1321347",
+    "lockerAddress": "0x85d03F207c6e14459Dd8b5174C38f87CF688941D"
+  },
+  "clankerInfo": null
+}

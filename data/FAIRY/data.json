@@ -1,0 +1,22 @@
+{
+  "name": "fairy",
+  "symbol": "fairy",
+  "decimals": 18,
+  "description": "fairy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fairy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fairy",
+  "addresses": {
+    "8453": "0x340d583678875aec55a27099abe9aac28039a290"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fairy",
+    "sanitizedSymbol": "FAIRY",
+    "created_at": "2024-12-11T05:04:31.129893",
+    "deployer": "0x0e43b2f09BCB18C65EAE18B7F7c0b5D04088Ea7F",
+    "lpNftId": "1412928",
+    "lockerAddress": "0x9BA29dFd1BeE6fc9fAd6191994870f6CFEE50Fd6"
+  },
+  "clankerInfo": null
+}

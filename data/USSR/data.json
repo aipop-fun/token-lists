@@ -1,0 +1,22 @@
+{
+  "name": "ussr",
+  "symbol": "ussr",
+  "decimals": 18,
+  "description": "ussr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ussr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ussr",
+  "addresses": {
+    "8453": "0x02adcf59e59583ac2bf2b21e2f214aa259c99039"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ussr",
+    "sanitizedSymbol": "USSR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0Ea22f5dEAD987336Eb95Ba8199Fc537ACc1817C",
+    "lpNftId": "1252653",
+    "lockerAddress": "0x482f77A540c005d22f2A0E2E4F9FbeA6B515990c"
+  },
+  "clankerInfo": null
+}

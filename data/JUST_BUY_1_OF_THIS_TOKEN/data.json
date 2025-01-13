@@ -1,0 +1,22 @@
+{
+  "name": "just buy $1 of this token",
+  "symbol": "just buy $1 of this token",
+  "decimals": 18,
+  "description": "just buy $1 of this token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20buy%20%241%20of%20this%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just buy $1 of this token",
+  "addresses": {
+    "8453": "0x27ba2fbbd850b2a03ff09d8d26e928fc17d401bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just buy $1 of this token",
+    "sanitizedSymbol": "JUST_BUY_1_OF_THIS_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234733",
+    "lockerAddress": "0xb5f285Fbf013a0E76a4ACce0531b2EA3a453BaCe"
+  },
+  "clankerInfo": null
+}

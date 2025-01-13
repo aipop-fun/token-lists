@@ -1,0 +1,22 @@
+{
+  "name": "Chill Guyz",
+  "symbol": "Chill Guyz",
+  "decimals": 18,
+  "description": "Chill Guyz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Guyz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Guyz",
+  "addresses": {
+    "8453": "0x0de911f19a6afd866c13f0db22e644b1f61cbabf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Guyz",
+    "sanitizedSymbol": "CHILL_GUYZ",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1281985",
+    "lockerAddress": "0xBD514223A031C129849069bb60B634B6B915d7EE"
+  },
+  "clankerInfo": null
+}

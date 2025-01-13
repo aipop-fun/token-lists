@@ -1,0 +1,22 @@
+{
+  "name": "StonksCoin",
+  "symbol": "StonksCoin",
+  "decimals": 18,
+  "description": "StonksCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StonksCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StonksCoin",
+  "addresses": {
+    "8453": "0x23498107c55872a04c3663e1a0a387a15eb96816"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StonksCoin",
+    "sanitizedSymbol": "STONKSCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7C3f33E539884f09e8A8cd957840630DC6f7a580",
+    "lpNftId": "1265976",
+    "lockerAddress": "0x57947BfdC4795f8f9f2bB702Ff24dF0e75f1AEe5"
+  },
+  "clankerInfo": null
+}

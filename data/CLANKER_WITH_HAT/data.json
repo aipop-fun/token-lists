@@ -1,0 +1,22 @@
+{
+  "name": "Clanker With Hat",
+  "symbol": "Clanker With Hat",
+  "decimals": 18,
+  "description": "Clanker With Hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20With%20Hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker With Hat",
+  "addresses": {
+    "8453": "0x265ae24fa892f7912e33fcc9412a4dfe271f28d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker With Hat",
+    "sanitizedSymbol": "CLANKER_WITH_HAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166938",
+    "lockerAddress": "0xc1927AaC1A9375a3561b46fF6c0D33BF743831C6"
+  },
+  "clankerInfo": null
+}

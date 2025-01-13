@@ -1,0 +1,22 @@
+{
+  "name": "Mothman",
+  "symbol": "Mothman",
+  "decimals": 18,
+  "description": "Mothman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mothman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mothman",
+  "addresses": {
+    "8453": "0x38e57b77862b4a7a7312a136324dbaac0f268958"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mothman",
+    "sanitizedSymbol": "MOTHMAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233821",
+    "lockerAddress": "0x2e8A2aEa5Df8ae08627b8c2dB91930ed3F6C3273"
+  },
+  "clankerInfo": null
+}

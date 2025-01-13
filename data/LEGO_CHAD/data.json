@@ -1,0 +1,22 @@
+{
+  "name": "LEGO CHAD",
+  "symbol": "LEGO CHAD",
+  "decimals": 18,
+  "description": "LEGO CHAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEGO%20CHAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEGO CHAD",
+  "addresses": {
+    "8453": "0x1fb1ddecdbd39fcdf6324561c73f55f87924ed3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEGO CHAD",
+    "sanitizedSymbol": "LEGO_CHAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234076",
+    "lockerAddress": "0x94A411A2b6aE18a55C5840e28844Ad67445E9e79"
+  },
+  "clankerInfo": null
+}

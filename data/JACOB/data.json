@@ -1,0 +1,22 @@
+{
+  "name": "jacob",
+  "symbol": "jacob",
+  "decimals": 18,
+  "description": "jacob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jacob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jacob",
+  "addresses": {
+    "8453": "0x3aca7f8ef54995a2aa7ccd0447c13eabffd85bc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jacob",
+    "sanitizedSymbol": "JACOB",
+    "created_at": "2024-12-09T08:24:59.644831",
+    "deployer": "0x48a835FD8353e96E87f450e256d4d1C10e4895bA",
+    "lpNftId": "1384672",
+    "lockerAddress": "0xeDc309d69C4eEB07463d205F65d706521767499d"
+  },
+  "clankerInfo": null
+}

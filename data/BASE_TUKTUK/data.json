@@ -1,0 +1,22 @@
+{
+  "name": "Base TukTuk",
+  "symbol": "Base TukTuk",
+  "decimals": 18,
+  "description": "Base TukTuk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20TukTuk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base TukTuk",
+  "addresses": {
+    "8453": "0x1c663bad110c094cd20bd572c2092f35951ae6ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base TukTuk",
+    "sanitizedSymbol": "BASE_TUKTUK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219588",
+    "lockerAddress": "0xE478463bDCdFD6267ce00002dF51a3f6e6843c6f"
+  },
+  "clankerInfo": null
+}

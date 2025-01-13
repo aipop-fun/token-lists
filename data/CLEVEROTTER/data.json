@@ -1,0 +1,22 @@
+{
+  "name": "CleverOtter",
+  "symbol": "CleverOtter",
+  "decimals": 18,
+  "description": "CleverOtter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CleverOtter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CleverOtter",
+  "addresses": {
+    "8453": "0x00a86718a956ef0c8753a6517528f66938b376e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CleverOtter",
+    "sanitizedSymbol": "CLEVEROTTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173379",
+    "lockerAddress": "0x7b26094C13f11900C06Cb2130D5ecB3272904169"
+  },
+  "clankerInfo": null
+}

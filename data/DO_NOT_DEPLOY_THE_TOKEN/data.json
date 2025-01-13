@@ -1,0 +1,22 @@
+{
+  "name": "Do Not Deploy The Token",
+  "symbol": "Do Not Deploy The Token",
+  "decimals": 18,
+  "description": "Do Not Deploy The Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Do%20Not%20Deploy%20The%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Do Not Deploy The Token",
+  "addresses": {
+    "8453": "0x2e53e8311ec88f1132edada6fc6bdaa259255abc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Do Not Deploy The Token",
+    "sanitizedSymbol": "DO_NOT_DEPLOY_THE_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237759",
+    "lockerAddress": "0x85301a24a64b338De77917E4241d3Bd3d300aEF3"
+  },
+  "clankerInfo": null
+}

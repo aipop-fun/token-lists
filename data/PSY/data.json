@@ -1,0 +1,22 @@
+{
+  "name": "PSY",
+  "symbol": "PSY",
+  "decimals": 18,
+  "description": "PSY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PSY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PSY",
+  "addresses": {
+    "8453": "0x17937bd80a8ac6a11101ae69a72734ce89a30e04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PSY",
+    "sanitizedSymbol": "PSY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1287005",
+    "lockerAddress": "0x7396e2b6a3bbC2A1F296cC37D5C7958F28079ba2"
+  },
+  "clankerInfo": null
+}

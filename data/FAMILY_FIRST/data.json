@@ -1,0 +1,22 @@
+{
+  "name": "Family first",
+  "symbol": "Family first",
+  "decimals": 18,
+  "description": "Family first is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Family%20first",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Family first",
+  "addresses": {
+    "8453": "0x40386b96f1d33ffc72bdb91e96f61859c5dc79cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Family first",
+    "sanitizedSymbol": "FAMILY_FIRST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x83D3FAABd20e4116DB22F726fA289A3be9C4F8A3",
+    "lpNftId": "1285445",
+    "lockerAddress": "0x08F5F15bd72B74f043416c4455677901370D97Ca"
+  },
+  "clankerInfo": null
+}

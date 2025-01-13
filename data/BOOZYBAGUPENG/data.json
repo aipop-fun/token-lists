@@ -1,0 +1,22 @@
+{
+  "name": "BoozyBaguPeng",
+  "symbol": "BoozyBaguPeng",
+  "decimals": 18,
+  "description": "BoozyBaguPeng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BoozyBaguPeng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BoozyBaguPeng",
+  "addresses": {
+    "8453": "0x3744f098c03a3802d3f2d675d496ec557f0b9cc0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BoozyBaguPeng",
+    "sanitizedSymbol": "BOOZYBAGUPENG",
+    "created_at": "2024-12-10T12:41:03.61341",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1401036",
+    "lockerAddress": "0xD625333464AAf8c0D521715eBD515003d691Ff0C"
+  },
+  "clankerInfo": null
+}

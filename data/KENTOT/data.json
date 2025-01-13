@@ -1,0 +1,22 @@
+{
+  "name": "Kentot",
+  "symbol": "Kentot",
+  "decimals": 18,
+  "description": "Kentot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kentot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kentot",
+  "addresses": {
+    "8453": "0x1eb5d66823e2e2566303b1d3ca8345c077cad7f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kentot",
+    "sanitizedSymbol": "KENTOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161242",
+    "lockerAddress": "0x793dF5e7AF1c4bD13c0872FAEB6f1eB2038144aB"
+  },
+  "clankerInfo": null
+}

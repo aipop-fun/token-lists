@@ -1,0 +1,22 @@
+{
+  "name": "Degen World",
+  "symbol": "Degen World",
+  "decimals": 18,
+  "description": "Degen World is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20World",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen World",
+  "addresses": {
+    "8453": "0x29cde19f22d37cd8a747ab5056a484fea1313b82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen World",
+    "sanitizedSymbol": "DEGEN_WORLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x21Ed0A373d20980092B07D23750E0677bdA68771",
+    "lpNftId": "1320186",
+    "lockerAddress": "0x9143928Ca3D98FfED96998D0D0A093f1F44Fa33C"
+  },
+  "clankerInfo": null
+}

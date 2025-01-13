@@ -1,0 +1,22 @@
+{
+  "name": "based duck",
+  "symbol": "based duck",
+  "decimals": 18,
+  "description": "based duck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=based%20duck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "based duck",
+  "addresses": {
+    "8453": "0x0c2f4aa84af293e7558b99066245a4c233175329"
+  },
+  "tokenInfo": {
+    "originalSymbol": "based duck",
+    "sanitizedSymbol": "BASED_DUCK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6E24620a462De981953AE9bfBe4F47732FB4419C",
+    "lpNftId": "1251991",
+    "lockerAddress": "0xaCb9bea778777EB0159cD86797b7D32F2e8C2e42"
+  },
+  "clankerInfo": null
+}

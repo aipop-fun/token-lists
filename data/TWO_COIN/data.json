@@ -1,0 +1,22 @@
+{
+  "name": "TWO COIN",
+  "symbol": "TWO COIN",
+  "decimals": 18,
+  "description": "TWO COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TWO%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TWO COIN",
+  "addresses": {
+    "8453": "0x12697e742deeaf3cfa04449e30de942d43c797a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TWO COIN",
+    "sanitizedSymbol": "TWO_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1209187",
+    "lockerAddress": "0x680918697c769Fa90C8f5f3DDCaAE86bfc70C5e9"
+  },
+  "clankerInfo": null
+}

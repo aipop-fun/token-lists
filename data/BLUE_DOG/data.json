@@ -1,0 +1,22 @@
+{
+  "name": "BLUE DOG",
+  "symbol": "BLUE DOG",
+  "decimals": 18,
+  "description": "BLUE DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUE%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUE DOG",
+  "addresses": {
+    "8453": "0x0f238604eb7b0115ac957f726bcae7f0fa296c5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUE DOG",
+    "sanitizedSymbol": "BLUE_DOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x626bfbac7135B235669f8Dbe8BD9Ce2B40991073",
+    "lpNftId": "1285679",
+    "lockerAddress": "0xA75e160B2CeaA941085F08cC7c8273BDe661918A"
+  },
+  "clankerInfo": null
+}

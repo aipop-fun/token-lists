@@ -1,0 +1,22 @@
+{
+  "name": "MTH",
+  "symbol": "MTH",
+  "decimals": 18,
+  "description": "MTH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MTH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MTH",
+  "addresses": {
+    "8453": "0x13fbf4f06af183ad06e41039197691b8a276debd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MTH",
+    "sanitizedSymbol": "MTH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124971",
+    "lockerAddress": "0xBFeF517750aebCc21634E8AdA6E7f2deAEE4bF63"
+  },
+  "clankerInfo": null
+}

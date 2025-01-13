@@ -1,0 +1,22 @@
+{
+  "name": "The ticker is $DEGEN 🎩",
+  "symbol": "The ticker is $DEGEN 🎩",
+  "decimals": 18,
+  "description": "The ticker is $DEGEN 🎩 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20ticker%20is%20%24DEGEN%20%F0%9F%8E%A9",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The ticker is $DEGEN 🎩",
+  "addresses": {
+    "8453": "0x3be21e1e795134ee86dd27fef6a454e5dd8e22d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The ticker is $DEGEN 🎩",
+    "sanitizedSymbol": "THE_TICKER_IS_DEGEN",
+    "created_at": "2024-12-09T17:21:51.247735",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1389718",
+    "lockerAddress": "0xF2c1bB507d7298afA4Fe4dc94108193d150Dfdf4"
+  },
+  "clankerInfo": null
+}

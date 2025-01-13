@@ -1,0 +1,22 @@
+{
+  "name": "2BILLION",
+  "symbol": "2BILLION",
+  "decimals": 18,
+  "description": "2BILLION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2BILLION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2BILLION",
+  "addresses": {
+    "8453": "0x1a4991f1ec9acce18c29ef67d761f32d9e33b362"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2BILLION",
+    "sanitizedSymbol": "2BILLION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBf5288Ca06D08B19885B107d51b81462f3AF4D84",
+    "lpNftId": "1289856",
+    "lockerAddress": "0xA32eF51140b25201f9a871b40f1360cEfaC73F1f"
+  },
+  "clankerInfo": null
+}

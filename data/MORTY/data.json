@@ -1,0 +1,22 @@
+{
+  "name": "MORTY",
+  "symbol": "MORTY",
+  "decimals": 18,
+  "description": "MORTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MORTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MORTY",
+  "addresses": {
+    "8453": "0x29ab243fff284067b23d708ee2f6d63784a44a15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MORTY",
+    "sanitizedSymbol": "MORTY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1352360",
+    "lockerAddress": "0x6C55FC7b44a9A9B1fac620C6234DeA37d8d3F2b0"
+  },
+  "clankerInfo": null
+}

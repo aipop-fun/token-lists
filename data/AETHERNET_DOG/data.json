@@ -1,0 +1,22 @@
+{
+  "name": "Aethernet dog",
+  "symbol": "Aethernet dog",
+  "decimals": 18,
+  "description": "Aethernet dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aethernet%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aethernet dog",
+  "addresses": {
+    "8453": "0x3ca161768b020d7e9a9efb84a905101469f10e9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aethernet dog",
+    "sanitizedSymbol": "AETHERNET_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229786",
+    "lockerAddress": "0x318919c00c374EcFFD6068B6Ad9cc8D947903310"
+  },
+  "clankerInfo": null
+}

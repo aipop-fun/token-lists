@@ -1,0 +1,22 @@
+{
+  "name": "Bless Up",
+  "symbol": "Bless Up",
+  "decimals": 18,
+  "description": "Bless Up is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bless%20Up",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bless Up",
+  "addresses": {
+    "8453": "0x2b45941cfb1cf92808163ace91a00cdbe82b9c79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bless Up",
+    "sanitizedSymbol": "BLESS_UP",
+    "created_at": "2024-12-12T00:32:51.843972",
+    "deployer": "0xfAEe785c6B076052Bf1BAfbbc436AEEbDA69Db20",
+    "lpNftId": "1428169",
+    "lockerAddress": "0x39b0100025184c6e71391e822161D5dB03bD78D0"
+  },
+  "clankerInfo": null
+}

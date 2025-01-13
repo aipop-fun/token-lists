@@ -1,0 +1,22 @@
+{
+  "name": "Sequoia",
+  "symbol": "Sequoia",
+  "decimals": 18,
+  "description": "Sequoia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sequoia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sequoia",
+  "addresses": {
+    "8453": "0x2028e7d7aff58d6f0636811d47617466823cd338"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sequoia",
+    "sanitizedSymbol": "SEQUOIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x61AdceE0922DEA2FC417803A661111554CD5F7c2",
+    "lpNftId": "1312471",
+    "lockerAddress": "0xe4115F45860b22159CeC0B7CA1A478F3f5020C7C"
+  },
+  "clankerInfo": null
+}

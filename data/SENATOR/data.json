@@ -1,0 +1,22 @@
+{
+  "name": "Senator",
+  "symbol": "Senator",
+  "decimals": 18,
+  "description": "Senator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Senator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Senator",
+  "addresses": {
+    "8453": "0x3dd34b309ddc500ead14ab60e004bbb971db5364"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Senator",
+    "sanitizedSymbol": "SENATOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6f25A0DD4c3BD4eF1A89916B3E0162061249885a",
+    "lpNftId": "1313298",
+    "lockerAddress": "0xDb1FC83917Bb0923740be328Ab2290b39e7dFC2D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASE STRONG",
+  "symbol": "BASE STRONG",
+  "decimals": 18,
+  "description": "BASE STRONG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20STRONG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE STRONG",
+  "addresses": {
+    "8453": "0x11c1f790112f6c90b247b35427187f5a4049878e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE STRONG",
+    "sanitizedSymbol": "BASE_STRONG",
+    "created_at": "2024-12-10T07:34:03.391335",
+    "deployer": "0x6E5Dc63Ec5DDcb6F6F6f909d15D545671c435974",
+    "lpNftId": "1398043",
+    "lockerAddress": "0x885f0FD58ee7fB9Df634258906171612032f58CB"
+  },
+  "clankerInfo": null
+}

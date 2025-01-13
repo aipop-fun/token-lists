@@ -1,0 +1,22 @@
+{
+  "name": "ARTISTA",
+  "symbol": "ARTISTA",
+  "decimals": 18,
+  "description": "ARTISTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ARTISTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ARTISTA",
+  "addresses": {
+    "8453": "0x0ec7a392dd4926db786922944e27249d15829765"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ARTISTA",
+    "sanitizedSymbol": "ARTISTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0A5d1822CC57114304F9f7da51eccd9bd11Db6d0",
+    "lpNftId": "1319564",
+    "lockerAddress": "0xF1d5FA4ea5fE865C840cb1A0046fBb49C5c34ff7"
+  },
+  "clankerInfo": null
+}

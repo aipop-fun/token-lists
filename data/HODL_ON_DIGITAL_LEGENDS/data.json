@@ -1,0 +1,22 @@
+{
+  "name": "HODL On Digital Legends",
+  "symbol": "HODL On Digital Legends",
+  "decimals": 18,
+  "description": "HODL On Digital Legends is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HODL%20On%20Digital%20Legends",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HODL On Digital Legends",
+  "addresses": {
+    "8453": "0x1ef29cd84a052f2abd9c959d9d40a464c9f58e87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HODL On Digital Legends",
+    "sanitizedSymbol": "HODL_ON_DIGITAL_LEGENDS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143613",
+    "lockerAddress": "0x4249e3d2BC16973D182392dd3C945Bc5d563f8A5"
+  },
+  "clankerInfo": null
+}

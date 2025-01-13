@@ -1,0 +1,22 @@
+{
+  "name": "VARHIGH",
+  "symbol": "VARHIGH",
+  "decimals": 18,
+  "description": "VARHIGH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VARHIGH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VARHIGH",
+  "addresses": {
+    "8453": "0x2d4d0f9ecc82cc4347abbd84445a3e2c3edc1be9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VARHIGH",
+    "sanitizedSymbol": "VARHIGH",
+    "created_at": "2024-12-10T03:55:43.164866",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1395988",
+    "lockerAddress": "0x774BFc03884A2D95C3c45fBe3be67362B4398D62"
+  },
+  "clankerInfo": null
+}

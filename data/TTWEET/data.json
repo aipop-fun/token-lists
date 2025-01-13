@@ -1,0 +1,22 @@
+{
+  "name": "ttweet",
+  "symbol": "ttweet",
+  "decimals": 18,
+  "description": "ttweet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ttweet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ttweet",
+  "addresses": {
+    "8453": "0x35730766313c9b164bdebb215c4f70d4b5c41f57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ttweet",
+    "sanitizedSymbol": "TTWEET",
+    "created_at": "2024-12-11T11:25:49.626102",
+    "deployer": "0xCCcC902414489333f17c9efbcF5e9259C617346d",
+    "lpNftId": "1416887",
+    "lockerAddress": "0x7eA9ad42A31abc9a5c0fccdc0d0821a4259E3641"
+  },
+  "clankerInfo": null
+}

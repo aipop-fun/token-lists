@@ -1,0 +1,22 @@
+{
+  "name": "69 Clanker",
+  "symbol": "69 Clanker",
+  "decimals": 18,
+  "description": "69 Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=69%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "69 Clanker",
+  "addresses": {
+    "8453": "0x27c4a2a104d9796f6636d31599d75d727dd1b7ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "69 Clanker",
+    "sanitizedSymbol": "69_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x84037f0D36C6BD21fFD9b6c11f671ba100bc9bCf",
+    "lpNftId": "1324332",
+    "lockerAddress": "0x9177d466FA317EE85f496076D108AB16893358Ce"
+  },
+  "clankerInfo": null
+}

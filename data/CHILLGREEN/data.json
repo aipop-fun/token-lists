@@ -1,0 +1,22 @@
+{
+  "name": "Chillgreen",
+  "symbol": "Chillgreen",
+  "decimals": 18,
+  "description": "Chillgreen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chillgreen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chillgreen",
+  "addresses": {
+    "8453": "0x0c8a92eecf88aa03321e36b11ffc9a317aa317db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chillgreen",
+    "sanitizedSymbol": "CHILLGREEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1318800",
+    "lockerAddress": "0xa82F7365d90B658BecBaCE647f6b213cF36a77cC"
+  },
+  "clankerInfo": null
+}

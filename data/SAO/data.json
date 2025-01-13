@@ -1,0 +1,22 @@
+{
+  "name": "SAO",
+  "symbol": "SAO",
+  "decimals": 18,
+  "description": "SAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAO",
+  "addresses": {
+    "8453": "0x19a47a30820fb13b0fda22b5ea9bd873faffa433"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAO",
+    "sanitizedSymbol": "SAO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229213",
+    "lockerAddress": "0xBF3ec67562F1847B896258e58B34D7AE0dBab3f9"
+  },
+  "clankerInfo": null
+}

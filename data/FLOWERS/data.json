@@ -1,0 +1,22 @@
+{
+  "name": "FLOWERS",
+  "symbol": "FLOWERS",
+  "decimals": 18,
+  "description": "FLOWERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLOWERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLOWERS",
+  "addresses": {
+    "8453": "0x3685f116e2b8729201ce70c1f74be784a773e8ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLOWERS",
+    "sanitizedSymbol": "FLOWERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x741fE68f66B41C4cbe977Eab305F04D9C9707B75",
+    "lpNftId": "1347037",
+    "lockerAddress": "0x716046fFA07bA23E0F4acCa8D9f87B41D6abF19B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Apepe",
+  "symbol": "Apepe",
+  "decimals": 18,
+  "description": "Apepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apepe",
+  "addresses": {
+    "8453": "0x03c4315e0dfceec6d750ce98f3baa4c2fb8f9a70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apepe",
+    "sanitizedSymbol": "APEPE",
+    "created_at": "2024-12-10T01:05:40.953108",
+    "deployer": "0x028aa845de6E6988518615D37c5D00dE29EE58D1",
+    "lpNftId": "1394124",
+    "lockerAddress": "0x29B2aA42A49040C24CdaCd19485Da4846BC471A3"
+  },
+  "clankerInfo": null
+}

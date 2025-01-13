@@ -1,0 +1,22 @@
+{
+  "name": "Dawn",
+  "symbol": "Dawn",
+  "decimals": 18,
+  "description": "Dawn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dawn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dawn",
+  "addresses": {
+    "8453": "0x11cac93b14e702888ba23051dbf8bbec2918899d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dawn",
+    "sanitizedSymbol": "DAWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195120",
+    "lockerAddress": "0xd830946faB5dD126dC4cE84154A579fB72d1eb1C"
+  },
+  "clankerInfo": null
+}

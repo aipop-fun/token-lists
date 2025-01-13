@@ -1,0 +1,22 @@
+{
+  "name": "BANKR",
+  "symbol": "BANKR",
+  "decimals": 18,
+  "description": "BANKR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANKR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANKR",
+  "addresses": {
+    "8453": "0x1e69a0ee53528b8a1be32eed2bfc75a607eb3d60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANKR",
+    "sanitizedSymbol": "BANKR_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e0d2ff8A6f5cB87462b03627C90B38AFBEDB637",
+    "lpNftId": "1319915",
+    "lockerAddress": "0x2Aa95556eEB42935FF81BbbB4C9e70365a5A88b7"
+  },
+  "clankerInfo": null
+}

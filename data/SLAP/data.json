@@ -1,0 +1,22 @@
+{
+  "name": "SLAP",
+  "symbol": "SLAP",
+  "decimals": 18,
+  "description": "SLAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLAP",
+  "addresses": {
+    "8453": "0x09082adaa39489912ad81dc32bffc02cc65dc309"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLAP",
+    "sanitizedSymbol": "SLAP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163836",
+    "lockerAddress": "0x3D5a975889D5402c1235d8EF5dceDbf22Fc93C67"
+  },
+  "clankerInfo": null
+}

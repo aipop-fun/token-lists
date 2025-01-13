@@ -1,0 +1,22 @@
+{
+  "name": "baldog",
+  "symbol": "baldog",
+  "decimals": 18,
+  "description": "baldog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baldog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baldog",
+  "addresses": {
+    "8453": "0x142b7bca05691f975370ec10536c90c6ce5fe38f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baldog",
+    "sanitizedSymbol": "BALDOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120385",
+    "lockerAddress": "0xc53039D6c5ee2BF7C03eAAB19D35471dD5B2FbBd"
+  },
+  "clankerInfo": null
+}

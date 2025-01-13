@@ -1,0 +1,22 @@
+{
+  "name": "FAR PET",
+  "symbol": "FAR PET",
+  "decimals": 18,
+  "description": "FAR PET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAR%20PET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAR PET",
+  "addresses": {
+    "8453": "0x3be41b71da0426e7f87b42e6ee7ca45b0930b4fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAR PET",
+    "sanitizedSymbol": "FAR_PET",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1375579",
+    "lockerAddress": "0x2E458EbbE08dd579ea816255F70f091F21602C88"
+  },
+  "clankerInfo": null
+}

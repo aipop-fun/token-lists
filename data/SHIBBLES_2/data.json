@@ -1,0 +1,22 @@
+{
+  "name": "SHIBBLES",
+  "symbol": "SHIBBLES",
+  "decimals": 18,
+  "description": "SHIBBLES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIBBLES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIBBLES",
+  "addresses": {
+    "8453": "0x2644b37a4ced97c588d64fd512a79544ed811e55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIBBLES",
+    "sanitizedSymbol": "SHIBBLES_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1123a084c7DbC5cF839BD7Bebd9B94CFea5b37D1",
+    "lpNftId": "1281202",
+    "lockerAddress": "0x84734a4871FEf887102938d18576DdB2786BD1D4"
+  },
+  "clankerInfo": null
+}

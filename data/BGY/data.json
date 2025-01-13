@@ -1,0 +1,22 @@
+{
+  "name": "BGY",
+  "symbol": "BGY",
+  "decimals": 18,
+  "description": "BGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BGY",
+  "addresses": {
+    "8453": "0x1ab123281023c2e02376b1dc3d7d3a05d0781e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BGY",
+    "sanitizedSymbol": "BGY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x057e81967a541E4390f6A2ada032025BE01CFD7e",
+    "lpNftId": "1285598",
+    "lockerAddress": "0xdBB4c369d07Be90F40a27c2C451040dF1233eD50"
+  },
+  "clankerInfo": null
+}

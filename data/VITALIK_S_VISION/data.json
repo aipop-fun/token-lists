@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik's Vision",
+  "symbol": "Vitalik's Vision",
+  "decimals": 18,
+  "description": "Vitalik's Vision is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik's%20Vision",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik's Vision",
+  "addresses": {
+    "8453": "0x200dc662d55deb7fe7999fbb657daafdf9ece16f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik's Vision",
+    "sanitizedSymbol": "VITALIK_S_VISION",
+    "created_at": "2024-12-11T09:45:52.941017",
+    "deployer": "0x1AA9aCE6A350d834dA92c86E3fdAca2e7D492Ae3",
+    "lpNftId": "1415772",
+    "lockerAddress": "0x88D75ac218711A0bAEeD7216106aE57ce54cDbE8"
+  },
+  "clankerInfo": null
+}

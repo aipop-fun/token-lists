@@ -1,0 +1,22 @@
+{
+  "name": "VADERAI",
+  "symbol": "VADERAI",
+  "decimals": 18,
+  "description": "VADERAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VADERAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VADERAI",
+  "addresses": {
+    "8453": "0x1a09e4e672c5f06c454bc3a7528eafef245fb42e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VADERAI",
+    "sanitizedSymbol": "VADERAI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb9B00Bf4129E36377193F6401B0563EAc6ae3153",
+    "lpNftId": "1265150",
+    "lockerAddress": "0x33CDf64eb089c42bf3e88cC018ee0823a225c60e"
+  },
+  "clankerInfo": null
+}

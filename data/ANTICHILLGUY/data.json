@@ -1,0 +1,22 @@
+{
+  "name": "AntiChillGuy",
+  "symbol": "AntiChillGuy",
+  "decimals": 18,
+  "description": "AntiChillGuy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AntiChillGuy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AntiChillGuy",
+  "addresses": {
+    "8453": "0x290c6fad60f396032c5c53a7c66ce8c3076b87c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AntiChillGuy",
+    "sanitizedSymbol": "ANTICHILLGUY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB9B38D4B6a4CbEBBB8C07d144cA421dE93842275",
+    "lpNftId": "1250981",
+    "lockerAddress": "0x358b98Cf92CaEBFd441C8f40E3f87D699EFc4323"
+  },
+  "clankerInfo": null
+}

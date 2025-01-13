@@ -1,0 +1,22 @@
+{
+  "name": "bintang",
+  "symbol": "bintang",
+  "decimals": 18,
+  "description": "bintang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bintang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bintang",
+  "addresses": {
+    "8453": "0x18035dad115776856de02be5867bf9463f6758b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bintang",
+    "sanitizedSymbol": "BINTANG",
+    "created_at": "2024-12-12T16:09:56.796587",
+    "deployer": "0xb64f11B9832c8981f6a1Edd6AdFbF603bceB2e40",
+    "lpNftId": "1437992",
+    "lockerAddress": "0x7895ECe725FfD76FcAa6CE9FCEc7dDa5fCC70F67"
+  },
+  "clankerInfo": null
+}

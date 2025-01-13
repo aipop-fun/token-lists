@@ -1,0 +1,22 @@
+{
+  "name": "IMBA",
+  "symbol": "IMBA",
+  "decimals": 18,
+  "description": "IMBA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IMBA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IMBA",
+  "addresses": {
+    "8453": "0x375424caba7b91b07fcf5dcc83296e2aa7068d32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IMBA",
+    "sanitizedSymbol": "IMBA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x8C1906750e4f0C7b81172DCeD02F33D013695A80",
+    "lpNftId": "1250722",
+    "lockerAddress": "0x6458aeD9c00B0E515749FA1E807a492A808348B5"
+  },
+  "clankerInfo": null
+}

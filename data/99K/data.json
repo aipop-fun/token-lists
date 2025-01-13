@@ -1,0 +1,22 @@
+{
+  "name": "99K",
+  "symbol": "99K",
+  "decimals": 18,
+  "description": "99K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=99K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "99K",
+  "addresses": {
+    "8453": "0x2f6dae5af6489a7eb989fd928052f5ab9c9d2a59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "99K",
+    "sanitizedSymbol": "99K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+    "lpNftId": "1336226",
+    "lockerAddress": "0xF76161FCAB6cB4c2D0832c85a43A2d6c8be9753F"
+  },
+  "clankerInfo": null
+}

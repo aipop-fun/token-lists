@@ -1,0 +1,22 @@
+{
+  "name": "FAR",
+  "symbol": "FAR",
+  "decimals": 18,
+  "description": "FAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAR",
+  "addresses": {
+    "8453": "0x05308bd10d0d1dda5d563267b960f9e2d44f39f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAR",
+    "sanitizedSymbol": "FAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142374",
+    "lockerAddress": "0x83fd3aFF55af3b8578e8F6FF8B4eA34Fc8143B36"
+  },
+  "clankerInfo": null
+}

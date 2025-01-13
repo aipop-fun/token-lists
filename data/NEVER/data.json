@@ -1,0 +1,22 @@
+{
+  "name": "Never",
+  "symbol": "Never",
+  "decimals": 18,
+  "description": "Never is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Never",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Never",
+  "addresses": {
+    "8453": "0x3b68d0684bf55d1ea88dfe33a5c278b8f108d071"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Never",
+    "sanitizedSymbol": "NEVER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210233",
+    "lockerAddress": "0x30ED3AD0CB472C219CcD86F931e94aBaF5c7e791"
+  },
+  "clankerInfo": null
+}

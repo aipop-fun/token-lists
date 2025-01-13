@@ -1,0 +1,22 @@
+{
+  "name": "Agent Ai",
+  "symbol": "Agent Ai",
+  "decimals": 18,
+  "description": "Agent Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent Ai",
+  "addresses": {
+    "8453": "0x1932b99f0c90a1878a5ba84c3ee0f17b1deae065"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent Ai",
+    "sanitizedSymbol": "AGENT_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x478bda0645A39895Fd7C1C5cF2b7d3fd02cE114d",
+    "lpNftId": "1309634",
+    "lockerAddress": "0x57f85fDd66C6060adb007DfFEC2Ca9f70Cb569A4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "222",
+  "symbol": "222",
+  "decimals": 18,
+  "description": "222 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=222",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "222",
+  "addresses": {
+    "8453": "0x0f68a2356576fe385b4f57acd6ba9e941bd134b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "222",
+    "sanitizedSymbol": "222",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1353659",
+    "lockerAddress": "0x448c8D84D2Be8967C0e658662Be80Fcef6fbb1D1"
+  },
+  "clankerInfo": null
+}

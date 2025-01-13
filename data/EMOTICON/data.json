@@ -1,0 +1,22 @@
+{
+  "name": "emoticon",
+  "symbol": "emoticon",
+  "decimals": 18,
+  "description": "emoticon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=emoticon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "emoticon",
+  "addresses": {
+    "8453": "0x19db06df2aaeecbcaa41fecf647a324370215910"
+  },
+  "tokenInfo": {
+    "originalSymbol": "emoticon",
+    "sanitizedSymbol": "EMOTICON",
+    "created_at": "2024-12-12T05:35:27.507031",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1429408",
+    "lockerAddress": "0xf2977F0E7fc66d223a47F94b236D02707C805b4F"
+  },
+  "clankerInfo": null
+}

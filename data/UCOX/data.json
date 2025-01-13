@@ -1,0 +1,22 @@
+{
+  "name": "UCOX",
+  "symbol": "UCOX",
+  "decimals": 18,
+  "description": "UCOX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UCOX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UCOX",
+  "addresses": {
+    "8453": "0x26ebe9afa8d38cfae7db668f161cf196fd4560e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UCOX",
+    "sanitizedSymbol": "UCOX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1283978",
+    "lockerAddress": "0x08aAee7491427Ff3c4B80624F0bDfE527C1C64B3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BALDINO",
+  "symbol": "BALDINO",
+  "decimals": 18,
+  "description": "BALDINO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BALDINO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BALDINO",
+  "addresses": {
+    "8453": "0x380dc2efc50a0ee964fe6892fd25da7283e9c5c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BALDINO",
+    "sanitizedSymbol": "BALDINO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230759",
+    "lockerAddress": "0xe448068bf3F4A8874E58AdEE1De1029E064d71B1"
+  },
+  "clankerInfo": null
+}

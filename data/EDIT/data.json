@@ -1,0 +1,22 @@
+{
+  "name": "EDIT",
+  "symbol": "EDIT",
+  "decimals": 18,
+  "description": "EDIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EDIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EDIT",
+  "addresses": {
+    "8453": "0x4086b57ba8a6b6d05d5c170d8b8b5804d54d6b0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EDIT",
+    "sanitizedSymbol": "EDIT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
+    "lpNftId": "1324648",
+    "lockerAddress": "0xaFD965e068257E9fe4bD0c0D2c8fe1de7eEAbd5D"
+  },
+  "clankerInfo": null
+}

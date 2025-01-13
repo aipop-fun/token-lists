@@ -1,0 +1,22 @@
+{
+  "name": "CATRUTO",
+  "symbol": "CATRUTO",
+  "decimals": 18,
+  "description": "CATRUTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATRUTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATRUTO",
+  "addresses": {
+    "8453": "0x06530e99330a379d6120c5f7e69ad8920e1c7fdd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATRUTO",
+    "sanitizedSymbol": "CATRUTO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4B766cf6b890CB0E92D8cf237cF47df9c55779Fb",
+    "lpNftId": "1329508",
+    "lockerAddress": "0x540c654Ed6Db1f8aFBA13364C944a57e17e201eB"
+  },
+  "clankerInfo": null
+}

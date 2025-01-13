@@ -1,0 +1,22 @@
+{
+  "name": "Adult Anon",
+  "symbol": "Adult Anon",
+  "decimals": 18,
+  "description": "Adult Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Adult%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Adult Anon",
+  "addresses": {
+    "8453": "0x0b867f4eb0b7e655a21ec3a8804b97b35d9eb0c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Adult Anon",
+    "sanitizedSymbol": "ADULT_ANON",
+    "created_at": "2024-12-12T07:04:46.259001",
+    "deployer": "0xD21ed8BD34F03BE43297cE7c3630AeeE9372dED4",
+    "lpNftId": "1429685",
+    "lockerAddress": "0x5C53eBE0875ecCCD7e92CB47b655bddab71560C6"
+  },
+  "clankerInfo": null
+}

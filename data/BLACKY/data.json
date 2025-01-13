@@ -1,0 +1,22 @@
+{
+  "name": "Blacky",
+  "symbol": "Blacky",
+  "decimals": 18,
+  "description": "Blacky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blacky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blacky",
+  "addresses": {
+    "8453": "0x140f23f93ae33a036717edaef24f89c6e1e1b8ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blacky",
+    "sanitizedSymbol": "BLACKY",
+    "created_at": "2024-12-10T06:51:48.295662",
+    "deployer": "0x23bD9d34961616FA9f59976278DA6D3E8BA29b77",
+    "lpNftId": "1397483",
+    "lockerAddress": "0x68a6eAf5959e2E3bE9E20d697cbc88868d4624D7"
+  },
+  "clankerInfo": null
+}

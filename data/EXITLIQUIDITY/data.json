@@ -1,0 +1,22 @@
+{
+  "name": "ExitLiquidity",
+  "symbol": "ExitLiquidity",
+  "decimals": 18,
+  "description": "ExitLiquidity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ExitLiquidity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ExitLiquidity",
+  "addresses": {
+    "8453": "0x0eaf7c713e08407e59638229c8ea32ba70d49904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ExitLiquidity",
+    "sanitizedSymbol": "EXITLIQUIDITY",
+    "created_at": "2024-12-09T16:19:48.244445",
+    "deployer": "0xcE8361eB0f1F3d4c45988571EF5d5d39752b878D",
+    "lpNftId": "1389148",
+    "lockerAddress": "0xA0cF7995C51a6b1D269376F8bBd6eb66813d2F70"
+  },
+  "clankerInfo": null
+}

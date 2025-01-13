@@ -1,0 +1,22 @@
+{
+  "name": "BaByMew",
+  "symbol": "BaByMew",
+  "decimals": 18,
+  "description": "BaByMew is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaByMew",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaByMew",
+  "addresses": {
+    "8453": "0x32df2900026accb0fcc09fecc7101fbc23c5c3a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaByMew",
+    "sanitizedSymbol": "BABYMEW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdd61b860E1CF7A8D613fa4432A1A2c9F0fb27D48",
+    "lpNftId": "1327601",
+    "lockerAddress": "0xEeb33d52fFD4dA2e70FF151793ceE4fd1dAD0c67"
+  },
+  "clankerInfo": null
+}

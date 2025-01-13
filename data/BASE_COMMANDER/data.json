@@ -1,0 +1,22 @@
+{
+  "name": "Base Commander",
+  "symbol": "Base Commander",
+  "decimals": 18,
+  "description": "Base Commander is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Commander",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Commander",
+  "addresses": {
+    "8453": "0x11fa6cab406f65c003e52040ec1dd1476c5f3339"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Commander",
+    "sanitizedSymbol": "BASE_COMMANDER",
+    "created_at": "2024-12-11T11:24:33.802466",
+    "deployer": "0x12f98eAd4d2d93982AF945F6608967fFB51692E7",
+    "lpNftId": "1416868",
+    "lockerAddress": "0xf99efADfc6aC2B93F800F4e70b4e2106e743d9a2"
+  },
+  "clankerInfo": null
+}

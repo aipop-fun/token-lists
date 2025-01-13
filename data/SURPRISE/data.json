@@ -1,0 +1,22 @@
+{
+  "name": "SURPRISE",
+  "symbol": "SURPRISE",
+  "decimals": 18,
+  "description": "SURPRISE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SURPRISE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SURPRISE",
+  "addresses": {
+    "8453": "0x30b577ba6b6ed069eab28fcf69f984f78804dce0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SURPRISE",
+    "sanitizedSymbol": "SURPRISE",
+    "created_at": "2024-12-10T02:29:12.769219",
+    "deployer": "0x97300791462D8ACc2B7882726C2dCafE67a84E2D",
+    "lpNftId": "1395125",
+    "lockerAddress": "0xBCd99fa883b155b3c1bFe76c94967802225aaB3A"
+  },
+  "clankerInfo": null
+}

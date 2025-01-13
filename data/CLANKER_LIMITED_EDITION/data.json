@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Limited Edition",
+  "symbol": "Clanker Limited Edition",
+  "decimals": 18,
+  "description": "Clanker Limited Edition is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Limited%20Edition",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Limited Edition",
+  "addresses": {
+    "8453": "0x3f0ff267ea8b5e0faf5cae04733709998c8ba94f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Limited Edition",
+    "sanitizedSymbol": "CLANKER_LIMITED_EDITION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC811b772e7CaFb6738B66b833d8048A1B72Fe81c",
+    "lpNftId": "1293923",
+    "lockerAddress": "0x987F479BFbd8bAda0D576c1593D3c03481E1dAF2"
+  },
+  "clankerInfo": null
+}

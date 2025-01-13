@@ -1,0 +1,22 @@
+{
+  "name": "Fight 4 Defi",
+  "symbol": "Fight 4 Defi",
+  "decimals": 18,
+  "description": "Fight 4 Defi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fight%204%20Defi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fight 4 Defi",
+  "addresses": {
+    "8453": "0x3412ccf91d99300cd182b4ebe96dffd8f9a95da6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fight 4 Defi",
+    "sanitizedSymbol": "FIGHT_4_DEFI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224512",
+    "lockerAddress": "0x2e2ec8FD7f4afaDa84C468D0959A1401Acc6b127"
+  },
+  "clankerInfo": null
+}

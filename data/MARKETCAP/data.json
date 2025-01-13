@@ -1,0 +1,22 @@
+{
+  "name": "MARKETCAP",
+  "symbol": "MARKETCAP",
+  "decimals": 18,
+  "description": "MARKETCAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MARKETCAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MARKETCAP",
+  "addresses": {
+    "8453": "0x25dc9e6ceba4987399bfd00073a2ec849200572f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MARKETCAP",
+    "sanitizedSymbol": "MARKETCAP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x23B2dB97a311F69e1caf7e684b4ca9Ca86f1eF22",
+    "lpNftId": "1250537",
+    "lockerAddress": "0x8DB67FFAA0e3128492815367efaD18dd3196B74a"
+  },
+  "clankerInfo": null
+}

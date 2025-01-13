@@ -1,0 +1,22 @@
+{
+  "name": "Double or Nothing",
+  "symbol": "Double or Nothing",
+  "decimals": 18,
+  "description": "Double or Nothing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Double%20or%20Nothing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Double or Nothing",
+  "addresses": {
+    "8453": "0x1b12d7829f9d446a00d7c2a73931c6ef3290ba20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Double or Nothing",
+    "sanitizedSymbol": "DOUBLE_OR_NOTHING",
+    "created_at": "2024-12-09T01:47:32.333744",
+    "deployer": "0xA8bBDE3B3d0b922Ad5dd83E46b6272ca5989794B",
+    "lpNftId": "1377629",
+    "lockerAddress": "0xed68587B970a344B76d4911160b869D60667f049"
+  },
+  "clankerInfo": null
+}

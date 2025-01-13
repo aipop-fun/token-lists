@@ -1,0 +1,22 @@
+{
+  "name": "GasToken",
+  "symbol": "GasToken",
+  "decimals": 18,
+  "description": "GasToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GasToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GasToken",
+  "addresses": {
+    "8453": "0x23f0abc773dc923b10702461457c7d092f8d0ed3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GasToken",
+    "sanitizedSymbol": "GASTOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218711",
+    "lockerAddress": "0xBE55e209c26cFeFaCd983bDdD08119b213B9CCbC"
+  },
+  "clankerInfo": null
+}

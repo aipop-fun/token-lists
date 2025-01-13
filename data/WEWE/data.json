@@ -1,0 +1,22 @@
+{
+  "name": "WEWE",
+  "symbol": "WEWE",
+  "decimals": 18,
+  "description": "WEWE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEWE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEWE",
+  "addresses": {
+    "8453": "0x046b118cbf753e38d4e5577a18d291302aef88fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEWE",
+    "sanitizedSymbol": "WEWE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x43b2CA1eFb65549e4d6FBBa0E4f6e9C1346E0652",
+    "lpNftId": "1265996",
+    "lockerAddress": "0x93Ad7C2EE8b581f07280C10f7e0ea6519ACaf3EA"
+  },
+  "clankerInfo": null
+}

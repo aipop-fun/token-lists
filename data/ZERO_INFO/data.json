@@ -1,0 +1,22 @@
+{
+  "name": "ZERO INFO",
+  "symbol": "ZERO INFO",
+  "decimals": 18,
+  "description": "ZERO INFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZERO%20INFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZERO INFO",
+  "addresses": {
+    "8453": "0x1a8cf037eb689e7ecb37f4c4456036f17f7ac491"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZERO INFO",
+    "sanitizedSymbol": "ZERO_INFO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe324476B4648be7F2356dD518F7f60eD76f6048b",
+    "lpNftId": "1251298",
+    "lockerAddress": "0xf515E80738bC123Aa7Eb420Fe3302d901CBbE166"
+  },
+  "clankerInfo": null
+}

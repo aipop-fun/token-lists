@@ -1,0 +1,22 @@
+{
+  "name": "VINTA",
+  "symbol": "VINTA",
+  "decimals": 18,
+  "description": "VINTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VINTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VINTA",
+  "addresses": {
+    "8453": "0x3abe325f4681b4fa38e21f29c3e063c67e224c65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VINTA",
+    "sanitizedSymbol": "VINTA",
+    "created_at": "2024-12-09T04:17:19.188021",
+    "deployer": "0x04E6186b21f1cE2aCaAf1C597d43fCF48e5Cc6cb",
+    "lpNftId": "1381417",
+    "lockerAddress": "0x5347A7F7B699F0378F520b43386CB1A0D9D630c4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Copper",
+  "symbol": "Copper",
+  "decimals": 18,
+  "description": "Copper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Copper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Copper",
+  "addresses": {
+    "8453": "0x3e8a4b5cafb08851d7d2ec06420572094d4d983b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Copper",
+    "sanitizedSymbol": "COPPER",
+    "created_at": "2024-12-09T04:38:56.477342",
+    "deployer": "0xc6b973bB42266c9CBd6B61ff4AEd2e2527Eb8F2B",
+    "lpNftId": "1382231",
+    "lockerAddress": "0xe59fAC303b5145f22D5fB816c3756Dc5443A99C2"
+  },
+  "clankerInfo": null
+}

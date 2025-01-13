@@ -1,0 +1,22 @@
+{
+  "name": "3RD-MINATOR",
+  "symbol": "3RD-MINATOR",
+  "decimals": 18,
+  "description": "3RD-MINATOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=3RD-MINATOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "3RD-MINATOR",
+  "addresses": {
+    "8453": "0x25a475d93d6c158fb44b6e87c0306147441aff01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "3RD-MINATOR",
+    "sanitizedSymbol": "3RD_MINATOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235238",
+    "lockerAddress": "0x3fF1D8b4392f946449EEAf33d201f0A9d6CEe886"
+  },
+  "clankerInfo": null
+}

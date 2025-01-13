@@ -1,0 +1,22 @@
+{
+  "name": "Sniper",
+  "symbol": "Sniper",
+  "decimals": 18,
+  "description": "Sniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sniper",
+  "addresses": {
+    "8453": "0x21eb0e1372ee05a929c83df7cd09f73d32b8447b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sniper",
+    "sanitizedSymbol": "SNIPER_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218384",
+    "lockerAddress": "0xb0Ae1d76878077a4DE997e047C7eC51a8D112063"
+  },
+  "clankerInfo": null
+}

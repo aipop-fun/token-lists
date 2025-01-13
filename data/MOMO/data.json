@@ -1,0 +1,22 @@
+{
+  "name": "Momo",
+  "symbol": "Momo",
+  "decimals": 18,
+  "description": "Momo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Momo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Momo",
+  "addresses": {
+    "8453": "0x068aab9f8cef5c291626554255578f4c9029468d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Momo",
+    "sanitizedSymbol": "MOMO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234241",
+    "lockerAddress": "0x3c1A4598Bd4F9daC007Eff894fE9F97d555E2DcC"
+  },
+  "clankerInfo": null
+}

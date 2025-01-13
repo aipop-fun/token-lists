@@ -1,0 +1,22 @@
+{
+  "name": "FunToken",
+  "symbol": "FunToken",
+  "decimals": 18,
+  "description": "FunToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FunToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FunToken",
+  "addresses": {
+    "8453": "0x1d36679099f4d5eb10915d6d3c2dd59f3762692f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FunToken",
+    "sanitizedSymbol": "FUNTOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4A8C673bdBC78132D46d5Abd9191debc9c10eBB6",
+    "lpNftId": "1245929",
+    "lockerAddress": "0x14be80F5E8a788d9F1aAee248ed6Cf9FB198feF6"
+  },
+  "clankerInfo": null
+}

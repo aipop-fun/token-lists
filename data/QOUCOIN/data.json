@@ -1,0 +1,22 @@
+{
+  "name": "Qoucoin",
+  "symbol": "Qoucoin",
+  "decimals": 18,
+  "description": "Qoucoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Qoucoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Qoucoin",
+  "addresses": {
+    "8453": "0x024eba0df5edd7b545e02ec5f003c7e1fcdfba88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Qoucoin",
+    "sanitizedSymbol": "QOUCOIN",
+    "created_at": "2024-12-11T02:30:41.932838",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1410732",
+    "lockerAddress": "0x4b297857BC2B9f27e73EC9C0AF101D2Fb37C1ED3"
+  },
+  "clankerInfo": null
+}

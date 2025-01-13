@@ -1,0 +1,22 @@
+{
+  "name": "duma",
+  "symbol": "duma",
+  "decimals": 18,
+  "description": "duma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=duma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "duma",
+  "addresses": {
+    "8453": "0x29cc61868ef5aecef7943df71ad1b01327b0db0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "duma",
+    "sanitizedSymbol": "DUMA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x618715e04a5f3cE5dCfbCbCAd78b0973521D5F1F",
+    "lpNftId": "1269598",
+    "lockerAddress": "0x174027D9770a66382C8e9cb5825465C06AB42555"
+  },
+  "clankerInfo": null
+}

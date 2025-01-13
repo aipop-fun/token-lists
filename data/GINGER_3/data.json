@@ -1,0 +1,22 @@
+{
+  "name": "GINGER",
+  "symbol": "GINGER",
+  "decimals": 18,
+  "description": "GINGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GINGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GINGER",
+  "addresses": {
+    "8453": "0x1f8cb410f3ded0c859b142838eee77cafa39d8eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GINGER",
+    "sanitizedSymbol": "GINGER_3",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226750",
+    "lockerAddress": "0xA7195d81CA7836Ca6B6758B0f87820db5013aDe8"
+  },
+  "clankerInfo": null
+}

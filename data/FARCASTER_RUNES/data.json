@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Runes",
+  "symbol": "Farcaster Runes",
+  "decimals": 18,
+  "description": "Farcaster Runes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Runes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Runes",
+  "addresses": {
+    "8453": "0x1fb47b7f4751dbdeb23a7607585ec1d5766c08e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Runes",
+    "sanitizedSymbol": "FARCASTER_RUNES",
+    "created_at": "2024-12-10T20:58:13.547684",
+    "deployer": "0x1b3bFfa8825924E5195C6D282c3B8dA524E31214",
+    "lpNftId": "1407167",
+    "lockerAddress": "0xf6C947cf8AeB92fF4dc9d358349E070F0B683121"
+  },
+  "clankerInfo": null
+}

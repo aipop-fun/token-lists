@@ -1,0 +1,22 @@
+{
+  "name": "hackchat",
+  "symbol": "hackchat",
+  "decimals": 18,
+  "description": "hackchat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hackchat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hackchat",
+  "addresses": {
+    "8453": "0x41ac09c1e616d4cd1b3afa57e1c7f5588eb230ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hackchat",
+    "sanitizedSymbol": "HACKCHAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157485",
+    "lockerAddress": "0x99c48A575170fe48d3764a00543C880B7aF509d1"
+  },
+  "clankerInfo": null
+}

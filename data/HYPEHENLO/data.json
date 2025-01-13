@@ -1,0 +1,22 @@
+{
+  "name": "Hypehenlo",
+  "symbol": "Hypehenlo",
+  "decimals": 18,
+  "description": "Hypehenlo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hypehenlo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hypehenlo",
+  "addresses": {
+    "8453": "0x3dcad93d08bd1050b4744f872970e8649aa1a586"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hypehenlo",
+    "sanitizedSymbol": "HYPEHENLO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0F5c0b356a7E667a1ca52fABC0dbeCdff2E204F2",
+    "lpNftId": "1320643",
+    "lockerAddress": "0x3554A69CC57d5Dac479D9e6A444fD165300a1378"
+  },
+  "clankerInfo": null
+}

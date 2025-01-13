@@ -1,0 +1,22 @@
+{
+  "name": "complex coin",
+  "symbol": "complex coin",
+  "decimals": 18,
+  "description": "complex coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=complex%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "complex coin",
+  "addresses": {
+    "8453": "0x142548b0d5189f899ba779916406ec1e0ff801a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "complex coin",
+    "sanitizedSymbol": "COMPLEX_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4b295A55BC13F1783A9a05409eBc3e8115214dbc",
+    "lpNftId": "1252820",
+    "lockerAddress": "0xe9b45bDB00437Fde9076bf5AF4b3c2F696D1310a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CABALCASTER",
+  "symbol": "CABALCASTER",
+  "decimals": 18,
+  "description": "CABALCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CABALCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CABALCASTER",
+  "addresses": {
+    "8453": "0x0eeb876b59239b22f4734b4e146739400dc3c573"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CABALCASTER",
+    "sanitizedSymbol": "CABALCASTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x36494D72bf6CBc0fEEfb85d3A2106E0CEeA31629",
+    "lpNftId": "1365218",
+    "lockerAddress": "0x383a0bdA5afee6A10B96165FC3a24062E2Dc72f0"
+  },
+  "clankerInfo": null
+}

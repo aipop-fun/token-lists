@@ -1,0 +1,22 @@
+{
+  "name": "devtest2",
+  "symbol": "devtest2",
+  "decimals": 18,
+  "description": "devtest2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=devtest2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "devtest2",
+  "addresses": {
+    "8453": "0x0021c10a0b6b9db0220b60b86fb1fd5694e5acc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "devtest2",
+    "sanitizedSymbol": "DEVTEST2",
+    "created_at": "2024-12-12T14:12:59.148172",
+    "deployer": "0x28E95E4C5830AeCfc1B568fEa21Ffa1D43B7F7c7",
+    "lpNftId": "1435567",
+    "lockerAddress": "0x30424E5b362dF723d70d080847f4dda43971C3D1"
+  },
+  "clankerInfo": null
+}

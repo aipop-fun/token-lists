@@ -1,0 +1,22 @@
+{
+  "name": "Moon END",
+  "symbol": "Moon END",
+  "decimals": 18,
+  "description": "Moon END is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moon%20END",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moon END",
+  "addresses": {
+    "8453": "0x21649032f7d9d1e3b9cdcbe43dc55c40459ebae8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moon END",
+    "sanitizedSymbol": "MOON_END",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf106a3c526f8ee64D0A8703bbeD3Bb0f4A56fBdF",
+    "lpNftId": "1321339",
+    "lockerAddress": "0x2a48d53DA322219B3f2CBFB0E14e3D5E08603574"
+  },
+  "clankerInfo": null
+}

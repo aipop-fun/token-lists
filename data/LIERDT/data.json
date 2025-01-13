@@ -1,0 +1,22 @@
+{
+  "name": "Lierdt",
+  "symbol": "Lierdt",
+  "decimals": 18,
+  "description": "Lierdt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lierdt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lierdt",
+  "addresses": {
+    "8453": "0x26b6371a3ef5338d4a8eeb33f231db053b7552e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lierdt",
+    "sanitizedSymbol": "LIERDT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73c18ddDe43b36469095aFFCc1596fC861A6ea1E",
+    "lpNftId": "1287013",
+    "lockerAddress": "0x266eEa6066c27044E0b692423A409ea467A8F84A"
+  },
+  "clankerInfo": null
+}

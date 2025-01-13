@@ -1,0 +1,22 @@
+{
+  "name": "Quipster",
+  "symbol": "Quipster",
+  "decimals": 18,
+  "description": "Quipster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quipster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quipster",
+  "addresses": {
+    "8453": "0x1ca3e7a73c77a16de2993a46ab8770ce886ce437"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quipster",
+    "sanitizedSymbol": "QUIPSTER",
+    "created_at": "2024-12-12T00:25:09.599291",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1428140",
+    "lockerAddress": "0xB103c7201F8eC8bAC296CDD031200077e92d39f1"
+  },
+  "clankerInfo": null
+}

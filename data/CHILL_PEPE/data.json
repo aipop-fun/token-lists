@@ -1,0 +1,22 @@
+{
+  "name": "Chill Pepe",
+  "symbol": "Chill Pepe",
+  "decimals": 18,
+  "description": "Chill Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Pepe",
+  "addresses": {
+    "8453": "0x06b9f5f79b979b4e982b2f7ac676e94cff5a4557"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Pepe",
+    "sanitizedSymbol": "CHILL_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x577d7699458B9DE7DeAea18A31058Fa77BBbF14a",
+    "lpNftId": "1313347",
+    "lockerAddress": "0x489e245FBD211ca5D02e6a5E57ac2dD67d0FA4Bc"
+  },
+  "clankerInfo": null
+}

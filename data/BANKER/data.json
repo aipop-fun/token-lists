@@ -1,0 +1,22 @@
+{
+  "name": "banker",
+  "symbol": "banker",
+  "decimals": 18,
+  "description": "banker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=banker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "banker",
+  "addresses": {
+    "8453": "0x032f5c965f152e5842eb0c20a7ff2f6dbe8d69de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "banker",
+    "sanitizedSymbol": "BANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119516",
+    "lockerAddress": "0x855695648e683de6aD6CF2bd79D998117e0350F4"
+  },
+  "clankerInfo": null
+}

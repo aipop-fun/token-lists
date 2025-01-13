@@ -1,0 +1,22 @@
+{
+  "name": "DOGK",
+  "symbol": "DOGK",
+  "decimals": 18,
+  "description": "DOGK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGK",
+  "addresses": {
+    "8453": "0x03ad02e65ad637b89be57af8f7acc75f4eda0cbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGK",
+    "sanitizedSymbol": "DOGK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2AAAcb0EBF28c2c54E77Ec192526f678ab2b3c01",
+    "lpNftId": "1320623",
+    "lockerAddress": "0x60Add192c82b504E34D5dc8Deb4780f4a52C724a"
+  },
+  "clankerInfo": null
+}

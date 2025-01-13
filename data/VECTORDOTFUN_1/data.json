@@ -1,0 +1,22 @@
+{
+  "name": "VECTORDOTFUN",
+  "symbol": "VECTORDOTFUN",
+  "decimals": 18,
+  "description": "VECTORDOTFUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VECTORDOTFUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VECTORDOTFUN",
+  "addresses": {
+    "8453": "0x12f8fedfa7ebaf132beba8ecd11e2ad9c63e88c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VECTORDOTFUN",
+    "sanitizedSymbol": "VECTORDOTFUN_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDe385fAC7F4c414491111058AeAa81734495B0f0",
+    "lpNftId": "1324674",
+    "lockerAddress": "0xEB767F55BeC5146415c4B2988fE6aaE3e5EC1baB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZoomerToken",
+  "symbol": "ZoomerToken",
+  "decimals": 18,
+  "description": "ZoomerToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZoomerToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZoomerToken",
+  "addresses": {
+    "8453": "0x2224c79abc02801293707e76d261a81fb409c847"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZoomerToken",
+    "sanitizedSymbol": "ZOOMERTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173298",
+    "lockerAddress": "0x7EF622D9c37947021542065b4f57D026753298E7"
+  },
+  "clankerInfo": null
+}

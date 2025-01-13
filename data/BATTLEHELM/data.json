@@ -1,0 +1,22 @@
+{
+  "name": "Battlehelm",
+  "symbol": "Battlehelm",
+  "decimals": 18,
+  "description": "Battlehelm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Battlehelm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Battlehelm",
+  "addresses": {
+    "8453": "0x401d46b368f6238a0c77d58017f6d61c499c8ce9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Battlehelm",
+    "sanitizedSymbol": "BATTLEHELM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4EB7270664fE43af587e9a971aCbf562f3E7FC01",
+    "lpNftId": "1322630",
+    "lockerAddress": "0x1048163119839C4f08552299C83Be431eD956102"
+  },
+  "clankerInfo": null
+}

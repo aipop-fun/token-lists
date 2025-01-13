@@ -1,0 +1,22 @@
+{
+  "name": "oo",
+  "symbol": "oo",
+  "decimals": 18,
+  "description": "oo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=oo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "oo",
+  "addresses": {
+    "8453": "0x2d77cac32d24f7684a9c2d36de136eaaf5ebffbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "oo",
+    "sanitizedSymbol": "OO",
+    "created_at": "2024-12-09T14:44:57.451825",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1388123",
+    "lockerAddress": "0x4226E5CED726ed35e398C4bA44029611fBAdf33A"
+  },
+  "clankerInfo": null
+}

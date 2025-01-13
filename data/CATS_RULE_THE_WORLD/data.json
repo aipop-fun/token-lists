@@ -1,0 +1,22 @@
+{
+  "name": "Cats rule the world",
+  "symbol": "Cats rule the world",
+  "decimals": 18,
+  "description": "Cats rule the world is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cats%20rule%20the%20world",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cats rule the world",
+  "addresses": {
+    "8453": "0x181784e328cca6c13ac832b1823a8a35673f2bac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cats rule the world",
+    "sanitizedSymbol": "CATS_RULE_THE_WORLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7b8821555e2763726e4F16a3c21D68B4683F1CDF",
+    "lpNftId": "1286074",
+    "lockerAddress": "0x9CF8C7E2b3575145347Be12A482a584bdf4980bf"
+  },
+  "clankerInfo": null
+}

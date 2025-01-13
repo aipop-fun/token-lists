@@ -1,0 +1,22 @@
+{
+  "name": "Jingle Bells",
+  "symbol": "Jingle Bells",
+  "decimals": 18,
+  "description": "Jingle Bells is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jingle%20Bells",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jingle Bells",
+  "addresses": {
+    "8453": "0x285a187a1b44b46e4ceb45da42613bf9c27a11ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jingle Bells",
+    "sanitizedSymbol": "JINGLE_BELLS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x39fd7088530491Af658A3337B338627C35044E74",
+    "lpNftId": "1375625",
+    "lockerAddress": "0x99F8AB95f04FB9dc7dE3D10dC1d400889AE51B26"
+  },
+  "clankerInfo": null
+}

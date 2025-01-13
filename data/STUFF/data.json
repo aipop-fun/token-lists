@@ -1,0 +1,22 @@
+{
+  "name": "STUFF",
+  "symbol": "STUFF",
+  "decimals": 18,
+  "description": "STUFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STUFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STUFF",
+  "addresses": {
+    "8453": "0x1cb425397cc244dba3460a4812b1dee05f5574d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STUFF",
+    "sanitizedSymbol": "STUFF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218235",
+    "lockerAddress": "0xc2dCf962015Ef928d7cd68237077e1B31Bc1Ad10"
+  },
+  "clankerInfo": null
+}

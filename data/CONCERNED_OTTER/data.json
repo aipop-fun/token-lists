@@ -1,0 +1,22 @@
+{
+  "name": "Concerned Otter",
+  "symbol": "Concerned Otter",
+  "decimals": 18,
+  "description": "Concerned Otter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Concerned%20Otter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Concerned Otter",
+  "addresses": {
+    "8453": "0x1d4858d82d08c38c95fafb8ed63aa359b5409726"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Concerned Otter",
+    "sanitizedSymbol": "CONCERNED_OTTER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7AbEa94E8f11eDcc65FB5CBAa2e2468a1f229293",
+    "lpNftId": "1321182",
+    "lockerAddress": "0x0192dd34aaBbEa333b28127029955c46c9531eDE"
+  },
+  "clankerInfo": null
+}

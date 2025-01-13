@@ -1,0 +1,22 @@
+{
+  "name": "Dogs meme",
+  "symbol": "Dogs meme",
+  "decimals": 18,
+  "description": "Dogs meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogs%20meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogs meme",
+  "addresses": {
+    "8453": "0x329f8857a00d8ed37502f78ec2188056ab6b3d43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogs meme",
+    "sanitizedSymbol": "DOGS_MEME",
+    "created_at": "2024-12-11T02:40:53.201722",
+    "deployer": "0x64413163cf87046100DE837247614fE9Ff1E0926",
+    "lpNftId": "1410953",
+    "lockerAddress": "0xE3789b6d26440a6F6e8eB9616d5ec40fe39aF5b2"
+  },
+  "clankerInfo": null
+}

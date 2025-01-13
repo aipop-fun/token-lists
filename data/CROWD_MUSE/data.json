@@ -1,0 +1,22 @@
+{
+  "name": "Crowd Muse",
+  "symbol": "Crowd Muse",
+  "decimals": 18,
+  "description": "Crowd Muse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crowd%20Muse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crowd Muse",
+  "addresses": {
+    "8453": "0x2ce429293da4b82781a042b7a97b428bb8855569"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crowd Muse",
+    "sanitizedSymbol": "CROWD_MUSE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0f516eBb507F553ef0644D6E720A56Fb3dde760f",
+    "lpNftId": "1265253",
+    "lockerAddress": "0x076df29bdED7A5702cfFD7c32CB1f3DF5fd2B431"
+  },
+  "clankerInfo": null
+}

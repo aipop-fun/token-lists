@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Core",
+  "symbol": "Clanker Core",
+  "decimals": 18,
+  "description": "Clanker Core is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Core",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Core",
+  "addresses": {
+    "8453": "0x38f0582185bbdb4adfab18376bc6ab6c364d0a2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Core",
+    "sanitizedSymbol": "CLANKER_CORE",
+    "created_at": "2024-12-11T15:18:20.701433",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1420870",
+    "lockerAddress": "0x839cFB062f2Ef97aF8513e230cD1FF5F7D0672c4"
+  },
+  "clankerInfo": null
+}

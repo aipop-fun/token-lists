@@ -1,0 +1,22 @@
+{
+  "name": "Nekogenbase",
+  "symbol": "Nekogenbase",
+  "decimals": 18,
+  "description": "Nekogenbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nekogenbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nekogenbase",
+  "addresses": {
+    "8453": "0x37b4bd1a78adef72869c64a75627f40fde2c5c4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nekogenbase",
+    "sanitizedSymbol": "NEKOGENBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3cCBd545D2bd942F6e5831084BdB6f0fbeff9d8F",
+    "lpNftId": "1302733",
+    "lockerAddress": "0x77F9273042ea8a4BEE8a857582Ba32e13aD116dC"
+  },
+  "clankerInfo": null
+}

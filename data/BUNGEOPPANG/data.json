@@ -1,0 +1,22 @@
+{
+  "name": "Bungeoppang",
+  "symbol": "Bungeoppang",
+  "decimals": 18,
+  "description": "Bungeoppang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bungeoppang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bungeoppang",
+  "addresses": {
+    "8453": "0x2a00178efd59a4bcbaaee8d250cd892960b4de2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bungeoppang",
+    "sanitizedSymbol": "BUNGEOPPANG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5f48328FebD2130658fFaBbDB7A98a9019e3c089",
+    "lpNftId": "1308980",
+    "lockerAddress": "0xbb993Dd190EA893145c25D0e8C2cf27fD8514205"
+  },
+  "clankerInfo": null
+}

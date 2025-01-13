@@ -1,0 +1,22 @@
+{
+  "name": "mezalgard",
+  "symbol": "mezalgard",
+  "decimals": 18,
+  "description": "mezalgard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mezalgard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mezalgard",
+  "addresses": {
+    "8453": "0x1c5812c3562481fca40db9c401de5e09af1f1244"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mezalgard",
+    "sanitizedSymbol": "MEZALGARD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFC559a9619BF03a55ba7a93B6479B3E9c24295ab",
+    "lpNftId": "1318611",
+    "lockerAddress": "0x82ea7d11033Cc1768863eF7b0C0Ac34401fFC40C"
+  },
+  "clankerInfo": null
+}

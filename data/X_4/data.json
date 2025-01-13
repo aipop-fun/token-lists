@@ -1,0 +1,22 @@
+{
+  "name": "X",
+  "symbol": "X",
+  "decimals": 18,
+  "description": "X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X",
+  "addresses": {
+    "8453": "0x2a444a5a84ac0d0f9920f373659919bc75b89d22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X",
+    "sanitizedSymbol": "X_4",
+    "created_at": "2024-12-10T02:22:39.560459",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1395014",
+    "lockerAddress": "0xF9d5E89c3Df9Ac0AD0108835Bfbe50914599AEa9"
+  },
+  "clankerInfo": null
+}

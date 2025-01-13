@@ -1,0 +1,22 @@
+{
+  "name": "MEME POLICE",
+  "symbol": "MEME POLICE",
+  "decimals": 18,
+  "description": "MEME POLICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20POLICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME POLICE",
+  "addresses": {
+    "8453": "0x02d38181b258a98dcac70fd51c9deef9e468089f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME POLICE",
+    "sanitizedSymbol": "MEME_POLICE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1352253",
+    "lockerAddress": "0x834ADc841170268c14CE61085121e93194CCC943"
+  },
+  "clankerInfo": null
+}

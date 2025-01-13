@@ -1,0 +1,22 @@
+{
+  "name": "One Sea",
+  "symbol": "One Sea",
+  "decimals": 18,
+  "description": "One Sea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20Sea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One Sea",
+  "addresses": {
+    "8453": "0x04bc4be820717ca09983815b7b7037ea6e8120ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One Sea",
+    "sanitizedSymbol": "ONE_SEA",
+    "created_at": "2024-12-12T21:55:03.947294",
+    "deployer": "0x9fAe2D29DD619c38e6D9B5045738DfA888e6bE57",
+    "lpNftId": "1444216",
+    "lockerAddress": "0x409BFe106b548Cb91fA9E2db350D83c1d6F2bB89"
+  },
+  "clankerInfo": null
+}

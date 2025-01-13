@@ -1,0 +1,22 @@
+{
+  "name": "ClankerGPT",
+  "symbol": "ClankerGPT",
+  "decimals": 18,
+  "description": "ClankerGPT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerGPT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerGPT",
+  "addresses": {
+    "8453": "0x37ec6a40e0c6af83c87153fe7e4c3258b4e43ad0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerGPT",
+    "sanitizedSymbol": "CLANKERGPT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203930",
+    "lockerAddress": "0xB89504847904a67c54276472903C520EA15535f0"
+  },
+  "clankerInfo": null
+}

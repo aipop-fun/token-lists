@@ -1,0 +1,22 @@
+{
+  "name": "CasterChain",
+  "symbol": "CasterChain",
+  "decimals": 18,
+  "description": "CasterChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CasterChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CasterChain",
+  "addresses": {
+    "8453": "0x10658ad542ab2c3e1630b5a0a93e014683ff909d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CasterChain",
+    "sanitizedSymbol": "CASTERCHAIN",
+    "created_at": "2024-12-10T07:32:14.046924",
+    "deployer": "0x41014C5F3A5E27A64AD4894f96150C9ebcE9BBa4",
+    "lpNftId": "1398006",
+    "lockerAddress": "0x4B1E5da62c9Bf91af237EdaBFC1A46D0eAbbE235"
+  },
+  "clankerInfo": null
+}

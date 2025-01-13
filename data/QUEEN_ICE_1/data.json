@@ -1,0 +1,22 @@
+{
+  "name": "Queen Ice",
+  "symbol": "Queen Ice",
+  "decimals": 18,
+  "description": "Queen Ice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Queen%20Ice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Queen Ice",
+  "addresses": {
+    "8453": "0x34242d56d4178cdb987e4ff60fa6c762439ee993"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Queen Ice",
+    "sanitizedSymbol": "QUEEN_ICE_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb24e44D1E63088936BFcBE9460A09ebc5CA3A948",
+    "lpNftId": "1252656",
+    "lockerAddress": "0xf29c12aA63e4D8511EFb26CCB9e1BAc6c95dD8E5"
+  },
+  "clankerInfo": null
+}

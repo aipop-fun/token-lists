@@ -1,0 +1,22 @@
+{
+  "name": "Jungle Hero",
+  "symbol": "Jungle Hero",
+  "decimals": 18,
+  "description": "Jungle Hero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jungle%20Hero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jungle Hero",
+  "addresses": {
+    "8453": "0x3844ea1e2ae91c31d47297b926064eaf964412f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jungle Hero",
+    "sanitizedSymbol": "JUNGLE_HERO",
+    "created_at": "2024-12-11T04:44:18.820202",
+    "deployer": "0x1429c23839668f62993C1efe4A42fAE60fc71FD2",
+    "lpNftId": "1412695",
+    "lockerAddress": "0xEb718972d0885e6dCc87625Dd11ABC64D02e9B59"
+  },
+  "clankerInfo": null
+}

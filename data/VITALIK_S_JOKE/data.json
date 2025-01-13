@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik's Joke",
+  "symbol": "Vitalik's Joke",
+  "decimals": 18,
+  "description": "Vitalik's Joke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik's%20Joke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik's Joke",
+  "addresses": {
+    "8453": "0x15c6e6fc9b996f027865ff6f61ba0adffdd6c147"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik's Joke",
+    "sanitizedSymbol": "VITALIK_S_JOKE",
+    "created_at": "2024-12-10T00:57:59.320627",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1394053",
+    "lockerAddress": "0x8efa92fa07D5BA79BeD7AaACAe6A995318ec9a0D"
+  },
+  "clankerInfo": null
+}

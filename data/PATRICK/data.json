@@ -1,0 +1,22 @@
+{
+  "name": "Patrick",
+  "symbol": "Patrick",
+  "decimals": 18,
+  "description": "Patrick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Patrick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Patrick",
+  "addresses": {
+    "8453": "0x053009e0bb8921f72ea94467e0c88dd7f181e017"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Patrick",
+    "sanitizedSymbol": "PATRICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4BF1BFe5Cf59d67879464cDF28d1De326F38B1E2",
+    "lpNftId": "1283814",
+    "lockerAddress": "0x26794c082f670D2Bc4d48B733Dc0fAb2aB96cA67"
+  },
+  "clankerInfo": null
+}

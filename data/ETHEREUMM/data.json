@@ -1,0 +1,22 @@
+{
+  "name": "EThereumm",
+  "symbol": "EThereumm",
+  "decimals": 18,
+  "description": "EThereumm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EThereumm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EThereumm",
+  "addresses": {
+    "8453": "0x32c9fc6643133ac9e82ef9be7434a1a0d259ad01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EThereumm",
+    "sanitizedSymbol": "ETHEREUMM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1323648",
+    "lockerAddress": "0xd8003e3D6E3823ea7d20a987d82420e327dEd45b"
+  },
+  "clankerInfo": null
+}

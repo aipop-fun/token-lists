@@ -1,0 +1,22 @@
+{
+  "name": "TOUCH",
+  "symbol": "TOUCH",
+  "decimals": 18,
+  "description": "TOUCH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOUCH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOUCH",
+  "addresses": {
+    "8453": "0x1b90934abe2ba0b6ad0ddb0ce15696ab86810449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOUCH",
+    "sanitizedSymbol": "TOUCH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8d36dceafEc1e9eC5972e067fd7703d3F5ffC085",
+    "lpNftId": "1308665",
+    "lockerAddress": "0x753b13210681B3c14C4212E17f1eE3045D650D85"
+  },
+  "clankerInfo": null
+}

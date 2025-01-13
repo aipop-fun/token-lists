@@ -1,0 +1,22 @@
+{
+  "name": "Photograph",
+  "symbol": "Photograph",
+  "decimals": 18,
+  "description": "Photograph is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Photograph",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Photograph",
+  "addresses": {
+    "8453": "0x080e30e2d6a3a2bb57bb8c35cc167e70be7e7784"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Photograph",
+    "sanitizedSymbol": "PHOTOGRAPH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x562e1236AD1BD5BE28CB78bB8d6ADF9b0524d4b0",
+    "lpNftId": "1300732",
+    "lockerAddress": "0x49d65521104B42b8aADD8EEC62c80a6a6EF9591d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hort",
+  "symbol": "hort",
+  "decimals": 18,
+  "description": "hort is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hort",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hort",
+  "addresses": {
+    "8453": "0x12a4833dad44a6e80f9b5289ce0a579e0d0f6913"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hort",
+    "sanitizedSymbol": "HORT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeF1ACC76f004EC43a3c3052f189956F995a9D134",
+    "lpNftId": "1283915",
+    "lockerAddress": "0x69aEf06Aa032A1B19ea73755F9A05c8855430269"
+  },
+  "clankerInfo": null
+}

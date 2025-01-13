@@ -1,0 +1,22 @@
+{
+  "name": "Bored",
+  "symbol": "Bored",
+  "decimals": 18,
+  "description": "Bored is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bored",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bored",
+  "addresses": {
+    "8453": "0x0c2f989f9cc2a83142b269b5bdb7c1c96101cc8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bored",
+    "sanitizedSymbol": "BORED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225353",
+    "lockerAddress": "0xc1F0D5cFe5EA9D99C73DfC1d1Cd38D83F8874366"
+  },
+  "clankerInfo": null
+}

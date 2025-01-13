@@ -1,0 +1,22 @@
+{
+  "name": "BASE DAO",
+  "symbol": "BASE DAO",
+  "decimals": 18,
+  "description": "BASE DAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20DAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE DAO",
+  "addresses": {
+    "8453": "0x1e6417054e2180aaed70f8913e6e4557c165c52f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE DAO",
+    "sanitizedSymbol": "BASE_DAO",
+    "created_at": "2024-12-11T20:22:05.818961",
+    "deployer": "0xc4d87CCeA06adaB9874B8fb780EE55A0060a4aDb",
+    "lpNftId": "1425391",
+    "lockerAddress": "0xfF4a2C28C9bebCc36A161f99B998a23a450034dD"
+  },
+  "clankerInfo": null
+}

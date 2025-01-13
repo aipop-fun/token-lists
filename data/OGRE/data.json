@@ -1,0 +1,22 @@
+{
+  "name": "OGRE",
+  "symbol": "OGRE",
+  "decimals": 18,
+  "description": "OGRE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OGRE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OGRE",
+  "addresses": {
+    "8453": "0x1a65cf4b64e63805e5e602faedb3dcfd6642f698"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OGRE",
+    "sanitizedSymbol": "OGRE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231458",
+    "lockerAddress": "0x4b9dB1D967A46e16377DB0161eA9f3A81bE2c88D"
+  },
+  "clankerInfo": null
+}

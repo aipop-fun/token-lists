@@ -1,0 +1,22 @@
+{
+  "name": "PLS",
+  "symbol": "PLS",
+  "decimals": 18,
+  "description": "PLS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PLS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PLS",
+  "addresses": {
+    "8453": "0x35b888176a40605ddb99bf1fb90e93ba5effb94b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PLS",
+    "sanitizedSymbol": "PLS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaD9f179e3383AD27F64A814b1ea07ff4785D9fE8",
+    "lpNftId": "1354482",
+    "lockerAddress": "0xC348a6E946Fa8CA689A041457AFC7D9d6Aaf6551"
+  },
+  "clankerInfo": null
+}

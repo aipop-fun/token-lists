@@ -1,0 +1,22 @@
+{
+  "name": "DROP1",
+  "symbol": "DROP1",
+  "decimals": 18,
+  "description": "DROP1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DROP1",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DROP1",
+  "addresses": {
+    "8453": "0x22624da7ae7586e9294760ab5fb9534bd3e3879f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DROP1",
+    "sanitizedSymbol": "DROP1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5bc4a8FB154A0D4b0fC55ebF53119070f75ccac7",
+    "lpNftId": "1314197",
+    "lockerAddress": "0x94c8c47064662C2948D89276d099f089BAC7d572"
+  },
+  "clankerInfo": null
+}

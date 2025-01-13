@@ -1,0 +1,22 @@
+{
+  "name": "Native",
+  "symbol": "Native",
+  "decimals": 18,
+  "description": "Native is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Native",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Native",
+  "addresses": {
+    "8453": "0x1256beb2cac5cab411f766f06012b74df247a461"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Native",
+    "sanitizedSymbol": "NATIVE_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcf4F0b41Ec79a1FCbc83599B60C031465732c5Ba",
+    "lpNftId": "1266332",
+    "lockerAddress": "0x45BF0e65B0EE8AD6b4738b0850374E4cFaAD4546"
+  },
+  "clankerInfo": null
+}

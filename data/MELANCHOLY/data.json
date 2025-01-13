@@ -1,0 +1,22 @@
+{
+  "name": "Melancholy",
+  "symbol": "Melancholy",
+  "decimals": 18,
+  "description": "Melancholy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Melancholy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Melancholy",
+  "addresses": {
+    "8453": "0x2196bf636bd77341a351cf7eee73210c0e40b219"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Melancholy",
+    "sanitizedSymbol": "MELANCHOLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232691",
+    "lockerAddress": "0x95dE54096a3755e2361691A2B0f46594663aF597"
+  },
+  "clankerInfo": null
+}

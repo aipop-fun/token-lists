@@ -1,0 +1,22 @@
+{
+  "name": "MONEY",
+  "symbol": "MONEY",
+  "decimals": 18,
+  "description": "MONEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONEY",
+  "addresses": {
+    "8453": "0x3fc578e26bb053dec458d701f3316f716f92cb54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONEY",
+    "sanitizedSymbol": "MONEY_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1DB877d1739464d1f44699Dd7b40E669dc428706",
+    "lpNftId": "1329016",
+    "lockerAddress": "0xA09DC2Ae6c8FAceA11552894e277C23d41E3a4C6"
+  },
+  "clankerInfo": null
+}

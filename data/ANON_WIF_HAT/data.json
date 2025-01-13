@@ -1,0 +1,22 @@
+{
+  "name": "ANON WIF HAT",
+  "symbol": "ANON WIF HAT",
+  "decimals": 18,
+  "description": "ANON WIF HAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANON%20WIF%20HAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANON WIF HAT",
+  "addresses": {
+    "8453": "0x1308acdc90940b9fc2a825775466be67b4fcdf98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANON WIF HAT",
+    "sanitizedSymbol": "ANON_WIF_HAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7A430C552C77655677ad815F52BC873dAc63B7fD",
+    "lpNftId": "1310508",
+    "lockerAddress": "0x207715D3E317294173FaAd18668e91A7bb6Fd5F6"
+  },
+  "clankerInfo": null
+}

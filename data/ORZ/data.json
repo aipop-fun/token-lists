@@ -1,0 +1,22 @@
+{
+  "name": "orz",
+  "symbol": "orz",
+  "decimals": 18,
+  "description": "orz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=orz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "orz",
+  "addresses": {
+    "8453": "0x112e046d5f8d983218571e4e40b57c41c7cdd060"
+  },
+  "tokenInfo": {
+    "originalSymbol": "orz",
+    "sanitizedSymbol": "ORZ",
+    "created_at": "2024-12-10T01:01:05.239219",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1394087",
+    "lockerAddress": "0x39217bA522C64994282FBA32BD8c83358fbF3Bd3"
+  },
+  "clankerInfo": null
+}

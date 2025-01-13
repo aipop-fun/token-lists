@@ -1,0 +1,22 @@
+{
+  "name": "Pathless Coin",
+  "symbol": "Pathless Coin",
+  "decimals": 18,
+  "description": "Pathless Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pathless%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pathless Coin",
+  "addresses": {
+    "8453": "0x1b3bd16cf2ff2014eac21c1e44013949cce7fc98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pathless Coin",
+    "sanitizedSymbol": "PATHLESS_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206663",
+    "lockerAddress": "0x9f73B02A3A3f4e7C626e2226eaB4982639a21F4F"
+  },
+  "clankerInfo": null
+}

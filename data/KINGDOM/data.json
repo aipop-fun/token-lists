@@ -1,0 +1,22 @@
+{
+  "name": "Kingdom",
+  "symbol": "Kingdom",
+  "decimals": 18,
+  "description": "Kingdom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kingdom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kingdom",
+  "addresses": {
+    "8453": "0x0e096414622dbd7c8b0cf755a596bc0c198fddb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kingdom",
+    "sanitizedSymbol": "KINGDOM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130315",
+    "lockerAddress": "0x50f1DDB85ba446aD6124E33AB91Eb34015ABd893"
+  },
+  "clankerInfo": null
+}

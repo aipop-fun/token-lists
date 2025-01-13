@@ -1,0 +1,22 @@
+{
+  "name": "nenko coin",
+  "symbol": "nenko coin",
+  "decimals": 18,
+  "description": "nenko coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nenko%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nenko coin",
+  "addresses": {
+    "8453": "0x3f5b933586961c6bb20114fe00dcd384af75b747"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nenko coin",
+    "sanitizedSymbol": "NENKO_COIN",
+    "created_at": "2024-12-10T21:09:08.545521",
+    "deployer": "0xa74FaeBC8cdCA953E2bebF2F6E86927162ACfD13",
+    "lpNftId": "1407244",
+    "lockerAddress": "0x299D848C9aF87Cd36f790F299eB1970ce5E30ebe"
+  },
+  "clankerInfo": null
+}

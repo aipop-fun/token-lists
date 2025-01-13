@@ -1,0 +1,22 @@
+{
+  "name": "clankerone",
+  "symbol": "clankerone",
+  "decimals": 18,
+  "description": "clankerone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerone",
+  "addresses": {
+    "8453": "0x32ee76a143341fbc2d293f6a8fe996cec89984ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerone",
+    "sanitizedSymbol": "CLANKERONE_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09FACAc21784a59A76a0f44bA650214191d8873A",
+    "lpNftId": "1311433",
+    "lockerAddress": "0x4DBfa07272F015b88277541112d099976cd37846"
+  },
+  "clankerInfo": null
+}

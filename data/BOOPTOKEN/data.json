@@ -1,0 +1,22 @@
+{
+  "name": "BoopToken",
+  "symbol": "BoopToken",
+  "decimals": 18,
+  "description": "BoopToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BoopToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BoopToken",
+  "addresses": {
+    "8453": "0x1507f5ad17d288e1d9e31b67b61defa72e63808b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BoopToken",
+    "sanitizedSymbol": "BOOPTOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD4f73B54D1bc004a4dFc49DC370767d304c2E4Fa",
+    "lpNftId": "1329808",
+    "lockerAddress": "0x7061eE9988f90681b71714883a975aEF24724469"
+  },
+  "clankerInfo": null
+}

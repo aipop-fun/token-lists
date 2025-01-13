@@ -1,0 +1,22 @@
+{
+  "name": "degenous",
+  "symbol": "degenous",
+  "decimals": 18,
+  "description": "degenous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degenous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degenous",
+  "addresses": {
+    "8453": "0x10f9927b68d9f8fc01a5ed2537683139afaff567"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degenous",
+    "sanitizedSymbol": "DEGENOUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124237",
+    "lockerAddress": "0x434Ba4e715B174569BaF7f66076A6008565b9E78"
+  },
+  "clankerInfo": null
+}

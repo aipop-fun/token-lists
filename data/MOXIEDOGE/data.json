@@ -1,0 +1,22 @@
+{
+  "name": "MOXIEDOGE",
+  "symbol": "MOXIEDOGE",
+  "decimals": 18,
+  "description": "MOXIEDOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOXIEDOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOXIEDOGE",
+  "addresses": {
+    "8453": "0x0cc831f68b0bed089a464ed95d1a5a14516d9222"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOXIEDOGE",
+    "sanitizedSymbol": "MOXIEDOGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153674",
+    "lockerAddress": "0xeEB9d00A1feB61C60CaA2E06A1337c8e0e0B9197"
+  },
+  "clankerInfo": null
+}

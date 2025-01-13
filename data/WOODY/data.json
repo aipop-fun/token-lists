@@ -1,0 +1,22 @@
+{
+  "name": "Woody",
+  "symbol": "Woody",
+  "decimals": 18,
+  "description": "Woody is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Woody",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Woody",
+  "addresses": {
+    "8453": "0x092bb179c071c0eb82d73116823a7e79947cfdc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Woody",
+    "sanitizedSymbol": "WOODY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB6956bF421730e5b619ccA3fbc6c5f3868F3b51E",
+    "lpNftId": "1328752",
+    "lockerAddress": "0x23254d5952B10991F2D2B055F9d54aEdff404b1e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sexdog",
+  "symbol": "Sexdog",
+  "decimals": 18,
+  "description": "Sexdog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sexdog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sexdog",
+  "addresses": {
+    "8453": "0x14d2fa165a1164cea015955a1c2c2cf69864330e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sexdog",
+    "sanitizedSymbol": "SEXDOG",
+    "created_at": "2024-12-09T08:24:15.358028",
+    "deployer": "0x3C7e24fC436cA1D5fD1C867154b9E5D649d9c2E1",
+    "lpNftId": "1384669",
+    "lockerAddress": "0x2DE898b6591569fEa3B08c799edCF5766FBc4F5F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OnlyDegens",
+  "symbol": "OnlyDegens",
+  "decimals": 18,
+  "description": "OnlyDegens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyDegens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyDegens",
+  "addresses": {
+    "8453": "0x15c85ff317dac6ed3be9706c52eb07fa65495f7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyDegens",
+    "sanitizedSymbol": "ONLYDEGENS",
+    "created_at": "2024-12-11T20:00:17.163376",
+    "deployer": "0x6615b02697D364362b5174b279F1Cc584E4c32Bb",
+    "lpNftId": "1425090",
+    "lockerAddress": "0x651E4d0E82177ED0Cba980c9Fc99FA62e74f00de"
+  },
+  "clankerInfo": null
+}

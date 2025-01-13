@@ -1,0 +1,22 @@
+{
+  "name": "OnlyToes",
+  "symbol": "OnlyToes",
+  "decimals": 18,
+  "description": "OnlyToes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyToes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyToes",
+  "addresses": {
+    "8453": "0x12035ede8e7d75a3551a9333e2ea0d90af2848c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyToes",
+    "sanitizedSymbol": "ONLYTOES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165661",
+    "lockerAddress": "0xd6E4aFB0CD62AE9Cd84757483B9A6Af4d3EA785e"
+  },
+  "clankerInfo": null
+}

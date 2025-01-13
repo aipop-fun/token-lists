@@ -1,0 +1,22 @@
+{
+  "name": "XiJinPing",
+  "symbol": "XiJinPing",
+  "decimals": 18,
+  "description": "XiJinPing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XiJinPing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XiJinPing",
+  "addresses": {
+    "8453": "0x16445dbd2ef6136eb7164317e2bf8d2c366672b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XiJinPing",
+    "sanitizedSymbol": "XIJINPING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220406",
+    "lockerAddress": "0xd324392CF33EA5EFAC348Ef4A8De26259D123C07"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "crashout guy",
+  "symbol": "crashout guy",
+  "decimals": 18,
+  "description": "crashout guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crashout%20guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crashout guy",
+  "addresses": {
+    "8453": "0x099f9428f435a843dd712da93723c79cd4157b0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crashout guy",
+    "sanitizedSymbol": "CRASHOUT_GUY",
+    "created_at": "2024-12-08T23:59:18.455658",
+    "deployer": "0xc0BA9c69c9E28007b7d5E899Cb09495d59EF9696",
+    "lpNftId": "1250730",
+    "lockerAddress": "0x8B41e538125b6bDBEA4991D5384E1B9f36347752"
+  },
+  "clankerInfo": null
+}

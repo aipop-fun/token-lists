@@ -1,0 +1,22 @@
+{
+  "name": "Like Mike",
+  "symbol": "Like Mike",
+  "decimals": 18,
+  "description": "Like Mike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Like%20Mike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Like Mike",
+  "addresses": {
+    "8453": "0x02eab4fc9d224f026b4e0b56c680c5e26bfdabb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Like Mike",
+    "sanitizedSymbol": "LIKE_MIKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152508",
+    "lockerAddress": "0x51e5a97c5a22280b3668b528f1f5868549636930"
+  },
+  "clankerInfo": null
+}

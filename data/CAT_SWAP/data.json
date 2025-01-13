@@ -1,0 +1,22 @@
+{
+  "name": "CAT SWAP",
+  "symbol": "CAT SWAP",
+  "decimals": 18,
+  "description": "CAT SWAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT%20SWAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT SWAP",
+  "addresses": {
+    "8453": "0x28c140bd591785ec5d60a8ca88e9537bcf59a7f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT SWAP",
+    "sanitizedSymbol": "CAT_SWAP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1194267",
+    "lockerAddress": "0x4618207D748D5fa60414e0a8C40dF86912149cFb"
+  },
+  "clankerInfo": null
+}

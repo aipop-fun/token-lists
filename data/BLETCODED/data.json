@@ -1,0 +1,22 @@
+{
+  "name": "bletcoded",
+  "symbol": "bletcoded",
+  "decimals": 18,
+  "description": "bletcoded is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bletcoded",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bletcoded",
+  "addresses": {
+    "8453": "0x3d3ccb53c5ecb4c1471e2dddfcfa94ba780755e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bletcoded",
+    "sanitizedSymbol": "BLETCODED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4936B305102F442080d4711F14C5F0318E3cAF74",
+    "lpNftId": "1340634",
+    "lockerAddress": "0xc5DB128c819683bb092c571415c20fe82FDBD365"
+  },
+  "clankerInfo": null
+}

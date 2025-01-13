@@ -1,0 +1,22 @@
+{
+  "name": "101K BITCOIN",
+  "symbol": "101K BITCOIN",
+  "decimals": 18,
+  "description": "101K BITCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=101K%20BITCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "101K BITCOIN",
+  "addresses": {
+    "8453": "0x1ec34e4c222c8079dd3b98d333095791615ce31e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "101K BITCOIN",
+    "sanitizedSymbol": "101K_BITCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5df0f96c5DE9F03d5d1678656dA0B4b5B0647cE1",
+    "lpNftId": "1328632",
+    "lockerAddress": "0x1EE8d932400E47d0Ea59a7e07d0b8497b6Ee4Ec7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "4pm noodles",
+  "symbol": "4pm noodles",
+  "decimals": 18,
+  "description": "4pm noodles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=4pm%20noodles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "4pm noodles",
+  "addresses": {
+    "8453": "0x00787154e0844c9f1c9a29bdcbcee175399f61cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "4pm noodles",
+    "sanitizedSymbol": "4PM_NOODLES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x44F3662b9Dc4a223FcDFC392114b5049CE1F3447",
+    "lpNftId": "1335351",
+    "lockerAddress": "0xf713c0C7926dCCb15Eb95407CF25586Ecb4A1727"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Samurai",
+  "symbol": "Samurai",
+  "decimals": 18,
+  "description": "Samurai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Samurai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Samurai",
+  "addresses": {
+    "8453": "0x2b876cba6541db146a1d938ed202c24a1db39688"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Samurai",
+    "sanitizedSymbol": "SAMURAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1318749",
+    "lockerAddress": "0x74C7825b6366DA5811475EadAE91364768e2902e"
+  },
+  "clankerInfo": null
+}

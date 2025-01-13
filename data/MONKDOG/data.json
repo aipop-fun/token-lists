@@ -1,0 +1,22 @@
+{
+  "name": "MonkDog",
+  "symbol": "MonkDog",
+  "decimals": 18,
+  "description": "MonkDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MonkDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MonkDog",
+  "addresses": {
+    "8453": "0x38742e3299f4ccc0fc11a7e1a85e18b0056c0380"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MonkDog",
+    "sanitizedSymbol": "MONKDOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5DF8aFd616a527aD58Bc6D6b4010cB4c73c1eEC4",
+    "lpNftId": "1290642",
+    "lockerAddress": "0x7E74055Dfee0A5C124Df5fb5c2bb4284F8d232d3"
+  },
+  "clankerInfo": null
+}

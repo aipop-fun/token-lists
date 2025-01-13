@@ -1,0 +1,22 @@
+{
+  "name": "Based Adudu",
+  "symbol": "Based Adudu",
+  "decimals": 18,
+  "description": "Based Adudu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Adudu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Adudu",
+  "addresses": {
+    "8453": "0x21c5c13c66ce6430ec392a51174d5b577560d704"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Adudu",
+    "sanitizedSymbol": "BASED_ADUDU",
+    "created_at": "2024-12-11T14:44:11.080826",
+    "deployer": "0x80dc27F34321223D4B4EfB07De80894c35189D89",
+    "lpNftId": "1420530",
+    "lockerAddress": "0x7ce641f9e5Bc6A37cc3b5Af5d286e780e1a89C9d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FOX OFF",
+  "symbol": "FOX OFF",
+  "decimals": 18,
+  "description": "FOX OFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOX%20OFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOX OFF",
+  "addresses": {
+    "8453": "0x0e8a066c178776e3867bd70d1400940b4bc5b74b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOX OFF",
+    "sanitizedSymbol": "FOX_OFF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5De112bC6DdCEA3ee44784AAcd77f91718Dc79f7",
+    "lpNftId": "1327258",
+    "lockerAddress": "0xA0ABeAc4BB9fD51B226D8F22c3429Ba86e45936d"
+  },
+  "clankerInfo": null
+}

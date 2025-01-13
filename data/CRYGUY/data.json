@@ -1,0 +1,22 @@
+{
+  "name": "Cryguy",
+  "symbol": "Cryguy",
+  "decimals": 18,
+  "description": "Cryguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cryguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cryguy",
+  "addresses": {
+    "8453": "0x1275bc72550b76bf3b7076aecd085277666eaf64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cryguy",
+    "sanitizedSymbol": "CRYGUY",
+    "created_at": "2024-12-10T14:14:15.471542",
+    "deployer": "0x7D30c41A8E09E9888da84E8f53fAba80Cf07778A",
+    "lpNftId": "1401735",
+    "lockerAddress": "0x117cc8c7657CD15c653142CC1361DD5576eafC70"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yellow Birb",
+  "symbol": "Yellow Birb",
+  "decimals": 18,
+  "description": "Yellow Birb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yellow%20Birb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yellow Birb",
+  "addresses": {
+    "8453": "0x0d387d34421a09150581dba0724fd767add9bb42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yellow Birb",
+    "sanitizedSymbol": "YELLOW_BIRB",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1bAe19AF613BD5Db94bAf043D5817e16a53A4C33",
+    "lpNftId": "1281838",
+    "lockerAddress": "0x64707b4195b975B791887CA049572234a2E48100"
+  },
+  "clankerInfo": null
+}

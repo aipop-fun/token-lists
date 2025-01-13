@@ -1,0 +1,22 @@
+{
+  "name": "NVK",
+  "symbol": "NVK",
+  "decimals": 18,
+  "description": "NVK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NVK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NVK",
+  "addresses": {
+    "8453": "0x0ed922d6ed8eb1547e236ccb812cd34ba79ed941"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NVK",
+    "sanitizedSymbol": "NVK",
+    "created_at": "2024-12-09T04:31:39.763951",
+    "deployer": "0xbeC2c1CA116a832f4ddaB165000610eE850Fd338",
+    "lpNftId": "1381955",
+    "lockerAddress": "0x5f25e950c82F3F982aAe99345B1ca67f80E22722"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MISSED ALPHA",
+  "symbol": "MISSED ALPHA",
+  "decimals": 18,
+  "description": "MISSED ALPHA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MISSED%20ALPHA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MISSED ALPHA",
+  "addresses": {
+    "8453": "0x2ada92573f3a06f8bc6e6172317acac4e10364ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MISSED ALPHA",
+    "sanitizedSymbol": "MISSED_ALPHA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202988",
+    "lockerAddress": "0xb62B2A71D55c1d5Be8fF7f6b72C2077aed433b84"
+  },
+  "clankerInfo": null
+}

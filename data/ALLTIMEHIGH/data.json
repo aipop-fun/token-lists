@@ -1,0 +1,22 @@
+{
+  "name": "AllTimeHigh",
+  "symbol": "AllTimeHigh",
+  "decimals": 18,
+  "description": "AllTimeHigh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AllTimeHigh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AllTimeHigh",
+  "addresses": {
+    "8453": "0x2f9dd5ef85e98b1ebf9f84f0eda5ff5187522ecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AllTimeHigh",
+    "sanitizedSymbol": "ALLTIMEHIGH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234450",
+    "lockerAddress": "0x98C4B8e4b9994c03e1d10053A532cA6b43615493"
+  },
+  "clankerInfo": null
+}

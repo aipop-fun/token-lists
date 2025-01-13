@@ -1,0 +1,22 @@
+{
+  "name": "HOMO",
+  "symbol": "HOMO",
+  "decimals": 18,
+  "description": "HOMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOMO",
+  "addresses": {
+    "8453": "0x35eae8321ff64792cdac03b41b1e0b9bb9044394"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOMO",
+    "sanitizedSymbol": "HOMO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235362",
+    "lockerAddress": "0x45f042AE47f98c383135FB48d110A042ea01DaD1"
+  },
+  "clankerInfo": null
+}

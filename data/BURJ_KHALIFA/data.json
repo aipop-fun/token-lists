@@ -1,0 +1,22 @@
+{
+  "name": "Burj khalifa",
+  "symbol": "Burj khalifa",
+  "decimals": 18,
+  "description": "Burj khalifa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Burj%20khalifa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Burj khalifa",
+  "addresses": {
+    "8453": "0x1dd45c87e98a00fe2559e1bf8041e9a805740ddb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Burj khalifa",
+    "sanitizedSymbol": "BURJ_KHALIFA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x0E3c03c42B18e9cB4fA3c9D6E734c3C1Eb4a0eE4",
+    "lpNftId": "1250611",
+    "lockerAddress": "0xfEC7191eAe68D1245E4375D7605157c5eFF8C4fE"
+  },
+  "clankerInfo": null
+}

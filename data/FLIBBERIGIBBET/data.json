@@ -1,0 +1,22 @@
+{
+  "name": "Flibberigibbet",
+  "symbol": "Flibberigibbet",
+  "decimals": 18,
+  "description": "Flibberigibbet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flibberigibbet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flibberigibbet",
+  "addresses": {
+    "8453": "0x3e6e0aa909bc2fa92e44bc8642b0f8020bac0de1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flibberigibbet",
+    "sanitizedSymbol": "FLIBBERIGIBBET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236268",
+    "lockerAddress": "0xF200fee23EfE95BFfc32816a8b31Adfa18DbADb3"
+  },
+  "clankerInfo": null
+}

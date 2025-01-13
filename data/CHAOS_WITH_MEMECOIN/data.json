@@ -1,0 +1,22 @@
+{
+  "name": "Chaos With Memecoin",
+  "symbol": "Chaos With Memecoin",
+  "decimals": 18,
+  "description": "Chaos With Memecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chaos%20With%20Memecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chaos With Memecoin",
+  "addresses": {
+    "8453": "0x17c5beaedbe3673784a84a2f2853e528d64a9996"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chaos With Memecoin",
+    "sanitizedSymbol": "CHAOS_WITH_MEMECOIN",
+    "created_at": "2024-12-12T04:17:19.085882",
+    "deployer": "0x333A926E76F434c054B79D21df8d1A85f8e79A5F",
+    "lpNftId": "1429125",
+    "lockerAddress": "0xb858Abd5A6fF096FB70BB72a30445d28f83Fd808"
+  },
+  "clankerInfo": null
+}

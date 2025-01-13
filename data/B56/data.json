@@ -1,0 +1,22 @@
+{
+  "name": "B56",
+  "symbol": "B56",
+  "decimals": 18,
+  "description": "B56 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=B56",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "B56",
+  "addresses": {
+    "8453": "0x1a5818674555f01ea25f04b888092839895cc9a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "B56",
+    "sanitizedSymbol": "B56",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236324",
+    "lockerAddress": "0x02FE7cBC72f653A6FC5F215c2581a34eD5FA905D"
+  },
+  "clankerInfo": null
+}

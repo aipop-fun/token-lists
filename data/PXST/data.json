@@ -1,0 +1,22 @@
+{
+  "name": "PXST",
+  "symbol": "PXST",
+  "decimals": 18,
+  "description": "PXST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PXST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PXST",
+  "addresses": {
+    "8453": "0x0ad6a1c94afc747008ba5e6b6ecf521962364664"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PXST",
+    "sanitizedSymbol": "PXST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1360299",
+    "lockerAddress": "0x6616529B87660E94eb167f152DF937A74B8D2a34"
+  },
+  "clankerInfo": null
+}

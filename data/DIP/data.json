@@ -1,0 +1,22 @@
+{
+  "name": "Dip",
+  "symbol": "Dip",
+  "decimals": 18,
+  "description": "Dip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dip",
+  "addresses": {
+    "8453": "0x0bd6b542d830b454d63ffdc714571188f2f3373a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dip",
+    "sanitizedSymbol": "DIP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232034",
+    "lockerAddress": "0x592baBdC5d037B841db056BDdB5CD947f7B8BCFC"
+  },
+  "clankerInfo": null
+}

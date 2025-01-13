@@ -1,0 +1,22 @@
+{
+  "name": "Hot Doge",
+  "symbol": "Hot Doge",
+  "decimals": 18,
+  "description": "Hot Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hot%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hot Doge",
+  "addresses": {
+    "8453": "0x2895b2c6619fec9873d2a40164b4b302aea7a2e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hot Doge",
+    "sanitizedSymbol": "HOT_DOGE",
+    "created_at": "2024-12-09T06:30:01.793451",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1383993",
+    "lockerAddress": "0x319C10cd63071854aEf76Ec62aEf44E538791FdC"
+  },
+  "clankerInfo": null
+}

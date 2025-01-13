@@ -1,0 +1,22 @@
+{
+  "name": "SAUSAGE",
+  "symbol": "SAUSAGE",
+  "decimals": 18,
+  "description": "SAUSAGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAUSAGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAUSAGE",
+  "addresses": {
+    "8453": "0x13761ad692a288b2045365e51564c72064e13ab8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAUSAGE",
+    "sanitizedSymbol": "SAUSAGE_5",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1335208",
+    "lockerAddress": "0x5058a66f153491cc728e579b8804E3f0b96254df"
+  },
+  "clankerInfo": null
+}

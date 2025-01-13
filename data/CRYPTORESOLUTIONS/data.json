@@ -1,0 +1,22 @@
+{
+  "name": "CryptoResolutions",
+  "symbol": "CryptoResolutions",
+  "decimals": 18,
+  "description": "CryptoResolutions is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoResolutions",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoResolutions",
+  "addresses": {
+    "8453": "0x144f6f84a606ac2ca2db48f4460c746310e8457b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoResolutions",
+    "sanitizedSymbol": "CRYPTORESOLUTIONS",
+    "created_at": "2024-12-11T13:00:13.300941",
+    "deployer": "0xDD39886C45f211d93D6265207061C761D2dac2C0",
+    "lpNftId": "1418651",
+    "lockerAddress": "0x5800e8D65C4DebA84A4007aA70Be6F3d9aBe6A95"
+  },
+  "clankerInfo": null
+}

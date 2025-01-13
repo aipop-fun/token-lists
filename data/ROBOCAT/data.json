@@ -1,0 +1,22 @@
+{
+  "name": "ROBOCAT",
+  "symbol": "ROBOCAT",
+  "decimals": 18,
+  "description": "ROBOCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBOCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBOCAT",
+  "addresses": {
+    "8453": "0x41d71d502d5695ff85fcfca033a506a65a421a0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBOCAT",
+    "sanitizedSymbol": "ROBOCAT",
+    "created_at": "2024-12-09T09:16:21.897353",
+    "deployer": "0xbfFd0f67e2E8F9688dD8E6a3ec6f6a74ced85B37",
+    "lpNftId": "1385222",
+    "lockerAddress": "0x1F42859De9f34A7f3A55d93b210D7ad14fDD5E18"
+  },
+  "clankerInfo": null
+}

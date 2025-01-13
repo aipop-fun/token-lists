@@ -1,0 +1,22 @@
+{
+  "name": "SUFO",
+  "symbol": "SUFO",
+  "decimals": 18,
+  "description": "SUFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUFO",
+  "addresses": {
+    "8453": "0x290e83b3b7bb6d065e7332f79473c7ad6468ebe9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUFO",
+    "sanitizedSymbol": "SUFO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235812",
+    "lockerAddress": "0xbe123F594676C4f583605cdD2AC38eEa4442e071"
+  },
+  "clankerInfo": null
+}

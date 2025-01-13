@@ -1,0 +1,22 @@
+{
+  "name": "Veilguard",
+  "symbol": "Veilguard",
+  "decimals": 18,
+  "description": "Veilguard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Veilguard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Veilguard",
+  "addresses": {
+    "8453": "0x41f819420db37c3c470ed201bf790ed90dd3bf4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Veilguard",
+    "sanitizedSymbol": "VEILGUARD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128535",
+    "lockerAddress": "0xD44AC930781c44415e99DcF7F07c1BAC8CbBC692"
+  },
+  "clankerInfo": null
+}

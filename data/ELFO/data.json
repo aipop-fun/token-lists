@@ -1,0 +1,22 @@
+{
+  "name": "ELFO",
+  "symbol": "ELFO",
+  "decimals": 18,
+  "description": "ELFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELFO",
+  "addresses": {
+    "8453": "0x3ea18de0474872d60120a16bf29f2f5838a22042"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELFO",
+    "sanitizedSymbol": "ELFO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE6543e28ee030fF3b12B964030E847798519a024",
+    "lpNftId": "1285908",
+    "lockerAddress": "0x8fB254218F6A4334d31Ed6f6F4E04838c3F88fA5"
+  },
+  "clankerInfo": null
+}

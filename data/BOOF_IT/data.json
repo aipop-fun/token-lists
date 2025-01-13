@@ -1,0 +1,22 @@
+{
+  "name": "BOOF IT",
+  "symbol": "BOOF IT",
+  "decimals": 18,
+  "description": "BOOF IT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOOF%20IT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOOF IT",
+  "addresses": {
+    "8453": "0x2d34729ff60585662f95b2711493cfcd24807eff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOOF IT",
+    "sanitizedSymbol": "BOOF_IT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219660",
+    "lockerAddress": "0x0bdf21D8b643E93B3d46814bEF2C39F0D56c2082"
+  },
+  "clankerInfo": null
+}

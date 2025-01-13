@@ -1,0 +1,22 @@
+{
+  "name": "Hyper World Protocol",
+  "symbol": "Hyper World Protocol",
+  "decimals": 18,
+  "description": "Hyper World Protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hyper%20World%20Protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hyper World Protocol",
+  "addresses": {
+    "8453": "0x01ea9d5279b195f1e6da49d5d140b4cb6f0e772c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hyper World Protocol",
+    "sanitizedSymbol": "HYPER_WORLD_PROTOCOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x55E78e18abb704De242e583Ed7403C09e721038A",
+    "lpNftId": "1322561",
+    "lockerAddress": "0x35233C408911D618eAFb70544bb59825bf44216a"
+  },
+  "clankerInfo": null
+}

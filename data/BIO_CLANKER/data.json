@@ -1,0 +1,22 @@
+{
+  "name": "BIO CLANKER",
+  "symbol": "BIO CLANKER",
+  "decimals": 18,
+  "description": "BIO CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIO%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIO CLANKER",
+  "addresses": {
+    "8453": "0x2a727c315079869403724ca96210306fa35360d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIO CLANKER",
+    "sanitizedSymbol": "BIO_CLANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192885",
+    "lockerAddress": "0x7F7893152D2e7c70725fB571Ab9a2FC70c1a48D3"
+  },
+  "clankerInfo": null
+}

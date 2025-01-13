@@ -1,0 +1,22 @@
+{
+  "name": "Tornado",
+  "symbol": "Tornado",
+  "decimals": 18,
+  "description": "Tornado is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tornado",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tornado",
+  "addresses": {
+    "8453": "0x37adccfd722cca074008eef12df22e8230c8d5ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tornado",
+    "sanitizedSymbol": "TORNADO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236917",
+    "lockerAddress": "0x8fB7a3f68085113c1E3a5F139F40f4B75aA6730C"
+  },
+  "clankerInfo": null
+}

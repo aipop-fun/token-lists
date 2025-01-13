@@ -1,0 +1,22 @@
+{
+  "name": "The Extra Terrestrial Coin",
+  "symbol": "The Extra Terrestrial Coin",
+  "decimals": 18,
+  "description": "The Extra Terrestrial Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Extra%20Terrestrial%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Extra Terrestrial Coin",
+  "addresses": {
+    "8453": "0x2b9c282f414bc77404d5a2da833306142db64218"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Extra Terrestrial Coin",
+    "sanitizedSymbol": "THE_EXTRA_TERRESTRIAL_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1318747",
+    "lockerAddress": "0x85aDF224959E332752accC34B1eFc05aF521Ab70"
+  },
+  "clankerInfo": null
+}

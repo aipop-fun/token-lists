@@ -1,0 +1,22 @@
+{
+  "name": "BASED RETARDIO",
+  "symbol": "BASED RETARDIO",
+  "decimals": 18,
+  "description": "BASED RETARDIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20RETARDIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED RETARDIO",
+  "addresses": {
+    "8453": "0x39749d7ccf3246bf71b3939025a9f8bb17493aaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED RETARDIO",
+    "sanitizedSymbol": "BASED_RETARDIO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8152dA697dF99c9E3306667a94a2a21dAD3bBA30",
+    "lpNftId": "1296914",
+    "lockerAddress": "0x75F496dBB6b8a77386fB07e52D03bF1F3a1a60cD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CreeperToken",
+  "symbol": "CreeperToken",
+  "decimals": 18,
+  "description": "CreeperToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CreeperToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CreeperToken",
+  "addresses": {
+    "8453": "0x22202c53f12c194101c793fb713c7eb6ceface60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CreeperToken",
+    "sanitizedSymbol": "CREEPERTOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7B8d4aE31697877F3F96aBa5d2D61Ec217f2a7D0",
+    "lpNftId": "1365866",
+    "lockerAddress": "0x7A965d1F780D176DFF9BE34C03Fb74fBa65d6F07"
+  },
+  "clankerInfo": null
+}

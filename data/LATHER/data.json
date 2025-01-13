@@ -1,0 +1,22 @@
+{
+  "name": "lather",
+  "symbol": "lather",
+  "decimals": 18,
+  "description": "lather is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lather",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lather",
+  "addresses": {
+    "8453": "0x24002e12aa861c2771a1ac097c23f675e4098045"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lather",
+    "sanitizedSymbol": "LATHER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7fE0de0B4426532Dd8fe37DC271690aF8fDf9a6f",
+    "lpNftId": "1286387",
+    "lockerAddress": "0x69b6DF2d16c3CdFe3481F499f7443f09C3c831d8"
+  },
+  "clankerInfo": null
+}

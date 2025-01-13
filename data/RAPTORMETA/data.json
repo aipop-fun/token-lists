@@ -1,0 +1,22 @@
+{
+  "name": "RaptorMeta",
+  "symbol": "RaptorMeta",
+  "decimals": 18,
+  "description": "RaptorMeta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RaptorMeta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RaptorMeta",
+  "addresses": {
+    "8453": "0x3ef6f3c65aa13c67e79d062a7f22f685d6f7733d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RaptorMeta",
+    "sanitizedSymbol": "RAPTORMETA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166012",
+    "lockerAddress": "0x8184352e91Fc6B7992597779de18234f564cb858"
+  },
+  "clankerInfo": null
+}

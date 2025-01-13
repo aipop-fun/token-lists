@@ -1,0 +1,22 @@
+{
+  "name": "Costco Hot Dog",
+  "symbol": "Costco Hot Dog",
+  "decimals": 18,
+  "description": "Costco Hot Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Costco%20Hot%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Costco Hot Dog",
+  "addresses": {
+    "8453": "0x08598859e455e398aa2cf90fac3c4c0bdebf4079"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Costco Hot Dog",
+    "sanitizedSymbol": "COSTCO_HOT_DOG",
+    "created_at": "2024-12-10T13:08:19.238609",
+    "deployer": "0xaaFeD113a0900617c499e94cc6D1d99fe28a651a",
+    "lpNftId": "1401412",
+    "lockerAddress": "0x1903D764071cA04Eddb4f5275e696352be750114"
+  },
+  "clankerInfo": null
+}

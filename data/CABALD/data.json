@@ -1,0 +1,22 @@
+{
+  "name": "CABALD",
+  "symbol": "CABALD",
+  "decimals": 18,
+  "description": "CABALD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CABALD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CABALD",
+  "addresses": {
+    "8453": "0x0641789df31f618bb7fca88f7fdf58c8e20c094d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CABALD",
+    "sanitizedSymbol": "CABALD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221076",
+    "lockerAddress": "0x95fBe14cC6248c203dC8788354A6AbC979047f93"
+  },
+  "clankerInfo": null
+}

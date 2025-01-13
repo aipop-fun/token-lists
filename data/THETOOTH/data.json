@@ -1,0 +1,22 @@
+{
+  "name": "TheTooth",
+  "symbol": "TheTooth",
+  "decimals": 18,
+  "description": "TheTooth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TheTooth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TheTooth",
+  "addresses": {
+    "8453": "0x3385247f4ce4a22bca16bd8a72651f1fea9eeab9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TheTooth",
+    "sanitizedSymbol": "THETOOTH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0f0A6119674c021F490De259c463cF351ff6C417",
+    "lpNftId": "1312068",
+    "lockerAddress": "0xa13dB70E052fa63eFF7834d4069A1cD8C0CEB2d5"
+  },
+  "clankerInfo": null
+}

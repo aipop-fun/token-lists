@@ -1,0 +1,22 @@
+{
+  "name": "amorim",
+  "symbol": "amorim",
+  "decimals": 18,
+  "description": "amorim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=amorim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "amorim",
+  "addresses": {
+    "8453": "0x036f24cff89ab651cecd14d85f2f27d67aae039f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "amorim",
+    "sanitizedSymbol": "AMORIM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x07aE8A9A526e0351972cd2673ed673C8DA897833",
+    "lpNftId": "1284690",
+    "lockerAddress": "0x10f252542205869319BC2C603490a983781De60C"
+  },
+  "clankerInfo": null
+}

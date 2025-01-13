@@ -1,0 +1,22 @@
+{
+  "name": "FIRE Cats",
+  "symbol": "FIRE Cats",
+  "decimals": 18,
+  "description": "FIRE Cats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FIRE%20Cats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FIRE Cats",
+  "addresses": {
+    "8453": "0x386a64a0f2b6ee3c7f0b01d3fd15e312b59b6985"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FIRE Cats",
+    "sanitizedSymbol": "FIRE_CATS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc42cfE40269f34e83DD7476121F0D1b3b72bAED5",
+    "lpNftId": "1251831",
+    "lockerAddress": "0x21D073514e19183db1144bBCe2B97b0053321030"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BaseRare",
+  "symbol": "BaseRare",
+  "decimals": 18,
+  "description": "BaseRare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseRare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseRare",
+  "addresses": {
+    "8453": "0x0a06be058525a51bc075d7e425298b312acd77a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseRare",
+    "sanitizedSymbol": "BASERARE",
+    "created_at": "2024-12-10T03:10:23.03958",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1395498",
+    "lockerAddress": "0x377B4C6FcDbD3C70BA5F613866c9563683C129ca"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "smth cool",
+  "symbol": "smth cool",
+  "decimals": 18,
+  "description": "smth cool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smth%20cool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smth cool",
+  "addresses": {
+    "8453": "0x3df41139bda20cb090baac28de99bde731ed363d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smth cool",
+    "sanitizedSymbol": "SMTH_COOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90538EFcCE3A4FaEd230d3c6cDa490b8a9B335aF",
+    "lpNftId": "1323779",
+    "lockerAddress": "0x1D6E6A3e99c29Db854563B87d1E47Acb243A1d82"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NeonLink",
+  "symbol": "NeonLink",
+  "decimals": 18,
+  "description": "NeonLink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NeonLink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NeonLink",
+  "addresses": {
+    "8453": "0x23b22878d399967062bc058704b64be9b9a8c6a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NeonLink",
+    "sanitizedSymbol": "NEONLINK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e15e09815e2135f6a14bdC0d431d39383bB4956",
+    "lpNftId": "1283715",
+    "lockerAddress": "0xfA9A281f4744b393863cf6E0544758cc7D935ECE"
+  },
+  "clankerInfo": null
+}

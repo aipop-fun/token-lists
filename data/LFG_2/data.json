@@ -1,0 +1,22 @@
+{
+  "name": "LFG",
+  "symbol": "LFG",
+  "decimals": 18,
+  "description": "LFG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LFG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LFG",
+  "addresses": {
+    "8453": "0x38370368791ea0486081e2042ae35b69c8b1949c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LFG",
+    "sanitizedSymbol": "LFG_2",
+    "created_at": "2024-12-12T11:09:33.405756",
+    "deployer": "0xc4d87CCeA06adaB9874B8fb780EE55A0060a4aDb",
+    "lpNftId": "1433111",
+    "lockerAddress": "0x0828d4e2eab1CF10E079FdE81C9273d63ffbe262"
+  },
+  "clankerInfo": null
+}

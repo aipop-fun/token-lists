@@ -1,0 +1,22 @@
+{
+  "name": "BEBE",
+  "symbol": "BEBE",
+  "decimals": 18,
+  "description": "BEBE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEBE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEBE",
+  "addresses": {
+    "8453": "0x30d75ea3f24a87dad04ffc5172f9d9bc47a30357"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEBE",
+    "sanitizedSymbol": "BEBE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x70d6F920A021151bE1B019958DeE254C3356eFda",
+    "lpNftId": "1279696",
+    "lockerAddress": "0xF03a6D3746EffB8326d2bF0f1Cc9C99d7432a2F2"
+  },
+  "clankerInfo": null
+}

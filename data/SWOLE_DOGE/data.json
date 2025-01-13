@@ -1,0 +1,22 @@
+{
+  "name": "Swole Doge",
+  "symbol": "Swole Doge",
+  "decimals": 18,
+  "description": "Swole Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Swole%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Swole Doge",
+  "addresses": {
+    "8453": "0x26da56226bdbc6ec44c07b3b24f9fa664bb9939c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Swole Doge",
+    "sanitizedSymbol": "SWOLE_DOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2e7c583445bA3C6aE9E6976958567EfA2cabb596",
+    "lpNftId": "1374541",
+    "lockerAddress": "0x78560811687BF5d57D8c0b13813291ca82e31C7E"
+  },
+  "clankerInfo": null
+}

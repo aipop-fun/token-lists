@@ -1,0 +1,22 @@
+{
+  "name": "TICKER",
+  "symbol": "TICKER",
+  "decimals": 18,
+  "description": "TICKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TICKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TICKER",
+  "addresses": {
+    "8453": "0x3b162e6ff01ad16a9b9d3bdad1200216e0b6a0d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TICKER",
+    "sanitizedSymbol": "TICKER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xecb00427816E652a94c6D85406D1C3904909F421",
+    "lpNftId": "1291913",
+    "lockerAddress": "0xaE568E1Ff8a70E4144265E0412acAC2c8d1AC04B"
+  },
+  "clankerInfo": null
+}

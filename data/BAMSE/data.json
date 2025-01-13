@@ -1,0 +1,22 @@
+{
+  "name": "Bamse",
+  "symbol": "Bamse",
+  "decimals": 18,
+  "description": "Bamse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bamse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bamse",
+  "addresses": {
+    "8453": "0x1fb7b7a0b0211819195885033265914c52a4dce1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bamse",
+    "sanitizedSymbol": "BAMSE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x268896290dF36f85662b76029826Ea12c8D7e7c8",
+    "lpNftId": "1310864",
+    "lockerAddress": "0x7432F37cf0a6176BfE800368cc7d8f76B40c2406"
+  },
+  "clankerInfo": null
+}

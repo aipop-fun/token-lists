@@ -1,0 +1,22 @@
+{
+  "name": "Liquidity",
+  "symbol": "Liquidity",
+  "decimals": 18,
+  "description": "Liquidity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liquidity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liquidity",
+  "addresses": {
+    "8453": "0x37a26407bad7dd6257eab156f4f3df099a7a9fc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liquidity",
+    "sanitizedSymbol": "LIQUIDITY",
+    "created_at": "2024-12-09T19:20:55.488337",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1390833",
+    "lockerAddress": "0x803182681bD105628808e80CBBDb8997ADA59FB1"
+  },
+  "clankerInfo": null
+}

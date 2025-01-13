@@ -1,0 +1,22 @@
+{
+  "name": "MOOCAT",
+  "symbol": "MOOCAT",
+  "decimals": 18,
+  "description": "MOOCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOOCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOOCAT",
+  "addresses": {
+    "8453": "0x240b91ac865b481250d5b440269e4e5c89dc2030"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOOCAT",
+    "sanitizedSymbol": "MOOCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213794",
+    "lockerAddress": "0x02D8dc1406d99B3fc9F501047c49042b7066D5E2"
+  },
+  "clankerInfo": null
+}

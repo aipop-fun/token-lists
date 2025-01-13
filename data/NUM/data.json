@@ -1,0 +1,22 @@
+{
+  "name": "NUM",
+  "symbol": "NUM",
+  "decimals": 18,
+  "description": "NUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NUM",
+  "addresses": {
+    "8453": "0x1aab16bb34bb3e8b4de9fda343fcaeb3c424b4df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NUM",
+    "sanitizedSymbol": "NUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdb1FD671eC3f9b34A2C8E3aD6E21f4515C43E60D",
+    "lpNftId": "1296862",
+    "lockerAddress": "0xa4aD44C981cEe59d4Ac0627440D9F19c3f36c3ea"
+  },
+  "clankerInfo": null
+}

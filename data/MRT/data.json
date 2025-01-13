@@ -1,0 +1,22 @@
+{
+  "name": "$MRT",
+  "symbol": "$MRT",
+  "decimals": 18,
+  "description": "$MRT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24MRT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$MRT",
+  "addresses": {
+    "8453": "0x125f043565650405bf3b6793c07c116660f18a26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$MRT",
+    "sanitizedSymbol": "MRT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218054",
+    "lockerAddress": "0x32F91E685F11a248A3c89f0FbC740997f816A365"
+  },
+  "clankerInfo": null
+}

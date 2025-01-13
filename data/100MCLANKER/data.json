@@ -1,0 +1,22 @@
+{
+  "name": "100mclanker",
+  "symbol": "100mclanker",
+  "decimals": 18,
+  "description": "100mclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100mclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100mclanker",
+  "addresses": {
+    "8453": "0x131eb857c4d8484cd0a814ced8c8d17e8809a38a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100mclanker",
+    "sanitizedSymbol": "100MCLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235937",
+    "lockerAddress": "0xDB40bD4e6785cc15A98F5FCDAE0A643cCbb6631F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Trump",
+  "symbol": "Pepe Trump",
+  "decimals": 18,
+  "description": "Pepe Trump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Trump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Trump",
+  "addresses": {
+    "8453": "0x01c807116ce30ced4b24d0e1809bab5ad71fdd12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Trump",
+    "sanitizedSymbol": "PEPE_TRUMP",
+    "created_at": "2024-12-11T02:57:50.057735",
+    "deployer": "0x6E5Dc63Ec5DDcb6F6F6f909d15D545671c435974",
+    "lpNftId": "1411281",
+    "lockerAddress": "0xE1D29251c1791bC4413F6Dd790F25bfBe335a9d1"
+  },
+  "clankerInfo": null
+}

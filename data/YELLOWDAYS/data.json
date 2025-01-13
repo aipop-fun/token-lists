@@ -1,0 +1,22 @@
+{
+  "name": "yellowdays",
+  "symbol": "yellowdays",
+  "decimals": 18,
+  "description": "yellowdays is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yellowdays",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yellowdays",
+  "addresses": {
+    "8453": "0x15364ec004cd91901115aeb95f43685028c44e04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yellowdays",
+    "sanitizedSymbol": "YELLOWDAYS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157399",
+    "lockerAddress": "0xFCBd64f66271cAe44EcE5D8f1a74F615B5e60C04"
+  },
+  "clankerInfo": null
+}

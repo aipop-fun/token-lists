@@ -1,0 +1,22 @@
+{
+  "name": "ChildCareCoin",
+  "symbol": "ChildCareCoin",
+  "decimals": 18,
+  "description": "ChildCareCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChildCareCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChildCareCoin",
+  "addresses": {
+    "8453": "0x40977c86d92f9ce496db729e2de52cf6ba0a3fa0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChildCareCoin",
+    "sanitizedSymbol": "CHILDCARECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4F217324694B8016Ba7D5D9b23FD57294454b4C9",
+    "lpNftId": "1310962",
+    "lockerAddress": "0xbBE11a223532d90c1547ca59aA09f49a382f177c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PLR NGCNG",
+  "symbol": "PLR NGCNG",
+  "decimals": 18,
+  "description": "PLR NGCNG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PLR%20NGCNG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PLR NGCNG",
+  "addresses": {
+    "8453": "0x3a11f993c1fdc144b627398a38797578e46c9e54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PLR NGCNG",
+    "sanitizedSymbol": "PLR_NGCNG",
+    "created_at": "2024-12-10T08:12:17.288997",
+    "deployer": "0x46fA4606FCD4f26b60cDeF1D2C19C3A07b54418F",
+    "lpNftId": "1398611",
+    "lockerAddress": "0x9f7047807641b27A98731c947eB66e512031580A"
+  },
+  "clankerInfo": null
+}

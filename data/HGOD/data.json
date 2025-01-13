@@ -1,0 +1,22 @@
+{
+  "name": "HGOD",
+  "symbol": "HGOD",
+  "decimals": 18,
+  "description": "HGOD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HGOD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HGOD",
+  "addresses": {
+    "8453": "0x0a29d51680e12bee507b23a423debfd7fc5f2260"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HGOD",
+    "sanitizedSymbol": "HGOD",
+    "created_at": "2024-12-12T04:14:06.959271",
+    "deployer": "0x5Fbe3FCA518479128C364c48c0cD6366987d4823",
+    "lpNftId": "1429110",
+    "lockerAddress": "0x47Cf8cEBDF584F47919a26F617cC8570911D14fC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LENIN",
+  "symbol": "LENIN",
+  "decimals": 18,
+  "description": "LENIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LENIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LENIN",
+  "addresses": {
+    "8453": "0x16081d3417e2f4f12a896971406c601b5bb9c160"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LENIN",
+    "sanitizedSymbol": "LENIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221447",
+    "lockerAddress": "0x36aB4278D10d67EE3f4d9e13d5AB3e96bD63E421"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "icepuff",
+  "symbol": "icepuff",
+  "decimals": 18,
+  "description": "icepuff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=icepuff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "icepuff",
+  "addresses": {
+    "8453": "0x1517f0d7e5c5d8c5ddb1b7593c6facc6c988f1db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "icepuff",
+    "sanitizedSymbol": "ICEPUFF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x91f24dC6feed1461B5A17360bf118C5c21147939",
+    "lpNftId": "1241623",
+    "lockerAddress": "0xDE7b79d57D5746A553802d92f7a660eAA37ad726"
+  },
+  "clankerInfo": null
+}

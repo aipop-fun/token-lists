@@ -1,0 +1,22 @@
+{
+  "name": "VortexCoin",
+  "symbol": "VortexCoin",
+  "decimals": 18,
+  "description": "VortexCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VortexCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VortexCoin",
+  "addresses": {
+    "8453": "0x0bb9d40c1e5d2ad22c5285fbae71540fa74bd5d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VortexCoin",
+    "sanitizedSymbol": "VORTEXCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132490",
+    "lockerAddress": "0x511673BaB47b880fEa097Ff8754C96243952BbBD"
+  },
+  "clankerInfo": null
+}

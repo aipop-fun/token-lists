@@ -1,0 +1,22 @@
+{
+  "name": "Krabby Patty",
+  "symbol": "Krabby Patty",
+  "decimals": 18,
+  "description": "Krabby Patty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Krabby%20Patty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Krabby Patty",
+  "addresses": {
+    "8453": "0x20be380c3e208423d2cdf7b2c4f28380962e065e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Krabby Patty",
+    "sanitizedSymbol": "KRABBY_PATTY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219333",
+    "lockerAddress": "0x3B0c35404E3C8Df0fCC9C796e9D3542031C16d65"
+  },
+  "clankerInfo": null
+}

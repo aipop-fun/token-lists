@@ -1,0 +1,22 @@
+{
+  "name": "UPcast",
+  "symbol": "UPcast",
+  "decimals": 18,
+  "description": "UPcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UPcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UPcast",
+  "addresses": {
+    "8453": "0x030c144b7135e5b5fcbcc898b08c5a887c012241"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UPcast",
+    "sanitizedSymbol": "UPCAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7915D956dFc65b7d9580F22aa77c526819777e07",
+    "lpNftId": "1287273",
+    "lockerAddress": "0x9A81eeF68d27c2aBb1eAaf24e5aF6308C3e7e6db"
+  },
+  "clankerInfo": null
+}

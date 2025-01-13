@@ -1,0 +1,22 @@
+{
+  "name": "BUCK",
+  "symbol": "BUCK",
+  "decimals": 18,
+  "description": "BUCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUCK",
+  "addresses": {
+    "8453": "0x2f35cd4ad77f9decc3283c13e8e2f82a0d1a8f40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUCK",
+    "sanitizedSymbol": "BUCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0Abf9582D02052AE79ef9Dd799ca679De55B7609",
+    "lpNftId": "1370917",
+    "lockerAddress": "0x771e003d85C85E506218C50a916c29aAB0eC9420"
+  },
+  "clankerInfo": null
+}

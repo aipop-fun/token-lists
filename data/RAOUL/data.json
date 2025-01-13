@@ -1,0 +1,22 @@
+{
+  "name": "Raoul",
+  "symbol": "Raoul",
+  "decimals": 18,
+  "description": "Raoul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Raoul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Raoul",
+  "addresses": {
+    "8453": "0x30fb229d5c3450536aa82efaacf6a5da79651d4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Raoul",
+    "sanitizedSymbol": "RAOUL",
+    "created_at": "2024-12-10T23:38:49.297908",
+    "deployer": "0x3D9E5067B8595d3ac2088D3e721eDBaE5DC2B4bB",
+    "lpNftId": "1408461",
+    "lockerAddress": "0x492082EE0BB9B8deeC7CA719758316051ff71e0B"
+  },
+  "clankerInfo": null
+}

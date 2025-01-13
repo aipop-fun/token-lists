@@ -1,0 +1,22 @@
+{
+  "name": "picku",
+  "symbol": "picku",
+  "decimals": 18,
+  "description": "picku is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=picku",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "picku",
+  "addresses": {
+    "8453": "0x2adfc880784958031f143002c92ca7bba3f9dcc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "picku",
+    "sanitizedSymbol": "PICKU",
+    "created_at": "2024-12-11T12:33:42.394232",
+    "deployer": "0xB613521DD073ac8d5a72CCd7126a944956966b19",
+    "lpNftId": "1418144",
+    "lockerAddress": "0xad6630d8537A95220286693dDE0a68035daA970b"
+  },
+  "clankerInfo": null
+}

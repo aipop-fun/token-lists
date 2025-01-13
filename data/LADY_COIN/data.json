@@ -1,0 +1,22 @@
+{
+  "name": "LADY COIN",
+  "symbol": "LADY COIN",
+  "decimals": 18,
+  "description": "LADY COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LADY%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LADY COIN",
+  "addresses": {
+    "8453": "0x410bd4307599fd61bfc0787c20ccb88bcf6ba6b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LADY COIN",
+    "sanitizedSymbol": "LADY_COIN",
+    "created_at": "2024-12-11T19:06:33.869763",
+    "deployer": "0xBC69004Ca1b2eda4E1F2b7cC3072bab2BEF324CA",
+    "lpNftId": "1424514",
+    "lockerAddress": "0x18301e74a9d31b3d9BFcc3e48aB4d9571FF040B6"
+  },
+  "clankerInfo": null
+}

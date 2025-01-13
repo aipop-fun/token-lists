@@ -1,0 +1,22 @@
+{
+  "name": "California Fried Chicken",
+  "symbol": "California Fried Chicken",
+  "decimals": 18,
+  "description": "California Fried Chicken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=California%20Fried%20Chicken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "California Fried Chicken",
+  "addresses": {
+    "8453": "0x1e045259c47142f193c71a97a22a919901f449e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "California Fried Chicken",
+    "sanitizedSymbol": "CALIFORNIA_FRIED_CHICKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9e716dcbA3165044D1717c8cA26eBeE94e8fBfC0",
+    "lpNftId": "1305330",
+    "lockerAddress": "0x2E1eB6A2E09546550333410802d6FA1bb97c95B3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Planet Earth",
+  "symbol": "Planet Earth",
+  "decimals": 18,
+  "description": "Planet Earth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Planet%20Earth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Planet Earth",
+  "addresses": {
+    "8453": "0x1595d7dd16509a964d679f358409d2f196699605"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Planet Earth",
+    "sanitizedSymbol": "PLANET_EARTH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdA079046C5676190F3E024cf992bB71A7855C590",
+    "lpNftId": "1334319",
+    "lockerAddress": "0x4414B2E4fec20ef26b75E0a6ed72ce1355ec2DeB"
+  },
+  "clankerInfo": null
+}

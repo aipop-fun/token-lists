@@ -1,0 +1,22 @@
+{
+  "name": "XRP GOLD",
+  "symbol": "XRP GOLD",
+  "decimals": 18,
+  "description": "XRP GOLD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XRP%20GOLD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XRP GOLD",
+  "addresses": {
+    "8453": "0x1c2d977f6e4bbe5a1a28126d696d005809869877"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XRP GOLD",
+    "sanitizedSymbol": "XRP_GOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe4241a8b6427F29BCd4477C2162DBba34fcE34E8",
+    "lpNftId": "1285093",
+    "lockerAddress": "0x4Ce987cB908ac648434bB0742197376F2eC2927C"
+  },
+  "clankerInfo": null
+}

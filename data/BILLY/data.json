@@ -1,0 +1,22 @@
+{
+  "name": "BILLY",
+  "symbol": "BILLY",
+  "decimals": 18,
+  "description": "BILLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BILLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BILLY",
+  "addresses": {
+    "8453": "0x348409fa3651d4cf8571db6bdfaadd3df35987cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BILLY",
+    "sanitizedSymbol": "BILLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1122964",
+    "lockerAddress": "0xBB34625AcD765A5CA722197Fd9C62c0270B52AB8"
+  },
+  "clankerInfo": null
+}

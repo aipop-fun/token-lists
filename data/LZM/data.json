@@ -1,0 +1,22 @@
+{
+  "name": "LZM",
+  "symbol": "LZM",
+  "decimals": 18,
+  "description": "LZM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LZM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LZM",
+  "addresses": {
+    "8453": "0x37b98575b6ef9fefff6602128c127077b1a7f43a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LZM",
+    "sanitizedSymbol": "LZM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219699",
+    "lockerAddress": "0x527d098345a2aAFBA4dfdFeaEc42B3Ab976c41B9"
+  },
+  "clankerInfo": null
+}

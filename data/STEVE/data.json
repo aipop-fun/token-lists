@@ -1,0 +1,22 @@
+{
+  "name": "Steve",
+  "symbol": "Steve",
+  "decimals": 18,
+  "description": "Steve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Steve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Steve",
+  "addresses": {
+    "8453": "0x0832e968efa7220af548f8e1376a7dbf4feb623a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Steve",
+    "sanitizedSymbol": "STEVE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1268389",
+    "lockerAddress": "0xCA9A1Cc604b8bb7577f670AE2478A86F4A84A2f7"
+  },
+  "clankerInfo": null
+}

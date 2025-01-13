@@ -1,0 +1,22 @@
+{
+  "name": "CRASH",
+  "symbol": "CRASH",
+  "decimals": 18,
+  "description": "CRASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRASH",
+  "addresses": {
+    "8453": "0x30328fe57c320dc43060f1235667ff45614c2e71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRASH",
+    "sanitizedSymbol": "CRASH",
+    "created_at": "2024-12-10T12:55:52.446541",
+    "deployer": "0xa6De04e7AeBDBe2FC639cA200De2f082395DAe94",
+    "lpNftId": "1401226",
+    "lockerAddress": "0x5D22C386A929F4D96A08370Ac93940DA3364a775"
+  },
+  "clankerInfo": null
+}

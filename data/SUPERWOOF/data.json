@@ -1,0 +1,22 @@
+{
+  "name": "superwoof",
+  "symbol": "superwoof",
+  "decimals": 18,
+  "description": "superwoof is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=superwoof",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "superwoof",
+  "addresses": {
+    "8453": "0x0c217d6f299e0fb4405b7028713cc2190ca70088"
+  },
+  "tokenInfo": {
+    "originalSymbol": "superwoof",
+    "sanitizedSymbol": "SUPERWOOF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x26d63D6E4644700653df283089Bf38F02769FCe5",
+    "lpNftId": "1290641",
+    "lockerAddress": "0xE4215C94Eb17dd4E8265765f71116C82d6F86455"
+  },
+  "clankerInfo": null
+}

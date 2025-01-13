@@ -1,0 +1,22 @@
+{
+  "name": "Fomo Fury",
+  "symbol": "Fomo Fury",
+  "decimals": 18,
+  "description": "Fomo Fury is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fomo%20Fury",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fomo Fury",
+  "addresses": {
+    "8453": "0x2b3d044afebf3b1605c4a08c6162d51d598b837f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fomo Fury",
+    "sanitizedSymbol": "FOMO_FURY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3E82BDae8AdDBa49e67dB503C7E5A25eA0bcfC52",
+    "lpNftId": "1264568",
+    "lockerAddress": "0xc8d64A653fDA09c58d9b157Fcd149274B412F75F"
+  },
+  "clankerInfo": null
+}

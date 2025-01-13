@@ -1,0 +1,22 @@
+{
+  "name": "Chinese Cat",
+  "symbol": "Chinese Cat",
+  "decimals": 18,
+  "description": "Chinese Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chinese%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chinese Cat",
+  "addresses": {
+    "8453": "0x0e4ea6c223edc83a32d1498d2696103e98a83407"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chinese Cat",
+    "sanitizedSymbol": "CHINESE_CAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD149aADE593dDC35Dd64413414feD70Ce2f05dB7",
+    "lpNftId": "1369794",
+    "lockerAddress": "0x8bccdaf6E434d433F9Aa6F3F7829C0F1B70714FD"
+  },
+  "clankerInfo": null
+}

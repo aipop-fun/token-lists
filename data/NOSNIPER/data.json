@@ -1,0 +1,22 @@
+{
+  "name": "NOSNIPER",
+  "symbol": "NOSNIPER",
+  "decimals": 18,
+  "description": "NOSNIPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOSNIPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOSNIPER",
+  "addresses": {
+    "8453": "0x1e0c309d86290837d52a7f784f166a30806b38b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOSNIPER",
+    "sanitizedSymbol": "NOSNIPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218799",
+    "lockerAddress": "0xb2cbf3db6A675Bfb674AC8bAa854B903F0C9a653"
+  },
+  "clankerInfo": null
+}

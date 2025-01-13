@@ -1,0 +1,22 @@
+{
+  "name": "ETHPUMP",
+  "symbol": "ETHPUMP",
+  "decimals": 18,
+  "description": "ETHPUMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETHPUMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETHPUMP",
+  "addresses": {
+    "8453": "0x080bf5a49d2e1bf39466c37219d6da54336238e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETHPUMP",
+    "sanitizedSymbol": "ETHPUMP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1332025",
+    "lockerAddress": "0x97E6829a4efeEdF456Aa0f869c81d7365571ebce"
+  },
+  "clankerInfo": null
+}

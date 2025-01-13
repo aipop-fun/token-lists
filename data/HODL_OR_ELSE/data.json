@@ -1,0 +1,22 @@
+{
+  "name": "HODL or Else",
+  "symbol": "HODL or Else",
+  "decimals": 18,
+  "description": "HODL or Else is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HODL%20or%20Else",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HODL or Else",
+  "addresses": {
+    "8453": "0x1bdcd2fe0ed2299e446e7204fb9a475bff96add2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HODL or Else",
+    "sanitizedSymbol": "HODL_OR_ELSE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC16B1fe5f9f0AA9De476796873880aB6C7AD96E1",
+    "lpNftId": "1346278",
+    "lockerAddress": "0x45560e066CF08BD8DE2036Bf17A4755aB121E598"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KACY",
+  "symbol": "KACY",
+  "decimals": 18,
+  "description": "KACY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KACY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KACY",
+  "addresses": {
+    "8453": "0x3b41e1bfcec6501ca34c9ea2f2efc413bb52032d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KACY",
+    "sanitizedSymbol": "KACY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233097",
+    "lockerAddress": "0xC38e9ca9c5811E75BfFE647abAC44667f8C99C60"
+  },
+  "clankerInfo": null
+}

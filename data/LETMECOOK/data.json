@@ -1,0 +1,22 @@
+{
+  "name": "letmecook",
+  "symbol": "letmecook",
+  "decimals": 18,
+  "description": "letmecook is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=letmecook",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "letmecook",
+  "addresses": {
+    "8453": "0x1dc572973d5f408e9f844c13ec3797be66af441e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "letmecook",
+    "sanitizedSymbol": "LETMECOOK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d2DDcBd17c76cF8c096a80cDF2A946D420E90C6",
+    "lpNftId": "1307551",
+    "lockerAddress": "0x46e5e0b915f3cc58528F5e06A01d3347baA08004"
+  },
+  "clankerInfo": null
+}

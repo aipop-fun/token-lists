@@ -1,0 +1,22 @@
+{
+  "name": "Dumb",
+  "symbol": "Dumb",
+  "decimals": 18,
+  "description": "Dumb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dumb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dumb",
+  "addresses": {
+    "8453": "0x32d1e4764b3e73c3c0317f84a139e3205809d6ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dumb",
+    "sanitizedSymbol": "DUMB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x9bd749D12236d3a90BA49D60985842e77C70b97E",
+    "lpNftId": "1250597",
+    "lockerAddress": "0x3b79a14B19aB2e0584EE7e2181Dc45bD9A39F2e8"
+  },
+  "clankerInfo": null
+}

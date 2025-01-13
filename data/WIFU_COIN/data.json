@@ -1,0 +1,22 @@
+{
+  "name": "Wifu Coin",
+  "symbol": "Wifu Coin",
+  "decimals": 18,
+  "description": "Wifu Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wifu%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wifu Coin",
+  "addresses": {
+    "8453": "0x04b8b012d4f62f9b517416adc9133c9122f6c242"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wifu Coin",
+    "sanitizedSymbol": "WIFU_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3224ce9aE2e049B98fa34Fc1112dDDE73C3C821d",
+    "lpNftId": "1280611",
+    "lockerAddress": "0x04463f8ce1A2d05baE3a3Eb1d0fb88D43C1F5bF3"
+  },
+  "clankerInfo": null
+}

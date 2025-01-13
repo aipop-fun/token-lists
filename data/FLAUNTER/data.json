@@ -1,0 +1,22 @@
+{
+  "name": "Flaunter",
+  "symbol": "Flaunter",
+  "decimals": 18,
+  "description": "Flaunter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flaunter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flaunter",
+  "addresses": {
+    "8453": "0x1f24bf17762754ea377d442432fe2c82d95f5b5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flaunter",
+    "sanitizedSymbol": "FLAUNTER",
+    "created_at": "2024-12-10T06:25:56.935764",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397398",
+    "lockerAddress": "0x28c9eFf2912b8e430FE25Acd998D1dFd1bdB3264"
+  },
+  "clankerInfo": null
+}

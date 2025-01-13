@@ -1,0 +1,22 @@
+{
+  "name": "BiG",
+  "symbol": "BiG",
+  "decimals": 18,
+  "description": "BiG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BiG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BiG",
+  "addresses": {
+    "8453": "0x05269191c22ba99859d84b4acd667d1d32f4a572"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BiG",
+    "sanitizedSymbol": "BIG_1",
+    "created_at": "2024-12-12T20:50:44.632684",
+    "deployer": "0x2eeD6D9F252F2CA92e27007142786149fC7827Aa",
+    "lpNftId": "1442727",
+    "lockerAddress": "0xc0B43097c8eFFB79D01Ba02527338d1E40f78220"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kuro Inu",
+  "symbol": "Kuro Inu",
+  "decimals": 18,
+  "description": "Kuro Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kuro%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kuro Inu",
+  "addresses": {
+    "8453": "0x0fbfa051c0d670daf483f58a6ad66e3b7495c171"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kuro Inu",
+    "sanitizedSymbol": "KURO_INU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x24F942f736c343AF7EC9f051b5F951AB5D3E05f8",
+    "lpNftId": "1320513",
+    "lockerAddress": "0x847a74bb47cbd0882291Bd13eFE26af049CFB397"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Jennie",
+  "symbol": "Jennie",
+  "decimals": 18,
+  "description": "Jennie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jennie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jennie",
+  "addresses": {
+    "8453": "0x31abb42cac50bfa6431d643d5f54b63a2024e20b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jennie",
+    "sanitizedSymbol": "JENNIE_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x73bCDFc7dF9570C67749D8C22583803F0a5d55CE",
+    "lpNftId": "1252783",
+    "lockerAddress": "0xbBb3e035DFE12D3d29aEd0fBd11956398dD631D5"
+  },
+  "clankerInfo": null
+}

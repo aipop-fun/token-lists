@@ -1,0 +1,22 @@
+{
+  "name": "ANONRUG",
+  "symbol": "ANONRUG",
+  "decimals": 18,
+  "description": "ANONRUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONRUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONRUG",
+  "addresses": {
+    "8453": "0x30e746b60f72f198c5e700fa66f80c867aa42a3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONRUG",
+    "sanitizedSymbol": "ANONRUG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfC4842d215753B38C66F0f903DC71F4C40D11ec7",
+    "lpNftId": "1311869",
+    "lockerAddress": "0xf0a5d0dD8c040c28ce0EEf9320e5C013316EB8F3"
+  },
+  "clankerInfo": null
+}

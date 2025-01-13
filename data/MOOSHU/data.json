@@ -1,0 +1,22 @@
+{
+  "name": "Mooshu",
+  "symbol": "Mooshu",
+  "decimals": 18,
+  "description": "Mooshu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mooshu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mooshu",
+  "addresses": {
+    "8453": "0x1b4ff435d23b9932026e61edce3b5d0456a0f70b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mooshu",
+    "sanitizedSymbol": "MOOSHU",
+    "created_at": "2024-12-10T17:18:08.283006",
+    "deployer": "0x6a5F80593f6F5B5dae2df882a78A57756B6Ce616",
+    "lpNftId": "1404438",
+    "lockerAddress": "0xAF17ddfae7C84080136566ba158248f20fEe5c5e"
+  },
+  "clankerInfo": null
+}

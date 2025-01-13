@@ -1,0 +1,22 @@
+{
+  "name": "TESTSZZ",
+  "symbol": "TESTSZZ",
+  "decimals": 18,
+  "description": "TESTSZZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESTSZZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESTSZZ",
+  "addresses": {
+    "8453": "0x238dfce498ee7ac2f6314154f080d3c7238a936d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESTSZZ",
+    "sanitizedSymbol": "TESTSZZ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6510cB12a2B6bb49cDbfbd23E6D40ba521f48f35",
+    "lpNftId": "1207944",
+    "lockerAddress": "0x8ab90A3c89C639915c366F36A20185048C6fA2D3"
+  },
+  "clankerInfo": null
+}

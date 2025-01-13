@@ -1,0 +1,22 @@
+{
+  "name": "GrumpyFish",
+  "symbol": "GrumpyFish",
+  "decimals": 18,
+  "description": "GrumpyFish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GrumpyFish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GrumpyFish",
+  "addresses": {
+    "8453": "0x3b6ae9064b2c91ecc04425c920ed22734f3e2c0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GrumpyFish",
+    "sanitizedSymbol": "GRUMPYFISH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5CC3F81A202BFb10E0c3190b5B71196FA2be2787",
+    "lpNftId": "1318957",
+    "lockerAddress": "0xE047b975d311e5E0D506f56986885Fd3BCbe547D"
+  },
+  "clankerInfo": null
+}

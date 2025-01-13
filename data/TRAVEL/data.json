@@ -1,0 +1,22 @@
+{
+  "name": "Travel",
+  "symbol": "Travel",
+  "decimals": 18,
+  "description": "Travel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Travel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Travel",
+  "addresses": {
+    "8453": "0x2d0d7b983fef9a74a1e2f8991cb9da31ff82cf6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Travel",
+    "sanitizedSymbol": "TRAVEL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152684",
+    "lockerAddress": "0xEf314649e174C3117038c8830ECfde673e7dBc78"
+  },
+  "clankerInfo": null
+}

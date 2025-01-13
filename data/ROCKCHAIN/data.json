@@ -1,0 +1,22 @@
+{
+  "name": "RockChain",
+  "symbol": "RockChain",
+  "decimals": 18,
+  "description": "RockChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RockChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RockChain",
+  "addresses": {
+    "8453": "0x082538d277d67ccf8a0b3bbd7d5af65ba1939e33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RockChain",
+    "sanitizedSymbol": "ROCKCHAIN",
+    "created_at": "2024-12-10T18:59:59.720985",
+    "deployer": "0xc8ABF679e14add9A6d6b6881cBDb4bCa748Cd2D0",
+    "lpNftId": "1405884",
+    "lockerAddress": "0xc4eD509e7758f44A7Ef8602090d1BC1F489ff1Fb"
+  },
+  "clankerInfo": null
+}

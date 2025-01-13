@@ -1,0 +1,22 @@
+{
+  "name": "Shadow Slayer",
+  "symbol": "Shadow Slayer",
+  "decimals": 18,
+  "description": "Shadow Slayer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shadow%20Slayer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shadow Slayer",
+  "addresses": {
+    "8453": "0x0db634f5d105106134cecdaa9eecb138e06bfc0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shadow Slayer",
+    "sanitizedSymbol": "SHADOW_SLAYER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226360",
+    "lockerAddress": "0xEf12FD9C8af67Fa45d3AC3eb8Acf74241DC9d900"
+  },
+  "clankerInfo": null
+}

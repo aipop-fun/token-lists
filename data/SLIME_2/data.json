@@ -1,0 +1,22 @@
+{
+  "name": "SLIME",
+  "symbol": "SLIME",
+  "decimals": 18,
+  "description": "SLIME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLIME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLIME",
+  "addresses": {
+    "8453": "0x121dfb8a9b2b0169a27a20e774cc800709612c46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLIME",
+    "sanitizedSymbol": "SLIME_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x09883d14879997472d6055207Ce6Fb0297B1eE63",
+    "lpNftId": "1331005",
+    "lockerAddress": "0xAF5aD396ac3076Fc51999392E72723E08c5Ca234"
+  },
+  "clankerInfo": null
+}

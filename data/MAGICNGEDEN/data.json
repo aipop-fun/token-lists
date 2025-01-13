@@ -1,0 +1,22 @@
+{
+  "name": "MagicNGeden",
+  "symbol": "MagicNGeden",
+  "decimals": 18,
+  "description": "MagicNGeden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MagicNGeden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MagicNGeden",
+  "addresses": {
+    "8453": "0x2eae5dc93f50a384e986c7af87aad8a9aa0bbb3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MagicNGeden",
+    "sanitizedSymbol": "MAGICNGEDEN",
+    "created_at": "2024-12-10T07:31:17.773776",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1397993",
+    "lockerAddress": "0xF1e382e355a348412cdd0bA32038597fB6D8704c"
+  },
+  "clankerInfo": null
+}

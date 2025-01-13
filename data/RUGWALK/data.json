@@ -1,0 +1,22 @@
+{
+  "name": "RUGWALK",
+  "symbol": "RUGWALK",
+  "decimals": 18,
+  "description": "RUGWALK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUGWALK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUGWALK",
+  "addresses": {
+    "8453": "0x1cbcf28b30aef7920ef3d301375105a6a0bd8f8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUGWALK",
+    "sanitizedSymbol": "RUGWALK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3d5F592cf215F48e699f0018cD4eC71a638aF765",
+    "lpNftId": "1281960",
+    "lockerAddress": "0xCFdF45d228Ed7C9E16399d1e5e176D998F6F6B90"
+  },
+  "clankerInfo": null
+}

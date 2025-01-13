@@ -1,0 +1,22 @@
+{
+  "name": "kockcoin",
+  "symbol": "kockcoin",
+  "decimals": 18,
+  "description": "kockcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kockcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kockcoin",
+  "addresses": {
+    "8453": "0x078b9f6ad919ea2ed0c11b8204d269ca38c284bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kockcoin",
+    "sanitizedSymbol": "KOCKCOIN",
+    "created_at": "2024-12-11T12:59:15.78254",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418646",
+    "lockerAddress": "0x22C3a0E04be40D6577EDfe4093cdf661Ea7cB70b"
+  },
+  "clankerInfo": null
+}

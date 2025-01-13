@@ -1,0 +1,22 @@
+{
+  "name": "Santa Claus",
+  "symbol": "Santa Claus",
+  "decimals": 18,
+  "description": "Santa Claus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Claus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Claus",
+  "addresses": {
+    "8453": "0x0f49b39767535aed79f24f09c47ec6daa9a085c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Claus",
+    "sanitizedSymbol": "SANTA_CLAUS_2",
+    "created_at": "2024-12-09T05:18:43.918174",
+    "deployer": "0xca32f6d4FA7d798ea153D4489645Ef1bC80ecb5f",
+    "lpNftId": "1383097",
+    "lockerAddress": "0x65e4C572EDb433106d0513Ea97bE5F25f1486550"
+  },
+  "clankerInfo": null
+}

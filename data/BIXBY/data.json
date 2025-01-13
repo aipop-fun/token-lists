@@ -1,0 +1,22 @@
+{
+  "name": "bixby",
+  "symbol": "bixby",
+  "decimals": 18,
+  "description": "bixby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bixby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bixby",
+  "addresses": {
+    "8453": "0x19d726c89db2f7d2730cb899bcd952bec3ee7658"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bixby",
+    "sanitizedSymbol": "BIXBY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217086",
+    "lockerAddress": "0x329d95fDEa87Aff4896b7CaE719CA02b493DA5ED"
+  },
+  "clankerInfo": null
+}

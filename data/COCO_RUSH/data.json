@@ -1,0 +1,22 @@
+{
+  "name": "Coco Rush",
+  "symbol": "Coco Rush",
+  "decimals": 18,
+  "description": "Coco Rush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coco%20Rush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coco Rush",
+  "addresses": {
+    "8453": "0x242ad3d330c0131919045feb62c648dfba87c852"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coco Rush",
+    "sanitizedSymbol": "COCO_RUSH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1323108",
+    "lockerAddress": "0x0431a6Cc42FC961A4F3818bEc072161DB5232a20"
+  },
+  "clankerInfo": null
+}

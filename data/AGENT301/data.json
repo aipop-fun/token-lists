@@ -1,0 +1,22 @@
+{
+  "name": "AGENT301",
+  "symbol": "AGENT301",
+  "decimals": 18,
+  "description": "AGENT301 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AGENT301",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AGENT301",
+  "addresses": {
+    "8453": "0x05d3cb3364f03b50504193a373d699783c875bb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AGENT301",
+    "sanitizedSymbol": "AGENT301",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbc0a05fA7fBdc5bA44D49223011066236d5eF79D",
+    "lpNftId": "1283458",
+    "lockerAddress": "0xa45ef4BAc3915063Df5872B2ebBbb81eFfEe85B3"
+  },
+  "clankerInfo": null
+}

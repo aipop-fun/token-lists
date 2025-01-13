@@ -1,0 +1,22 @@
+{
+  "name": "Deploy With Clanker",
+  "symbol": "Deploy With Clanker",
+  "decimals": 18,
+  "description": "Deploy With Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deploy%20With%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deploy With Clanker",
+  "addresses": {
+    "8453": "0x419268f00ac9638151e05f1e0e8f494f6ee8f51c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deploy With Clanker",
+    "sanitizedSymbol": "DEPLOY_WITH_CLANKER",
+    "created_at": "2024-12-10T15:44:17.071478",
+    "deployer": "0x9939c32a29fa019988fF1Fe3f12eA571007c6A36",
+    "lpNftId": "1402940",
+    "lockerAddress": "0xABD3a8E9391319bb7307a0cFB5898167888E63D1"
+  },
+  "clankerInfo": null
+}

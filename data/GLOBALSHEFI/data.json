@@ -1,0 +1,22 @@
+{
+  "name": "GlobalSheFi",
+  "symbol": "GlobalSheFi",
+  "decimals": 18,
+  "description": "GlobalSheFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GlobalSheFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GlobalSheFi",
+  "addresses": {
+    "8453": "0x33943bd51529c959e22d042eeca287e138a4a724"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GlobalSheFi",
+    "sanitizedSymbol": "GLOBALSHEFI",
+    "created_at": "2024-12-10T09:40:37.587372",
+    "deployer": "0xBe99589cF9173Ea24ae1E1178dB54Bc6befA6fAA",
+    "lpNftId": "1399319",
+    "lockerAddress": "0xCF7A823482E3e1cDf0486D89643E71f934Cfb3E8"
+  },
+  "clankerInfo": null
+}

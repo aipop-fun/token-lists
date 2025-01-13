@@ -1,0 +1,22 @@
+{
+  "name": "OPEN AI",
+  "symbol": "OPEN AI",
+  "decimals": 18,
+  "description": "OPEN AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OPEN%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OPEN AI",
+  "addresses": {
+    "8453": "0x19f046326c48a68b3cdc7c01d2800193f7c6e40f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OPEN AI",
+    "sanitizedSymbol": "OPEN_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1308993",
+    "lockerAddress": "0xa5d3f9580D4F6dbC87aF1A1752fB7d6c23f54Fa6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DESTROYER",
+  "symbol": "DESTROYER",
+  "decimals": 18,
+  "description": "DESTROYER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DESTROYER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DESTROYER",
+  "addresses": {
+    "8453": "0x1cab2bad06448a9c06a587227ae222313b7aa118"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DESTROYER",
+    "sanitizedSymbol": "DESTROYER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDD56dBF74457F9382c743D14a4Bb187355075276",
+    "lpNftId": "1312920",
+    "lockerAddress": "0x8fA83b7A9Cd279AD0170f7E04C72c2E20e0bE786"
+  },
+  "clankerInfo": null
+}

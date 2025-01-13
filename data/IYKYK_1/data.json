@@ -1,0 +1,22 @@
+{
+  "name": "iykyk",
+  "symbol": "iykyk",
+  "decimals": 18,
+  "description": "iykyk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=iykyk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "iykyk",
+  "addresses": {
+    "8453": "0x0ef05528f48cc31e157f278d683389db910c07fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "iykyk",
+    "sanitizedSymbol": "IYKYK_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222382",
+    "lockerAddress": "0xFC70c8F32Bd5ad43fcB3d27CA3E9fBa1fd1bC4a2"
+  },
+  "clankerInfo": null
+}

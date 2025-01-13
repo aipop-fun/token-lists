@@ -1,0 +1,22 @@
+{
+  "name": "0.0.2",
+  "symbol": "0.0.2",
+  "decimals": 18,
+  "description": "0.0.2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=0.0.2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "0.0.2",
+  "addresses": {
+    "8453": "0x19321479530defbdb51fe89aeacbea24c863855e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "0.0.2",
+    "sanitizedSymbol": "0_0_2",
+    "created_at": "2024-12-10T00:45:43.08754",
+    "deployer": "0x79aEfA7b17280BD1e796ca35EaDa33fD2B294632",
+    "lpNftId": "1393952",
+    "lockerAddress": "0x304A5388205Dec1E71609ecECEBbAa09C98EBAd3"
+  },
+  "clankerInfo": null
+}

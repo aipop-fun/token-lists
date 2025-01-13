@@ -1,0 +1,22 @@
+{
+  "name": "Go Beyond",
+  "symbol": "Go Beyond",
+  "decimals": 18,
+  "description": "Go Beyond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Go%20Beyond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Go Beyond",
+  "addresses": {
+    "8453": "0x10d81aa0ccc1f1c11339a2f61710c77f501abf48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Go Beyond",
+    "sanitizedSymbol": "GO_BEYOND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1341345",
+    "lockerAddress": "0x476fFAF59896d8aF52768623B0a60c6B907D0FCb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CYDOSE",
+  "symbol": "CYDOSE",
+  "decimals": 18,
+  "description": "CYDOSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CYDOSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CYDOSE",
+  "addresses": {
+    "8453": "0x089e4312f4fb4f4d43c6f6197a83156b7ef90ba4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CYDOSE",
+    "sanitizedSymbol": "CYDOSE",
+    "created_at": "2024-12-09T15:46:33.421549",
+    "deployer": "0x6861ca2B2525cD14b9313072AA953833589DEdbF",
+    "lpNftId": "1388760",
+    "lockerAddress": "0xB9DCdF38203D435f127f193C0A21437b7211182C"
+  },
+  "clankerInfo": null
+}

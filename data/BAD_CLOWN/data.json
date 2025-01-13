@@ -1,0 +1,22 @@
+{
+  "name": "Bad Clown",
+  "symbol": "Bad Clown",
+  "decimals": 18,
+  "description": "Bad Clown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bad%20Clown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bad Clown",
+  "addresses": {
+    "8453": "0x3dca7865577bad498d0da7a7edc3e2473fa2086a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bad Clown",
+    "sanitizedSymbol": "BAD_CLOWN",
+    "created_at": "2024-12-09T01:15:41.09497",
+    "deployer": "0xC32fccB5C69E4d5507727eBdf975DE74AFaB2421",
+    "lpNftId": "1377373",
+    "lockerAddress": "0xc02A31A921a84F4f6CDB03860F3f76E26D33715A"
+  },
+  "clankerInfo": null
+}

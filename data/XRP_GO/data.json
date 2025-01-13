@@ -1,0 +1,22 @@
+{
+  "name": "XRP GO",
+  "symbol": "XRP GO",
+  "decimals": 18,
+  "description": "XRP GO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XRP%20GO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XRP GO",
+  "addresses": {
+    "8453": "0x267798c5e53902dfa0a49f12fe0424faf7085145"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XRP GO",
+    "sanitizedSymbol": "XRP_GO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x118108b3964489E138db95212c462f7f572351A8",
+    "lpNftId": "1320297",
+    "lockerAddress": "0xf784beb677A502DDB6C86C64546b05d51b998Ade"
+  },
+  "clankerInfo": null
+}

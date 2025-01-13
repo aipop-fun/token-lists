@@ -1,0 +1,22 @@
+{
+  "name": "Danker",
+  "symbol": "Danker",
+  "decimals": 18,
+  "description": "Danker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Danker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Danker",
+  "addresses": {
+    "8453": "0x3cca6bcb1f09dc20cdc1cbd71c75b16293ea188b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Danker",
+    "sanitizedSymbol": "DANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221285",
+    "lockerAddress": "0x1356E06bE7BD8CAeC3bfFC440feE0B013b7e3CC9"
+  },
+  "clankerInfo": null
+}

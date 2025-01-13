@@ -1,0 +1,22 @@
+{
+  "name": "DONTSTOP",
+  "symbol": "DONTSTOP",
+  "decimals": 18,
+  "description": "DONTSTOP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DONTSTOP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DONTSTOP",
+  "addresses": {
+    "8453": "0x13ad08feee89268a8782392f072b3870a7881ff8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DONTSTOP",
+    "sanitizedSymbol": "DONTSTOP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119464",
+    "lockerAddress": "0x432ee940aD0a8c44Be085ddD34b1881C74c15B1a"
+  },
+  "clankerInfo": null
+}

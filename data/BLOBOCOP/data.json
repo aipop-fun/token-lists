@@ -1,0 +1,22 @@
+{
+  "name": "BLOBOCOP",
+  "symbol": "BLOBOCOP",
+  "decimals": 18,
+  "description": "BLOBOCOP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLOBOCOP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLOBOCOP",
+  "addresses": {
+    "8453": "0x0d7b45ba9106a0925b3474f4b0aaa9082a08207e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLOBOCOP",
+    "sanitizedSymbol": "BLOBOCOP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221172",
+    "lockerAddress": "0xCcA07d21D4C6d4e243672d753500138D76d1f7a2"
+  },
+  "clankerInfo": null
+}

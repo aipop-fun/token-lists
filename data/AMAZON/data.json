@@ -1,0 +1,22 @@
+{
+  "name": "Amazon",
+  "symbol": "Amazon",
+  "decimals": 18,
+  "description": "Amazon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Amazon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Amazon",
+  "addresses": {
+    "8453": "0x3683613c76141e937357bfd42a8a66835164a877"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Amazon",
+    "sanitizedSymbol": "AMAZON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229735",
+    "lockerAddress": "0x6715E434cBa524D7C48137d77131cc4B1418C060"
+  },
+  "clankerInfo": null
+}

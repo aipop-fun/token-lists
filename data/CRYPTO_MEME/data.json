@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Meme",
+  "symbol": "Crypto Meme",
+  "decimals": 18,
+  "description": "Crypto Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Meme",
+  "addresses": {
+    "8453": "0x10237dcae3e32316270bdf8e1c270b6ba524a57c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Meme",
+    "sanitizedSymbol": "CRYPTO_MEME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233334",
+    "lockerAddress": "0xADE9Ee76b533eDce14b7FACC6677ff782cbf8D6d"
+  },
+  "clankerInfo": null
+}

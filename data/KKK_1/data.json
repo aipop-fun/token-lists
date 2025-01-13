@@ -1,0 +1,22 @@
+{
+  "name": "KKK",
+  "symbol": "KKK",
+  "decimals": 18,
+  "description": "KKK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KKK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KKK",
+  "addresses": {
+    "8453": "0x28f59639c270009ad873312c5eb0e5d5e2addce2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KKK",
+    "sanitizedSymbol": "KKK_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1f317E6C8A7B92CE47A711E66aA5E5D34Fd11317",
+    "lpNftId": "1286005",
+    "lockerAddress": "0xFa0E1b07EB4A36025529ebF8b6EDe14A50BA9343"
+  },
+  "clankerInfo": null
+}

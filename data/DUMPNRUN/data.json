@@ -1,0 +1,22 @@
+{
+  "name": "DumpNRun",
+  "symbol": "DumpNRun",
+  "decimals": 18,
+  "description": "DumpNRun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DumpNRun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DumpNRun",
+  "addresses": {
+    "8453": "0x38018e7fedf525591fc290676922b26b4f6945e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DumpNRun",
+    "sanitizedSymbol": "DUMPNRUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128692",
+    "lockerAddress": "0x10d5BB291d6cCA2584E447Cfa9F51Bd6Ba0abC7b"
+  },
+  "clankerInfo": null
+}

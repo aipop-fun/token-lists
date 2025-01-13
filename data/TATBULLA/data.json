@@ -1,0 +1,22 @@
+{
+  "name": "Tatbulla",
+  "symbol": "Tatbulla",
+  "decimals": 18,
+  "description": "Tatbulla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tatbulla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tatbulla",
+  "addresses": {
+    "8453": "0x1e20d14ed328c1bad87abb07b210a3ab3f9615ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tatbulla",
+    "sanitizedSymbol": "TATBULLA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219518",
+    "lockerAddress": "0x060ee869B019f81B3A95e8cf755f360c41Ea671b"
+  },
+  "clankerInfo": null
+}

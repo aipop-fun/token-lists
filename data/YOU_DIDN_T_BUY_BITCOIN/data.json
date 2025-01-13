@@ -1,0 +1,22 @@
+{
+  "name": "you didn't buy bitcoin",
+  "symbol": "you didn't buy bitcoin",
+  "decimals": 18,
+  "description": "you didn't buy bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=you%20didn't%20buy%20bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "you didn't buy bitcoin",
+  "addresses": {
+    "8453": "0x00e6ec70809bde60e85ddeb69af49fd7429231d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "you didn't buy bitcoin",
+    "sanitizedSymbol": "YOU_DIDN_T_BUY_BITCOIN",
+    "created_at": "2024-12-10T12:02:06.819931",
+    "deployer": "0x2136f3Cb915F22956eE315f3000643493337c96e",
+    "lpNftId": "1400513",
+    "lockerAddress": "0x4a77D3b1B7dC83068447D64573635Ca64930f496"
+  },
+  "clankerInfo": null
+}

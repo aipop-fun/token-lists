@@ -1,0 +1,22 @@
+{
+  "name": "TETSUO BASE",
+  "symbol": "TETSUO BASE",
+  "decimals": 18,
+  "description": "TETSUO BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TETSUO%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TETSUO BASE",
+  "addresses": {
+    "8453": "0x290531a87d0d1f394d4f313d7b467214bb1ce508"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TETSUO BASE",
+    "sanitizedSymbol": "TETSUO_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x463d5e22C3F6E0220c58fD1Ecec44891C32eEd9b",
+    "lpNftId": "1308853",
+    "lockerAddress": "0x9BbA59912B85b7DC6b855Bb711C2B424beA6110c"
+  },
+  "clankerInfo": null
+}

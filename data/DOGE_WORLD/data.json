@@ -1,0 +1,22 @@
+{
+  "name": "Doge World",
+  "symbol": "Doge World",
+  "decimals": 18,
+  "description": "Doge World is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doge%20World",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doge World",
+  "addresses": {
+    "8453": "0x0e99dde1b0b8a0422c06ee0b22666f97a8837b5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doge World",
+    "sanitizedSymbol": "DOGE_WORLD",
+    "created_at": "2024-12-09T16:59:03.942829",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1389514",
+    "lockerAddress": "0xBE2E1C8E58718f980d443441DfdB681aAf1898Dc"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IronDog",
+  "symbol": "IronDog",
+  "decimals": 18,
+  "description": "IronDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IronDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IronDog",
+  "addresses": {
+    "8453": "0x297d10512d924621a23011d90fe398128e545672"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IronDog",
+    "sanitizedSymbol": "IRONDOG",
+    "created_at": "2024-12-09T08:44:05.027226",
+    "deployer": "0xB4df81934b43890ED759B0151C1DcABd6375643c",
+    "lpNftId": "1384833",
+    "lockerAddress": "0xA3260140535A247eaB1b83733EF8AFB3FC61d5E6"
+  },
+  "clankerInfo": null
+}

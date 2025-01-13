@@ -1,0 +1,22 @@
+{
+  "name": "hooter",
+  "symbol": "hooter",
+  "decimals": 18,
+  "description": "hooter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hooter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hooter",
+  "addresses": {
+    "8453": "0x006515433363d23aa2986a2d8deedd3610215921"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hooter",
+    "sanitizedSymbol": "HOOTER",
+    "created_at": "2024-12-09T17:51:30.990233",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1389945",
+    "lockerAddress": "0x8441675a22cFb3a150b2E15D630Af8E536a11eBB"
+  },
+  "clankerInfo": null
+}

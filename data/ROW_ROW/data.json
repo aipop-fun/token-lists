@@ -1,0 +1,22 @@
+{
+  "name": "Row Row",
+  "symbol": "Row Row",
+  "decimals": 18,
+  "description": "Row Row is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Row%20Row",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Row Row",
+  "addresses": {
+    "8453": "0x3650565a646f62a68f8782df308ab7f25743c2a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Row Row",
+    "sanitizedSymbol": "ROW_ROW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233587",
+    "lockerAddress": "0xF6Ae7afE1eAfe3708C5cd0dB75E27961763239f4"
+  },
+  "clankerInfo": null
+}

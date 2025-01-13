@@ -1,0 +1,22 @@
+{
+  "name": "SADBOR",
+  "symbol": "SADBOR",
+  "decimals": 18,
+  "description": "SADBOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SADBOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SADBOR",
+  "addresses": {
+    "8453": "0x24ce3d51a3b3a6482c13a42943903354f1b16d2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SADBOR",
+    "sanitizedSymbol": "SADBOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b57f8A7553931d29Db1c7966BEf8B2E00367278",
+    "lpNftId": "1283688",
+    "lockerAddress": "0xc7eD8D75c384B0D6af7De319e6F467471f4149c0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Vanilla",
+  "symbol": "Vanilla",
+  "decimals": 18,
+  "description": "Vanilla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vanilla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vanilla",
+  "addresses": {
+    "8453": "0x08ddbe7b395b6c10be68ed16ee82209edf145fc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vanilla",
+    "sanitizedSymbol": "VANILLA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222265",
+    "lockerAddress": "0x376D9a0fd7Bf2622e774985Dd92Ec870cC2C56e0"
+  },
+  "clankerInfo": null
+}

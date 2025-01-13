@@ -1,0 +1,22 @@
+{
+  "name": "Base Printer",
+  "symbol": "Base Printer",
+  "decimals": 18,
+  "description": "Base Printer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Printer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Printer",
+  "addresses": {
+    "8453": "0x0b9be37cc3521aa7bebc9dd8aa61b9e9bd8e8c11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Printer",
+    "sanitizedSymbol": "BASE_PRINTER",
+    "created_at": "2024-12-11T13:54:47.402641",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1419602",
+    "lockerAddress": "0x715BC2babd5172Abd079b7664564c5e5772945C7"
+  },
+  "clankerInfo": null
+}

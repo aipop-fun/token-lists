@@ -1,0 +1,22 @@
+{
+  "name": "NASOS I",
+  "symbol": "NASOS I",
+  "decimals": 18,
+  "description": "NASOS I is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NASOS%20I",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NASOS I",
+  "addresses": {
+    "8453": "0x00925ef5decfb993e7eb52059061d0747a604789"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NASOS I",
+    "sanitizedSymbol": "NASOS_I",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1370426",
+    "lockerAddress": "0x97C9f03392d363f43b0848b3d75C9dB70cc23199"
+  },
+  "clankerInfo": null
+}

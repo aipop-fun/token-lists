@@ -1,0 +1,22 @@
+{
+  "name": "gouku",
+  "symbol": "gouku",
+  "decimals": 18,
+  "description": "gouku is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gouku",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gouku",
+  "addresses": {
+    "8453": "0x007aa3149be5727b62ed822a6ae8bc518d684ac7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gouku",
+    "sanitizedSymbol": "GOUKU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43aae724F2C111dE2d7aBC7A9be8044CE9f5445C",
+    "lpNftId": "1374026",
+    "lockerAddress": "0x1852007234620C88dB30114B732F25B11b9E117F"
+  },
+  "clankerInfo": null
+}

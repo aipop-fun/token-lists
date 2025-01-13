@@ -1,0 +1,22 @@
+{
+  "name": "Tessa",
+  "symbol": "Tessa",
+  "decimals": 18,
+  "description": "Tessa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tessa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tessa",
+  "addresses": {
+    "8453": "0x00eb20568360fb8c81c3cd50dd79fbd474166945"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tessa",
+    "sanitizedSymbol": "TESSA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x19f5244eC162Ba513F255Ecfc95846390B963ED5",
+    "lpNftId": "1312910",
+    "lockerAddress": "0x2913697eCa1473674176b490BaA9BC80cB135273"
+  },
+  "clankerInfo": null
+}

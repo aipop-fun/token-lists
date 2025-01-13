@@ -1,0 +1,22 @@
+{
+  "name": "CLOUD",
+  "symbol": "CLOUD",
+  "decimals": 18,
+  "description": "CLOUD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLOUD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLOUD",
+  "addresses": {
+    "8453": "0x327e646d676aba7030c93bd2c47b7dba8ddf4b32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLOUD",
+    "sanitizedSymbol": "CLOUD",
+    "created_at": "2024-12-12T18:57:05.146809",
+    "deployer": "0xaAa72173350720e9B3F1Fd8BD9ed65b14C3A5fC6",
+    "lpNftId": "1441104",
+    "lockerAddress": "0x5a0fe04fe89646BA33d1e73aaA2fB6dee86A34C0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DIPA",
+  "symbol": "DIPA",
+  "decimals": 18,
+  "description": "DIPA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DIPA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DIPA",
+  "addresses": {
+    "8453": "0x2842e8493ec635fbbad21a1059e7b413f31ad7ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DIPA",
+    "sanitizedSymbol": "DIPA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcdEBddbbc3A2d522032B9Ee964321b7403B7181e",
+    "lpNftId": "1331895",
+    "lockerAddress": "0x6b466568811f3f2bf9a211aEFd20838dcB9F80a1"
+  },
+  "clankerInfo": null
+}

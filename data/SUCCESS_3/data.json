@@ -1,0 +1,22 @@
+{
+  "name": "SUCCESS",
+  "symbol": "SUCCESS",
+  "decimals": 18,
+  "description": "SUCCESS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUCCESS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUCCESS",
+  "addresses": {
+    "8453": "0x1517661541109daaf52443e5820f7d951d227480"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUCCESS",
+    "sanitizedSymbol": "SUCCESS_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1334425",
+    "lockerAddress": "0x7A1e7FE0A8728963dFcd709024C24a43a60513aA"
+  },
+  "clankerInfo": null
+}

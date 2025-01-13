@@ -1,0 +1,22 @@
+{
+  "name": "Blowzob",
+  "symbol": "Blowzob",
+  "decimals": 18,
+  "description": "Blowzob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blowzob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blowzob",
+  "addresses": {
+    "8453": "0x2c4d64c0f9501abbea1ad1184506ce764ffd2aec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blowzob",
+    "sanitizedSymbol": "BLOWZOB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225509",
+    "lockerAddress": "0xF353D98AC07e5A312ad764e9fC266519B0279030"
+  },
+  "clankerInfo": null
+}

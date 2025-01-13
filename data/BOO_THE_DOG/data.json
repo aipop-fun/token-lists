@@ -1,0 +1,22 @@
+{
+  "name": "Boo the dog",
+  "symbol": "Boo the dog",
+  "decimals": 18,
+  "description": "Boo the dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boo%20the%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boo the dog",
+  "addresses": {
+    "8453": "0x2c4fdc34d0e571f0467cef72d0321c76708f86a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boo the dog",
+    "sanitizedSymbol": "BOO_THE_DOG",
+    "created_at": "2024-12-11T14:53:27.581458",
+    "deployer": "0x79a2E0775424eE832711f9336fBb31113090331E",
+    "lpNftId": "1420661",
+    "lockerAddress": "0xf54F766B3bceD786044061494868f40E06aa129a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MADE IN CLANKER",
+  "symbol": "MADE IN CLANKER",
+  "decimals": 18,
+  "description": "MADE IN CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MADE%20IN%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MADE IN CLANKER",
+  "addresses": {
+    "8453": "0x1fced9f42e7bd87b2667f86829f10687c500adeb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MADE IN CLANKER",
+    "sanitizedSymbol": "MADE_IN_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76c2065dEE3180d1CCA91A965AB137c25CF74ea4",
+    "lpNftId": "1309572",
+    "lockerAddress": "0xCeC0EeD083A63280CB232478a8C23655B4d67128"
+  },
+  "clankerInfo": null
+}

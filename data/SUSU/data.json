@@ -1,0 +1,22 @@
+{
+  "name": "Susu",
+  "symbol": "Susu",
+  "decimals": 18,
+  "description": "Susu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Susu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Susu",
+  "addresses": {
+    "8453": "0x3cd50de223ffb010ab80b30169b1e516aeb39cf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Susu",
+    "sanitizedSymbol": "SUSU",
+    "created_at": "2024-12-10T22:20:31.638128",
+    "deployer": "0xff3ee1592d77F50C57BAbBFe236513c0fa3cDB02",
+    "lpNftId": "1407921",
+    "lockerAddress": "0x22eEdDc5F86475c6cFb4Fe777A4fE789EE1E56DC"
+  },
+  "clankerInfo": null
+}

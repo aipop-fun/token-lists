@@ -1,0 +1,22 @@
+{
+  "name": "NumberPuller",
+  "symbol": "NumberPuller",
+  "decimals": 18,
+  "description": "NumberPuller is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NumberPuller",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NumberPuller",
+  "addresses": {
+    "8453": "0x2f14ce66fc789f41c189fc9ee705e77198417f5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NumberPuller",
+    "sanitizedSymbol": "NUMBERPULLER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1324303",
+    "lockerAddress": "0x774400637b6F685BdAB1373904Aa5423e7652edf"
+  },
+  "clankerInfo": null
+}

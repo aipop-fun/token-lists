@@ -1,0 +1,22 @@
+{
+  "name": "Sniper losing money",
+  "symbol": "Sniper losing money",
+  "decimals": 18,
+  "description": "Sniper losing money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sniper%20losing%20money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sniper losing money",
+  "addresses": {
+    "8453": "0x1529ac7a7f8544d2c2a39dfa7e9d205d7e30d465"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sniper losing money",
+    "sanitizedSymbol": "SNIPER_LOSING_MONEY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1250560",
+    "lockerAddress": "0x3B7D74afB9E374869f35e719B489Af629f5B891A"
+  },
+  "clankerInfo": null
+}

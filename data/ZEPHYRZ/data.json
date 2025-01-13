@@ -1,0 +1,22 @@
+{
+  "name": "ZEPHYRZ",
+  "symbol": "ZEPHYRZ",
+  "decimals": 18,
+  "description": "ZEPHYRZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEPHYRZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEPHYRZ",
+  "addresses": {
+    "8453": "0x237fc6f3e8f0a13b4be812f6111d3a6ca84430d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEPHYRZ",
+    "sanitizedSymbol": "ZEPHYRZ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215768",
+    "lockerAddress": "0xe1427fc43a8Da73c1f2539Ece318Ddab72e165ca"
+  },
+  "clankerInfo": null
+}

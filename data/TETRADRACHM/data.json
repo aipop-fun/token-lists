@@ -1,0 +1,22 @@
+{
+  "name": "Tetradrachm",
+  "symbol": "Tetradrachm",
+  "decimals": 18,
+  "description": "Tetradrachm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tetradrachm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tetradrachm",
+  "addresses": {
+    "8453": "0x2faad389cdcf9c8c83b5c91cc7c25dcc106031ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tetradrachm",
+    "sanitizedSymbol": "TETRADRACHM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199199",
+    "lockerAddress": "0xD7b7381526c319bab3036851806e4f15E98c89eb"
+  },
+  "clankerInfo": null
+}

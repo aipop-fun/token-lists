@@ -1,0 +1,22 @@
+{
+  "name": "MEME CLANKER",
+  "symbol": "MEME CLANKER",
+  "decimals": 18,
+  "description": "MEME CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME CLANKER",
+  "addresses": {
+    "8453": "0x4038c62ba38413c501737fc7b12e0f806b922db4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME CLANKER",
+    "sanitizedSymbol": "MEME_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1313308",
+    "lockerAddress": "0x0bc8722F0252bb2E446ACfE26Fb203ea6355198a"
+  },
+  "clankerInfo": null
+}

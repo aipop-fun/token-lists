@@ -1,0 +1,22 @@
+{
+  "name": "Existential Void",
+  "symbol": "Existential Void",
+  "decimals": 18,
+  "description": "Existential Void is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Existential%20Void",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Existential Void",
+  "addresses": {
+    "8453": "0x2f60fc3a91754599abba5af271c5b8304c81ba48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Existential Void",
+    "sanitizedSymbol": "EXISTENTIAL_VOID_1",
+    "created_at": "2024-12-12T13:46:43.546275",
+    "deployer": "0x8391c51D6C7C0b5650A22551D137799a35C9BcC9",
+    "lpNftId": "1435307",
+    "lockerAddress": "0x37f67415cbB0A9136187d029CD4F33bbE3792E34"
+  },
+  "clankerInfo": null
+}

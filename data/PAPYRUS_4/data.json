@@ -1,0 +1,22 @@
+{
+  "name": "Papyrus",
+  "symbol": "Papyrus",
+  "decimals": 18,
+  "description": "Papyrus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Papyrus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Papyrus",
+  "addresses": {
+    "8453": "0x40ec3a02a9645d5e427533a2f69d661f2de00ac6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Papyrus",
+    "sanitizedSymbol": "PAPYRUS_4",
+    "created_at": "2024-12-12T20:15:11.007912",
+    "deployer": "0xb7eC6b9D8E105032278C53FF7858EB4Df466417a",
+    "lpNftId": "1442142",
+    "lockerAddress": "0x9C8d5e34f073E38057Ab16c4a7D2e39a929F5b07"
+  },
+  "clankerInfo": null
+}

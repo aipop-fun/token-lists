@@ -1,0 +1,22 @@
+{
+  "name": "Friend Token",
+  "symbol": "Friend Token",
+  "decimals": 18,
+  "description": "Friend Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Friend%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Friend Token",
+  "addresses": {
+    "8453": "0x25d29ab8f0357d1337ba424c9dcd093238c185c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Friend Token",
+    "sanitizedSymbol": "FRIEND_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129866",
+    "lockerAddress": "0x2Ac3804829aeaDea61b44061bBF99c59C902A495"
+  },
+  "clankerInfo": null
+}

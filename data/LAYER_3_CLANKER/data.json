@@ -1,0 +1,22 @@
+{
+  "name": "Layer 3 Clanker",
+  "symbol": "Layer 3 Clanker",
+  "decimals": 18,
+  "description": "Layer 3 Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Layer%203%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Layer 3 Clanker",
+  "addresses": {
+    "8453": "0x2cfa38bedaaa9166d518cd24f0b973194fa2a1b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Layer 3 Clanker",
+    "sanitizedSymbol": "LAYER_3_CLANKER",
+    "created_at": "2024-12-10T06:48:41.941427",
+    "deployer": "0x498a0c6816A0A7AA2765d640a18cfF8c69b83B78",
+    "lpNftId": "1397478",
+    "lockerAddress": "0xDEf8F68313cE32BDFcF12E6D7A5e711a58fEFc5C"
+  },
+  "clankerInfo": null
+}

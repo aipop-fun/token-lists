@@ -1,0 +1,22 @@
+{
+  "name": "hyper laught coin",
+  "symbol": "hyper laught coin",
+  "decimals": 18,
+  "description": "hyper laught coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hyper%20laught%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hyper laught coin",
+  "addresses": {
+    "8453": "0x0cea014d1b4e7de516f2541bfe7add608f0c210f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hyper laught coin",
+    "sanitizedSymbol": "HYPER_LAUGHT_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4F217324694B8016Ba7D5D9b23FD57294454b4C9",
+    "lpNftId": "1266185",
+    "lockerAddress": "0x506e5235766CdF81Fa1306FA917996F0c3bDD745"
+  },
+  "clankerInfo": null
+}

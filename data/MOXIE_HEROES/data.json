@@ -1,0 +1,22 @@
+{
+  "name": "Moxie Heroes",
+  "symbol": "Moxie Heroes",
+  "decimals": 18,
+  "description": "Moxie Heroes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moxie%20Heroes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moxie Heroes",
+  "addresses": {
+    "8453": "0x07da8c391458e56f05683c99336657f209d75595"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moxie Heroes",
+    "sanitizedSymbol": "MOXIE_HEROES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1250999",
+    "lockerAddress": "0x7056b0553Bf942CCF688D4A926d17D26aDCAf0f2"
+  },
+  "clankerInfo": null
+}

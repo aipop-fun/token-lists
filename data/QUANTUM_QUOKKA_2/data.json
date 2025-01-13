@@ -1,0 +1,22 @@
+{
+  "name": "Quantum Quokka",
+  "symbol": "Quantum Quokka",
+  "decimals": 18,
+  "description": "Quantum Quokka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quantum%20Quokka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quantum Quokka",
+  "addresses": {
+    "8453": "0x20ebb0363deb6fe4393ae630eb019f85ece9b795"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quantum Quokka",
+    "sanitizedSymbol": "QUANTUM_QUOKKA_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123269",
+    "lockerAddress": "0x96A5425e15DfE9400DD1482c25D17Ee5BE8f6d18"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GIRTH",
+  "symbol": "GIRTH",
+  "decimals": 18,
+  "description": "GIRTH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIRTH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIRTH",
+  "addresses": {
+    "8453": "0x35f1482527ad9c2a70b1256c719834d9dc44c39e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIRTH",
+    "sanitizedSymbol": "GIRTH_1",
+    "created_at": "2024-12-10T15:33:54.915417",
+    "deployer": "0x3b54621FE962ee8E5283f2429B800e2E212c9a02",
+    "lpNftId": "1402763",
+    "lockerAddress": "0xE6C8959BcA557FD7246F1f325942b21FB43EEFD4"
+  },
+  "clankerInfo": null
+}

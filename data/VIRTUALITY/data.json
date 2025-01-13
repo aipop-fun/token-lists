@@ -1,0 +1,22 @@
+{
+  "name": "VIRTUALITY",
+  "symbol": "VIRTUALITY",
+  "decimals": 18,
+  "description": "VIRTUALITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VIRTUALITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VIRTUALITY",
+  "addresses": {
+    "8453": "0x1767a08df5a17eb1315985742e2bed0b70086e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VIRTUALITY",
+    "sanitizedSymbol": "VIRTUALITY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1335874",
+    "lockerAddress": "0x877338B727854E5D11779D0655aF6AB51a3Ab31f"
+  },
+  "clankerInfo": null
+}

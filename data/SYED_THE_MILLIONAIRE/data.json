@@ -1,0 +1,22 @@
+{
+  "name": "$SYED-THE-MILLIONAIRE",
+  "symbol": "$SYED-THE-MILLIONAIRE",
+  "decimals": 18,
+  "description": "$SYED-THE-MILLIONAIRE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24SYED-THE-MILLIONAIRE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$SYED-THE-MILLIONAIRE",
+  "addresses": {
+    "8453": "0x29e6a3e2cd8b60f771d3859112e60c3481816572"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$SYED-THE-MILLIONAIRE",
+    "sanitizedSymbol": "SYED_THE_MILLIONAIRE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217551",
+    "lockerAddress": "0x6a48a9b7f43Bd01494DD589126F3fFCBE07963A7"
+  },
+  "clankerInfo": null
+}

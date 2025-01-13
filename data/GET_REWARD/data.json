@@ -1,0 +1,22 @@
+{
+  "name": "Get reward",
+  "symbol": "Get reward",
+  "decimals": 18,
+  "description": "Get reward is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Get%20reward",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Get reward",
+  "addresses": {
+    "8453": "0x319340a7e508c6844925b645c5b4ef69aabd6ef4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Get reward",
+    "sanitizedSymbol": "GET_REWARD",
+    "created_at": "2024-12-09T02:38:14.257963",
+    "deployer": "0xf8d37B6FD09e83819cC2E44F087CeeF40f6604db",
+    "lpNftId": "1378805",
+    "lockerAddress": "0x3eB0CEA710b441249faE4f649Acbb473861EAb2D"
+  },
+  "clankerInfo": null
+}

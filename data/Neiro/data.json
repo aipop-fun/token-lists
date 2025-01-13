@@ -1,14 +1,22 @@
 {
   "name": "Neiro",
   "symbol": "Neiro",
-  "decimals": 9,
-  "description": "The sister of Kabosu Doge.\r\n\r\nNeiro is a community-managed project with an emphasis on charity and doing only good everyday.",
-  "website": "https://www.neiroeth.io/",
-  "twitter": "https://x.com/neiro",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1729063477/migrations/rqsne2nwpytc01yzlpdf.svg",
+  "decimals": 18,
+  "description": "Neiro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neiro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
   "opTokenId": "Neiro",
   "addresses": {
-    "1": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
-    "8453": "0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a"
-  }
+    "8453": "0x35c53c0e0229324531fcfd5c529f567187791a8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neiro",
+    "sanitizedSymbol": "NEIRO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235707",
+    "lockerAddress": "0x3C182545a66Fe35c9F2637F0c946fC9505b9255a"
+  },
+  "clankerInfo": null
 }

@@ -1,0 +1,22 @@
+{
+  "name": "HypeCow",
+  "symbol": "HypeCow",
+  "decimals": 18,
+  "description": "HypeCow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HypeCow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HypeCow",
+  "addresses": {
+    "8453": "0x1814939745a41fb89c2d94748e0cb03cf0edb78a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HypeCow",
+    "sanitizedSymbol": "HYPECOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd03bAF2E6024A578F363742b0A1fa5D3554Bd883",
+    "lpNftId": "1326557",
+    "lockerAddress": "0x3c52fA444686C6457083A92d3532780ED9073B69"
+  },
+  "clankerInfo": null
+}

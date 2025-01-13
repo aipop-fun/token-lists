@@ -1,0 +1,22 @@
+{
+  "name": "Mr. Cheese",
+  "symbol": "Mr. Cheese",
+  "decimals": 18,
+  "description": "Mr. Cheese is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.%20Cheese",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr. Cheese",
+  "addresses": {
+    "8453": "0x191891b90e1b52d9ff6a142fd043f1dd578cdc81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr. Cheese",
+    "sanitizedSymbol": "MR_CHEESE",
+    "created_at": "2024-12-09T02:45:45.53958",
+    "deployer": "0x7064856fcCF7aF18D2FC7D2F279e23BDFFd7Cd34",
+    "lpNftId": "1378991",
+    "lockerAddress": "0xDc65ccF7D461E2347111D4BcB9CD18AB044D3990"
+  },
+  "clankerInfo": null
+}

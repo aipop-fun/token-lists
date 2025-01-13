@@ -1,0 +1,22 @@
+{
+  "name": "Stuck",
+  "symbol": "Stuck",
+  "decimals": 18,
+  "description": "Stuck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stuck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stuck",
+  "addresses": {
+    "8453": "0x04c1f5536137c5c7c9d0ba70333e164b35d46f89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stuck",
+    "sanitizedSymbol": "STUCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5DF8aFd616a527aD58Bc6D6b4010cB4c73c1eEC4",
+    "lpNftId": "1318971",
+    "lockerAddress": "0xe12E8e57E0060071f702b9AF62fa85A670e8ed80"
+  },
+  "clankerInfo": null
+}

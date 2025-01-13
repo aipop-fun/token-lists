@@ -1,0 +1,22 @@
+{
+  "name": "lumber",
+  "symbol": "lumber",
+  "decimals": 18,
+  "description": "lumber is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lumber",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lumber",
+  "addresses": {
+    "8453": "0x0825f3b742e1c41ed48f4daa68d28187ea65a6ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lumber",
+    "sanitizedSymbol": "LUMBER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1215226",
+    "lockerAddress": "0x39B8D28631E899e910d27fB54Cf5a98D95853Be5"
+  },
+  "clankerInfo": null
+}

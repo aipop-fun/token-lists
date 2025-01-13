@@ -1,0 +1,22 @@
+{
+  "name": "I'm going in",
+  "symbol": "I'm going in",
+  "decimals": 18,
+  "description": "I'm going in is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I'm%20going%20in",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I'm going in",
+  "addresses": {
+    "8453": "0x1ac05ba8c6540b0cf4d16d20bb0e850c5909419b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I'm going in",
+    "sanitizedSymbol": "I_M_GOING_IN",
+    "created_at": "2024-12-11T19:10:29.927886",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1424590",
+    "lockerAddress": "0x305EFa7826Abd44e3429942E1Ca4fbE3Dd17C0C8"
+  },
+  "clankerInfo": null
+}

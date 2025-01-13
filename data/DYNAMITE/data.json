@@ -1,0 +1,22 @@
+{
+  "name": "DYNAMITE",
+  "symbol": "DYNAMITE",
+  "decimals": 18,
+  "description": "DYNAMITE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DYNAMITE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DYNAMITE",
+  "addresses": {
+    "8453": "0x4135d1c01629ceab4f7d5186679bb821d93ae6b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DYNAMITE",
+    "sanitizedSymbol": "DYNAMITE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125109",
+    "lockerAddress": "0x3c52156450aa345cfCF631e77aDBF23bcB462BeB"
+  },
+  "clankerInfo": null
+}

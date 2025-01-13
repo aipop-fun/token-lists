@@ -1,0 +1,22 @@
+{
+  "name": "99% bonding curve",
+  "symbol": "99% bonding curve",
+  "decimals": 18,
+  "description": "99% bonding curve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=99%25%20bonding%20curve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "99% bonding curve",
+  "addresses": {
+    "8453": "0x0ed86e6fcce2d6768d3c6c8e1bc17f71c5c62496"
+  },
+  "tokenInfo": {
+    "originalSymbol": "99% bonding curve",
+    "sanitizedSymbol": "99_BONDING_CURVE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210988",
+    "lockerAddress": "0x796Ea9fb4158b313e49EEF87e400954e1058d4aE"
+  },
+  "clankerInfo": null
+}

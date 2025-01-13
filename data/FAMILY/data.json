@@ -1,0 +1,22 @@
+{
+  "name": "FAMILY",
+  "symbol": "FAMILY",
+  "decimals": 18,
+  "description": "FAMILY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAMILY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAMILY",
+  "addresses": {
+    "8453": "0x1a3b2c45f00a4a375a9489b345fe6e26cd88fa6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAMILY",
+    "sanitizedSymbol": "FAMILY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1355404",
+    "lockerAddress": "0x84D84b1c1417A7631aE217F1e778ab3ccB3C82a3"
+  },
+  "clankerInfo": null
+}

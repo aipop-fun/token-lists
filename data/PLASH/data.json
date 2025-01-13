@@ -1,0 +1,22 @@
+{
+  "name": "PLASH",
+  "symbol": "PLASH",
+  "decimals": 18,
+  "description": "PLASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PLASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PLASH",
+  "addresses": {
+    "8453": "0x1814d4b034add8b8b47eb21360f7da2a5969fe64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PLASH",
+    "sanitizedSymbol": "PLASH",
+    "created_at": "2024-12-10T17:18:13.070076",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1404464",
+    "lockerAddress": "0xcCA7B644b7eE359CC4B082f4299a4f8C30B67813"
+  },
+  "clankerInfo": null
+}

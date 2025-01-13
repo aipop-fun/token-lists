@@ -1,0 +1,22 @@
+{
+  "name": "EN",
+  "symbol": "EN",
+  "decimals": 18,
+  "description": "EN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EN",
+  "addresses": {
+    "8453": "0x3705656ba22e6c49ec66b86fc594eaa2fd445c95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EN",
+    "sanitizedSymbol": "EN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDbd88e1e4f4222Bb0e6641bb545cD509F62471cB",
+    "lpNftId": "1252104",
+    "lockerAddress": "0x6A93a3730A9ddA076523EF0a2e68061FB01D8aD5"
+  },
+  "clankerInfo": null
+}

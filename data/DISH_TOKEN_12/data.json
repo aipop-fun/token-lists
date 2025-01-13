@@ -1,0 +1,22 @@
+{
+  "name": "Dish Token",
+  "symbol": "Dish Token",
+  "decimals": 18,
+  "description": "Dish Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dish%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dish Token",
+  "addresses": {
+    "8453": "0x23865215995ee7b4036e89e66bb277f0c1b6ebc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dish Token",
+    "sanitizedSymbol": "DISH_TOKEN_12",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1113836",
+    "lockerAddress": "0xF83F5F8E5b3d7A419Ed2F740A20975361086c664"
+  },
+  "clankerInfo": null
+}

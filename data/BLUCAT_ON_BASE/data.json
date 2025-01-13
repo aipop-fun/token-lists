@@ -1,0 +1,22 @@
+{
+  "name": "BLUCAT on Base",
+  "symbol": "BLUCAT on Base",
+  "decimals": 18,
+  "description": "BLUCAT on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUCAT%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUCAT on Base",
+  "addresses": {
+    "8453": "0x04f36765481438a30f3844d159c7af7d4b38ff97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUCAT on Base",
+    "sanitizedSymbol": "BLUCAT_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226100",
+    "lockerAddress": "0x56d11083a4E461ecE7f089227e24d0Ff8c76daAA"
+  },
+  "clankerInfo": null
+}

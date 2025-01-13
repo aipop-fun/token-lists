@@ -1,0 +1,22 @@
+{
+  "name": "King of Glory",
+  "symbol": "King of Glory",
+  "decimals": 18,
+  "description": "King of Glory is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King%20of%20Glory",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King of Glory",
+  "addresses": {
+    "8453": "0x3078d35ed3907684e7cf7ad3d929ac4ef857fd49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King of Glory",
+    "sanitizedSymbol": "KING_OF_GLORY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220499",
+    "lockerAddress": "0xc10f93754fE2c1830bed42777257c7b54053661b"
+  },
+  "clankerInfo": null
+}

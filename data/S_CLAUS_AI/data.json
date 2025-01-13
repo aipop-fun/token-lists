@@ -1,0 +1,22 @@
+{
+  "name": "$S CLAUS AI",
+  "symbol": "$S CLAUS AI",
+  "decimals": 18,
+  "description": "$S CLAUS AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24S%20CLAUS%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$S CLAUS AI",
+  "addresses": {
+    "8453": "0x3770e37985bdea60435124d899863089ff8536e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$S CLAUS AI",
+    "sanitizedSymbol": "S_CLAUS_AI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8532DDe31dC62E65ba539F42D4B60B4b0159f354",
+    "lpNftId": "1330598",
+    "lockerAddress": "0x5e34FB6e24B4952c2Da321dA79B2587622B532f3"
+  },
+  "clankerInfo": null
+}

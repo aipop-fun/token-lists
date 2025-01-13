@@ -1,0 +1,22 @@
+{
+  "name": "strawberry",
+  "symbol": "strawberry",
+  "decimals": 18,
+  "description": "strawberry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=strawberry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "strawberry",
+  "addresses": {
+    "8453": "0x064f317fd346ded9a12e8e5a64186cd915cb0db4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "strawberry",
+    "sanitizedSymbol": "STRAWBERRY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1246694",
+    "lockerAddress": "0xE501c22800cb5d52a29dd5eF6f9A65101EeBA3D0"
+  },
+  "clankerInfo": null
+}

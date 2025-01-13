@@ -1,0 +1,22 @@
+{
+  "name": "EnjoyBde",
+  "symbol": "EnjoyBde",
+  "decimals": 18,
+  "description": "EnjoyBde is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EnjoyBde",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EnjoyBde",
+  "addresses": {
+    "8453": "0x2ddb7d18211889b749761f9439139727b6c8d3f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EnjoyBde",
+    "sanitizedSymbol": "ENJOYBDE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84be480Ee32f01E59D60D42Cd6574D53Dc4dC412",
+    "lpNftId": "1288839",
+    "lockerAddress": "0xF7DfcBE4E461C671EC0fc5A687eCcdb79413ACcb"
+  },
+  "clankerInfo": null
+}

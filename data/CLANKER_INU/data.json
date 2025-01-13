@@ -1,0 +1,22 @@
+{
+  "name": "Clanker inu",
+  "symbol": "Clanker inu",
+  "decimals": 18,
+  "description": "Clanker inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker inu",
+  "addresses": {
+    "8453": "0x1f4d722f47d07cc421ef3b93a7267a232e5b1528"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker inu",
+    "sanitizedSymbol": "CLANKER_INU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152928",
+    "lockerAddress": "0x57be4aea775A8f0abA304020e96aCB9205B9daba"
+  },
+  "clankerInfo": null
+}

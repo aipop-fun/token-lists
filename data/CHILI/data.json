@@ -1,0 +1,22 @@
+{
+  "name": "Chili",
+  "symbol": "Chili",
+  "decimals": 18,
+  "description": "Chili is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chili",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chili",
+  "addresses": {
+    "8453": "0x2fbf06406b0c9a43931fbea33b3907b3d5841a41"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chili",
+    "sanitizedSymbol": "CHILI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc3C7202ac60523880F40EE9Ec17F8D8e3337c380",
+    "lpNftId": "1264618",
+    "lockerAddress": "0x664089F6545082A2710C7f2E64F0E0505747E36A"
+  },
+  "clankerInfo": null
+}

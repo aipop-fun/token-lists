@@ -1,0 +1,22 @@
+{
+  "name": "MemPass",
+  "symbol": "MemPass",
+  "decimals": 18,
+  "description": "MemPass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemPass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemPass",
+  "addresses": {
+    "8453": "0x215cf0243c5fd9d9a3a795e6d4b1b35dd290a0cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemPass",
+    "sanitizedSymbol": "MEMPASS",
+    "created_at": "2024-12-12T20:26:03.316795",
+    "deployer": "0x12f8026072fa10a5796deffE7d54b9Ea42Ff9ccD",
+    "lpNftId": "1442321",
+    "lockerAddress": "0x9C4640650dA05F5dC08eE37C4f89636b3f53Fe4C"
+  },
+  "clankerInfo": null
+}

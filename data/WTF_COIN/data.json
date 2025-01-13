@@ -1,0 +1,22 @@
+{
+  "name": "WTF COIN",
+  "symbol": "WTF COIN",
+  "decimals": 18,
+  "description": "WTF COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WTF%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WTF COIN",
+  "addresses": {
+    "8453": "0x2a9a7ca1908eac0b7a89d378149901de44d63dc1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WTF COIN",
+    "sanitizedSymbol": "WTF_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1310732",
+    "lockerAddress": "0x95EcB524AdfE63a9978d7ffCa009Fc7419A0A17f"
+  },
+  "clankerInfo": null
+}

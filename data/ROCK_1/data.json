@@ -1,0 +1,22 @@
+{
+  "name": "ROCK",
+  "symbol": "ROCK",
+  "decimals": 18,
+  "description": "ROCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROCK",
+  "addresses": {
+    "8453": "0x3a38b192b683380831ec8a21401dd3666c221512"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROCK",
+    "sanitizedSymbol": "ROCK_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34B09CAAdFf3500De1aA060Fc424286aB55d6640",
+    "lpNftId": "1285344",
+    "lockerAddress": "0x90749f3a162fBf9FDBEb28F3e5e7270EB5117822"
+  },
+  "clankerInfo": null
+}

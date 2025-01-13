@@ -1,0 +1,22 @@
+{
+  "name": "CROCS",
+  "symbol": "CROCS",
+  "decimals": 18,
+  "description": "CROCS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CROCS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CROCS",
+  "addresses": {
+    "8453": "0x1448a7543010397fc0e5e04ec718c75a6f7f6d3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CROCS",
+    "sanitizedSymbol": "CROCS",
+    "created_at": "2024-12-11T16:33:11.208191",
+    "deployer": "0x02aC33835070D0C90BEf87C273514E67Aea36eF8",
+    "lpNftId": "1421900",
+    "lockerAddress": "0x16Ed8c45c72fAFCb8379145295B8a38A5fb90d34"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yizxcoin",
+  "symbol": "Yizxcoin",
+  "decimals": 18,
+  "description": "Yizxcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yizxcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yizxcoin",
+  "addresses": {
+    "8453": "0x1c53fc3d5a7022d4435d4a521e62ead47d65aee7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yizxcoin",
+    "sanitizedSymbol": "YIZXCOIN",
+    "created_at": "2024-12-11T02:58:04.432011",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411306",
+    "lockerAddress": "0x8CCcBC39D265F3B89F3029F13dfb57Bfbc2A1d45"
+  },
+  "clankerInfo": null
+}

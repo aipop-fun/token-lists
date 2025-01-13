@@ -1,0 +1,22 @@
+{
+  "name": "DogeSpaceX",
+  "symbol": "DogeSpaceX",
+  "decimals": 18,
+  "description": "DogeSpaceX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeSpaceX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeSpaceX",
+  "addresses": {
+    "8453": "0x3cbf9c07b6fd1ed11623e33e238dfd341eb29c54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeSpaceX",
+    "sanitizedSymbol": "DOGESPACEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173897",
+    "lockerAddress": "0xA497EcF247324B07103edb2478c660795e3c9d25"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FuckIsankar",
+  "symbol": "FuckIsankar",
+  "decimals": 18,
+  "description": "FuckIsankar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FuckIsankar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FuckIsankar",
+  "addresses": {
+    "8453": "0x25b5e75959b4919986b6ab6b31bc8015200f4cdd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FuckIsankar",
+    "sanitizedSymbol": "FUCKISANKAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235518",
+    "lockerAddress": "0x29D977f828ac3890ec83e80594653D62Acc87668"
+  },
+  "clankerInfo": null
+}

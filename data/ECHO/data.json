@@ -1,0 +1,22 @@
+{
+  "name": "Echo",
+  "symbol": "Echo",
+  "decimals": 18,
+  "description": "Echo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Echo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Echo",
+  "addresses": {
+    "8453": "0x3acb27dff762c91b914ed32e1505bc5580bc3739"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Echo",
+    "sanitizedSymbol": "ECHO",
+    "created_at": "2024-12-12T16:47:24.87394",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1438847",
+    "lockerAddress": "0x9462ca6d1C44260eBcD6af68c93e74436c22c677"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TechGirlPower",
+  "symbol": "TechGirlPower",
+  "decimals": 18,
+  "description": "TechGirlPower is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TechGirlPower",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TechGirlPower",
+  "addresses": {
+    "8453": "0x1402415d56d6aaae900738cecc2152f498803bc0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TechGirlPower",
+    "sanitizedSymbol": "TECHGIRLPOWER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232155",
+    "lockerAddress": "0x905B34b56C6e60624b380786DF34d07EA9e86432"
+  },
+  "clankerInfo": null
+}

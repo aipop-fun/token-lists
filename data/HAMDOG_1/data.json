@@ -1,0 +1,22 @@
+{
+  "name": "HAMDog",
+  "symbol": "HAMDog",
+  "decimals": 18,
+  "description": "HAMDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMDog",
+  "addresses": {
+    "8453": "0x01bc5b7031a63303981ad1f6f0f935e50655c987"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMDog",
+    "sanitizedSymbol": "HAMDOG_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1317257",
+    "lockerAddress": "0x9E0D15006af05E93fBB8B54d216c348646C7ed12"
+  },
+  "clankerInfo": null
+}

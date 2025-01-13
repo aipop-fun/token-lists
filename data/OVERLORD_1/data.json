@@ -1,0 +1,22 @@
+{
+  "name": "Overlord",
+  "symbol": "Overlord",
+  "decimals": 18,
+  "description": "Overlord is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Overlord",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Overlord",
+  "addresses": {
+    "8453": "0x15c00790405ad7fbac25023b8df2bc96b26a2b18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Overlord",
+    "sanitizedSymbol": "OVERLORD_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213288",
+    "lockerAddress": "0xca6B6cBD95B6e789c258Bb926A584264906Dd8ce"
+  },
+  "clankerInfo": null
+}

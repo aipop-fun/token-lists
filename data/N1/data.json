@@ -1,0 +1,22 @@
+{
+  "name": "n1",
+  "symbol": "n1",
+  "decimals": 18,
+  "description": "n1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=n1",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "n1",
+  "addresses": {
+    "8453": "0x34a72b2847f2e87213c797d859934d5dd487ee1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "n1",
+    "sanitizedSymbol": "N1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x26bCd2D6F98EdF2F5357Acd01FF1EC9FF5A5AdA2",
+    "lpNftId": "1124261",
+    "lockerAddress": "0xF0409D9f95181314E017a264D54ba93100eCfc89"
+  },
+  "clankerInfo": null
+}

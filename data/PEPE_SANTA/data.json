@@ -1,0 +1,22 @@
+{
+  "name": "PEPE SANTA",
+  "symbol": "PEPE SANTA",
+  "decimals": 18,
+  "description": "PEPE SANTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20SANTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE SANTA",
+  "addresses": {
+    "8453": "0x23080ff8d2a2814d05127710bae87d10c2fd38f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE SANTA",
+    "sanitizedSymbol": "PEPE_SANTA",
+    "created_at": "2024-12-10T17:33:54.278328",
+    "deployer": "0xeDd77ad3c8057CFd83d9bE94E54C2753A2015218",
+    "lpNftId": "1404684",
+    "lockerAddress": "0x09C845FfB791EDE086Caf2F2154d2eFC1CfB1bEd"
+  },
+  "clankerInfo": null
+}

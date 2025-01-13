@@ -1,0 +1,22 @@
+{
+  "name": "Two pack",
+  "symbol": "Two pack",
+  "decimals": 18,
+  "description": "Two pack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Two%20pack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Two pack",
+  "addresses": {
+    "8453": "0x17e088f688d7f69277380740741ee5041ee38ca6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Two pack",
+    "sanitizedSymbol": "TWO_PACK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1340796",
+    "lockerAddress": "0x8730A100BeB3B916D497Bd05810c7a8e32F60946"
+  },
+  "clankerInfo": null
+}

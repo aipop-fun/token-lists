@@ -1,0 +1,22 @@
+{
+  "name": "SkullBot",
+  "symbol": "SkullBot",
+  "decimals": 18,
+  "description": "SkullBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SkullBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SkullBot",
+  "addresses": {
+    "8453": "0x2879beea852119f7672f861515c6de431857d4f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SkullBot",
+    "sanitizedSymbol": "SKULLBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129060",
+    "lockerAddress": "0x938bB8B26f6a3B6583e95E159e8ea374b0eF19Db"
+  },
+  "clankerInfo": null
+}

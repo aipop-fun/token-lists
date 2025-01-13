@@ -1,0 +1,22 @@
+{
+  "name": "SQUALL",
+  "symbol": "SQUALL",
+  "decimals": 18,
+  "description": "SQUALL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SQUALL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SQUALL",
+  "addresses": {
+    "8453": "0x24561f472e830d50610faf1257f47c3158427723"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SQUALL",
+    "sanitizedSymbol": "SQUALL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7F771401f247de9504a307cE27d74B7c39AC6f18",
+    "lpNftId": "1320506",
+    "lockerAddress": "0x1Bd5C440da9C00E2Acd7aB9b9F285f9A96b3A3A0"
+  },
+  "clankerInfo": null
+}

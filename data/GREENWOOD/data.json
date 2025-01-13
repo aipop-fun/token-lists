@@ -1,0 +1,22 @@
+{
+  "name": "Greenwood",
+  "symbol": "Greenwood",
+  "decimals": 18,
+  "description": "Greenwood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Greenwood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Greenwood",
+  "addresses": {
+    "8453": "0x2fa630ded49eedba06c4acda46709649975038b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Greenwood",
+    "sanitizedSymbol": "GREENWOOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2bc66df32fE9774CAeE150A93BC2fCA840927Fb6",
+    "lpNftId": "1327587",
+    "lockerAddress": "0x5e9bdB5f9A767A93e4984C72EA3cfE458e691355"
+  },
+  "clankerInfo": null
+}

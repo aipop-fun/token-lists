@@ -1,0 +1,22 @@
+{
+  "name": "query",
+  "symbol": "query",
+  "decimals": 18,
+  "description": "query is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=query",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "query",
+  "addresses": {
+    "8453": "0x07b785cf0e36ac7ef9e19f3190e0f570c900d92c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "query",
+    "sanitizedSymbol": "QUERY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219418",
+    "lockerAddress": "0x9305185449c4Aa8BA207c7e5fe3b0DFeED55C9ed"
+  },
+  "clankerInfo": null
+}

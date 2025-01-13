@@ -1,0 +1,22 @@
+{
+  "name": "LSD",
+  "symbol": "LSD",
+  "decimals": 18,
+  "description": "LSD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LSD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LSD",
+  "addresses": {
+    "8453": "0x3b786cb3df8be29be938bcff6a6f26ef81ba733c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LSD",
+    "sanitizedSymbol": "LSD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C2550dDB9294C21d209999Bdaa15f8249d0c161",
+    "lpNftId": "1332869",
+    "lockerAddress": "0xf94e4F483E200773d9b6c6808c04B843954Da7d7"
+  },
+  "clankerInfo": null
+}

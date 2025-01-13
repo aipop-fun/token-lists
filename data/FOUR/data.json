@@ -1,0 +1,22 @@
+{
+  "name": "FOUR",
+  "symbol": "FOUR",
+  "decimals": 18,
+  "description": "FOUR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOUR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOUR",
+  "addresses": {
+    "8453": "0x1c72f78d6f854f3cc766a4ed5be737e661f28c68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOUR",
+    "sanitizedSymbol": "FOUR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235213",
+    "lockerAddress": "0xcB73eD3De1562d774BB8Acb6d98E45668C80976c"
+  },
+  "clankerInfo": null
+}

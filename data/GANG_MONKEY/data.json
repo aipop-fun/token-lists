@@ -1,0 +1,22 @@
+{
+  "name": "Gang Monkey",
+  "symbol": "Gang Monkey",
+  "decimals": 18,
+  "description": "Gang Monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gang%20Monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gang Monkey",
+  "addresses": {
+    "8453": "0x0a3320046bba2988f7a20172e70d10d282918cd8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gang Monkey",
+    "sanitizedSymbol": "GANG_MONKEY",
+    "created_at": "2024-12-08T23:59:21.987775",
+    "deployer": "0x7086048BdAB4695A5C42940a26612f4cA82f1813",
+    "lpNftId": "1283237",
+    "lockerAddress": "0x2B95994bd194f2D18bA2536b78B69e0AaD3C0320"
+  },
+  "clankerInfo": null
+}

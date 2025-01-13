@@ -1,0 +1,22 @@
+{
+  "name": "PANDAI",
+  "symbol": "PANDAI",
+  "decimals": 18,
+  "description": "PANDAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PANDAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PANDAI",
+  "addresses": {
+    "8453": "0x20871825aa8f1a47ac90490325534d8ef41aed6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PANDAI",
+    "sanitizedSymbol": "PANDAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229344",
+    "lockerAddress": "0xAcbcE64fab180B54672B705454a302D9ae4Cc4e8"
+  },
+  "clankerInfo": null
+}

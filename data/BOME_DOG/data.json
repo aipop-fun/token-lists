@@ -1,0 +1,22 @@
+{
+  "name": "BOME DOG",
+  "symbol": "BOME DOG",
+  "decimals": 18,
+  "description": "BOME DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOME%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOME DOG",
+  "addresses": {
+    "8453": "0x225941d8d2230a59fa4a689117efa6654db7e0d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOME DOG",
+    "sanitizedSymbol": "BOME_DOG",
+    "created_at": "2024-12-10T15:31:15.168292",
+    "deployer": "0x64413163cf87046100DE837247614fE9Ff1E0926",
+    "lpNftId": "1402731",
+    "lockerAddress": "0x200Eb11Ab1FbD6450848599ff7c19B7CbCBcF4F9"
+  },
+  "clankerInfo": null
+}

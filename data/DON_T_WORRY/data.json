@@ -1,0 +1,22 @@
+{
+  "name": "don't worry",
+  "symbol": "don't worry",
+  "decimals": 18,
+  "description": "don't worry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=don't%20worry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "don't worry",
+  "addresses": {
+    "8453": "0x3c7a0afce442737995184e4083a8cbb4cb19de9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "don't worry",
+    "sanitizedSymbol": "DON_T_WORRY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8EF8c599813e963F36ffa1A99DBDBf6E0F5cEB70",
+    "lpNftId": "1283515",
+    "lockerAddress": "0xe5aCEeFB0Dd658C0051038e80eEaBA6B13BDc809"
+  },
+  "clankerInfo": null
+}

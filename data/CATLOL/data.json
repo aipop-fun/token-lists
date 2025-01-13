@@ -1,0 +1,22 @@
+{
+  "name": "CatLoL",
+  "symbol": "CatLoL",
+  "decimals": 18,
+  "description": "CatLoL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatLoL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatLoL",
+  "addresses": {
+    "8453": "0x21b1f96e1e75e43abf29182498bcb2ee2e20d5d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatLoL",
+    "sanitizedSymbol": "CATLOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x326e5D06250CBd2911deE32389aA5Eb1AFFb05F8",
+    "lpNftId": "1330329",
+    "lockerAddress": "0xad41263A526d698E74607A572C7dFe0Cef163A75"
+  },
+  "clankerInfo": null
+}

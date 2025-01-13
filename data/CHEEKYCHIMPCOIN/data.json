@@ -1,0 +1,22 @@
+{
+  "name": "CheekyChimpCoin",
+  "symbol": "CheekyChimpCoin",
+  "decimals": 18,
+  "description": "CheekyChimpCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CheekyChimpCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CheekyChimpCoin",
+  "addresses": {
+    "8453": "0x38e1b934270a0794c3db8bacf93ce372ab81660e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CheekyChimpCoin",
+    "sanitizedSymbol": "CHEEKYCHIMPCOIN",
+    "created_at": "2024-12-10T13:43:34.62171",
+    "deployer": "0x01De35C70Ef47cb4F5D1D0a5402700aB67F51e54",
+    "lpNftId": "1401555",
+    "lockerAddress": "0x31921915037Dc093d447F39Ee5De5344D109f92c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bashar Has Fallen",
+  "symbol": "Bashar Has Fallen",
+  "decimals": 18,
+  "description": "Bashar Has Fallen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bashar%20Has%20Fallen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bashar Has Fallen",
+  "addresses": {
+    "8453": "0x2273d332746fe803dfc91d236f7ec407bcba7138"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bashar Has Fallen",
+    "sanitizedSymbol": "BASHAR_HAS_FALLEN",
+    "created_at": "2024-12-09T04:42:21.68313",
+    "deployer": "0x2D7c99bD362E50a05DC4EdBAB981B7D825CF4AA8",
+    "lpNftId": "1382370",
+    "lockerAddress": "0x95dD5Ae7b86F62Cfe103F0790f7EC1947696b9Fa"
+  },
+  "clankerInfo": null
+}

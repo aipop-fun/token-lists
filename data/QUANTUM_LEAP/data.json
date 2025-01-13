@@ -1,0 +1,22 @@
+{
+  "name": "Quantum Leap",
+  "symbol": "Quantum Leap",
+  "decimals": 18,
+  "description": "Quantum Leap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quantum%20Leap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quantum Leap",
+  "addresses": {
+    "8453": "0x33293ddf76d88093e9a104add72b3fa61054c635"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quantum Leap",
+    "sanitizedSymbol": "QUANTUM_LEAP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225086",
+    "lockerAddress": "0xDCcb4A6B561d0E43DFCA4B8a174eC90AEaaA9De4"
+  },
+  "clankerInfo": null
+}

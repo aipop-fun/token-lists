@@ -1,0 +1,22 @@
+{
+  "name": "GREEN LAND",
+  "symbol": "GREEN LAND",
+  "decimals": 18,
+  "description": "GREEN LAND is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GREEN%20LAND",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GREEN LAND",
+  "addresses": {
+    "8453": "0x07f1b9229e7a3e28ad4500a5ad23ca052c8f2cf9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GREEN LAND",
+    "sanitizedSymbol": "GREEN_LAND",
+    "created_at": "2024-12-12T22:03:31.567078",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1444300",
+    "lockerAddress": "0x52bFF593b9F06af04C8B3e9f2e00eFF53a711b64"
+  },
+  "clankerInfo": null
+}

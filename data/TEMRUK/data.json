@@ -1,0 +1,22 @@
+{
+  "name": "Temruk",
+  "symbol": "Temruk",
+  "decimals": 18,
+  "description": "Temruk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Temruk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Temruk",
+  "addresses": {
+    "8453": "0x3225881f0d46a378b1b2725ca49cdb530cb6e05c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Temruk",
+    "sanitizedSymbol": "TEMRUK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4638aeDf9c02EEf5B8288Dcfb6B5f2834fA78718",
+    "lpNftId": "1285355",
+    "lockerAddress": "0xc7479835C29705311bB1336b9923c3feA4eB4ad3"
+  },
+  "clankerInfo": null
+}

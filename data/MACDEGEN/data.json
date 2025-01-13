@@ -1,0 +1,22 @@
+{
+  "name": "MacDegen",
+  "symbol": "MacDegen",
+  "decimals": 18,
+  "description": "MacDegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MacDegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MacDegen",
+  "addresses": {
+    "8453": "0x09dbec61f195262ef75150b7c05a026cfc6521f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MacDegen",
+    "sanitizedSymbol": "MACDEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5F6e32bdC8c6613097B48De225C2d3281527eB56",
+    "lpNftId": "1312052",
+    "lockerAddress": "0xE4eDCBbFD9831884c1caeA7Ed84417f5f3A88691"
+  },
+  "clankerInfo": null
+}

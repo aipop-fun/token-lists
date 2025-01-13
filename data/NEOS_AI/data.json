@@ -1,0 +1,22 @@
+{
+  "name": "Neos.ai",
+  "symbol": "Neos.ai",
+  "decimals": 18,
+  "description": "Neos.ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neos.ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neos.ai",
+  "addresses": {
+    "8453": "0x2ea4f64a18989a66b6d69df74736733c2f33178b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neos.ai",
+    "sanitizedSymbol": "NEOS_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7Fe238f7b760ECF6774a6cF650C662328F104fCe",
+    "lpNftId": "1320341",
+    "lockerAddress": "0xb111df9b9B3Fbe1fbA36eDf548f3578D471B90A2"
+  },
+  "clankerInfo": null
+}

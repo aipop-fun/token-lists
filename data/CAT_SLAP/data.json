@@ -1,0 +1,22 @@
+{
+  "name": "Cat Slap",
+  "symbol": "Cat Slap",
+  "decimals": 18,
+  "description": "Cat Slap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Slap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Slap",
+  "addresses": {
+    "8453": "0x23a7cef3da940dcf9aa33ea1936af3d5e1d778fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Slap",
+    "sanitizedSymbol": "CAT_SLAP",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0A72898D7f63C066885f9cC680eFb5f188594b6C",
+    "lpNftId": "1265696",
+    "lockerAddress": "0x9A270aCbf1b7261aFa215DB4369894b6F64b1610"
+  },
+  "clankerInfo": null
+}

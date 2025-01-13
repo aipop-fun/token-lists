@@ -1,0 +1,22 @@
+{
+  "name": "SealOfApproval",
+  "symbol": "SealOfApproval",
+  "decimals": 18,
+  "description": "SealOfApproval is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SealOfApproval",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SealOfApproval",
+  "addresses": {
+    "8453": "0x3d1ef3c7e528c7f995c4d571b404274d3291627f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SealOfApproval",
+    "sanitizedSymbol": "SEALOFAPPROVAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156884",
+    "lockerAddress": "0xD37061F8780bd7DBEBB8333cFb88ceAe6C30F298"
+  },
+  "clankerInfo": null
+}

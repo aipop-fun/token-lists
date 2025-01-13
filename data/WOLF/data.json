@@ -1,0 +1,22 @@
+{
+  "name": "Wolf",
+  "symbol": "Wolf",
+  "decimals": 18,
+  "description": "Wolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wolf",
+  "addresses": {
+    "8453": "0x4099fa89a008ac1a5a1f6d2b8e92383f9b52e24f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wolf",
+    "sanitizedSymbol": "WOLF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222404",
+    "lockerAddress": "0x3884403Dc19792FCDdFF8144215fd67Ef54385C6"
+  },
+  "clankerInfo": null
+}

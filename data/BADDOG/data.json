@@ -1,0 +1,22 @@
+{
+  "name": "BADDOG",
+  "symbol": "BADDOG",
+  "decimals": 18,
+  "description": "BADDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BADDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BADDOG",
+  "addresses": {
+    "8453": "0x294c5c1b6080768ee5d41807bd72f44429b404d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BADDOG",
+    "sanitizedSymbol": "BADDOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224660",
+    "lockerAddress": "0xf3F4C5d1ee219e4CD0dD4bc0C7F78C5009bbFF96"
+  },
+  "clankerInfo": null
+}

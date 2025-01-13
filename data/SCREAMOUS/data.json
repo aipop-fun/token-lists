@@ -1,0 +1,22 @@
+{
+  "name": "screamous",
+  "symbol": "screamous",
+  "decimals": 18,
+  "description": "screamous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=screamous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "screamous",
+  "addresses": {
+    "8453": "0x20eacfa44885399929f8e2687d918449b47468ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "screamous",
+    "sanitizedSymbol": "SCREAMOUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4155fFd04d1cff0617D93eB1172D74F2BB994343",
+    "lpNftId": "1324046",
+    "lockerAddress": "0x7c8d950379195d2c93CFcfa5B0e555b6e784e63d"
+  },
+  "clankerInfo": null
+}

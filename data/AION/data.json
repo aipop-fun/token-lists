@@ -1,0 +1,22 @@
+{
+  "name": "AION",
+  "symbol": "AION",
+  "decimals": 18,
+  "description": "AION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AION",
+  "addresses": {
+    "8453": "0x0438d8f02154c4627ffb849c270b6472d0eda08e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AION",
+    "sanitizedSymbol": "AION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162983",
+    "lockerAddress": "0x1b15D411748Ef0F55543b46E509C921747705b47"
+  },
+  "clankerInfo": null
+}

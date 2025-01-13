@@ -1,0 +1,22 @@
+{
+  "name": "nekoma",
+  "symbol": "nekoma",
+  "decimals": 18,
+  "description": "nekoma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nekoma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nekoma",
+  "addresses": {
+    "8453": "0x1002441dd7c4bc17b6c1d3bc7ffc51d99aa07679"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nekoma",
+    "sanitizedSymbol": "NEKOMA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129088",
+    "lockerAddress": "0x4bf768d270F26B378aB2083B8ce6D50c6d102998"
+  },
+  "clankerInfo": null
+}

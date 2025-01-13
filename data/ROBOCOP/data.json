@@ -1,0 +1,22 @@
+{
+  "name": "Robocop",
+  "symbol": "Robocop",
+  "decimals": 18,
+  "description": "Robocop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Robocop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Robocop",
+  "addresses": {
+    "8453": "0x196fc1a236569a27c48a48af428e114b78a0dc24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Robocop",
+    "sanitizedSymbol": "ROBOCOP",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcFfCFa61970958eAb40adbfaab46a44305c9C444",
+    "lpNftId": "1268757",
+    "lockerAddress": "0x6d503C9C083dd43682Ff8D5b039e22d2b8C74BFb"
+  },
+  "clankerInfo": null
+}

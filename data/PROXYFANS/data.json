@@ -1,0 +1,22 @@
+{
+  "name": "PROXYFANS",
+  "symbol": "PROXYFANS",
+  "decimals": 18,
+  "description": "PROXYFANS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROXYFANS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROXYFANS",
+  "addresses": {
+    "8453": "0x2b38f805d504d463b36b65e8ae716ec6448f0a14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROXYFANS",
+    "sanitizedSymbol": "PROXYFANS",
+    "created_at": "2024-12-11T02:11:17.063185",
+    "deployer": "0x95eC9ed60386862e5dB1E3313D7D5019202c6059",
+    "lpNftId": "1410579",
+    "lockerAddress": "0x31223d7Ece2027829A5A7620a3277cC838e17019"
+  },
+  "clankerInfo": null
+}

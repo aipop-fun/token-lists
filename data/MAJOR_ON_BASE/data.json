@@ -1,0 +1,22 @@
+{
+  "name": "MAJOR ON BASE",
+  "symbol": "MAJOR ON BASE",
+  "decimals": 18,
+  "description": "MAJOR ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAJOR%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAJOR ON BASE",
+  "addresses": {
+    "8453": "0x2445c67ba746ad0798993039eda3c7c8c890ee15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAJOR ON BASE",
+    "sanitizedSymbol": "MAJOR_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235463",
+    "lockerAddress": "0xE89521192d19BeC71D291Be366871C2c5BE436bf"
+  },
+  "clankerInfo": null
+}

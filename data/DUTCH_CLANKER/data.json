@@ -1,0 +1,22 @@
+{
+  "name": "Dutch Clanker",
+  "symbol": "Dutch Clanker",
+  "decimals": 18,
+  "description": "Dutch Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dutch%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dutch Clanker",
+  "addresses": {
+    "8453": "0x166340da8271bca4281b5cdcd59d1bc72096a054"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dutch Clanker",
+    "sanitizedSymbol": "DUTCH_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232682",
+    "lockerAddress": "0x57aFCe745D7304ddB6E2ba92035561A8Fa9C08CD"
+  },
+  "clankerInfo": null
+}

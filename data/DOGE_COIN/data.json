@@ -1,0 +1,22 @@
+{
+  "name": "Doge Coin",
+  "symbol": "Doge Coin",
+  "decimals": 18,
+  "description": "Doge Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doge%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doge Coin",
+  "addresses": {
+    "8453": "0x3e65c9b5dd6b5e2833fe64829dc4373b0e0b7dcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doge Coin",
+    "sanitizedSymbol": "DOGE_COIN",
+    "created_at": "2024-12-12T17:33:53.290944",
+    "deployer": "0xA8AF2fA40Ed56361a4e7DDe31F89Fe6BD78f798c",
+    "lpNftId": "1439657",
+    "lockerAddress": "0x1AeD20Cad99Ca092e454AE86e57b234181b6045f"
+  },
+  "clankerInfo": null
+}

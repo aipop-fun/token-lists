@@ -1,0 +1,22 @@
+{
+  "name": "Banana Bread",
+  "symbol": "Banana Bread",
+  "decimals": 18,
+  "description": "Banana Bread is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banana%20Bread",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banana Bread",
+  "addresses": {
+    "8453": "0x3290cb392bce992b3ada99b66fe2c443435ded2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banana Bread",
+    "sanitizedSymbol": "BANANA_BREAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219063",
+    "lockerAddress": "0x9cf755d52E1B35372040fC693bBc945fdFD62CA8"
+  },
+  "clankerInfo": null
+}

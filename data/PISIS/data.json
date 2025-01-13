@@ -1,0 +1,22 @@
+{
+  "name": "pisis",
+  "symbol": "pisis",
+  "decimals": 18,
+  "description": "pisis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pisis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pisis",
+  "addresses": {
+    "8453": "0x30184d063d1ba8ae1bccbcf7002512662e907861"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pisis",
+    "sanitizedSymbol": "PISIS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234084",
+    "lockerAddress": "0x859B039e58a12a6B3FAc2861D2c175eA8a47509F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Queenyoona",
+  "symbol": "Queenyoona",
+  "decimals": 18,
+  "description": "Queenyoona is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Queenyoona",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Queenyoona",
+  "addresses": {
+    "8453": "0x0fe2b9c231da1e5a7f72aafd006c7d5965c79fd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Queenyoona",
+    "sanitizedSymbol": "QUEENYOONA",
+    "created_at": "2024-12-12T05:56:51.689091",
+    "deployer": "0x697C132b7f7231a0e35Bd0237150854Fd2C65361",
+    "lpNftId": "1429473",
+    "lockerAddress": "0x2CaCbB452558a80Fc6bDb6c38F6780209af490c0"
+  },
+  "clankerInfo": null
+}

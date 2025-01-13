@@ -1,0 +1,22 @@
+{
+  "name": "xtraterrestrial",
+  "symbol": "xtraterrestrial",
+  "decimals": 18,
+  "description": "xtraterrestrial is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xtraterrestrial",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xtraterrestrial",
+  "addresses": {
+    "8453": "0x2a13ae2ee7f6895e938a30b574fcc746d9047138"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xtraterrestrial",
+    "sanitizedSymbol": "XTRATERRESTRIAL",
+    "created_at": "2024-12-12T19:36:07.39916",
+    "deployer": "0xd6be1b6207b294c0A81cA9bD69d29369B8934d61",
+    "lpNftId": "1441741",
+    "lockerAddress": "0x66b9672fF36f7E516C2da785059C9782C096f0cD"
+  },
+  "clankerInfo": null
+}

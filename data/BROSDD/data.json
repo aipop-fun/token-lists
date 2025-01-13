@@ -1,0 +1,22 @@
+{
+  "name": "brosdd",
+  "symbol": "brosdd",
+  "decimals": 18,
+  "description": "brosdd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brosdd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brosdd",
+  "addresses": {
+    "8453": "0x265b0a8f5a1f7e89c04f53f70afe729fd7ecef5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brosdd",
+    "sanitizedSymbol": "BROSDD",
+    "created_at": "2024-12-12T16:19:58.177881",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1438356",
+    "lockerAddress": "0xebaF3B2Ac639b62C87be2ee75a9d58CCE6Df47FF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "moonrabbits",
+  "symbol": "moonrabbits",
+  "decimals": 18,
+  "description": "moonrabbits is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moonrabbits",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moonrabbits",
+  "addresses": {
+    "8453": "0x378eaae44c18fc025be918c86ad18d16e23f1644"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moonrabbits",
+    "sanitizedSymbol": "MOONRABBITS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x007678a2Fb7EE0E04a6B1ae37ff7fd6CFb22046A",
+    "lpNftId": "1287575",
+    "lockerAddress": "0xc170fed729Ed1466216ca7DD7242639EA82a8a40"
+  },
+  "clankerInfo": null
+}

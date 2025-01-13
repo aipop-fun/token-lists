@@ -1,0 +1,22 @@
+{
+  "name": "ChillBot",
+  "symbol": "ChillBot",
+  "decimals": 18,
+  "description": "ChillBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillBot",
+  "addresses": {
+    "8453": "0x07f11d72540bfb7f3473ee9131e636fa65f718df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillBot",
+    "sanitizedSymbol": "CHILLBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x130CC6C031a0c4d5D71037555c88503B20A33695",
+    "lpNftId": "1321009",
+    "lockerAddress": "0x5e9DDEA5caC2e77598440637139Dd7984EA89a66"
+  },
+  "clankerInfo": null
+}

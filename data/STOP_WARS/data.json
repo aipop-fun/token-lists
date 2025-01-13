@@ -1,0 +1,22 @@
+{
+  "name": "Stop wars",
+  "symbol": "Stop wars",
+  "decimals": 18,
+  "description": "Stop wars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stop%20wars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stop wars",
+  "addresses": {
+    "8453": "0x02c1ce0512ac1bf4321fabdb1d28972174c172b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stop wars",
+    "sanitizedSymbol": "STOP_WARS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0C5B0fa4544c93F7c3535bf4674E33345adF3ac6",
+    "lpNftId": "1252642",
+    "lockerAddress": "0xD698ADC068AEbcbBcFF9E3e643B3C43B858286A8"
+  },
+  "clankerInfo": null
+}

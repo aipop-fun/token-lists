@@ -1,0 +1,22 @@
+{
+  "name": "Warpcast Called",
+  "symbol": "Warpcast Called",
+  "decimals": 18,
+  "description": "Warpcast Called is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpcast%20Called",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpcast Called",
+  "addresses": {
+    "8453": "0x3988d95ab663597ed0016f848c47c0d575df9a92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpcast Called",
+    "sanitizedSymbol": "WARPCAST_CALLED",
+    "created_at": "2024-12-11T00:07:49.16966",
+    "deployer": "0x3E42B92fE2EBC56cE9Ef968579B216B3957a39FB",
+    "lpNftId": "1408675",
+    "lockerAddress": "0x10e65B45D73c410e4F620Ac4c592E6E724cD5Ca5"
+  },
+  "clankerInfo": null
+}

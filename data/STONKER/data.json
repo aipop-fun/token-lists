@@ -1,0 +1,22 @@
+{
+  "name": "Stonker",
+  "symbol": "Stonker",
+  "decimals": 18,
+  "description": "Stonker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stonker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stonker",
+  "addresses": {
+    "8453": "0x27fd4ee8bc4a0b37e36989d760283c6838a411dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stonker",
+    "sanitizedSymbol": "STONKER",
+    "created_at": "2024-12-10T17:15:48.795951",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1404410",
+    "lockerAddress": "0x0433D3DbDd77e7d17a78532E205e963A501b99dB"
+  },
+  "clankerInfo": null
+}

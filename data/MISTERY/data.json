@@ -1,0 +1,22 @@
+{
+  "name": "mistery",
+  "symbol": "mistery",
+  "decimals": 18,
+  "description": "mistery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mistery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mistery",
+  "addresses": {
+    "8453": "0x1b55ed68589ac4d10ef7f8fa4091fb52a2abb9c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mistery",
+    "sanitizedSymbol": "MISTERY",
+    "created_at": "2024-12-11T05:52:44.988687",
+    "deployer": "0xd301FFd877d3539140311605d72158bEedc80512",
+    "lpNftId": "1413658",
+    "lockerAddress": "0xC39FBff52acCac7b594e372AC2d831f266e3F9F1"
+  },
+  "clankerInfo": null
+}

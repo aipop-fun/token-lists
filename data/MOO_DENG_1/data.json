@@ -1,0 +1,22 @@
+{
+  "name": "Moo Deng",
+  "symbol": "Moo Deng",
+  "decimals": 18,
+  "description": "Moo Deng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moo%20Deng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moo Deng",
+  "addresses": {
+    "8453": "0x3a98d3edf0b75fdb170ef43f36080a10cf6e1ce6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moo Deng",
+    "sanitizedSymbol": "MOO_DENG_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF88fA5DD818A5eb84BACB370e844688215f9F607",
+    "lpNftId": "1323509",
+    "lockerAddress": "0xbeD10e7a33f08179b4C0a133CbDACB96DB569Eed"
+  },
+  "clankerInfo": null
+}

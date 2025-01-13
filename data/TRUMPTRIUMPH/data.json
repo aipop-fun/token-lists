@@ -1,0 +1,22 @@
+{
+  "name": "TrumpTriumph",
+  "symbol": "TrumpTriumph",
+  "decimals": 18,
+  "description": "TrumpTriumph is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrumpTriumph",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrumpTriumph",
+  "addresses": {
+    "8453": "0x0f8837cd1df60d35db3f7d1cc91bc964a85e790b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrumpTriumph",
+    "sanitizedSymbol": "TRUMPTRIUMPH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143957",
+    "lockerAddress": "0xE0c509C4C9005C8088eA5f3DA3A9789689811C9b"
+  },
+  "clankerInfo": null
+}

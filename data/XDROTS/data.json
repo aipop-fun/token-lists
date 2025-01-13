@@ -1,0 +1,22 @@
+{
+  "name": "XDROTS",
+  "symbol": "XDROTS",
+  "decimals": 18,
+  "description": "XDROTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XDROTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XDROTS",
+  "addresses": {
+    "8453": "0x3665a5159492f5fe9a457c64ed051957be9e7965"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XDROTS",
+    "sanitizedSymbol": "XDROTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1287707",
+    "lockerAddress": "0x1f6f86922C3747E857063d9dFA9fEf61600029bB"
+  },
+  "clankerInfo": null
+}

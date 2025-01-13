@@ -1,0 +1,22 @@
+{
+  "name": "Gro Wut",
+  "symbol": "Gro Wut",
+  "decimals": 18,
+  "description": "Gro Wut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gro%20Wut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gro Wut",
+  "addresses": {
+    "8453": "0x0049892762ffcfacce047e44c0fadcc572b84060"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gro Wut",
+    "sanitizedSymbol": "GRO_WUT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5e101f29db1dB07b04faeBc987A9B5D0df36c5B0",
+    "lpNftId": "1265364",
+    "lockerAddress": "0xb1B62fA7639263fc3d288439e23d5C33A3cba269"
+  },
+  "clankerInfo": null
+}

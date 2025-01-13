@@ -1,0 +1,22 @@
+{
+  "name": "XIONTOL",
+  "symbol": "XIONTOL",
+  "decimals": 18,
+  "description": "XIONTOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XIONTOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XIONTOL",
+  "addresses": {
+    "8453": "0x2c1711f9d36fcf24e813d6b3e1b1866559e79b07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XIONTOL",
+    "sanitizedSymbol": "XIONTOL",
+    "created_at": "2024-12-10T07:24:29.11362",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1397889",
+    "lockerAddress": "0x24A734A0c65dEd10B54d1C8D4d4bca375781a299"
+  },
+  "clankerInfo": null
+}

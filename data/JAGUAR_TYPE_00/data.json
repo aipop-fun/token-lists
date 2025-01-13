@@ -1,0 +1,22 @@
+{
+  "name": "Jaguar Type 00",
+  "symbol": "Jaguar Type 00",
+  "decimals": 18,
+  "description": "Jaguar Type 00 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jaguar%20Type%2000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jaguar Type 00",
+  "addresses": {
+    "8453": "0x025b8d1536a469b7ae2226a5b2495a09733cd6ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jaguar Type 00",
+    "sanitizedSymbol": "JAGUAR_TYPE_00",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1322928",
+    "lockerAddress": "0xD22169F7c83Ff0036cbb9D661DCAF0d3b9682630"
+  },
+  "clankerInfo": null
+}

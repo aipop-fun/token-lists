@@ -1,0 +1,22 @@
+{
+  "name": "notingcoin",
+  "symbol": "notingcoin",
+  "decimals": 18,
+  "description": "notingcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=notingcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "notingcoin",
+  "addresses": {
+    "8453": "0x2e5fe5965f92af25b08ad7ddc35262cc69cbfc13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "notingcoin",
+    "sanitizedSymbol": "NOTINGCOIN",
+    "created_at": "2024-12-11T03:16:47.460189",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411697",
+    "lockerAddress": "0x53fb89CDAd59aFf51532b032fA33f195c9070AF7"
+  },
+  "clankerInfo": null
+}

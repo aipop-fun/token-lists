@@ -1,0 +1,22 @@
+{
+  "name": "Black Clover",
+  "symbol": "Black Clover",
+  "decimals": 18,
+  "description": "Black Clover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Clover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Clover",
+  "addresses": {
+    "8453": "0x0d0b0612e3042af3079e66cf700c7ee19533637a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Clover",
+    "sanitizedSymbol": "BLACK_CLOVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xED3D77B817ECC98328986085419e3A0E264cfEcc",
+    "lpNftId": "1327719",
+    "lockerAddress": "0xd408B2F4E7De64b5c54162334d084102A2cF61F3"
+  },
+  "clankerInfo": null
+}

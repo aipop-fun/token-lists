@@ -1,0 +1,22 @@
+{
+  "name": "baseUzora",
+  "symbol": "baseUzora",
+  "decimals": 18,
+  "description": "baseUzora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baseUzora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baseUzora",
+  "addresses": {
+    "8453": "0x3cf44071dbd7f530b3c567aa76955f49d0ebc140"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baseUzora",
+    "sanitizedSymbol": "BASEUZORA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123463",
+    "lockerAddress": "0x29f1baB65Fc2a80D0b0041B4cc04FB26ef685095"
+  },
+  "clankerInfo": null
+}

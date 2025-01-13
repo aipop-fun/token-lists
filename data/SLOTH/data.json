@@ -1,0 +1,22 @@
+{
+  "name": "Sloth",
+  "symbol": "Sloth",
+  "decimals": 18,
+  "description": "Sloth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sloth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sloth",
+  "addresses": {
+    "8453": "0x40f2784affd2cf6b7e620d9e594d310b540dd584"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sloth",
+    "sanitizedSymbol": "SLOTH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x01B37Edd07Ea71Eaf552b6ef1B8DcFBb328e1F39",
+    "lpNftId": "1343929",
+    "lockerAddress": "0x9a729E3327250F89CAF4A5A68D1b478B4b7CE209"
+  },
+  "clankerInfo": null
+}

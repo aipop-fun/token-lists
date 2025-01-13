@@ -1,0 +1,22 @@
+{
+  "name": "test stream",
+  "symbol": "test stream",
+  "decimals": 18,
+  "description": "test stream is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=test%20stream",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "test stream",
+  "addresses": {
+    "8453": "0x072a76cdec449643616d0a17af499b70ec9ba9f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "test stream",
+    "sanitizedSymbol": "TEST_STREAM",
+    "created_at": "2024-12-10T11:55:55.13038",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1400452",
+    "lockerAddress": "0x2E4f49000416D33E14a10a39CF15254f3A184775"
+  },
+  "clankerInfo": null
+}

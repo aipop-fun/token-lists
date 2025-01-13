@@ -1,0 +1,22 @@
+{
+  "name": "this is crazy",
+  "symbol": "this is crazy",
+  "decimals": 18,
+  "description": "this is crazy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=this%20is%20crazy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "this is crazy",
+  "addresses": {
+    "8453": "0x2f8e3ab77a3860e4ac27e95cb06b3f152131e8f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "this is crazy",
+    "sanitizedSymbol": "THIS_IS_CRAZY",
+    "created_at": "2024-12-10T17:00:24.946171",
+    "deployer": "0x829775e92Ae029475E71068A9eFa48e260a04f50",
+    "lpNftId": "1404296",
+    "lockerAddress": "0xA6A3B4e74061bd91703C167940EB91699E33a959"
+  },
+  "clankerInfo": null
+}

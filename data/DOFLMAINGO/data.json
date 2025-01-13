@@ -1,0 +1,22 @@
+{
+  "name": "doflmaingo",
+  "symbol": "doflmaingo",
+  "decimals": 18,
+  "description": "doflmaingo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=doflmaingo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "doflmaingo",
+  "addresses": {
+    "8453": "0x3786e735c3a34b25bb0dac7b979097da83590884"
+  },
+  "tokenInfo": {
+    "originalSymbol": "doflmaingo",
+    "sanitizedSymbol": "DOFLMAINGO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202729",
+    "lockerAddress": "0xdeB14A3581185BF8CA6Ab6cfe5D160A143Bf9a73"
+  },
+  "clankerInfo": null
+}

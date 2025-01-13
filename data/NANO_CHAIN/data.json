@@ -1,0 +1,22 @@
+{
+  "name": "NANO CHAIN",
+  "symbol": "NANO CHAIN",
+  "decimals": 18,
+  "description": "NANO CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NANO%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NANO CHAIN",
+  "addresses": {
+    "8453": "0x416fb40ad9599fdd3a6ef37b51c15a3c6a84c530"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NANO CHAIN",
+    "sanitizedSymbol": "NANO_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195309",
+    "lockerAddress": "0x4Bd61FAd1CC9833db1f37CcB7500fde86B7AF5dA"
+  },
+  "clankerInfo": null
+}

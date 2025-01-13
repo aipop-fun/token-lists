@@ -1,0 +1,22 @@
+{
+  "name": "GFC",
+  "symbol": "GFC",
+  "decimals": 18,
+  "description": "GFC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GFC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GFC",
+  "addresses": {
+    "8453": "0x0104a5bf4b83f6a10893adc0cd3614408f1b18fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GFC",
+    "sanitizedSymbol": "GFC",
+    "created_at": "2024-12-11T16:31:36.24746",
+    "deployer": "0x1485F261192e033fbB8AA02A20E0f8e08460Ad56",
+    "lpNftId": "1421883",
+    "lockerAddress": "0xb3F39bbf3537D7B69cC09E3Eb170bb13718B2BE9"
+  },
+  "clankerInfo": null
+}

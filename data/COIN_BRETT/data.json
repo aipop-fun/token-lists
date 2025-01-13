@@ -1,0 +1,22 @@
+{
+  "name": "coin brett",
+  "symbol": "coin brett",
+  "decimals": 18,
+  "description": "coin brett is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=coin%20brett",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "coin brett",
+  "addresses": {
+    "8453": "0x09f8326e7cfff40b029f75c094007036e95ca7a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "coin brett",
+    "sanitizedSymbol": "COIN_BRETT",
+    "created_at": "2024-12-12T05:04:07.69156",
+    "deployer": "0x00dF0C64f6968B78A3f59eb432bdf57f33f0D23F",
+    "lpNftId": "1429298",
+    "lockerAddress": "0x4bBAE9AF5f10D2fBFA9760f4a7e7Ee79A07EEc42"
+  },
+  "clankerInfo": null
+}

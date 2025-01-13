@@ -1,0 +1,22 @@
+{
+  "name": "PEPA Clanker",
+  "symbol": "PEPA Clanker",
+  "decimals": 18,
+  "description": "PEPA Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPA%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPA Clanker",
+  "addresses": {
+    "8453": "0x0b6cc5febf372e665e7d457642e6e5d3af3b5a70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPA Clanker",
+    "sanitizedSymbol": "PEPA_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb18c61117DC1CcC6910b65B41177f2A21dfa2b6A",
+    "lpNftId": "1312445",
+    "lockerAddress": "0xbD187c4de3C576Ab4Ce50B2a45edE63D90EF52E9"
+  },
+  "clankerInfo": null
+}

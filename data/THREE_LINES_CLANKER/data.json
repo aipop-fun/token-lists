@@ -1,0 +1,22 @@
+{
+  "name": "Three Lines Clanker",
+  "symbol": "Three Lines Clanker",
+  "decimals": 18,
+  "description": "Three Lines Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Three%20Lines%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Three Lines Clanker",
+  "addresses": {
+    "8453": "0x38d98685e292c34d2f3749baf0b1ea0628683dad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Three Lines Clanker",
+    "sanitizedSymbol": "THREE_LINES_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0d0198c9F9719951a6e1f7f7A4036909aF7Ca31A",
+    "lpNftId": "1324017",
+    "lockerAddress": "0x0C840F099CB58526cB031f978cbA4803FE03598D"
+  },
+  "clankerInfo": null
+}

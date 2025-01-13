@@ -1,0 +1,22 @@
+{
+  "name": "Divine",
+  "symbol": "Divine",
+  "decimals": 18,
+  "description": "Divine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Divine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Divine",
+  "addresses": {
+    "8453": "0x32ec61cbc675fe3d8b56dc6f365980137f7de07a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Divine",
+    "sanitizedSymbol": "DIVINE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220455",
+    "lockerAddress": "0x195A048F3D951F40ac3D2FF2DDf3e1203cdeB61A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dipssy",
+  "symbol": "dipssy",
+  "decimals": 18,
+  "description": "dipssy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dipssy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dipssy",
+  "addresses": {
+    "8453": "0x154d058279689273141cf70f23e51f6f5074f38e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dipssy",
+    "sanitizedSymbol": "DIPSSY",
+    "created_at": "2024-12-09T05:09:28.439225",
+    "deployer": "0x360347b756C94A2241833b1712dF5C265d7c28B3",
+    "lpNftId": "1382982",
+    "lockerAddress": "0x2075fa28C8673a59211771285720402D4F7012AB"
+  },
+  "clankerInfo": null
+}

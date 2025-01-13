@@ -1,0 +1,22 @@
+{
+  "name": "BASED DROID",
+  "symbol": "BASED DROID",
+  "decimals": 18,
+  "description": "BASED DROID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20DROID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED DROID",
+  "addresses": {
+    "8453": "0x1ca48eaad4640cbeba4e62ab1a0d846c82ccb6aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED DROID",
+    "sanitizedSymbol": "BASED_DROID",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC1B106C5C81DcF67A3aad9Db12dcb7C5445e1677",
+    "lpNftId": "1252612",
+    "lockerAddress": "0xC4166ED504644581cB62686D79408dbbdee75782"
+  },
+  "clankerInfo": null
+}

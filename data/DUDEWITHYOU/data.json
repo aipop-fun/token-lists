@@ -1,0 +1,22 @@
+{
+  "name": "DudeWithYou",
+  "symbol": "DudeWithYou",
+  "decimals": 18,
+  "description": "DudeWithYou is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DudeWithYou",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DudeWithYou",
+  "addresses": {
+    "8453": "0x3b1da929df41c62d39958a5adab1f983548bb6a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DudeWithYou",
+    "sanitizedSymbol": "DUDEWITHYOU",
+    "created_at": "2024-12-10T01:17:35.268412",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1394223",
+    "lockerAddress": "0x0089Ee8e24166037fe386E8aA0135a7486Dcf9a3"
+  },
+  "clankerInfo": null
+}

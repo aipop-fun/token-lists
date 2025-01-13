@@ -1,0 +1,22 @@
+{
+  "name": "DORY",
+  "symbol": "DORY",
+  "decimals": 18,
+  "description": "DORY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DORY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DORY",
+  "addresses": {
+    "8453": "0x0b3317e2197d04535222dc59eed0966e57f89c5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DORY",
+    "sanitizedSymbol": "DORY",
+    "created_at": "2024-12-11T00:29:27.14623",
+    "deployer": "0x2DC92aA78358310A87276cF6f893F48E896d8Fc5",
+    "lpNftId": "1408925",
+    "lockerAddress": "0x754b603ee16335D04d3A212372c1520A3139d57e"
+  },
+  "clankerInfo": null
+}

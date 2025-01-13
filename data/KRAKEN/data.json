@@ -1,0 +1,22 @@
+{
+  "name": "KRAKEN",
+  "symbol": "KRAKEN",
+  "decimals": 18,
+  "description": "KRAKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KRAKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KRAKEN",
+  "addresses": {
+    "8453": "0x3ccd97a074ae1e5a992a9cd6b6b6d80f8026dac4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KRAKEN",
+    "sanitizedSymbol": "KRAKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224470",
+    "lockerAddress": "0xBD106bb0989c312021d9163c0F7Be9565917BBB9"
+  },
+  "clankerInfo": null
+}

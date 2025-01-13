@@ -1,0 +1,22 @@
+{
+  "name": "btcoin",
+  "symbol": "btcoin",
+  "decimals": 18,
+  "description": "btcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=btcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "btcoin",
+  "addresses": {
+    "8453": "0x13e8b590c2e9aec45c9f4a95f55aec6aea9efa0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "btcoin",
+    "sanitizedSymbol": "BTCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x939f281d10ED47257fdFcE6ad929d46283F832c9",
+    "lpNftId": "1312650",
+    "lockerAddress": "0xf113a907f18d0513Ae2F2103b5e3d038Fa817d5c"
+  },
+  "clankerInfo": null
+}

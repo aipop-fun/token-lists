@@ -1,0 +1,22 @@
+{
+  "name": "Eagles",
+  "symbol": "Eagles",
+  "decimals": 18,
+  "description": "Eagles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eagles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eagles",
+  "addresses": {
+    "8453": "0x294740b86dbfb41b46483d70752813004f05873a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eagles",
+    "sanitizedSymbol": "EAGLES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224042",
+    "lockerAddress": "0x42672B9EBf1b97e58be582c3f0cEd5E79C0c7e56"
+  },
+  "clankerInfo": null
+}

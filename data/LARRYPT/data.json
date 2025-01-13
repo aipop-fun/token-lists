@@ -1,0 +1,22 @@
+{
+  "name": "LarryPT",
+  "symbol": "LarryPT",
+  "decimals": 18,
+  "description": "LarryPT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LarryPT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LarryPT",
+  "addresses": {
+    "8453": "0x128bd96ce1b4b3001c3f0f62c303f23f3984a67f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LarryPT",
+    "sanitizedSymbol": "LARRYPT",
+    "created_at": "2024-12-11T15:16:34.424425",
+    "deployer": "0x8fC71Fd880C431D1E62Bb07Cc3f4436a37821e7b",
+    "lpNftId": "1420863",
+    "lockerAddress": "0x2b3076703B9a3e8A1844e75126eba423eA13D1a7"
+  },
+  "clankerInfo": null
+}

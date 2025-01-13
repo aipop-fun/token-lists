@@ -1,0 +1,22 @@
+{
+  "name": "FelpsMiera",
+  "symbol": "FelpsMiera",
+  "decimals": 18,
+  "description": "FelpsMiera is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FelpsMiera",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FelpsMiera",
+  "addresses": {
+    "8453": "0x0765cf22a54dc0bdd66a9ee19173b0236e41b3ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FelpsMiera",
+    "sanitizedSymbol": "FELPSMIERA_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBF88e9E0F0bd3E0F1A76D02A573512e63b26299C",
+    "lpNftId": "1326793",
+    "lockerAddress": "0xB4C887Da52F72B7bDaacCA79EBe09a8C07C4eBB2"
+  },
+  "clankerInfo": null
+}

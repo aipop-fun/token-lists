@@ -1,0 +1,22 @@
+{
+  "name": "Chiblings",
+  "symbol": "Chiblings",
+  "decimals": 18,
+  "description": "Chiblings is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chiblings",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chiblings",
+  "addresses": {
+    "8453": "0x2fe87a3b6e1e0c971698b19ac7c8aa315495c205"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chiblings",
+    "sanitizedSymbol": "CHIBLINGS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153643",
+    "lockerAddress": "0x62EA08606ae8984552dE56996cD7AA13393822ea"
+  },
+  "clankerInfo": null
+}

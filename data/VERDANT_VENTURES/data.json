@@ -1,0 +1,22 @@
+{
+  "name": "Verdant Ventures",
+  "symbol": "Verdant Ventures",
+  "decimals": 18,
+  "description": "Verdant Ventures is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Verdant%20Ventures",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Verdant Ventures",
+  "addresses": {
+    "8453": "0x1c8a7976a240584e7d27d059d04a346386bc6348"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Verdant Ventures",
+    "sanitizedSymbol": "VERDANT_VENTURES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1148425",
+    "lockerAddress": "0xE1aCeCCeE1DC431dE3eFd9b74C608B6Fb89623E0"
+  },
+  "clankerInfo": null
+}

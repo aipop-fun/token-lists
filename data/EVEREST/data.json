@@ -1,0 +1,22 @@
+{
+  "name": "EVEREST",
+  "symbol": "EVEREST",
+  "decimals": 18,
+  "description": "EVEREST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EVEREST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EVEREST",
+  "addresses": {
+    "8453": "0x3dda39ee0951ee9a05c9b87cda6c00ead6f9db92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EVEREST",
+    "sanitizedSymbol": "EVEREST",
+    "created_at": "2024-12-10T16:29:50.924924",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1404055",
+    "lockerAddress": "0xaa3707Ec18e294620e20b27B97A6e89b48C498AD"
+  },
+  "clankerInfo": null
+}

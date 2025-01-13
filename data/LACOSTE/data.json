@@ -1,0 +1,22 @@
+{
+  "name": "Lacoste",
+  "symbol": "Lacoste",
+  "decimals": 18,
+  "description": "Lacoste is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lacoste",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lacoste",
+  "addresses": {
+    "8453": "0x3aeca87d239324472bc010cd3c7c48912c84d01e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lacoste",
+    "sanitizedSymbol": "LACOSTE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220725",
+    "lockerAddress": "0x44C98F3554cD5BAFFaE2E977227510c34d904a94"
+  },
+  "clankerInfo": null
+}

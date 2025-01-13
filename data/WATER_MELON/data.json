@@ -1,0 +1,22 @@
+{
+  "name": "water melon",
+  "symbol": "water melon",
+  "decimals": 18,
+  "description": "water melon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=water%20melon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "water melon",
+  "addresses": {
+    "8453": "0x2f300c60769b4830a551359e6f4016c4f3a0a8a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "water melon",
+    "sanitizedSymbol": "WATER_MELON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7eb52e1Fb6B84645D841004b934f9f8fF819fDcd",
+    "lpNftId": "1253467",
+    "lockerAddress": "0x2B1949C27B8c94b0bE0D96a2D99ac97BD9AB198C"
+  },
+  "clankerInfo": null
+}

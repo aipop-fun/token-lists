@@ -1,0 +1,22 @@
+{
+  "name": "megaclanker",
+  "symbol": "megaclanker",
+  "decimals": 18,
+  "description": "megaclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=megaclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "megaclanker",
+  "addresses": {
+    "8453": "0x07575af6e20d393431b6041307632cb95213612d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "megaclanker",
+    "sanitizedSymbol": "MEGACLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x69925c021b87D8892C7539Cb6041952f64BF760A",
+    "lpNftId": "1263851",
+    "lockerAddress": "0xadc29Ed7d54E8edd10874a93B9d0C5e4F5670513"
+  },
+  "clankerInfo": null
+}

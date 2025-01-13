@@ -1,0 +1,22 @@
+{
+  "name": "TEAL LEAF",
+  "symbol": "TEAL LEAF",
+  "decimals": 18,
+  "description": "TEAL LEAF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEAL%20LEAF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEAL LEAF",
+  "addresses": {
+    "8453": "0x06958e04fd197e296cc98f57a0fbc8eb3d785234"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEAL LEAF",
+    "sanitizedSymbol": "TEAL_LEAF",
+    "created_at": "2024-12-11T00:15:57.446695",
+    "deployer": "0xCF7922292228ef6dfd06C65c7451a87722D70425",
+    "lpNftId": "1408797",
+    "lockerAddress": "0x55304DD38cAc4D1aEd62271b6E18Fa4D3c9258cE"
+  },
+  "clankerInfo": null
+}

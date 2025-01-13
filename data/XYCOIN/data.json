@@ -1,0 +1,22 @@
+{
+  "name": "xycoin",
+  "symbol": "xycoin",
+  "decimals": 18,
+  "description": "xycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xycoin",
+  "addresses": {
+    "8453": "0x1dcc626db75c1bb404d673a1acaa13a5adf22ff4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xycoin",
+    "sanitizedSymbol": "XYCOIN",
+    "created_at": "2024-12-10T22:48:03.183625",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408111",
+    "lockerAddress": "0x3dDbb5591F26FF0dee1A49a40184994d4cFb00c4"
+  },
+  "clankerInfo": null
+}

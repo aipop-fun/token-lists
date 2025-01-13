@@ -1,0 +1,22 @@
+{
+  "name": "Clench",
+  "symbol": "Clench",
+  "decimals": 18,
+  "description": "Clench is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clench",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clench",
+  "addresses": {
+    "8453": "0x3e9839bb4c196f821c7065b925e15820992b35b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clench",
+    "sanitizedSymbol": "CLENCH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229847",
+    "lockerAddress": "0xCfD2876a3C91E9c226FC5A491DB18D76216Ce0D5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "clankshiba",
+  "symbol": "clankshiba",
+  "decimals": 18,
+  "description": "clankshiba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankshiba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankshiba",
+  "addresses": {
+    "8453": "0x271599eafa31a3706c24d2470217cf85cd995432"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankshiba",
+    "sanitizedSymbol": "CLANKSHIBA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x57202e0fd970d314c414825139e8bd0a743a3a80",
+    "lpNftId": "1263922",
+    "lockerAddress": "0x50fca32a71f46B00169E922D0d6BB6D1b08ADeB0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "starship",
+  "symbol": "starship",
+  "decimals": 18,
+  "description": "starship is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=starship",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "starship",
+  "addresses": {
+    "8453": "0x20390524cb68e250c1a87d03f4c2660269b81495"
+  },
+  "tokenInfo": {
+    "originalSymbol": "starship",
+    "sanitizedSymbol": "STARSHIP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195827",
+    "lockerAddress": "0xFB16e9482AA512bdf5Df56015d3EB9a7023b8831"
+  },
+  "clankerInfo": null
+}

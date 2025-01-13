@@ -1,0 +1,22 @@
+{
+  "name": "pausscoins",
+  "symbol": "pausscoins",
+  "decimals": 18,
+  "description": "pausscoins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pausscoins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pausscoins",
+  "addresses": {
+    "8453": "0x257cef355f9bc411eff33c5e2052924c35f4fa6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pausscoins",
+    "sanitizedSymbol": "PAUSSCOINS",
+    "created_at": "2024-12-11T07:50:16.482835",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1414283",
+    "lockerAddress": "0xeDd7006d52b5754ae68014802A0AfBADc541C708"
+  },
+  "clankerInfo": null
+}

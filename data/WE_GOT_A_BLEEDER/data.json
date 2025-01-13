@@ -1,0 +1,22 @@
+{
+  "name": "We got a bleeder",
+  "symbol": "We got a bleeder",
+  "decimals": 18,
+  "description": "We got a bleeder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=We%20got%20a%20bleeder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "We got a bleeder",
+  "addresses": {
+    "8453": "0x04ebd39c809f5350c3e08c752062fd84b71e1d63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "We got a bleeder",
+    "sanitizedSymbol": "WE_GOT_A_BLEEDER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4a3e6E66f8C32bC05A50879f872B1177A1573CDF",
+    "lpNftId": "1348711",
+    "lockerAddress": "0x4d223c69d89A72B26563598FD93c559977d85802"
+  },
+  "clankerInfo": null
+}

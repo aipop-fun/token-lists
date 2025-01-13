@@ -1,0 +1,22 @@
+{
+  "name": "TUNA",
+  "symbol": "TUNA",
+  "decimals": 18,
+  "description": "TUNA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TUNA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TUNA",
+  "addresses": {
+    "8453": "0x1ea773f09d4ad1c2baa15d87ac8fa285e4c3b16d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TUNA",
+    "sanitizedSymbol": "TUNA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1320597",
+    "lockerAddress": "0x5f4ccf2f39974ECF47AB79655d0AF9C93A39D8bD"
+  },
+  "clankerInfo": null
+}

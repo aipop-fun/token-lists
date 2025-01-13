@@ -1,0 +1,22 @@
+{
+  "name": "$kull",
+  "symbol": "$kull",
+  "decimals": 18,
+  "description": "$kull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24kull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$kull",
+  "addresses": {
+    "8453": "0x0f090b9e83b56841612f8e91f336650efb3f8274"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$kull",
+    "sanitizedSymbol": "KULL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152240",
+    "lockerAddress": "0x0143F5D1C5Ed8455b5C81FED9731eC8A68bB4751"
+  },
+  "clankerInfo": null
+}

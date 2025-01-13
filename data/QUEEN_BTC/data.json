@@ -1,0 +1,22 @@
+{
+  "name": "♛ Queen BTC",
+  "symbol": "♛ Queen BTC",
+  "decimals": 18,
+  "description": "♛ Queen BTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E2%99%9B%20Queen%20BTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "♛ Queen BTC",
+  "addresses": {
+    "8453": "0x13492b24ec18aea9e37afb79a445c3d3f0f4bd42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "♛ Queen BTC",
+    "sanitizedSymbol": "QUEEN_BTC",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xBF80746F5F47260Be039affB6A9f5787ADBC158B",
+    "lpNftId": "1263563",
+    "lockerAddress": "0xbe73F7b8ecDc24aF9fE765A8a33b802eb156c021"
+  },
+  "clankerInfo": null
+}

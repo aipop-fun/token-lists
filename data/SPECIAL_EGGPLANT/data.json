@@ -1,0 +1,22 @@
+{
+  "name": "special Eggplant",
+  "symbol": "special Eggplant",
+  "decimals": 18,
+  "description": "special Eggplant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=special%20Eggplant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "special Eggplant",
+  "addresses": {
+    "8453": "0x367f598fd790986521b39874bc45f0ed8d7b83ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "special Eggplant",
+    "sanitizedSymbol": "SPECIAL_EGGPLANT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x64b532e03260Bf39cB89A1a6e0f6884f1c144346",
+    "lpNftId": "1319560",
+    "lockerAddress": "0xD5730ecA64F1DeDf025B3C8fCAaAA3B632014fFb"
+  },
+  "clankerInfo": null
+}

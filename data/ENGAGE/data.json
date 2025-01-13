@@ -1,0 +1,22 @@
+{
+  "name": "ENGAGE!",
+  "symbol": "ENGAGE!",
+  "decimals": 18,
+  "description": "ENGAGE! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ENGAGE!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ENGAGE!",
+  "addresses": {
+    "8453": "0x171766a291c3658590875f70f993a5d83148c55a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ENGAGE!",
+    "sanitizedSymbol": "ENGAGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1335988",
+    "lockerAddress": "0x0A10Abd9D4641EC1AC32D757fa760F7f0431400E"
+  },
+  "clankerInfo": null
+}

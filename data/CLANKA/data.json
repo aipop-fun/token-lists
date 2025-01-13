@@ -1,0 +1,22 @@
+{
+  "name": "CLANKA!",
+  "symbol": "CLANKA!",
+  "decimals": 18,
+  "description": "CLANKA! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKA!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKA!",
+  "addresses": {
+    "8453": "0x238343be8f35fc4b1747b630b7272b27c82b4e42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKA!",
+    "sanitizedSymbol": "CLANKA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1361001",
+    "lockerAddress": "0xFB6df9e2326e042B9fc9fbB8bc5DCdc6B349f572"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sapovolador",
+  "symbol": "sapovolador",
+  "decimals": 18,
+  "description": "sapovolador is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sapovolador",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sapovolador",
+  "addresses": {
+    "8453": "0x3c8b4c52d9b5e59841b6075c43292c5ab506992d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sapovolador",
+    "sanitizedSymbol": "SAPOVOLADOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173136",
+    "lockerAddress": "0xc747710B5958F9bEDf440B22D9D7B52e941e7687"
+  },
+  "clankerInfo": null
+}

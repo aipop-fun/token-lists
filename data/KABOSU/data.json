@@ -1,0 +1,22 @@
+{
+  "name": "KABOSU",
+  "symbol": "KABOSU",
+  "decimals": 18,
+  "description": "KABOSU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KABOSU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KABOSU",
+  "addresses": {
+    "8453": "0x1971e213b24827cc9894e5fdd1ce78e4e6eecf30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KABOSU",
+    "sanitizedSymbol": "KABOSU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2F98d2926c2ba8dE96ffba969eFD635B617d7FE4",
+    "lpNftId": "1320695",
+    "lockerAddress": "0xFFA5807FA22CA7c991E5EB51D8bA67cE99740DeC"
+  },
+  "clankerInfo": null
+}

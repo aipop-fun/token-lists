@@ -1,0 +1,22 @@
+{
+  "name": "Tommybink",
+  "symbol": "Tommybink",
+  "decimals": 18,
+  "description": "Tommybink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tommybink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tommybink",
+  "addresses": {
+    "8453": "0x13bb5c9f4432bdc6c88a53dc68ee4da34f48e791"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tommybink",
+    "sanitizedSymbol": "TOMMYBINK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219416",
+    "lockerAddress": "0x1F1219ecD6e9b611f54BD5e8696FE7a404F416e2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tho",
+  "symbol": "tho",
+  "decimals": 18,
+  "description": "tho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tho",
+  "addresses": {
+    "8453": "0x3fb04503fcff1b01e526d2992f30d3357f0c31ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tho",
+    "sanitizedSymbol": "THO",
+    "created_at": "2024-12-09T19:58:25.470087",
+    "deployer": "0x44Ed63dD10703101122707463c1E03064EB1f03f",
+    "lpNftId": "1391293",
+    "lockerAddress": "0x7a4e929aE5143287304a782A75c67c599a840dB6"
+  },
+  "clankerInfo": null
+}

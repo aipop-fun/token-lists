@@ -1,0 +1,22 @@
+{
+  "name": "LUMIO",
+  "symbol": "LUMIO",
+  "decimals": 18,
+  "description": "LUMIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUMIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUMIO",
+  "addresses": {
+    "8453": "0x22ce060c81c2b2f24a5eac86ec59398846c7a89a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUMIO",
+    "sanitizedSymbol": "LUMIO_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9071061f7433929d741621220299BAceADb19ce0",
+    "lpNftId": "1252418",
+    "lockerAddress": "0x19996Da2b2dF3B86952243b05A0671dd110B8AB5"
+  },
+  "clankerInfo": null
+}

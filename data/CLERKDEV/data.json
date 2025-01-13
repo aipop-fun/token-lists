@@ -1,0 +1,22 @@
+{
+  "name": "ClerkDev",
+  "symbol": "ClerkDev",
+  "decimals": 18,
+  "description": "ClerkDev is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClerkDev",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClerkDev",
+  "addresses": {
+    "8453": "0x1e69049122e55a7fb53bca3502a09d19dd268b58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClerkDev",
+    "sanitizedSymbol": "CLERKDEV",
+    "created_at": "2024-12-11T03:12:25.727372",
+    "deployer": "0xA91903Ba2eB4Dd93F734BD40e25FCccCD32c7a47",
+    "lpNftId": "1411668",
+    "lockerAddress": "0x5c174de0b344A2420E61219C4E7E5BB7B75F169e"
+  },
+  "clankerInfo": null
+}

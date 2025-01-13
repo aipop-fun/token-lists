@@ -1,0 +1,22 @@
+{
+  "name": "Whiskey",
+  "symbol": "Whiskey",
+  "decimals": 18,
+  "description": "Whiskey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whiskey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whiskey",
+  "addresses": {
+    "8453": "0x336ec5407700d8d391fa09672c67971f64ae71d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whiskey",
+    "sanitizedSymbol": "WHISKEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125280",
+    "lockerAddress": "0xb7ac96Cfdb27934ffD30eb87e7243a24dDa43411"
+  },
+  "clankerInfo": null
+}

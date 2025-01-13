@@ -1,0 +1,22 @@
+{
+  "name": "HODOR",
+  "symbol": "HODOR",
+  "decimals": 18,
+  "description": "HODOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HODOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HODOR",
+  "addresses": {
+    "8453": "0x0be28b62eea3495fb9ad60256ba32c02fb51d186"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HODOR",
+    "sanitizedSymbol": "HODOR",
+    "created_at": "2024-12-12T03:40:57.050727",
+    "deployer": "0x19439fCdB55A5A16f44d9AdEEa68670414B3a5C6",
+    "lpNftId": "1428962",
+    "lockerAddress": "0x04fD4C8F8c597Ad731c0CE438AB34f2c0684bA9d"
+  },
+  "clankerInfo": null
+}

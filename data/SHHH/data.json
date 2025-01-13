@@ -1,0 +1,22 @@
+{
+  "name": "Shhh",
+  "symbol": "Shhh",
+  "decimals": 18,
+  "description": "Shhh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shhh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shhh",
+  "addresses": {
+    "8453": "0x04131cb7cea5eab0b46b016559492046a9c77c6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shhh",
+    "sanitizedSymbol": "SHHH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1364920",
+    "lockerAddress": "0xbF737880ed1bC5ADF615a7Dc04f7787D24471cc9"
+  },
+  "clankerInfo": null
+}

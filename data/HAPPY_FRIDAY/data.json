@@ -1,0 +1,22 @@
+{
+  "name": "Happy Friday",
+  "symbol": "Happy Friday",
+  "decimals": 18,
+  "description": "Happy Friday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Friday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Friday",
+  "addresses": {
+    "8453": "0x39e82de41c8dea30ebad90c89be953c65f329d2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Friday",
+    "sanitizedSymbol": "HAPPY_FRIDAY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120344",
+    "lockerAddress": "0x06FE438127eE6cBcdB485C5501b0C2737f8fB978"
+  },
+  "clankerInfo": null
+}

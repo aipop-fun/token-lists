@@ -1,0 +1,22 @@
+{
+  "name": "StarkWalker",
+  "symbol": "StarkWalker",
+  "decimals": 18,
+  "description": "StarkWalker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StarkWalker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StarkWalker",
+  "addresses": {
+    "8453": "0x02d1a07f1f266f56552ef1109f623eda040040d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StarkWalker",
+    "sanitizedSymbol": "STARKWALKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222970",
+    "lockerAddress": "0xbC37f455A1509773D4f4FCECb5A49c1d61C6Dd8b"
+  },
+  "clankerInfo": null
+}

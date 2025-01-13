@@ -1,0 +1,22 @@
+{
+  "name": "Sugar the BitcoinTalk Squirrel",
+  "symbol": "Sugar the BitcoinTalk Squirrel",
+  "decimals": 18,
+  "description": "Sugar the BitcoinTalk Squirrel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sugar%20the%20BitcoinTalk%20Squirrel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sugar the BitcoinTalk Squirrel",
+  "addresses": {
+    "8453": "0x0bb198bb00a71fe99d9cabebbe007a2f79a4a066"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sugar the BitcoinTalk Squirrel",
+    "sanitizedSymbol": "SUGAR_THE_BITCOINTALK_SQUIRREL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150337",
+    "lockerAddress": "0x9E2BB5073B46112eF14872B3458ceb0Db57e4852"
+  },
+  "clankerInfo": null
+}

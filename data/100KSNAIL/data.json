@@ -1,0 +1,22 @@
+{
+  "name": "$100kSnail",
+  "symbol": "$100kSnail",
+  "decimals": 18,
+  "description": "$100kSnail is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24100kSnail",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$100kSnail",
+  "addresses": {
+    "8453": "0x208cfebee0ec4ebc2529d4685c26c0cb43f7d6bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$100kSnail",
+    "sanitizedSymbol": "100KSNAIL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x934C80e3a3e9136eE3558950385B66Ac5e7D9bf7",
+    "lpNftId": "1328726",
+    "lockerAddress": "0xa251b64228B37317B580308B618F4B3127567C82"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Super Cards",
+  "symbol": "Super Cards",
+  "decimals": 18,
+  "description": "Super Cards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Cards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Cards",
+  "addresses": {
+    "8453": "0x0ef32e28e08d4324ba78be708a4f06d9e7c653d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Cards",
+    "sanitizedSymbol": "SUPER_CARDS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1353427",
+    "lockerAddress": "0xB7F12F1Ae896B84d12991B787248cE14037a330d"
+  },
+  "clankerInfo": null
+}

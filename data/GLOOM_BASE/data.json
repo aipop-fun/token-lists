@@ -1,0 +1,22 @@
+{
+  "name": "Gloom Base",
+  "symbol": "Gloom Base",
+  "decimals": 18,
+  "description": "Gloom Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gloom%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gloom Base",
+  "addresses": {
+    "8453": "0x0400e4179f10251ad972f1a6c6f61306bc49a276"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gloom Base",
+    "sanitizedSymbol": "GLOOM_BASE",
+    "created_at": "2024-12-10T09:13:55.676523",
+    "deployer": "0xB603DAFC0cFe311e79b7383eacA0B7a6640e4e26",
+    "lpNftId": "1399100",
+    "lockerAddress": "0x7fb4D3255Cc738cF4EB6CE5bD1cBC967220C0290"
+  },
+  "clankerInfo": null
+}

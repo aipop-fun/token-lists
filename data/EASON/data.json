@@ -1,0 +1,22 @@
+{
+  "name": "eason",
+  "symbol": "eason",
+  "decimals": 18,
+  "description": "eason is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eason",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eason",
+  "addresses": {
+    "8453": "0x1ede9c2c5e821e8f1c1994c5e88bd3fa121928dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eason",
+    "sanitizedSymbol": "EASON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197088",
+    "lockerAddress": "0xc6b7b341342d883f99d23740fE29c457F3387E03"
+  },
+  "clankerInfo": null
+}

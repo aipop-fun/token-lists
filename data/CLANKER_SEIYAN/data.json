@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Seiyan",
+  "symbol": "Clanker Seiyan",
+  "decimals": 18,
+  "description": "Clanker Seiyan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Seiyan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Seiyan",
+  "addresses": {
+    "8453": "0x2a2fdbd756e25a32fcbabca5281d1ca1a2574e91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Seiyan",
+    "sanitizedSymbol": "CLANKER_SEIYAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1323669",
+    "lockerAddress": "0xAb8b17Dc05ea9A2a334d2c6d31f9a91C5b0c07D0"
+  },
+  "clankerInfo": null
+}

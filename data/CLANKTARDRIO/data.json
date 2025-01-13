@@ -1,0 +1,22 @@
+{
+  "name": "Clanktardrio",
+  "symbol": "Clanktardrio",
+  "decimals": 18,
+  "description": "Clanktardrio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanktardrio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanktardrio",
+  "addresses": {
+    "8453": "0x3de36a6fe75d88b79095cb58bd20583b0e698446"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanktardrio",
+    "sanitizedSymbol": "CLANKTARDRIO",
+    "created_at": "2024-12-09T13:24:11.844091",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1387393",
+    "lockerAddress": "0x72cB34C47436C91A5c0779f0B7f525e0C4c52D98"
+  },
+  "clankerInfo": null
+}

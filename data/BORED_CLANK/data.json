@@ -1,0 +1,22 @@
+{
+  "name": "Bored Clank",
+  "symbol": "Bored Clank",
+  "decimals": 18,
+  "description": "Bored Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bored%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bored Clank",
+  "addresses": {
+    "8453": "0x0b5bb316d892bc0f244550191159c55c971d1809"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bored Clank",
+    "sanitizedSymbol": "BORED_CLANK",
+    "created_at": "2024-12-09T07:24:15.956415",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1384367",
+    "lockerAddress": "0x33489e93B7f5DeF128f7473066cC959c212f1DAB"
+  },
+  "clankerInfo": null
+}

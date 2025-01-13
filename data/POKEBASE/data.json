@@ -1,0 +1,22 @@
+{
+  "name": "POKEBASE",
+  "symbol": "POKEBASE",
+  "decimals": 18,
+  "description": "POKEBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POKEBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POKEBASE",
+  "addresses": {
+    "8453": "0x31bf5a85a6d0b6d9440feee764bb0c13ab398a6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POKEBASE",
+    "sanitizedSymbol": "POKEBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0dfE227fd474bA80Fa32Ea59eC9570A66e9aE167",
+    "lpNftId": "1319819",
+    "lockerAddress": "0xDd2a72f8f6E689D14dD6723Fa6f2efb2CE1993dD"
+  },
+  "clankerInfo": null
+}

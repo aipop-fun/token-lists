@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster",
+  "symbol": "Farcaster",
+  "decimals": 18,
+  "description": "Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster",
+  "addresses": {
+    "8453": "0x3a08f568ad083d1a0c4bae3e63bba806cb3c0d01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster",
+    "sanitizedSymbol": "FARCASTER_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199514",
+    "lockerAddress": "0x37395Cb0c8290Aa7280Cdae8bd8C6975E05EF119"
+  },
+  "clankerInfo": null
+}

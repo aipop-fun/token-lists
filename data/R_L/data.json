@@ -1,0 +1,22 @@
+{
+  "name": "R L",
+  "symbol": "R L",
+  "decimals": 18,
+  "description": "R L is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=R%20L",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "R L",
+  "addresses": {
+    "8453": "0x2549e2444fc49b2867e93ec1508a0929f2af0c4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "R L",
+    "sanitizedSymbol": "R_L",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBF1cd893f7fC1154c54122ABc4374a16141d3b02",
+    "lpNftId": "1332861",
+    "lockerAddress": "0x0ED83631FDc7f73AfF98C617463D7D7D19740478"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "smoke u",
+  "symbol": "smoke u",
+  "decimals": 18,
+  "description": "smoke u is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smoke%20u",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smoke u",
+  "addresses": {
+    "8453": "0x2a3f14fc492d95fa836d1ebe7aba13371a116944"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smoke u",
+    "sanitizedSymbol": "SMOKE_U",
+    "created_at": "2024-12-12T16:33:21.276409",
+    "deployer": "0x5DF7b2Fd3f2Ed4823f557B30Cc0C174f82d6f674",
+    "lpNftId": "1438634",
+    "lockerAddress": "0x087C0f4A96ed36308Ac1E14F71E8943f3e6A5F3a"
+  },
+  "clankerInfo": null
+}

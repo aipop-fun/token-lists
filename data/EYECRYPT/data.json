@@ -1,0 +1,22 @@
+{
+  "name": "EyeCrypt",
+  "symbol": "EyeCrypt",
+  "decimals": 18,
+  "description": "EyeCrypt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EyeCrypt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EyeCrypt",
+  "addresses": {
+    "8453": "0x01ece3914c96a8e3ab3240544161690581e97ef6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EyeCrypt",
+    "sanitizedSymbol": "EYECRYPT",
+    "created_at": "2024-12-10T18:06:10.975797",
+    "deployer": "0xc0E46e817daaab13c6B6424BeeB0E053C5f32C3B",
+    "lpNftId": "1405256",
+    "lockerAddress": "0x1Cac61dCCCf7ac125AF60187061c3F699C0d7C67"
+  },
+  "clankerInfo": null
+}

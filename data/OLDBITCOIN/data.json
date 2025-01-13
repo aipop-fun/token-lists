@@ -1,0 +1,22 @@
+{
+  "name": "OldBitcoin",
+  "symbol": "OldBitcoin",
+  "decimals": 18,
+  "description": "OldBitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OldBitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OldBitcoin",
+  "addresses": {
+    "8453": "0x3e1bb199eef8a052475e100c69775cc0d3157742"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OldBitcoin",
+    "sanitizedSymbol": "OLDBITCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1360112",
+    "lockerAddress": "0x1cF88aa34A329f7F92e736051486dce93ECdBb66"
+  },
+  "clankerInfo": null
+}

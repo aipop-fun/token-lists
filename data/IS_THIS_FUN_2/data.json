@@ -1,0 +1,22 @@
+{
+  "name": "Is this Fun?",
+  "symbol": "Is this Fun?",
+  "decimals": 18,
+  "description": "Is this Fun? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Is%20this%20Fun%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Is this Fun?",
+  "addresses": {
+    "8453": "0x050781411d30f2da87c6619108d36cc1de3cfd58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Is this Fun?",
+    "sanitizedSymbol": "IS_THIS_FUN_2",
+    "created_at": "2024-12-12T19:48:17.434654",
+    "deployer": "0x1f5D2f3Ee66E9A8b9235eE9Ffbb03cb496D9B0f7",
+    "lpNftId": "1441881",
+    "lockerAddress": "0x2bCDF5CB00Bf894063c38832ef64105Dab580622"
+  },
+  "clankerInfo": null
+}

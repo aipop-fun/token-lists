@@ -1,0 +1,22 @@
+{
+  "name": "Yggdraisil",
+  "symbol": "Yggdraisil",
+  "decimals": 18,
+  "description": "Yggdraisil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yggdraisil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yggdraisil",
+  "addresses": {
+    "8453": "0x3039e0c7a210fd2ed685a16caf2e00632776805e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yggdraisil",
+    "sanitizedSymbol": "YGGDRAISIL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119453",
+    "lockerAddress": "0xC812A8B7749B46c9ea52ecE486C90E8d306e4747"
+  },
+  "clankerInfo": null
+}

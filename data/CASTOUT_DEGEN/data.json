@@ -1,0 +1,22 @@
+{
+  "name": "CASTOUT DEGEN",
+  "symbol": "CASTOUT DEGEN",
+  "decimals": 18,
+  "description": "CASTOUT DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CASTOUT%20DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CASTOUT DEGEN",
+  "addresses": {
+    "8453": "0x21be990c6c26cb9ade2e7d00d6f45f6ef105cbaf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CASTOUT DEGEN",
+    "sanitizedSymbol": "CASTOUT_DEGEN",
+    "created_at": "2024-12-12T19:16:16.896643",
+    "deployer": "0x8aAa69aEc19f8812fe548424bE12259B6DC3576d",
+    "lpNftId": "1441494",
+    "lockerAddress": "0xade49795bAacE6A8b6eb2daD13e0449c2bAfBD41"
+  },
+  "clankerInfo": null
+}

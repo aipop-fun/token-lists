@@ -1,0 +1,22 @@
+{
+  "name": "Young Peezy Base",
+  "symbol": "Young Peezy Base",
+  "decimals": 18,
+  "description": "Young Peezy Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Young%20Peezy%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Young Peezy Base",
+  "addresses": {
+    "8453": "0x069859040f7024537f71f05160db9d8b7f50cf2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Young Peezy Base",
+    "sanitizedSymbol": "YOUNG_PEEZY_BASE",
+    "created_at": "2024-12-10T06:42:45.585186",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1397470",
+    "lockerAddress": "0x1eBf52B4a751776C21b31296cF2105E548597581"
+  },
+  "clankerInfo": null
+}

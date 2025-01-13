@@ -1,0 +1,22 @@
+{
+  "name": "DOGI",
+  "symbol": "DOGI",
+  "decimals": 18,
+  "description": "DOGI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGI",
+  "addresses": {
+    "8453": "0x18db75e193fc1f644411ec2049bc0895ab5c511b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGI",
+    "sanitizedSymbol": "DOGI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x397aA7871D46A8974FC4861a9f8020253Dc344cf",
+    "lpNftId": "1252402",
+    "lockerAddress": "0x75966Ba7e8f755bc61F6988996f6c1b5Eaa6D292"
+  },
+  "clankerInfo": null
+}

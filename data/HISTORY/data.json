@@ -1,0 +1,22 @@
+{
+  "name": "History",
+  "symbol": "History",
+  "decimals": 18,
+  "description": "History is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=History",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "History",
+  "addresses": {
+    "8453": "0x3808a4127b7d68f0e91b175e9b3ca3ba8f731ca8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "History",
+    "sanitizedSymbol": "HISTORY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151259",
+    "lockerAddress": "0xDa0c0A4e372949482ec56A027e7eCE08981b1Bcb"
+  },
+  "clankerInfo": null
+}

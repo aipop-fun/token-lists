@@ -1,0 +1,22 @@
+{
+  "name": "suspicious doggy",
+  "symbol": "suspicious doggy",
+  "decimals": 18,
+  "description": "suspicious doggy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=suspicious%20doggy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "suspicious doggy",
+  "addresses": {
+    "8453": "0x028b5f14ed302b4d6122dc0e221a8391e6d0c37a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "suspicious doggy",
+    "sanitizedSymbol": "SUSPICIOUS_DOGGY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x88Fd52c4C766eacB16768e98373DBe0c7005e65F",
+    "lpNftId": "1303205",
+    "lockerAddress": "0xA5dC42E49642024B798B57AD72A80eE2E1082754"
+  },
+  "clankerInfo": null
+}

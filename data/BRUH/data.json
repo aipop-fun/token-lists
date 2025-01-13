@@ -1,0 +1,22 @@
+{
+  "name": "bruh",
+  "symbol": "bruh",
+  "decimals": 18,
+  "description": "bruh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bruh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bruh",
+  "addresses": {
+    "8453": "0x3ad5e4e268a20348054692f29c846ddec1ad97d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bruh",
+    "sanitizedSymbol": "BRUH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129170",
+    "lockerAddress": "0x5367766b8f5e0AB78be488166D42A5B915eE4802"
+  },
+  "clankerInfo": null
+}

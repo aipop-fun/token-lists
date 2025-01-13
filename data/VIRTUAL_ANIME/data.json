@@ -1,0 +1,22 @@
+{
+  "name": "virtual anime",
+  "symbol": "virtual anime",
+  "decimals": 18,
+  "description": "virtual anime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=virtual%20anime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "virtual anime",
+  "addresses": {
+    "8453": "0x1cab117c012157033da2e94ada78fc25b368307f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "virtual anime",
+    "sanitizedSymbol": "VIRTUAL_ANIME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E755b7b7b4934648Eeb237C93084726f1442763",
+    "lpNftId": "1319241",
+    "lockerAddress": "0x550Df237947da9267faf47e3F8CCd3B8fAAF5792"
+  },
+  "clankerInfo": null
+}

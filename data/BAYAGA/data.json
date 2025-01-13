@@ -1,0 +1,22 @@
+{
+  "name": "baYaGa",
+  "symbol": "baYaGa",
+  "decimals": 18,
+  "description": "baYaGa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baYaGa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baYaGa",
+  "addresses": {
+    "8453": "0x0ca61d7eaa46756f7fb34b9728b26a7effffc7f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baYaGa",
+    "sanitizedSymbol": "BAYAGA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd7c1810c3CD2b05658c23Cf41Da7cAC12dCA4a40",
+    "lpNftId": "1267148",
+    "lockerAddress": "0x0DF979A4003487321cEd608497973E3f1cFf3B7B"
+  },
+  "clankerInfo": null
+}

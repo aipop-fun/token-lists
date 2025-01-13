@@ -1,0 +1,22 @@
+{
+  "name": "Bipolar",
+  "symbol": "Bipolar",
+  "decimals": 18,
+  "description": "Bipolar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bipolar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bipolar",
+  "addresses": {
+    "8453": "0x154ce1731309e6b37d498b3ceba2545f1db97691"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bipolar",
+    "sanitizedSymbol": "BIPOLAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13C2BF12304E74deB34669CE89c124924358B795",
+    "lpNftId": "1298223",
+    "lockerAddress": "0x3b3B19837797483295F6ad6C9b033F6ad231195D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GifTest",
+  "symbol": "GifTest",
+  "decimals": 18,
+  "description": "GifTest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GifTest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GifTest",
+  "addresses": {
+    "8453": "0x40ad7c2bd481059d50f5fc3f96e74debf321c53a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GifTest",
+    "sanitizedSymbol": "GIFTEST",
+    "created_at": "2024-12-09T04:26:23.327385",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1381768",
+    "lockerAddress": "0xF503F1BB3e716Eb1b44F307dB19958a156236C0b"
+  },
+  "clankerInfo": null
+}

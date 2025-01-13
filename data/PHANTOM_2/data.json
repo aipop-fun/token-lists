@@ -1,0 +1,22 @@
+{
+  "name": "Phantom",
+  "symbol": "Phantom",
+  "decimals": 18,
+  "description": "Phantom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phantom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phantom",
+  "addresses": {
+    "8453": "0x380df8b24d740e2e652406b3b41bf21feeff43fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phantom",
+    "sanitizedSymbol": "PHANTOM_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129073",
+    "lockerAddress": "0x6e03Da01cc5b8309b3f688c18b27841195992A23"
+  },
+  "clankerInfo": null
+}

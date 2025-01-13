@@ -1,0 +1,22 @@
+{
+  "name": "DOGO",
+  "symbol": "DOGO",
+  "decimals": 18,
+  "description": "DOGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGO",
+  "addresses": {
+    "8453": "0x05116c3af83563afbc1d7f9e7af7957e232bd882"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGO",
+    "sanitizedSymbol": "DOGO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204381",
+    "lockerAddress": "0x4001C20dF6DCD7C81C66078A29c330A6d0411633"
+  },
+  "clankerInfo": null
+}

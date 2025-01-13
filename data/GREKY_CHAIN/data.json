@@ -1,0 +1,22 @@
+{
+  "name": "GREKY CHAIN",
+  "symbol": "GREKY CHAIN",
+  "decimals": 18,
+  "description": "GREKY CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GREKY%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GREKY CHAIN",
+  "addresses": {
+    "8453": "0x02a54dce5d36c924ae92de3f5aec3e08c02130f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GREKY CHAIN",
+    "sanitizedSymbol": "GREKY_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xd8bc1E2b17cd847f109aCc162704ed3cB35892B6",
+    "lpNftId": "1195119",
+    "lockerAddress": "0xFC5bFA3DA5076B4c552938c7522c28ed297d3fd1"
+  },
+  "clankerInfo": null
+}

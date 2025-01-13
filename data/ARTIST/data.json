@@ -1,0 +1,22 @@
+{
+  "name": "artist",
+  "symbol": "artist",
+  "decimals": 18,
+  "description": "artist is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=artist",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "artist",
+  "addresses": {
+    "8453": "0x408dc09d85bfca920ce0bf7ba4f126614fb6fd09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "artist",
+    "sanitizedSymbol": "ARTIST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4Df7874063E416803d3A29A9f599FcC3B9957b43",
+    "lpNftId": "1283440",
+    "lockerAddress": "0x357BAE1C6Ae2443826b292961FA2432a6b0f3E2C"
+  },
+  "clankerInfo": null
+}

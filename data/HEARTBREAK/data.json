@@ -1,0 +1,22 @@
+{
+  "name": "Heartbreak",
+  "symbol": "Heartbreak",
+  "decimals": 18,
+  "description": "Heartbreak is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Heartbreak",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Heartbreak",
+  "addresses": {
+    "8453": "0x230b964e58da62dd7ea88c28afc0e1c071c0a8ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Heartbreak",
+    "sanitizedSymbol": "HEARTBREAK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x41e54704aCc2787B2B987b56111ca934AD3e3210",
+    "lpNftId": "1272055",
+    "lockerAddress": "0x8632446531571864EAC1AF7e541F003e3fAb7963"
+  },
+  "clankerInfo": null
+}

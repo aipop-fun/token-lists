@@ -1,0 +1,22 @@
+{
+  "name": "mount fuji",
+  "symbol": "mount fuji",
+  "decimals": 18,
+  "description": "mount fuji is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mount%20fuji",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mount fuji",
+  "addresses": {
+    "8453": "0x0a824910c8a81e6807e396289c855c18d9410cae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mount fuji",
+    "sanitizedSymbol": "MOUNT_FUJI",
+    "created_at": "2024-12-10T12:26:49.514704",
+    "deployer": "0xfb6a8cb632aa1a68b3a3569932c644253c078e6F",
+    "lpNftId": "1400862",
+    "lockerAddress": "0xCB49AA8aBC2419689FB90E573ed9c4041736344d"
+  },
+  "clankerInfo": null
+}

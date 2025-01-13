@@ -1,0 +1,22 @@
+{
+  "name": "BABY DEGEN TOKEN",
+  "symbol": "BABY DEGEN TOKEN",
+  "decimals": 18,
+  "description": "BABY DEGEN TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20DEGEN%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY DEGEN TOKEN",
+  "addresses": {
+    "8453": "0x1ac73307b6845a979624dcddcd3b7f99a8054128"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY DEGEN TOKEN",
+    "sanitizedSymbol": "BABY_DEGEN_TOKEN",
+    "created_at": "2024-12-10T11:33:50.674407",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1400257",
+    "lockerAddress": "0x175B7C77e9C2495Fb387087A7a237c61e65F3962"
+  },
+  "clankerInfo": null
+}

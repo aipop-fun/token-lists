@@ -1,0 +1,22 @@
+{
+  "name": "out of",
+  "symbol": "out of",
+  "decimals": 18,
+  "description": "out of is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=out%20of",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "out of",
+  "addresses": {
+    "8453": "0x000224450198006c231ad627109fb274ae4e6d35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "out of",
+    "sanitizedSymbol": "OUT_OF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2C9A77cD8DE055fFDbe8721431A7Dd5064A480b0",
+    "lpNftId": "1344040",
+    "lockerAddress": "0xC698F2b07ec5142DfE63Fe3b699Ba33df7Cf2035"
+  },
+  "clankerInfo": null
+}

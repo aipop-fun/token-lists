@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERS VIEW",
+  "symbol": "CLANKERS VIEW",
+  "decimals": 18,
+  "description": "CLANKERS VIEW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERS%20VIEW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERS VIEW",
+  "addresses": {
+    "8453": "0x0ab20e0f48e62f2b4e562c65c16b507384e1711d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERS VIEW",
+    "sanitizedSymbol": "CLANKERS_VIEW",
+    "created_at": "2024-12-11T15:49:25.911036",
+    "deployer": "0xBC69004Ca1b2eda4E1F2b7cC3072bab2BEF324CA",
+    "lpNftId": "1421287",
+    "lockerAddress": "0x2b95fEcf45C5FD0ce7c61574b107908E477bf939"
+  },
+  "clankerInfo": null
+}

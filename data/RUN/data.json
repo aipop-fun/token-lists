@@ -1,0 +1,22 @@
+{
+  "name": "RUN",
+  "symbol": "RUN",
+  "decimals": 18,
+  "description": "RUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUN",
+  "addresses": {
+    "8453": "0x04b35227f4903507e002c65f7a26573d006679d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUN",
+    "sanitizedSymbol": "RUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226851",
+    "lockerAddress": "0x0a146d13c05fC47DCE6dDc96f11D6e8F09f91477"
+  },
+  "clankerInfo": null
+}

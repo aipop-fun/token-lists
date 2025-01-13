@@ -1,0 +1,22 @@
+{
+  "name": "BlaBla",
+  "symbol": "BlaBla",
+  "decimals": 18,
+  "description": "BlaBla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlaBla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlaBla",
+  "addresses": {
+    "8453": "0x1e236c6dad5179099053459c83551aaea6ca2307"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlaBla",
+    "sanitizedSymbol": "BLABLA",
+    "created_at": "2024-12-09T00:38:49.631953",
+    "deployer": "0x93b92AF39Fb5eD3E82146a3FFFD4b5cea682fA46",
+    "lpNftId": "1377006",
+    "lockerAddress": "0xabD3fd4bD575795B721083301ea22d668231A279"
+  },
+  "clankerInfo": null
+}

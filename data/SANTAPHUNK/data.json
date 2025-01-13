@@ -1,0 +1,22 @@
+{
+  "name": "SantaPhunk",
+  "symbol": "SantaPhunk",
+  "decimals": 18,
+  "description": "SantaPhunk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaPhunk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaPhunk",
+  "addresses": {
+    "8453": "0x3bcca89e4fdb28963b07bdc0c3b889794dcc95be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaPhunk",
+    "sanitizedSymbol": "SANTAPHUNK",
+    "created_at": "2024-12-11T06:25:45.002044",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1413878",
+    "lockerAddress": "0x5EA64a829A615493CB57982242b702ab5b06DA35"
+  },
+  "clankerInfo": null
+}

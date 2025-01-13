@@ -1,0 +1,22 @@
+{
+  "name": "Enigma",
+  "symbol": "Enigma",
+  "decimals": 18,
+  "description": "Enigma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Enigma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Enigma",
+  "addresses": {
+    "8453": "0x0b7a7de3308326395a63b0b329c2193db5a3531f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Enigma",
+    "sanitizedSymbol": "ENIGMA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2A23C62EF82930C4b4Fa1a6bb1aC497776E66285",
+    "lpNftId": "1346909",
+    "lockerAddress": "0x35BBdD9906fDC210222E917473332e021a33C8E2"
+  },
+  "clankerInfo": null
+}

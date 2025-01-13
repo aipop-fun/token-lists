@@ -1,0 +1,22 @@
+{
+  "name": "CAKRAM PROTOCOL",
+  "symbol": "CAKRAM PROTOCOL",
+  "decimals": 18,
+  "description": "CAKRAM PROTOCOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAKRAM%20PROTOCOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAKRAM PROTOCOL",
+  "addresses": {
+    "8453": "0x2ea41b3f1deb8fde89c0488bd34ca065ce8cdfd9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAKRAM PROTOCOL",
+    "sanitizedSymbol": "CAKRAM_PROTOCOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1324422",
+    "lockerAddress": "0xA4d4845b1c291eCA52AD9D16Ba88042FC33f1693"
+  },
+  "clankerInfo": null
+}

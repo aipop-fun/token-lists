@@ -1,0 +1,22 @@
+{
+  "name": "PONGU PONGUIN",
+  "symbol": "PONGU PONGUIN",
+  "decimals": 18,
+  "description": "PONGU PONGUIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PONGU%20PONGUIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PONGU PONGUIN",
+  "addresses": {
+    "8453": "0x268d613bfa04ec4eb058524a88a26797b4e82fc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PONGU PONGUIN",
+    "sanitizedSymbol": "PONGU_PONGUIN",
+    "created_at": "2024-12-12T20:10:57.420996",
+    "deployer": "0x3f03b815C9af33cE456503f0d753b04FC7f2CE78",
+    "lpNftId": "1442088",
+    "lockerAddress": "0x25b74c99ff30Fafa0F4eCD23f66cCd648B052110"
+  },
+  "clankerInfo": null
+}

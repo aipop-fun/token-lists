@@ -1,0 +1,22 @@
+{
+  "name": "MY WAY",
+  "symbol": "MY WAY",
+  "decimals": 18,
+  "description": "MY WAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MY%20WAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MY WAY",
+  "addresses": {
+    "8453": "0x2b1a37c57548aecfe249a0e8d0321b8d1783a1f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MY WAY",
+    "sanitizedSymbol": "MY_WAY",
+    "created_at": "2024-12-12T14:37:41.335932",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1436033",
+    "lockerAddress": "0xbAD596d381541a8e2b89B6B9FB1B2ae55C7CB15e"
+  },
+  "clankerInfo": null
+}

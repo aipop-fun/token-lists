@@ -1,0 +1,22 @@
+{
+  "name": "Bullish on BASE",
+  "symbol": "Bullish on BASE",
+  "decimals": 18,
+  "description": "Bullish on BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bullish%20on%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bullish on BASE",
+  "addresses": {
+    "8453": "0x21071bfbb3af097daf037bad7be24d8d0b5265af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bullish on BASE",
+    "sanitizedSymbol": "BULLISH_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1242961",
+    "lockerAddress": "0x3afd0AA18f39C25567929Fd0979bf5422bBC7602"
+  },
+  "clankerInfo": null
+}

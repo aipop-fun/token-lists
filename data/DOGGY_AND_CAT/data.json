@@ -1,0 +1,22 @@
+{
+  "name": "Doggy And Cat",
+  "symbol": "Doggy And Cat",
+  "decimals": 18,
+  "description": "Doggy And Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20And%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy And Cat",
+  "addresses": {
+    "8453": "0x0d3af081f15f0c2c69600e5ec65ea5b8004d0d1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy And Cat",
+    "sanitizedSymbol": "DOGGY_AND_CAT",
+    "created_at": "2024-12-10T15:18:56.051923",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1402548",
+    "lockerAddress": "0x3b9Db0A263bee12acF906F900d2136Cf161D6300"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MEWING",
+  "symbol": "MEWING",
+  "decimals": 18,
+  "description": "MEWING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEWING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEWING",
+  "addresses": {
+    "8453": "0x34446c2671ef4652022fe2f92858860a12e7b13d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEWING",
+    "sanitizedSymbol": "MEWING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151234",
+    "lockerAddress": "0x6ce13fe8dBB852C4Bdb3435549411bED7a5Efd1C"
+  },
+  "clankerInfo": null
+}

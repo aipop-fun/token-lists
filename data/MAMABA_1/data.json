@@ -1,0 +1,22 @@
+{
+  "name": "MamaBa",
+  "symbol": "MamaBa",
+  "decimals": 18,
+  "description": "MamaBa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MamaBa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MamaBa",
+  "addresses": {
+    "8453": "0x1928d1f739d8e94dde195b50d5eb1706311ce550"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MamaBa",
+    "sanitizedSymbol": "MAMABA_1",
+    "created_at": "2024-12-10T19:27:47.6519",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1406185",
+    "lockerAddress": "0x5Fb0486f7c4d667b9e1fcbB0e7B1e87F3cbc567a"
+  },
+  "clankerInfo": null
+}

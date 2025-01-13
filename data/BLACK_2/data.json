@@ -1,0 +1,22 @@
+{
+  "name": "BLACK",
+  "symbol": "BLACK",
+  "decimals": 18,
+  "description": "BLACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLACK",
+  "addresses": {
+    "8453": "0x406511c642ec5b81d3bac015bf7bf5dbd440e455"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLACK",
+    "sanitizedSymbol": "BLACK_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x3E3E9683B706aB497fa1991c691F6CB072c75929",
+    "lpNftId": "1250685",
+    "lockerAddress": "0xFDa12BaEBBB52c22B2AB2fB00FC98D4e1c28ae74"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASE MAS AI",
+  "symbol": "BASE MAS AI",
+  "decimals": 18,
+  "description": "BASE MAS AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20MAS%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE MAS AI",
+  "addresses": {
+    "8453": "0x3d5744ee5ed6cb9975aead036ed33541b33fe91a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE MAS AI",
+    "sanitizedSymbol": "BASE_MAS_AI",
+    "created_at": "2024-12-09T15:37:11.830265",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1388622",
+    "lockerAddress": "0x8430d0F4C9c7Db77fFcC7165E632b9Ce73fcC29a"
+  },
+  "clankerInfo": null
+}

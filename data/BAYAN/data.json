@@ -1,0 +1,22 @@
+{
+  "name": "Bayan",
+  "symbol": "Bayan",
+  "decimals": 18,
+  "description": "Bayan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bayan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bayan",
+  "addresses": {
+    "8453": "0x09d9476a1812acf5f7451e135eda6307ae102d3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bayan",
+    "sanitizedSymbol": "BAYAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219180",
+    "lockerAddress": "0x504702f1d692F13652d8E4b6f39D7ecf7e13Ee2E"
+  },
+  "clankerInfo": null
+}

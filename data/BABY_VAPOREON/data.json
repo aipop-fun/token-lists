@@ -1,0 +1,22 @@
+{
+  "name": "Baby Vaporeon",
+  "symbol": "Baby Vaporeon",
+  "decimals": 18,
+  "description": "Baby Vaporeon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Vaporeon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Vaporeon",
+  "addresses": {
+    "8453": "0x0dd7f1d66a6c3cb0a66a472b5b9b4f69fcb292c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Vaporeon",
+    "sanitizedSymbol": "BABY_VAPOREON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE25Bcc2E5cb335D4Db254196e6768F55962e1A9F",
+    "lpNftId": "1328352",
+    "lockerAddress": "0x5da146B1173226e83145609f128D27E241d21113"
+  },
+  "clankerInfo": null
+}

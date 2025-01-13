@@ -1,0 +1,22 @@
+{
+  "name": "INFINITE VOID",
+  "symbol": "INFINITE VOID",
+  "decimals": 18,
+  "description": "INFINITE VOID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=INFINITE%20VOID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "INFINITE VOID",
+  "addresses": {
+    "8453": "0x2230a430d684b102538081aebf0f87b8df5a0e12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "INFINITE VOID",
+    "sanitizedSymbol": "INFINITE_VOID",
+    "created_at": "2024-12-09T03:41:57.296265",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1380319",
+    "lockerAddress": "0x1117D28B61bc40ea25575BCFB7dB23c914E677b4"
+  },
+  "clankerInfo": null
+}

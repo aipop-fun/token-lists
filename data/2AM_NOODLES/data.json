@@ -1,0 +1,22 @@
+{
+  "name": "2am noodles",
+  "symbol": "2am noodles",
+  "decimals": 18,
+  "description": "2am noodles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2am%20noodles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2am noodles",
+  "addresses": {
+    "8453": "0x404c4152990353b123392b4c88af078e575fd8b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2am noodles",
+    "sanitizedSymbol": "2AM_NOODLES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x44F3662b9Dc4a223FcDFC392114b5049CE1F3447",
+    "lpNftId": "1284960",
+    "lockerAddress": "0xea927033a41DcCDf37483eE23837c15dD9425CaA"
+  },
+  "clankerInfo": null
+}

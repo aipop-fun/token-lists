@@ -1,0 +1,22 @@
+{
+  "name": "Crunker",
+  "symbol": "Crunker",
+  "decimals": 18,
+  "description": "Crunker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crunker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crunker",
+  "addresses": {
+    "8453": "0x321c9d17445deeaa5fd4d8fb187df9d4fc238f91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crunker",
+    "sanitizedSymbol": "CRUNKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234463",
+    "lockerAddress": "0x51f5dAf2e4E1AC1f5F9B6EaC2FdE781A54Da8bC5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NUITE CALME",
+  "symbol": "NUITE CALME",
+  "decimals": 18,
+  "description": "NUITE CALME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NUITE%20CALME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NUITE CALME",
+  "addresses": {
+    "8453": "0x0ab9cb90f26f99db83ecc76cd6d853d4b914caf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NUITE CALME",
+    "sanitizedSymbol": "NUITE_CALME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152350",
+    "lockerAddress": "0x60676f6ef43a74F6E6d7bb18ACA83Afec769D3f8"
+  },
+  "clankerInfo": null
+}

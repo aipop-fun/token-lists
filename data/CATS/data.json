@@ -1,0 +1,22 @@
+{
+  "name": "Cats",
+  "symbol": "Cats",
+  "decimals": 18,
+  "description": "Cats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cats",
+  "addresses": {
+    "8453": "0x30e69a98d9cabd64b67a3013dbb4ce3d367a26b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cats",
+    "sanitizedSymbol": "CATS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43A75D87479DF215bf316a8903C93D449D19f5D7",
+    "lpNftId": "1326277",
+    "lockerAddress": "0x7856142DE968304195e3dbcd043Ea514adEd42Dc"
+  },
+  "clankerInfo": null
+}

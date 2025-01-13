@@ -1,0 +1,22 @@
+{
+  "name": "LazyBase",
+  "symbol": "LazyBase",
+  "decimals": 18,
+  "description": "LazyBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LazyBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LazyBase",
+  "addresses": {
+    "8453": "0x2797d41bfdfd9618c3bf79a7eb8ad769b67257a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LazyBase",
+    "sanitizedSymbol": "LAZYBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1329984",
+    "lockerAddress": "0xa75d9456CFa83e2701De984fa2ED7ad6a3ac5A11"
+  },
+  "clankerInfo": null
+}

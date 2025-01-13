@@ -1,0 +1,22 @@
+{
+  "name": "UPSITE",
+  "symbol": "UPSITE",
+  "decimals": 18,
+  "description": "UPSITE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UPSITE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UPSITE",
+  "addresses": {
+    "8453": "0x35e56b2e229f19ed612269b34ab4260165b93f68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UPSITE",
+    "sanitizedSymbol": "UPSITE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159896",
+    "lockerAddress": "0xC15b21eE53A1721270C3156300A3167CD8dC2B7B"
+  },
+  "clankerInfo": null
+}

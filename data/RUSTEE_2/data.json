@@ -1,0 +1,22 @@
+{
+  "name": "RUSTEE",
+  "symbol": "RUSTEE",
+  "decimals": 18,
+  "description": "RUSTEE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUSTEE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUSTEE",
+  "addresses": {
+    "8453": "0x2523bef8976a48e466b2028039b399c59c1383db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUSTEE",
+    "sanitizedSymbol": "RUSTEE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9f9D35f84bFA963505f631a5D9c67a43c4edd833",
+    "lpNftId": "1320540",
+    "lockerAddress": "0xDd5927d7bEc99aF1C88AE22b1019c69108bB135e"
+  },
+  "clankerInfo": null
+}

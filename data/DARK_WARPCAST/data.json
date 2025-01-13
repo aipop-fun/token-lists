@@ -1,0 +1,22 @@
+{
+  "name": "Dark Warpcast",
+  "symbol": "Dark Warpcast",
+  "decimals": 18,
+  "description": "Dark Warpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dark%20Warpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dark Warpcast",
+  "addresses": {
+    "8453": "0x3aa02e54adfa8a3c46a75edbcca3d62daa6938ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dark Warpcast",
+    "sanitizedSymbol": "DARK_WARPCAST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1376032",
+    "lockerAddress": "0xbdbd1E7923cBee68b600b5834256141520cd4F9B"
+  },
+  "clankerInfo": null
+}

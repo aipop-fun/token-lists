@@ -1,0 +1,22 @@
+{
+  "name": "This Is Fine",
+  "symbol": "This Is Fine",
+  "decimals": 18,
+  "description": "This Is Fine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=This%20Is%20Fine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "This Is Fine",
+  "addresses": {
+    "8453": "0x0cf8924c77604d229e3fae92c46a11c68c6eb71d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "This Is Fine",
+    "sanitizedSymbol": "THIS_IS_FINE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119864",
+    "lockerAddress": "0xffC1725Fff1C1B9eeB37f4E560f32E8E9e877c0e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Done",
+  "symbol": "Done",
+  "decimals": 18,
+  "description": "Done is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Done",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Done",
+  "addresses": {
+    "8453": "0x151a3a32ddccb3ab0a087b8ab43384113f8f5e5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Done",
+    "sanitizedSymbol": "DONE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22B681aaCdAe8725A49109Bf9fD34692A37EFA51",
+    "lpNftId": "1298272",
+    "lockerAddress": "0x805ff177bBEAa0E3c51a242938C0A7BE052F95DA"
+  },
+  "clankerInfo": null
+}

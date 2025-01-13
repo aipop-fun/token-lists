@@ -1,0 +1,22 @@
+{
+  "name": "Chuttamalle",
+  "symbol": "Chuttamalle",
+  "decimals": 18,
+  "description": "Chuttamalle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chuttamalle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chuttamalle",
+  "addresses": {
+    "8453": "0x00e5a5a0510b5d273314a9ab42ebde73aa4d8fcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chuttamalle",
+    "sanitizedSymbol": "CHUTTAMALLE",
+    "created_at": "2024-12-09T12:41:22.25751",
+    "deployer": "0xfB933580028bDe6708f0D58A3BB55da09064407c",
+    "lpNftId": "1387067",
+    "lockerAddress": "0xb4d533B45d5EEf842700ea1b90F695e1B6243f5E"
+  },
+  "clankerInfo": null
+}

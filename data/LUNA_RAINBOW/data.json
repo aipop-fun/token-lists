@@ -1,0 +1,22 @@
+{
+  "name": "Luna Rainbow",
+  "symbol": "Luna Rainbow",
+  "decimals": 18,
+  "description": "Luna Rainbow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luna%20Rainbow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luna Rainbow",
+  "addresses": {
+    "8453": "0x3e349271ea3bff005a2ebf2e7e0cc00f9c59d6e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luna Rainbow",
+    "sanitizedSymbol": "LUNA_RAINBOW",
+    "created_at": "2024-12-10T18:08:10.738653",
+    "deployer": "0xAECf3f82B14261f4DDCcd89b8381F5cB5CB88494",
+    "lpNftId": "1405276",
+    "lockerAddress": "0xDDB429Da1550Cecf56476C454e3f76d8F57b6f9c"
+  },
+  "clankerInfo": null
+}

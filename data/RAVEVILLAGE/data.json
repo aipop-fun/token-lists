@@ -1,0 +1,22 @@
+{
+  "name": "Ravevillage",
+  "symbol": "Ravevillage",
+  "decimals": 18,
+  "description": "Ravevillage is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ravevillage",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ravevillage",
+  "addresses": {
+    "8453": "0x0161a995a72b5ce6914f71338020d64a06980f23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ravevillage",
+    "sanitizedSymbol": "RAVEVILLAGE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1bA7105Ba686EeA30bf9b6d11af7699DEbA1bf3f",
+    "lpNftId": "1266544",
+    "lockerAddress": "0xcEf78421A4db8F71875a58c674fb6B4A0e120647"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base Season",
+  "symbol": "Base Season",
+  "decimals": 18,
+  "description": "Base Season is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Season",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Season",
+  "addresses": {
+    "8453": "0x0b5394499fdaf7a1582e82db8c5c767eb7abea88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Season",
+    "sanitizedSymbol": "BASE_SEASON_2",
+    "created_at": "2024-12-12T16:09:45.028914",
+    "deployer": "0x5DF7b2Fd3f2Ed4823f557B30Cc0C174f82d6f674",
+    "lpNftId": "1437988",
+    "lockerAddress": "0x613d348669777bb9150d9a242e7eD95AC0b37008"
+  },
+  "clankerInfo": null
+}

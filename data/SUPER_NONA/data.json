@@ -1,0 +1,22 @@
+{
+  "name": "Super NONA",
+  "symbol": "Super NONA",
+  "decimals": 18,
+  "description": "Super NONA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20NONA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super NONA",
+  "addresses": {
+    "8453": "0x38a67aa36edf7c337cba64e48ba4fec34b2ccdb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super NONA",
+    "sanitizedSymbol": "SUPER_NONA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206712",
+    "lockerAddress": "0x54a20DB1ecBCc072b56C1915976580879cC18BCb"
+  },
+  "clankerInfo": null
+}

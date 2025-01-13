@@ -1,0 +1,22 @@
+{
+  "name": "HONDA",
+  "symbol": "HONDA",
+  "decimals": 18,
+  "description": "HONDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HONDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HONDA",
+  "addresses": {
+    "8453": "0x2175d12a6a0546bb5ba0d93b6328e69d4d69c676"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HONDA",
+    "sanitizedSymbol": "HONDA",
+    "created_at": "2024-12-11T18:20:37.567437",
+    "deployer": "0x7e4CAae00c0122a686d0C7C0BAfc526b4527DA02",
+    "lpNftId": "1423681",
+    "lockerAddress": "0x56f9befD97Aa7307B667D0fC8A3e56c71546654b"
+  },
+  "clankerInfo": null
+}

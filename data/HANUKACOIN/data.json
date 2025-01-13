@@ -1,0 +1,22 @@
+{
+  "name": "HanukaCoin",
+  "symbol": "HanukaCoin",
+  "decimals": 18,
+  "description": "HanukaCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HanukaCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HanukaCoin",
+  "addresses": {
+    "8453": "0x0b94f19018c995b27218f04d7386d4ec0afc6878"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HanukaCoin",
+    "sanitizedSymbol": "HANUKACOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x588ffAc7AFb5D4524EfB7EaC1D7Dfd609CE5Dea0",
+    "lpNftId": "1344554",
+    "lockerAddress": "0x6c74298bD477C1B53DE94d527c666D6607FA7d36"
+  },
+  "clankerInfo": null
+}

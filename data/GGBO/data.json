@@ -1,0 +1,22 @@
+{
+  "name": "GGBo",
+  "symbol": "GGBo",
+  "decimals": 18,
+  "description": "GGBo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GGBo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GGBo",
+  "addresses": {
+    "8453": "0x0902394689bb88cf514635c3a15c012b96775923"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GGBo",
+    "sanitizedSymbol": "GGBO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156757",
+    "lockerAddress": "0xC000246EfE82a157a1829271973f145bf38fC55D"
+  },
+  "clankerInfo": null
+}

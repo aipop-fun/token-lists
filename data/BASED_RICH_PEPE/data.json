@@ -1,0 +1,22 @@
+{
+  "name": "Based Rich PEPE",
+  "symbol": "Based Rich PEPE",
+  "decimals": 18,
+  "description": "Based Rich PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Rich%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Rich PEPE",
+  "addresses": {
+    "8453": "0x1903b394dc57dce892d513dcc7d7bb6dc5fba1f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Rich PEPE",
+    "sanitizedSymbol": "BASED_RICH_PEPE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226466",
+    "lockerAddress": "0x4c26dD8516A9B4F5c6b9B1516C60A868bE80526c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "UNA",
+  "symbol": "UNA",
+  "decimals": 18,
+  "description": "UNA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNA",
+  "addresses": {
+    "8453": "0x25fc616d9bfcf4c29f670ffb030ac78a7e38597c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNA",
+    "sanitizedSymbol": "UNA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1332306",
+    "lockerAddress": "0x0543665D8707e47709F32a9bf8C2b095052522fE"
+  },
+  "clankerInfo": null
+}

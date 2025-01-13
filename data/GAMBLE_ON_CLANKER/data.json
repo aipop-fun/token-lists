@@ -1,0 +1,22 @@
+{
+  "name": "Gamble On Clanker",
+  "symbol": "Gamble On Clanker",
+  "decimals": 18,
+  "description": "Gamble On Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gamble%20On%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gamble On Clanker",
+  "addresses": {
+    "8453": "0x41b6cf053562d750e485a0114532c9ed8424fc05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gamble On Clanker",
+    "sanitizedSymbol": "GAMBLE_ON_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234980",
+    "lockerAddress": "0x1D6EC00Bc58ab5f41f5d4C4131582e0F52C509cC"
+  },
+  "clankerInfo": null
+}

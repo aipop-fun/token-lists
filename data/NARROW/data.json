@@ -1,0 +1,22 @@
+{
+  "name": "Narrow",
+  "symbol": "Narrow",
+  "decimals": 18,
+  "description": "Narrow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Narrow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Narrow",
+  "addresses": {
+    "8453": "0x3972513786d05b18d1b70fa1898b7448d5e5c3f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Narrow",
+    "sanitizedSymbol": "NARROW",
+    "created_at": "2024-12-10T01:49:51.37694",
+    "deployer": "0x8BF2fFc89C70EfBe245AA81Cc597C7E359925D61",
+    "lpNftId": "1394481",
+    "lockerAddress": "0x0FBAE041Ea66283f7273a07BaE24Fc11C6D6bB08"
+  },
+  "clankerInfo": null
+}

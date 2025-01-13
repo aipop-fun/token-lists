@@ -1,0 +1,22 @@
+{
+  "name": "Chinese Tom",
+  "symbol": "Chinese Tom",
+  "decimals": 18,
+  "description": "Chinese Tom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chinese%20Tom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chinese Tom",
+  "addresses": {
+    "8453": "0x27896a36a73044d949c3ae770d3801703a3bfee5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chinese Tom",
+    "sanitizedSymbol": "CHINESE_TOM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226032",
+    "lockerAddress": "0x7179eB9ED9eA995E39bb20eaD80dc401247A619f"
+  },
+  "clankerInfo": null
+}

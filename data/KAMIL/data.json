@@ -1,0 +1,22 @@
+{
+  "name": "KAMIL",
+  "symbol": "KAMIL",
+  "decimals": 18,
+  "description": "KAMIL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KAMIL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KAMIL",
+  "addresses": {
+    "8453": "0x25f72c007e0d44e4eff80d4b0e0a85e3dfa13622"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KAMIL",
+    "sanitizedSymbol": "KAMIL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6E44C9F85B1C68567a77cD2E1071aC9c78fd37d7",
+    "lpNftId": "1319679",
+    "lockerAddress": "0xe8F3A19508bB58593aB7B2F1Fc3A21B2111C7c90"
+  },
+  "clankerInfo": null
+}

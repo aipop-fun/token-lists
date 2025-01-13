@@ -1,0 +1,22 @@
+{
+  "name": "CGYS",
+  "symbol": "CGYS",
+  "decimals": 18,
+  "description": "CGYS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CGYS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CGYS",
+  "addresses": {
+    "8453": "0x12bd978bc8c8c93868b6ef638ea66a639d43445f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CGYS",
+    "sanitizedSymbol": "CGYS",
+    "created_at": "2024-12-11T15:53:25.042917",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1421307",
+    "lockerAddress": "0xF528A249A9d7811DaAA01fbd35FF7FB196a6A270"
+  },
+  "clankerInfo": null
+}

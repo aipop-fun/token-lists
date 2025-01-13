@@ -1,0 +1,22 @@
+{
+  "name": "BlurryDAO",
+  "symbol": "BlurryDAO",
+  "decimals": 18,
+  "description": "BlurryDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlurryDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlurryDAO",
+  "addresses": {
+    "8453": "0x3bf614eb11fded05d896d945767bfd51c9949b35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlurryDAO",
+    "sanitizedSymbol": "BLURRYDAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166335",
+    "lockerAddress": "0x0591DF9Ebe3f74306E1510564F0d446C7CabBdD7"
+  },
+  "clankerInfo": null
+}

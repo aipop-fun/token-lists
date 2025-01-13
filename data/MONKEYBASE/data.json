@@ -1,0 +1,22 @@
+{
+  "name": "monkeybase",
+  "symbol": "monkeybase",
+  "decimals": 18,
+  "description": "monkeybase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=monkeybase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "monkeybase",
+  "addresses": {
+    "8453": "0x418510342f6baa17372a835ae30a0e6e03524d13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "monkeybase",
+    "sanitizedSymbol": "MONKEYBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84ce35C1093C366a8f55E9BD5290ae7E32B486De",
+    "lpNftId": "1319092",
+    "lockerAddress": "0x813A8584A051950628e5643D534c40ED44cD77FB"
+  },
+  "clankerInfo": null
+}

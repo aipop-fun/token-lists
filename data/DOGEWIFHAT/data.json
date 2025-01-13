@@ -1,0 +1,22 @@
+{
+  "name": "DogeWifhat",
+  "symbol": "DogeWifhat",
+  "decimals": 18,
+  "description": "DogeWifhat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeWifhat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeWifhat",
+  "addresses": {
+    "8453": "0x26640075836a78172d2871b4e2d75d42edc7049f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeWifhat",
+    "sanitizedSymbol": "DOGEWIFHAT",
+    "created_at": "2024-12-12T15:41:16.586207",
+    "deployer": "0xB0c1bA3A62FE87402620Aa9396642F2A4d3BCDF9",
+    "lpNftId": "1437272",
+    "lockerAddress": "0x13d8D73333F88e832CC0946b5BB28c6df1a61443"
+  },
+  "clankerInfo": null
+}

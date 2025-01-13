@@ -1,0 +1,22 @@
+{
+  "name": "howdoyoupartner",
+  "symbol": "howdoyoupartner",
+  "decimals": 18,
+  "description": "howdoyoupartner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=howdoyoupartner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "howdoyoupartner",
+  "addresses": {
+    "8453": "0x031e3f085b4a745a956e3de70edf14985da0014a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "howdoyoupartner",
+    "sanitizedSymbol": "HOWDOYOUPARTNER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210197",
+    "lockerAddress": "0x9f934D4BafEaae996a6Abab58d468B6f6B5776Ff"
+  },
+  "clankerInfo": null
+}

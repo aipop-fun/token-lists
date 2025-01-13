@@ -1,0 +1,22 @@
+{
+  "name": "Zenith",
+  "symbol": "Zenith",
+  "decimals": 18,
+  "description": "Zenith is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zenith",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zenith",
+  "addresses": {
+    "8453": "0x016ee9f411201bd819bd4a0b1ad3fec633e22b95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zenith",
+    "sanitizedSymbol": "ZENITH_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1319125",
+    "lockerAddress": "0x30c66A622bbA71c2eDA9EE870801Ef8158a61e8C"
+  },
+  "clankerInfo": null
+}

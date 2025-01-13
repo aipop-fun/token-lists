@@ -1,0 +1,22 @@
+{
+  "name": "ghosthouse",
+  "symbol": "ghosthouse",
+  "decimals": 18,
+  "description": "ghosthouse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ghosthouse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ghosthouse",
+  "addresses": {
+    "8453": "0x0954368bf49e2e5270c1aea4210ec5e982614e96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ghosthouse",
+    "sanitizedSymbol": "GHOSTHOUSE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x661c0cED2B7Ade3cbD041F3dd974FFe1Dd75cB6D",
+    "lpNftId": "1287236",
+    "lockerAddress": "0x0641f88825620504649E824C793783831E9Ea069"
+  },
+  "clankerInfo": null
+}

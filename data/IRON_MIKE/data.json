@@ -1,0 +1,22 @@
+{
+  "name": "Iron Mike",
+  "symbol": "Iron Mike",
+  "decimals": 18,
+  "description": "Iron Mike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Iron%20Mike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Iron Mike",
+  "addresses": {
+    "8453": "0x3d8e2785a7f75f51f473f5e0b846adc71f436b2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Iron Mike",
+    "sanitizedSymbol": "IRON_MIKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167218",
+    "lockerAddress": "0x35294EC1bF3C61Bef054173E3a332fcB7B78F53d"
+  },
+  "clankerInfo": null
+}

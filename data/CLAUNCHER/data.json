@@ -1,0 +1,22 @@
+{
+  "name": "Clauncher",
+  "symbol": "Clauncher",
+  "decimals": 18,
+  "description": "Clauncher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clauncher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clauncher",
+  "addresses": {
+    "8453": "0x2bfbbb49bc4a4f920d068acd21de6947c0f31ed5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clauncher",
+    "sanitizedSymbol": "CLAUNCHER",
+    "created_at": "2024-12-12T16:57:13.503569",
+    "deployer": "0xea4f41Ab8B52e2f6996bF2b937A1044A8618DbF4",
+    "lpNftId": "1438987",
+    "lockerAddress": "0xA3a885c8812424e84e6C3253E6AB155e1B21FDD9"
+  },
+  "clankerInfo": null
+}

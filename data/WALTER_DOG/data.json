@@ -1,0 +1,22 @@
+{
+  "name": "Walter Dog",
+  "symbol": "Walter Dog",
+  "decimals": 18,
+  "description": "Walter Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Walter%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Walter Dog",
+  "addresses": {
+    "8453": "0x213b00cad50bd9de0b37e787b3339907d8ed0e3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Walter Dog",
+    "sanitizedSymbol": "WALTER_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221220",
+    "lockerAddress": "0x5C475bCc2E3C13d77D7F31026D1635D93600F2dc"
+  },
+  "clankerInfo": null
+}

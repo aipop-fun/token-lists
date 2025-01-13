@@ -1,0 +1,22 @@
+{
+  "name": "Chad Clanker",
+  "symbol": "Chad Clanker",
+  "decimals": 18,
+  "description": "Chad Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chad%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chad Clanker",
+  "addresses": {
+    "8453": "0x264fbfc75a7dfa7a0d33aebc4b5937af7cf7fa5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chad Clanker",
+    "sanitizedSymbol": "CHAD_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7A430C552C77655677ad815F52BC873dAc63B7fD",
+    "lpNftId": "1332461",
+    "lockerAddress": "0x58849006FebC85F64972B44EDc400b46ceDFD872"
+  },
+  "clankerInfo": null
+}

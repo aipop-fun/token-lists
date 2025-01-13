@@ -1,0 +1,22 @@
+{
+  "name": "dextor",
+  "symbol": "dextor",
+  "decimals": 18,
+  "description": "dextor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dextor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dextor",
+  "addresses": {
+    "8453": "0x054bb771a337db6aff3d4ed7a4b98317b806ad29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dextor",
+    "sanitizedSymbol": "DEXTOR",
+    "created_at": "2024-12-11T13:16:20.939046",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418962",
+    "lockerAddress": "0xE18Ef6e72981f916e1E0EFc069f0acd7382fe925"
+  },
+  "clankerInfo": null
+}

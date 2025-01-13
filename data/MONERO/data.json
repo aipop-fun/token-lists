@@ -1,0 +1,22 @@
+{
+  "name": "Monero",
+  "symbol": "Monero",
+  "decimals": 18,
+  "description": "Monero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monero",
+  "addresses": {
+    "8453": "0x3368eab706cb5f9dd67233022e0855105800bf99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monero",
+    "sanitizedSymbol": "MONERO",
+    "created_at": "2024-12-08T23:59:18.455658",
+    "deployer": "0x17dAF278f0d4e406B435EA74387f52D0b18C5c25",
+    "lpNftId": "1250763",
+    "lockerAddress": "0x46FC9d76531F13Ba24B1e3C2EF4263a0186ED5bd"
+  },
+  "clankerInfo": null
+}

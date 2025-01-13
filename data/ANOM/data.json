@@ -1,0 +1,22 @@
+{
+  "name": "ANOM",
+  "symbol": "ANOM",
+  "decimals": 18,
+  "description": "ANOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANOM",
+  "addresses": {
+    "8453": "0x3fc736d562092fd7bd54ab63265e5bec8cec9bb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANOM",
+    "sanitizedSymbol": "ANOM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226300",
+    "lockerAddress": "0x40A154ee43ad8D23c570A5063d7e9d8500581640"
+  },
+  "clankerInfo": null
+}

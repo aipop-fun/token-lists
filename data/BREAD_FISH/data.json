@@ -1,0 +1,22 @@
+{
+  "name": "Bread Fish",
+  "symbol": "Bread Fish",
+  "decimals": 18,
+  "description": "Bread Fish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bread%20Fish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bread Fish",
+  "addresses": {
+    "8453": "0x1ee2e15745aedeae41eda22fcc4379292642f493"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bread Fish",
+    "sanitizedSymbol": "BREAD_FISH",
+    "created_at": "2024-12-09T20:56:41.99413",
+    "deployer": "0x35Dd826333CC1ff1Dfac87D15e49c125454A3252",
+    "lpNftId": "1392005",
+    "lockerAddress": "0x779Fdd55E5CeDDf09Ad33590D8764FF5349b3eAc"
+  },
+  "clankerInfo": null
+}

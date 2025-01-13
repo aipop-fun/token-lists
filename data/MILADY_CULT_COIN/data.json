@@ -1,0 +1,22 @@
+{
+  "name": "Milady Cult Coin",
+  "symbol": "Milady Cult Coin",
+  "decimals": 18,
+  "description": "Milady Cult Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Milady%20Cult%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Milady Cult Coin",
+  "addresses": {
+    "8453": "0x1b8cb7bdb77d8724411083ec46c9278f442dbda5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Milady Cult Coin",
+    "sanitizedSymbol": "MILADY_CULT_COIN",
+    "created_at": "2024-12-09T02:05:55.101604",
+    "deployer": "0xc6eAAcAa6De1b7C98Ff558Da46E0Bbd62a333885",
+    "lpNftId": "1377834",
+    "lockerAddress": "0x37855ca9A523bF4f1Fc43a37C7885E3146a6a6E4"
+  },
+  "clankerInfo": null
+}

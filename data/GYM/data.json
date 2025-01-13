@@ -1,0 +1,22 @@
+{
+  "name": "GYM",
+  "symbol": "GYM",
+  "decimals": 18,
+  "description": "GYM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GYM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GYM",
+  "addresses": {
+    "8453": "0x089fd611d96690d0fbc511c61fff172c8217a814"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GYM",
+    "sanitizedSymbol": "GYM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x42CbF7cFeeD7bEBadc9aE748526DdDf450E6e3cE",
+    "lpNftId": "1276708",
+    "lockerAddress": "0x13c512406D6aD14A9f3BCCB7502D0f83B8aEbE7c"
+  },
+  "clankerInfo": null
+}

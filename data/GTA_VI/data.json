@@ -1,0 +1,22 @@
+{
+  "name": "GTA VI",
+  "symbol": "GTA VI",
+  "decimals": 18,
+  "description": "GTA VI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GTA%20VI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GTA VI",
+  "addresses": {
+    "8453": "0x04957f7e2432cdb2c27e1be45c566b747807f811"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GTA VI",
+    "sanitizedSymbol": "GTA_VI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4501457c36aE0647Cd43a1a81EA4e9E69604215f",
+    "lpNftId": "1335626",
+    "lockerAddress": "0x2651d481b78bb050618eFA9C30eBF5150C6A7F7A"
+  },
+  "clankerInfo": null
+}

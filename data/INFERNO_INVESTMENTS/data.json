@@ -1,0 +1,22 @@
+{
+  "name": "Inferno Investments",
+  "symbol": "Inferno Investments",
+  "decimals": 18,
+  "description": "Inferno Investments is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inferno%20Investments",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inferno Investments",
+  "addresses": {
+    "8453": "0x359233e4e376bfe95a7f6807228570e21e8366ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inferno Investments",
+    "sanitizedSymbol": "INFERNO_INVESTMENTS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1148972",
+    "lockerAddress": "0x765fEB260803A7059a7A7d29F40E956ca38a6295"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Space Doge",
+  "symbol": "Space Doge",
+  "decimals": 18,
+  "description": "Space Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Space%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Space Doge",
+  "addresses": {
+    "8453": "0x049e0fec7723d902b4781d35f18a3298a20d4d6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Space Doge",
+    "sanitizedSymbol": "SPACE_DOGE",
+    "created_at": "2024-12-11T12:34:19.337166",
+    "deployer": "0xe69206579f1895f95E25A8a3aEd577027E74c687",
+    "lpNftId": "1418180",
+    "lockerAddress": "0x48c80E73f7Be154320Ed00B1E10e2B6a013819bc"
+  },
+  "clankerInfo": null
+}

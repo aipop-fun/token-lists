@@ -1,0 +1,22 @@
+{
+  "name": "Magic Effort",
+  "symbol": "Magic Effort",
+  "decimals": 18,
+  "description": "Magic Effort is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Effort",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Effort",
+  "addresses": {
+    "8453": "0x2e63588ad740762647aeb96b3b61fe44986afcfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Effort",
+    "sanitizedSymbol": "MAGIC_EFFORT",
+    "created_at": "2024-12-10T08:36:19.547245",
+    "deployer": "0x7948bc7502dDC2b05125FCC4bc9d76D042BcC419",
+    "lpNftId": "1398853",
+    "lockerAddress": "0x6bF889e230e53824F7D24295be39bD3E77752C97"
+  },
+  "clankerInfo": null
+}

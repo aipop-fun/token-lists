@@ -1,0 +1,22 @@
+{
+  "name": "Base Station",
+  "symbol": "Base Station",
+  "decimals": 18,
+  "description": "Base Station is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Station",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Station",
+  "addresses": {
+    "8453": "0x1e63e361ce6a505e8ead08d8a3d5230eea4e1ffd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Station",
+    "sanitizedSymbol": "BASE_STATION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0724182598Be88cc57E37c40D5D73901FF854606",
+    "lpNftId": "1375680",
+    "lockerAddress": "0x97BC0514F9aB7c3f181f98793B410d70C874F4C1"
+  },
+  "clankerInfo": null
+}

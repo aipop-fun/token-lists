@@ -1,0 +1,22 @@
+{
+  "name": "Santa Chill Guy",
+  "symbol": "Santa Chill Guy",
+  "decimals": 18,
+  "description": "Santa Chill Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Chill%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Chill Guy",
+  "addresses": {
+    "8453": "0x2c4c04ddb492dbbe5dfbe84f6fae150945f9b844"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Chill Guy",
+    "sanitizedSymbol": "SANTA_CHILL_GUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1323429",
+    "lockerAddress": "0xBf71fBD32e5C246FAb2c7e625E89f50eE02797f1"
+  },
+  "clankerInfo": null
+}

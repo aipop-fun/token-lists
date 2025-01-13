@@ -1,0 +1,22 @@
+{
+  "name": "HOG",
+  "symbol": "HOG",
+  "decimals": 18,
+  "description": "HOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOG",
+  "addresses": {
+    "8453": "0x219fbadd84fb52f58f4486bc494d46b3c658e9f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOG",
+    "sanitizedSymbol": "HOG",
+    "created_at": "2024-12-12T00:36:57.150831",
+    "deployer": "0x7962fEf25045f85a24cC14Ab166C79Ff080E75D8",
+    "lpNftId": "1428185",
+    "lockerAddress": "0x4907FfB827B443c496c7Ec3aea488CeD22079635"
+  },
+  "clankerInfo": null
+}

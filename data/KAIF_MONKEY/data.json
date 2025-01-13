@@ -1,0 +1,22 @@
+{
+  "name": "Kaif Monkey",
+  "symbol": "Kaif Monkey",
+  "decimals": 18,
+  "description": "Kaif Monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kaif%20Monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kaif Monkey",
+  "addresses": {
+    "8453": "0x04373bdb8ba0cbb05c69e4524ca16f7a886e28af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kaif Monkey",
+    "sanitizedSymbol": "KAIF_MONKEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x226c4936B8991beDE1FD613d43b62f7252EC6EDb",
+    "lpNftId": "1264465",
+    "lockerAddress": "0xc06c61E82E9Be4268CF1625bB64258326dfe4d1b"
+  },
+  "clankerInfo": null
+}

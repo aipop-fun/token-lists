@@ -1,0 +1,22 @@
+{
+  "name": "BOBO CLANKER",
+  "symbol": "BOBO CLANKER",
+  "decimals": 18,
+  "description": "BOBO CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOBO%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOBO CLANKER",
+  "addresses": {
+    "8453": "0x30359d53be8020d5d967151b8569f39d6057bf57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOBO CLANKER",
+    "sanitizedSymbol": "BOBO_CLANKER",
+    "created_at": "2024-12-12T05:14:33.278957",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1429333",
+    "lockerAddress": "0x05aceb73357F83188A41c13f7ca000a566A8e921"
+  },
+  "clankerInfo": null
+}

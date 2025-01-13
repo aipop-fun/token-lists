@@ -1,0 +1,22 @@
+{
+  "name": "GiftForU",
+  "symbol": "GiftForU",
+  "decimals": 18,
+  "description": "GiftForU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GiftForU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GiftForU",
+  "addresses": {
+    "8453": "0x25e71fbd287586c97e72b7cbe54acf4c0fa33dc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GiftForU",
+    "sanitizedSymbol": "GIFTFORU_4",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x05Ec339b8401724858DbCF6408fAb221bf54d465",
+    "lpNftId": "1157211",
+    "lockerAddress": "0x53a0FD0922dF0FEbcCa8F5714EAE61D652406963"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "clankerdyan",
+  "symbol": "clankerdyan",
+  "decimals": 18,
+  "description": "clankerdyan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerdyan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerdyan",
+  "addresses": {
+    "8453": "0x08bf8052ef8429766d077f66614cbf4cd8ceacda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerdyan",
+    "sanitizedSymbol": "CLANKERDYAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xFf40f7f12BeBC3DDC6Ee58924A8422ee6Fcf208C",
+    "lpNftId": "1253029",
+    "lockerAddress": "0x61C389EB693Af8aa93047F59f2FAf232040eE713"
+  },
+  "clankerInfo": null
+}

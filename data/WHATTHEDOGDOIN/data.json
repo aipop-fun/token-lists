@@ -1,0 +1,22 @@
+{
+  "name": "Whatthedogdoin",
+  "symbol": "Whatthedogdoin",
+  "decimals": 18,
+  "description": "Whatthedogdoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whatthedogdoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whatthedogdoin",
+  "addresses": {
+    "8453": "0x295d3cdcf91f1f12669dae1305a37c55bbf53ff4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whatthedogdoin",
+    "sanitizedSymbol": "WHATTHEDOGDOIN",
+    "created_at": "2024-12-12T16:20:12.563012",
+    "deployer": "0x50558fDFD8F064E2EE8974115172aCAA3a18eeE1",
+    "lpNftId": "1438372",
+    "lockerAddress": "0xf26cC3B9a4f9e6A64b3Ba7B61d00e194C0c1F0B1"
+  },
+  "clankerInfo": null
+}

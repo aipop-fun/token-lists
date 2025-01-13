@@ -1,0 +1,22 @@
+{
+  "name": "pump miasma",
+  "symbol": "pump miasma",
+  "decimals": 18,
+  "description": "pump miasma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump%20miasma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump miasma",
+  "addresses": {
+    "8453": "0x2cc516b8983f2f7cb4151ca5d3582dfe023c1538"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump miasma",
+    "sanitizedSymbol": "PUMP_MIASMA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x9439E01bD55f5706d63bBdF2fC34Dc5A6FB014dd",
+    "lpNftId": "1250619",
+    "lockerAddress": "0x568485729Ae1f7c19AbEA533c3A1A98936bD18f7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "trustcoin",
+  "symbol": "trustcoin",
+  "decimals": 18,
+  "description": "trustcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trustcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trustcoin",
+  "addresses": {
+    "8453": "0x12cbf09e16d0811c117111b42f57784f03e74e75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trustcoin",
+    "sanitizedSymbol": "TRUSTCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x12ce79966bC522569104d26db9037C9751aeCa80",
+    "lpNftId": "1124598",
+    "lockerAddress": "0xcCaFB2a1063CfA3661270aB0b640161F7423DccC"
+  },
+  "clankerInfo": null
+}

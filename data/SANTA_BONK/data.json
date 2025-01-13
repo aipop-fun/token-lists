@@ -1,0 +1,22 @@
+{
+  "name": "SANTA BONK",
+  "symbol": "SANTA BONK",
+  "decimals": 18,
+  "description": "SANTA BONK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20BONK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA BONK",
+  "addresses": {
+    "8453": "0x071a1ad94426ff0f53cf406ceed30b95a9ffb534"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA BONK",
+    "sanitizedSymbol": "SANTA_BONK",
+    "created_at": "2024-12-11T08:28:55.343828",
+    "deployer": "0x9CB86794dcC6F029B5E1718088C6d9Ff6117df73",
+    "lpNftId": "1414941",
+    "lockerAddress": "0x883F00a8125C49dC9be6d62eEbc68e734E4cCb93"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Deploy It",
+  "symbol": "Deploy It",
+  "decimals": 18,
+  "description": "Deploy It is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deploy%20It",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deploy It",
+  "addresses": {
+    "8453": "0x3956d12648f7144bf6b6c17490a6058d3cb1b1c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deploy It",
+    "sanitizedSymbol": "DEPLOY_IT",
+    "created_at": "2024-12-12T05:03:21.470263",
+    "deployer": "0xBa35b5c6FE6f30D2270CCd3849437e7a6620E8DB",
+    "lpNftId": "1429297",
+    "lockerAddress": "0x47ABcD0B6888b065F9FB290E63Bf7E198C5dee30"
+  },
+  "clankerInfo": null
+}

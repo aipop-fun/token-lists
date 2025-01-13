@@ -1,0 +1,22 @@
+{
+  "name": "auracaster",
+  "symbol": "auracaster",
+  "decimals": 18,
+  "description": "auracaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=auracaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "auracaster",
+  "addresses": {
+    "8453": "0x18871f39e281322a014483b9a69df707c389394c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "auracaster",
+    "sanitizedSymbol": "AURACASTER",
+    "created_at": "2024-12-12T21:17:21.468871",
+    "deployer": "0x60Fc2Be18B675a9770D252f75769f788F4a1Def8",
+    "lpNftId": "1443378",
+    "lockerAddress": "0x75146Fcf1103EF31684b849299f85578973dBc08"
+  },
+  "clankerInfo": null
+}

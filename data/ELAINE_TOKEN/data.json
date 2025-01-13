@@ -1,0 +1,22 @@
+{
+  "name": "Elaine Token",
+  "symbol": "Elaine Token",
+  "decimals": 18,
+  "description": "Elaine Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elaine%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elaine Token",
+  "addresses": {
+    "8453": "0x39ce650d76d4b971e3e9e80fa590f785f063ace9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elaine Token",
+    "sanitizedSymbol": "ELAINE_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1286162",
+    "lockerAddress": "0x7aA53c7e24D3914324D354eACaC0be2E71B06970"
+  },
+  "clankerInfo": null
+}

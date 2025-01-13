@@ -1,0 +1,22 @@
+{
+  "name": "bing bong",
+  "symbol": "bing bong",
+  "decimals": 18,
+  "description": "bing bong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bing%20bong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bing bong",
+  "addresses": {
+    "8453": "0x3ad98b2e58acd09e6d8e0db76cc476a5afd0023b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bing bong",
+    "sanitizedSymbol": "BING_BONG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1298360",
+    "lockerAddress": "0x2e3d2044d2DC8c0CE5deC3009C56E7cdff38496E"
+  },
+  "clankerInfo": null
+}

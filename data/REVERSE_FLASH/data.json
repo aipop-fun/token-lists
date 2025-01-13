@@ -1,0 +1,22 @@
+{
+  "name": "Reverse-Flash",
+  "symbol": "Reverse-Flash",
+  "decimals": 18,
+  "description": "Reverse-Flash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reverse-Flash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reverse-Flash",
+  "addresses": {
+    "8453": "0x0e7e16bd1e852bc313b16d8f8c1f4118abe5bb2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reverse-Flash",
+    "sanitizedSymbol": "REVERSE_FLASH",
+    "created_at": "2024-12-12T15:59:45.433145",
+    "deployer": "0x5Cde8631C1863F2771C84699ECDffe62A1e71674",
+    "lpNftId": "1437718",
+    "lockerAddress": "0x402806F0434A3b906A36192f921698f64bFbcA5A"
+  },
+  "clankerInfo": null
+}

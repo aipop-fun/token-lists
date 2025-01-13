@@ -1,0 +1,22 @@
+{
+  "name": "CEOW",
+  "symbol": "CEOW",
+  "decimals": 18,
+  "description": "CEOW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CEOW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CEOW",
+  "addresses": {
+    "8453": "0x06eeb1a5ab848d417fb3dc4ccc5bad79b9a81cf9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CEOW",
+    "sanitizedSymbol": "CEOW_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x829545355315a14C2b9Ff56eBd84Cd1301720caf",
+    "lpNftId": "1268674",
+    "lockerAddress": "0xd05173cD17D24BefFE4748758CE6010314f66462"
+  },
+  "clankerInfo": null
+}

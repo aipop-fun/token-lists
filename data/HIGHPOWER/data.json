@@ -1,0 +1,22 @@
+{
+  "name": "highpower",
+  "symbol": "highpower",
+  "decimals": 18,
+  "description": "highpower is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=highpower",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "highpower",
+  "addresses": {
+    "8453": "0x218dc5f0e0e1e09ac50c0f4a74c3c7ade9c65eac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "highpower",
+    "sanitizedSymbol": "HIGHPOWER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13C2BF12304E74deB34669CE89c124924358B795",
+    "lpNftId": "1309152",
+    "lockerAddress": "0x6682E9C4C532D8a264C690045773c224eEdA8331"
+  },
+  "clankerInfo": null
+}

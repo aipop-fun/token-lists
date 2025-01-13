@@ -1,0 +1,22 @@
+{
+  "name": "BOOKMARK",
+  "symbol": "BOOKMARK",
+  "decimals": 18,
+  "description": "BOOKMARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOOKMARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOOKMARK",
+  "addresses": {
+    "8453": "0x21ad64950bee6504028cf94a13c63487b2303e1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOOKMARK",
+    "sanitizedSymbol": "BOOKMARK",
+    "created_at": "2024-12-09T12:53:55.144342",
+    "deployer": "0x7e4CAae00c0122a686d0C7C0BAfc526b4527DA02",
+    "lpNftId": "1387156",
+    "lockerAddress": "0x36118077ED462b73294767Be172fedeaF9f0116A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "xium",
+  "symbol": "xium",
+  "decimals": 18,
+  "description": "xium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xium",
+  "addresses": {
+    "8453": "0x0103033141e263cd55ae4e4e25b92f0e49f6e7b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xium",
+    "sanitizedSymbol": "XIUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc14Fb3F6cb9Fed43021f57CA6092FEEA841978b9",
+    "lpNftId": "1324239",
+    "lockerAddress": "0x00cBcFb8dEfC3703Cdc64B975Ba355E919cb1346"
+  },
+  "clankerInfo": null
+}

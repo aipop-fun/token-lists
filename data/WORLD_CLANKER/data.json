@@ -1,0 +1,22 @@
+{
+  "name": "World Clanker",
+  "symbol": "World Clanker",
+  "decimals": 18,
+  "description": "World Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World Clanker",
+  "addresses": {
+    "8453": "0x14e7b86077b88bb1fd47c674bb0e37b03a203c94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World Clanker",
+    "sanitizedSymbol": "WORLD_CLANKER",
+    "created_at": "2024-12-10T05:44:29.366074",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1397124",
+    "lockerAddress": "0x3521FFe9618a97a9350F97a7e1cAABa17BE752C8"
+  },
+  "clankerInfo": null
+}

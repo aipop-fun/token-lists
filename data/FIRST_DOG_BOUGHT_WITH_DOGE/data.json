@@ -1,0 +1,22 @@
+{
+  "name": "First dog bought with DOGE",
+  "symbol": "First dog bought with DOGE",
+  "decimals": 18,
+  "description": "First dog bought with DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=First%20dog%20bought%20with%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "First dog bought with DOGE",
+  "addresses": {
+    "8453": "0x14d318cb3dc79c16f9ab5833d55d5d9bbe52e3d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "First dog bought with DOGE",
+    "sanitizedSymbol": "FIRST_DOG_BOUGHT_WITH_DOGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194378",
+    "lockerAddress": "0x7b1De9F5Fa39326498E5d153cB00b2D46E30ed87"
+  },
+  "clankerInfo": null
+}

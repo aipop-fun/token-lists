@@ -1,0 +1,22 @@
+{
+  "name": "farclanker",
+  "symbol": "farclanker",
+  "decimals": 18,
+  "description": "farclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=farclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "farclanker",
+  "addresses": {
+    "8453": "0x11f09afe2ee2a6bbfa585fd9f99548c43e932185"
+  },
+  "tokenInfo": {
+    "originalSymbol": "farclanker",
+    "sanitizedSymbol": "FARCLANKER",
+    "created_at": "2024-12-12T21:50:39.062784",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1444175",
+    "lockerAddress": "0x6780202CB46F94AFB749Eb3dc8256C6D6669FF8C"
+  },
+  "clankerInfo": null
+}

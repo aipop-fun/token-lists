@@ -1,0 +1,22 @@
+{
+  "name": "Degen Bombie",
+  "symbol": "Degen Bombie",
+  "decimals": 18,
+  "description": "Degen Bombie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Bombie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Bombie",
+  "addresses": {
+    "8453": "0x264dbac6cb206845873823a896ae78fe77ccfc80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Bombie",
+    "sanitizedSymbol": "DEGEN_BOMBIE",
+    "created_at": "2024-12-12T14:20:55.681172",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1435681",
+    "lockerAddress": "0x050Fbbd854E22B9A1fFc92A30aB403af85B4df5E"
+  },
+  "clankerInfo": null
+}

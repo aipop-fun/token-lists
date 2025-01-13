@@ -1,0 +1,22 @@
+{
+  "name": "COINLOL",
+  "symbol": "COINLOL",
+  "decimals": 18,
+  "description": "COINLOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COINLOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COINLOL",
+  "addresses": {
+    "8453": "0x28ca05f67ee2d9e30d073772f017aa3ad16207c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COINLOL",
+    "sanitizedSymbol": "COINLOL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3d5F592cf215F48e699f0018cD4eC71a638aF765",
+    "lpNftId": "1281957",
+    "lockerAddress": "0x8f0d0b76BE41C5fD194D7b9f87FCfd86689d121F"
+  },
+  "clankerInfo": null
+}

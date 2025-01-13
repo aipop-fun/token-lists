@@ -1,0 +1,22 @@
+{
+  "name": "homies",
+  "symbol": "homies",
+  "decimals": 18,
+  "description": "homies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=homies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "homies",
+  "addresses": {
+    "8453": "0x10cab3498ab90e8bc673523d265713629260bbc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "homies",
+    "sanitizedSymbol": "HOMIES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222936",
+    "lockerAddress": "0x9D34d3Ce19C8e55314b74dF798fe7d2B310d5F21"
+  },
+  "clankerInfo": null
+}

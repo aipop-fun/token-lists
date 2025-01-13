@@ -1,0 +1,22 @@
+{
+  "name": "SHOE A KITTY",
+  "symbol": "SHOE A KITTY",
+  "decimals": 18,
+  "description": "SHOE A KITTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHOE%20A%20KITTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHOE A KITTY",
+  "addresses": {
+    "8453": "0x0854d69e0148f837eb0ecd81f051e1e786461cec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHOE A KITTY",
+    "sanitizedSymbol": "SHOE_A_KITTY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a2Ad8d914b57E5E71580F73F00Fdbfc122F6F3C",
+    "lpNftId": "1332631",
+    "lockerAddress": "0xef929284FDB04DF2F78E12ffF4C2E5f6c4fA7639"
+  },
+  "clankerInfo": null
+}

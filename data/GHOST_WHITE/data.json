@@ -1,0 +1,22 @@
+{
+  "name": "Ghost White",
+  "symbol": "Ghost White",
+  "decimals": 18,
+  "description": "Ghost White is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ghost%20White",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ghost White",
+  "addresses": {
+    "8453": "0x0c3ddfc158729b9b37ba3576a65b0ade6130a8ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ghost White",
+    "sanitizedSymbol": "GHOST_WHITE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233457",
+    "lockerAddress": "0xd4FE826DED281d0671E019f815F3EC8198b855aE"
+  },
+  "clankerInfo": null
+}

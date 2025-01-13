@@ -1,0 +1,22 @@
+{
+  "name": "$PUMP",
+  "symbol": "$PUMP",
+  "decimals": 18,
+  "description": "$PUMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24PUMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$PUMP",
+  "addresses": {
+    "8453": "0x267750d8656c7288e82e2f41242c26ef5e4f4611"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$PUMP",
+    "sanitizedSymbol": "PUMP_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x271a76F815E544aDB83e84d368295c0E83305e5a",
+    "lpNftId": "1331061",
+    "lockerAddress": "0xFFE139Cd9bEd0471225524f5883b23A46e189170"
+  },
+  "clankerInfo": null
+}

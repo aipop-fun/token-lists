@@ -1,0 +1,22 @@
+{
+  "name": "RDATAV2",
+  "symbol": "RDATAV2",
+  "decimals": 18,
+  "description": "RDATAV2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RDATAV2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RDATAV2",
+  "addresses": {
+    "8453": "0x3721014d2264bddd87dd4ff33131c5c9782efb60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RDATAV2",
+    "sanitizedSymbol": "RDATAV2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x88972bec03d1EDC25924989E41c96B042799D6ab",
+    "lpNftId": "1264116",
+    "lockerAddress": "0x6e474CA1d7C5623C1Ab3A1cBB9F93517D0C28386"
+  },
+  "clankerInfo": null
+}

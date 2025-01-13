@@ -1,0 +1,22 @@
+{
+  "name": "HIHI",
+  "symbol": "HIHI",
+  "decimals": 18,
+  "description": "HIHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HIHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HIHI",
+  "addresses": {
+    "8453": "0x106609b1c90a3d54df9df01bc85c6ce236ac80b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HIHI",
+    "sanitizedSymbol": "HIHI_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2eeD6D9F252F2CA92e27007142786149fC7827Aa",
+    "lpNftId": "1319318",
+    "lockerAddress": "0xA0959F5D7198C1aB24c4dDdC081C6E83952b86e5"
+  },
+  "clankerInfo": null
+}

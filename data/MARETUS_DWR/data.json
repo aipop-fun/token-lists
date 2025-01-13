@@ -1,0 +1,22 @@
+{
+  "name": "Maretus dwr",
+  "symbol": "Maretus dwr",
+  "decimals": 18,
+  "description": "Maretus dwr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maretus%20dwr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maretus dwr",
+  "addresses": {
+    "8453": "0x1c444f131f27a5b410ee0f54cb8fa2cd85787798"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maretus dwr",
+    "sanitizedSymbol": "MARETUS_DWR",
+    "created_at": "2024-12-09T05:29:06.834402",
+    "deployer": "0xca32f6d4FA7d798ea153D4489645Ef1bC80ecb5f",
+    "lpNftId": "1383185",
+    "lockerAddress": "0x4583f82f573d8509c217Ac8b54d515785D13e142"
+  },
+  "clankerInfo": null
+}

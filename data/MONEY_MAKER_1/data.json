@@ -1,0 +1,22 @@
+{
+  "name": "Money Maker",
+  "symbol": "Money Maker",
+  "decimals": 18,
+  "description": "Money Maker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Money%20Maker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Money Maker",
+  "addresses": {
+    "8453": "0x38ec043c0dc4b1822bdee0ae670032f676755f9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Money Maker",
+    "sanitizedSymbol": "MONEY_MAKER_1",
+    "created_at": "2024-12-11T15:25:03.496957",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1420906",
+    "lockerAddress": "0x55C6c41d837DF4e3BE4280F5F42656FB41cA81A1"
+  },
+  "clankerInfo": null
+}

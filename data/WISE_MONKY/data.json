@@ -1,0 +1,22 @@
+{
+  "name": "Wise Monky",
+  "symbol": "Wise Monky",
+  "decimals": 18,
+  "description": "Wise Monky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wise%20Monky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wise Monky",
+  "addresses": {
+    "8453": "0x32c4a266db8546ba60f8e6c8cd2a8ad7520c2b1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wise Monky",
+    "sanitizedSymbol": "WISE_MONKY",
+    "created_at": "2024-12-09T05:44:39.667549",
+    "deployer": "0xced325d7A10E8a2Abe8436a71a2c858292f851df",
+    "lpNftId": "1383333",
+    "lockerAddress": "0x661E1469B18C494400C3b33e8377408990C06e36"
+  },
+  "clankerInfo": null
+}

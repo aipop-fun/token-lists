@@ -1,0 +1,22 @@
+{
+  "name": "AnonAI",
+  "symbol": "AnonAI",
+  "decimals": 18,
+  "description": "AnonAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonAI",
+  "addresses": {
+    "8453": "0x084ef315a6e37312af2342aa445cd9e80159b063"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonAI",
+    "sanitizedSymbol": "ANONAI_2",
+    "created_at": "2024-12-11T16:53:36.656878",
+    "deployer": "0x9aeB385fe75f069F4b2af1E115A1f1F731230F62",
+    "lpNftId": "1422120",
+    "lockerAddress": "0x869dF0C7e06621Fe03343B4adBD26838bAa0468e"
+  },
+  "clankerInfo": null
+}

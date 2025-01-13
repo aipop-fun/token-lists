@@ -1,0 +1,22 @@
+{
+  "name": "BANANAPEEL",
+  "symbol": "BANANAPEEL",
+  "decimals": 18,
+  "description": "BANANAPEEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANANAPEEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANANAPEEL",
+  "addresses": {
+    "8453": "0x3c46cefb1127c0643324098a0d8280394f52a54b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANANAPEEL",
+    "sanitizedSymbol": "BANANAPEEL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0dA53864f41F702892cbed60482431feE7d5B522",
+    "lpNftId": "1281302",
+    "lockerAddress": "0xba4100a3cC743Fc44F0c23E067F852D56D7043d1"
+  },
+  "clankerInfo": null
+}

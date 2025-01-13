@@ -1,0 +1,22 @@
+{
+  "name": "Your Company",
+  "symbol": "Your Company",
+  "decimals": 18,
+  "description": "Your Company is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Your%20Company",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Your Company",
+  "addresses": {
+    "8453": "0x3cfe36de4ade9389b1cf44d445109458a97fbd4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Your Company",
+    "sanitizedSymbol": "YOUR_COMPANY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232865",
+    "lockerAddress": "0x184d812539b4175233E69b473e11b5fF85398B5d"
+  },
+  "clankerInfo": null
+}

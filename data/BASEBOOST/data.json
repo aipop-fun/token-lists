@@ -1,0 +1,22 @@
+{
+  "name": "BaseBoost",
+  "symbol": "BaseBoost",
+  "decimals": 18,
+  "description": "BaseBoost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseBoost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseBoost",
+  "addresses": {
+    "8453": "0x3658eca05d9170b9c0b7c92d207845de16cc5843"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseBoost",
+    "sanitizedSymbol": "BASEBOOST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1322125",
+    "lockerAddress": "0x8b77dcd1EE13B70d7D5a81F59fed353F0E3292ed"
+  },
+  "clankerInfo": null
+}

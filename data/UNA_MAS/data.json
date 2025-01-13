@@ -1,0 +1,22 @@
+{
+  "name": "Una mas",
+  "symbol": "Una mas",
+  "decimals": 18,
+  "description": "Una mas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Una%20mas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Una mas",
+  "addresses": {
+    "8453": "0x132dd7ba043c44f200e728538d98a2d0fa52b0a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Una mas",
+    "sanitizedSymbol": "UNA_MAS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237044",
+    "lockerAddress": "0x69d7d649dF3022bd8CA39D4944549bFBca07D8e9"
+  },
+  "clankerInfo": null
+}

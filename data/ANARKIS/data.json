@@ -1,0 +1,22 @@
+{
+  "name": "Anarkis",
+  "symbol": "Anarkis",
+  "decimals": 18,
+  "description": "Anarkis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anarkis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anarkis",
+  "addresses": {
+    "8453": "0x0c42ddd4d973e25bd1b9b985b44b54ddd6da7e97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anarkis",
+    "sanitizedSymbol": "ANARKIS",
+    "created_at": "2024-12-10T07:09:48.766588",
+    "deployer": "0xF91c5BE9d26875745F362032af6e1FB649Fa9abA",
+    "lpNftId": "1397649",
+    "lockerAddress": "0xc6471c1De95970Cd07866Def5e0e9CE8dBf58d77"
+  },
+  "clankerInfo": null
+}

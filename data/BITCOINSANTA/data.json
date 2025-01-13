@@ -1,0 +1,22 @@
+{
+  "name": "BitcoinSanta",
+  "symbol": "BitcoinSanta",
+  "decimals": 18,
+  "description": "BitcoinSanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BitcoinSanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BitcoinSanta",
+  "addresses": {
+    "8453": "0x056de5ffe58d0f485845ce2fa7ef0ae94b8018a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BitcoinSanta",
+    "sanitizedSymbol": "BITCOINSANTA",
+    "created_at": "2024-12-09T20:12:27.204003",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1391466",
+    "lockerAddress": "0x6F4CF2136c5654df352301adeB80A925852eB1A5"
+  },
+  "clankerInfo": null
+}

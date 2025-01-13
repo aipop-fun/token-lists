@@ -1,0 +1,22 @@
+{
+  "name": "Turtle",
+  "symbol": "Turtle",
+  "decimals": 18,
+  "description": "Turtle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Turtle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Turtle",
+  "addresses": {
+    "8453": "0x0b2ff2850dad5b37ae317060aeb11de6758366e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Turtle",
+    "sanitizedSymbol": "TURTLE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7aAf831AD5482F5eFaDC5a65Ca94c1Dd1A0b6d71",
+    "lpNftId": "1309661",
+    "lockerAddress": "0x862829F14f98e6Ac9A7f748d5A005933F92d8999"
+  },
+  "clankerInfo": null
+}

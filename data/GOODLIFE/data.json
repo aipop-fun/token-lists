@@ -1,0 +1,22 @@
+{
+  "name": "GOODLIFE",
+  "symbol": "GOODLIFE",
+  "decimals": 18,
+  "description": "GOODLIFE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOODLIFE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOODLIFE",
+  "addresses": {
+    "8453": "0x37d2977ae6d70c4c4e5a4e2208713bf83c40026a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOODLIFE",
+    "sanitizedSymbol": "GOODLIFE",
+    "created_at": "2024-12-12T15:38:56.772151",
+    "deployer": "0x126C92Fe02303028842e5f1e705B276de2593300",
+    "lpNftId": "1437209",
+    "lockerAddress": "0xB716Ff94dF7496D98b2287Ef61c42237E1d1D531"
+  },
+  "clankerInfo": null
+}

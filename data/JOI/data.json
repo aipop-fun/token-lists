@@ -1,0 +1,22 @@
+{
+  "name": "JOI",
+  "symbol": "JOI",
+  "decimals": 18,
+  "description": "JOI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JOI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JOI",
+  "addresses": {
+    "8453": "0x215c295c36ad8b5701300448b379e3e426781565"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JOI",
+    "sanitizedSymbol": "JOI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfe8cC72D95633e3a40CF3D221a609ef0C4807745",
+    "lpNftId": "1287748",
+    "lockerAddress": "0x6934f9D6cE22E3BfcFE99BA2d5048F48e55E8cB2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Awowogei on base",
+  "symbol": "Awowogei on base",
+  "decimals": 18,
+  "description": "Awowogei on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Awowogei%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Awowogei on base",
+  "addresses": {
+    "8453": "0x229212ee31ba96adc31cd59fca2c2e9fc2492486"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Awowogei on base",
+    "sanitizedSymbol": "AWOWOGEI_ON_BASE",
+    "created_at": "2024-12-11T18:08:43.471151",
+    "deployer": "0xA06FaEA464c09733d36BE6a452736d682E2033dC",
+    "lpNftId": "1423401",
+    "lockerAddress": "0x94F7Fb9e425CC91684361694Af07AC4F49F08B2C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CHONKY",
+  "symbol": "CHONKY",
+  "decimals": 18,
+  "description": "CHONKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHONKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHONKY",
+  "addresses": {
+    "8453": "0x190fa7ebd8ac1f9c14ea04e104cb389f35c41ffd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHONKY",
+    "sanitizedSymbol": "CHONKY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9A403e728C41499A31e8249E19b3C9690E01698C",
+    "lpNftId": "1266075",
+    "lockerAddress": "0x4C14454566C6016e62a3e5Ad9D12425F844Fb77E"
+  },
+  "clankerInfo": null
+}

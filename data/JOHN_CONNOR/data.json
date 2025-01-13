@@ -1,0 +1,22 @@
+{
+  "name": "John Connor",
+  "symbol": "John Connor",
+  "decimals": 18,
+  "description": "John Connor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=John%20Connor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "John Connor",
+  "addresses": {
+    "8453": "0x1d8de6bbaa3d8856bfa7f20d6cf763e52b756e2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "John Connor",
+    "sanitizedSymbol": "JOHN_CONNOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3402AcA642DdB9C322872Dd84a3d4e2F1C17eFF2",
+    "lpNftId": "1292169",
+    "lockerAddress": "0x6594838bC79F366589Cd50551B683Bf3966DaaE4"
+  },
+  "clankerInfo": null
+}

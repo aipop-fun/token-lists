@@ -1,0 +1,22 @@
+{
+  "name": "SENDIT",
+  "symbol": "SENDIT",
+  "decimals": 18,
+  "description": "SENDIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SENDIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SENDIT",
+  "addresses": {
+    "8453": "0x1e6ebb5dd74cf9a8a51c171ded5b23dcb769ccc1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SENDIT",
+    "sanitizedSymbol": "SENDIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226472",
+    "lockerAddress": "0x3044FA6067196C363B65DC73d1fb0563D9dD7B8d"
+  },
+  "clankerInfo": null
+}

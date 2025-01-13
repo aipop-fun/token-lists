@@ -1,0 +1,22 @@
+{
+  "name": "Shock Chance",
+  "symbol": "Shock Chance",
+  "decimals": 18,
+  "description": "Shock Chance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shock%20Chance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shock Chance",
+  "addresses": {
+    "8453": "0x37c1aac8f9df12c58fa8bb4ea7944eb6d195d7a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shock Chance",
+    "sanitizedSymbol": "SHOCK_CHANCE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233831",
+    "lockerAddress": "0x991a3008ef28DAc1D663b81a1Fdf4B74D5Ca4B84"
+  },
+  "clankerInfo": null
+}

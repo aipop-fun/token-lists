@@ -1,0 +1,22 @@
+{
+  "name": "Giga Chad",
+  "symbol": "Giga Chad",
+  "decimals": 18,
+  "description": "Giga Chad is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Giga%20Chad",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Giga Chad",
+  "addresses": {
+    "8453": "0x1111e2dd12244809a9a73c55d60f9afacb11ff5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Giga Chad",
+    "sanitizedSymbol": "GIGA_CHAD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119885",
+    "lockerAddress": "0xa281de6f1ebdF66710A074512BD16B79D8730cA3"
+  },
+  "clankerInfo": null
+}

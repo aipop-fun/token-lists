@@ -1,0 +1,22 @@
+{
+  "name": "ElonAdam",
+  "symbol": "ElonAdam",
+  "decimals": 18,
+  "description": "ElonAdam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ElonAdam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ElonAdam",
+  "addresses": {
+    "8453": "0x3ae272fb484f06207b04274539cb98348c8c5932"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ElonAdam",
+    "sanitizedSymbol": "ELONADAM",
+    "created_at": "2024-12-11T00:56:23.344522",
+    "deployer": "0x0ED26295d0c4113C73A3F68f956a684ea5dcD345",
+    "lpNftId": "1409129",
+    "lockerAddress": "0x6EC075600FeA737d2CBC1066fFa6885cEB2df8B6"
+  },
+  "clankerInfo": null
+}

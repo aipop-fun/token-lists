@@ -1,0 +1,22 @@
+{
+  "name": "AngryDegen",
+  "symbol": "AngryDegen",
+  "decimals": 18,
+  "description": "AngryDegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AngryDegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AngryDegen",
+  "addresses": {
+    "8453": "0x1ef27b0d8cd0d550b30a9b93988d213b1172a85e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AngryDegen",
+    "sanitizedSymbol": "ANGRYDEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC1d02aBAdc2fed2619512ADeA1418Bd83490E66d",
+    "lpNftId": "1302234",
+    "lockerAddress": "0xbFF24a412eA3619eae7a1B73886d9dc1e1Bce0Dc"
+  },
+  "clankerInfo": null
+}

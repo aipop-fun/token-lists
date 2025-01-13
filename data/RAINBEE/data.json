@@ -1,0 +1,22 @@
+{
+  "name": "RAINBEE",
+  "symbol": "RAINBEE",
+  "decimals": 18,
+  "description": "RAINBEE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAINBEE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAINBEE",
+  "addresses": {
+    "8453": "0x089c89f6b622106b38e9cdf91297236447b1d60a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAINBEE",
+    "sanitizedSymbol": "RAINBEE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x73e34A7176e47FDF1f45fd7726De86368325c407",
+    "lpNftId": "1324340",
+    "lockerAddress": "0x0c476A244982eAc35C1183b91Dcb80B433f8Ebb7"
+  },
+  "clankerInfo": null
+}

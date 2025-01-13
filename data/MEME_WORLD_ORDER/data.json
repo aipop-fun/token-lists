@@ -1,0 +1,22 @@
+{
+  "name": "meme world order",
+  "symbol": "meme world order",
+  "decimals": 18,
+  "description": "meme world order is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=meme%20world%20order",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "meme world order",
+  "addresses": {
+    "8453": "0x03fb52809b5ef3f2daaab0f3549169acb76deff4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "meme world order",
+    "sanitizedSymbol": "MEME_WORLD_ORDER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe038017F8136dae061780C1F0Af844507FF82386",
+    "lpNftId": "1327328",
+    "lockerAddress": "0x1b1037ff48aE4447adD80B31E01AC0e63A0b6337"
+  },
+  "clankerInfo": null
+}

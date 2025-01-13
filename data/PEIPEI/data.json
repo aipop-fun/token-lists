@@ -1,0 +1,22 @@
+{
+  "name": "PeiPei",
+  "symbol": "PeiPei",
+  "decimals": 18,
+  "description": "PeiPei is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PeiPei",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PeiPei",
+  "addresses": {
+    "8453": "0x3083a84013be095a69d64f9828ed5f8f6d4478f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PeiPei",
+    "sanitizedSymbol": "PEIPEI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229609",
+    "lockerAddress": "0x68eC223Dc9bb6776F52642951f37A473cc18731b"
+  },
+  "clankerInfo": null
+}

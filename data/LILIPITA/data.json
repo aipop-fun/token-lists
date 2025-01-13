@@ -1,0 +1,22 @@
+{
+  "name": "LILIPITA",
+  "symbol": "LILIPITA",
+  "decimals": 18,
+  "description": "LILIPITA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LILIPITA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LILIPITA",
+  "addresses": {
+    "8453": "0x2a317f21cc72eeec907d9d9a44c8df0427830ea9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LILIPITA",
+    "sanitizedSymbol": "LILIPITA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x58C21C87ddaB2CFb7678D3bFf1F29530D7933298",
+    "lpNftId": "1324471",
+    "lockerAddress": "0x7AfFaBA8ECf0D8f3c983630940F54A64c05b14d4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Charmander",
+  "symbol": "Charmander",
+  "decimals": 18,
+  "description": "Charmander is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Charmander",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Charmander",
+  "addresses": {
+    "8453": "0x051d25a60204fef1a07ed06a334bdc9d59d276cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Charmander",
+    "sanitizedSymbol": "CHARMANDER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1319385",
+    "lockerAddress": "0x75Da510571757CC1E27B819a541b294de40E0485"
+  },
+  "clankerInfo": null
+}

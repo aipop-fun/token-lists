@@ -1,0 +1,22 @@
+{
+  "name": "BillionBase",
+  "symbol": "BillionBase",
+  "decimals": 18,
+  "description": "BillionBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BillionBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BillionBase",
+  "addresses": {
+    "8453": "0x367b2dc29d3395e67428bc3343bbf02c7ffe84c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BillionBase",
+    "sanitizedSymbol": "BILLIONBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128553",
+    "lockerAddress": "0x04B8c3bc56Bb6405581773C93520084b00940f9A"
+  },
+  "clankerInfo": null
+}

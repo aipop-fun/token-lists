@@ -1,0 +1,22 @@
+{
+  "name": "BOKER",
+  "symbol": "BOKER",
+  "decimals": 18,
+  "description": "BOKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOKER",
+  "addresses": {
+    "8453": "0x368c9eb6e58b818ade83c4c89f346d833ddabc8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOKER",
+    "sanitizedSymbol": "BOKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213391",
+    "lockerAddress": "0xaBbcC042F5d51226243e25138B612F2cec228e30"
+  },
+  "clankerInfo": null
+}

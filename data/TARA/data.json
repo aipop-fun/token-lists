@@ -1,0 +1,22 @@
+{
+  "name": "TARA",
+  "symbol": "TARA",
+  "decimals": 18,
+  "description": "TARA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TARA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TARA",
+  "addresses": {
+    "8453": "0x39e034c2979d31e061224cf47cf9a27959754d48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TARA",
+    "sanitizedSymbol": "TARA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa39f3f1001E06eCeD2CA6b82f760814C2E48ea4E",
+    "lpNftId": "1289485",
+    "lockerAddress": "0x4F4ea6ea428471eeab82377E4C8087B71FbD8d1e"
+  },
+  "clankerInfo": null
+}

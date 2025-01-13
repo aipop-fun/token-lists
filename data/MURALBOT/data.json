@@ -1,0 +1,22 @@
+{
+  "name": "Muralbot",
+  "symbol": "Muralbot",
+  "decimals": 18,
+  "description": "Muralbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Muralbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Muralbot",
+  "addresses": {
+    "8453": "0x38e3d13299d76b4166b979eb6ed0009b2d8f70b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Muralbot",
+    "sanitizedSymbol": "MURALBOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFE3A509F8E8eb59209CC8c9b90f7b352781E96f4",
+    "lpNftId": "1322208",
+    "lockerAddress": "0xccA57393178038bfCC99FBd7d085c2ed25009ee5"
+  },
+  "clankerInfo": null
+}

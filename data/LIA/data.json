@@ -1,0 +1,22 @@
+{
+  "name": "Lia",
+  "symbol": "Lia",
+  "decimals": 18,
+  "description": "Lia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lia",
+  "addresses": {
+    "8453": "0x1cc04fd81e32c9cf0619a2f1298a4cdd956a813d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lia",
+    "sanitizedSymbol": "LIA",
+    "created_at": "2024-12-12T13:55:55.515955",
+    "deployer": "0x697C132b7f7231a0e35Bd0237150854Fd2C65361",
+    "lpNftId": "1435375",
+    "lockerAddress": "0x8a1Ce31f66Cf58e0eC0d6A95ACf6B11b6c5D6663"
+  },
+  "clankerInfo": null
+}

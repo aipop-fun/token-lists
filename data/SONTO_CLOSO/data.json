@@ -1,0 +1,22 @@
+{
+  "name": "sonto closo",
+  "symbol": "sonto closo",
+  "decimals": 18,
+  "description": "sonto closo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sonto%20closo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sonto closo",
+  "addresses": {
+    "8453": "0x268219ecfaaf3c6d8cf0536a3e8c45fea5cdedcd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sonto closo",
+    "sanitizedSymbol": "SONTO_CLOSO",
+    "created_at": "2024-12-11T18:18:25.410387",
+    "deployer": "0x7cC42b80C9ccD2019B15e6Ca09DA4d5060216e1a",
+    "lpNftId": "1423637",
+    "lockerAddress": "0x1E284f19DF0c3729563bD6BB0352eC59088532f7"
+  },
+  "clankerInfo": null
+}

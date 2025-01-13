@@ -1,0 +1,22 @@
+{
+  "name": "BossBaby",
+  "symbol": "BossBaby",
+  "decimals": 18,
+  "description": "BossBaby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BossBaby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BossBaby",
+  "addresses": {
+    "8453": "0x10a12a87af2f18bdc89510430ada05778af8548b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BossBaby",
+    "sanitizedSymbol": "BOSSBABY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7e3e0497Df18E6108fC1c39361893D40b9609FD0",
+    "lpNftId": "1283673",
+    "lockerAddress": "0x576af1040D1006E638390B71cCad4fbCB3b3b583"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BALD COIN",
+  "symbol": "BALD COIN",
+  "decimals": 18,
+  "description": "BALD COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BALD%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BALD COIN",
+  "addresses": {
+    "8453": "0x1e825e320520110410c1d9150dff94f6411577d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BALD COIN",
+    "sanitizedSymbol": "BALD_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163290",
+    "lockerAddress": "0x8fCd2f660d8671122ACc560603b5271b35c4ddB4"
+  },
+  "clankerInfo": null
+}

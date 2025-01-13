@@ -1,0 +1,22 @@
+{
+  "name": "Guilty Paws",
+  "symbol": "Guilty Paws",
+  "decimals": 18,
+  "description": "Guilty Paws is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Guilty%20Paws",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Guilty Paws",
+  "addresses": {
+    "8453": "0x12b2aaafe3400170740ce09fa8fa910234317ce7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Guilty Paws",
+    "sanitizedSymbol": "GUILTY_PAWS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153048",
+    "lockerAddress": "0x7DB68bA72A899D5Dd173417810E627815cE733ED"
+  },
+  "clankerInfo": null
+}

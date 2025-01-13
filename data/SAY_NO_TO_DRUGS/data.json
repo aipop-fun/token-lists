@@ -1,0 +1,22 @@
+{
+  "name": "Say No To Drugs",
+  "symbol": "Say No To Drugs",
+  "decimals": 18,
+  "description": "Say No To Drugs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Say%20No%20To%20Drugs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Say No To Drugs",
+  "addresses": {
+    "8453": "0x1590328195cb3d2eae814d1b4b094c2e0767bc09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Say No To Drugs",
+    "sanitizedSymbol": "SAY_NO_TO_DRUGS",
+    "created_at": "2024-12-09T01:24:28.087532",
+    "deployer": "0x224ae25F9BB2cB9D9F503A5FBfc010d483269a0A",
+    "lpNftId": "1377460",
+    "lockerAddress": "0x789a31F56CD9861D06e0e53fD017D157B7d29478"
+  },
+  "clankerInfo": null
+}

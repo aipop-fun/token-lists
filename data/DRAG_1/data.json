@@ -1,0 +1,22 @@
+{
+  "name": "DRAG",
+  "symbol": "DRAG",
+  "decimals": 18,
+  "description": "DRAG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRAG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRAG",
+  "addresses": {
+    "8453": "0x316016a76f15b64ecab40ffaade8f11ecbb8567e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRAG",
+    "sanitizedSymbol": "DRAG_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150299",
+    "lockerAddress": "0x5E45F3Be6c42dee96397f523bE1a9D87f93DCf1e"
+  },
+  "clankerInfo": null
+}

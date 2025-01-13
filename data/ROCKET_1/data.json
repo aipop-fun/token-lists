@@ -1,0 +1,22 @@
+{
+  "name": "ROCKET",
+  "symbol": "ROCKET",
+  "decimals": 18,
+  "description": "ROCKET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROCKET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROCKET",
+  "addresses": {
+    "8453": "0x01e53f438334ccf6ba1190459a40fd47c27885a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROCKET",
+    "sanitizedSymbol": "ROCKET_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1285241",
+    "lockerAddress": "0x9F1890a5fAA36A0Dfd3B4dEF889fddC6de3A6b8d"
+  },
+  "clankerInfo": null
+}

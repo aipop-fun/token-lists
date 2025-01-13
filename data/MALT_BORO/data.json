@@ -1,0 +1,22 @@
+{
+  "name": "Malt Boro",
+  "symbol": "Malt Boro",
+  "decimals": 18,
+  "description": "Malt Boro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Malt%20Boro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Malt Boro",
+  "addresses": {
+    "8453": "0x0295d48d39591a905dff18380cb009950cf8613b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Malt Boro",
+    "sanitizedSymbol": "MALT_BORO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0A7eA98c65e84Ca596Eeb90fb9e43A56a001cCae",
+    "lpNftId": "1252196",
+    "lockerAddress": "0x49EFCDC10A5af65D8D5a6133118E43Be5716BA55"
+  },
+  "clankerInfo": null
+}

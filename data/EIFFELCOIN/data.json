@@ -1,0 +1,22 @@
+{
+  "name": "EiffelCoin",
+  "symbol": "EiffelCoin",
+  "decimals": 18,
+  "description": "EiffelCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EiffelCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EiffelCoin",
+  "addresses": {
+    "8453": "0x3bf5dfd811e959bac641081dd16203047c3a6e5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EiffelCoin",
+    "sanitizedSymbol": "EIFFELCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124391",
+    "lockerAddress": "0xb0265235304e851f74BFB6Cd123D8AB52C80d461"
+  },
+  "clankerInfo": null
+}

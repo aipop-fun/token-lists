@@ -1,0 +1,22 @@
+{
+  "name": "BEAR",
+  "symbol": "BEAR",
+  "decimals": 18,
+  "description": "BEAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEAR",
+  "addresses": {
+    "8453": "0x195e35e86f75753fbe0bc37e967975f5b3b97305"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEAR",
+    "sanitizedSymbol": "BEAR_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1286972",
+    "lockerAddress": "0x6f7A5Ee766213E2D4CEc62B0a0380493047bB43A"
+  },
+  "clankerInfo": null
+}

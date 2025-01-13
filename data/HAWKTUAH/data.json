@@ -1,0 +1,22 @@
+{
+  "name": "Hawktuah",
+  "symbol": "Hawktuah",
+  "decimals": 18,
+  "description": "Hawktuah is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hawktuah",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hawktuah",
+  "addresses": {
+    "8453": "0x0a41e13a8f6d71743b3378bb327519b0682a9090"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hawktuah",
+    "sanitizedSymbol": "HAWKTUAH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166652",
+    "lockerAddress": "0xcA7F7394223D536984A62631206b4517031AC2F3"
+  },
+  "clankerInfo": null
+}

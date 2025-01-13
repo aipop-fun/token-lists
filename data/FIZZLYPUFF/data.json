@@ -1,0 +1,22 @@
+{
+  "name": "FIZZLYPUFF",
+  "symbol": "FIZZLYPUFF",
+  "decimals": 18,
+  "description": "FIZZLYPUFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FIZZLYPUFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FIZZLYPUFF",
+  "addresses": {
+    "8453": "0x04907d3db82215ffe23d8ba2bef93b3b3e42b9c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FIZZLYPUFF",
+    "sanitizedSymbol": "FIZZLYPUFF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x76d387388BEa6B60CA6D1e97f446F7E26D39d313",
+    "lpNftId": "1323560",
+    "lockerAddress": "0x830e69f2fc9284AAd3A22CD9bf4D811D2DfcFac0"
+  },
+  "clankerInfo": null
+}

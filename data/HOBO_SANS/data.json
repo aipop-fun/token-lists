@@ -1,0 +1,22 @@
+{
+  "name": "hobo sans",
+  "symbol": "hobo sans",
+  "decimals": 18,
+  "description": "hobo sans is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hobo%20sans",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hobo sans",
+  "addresses": {
+    "8453": "0x0dc6585c5be6a01f05d73041cf0a462ea4a7bf5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hobo sans",
+    "sanitizedSymbol": "HOBO_SANS",
+    "created_at": "2024-12-10T11:05:02.993403",
+    "deployer": "0xd5f2FbC5E739C7f2cC68Dfa907FB66801ed3Ada8",
+    "lpNftId": "1400093",
+    "lockerAddress": "0x143D700B1A9Cd600C6B3535EA91AB7450dB2f509"
+  },
+  "clankerInfo": null
+}

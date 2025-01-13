@@ -1,0 +1,22 @@
+{
+  "name": "King Degen",
+  "symbol": "King Degen",
+  "decimals": 18,
+  "description": "King Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King Degen",
+  "addresses": {
+    "8453": "0x33ace37ee229a703d0cdfaf79cff344779839269"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King Degen",
+    "sanitizedSymbol": "KING_DEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeb0b24f85675204b8F33cF022EF2664f0DF5A519",
+    "lpNftId": "1318388",
+    "lockerAddress": "0xE6D2F597Ab54F01f0D25aCA7d6917f68356a85F0"
+  },
+  "clankerInfo": null
+}

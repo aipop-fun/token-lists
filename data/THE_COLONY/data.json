@@ -1,0 +1,22 @@
+{
+  "name": "The Colony",
+  "symbol": "The Colony",
+  "decimals": 18,
+  "description": "The Colony is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Colony",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Colony",
+  "addresses": {
+    "8453": "0x3d45a9c4cd7dc1db56f7ce1b3c0ec37eb7a2dd07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Colony",
+    "sanitizedSymbol": "THE_COLONY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x78897BDd903Bd247B435Cd4a47A3751E1100a776",
+    "lpNftId": "1265798",
+    "lockerAddress": "0xF99cfD4E3d67203774E6AA3C3C7f3431C335d445"
+  },
+  "clankerInfo": null
+}

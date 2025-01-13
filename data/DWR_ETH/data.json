@@ -1,0 +1,22 @@
+{
+  "name": "dwr.eth",
+  "symbol": "dwr.eth",
+  "decimals": 18,
+  "description": "dwr.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dwr.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dwr.eth",
+  "addresses": {
+    "8453": "0x0333c2ec60f1821f87a0d86cfa47ab21a61a7bd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dwr.eth",
+    "sanitizedSymbol": "DWR_ETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193375",
+    "lockerAddress": "0x65dA2885904980325701769F6B10e494C22cCc18"
+  },
+  "clankerInfo": null
+}

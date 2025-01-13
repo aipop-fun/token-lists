@@ -1,0 +1,22 @@
+{
+  "name": "Baby Botling",
+  "symbol": "Baby Botling",
+  "decimals": 18,
+  "description": "Baby Botling is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Botling",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Botling",
+  "addresses": {
+    "8453": "0x18808a3990dddf1369bdfaab49f32dc3fefb38a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Botling",
+    "sanitizedSymbol": "BABY_BOTLING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161075",
+    "lockerAddress": "0x2C0441e760C645aE0BdDaE66c4BB741EFEBE658F"
+  },
+  "clankerInfo": null
+}

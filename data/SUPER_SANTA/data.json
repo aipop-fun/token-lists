@@ -1,0 +1,22 @@
+{
+  "name": "Super Santa",
+  "symbol": "Super Santa",
+  "decimals": 18,
+  "description": "Super Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Santa",
+  "addresses": {
+    "8453": "0x2390b1774ef194c251c3dcc86b6fde6687ba002f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Santa",
+    "sanitizedSymbol": "SUPER_SANTA",
+    "created_at": "2024-12-10T07:36:13.812647",
+    "deployer": "0x3f074cbd927Bdb8eb8040A7cDEe64E0ea9D45916",
+    "lpNftId": "1398085",
+    "lockerAddress": "0x2Bf8bAEf8895700d2AD3E04436949623b334Dc17"
+  },
+  "clankerInfo": null
+}

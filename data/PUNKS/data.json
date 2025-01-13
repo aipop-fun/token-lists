@@ -1,0 +1,22 @@
+{
+  "name": "Punks",
+  "symbol": "Punks",
+  "decimals": 18,
+  "description": "Punks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Punks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Punks",
+  "addresses": {
+    "8453": "0x2a8a7842a614aab35ab86bcad10175f098b93b51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Punks",
+    "sanitizedSymbol": "PUNKS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc81Da4BAfC506B9faF37866003e10Ae954f850fF",
+    "lpNftId": "1353426",
+    "lockerAddress": "0xC71Ee304183f176585d23f5E12186FcD5D6c76EF"
+  },
+  "clankerInfo": null
+}

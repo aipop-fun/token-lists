@@ -1,0 +1,22 @@
+{
+  "name": "Europoor",
+  "symbol": "Europoor",
+  "decimals": 18,
+  "description": "Europoor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Europoor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Europoor",
+  "addresses": {
+    "8453": "0x0ce73ca6d8bda35d2945cbc68a419682965adc37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Europoor",
+    "sanitizedSymbol": "EUROPOOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173811",
+    "lockerAddress": "0x56a18E7c3BAcf7c790fAA29F2785fB4251F24BC5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Daddy",
+  "symbol": "Daddy",
+  "decimals": 18,
+  "description": "Daddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Daddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Daddy",
+  "addresses": {
+    "8453": "0x15eb1e6775fa25a7706208994a491f8ee9ad0c12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Daddy",
+    "sanitizedSymbol": "DADDY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x95eC9ed60386862e5dB1E3313D7D5019202c6059",
+    "lpNftId": "1284294",
+    "lockerAddress": "0x7b080c0B04BfC79eAE0a1dD83F5BC3188e7047Db"
+  },
+  "clankerInfo": null
+}

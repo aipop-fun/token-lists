@@ -1,0 +1,22 @@
+{
+  "name": "How You Doin",
+  "symbol": "How You Doin",
+  "decimals": 18,
+  "description": "How You Doin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=How%20You%20Doin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "How You Doin",
+  "addresses": {
+    "8453": "0x3c5382da3c38545da78d13d2d4023032e973468c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "How You Doin",
+    "sanitizedSymbol": "HOW_YOU_DOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204426",
+    "lockerAddress": "0xa29A2Cc919705b1A3c4194696E0b1E5954dCEfbA"
+  },
+  "clankerInfo": null
+}

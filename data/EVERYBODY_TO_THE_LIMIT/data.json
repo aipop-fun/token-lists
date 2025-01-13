@@ -1,0 +1,22 @@
+{
+  "name": "Everybody to the Limit",
+  "symbol": "Everybody to the Limit",
+  "decimals": 18,
+  "description": "Everybody to the Limit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Everybody%20to%20the%20Limit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Everybody to the Limit",
+  "addresses": {
+    "8453": "0x0c37e2e1500eb7f82fdffa99a9436f448fec42c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Everybody to the Limit",
+    "sanitizedSymbol": "EVERYBODY_TO_THE_LIMIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218819",
+    "lockerAddress": "0xB643C995C341285680fE777D4E86CFC8d36993f3"
+  },
+  "clankerInfo": null
+}

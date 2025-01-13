@@ -1,0 +1,22 @@
+{
+  "name": "ENERGY",
+  "symbol": "ENERGY",
+  "decimals": 18,
+  "description": "ENERGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ENERGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ENERGY",
+  "addresses": {
+    "8453": "0x14f1b32ff9b8c66417b0ceba934b5ac1a3ece861"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ENERGY",
+    "sanitizedSymbol": "ENERGY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165602",
+    "lockerAddress": "0xdB607D875c89fcA50BA7e1dEd7A750eA68c17808"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HUSTLE",
+  "symbol": "HUSTLE",
+  "decimals": 18,
+  "description": "HUSTLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HUSTLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HUSTLE",
+  "addresses": {
+    "8453": "0x14600d8941b953e9fbdeb3c5e1fb949cb929411c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HUSTLE",
+    "sanitizedSymbol": "HUSTLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x48632B88E9A83f52D895a23245DDdE1DbDF23586",
+    "lpNftId": "1370144",
+    "lockerAddress": "0xdb3F936ba2dfb96da4c23Ad764d8C69D49c49061"
+  },
+  "clankerInfo": null
+}

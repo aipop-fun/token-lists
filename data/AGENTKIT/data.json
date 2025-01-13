@@ -1,0 +1,22 @@
+{
+  "name": "AgentKit",
+  "symbol": "AgentKit",
+  "decimals": 18,
+  "description": "AgentKit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AgentKit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AgentKit",
+  "addresses": {
+    "8453": "0x21756829221f4481fd218f0a154aa3c4fdfe4f1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AgentKit",
+    "sanitizedSymbol": "AGENTKIT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98B2e9bB3feA78B6f2Bbb2e289Dd11012be79C54",
+    "lpNftId": "1328960",
+    "lockerAddress": "0xd0b28ae51A04b271981921980d86f6cb930B8478"
+  },
+  "clankerInfo": null
+}

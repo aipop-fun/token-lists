@@ -1,0 +1,22 @@
+{
+  "name": "Circuit",
+  "symbol": "Circuit",
+  "decimals": 18,
+  "description": "Circuit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Circuit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Circuit",
+  "addresses": {
+    "8453": "0x05626c296546bd36a017c97aea51c2ab22ef0b76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Circuit",
+    "sanitizedSymbol": "CIRCUIT",
+    "created_at": "2024-12-12T14:17:48.933399",
+    "deployer": "0x6D238622502b81EC9e925F892AB75A2267fe3331",
+    "lpNftId": "1435614",
+    "lockerAddress": "0x5D2A6E438794Be13950a3f9e6752Ec762a48620F"
+  },
+  "clankerInfo": null
+}

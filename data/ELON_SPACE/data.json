@@ -1,0 +1,22 @@
+{
+  "name": "Elon Space",
+  "symbol": "Elon Space",
+  "decimals": 18,
+  "description": "Elon Space is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elon%20Space",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elon Space",
+  "addresses": {
+    "8453": "0x06cc22312b5e316dedcfa35cb8b4c8bb1dd1584a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elon Space",
+    "sanitizedSymbol": "ELON_SPACE",
+    "created_at": "2024-12-09T07:32:16.767425",
+    "deployer": "0x67Aa06d9FBDD6d77A921dD9f12560D524dd92301",
+    "lpNftId": "1384421",
+    "lockerAddress": "0x7CCec9A30486f86C9bc3F2cDe90F2f34247262a2"
+  },
+  "clankerInfo": null
+}

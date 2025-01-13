@@ -1,0 +1,22 @@
+{
+  "name": "pumpfunstudio",
+  "symbol": "pumpfunstudio",
+  "decimals": 18,
+  "description": "pumpfunstudio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pumpfunstudio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pumpfunstudio",
+  "addresses": {
+    "8453": "0x2372a7c1944204022baaa35d170d3cde1739e145"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pumpfunstudio",
+    "sanitizedSymbol": "PUMPFUNSTUDIO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x80a5e89694f96162c66e644429C94c5cdCa48033",
+    "lpNftId": "1252195",
+    "lockerAddress": "0xD33956A2A15E3C15972f9581fb4f61B4d6620b90"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BadSanta",
+  "symbol": "BadSanta",
+  "decimals": 18,
+  "description": "BadSanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BadSanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BadSanta",
+  "addresses": {
+    "8453": "0x14884561346763c232d803c1f3045729e40529d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BadSanta",
+    "sanitizedSymbol": "BADSANTA_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1321258",
+    "lockerAddress": "0x5d2Fb41E7FcB0B910475BD0E8Ad063F210b1fd7E"
+  },
+  "clankerInfo": null
+}

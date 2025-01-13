@@ -1,0 +1,22 @@
+{
+  "name": "dogin",
+  "symbol": "dogin",
+  "decimals": 18,
+  "description": "dogin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogin",
+  "addresses": {
+    "8453": "0x3f0764374bc87d2763439dfe935f0fc141d40597"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogin",
+    "sanitizedSymbol": "DOGIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x24C4E60ecAA6118c232453e90e02012C7e608205",
+    "lpNftId": "1319907",
+    "lockerAddress": "0xbEEd1a9Ec44B624f957cE10C09Cabf7Ee9BAF82D"
+  },
+  "clankerInfo": null
+}

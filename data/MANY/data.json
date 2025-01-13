@@ -1,0 +1,22 @@
+{
+  "name": "many",
+  "symbol": "many",
+  "decimals": 18,
+  "description": "many is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=many",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "many",
+  "addresses": {
+    "8453": "0x011cc1fb1ee09c8f3e3978cacd54d6d93978c9ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "many",
+    "sanitizedSymbol": "MANY",
+    "created_at": "2024-12-12T17:45:53.281342",
+    "deployer": "0xfCdDC37F72612CEA5f411e92EE0420840F524176",
+    "lpNftId": "1440036",
+    "lockerAddress": "0xd41c6271d8a6124D194f42301238Afe4cFd47C41"
+  },
+  "clankerInfo": null
+}

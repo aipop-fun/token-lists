@@ -1,0 +1,22 @@
+{
+  "name": "SwipeRight",
+  "symbol": "SwipeRight",
+  "decimals": 18,
+  "description": "SwipeRight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SwipeRight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SwipeRight",
+  "addresses": {
+    "8453": "0x1e940209fb0affb9990c5376e98ed526daba96a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SwipeRight",
+    "sanitizedSymbol": "SWIPERIGHT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x588ffAc7AFb5D4524EfB7EaC1D7Dfd609CE5Dea0",
+    "lpNftId": "1305534",
+    "lockerAddress": "0xBfb968ACe6f6E117c09E05Ab8c6E18cba24Aca1C"
+  },
+  "clankerInfo": null
+}

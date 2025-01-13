@@ -1,0 +1,22 @@
+{
+  "name": "wkbdcoin",
+  "symbol": "wkbdcoin",
+  "decimals": 18,
+  "description": "wkbdcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wkbdcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wkbdcoin",
+  "addresses": {
+    "8453": "0x2709068d0161deb0baffdd125cfd2c32f200c802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wkbdcoin",
+    "sanitizedSymbol": "WKBDCOIN",
+    "created_at": "2024-12-11T00:21:17.396517",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408838",
+    "lockerAddress": "0x389B87fd245d15fD27F8144B39F9265C04cA73eA"
+  },
+  "clankerInfo": null
+}

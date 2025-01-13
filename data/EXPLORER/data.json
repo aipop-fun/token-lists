@@ -1,0 +1,22 @@
+{
+  "name": "EXPLORER",
+  "symbol": "EXPLORER",
+  "decimals": 18,
+  "description": "EXPLORER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EXPLORER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EXPLORER",
+  "addresses": {
+    "8453": "0x1c013ae5751907c36c310f1bac76938db930406b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EXPLORER",
+    "sanitizedSymbol": "EXPLORER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1315014",
+    "lockerAddress": "0x98d08010681E150D9240c469C3E0Db7Dc04A83e5"
+  },
+  "clankerInfo": null
+}

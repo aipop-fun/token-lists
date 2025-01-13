@@ -1,0 +1,22 @@
+{
+  "name": "Get a Job RSI",
+  "symbol": "Get a Job RSI",
+  "decimals": 18,
+  "description": "Get a Job RSI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Get%20a%20Job%20RSI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Get a Job RSI",
+  "addresses": {
+    "8453": "0x228efab45d3895dec7c43b9434ae2a328c14ddbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Get a Job RSI",
+    "sanitizedSymbol": "GET_A_JOB_RSI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1246348",
+    "lockerAddress": "0x0B72f981B84eD553164a00e53daC5b4501284e1c"
+  },
+  "clankerInfo": null
+}

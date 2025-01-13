@@ -1,0 +1,22 @@
+{
+  "name": "Tolkien",
+  "symbol": "Tolkien",
+  "decimals": 18,
+  "description": "Tolkien is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tolkien",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tolkien",
+  "addresses": {
+    "8453": "0x146b2dee472f03b541cabe82cf9fc88e1fe1a613"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tolkien",
+    "sanitizedSymbol": "TOLKIEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x44a0CD8825B1712dD21A947283FE6E0FA1e2Ad3f",
+    "lpNftId": "1302705",
+    "lockerAddress": "0x44F03FC3BeE2Cfad3F034A77ee1bB457325aE518"
+  },
+  "clankerInfo": null
+}

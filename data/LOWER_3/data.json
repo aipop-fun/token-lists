@@ -1,0 +1,22 @@
+{
+  "name": "LOWER",
+  "symbol": "LOWER",
+  "decimals": 18,
+  "description": "LOWER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOWER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOWER",
+  "addresses": {
+    "8453": "0x39ac1c9942319fa632032e6e6514d1cbea7e0ac1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOWER",
+    "sanitizedSymbol": "LOWER_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1370590",
+    "lockerAddress": "0xCD3FFb218E8b13fd0365532809DCeA3282FDB9DE"
+  },
+  "clankerInfo": null
+}

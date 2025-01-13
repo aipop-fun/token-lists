@@ -1,0 +1,22 @@
+{
+  "name": "Power Ranger",
+  "symbol": "Power Ranger",
+  "decimals": 18,
+  "description": "Power Ranger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Power%20Ranger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Power Ranger",
+  "addresses": {
+    "8453": "0x02c610184a613511b85cf43c4e34c23b5684b97a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Power Ranger",
+    "sanitizedSymbol": "POWER_RANGER",
+    "created_at": "2024-12-09T00:20:59.474968",
+    "deployer": "0xF2A3d3b0D4296969ec3941Ff59236E3F2f5a8879",
+    "lpNftId": "1376870",
+    "lockerAddress": "0x0BEc3Ee2E98F9015f064DaDde9fE1E7FF8Aa1aea"
+  },
+  "clankerInfo": null
+}

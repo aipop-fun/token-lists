@@ -1,0 +1,22 @@
+{
+  "name": "CANADA",
+  "symbol": "CANADA",
+  "decimals": 18,
+  "description": "CANADA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CANADA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CANADA",
+  "addresses": {
+    "8453": "0x35239e9119b6f4b9384c56349a3b6249e29a9613"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CANADA",
+    "sanitizedSymbol": "CANADA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x63Ed10f17bE0695CD14CF457cB1CEC98731AB97A",
+    "lpNftId": "1316755",
+    "lockerAddress": "0x24507AbF346B7a709A81dEc25Bc3554ad363BdE4"
+  },
+  "clankerInfo": null
+}

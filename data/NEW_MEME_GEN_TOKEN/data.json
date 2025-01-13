@@ -1,0 +1,22 @@
+{
+  "name": "New Meme Gen Token",
+  "symbol": "New Meme Gen Token",
+  "decimals": 18,
+  "description": "New Meme Gen Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Meme%20Gen%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Meme Gen Token",
+  "addresses": {
+    "8453": "0x07dcb772e9396ee46dec85ae813bcde7c1f49e13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Meme Gen Token",
+    "sanitizedSymbol": "NEW_MEME_GEN_TOKEN",
+    "created_at": "2024-12-10T08:39:12.817525",
+    "deployer": "0x9fb08748c3858Ca6a39357D6D70D1Eeb9586026E",
+    "lpNftId": "1398879",
+    "lockerAddress": "0xe899AD6b77A408E701A38985C8431b38E45ACC10"
+  },
+  "clankerInfo": null
+}

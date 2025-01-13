@@ -1,0 +1,22 @@
+{
+  "name": "BELIEVER",
+  "symbol": "BELIEVER",
+  "decimals": 18,
+  "description": "BELIEVER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BELIEVER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BELIEVER",
+  "addresses": {
+    "8453": "0x2a7e75a04cda5349479351a041f14412dcff608b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BELIEVER",
+    "sanitizedSymbol": "BELIEVER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE6543e28ee030fF3b12B964030E847798519a024",
+    "lpNftId": "1306738",
+    "lockerAddress": "0x3D8Ef47CbBD4511dF5ebE2ED5372b2F65e71E736"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "UTOPIA",
+  "symbol": "UTOPIA",
+  "decimals": 18,
+  "description": "UTOPIA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UTOPIA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UTOPIA",
+  "addresses": {
+    "8453": "0x2c1321ec162683aec0c79c9ceb7d98614410364c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UTOPIA",
+    "sanitizedSymbol": "UTOPIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35A4d8986fE7Cc871FB6983424Bc40adc3DBa01b",
+    "lpNftId": "1309166",
+    "lockerAddress": "0x8833e9581fc12C84462e2E5488b6B0A947360448"
+  },
+  "clankerInfo": null
+}

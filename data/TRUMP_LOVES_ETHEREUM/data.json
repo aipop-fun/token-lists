@@ -1,0 +1,22 @@
+{
+  "name": "Trump Loves Ethereum",
+  "symbol": "Trump Loves Ethereum",
+  "decimals": 18,
+  "description": "Trump Loves Ethereum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trump%20Loves%20Ethereum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trump Loves Ethereum",
+  "addresses": {
+    "8453": "0x30de8e4d7eb753cd2135ddd1bf18bc77a2b4f222"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trump Loves Ethereum",
+    "sanitizedSymbol": "TRUMP_LOVES_ETHEREUM",
+    "created_at": "2024-12-12T19:28:15.499887",
+    "deployer": "0x8E2FD8Df3fA9454E390887A86919bb7B86Cc1141",
+    "lpNftId": "1441685",
+    "lockerAddress": "0x19aa6a62F157DA520C8Dc2F9Da5f2A13af2Eb3a3"
+  },
+  "clankerInfo": null
+}

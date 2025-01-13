@@ -1,0 +1,22 @@
+{
+  "name": "FutureUtil",
+  "symbol": "FutureUtil",
+  "decimals": 18,
+  "description": "FutureUtil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FutureUtil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FutureUtil",
+  "addresses": {
+    "8453": "0x2aed15cf134e9c0750c5660476b72160ece4a252"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FutureUtil",
+    "sanitizedSymbol": "FUTUREUTIL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196297",
+    "lockerAddress": "0x8435Afe87E26f1b313436dac4E5b9705F8B6FbCD"
+  },
+  "clankerInfo": null
+}

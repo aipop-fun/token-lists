@@ -1,0 +1,22 @@
+{
+  "name": "WPHYPNO",
+  "symbol": "WPHYPNO",
+  "decimals": 18,
+  "description": "WPHYPNO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WPHYPNO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WPHYPNO",
+  "addresses": {
+    "8453": "0x3a81b66e040d393b259b40c53c7511ca3fafcbe9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WPHYPNO",
+    "sanitizedSymbol": "WPHYPNO",
+    "created_at": "2024-12-11T13:55:52.128339",
+    "deployer": "0x9E4e67951fbfa130916c4Fb7d075E432977B14d4",
+    "lpNftId": "1419639",
+    "lockerAddress": "0x3e240d359164d46b7144E26ae03e74318918AA42"
+  },
+  "clankerInfo": null
+}

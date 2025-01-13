@@ -1,0 +1,22 @@
+{
+  "name": "CHAOS ANON",
+  "symbol": "CHAOS ANON",
+  "decimals": 18,
+  "description": "CHAOS ANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAOS%20ANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAOS ANON",
+  "addresses": {
+    "8453": "0x390f1965c99fc73e764862a1e0b3fc745c1a92ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAOS ANON",
+    "sanitizedSymbol": "CHAOS_ANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x175A8F0f6C09400b610e623B4fea30574F1270a4",
+    "lpNftId": "1292130",
+    "lockerAddress": "0xAE569F386CC5a42946f34dD212c0DD88c645463b"
+  },
+  "clankerInfo": null
+}

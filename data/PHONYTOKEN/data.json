@@ -1,0 +1,22 @@
+{
+  "name": "Phonytoken",
+  "symbol": "Phonytoken",
+  "decimals": 18,
+  "description": "Phonytoken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phonytoken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phonytoken",
+  "addresses": {
+    "8453": "0x0ccd490fa72e18733caaa3102b4cc17d519bdf33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phonytoken",
+    "sanitizedSymbol": "PHONYTOKEN",
+    "created_at": "2024-12-11T00:52:41.400981",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1409095",
+    "lockerAddress": "0x1F4B2a012d6308B06e7eEaE442179D01E59009bd"
+  },
+  "clankerInfo": null
+}

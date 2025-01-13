@@ -1,0 +1,22 @@
+{
+  "name": "PixelVoid",
+  "symbol": "PixelVoid",
+  "decimals": 18,
+  "description": "PixelVoid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PixelVoid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PixelVoid",
+  "addresses": {
+    "8453": "0x361d27b3fbd29789ccfafe31770d36b4553b79f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PixelVoid",
+    "sanitizedSymbol": "PIXELVOID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4F80864cD68782144e3736626896990acAe15a11",
+    "lpNftId": "1312245",
+    "lockerAddress": "0xA9B7a2393D224752Ef65cEC74aBcE3902eE9142D"
+  },
+  "clankerInfo": null
+}

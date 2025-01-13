@@ -1,0 +1,22 @@
+{
+  "name": "burn",
+  "symbol": "burn",
+  "decimals": 18,
+  "description": "burn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=burn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "burn",
+  "addresses": {
+    "8453": "0x173726982b63adfa1ed97b541690009ccaff62be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "burn",
+    "sanitizedSymbol": "BURN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119519",
+    "lockerAddress": "0x7382B04d68Ac6718A5790357334a41D93b619984"
+  },
+  "clankerInfo": null
+}

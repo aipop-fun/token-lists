@@ -1,0 +1,22 @@
+{
+  "name": "benya",
+  "symbol": "benya",
+  "decimals": 18,
+  "description": "benya is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=benya",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "benya",
+  "addresses": {
+    "8453": "0x2c6afdc1fc7029849be448a20f3853d015f768d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "benya",
+    "sanitizedSymbol": "BENYA",
+    "created_at": "2024-12-11T15:33:45.611851",
+    "deployer": "0x07aE8A9A526e0351972cd2673ed673C8DA897833",
+    "lpNftId": "1421048",
+    "lockerAddress": "0x084d28bCC82326c426BD0cD8753f6a4D5CafD377"
+  },
+  "clankerInfo": null
+}

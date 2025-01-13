@@ -1,0 +1,22 @@
+{
+  "name": "NordVpn",
+  "symbol": "NordVpn",
+  "decimals": 18,
+  "description": "NordVpn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NordVpn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NordVpn",
+  "addresses": {
+    "8453": "0x4173ecf837863ad32932acdd4071158f524216d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NordVpn",
+    "sanitizedSymbol": "NORDVPN",
+    "created_at": "2024-12-11T16:39:37.893537",
+    "deployer": "0x0FA47fDF681F73492Fd4018c0Ced56D43a580381",
+    "lpNftId": "1421971",
+    "lockerAddress": "0x9E48dB7A978fCa91F4B1Ba78b1642E1Eb3dDc3a0"
+  },
+  "clankerInfo": null
+}

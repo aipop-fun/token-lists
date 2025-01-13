@@ -1,0 +1,22 @@
+{
+  "name": "BASED CAT",
+  "symbol": "BASED CAT",
+  "decimals": 18,
+  "description": "BASED CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED CAT",
+  "addresses": {
+    "8453": "0x29de8530c64075494245477c166bcb3e0bcd3928"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED CAT",
+    "sanitizedSymbol": "BASED_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E3E9683B706aB497fa1991c691F6CB072c75929",
+    "lpNftId": "1311616",
+    "lockerAddress": "0x45c2907CE5E4333E8696b0E16e97595C3047a32C"
+  },
+  "clankerInfo": null
+}

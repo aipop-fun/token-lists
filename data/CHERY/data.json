@@ -1,0 +1,22 @@
+{
+  "name": "Chery",
+  "symbol": "Chery",
+  "decimals": 18,
+  "description": "Chery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chery",
+  "addresses": {
+    "8453": "0x1369cab0ed7fa2150d8c2fdc6b172d5006c8d267"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chery",
+    "sanitizedSymbol": "CHERY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x19f5244eC162Ba513F255Ecfc95846390B963ED5",
+    "lpNftId": "1326387",
+    "lockerAddress": "0x50565b64d3049E141D4ED6F9367E0Af5677FcA12"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ROBOCROT",
+  "symbol": "ROBOCROT",
+  "decimals": 18,
+  "description": "ROBOCROT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBOCROT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBOCROT",
+  "addresses": {
+    "8453": "0x1abec04f58b80a14c1f0ed5c4213be210b69988a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBOCROT",
+    "sanitizedSymbol": "ROBOCROT",
+    "created_at": "2024-12-12T15:48:45.132088",
+    "deployer": "0x89169e87006c2DC37e38686033F72289a027394e",
+    "lpNftId": "1437435",
+    "lockerAddress": "0xBEEd2cB1fcD80e06367f4Ba8fD61D6C3334f84fb"
+  },
+  "clankerInfo": null
+}

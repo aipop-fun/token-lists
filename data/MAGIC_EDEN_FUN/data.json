@@ -1,0 +1,22 @@
+{
+  "name": "Magic Eden fun",
+  "symbol": "Magic Eden fun",
+  "decimals": 18,
+  "description": "Magic Eden fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Eden%20fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Eden fun",
+  "addresses": {
+    "8453": "0x12943b20e8a7db9b2232c93ee6f4d461eb0ad5e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Eden fun",
+    "sanitizedSymbol": "MAGIC_EDEN_FUN",
+    "created_at": "2024-12-10T15:34:41.08628",
+    "deployer": "0x5066E4a067A3e4ad984A962Be83075709863B8ad",
+    "lpNftId": "1402780",
+    "lockerAddress": "0xE05Ac6531eeC0dce6D9593B52166fF26E1a55faB"
+  },
+  "clankerInfo": null
+}

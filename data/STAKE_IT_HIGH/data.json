@@ -1,0 +1,22 @@
+{
+  "name": "Stake it High",
+  "symbol": "Stake it High",
+  "decimals": 18,
+  "description": "Stake it High is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stake%20it%20High",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stake it High",
+  "addresses": {
+    "8453": "0x1f116ecf8216872f9a8ce16b4a8be29eae2d4183"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stake it High",
+    "sanitizedSymbol": "STAKE_IT_HIGH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120201",
+    "lockerAddress": "0x0E3642ce6aBb27e8864348673eDD541d5C7F7c95"
+  },
+  "clankerInfo": null
+}

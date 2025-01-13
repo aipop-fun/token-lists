@@ -1,0 +1,22 @@
+{
+  "name": "Dogememe",
+  "symbol": "Dogememe",
+  "decimals": 18,
+  "description": "Dogememe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogememe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogememe",
+  "addresses": {
+    "8453": "0x22c171d7c1f43240a40c202962b86a850ac50c8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogememe",
+    "sanitizedSymbol": "DOGEMEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151843",
+    "lockerAddress": "0x6ADa6C0c09f831bcCe06017D850531A4c4708167"
+  },
+  "clankerInfo": null
+}

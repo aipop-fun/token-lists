@@ -1,0 +1,22 @@
+{
+  "name": "ShibaPurple",
+  "symbol": "ShibaPurple",
+  "decimals": 18,
+  "description": "ShibaPurple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShibaPurple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShibaPurple",
+  "addresses": {
+    "8453": "0x3803b221f017a0c24798ab9ebe00b19db83a8a57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShibaPurple",
+    "sanitizedSymbol": "SHIBAPURPLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1317435",
+    "lockerAddress": "0x76C68702531a76aA760a11A4E8173bE41a609ab0"
+  },
+  "clankerInfo": null
+}

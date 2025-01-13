@@ -1,0 +1,22 @@
+{
+  "name": "SuperDegen",
+  "symbol": "SuperDegen",
+  "decimals": 18,
+  "description": "SuperDegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperDegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperDegen",
+  "addresses": {
+    "8453": "0x139dfc4a3b71c17be6169b8d45313c8696562061"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperDegen",
+    "sanitizedSymbol": "SUPERDEGEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1343708",
+    "lockerAddress": "0xc9455e15B99ED73Ed5E6638962533b13cA9B9092"
+  },
+  "clankerInfo": null
+}

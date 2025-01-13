@@ -1,0 +1,22 @@
+{
+  "name": "Anonynaan",
+  "symbol": "Anonynaan",
+  "decimals": 18,
+  "description": "Anonynaan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anonynaan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anonynaan",
+  "addresses": {
+    "8453": "0x015ce81b88673e97d6e2dcba3ba63e6db3cc3a55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anonynaan",
+    "sanitizedSymbol": "ANONYNAAN",
+    "created_at": "2024-12-09T04:58:40.428126",
+    "deployer": "0x6e947ba373a53bd41139D68E8dFB4Fb0472767B6",
+    "lpNftId": "1382778",
+    "lockerAddress": "0x0146444A89238EAF8aeE5FCB5cfE08705052c8C3"
+  },
+  "clankerInfo": null
+}

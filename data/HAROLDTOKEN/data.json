@@ -1,0 +1,22 @@
+{
+  "name": "HaroldToken",
+  "symbol": "HaroldToken",
+  "decimals": 18,
+  "description": "HaroldToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HaroldToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HaroldToken",
+  "addresses": {
+    "8453": "0x0242732739fc3e4b983b80d49347c6ef0ae1c9e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HaroldToken",
+    "sanitizedSymbol": "HAROLDTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166327",
+    "lockerAddress": "0xBe27A39c8B108A0970504493E16A51f4cf95e995"
+  },
+  "clankerInfo": null
+}

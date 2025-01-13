@@ -1,0 +1,22 @@
+{
+  "name": "DonaldDuck",
+  "symbol": "DonaldDuck",
+  "decimals": 18,
+  "description": "DonaldDuck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DonaldDuck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DonaldDuck",
+  "addresses": {
+    "8453": "0x36fed69ce96965fc97a67a95a171db727f34f802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DonaldDuck",
+    "sanitizedSymbol": "DONALDDUCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x47dEF75e760af22e55DAF96728d757e747997DbE",
+    "lpNftId": "1336182",
+    "lockerAddress": "0x2B50dd7467B008Ff1A2c5227BAb3E0fCf4EDa6eE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "epercetti",
+  "symbol": "epercetti",
+  "decimals": 18,
+  "description": "epercetti is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=epercetti",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "epercetti",
+  "addresses": {
+    "8453": "0x3e22bb80643139162e2cfac43219c2e3ccd36ff5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "epercetti",
+    "sanitizedSymbol": "EPERCETTI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7f5a9563E84199E54533319e20085fD95f958590",
+    "lpNftId": "1251798",
+    "lockerAddress": "0x66F7B65548873072Ef08FE0bBb6C26B1b278CAC8"
+  },
+  "clankerInfo": null
+}

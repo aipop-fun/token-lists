@@ -1,0 +1,22 @@
+{
+  "name": "santa coin",
+  "symbol": "santa coin",
+  "decimals": 18,
+  "description": "santa coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=santa%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "santa coin",
+  "addresses": {
+    "8453": "0x01fd4301a834b9045d17526ee2bb1b50848c1967"
+  },
+  "tokenInfo": {
+    "originalSymbol": "santa coin",
+    "sanitizedSymbol": "SANTA_COIN",
+    "created_at": "2024-12-11T08:15:35.345557",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1414741",
+    "lockerAddress": "0x74a3E58F6c383bf2694dda738971547bc6B367Af"
+  },
+  "clankerInfo": null
+}

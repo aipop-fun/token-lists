@@ -1,0 +1,22 @@
+{
+  "name": "supersloth",
+  "symbol": "supersloth",
+  "decimals": 18,
+  "description": "supersloth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=supersloth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "supersloth",
+  "addresses": {
+    "8453": "0x2f54e071fdb637fe3220a3f8546e997554efc6b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "supersloth",
+    "sanitizedSymbol": "SUPERSLOTH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1285160",
+    "lockerAddress": "0x02397B744260C3B46911307Fdf7D4D7a8852e637"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RockFlank",
+  "symbol": "RockFlank",
+  "decimals": 18,
+  "description": "RockFlank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RockFlank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RockFlank",
+  "addresses": {
+    "8453": "0x35048b42eea7a4461ac6a03d2295b88add3f0231"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RockFlank",
+    "sanitizedSymbol": "ROCKFLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1320215",
+    "lockerAddress": "0xE691715d8D4847207a3a07135F3112b1626FbaCA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SAFU",
+  "symbol": "SAFU",
+  "decimals": 18,
+  "description": "SAFU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAFU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAFU",
+  "addresses": {
+    "8453": "0x0167f074ae7ea043a8ec81f00a305fdf3a592048"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAFU",
+    "sanitizedSymbol": "SAFU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4850EaE55A6EF549955826b8a86e756C2fbbEF77",
+    "lpNftId": "1319953",
+    "lockerAddress": "0x3816B9139239b2DC7EF7c77F6825e9369F38b46f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "simuklank",
+  "symbol": "simuklank",
+  "decimals": 18,
+  "description": "simuklank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=simuklank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "simuklank",
+  "addresses": {
+    "8453": "0x126778b804143f3ec50ca29452bc2dcf52ebd7b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "simuklank",
+    "sanitizedSymbol": "SIMUKLANK",
+    "created_at": "2024-12-09T04:19:11.306003",
+    "deployer": "0x605b1AEB495E0328f6a36690d698ffd345161F1d",
+    "lpNftId": "1381498",
+    "lockerAddress": "0xE11FbF3C1ee86e0De40A2b947addcE4Bf10f33cb"
+  },
+  "clankerInfo": null
+}

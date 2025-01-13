@@ -1,0 +1,22 @@
+{
+  "name": "tokenbott",
+  "symbol": "tokenbott",
+  "decimals": 18,
+  "description": "tokenbott is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tokenbott",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tokenbott",
+  "addresses": {
+    "8453": "0x36da402ed4e8579555d80cef7611d20b920147e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tokenbott",
+    "sanitizedSymbol": "TOKENBOTT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234256",
+    "lockerAddress": "0x0f2D4038C4606c48eB86e4078384A099Fe42AAda"
+  },
+  "clankerInfo": null
+}

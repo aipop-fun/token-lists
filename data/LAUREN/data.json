@@ -1,0 +1,22 @@
+{
+  "name": "Lauren",
+  "symbol": "Lauren",
+  "decimals": 18,
+  "description": "Lauren is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lauren",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lauren",
+  "addresses": {
+    "8453": "0x20b9d425480f5cc091c04584695794697f883683"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lauren",
+    "sanitizedSymbol": "LAUREN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150261",
+    "lockerAddress": "0x4F31012C171D2b91AB3F8EfdE3664a54023696E0"
+  },
+  "clankerInfo": null
+}

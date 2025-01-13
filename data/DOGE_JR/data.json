@@ -1,0 +1,22 @@
+{
+  "name": "DOGE Jr",
+  "symbol": "DOGE Jr",
+  "decimals": 18,
+  "description": "DOGE Jr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGE%20Jr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGE Jr",
+  "addresses": {
+    "8453": "0x2f2e80503809ae1f623d900d21581f061b1235fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGE Jr",
+    "sanitizedSymbol": "DOGE_JR",
+    "created_at": "2024-12-09T17:42:04.465565",
+    "deployer": "0xC33ea60d066F13DA3f1169d6EC0EC185F7866adA",
+    "lpNftId": "1389876",
+    "lockerAddress": "0x269D7D954470CD971730Ae9bb4692b3a2Cdbc237"
+  },
+  "clankerInfo": null
+}

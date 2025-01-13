@@ -1,0 +1,22 @@
+{
+  "name": "Wooly Mammoth",
+  "symbol": "Wooly Mammoth",
+  "decimals": 18,
+  "description": "Wooly Mammoth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wooly%20Mammoth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wooly Mammoth",
+  "addresses": {
+    "8453": "0x3347d149e0484cc1edb19d66a1b20c1940eed281"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wooly Mammoth",
+    "sanitizedSymbol": "WOOLY_MAMMOTH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150473",
+    "lockerAddress": "0x5b21Ec663296137e59faa975850e4319fa1FC86b"
+  },
+  "clankerInfo": null
+}

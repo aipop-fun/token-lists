@@ -1,0 +1,22 @@
+{
+  "name": "NeuralNet",
+  "symbol": "NeuralNet",
+  "decimals": 18,
+  "description": "NeuralNet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NeuralNet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NeuralNet",
+  "addresses": {
+    "8453": "0x1721a1d8c63c6b672f599c3b2257142048754992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NeuralNet",
+    "sanitizedSymbol": "NEURALNET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120036",
+    "lockerAddress": "0x0798dEFccc8736da3e9B3899BE0f9feAcbE75dd9"
+  },
+  "clankerInfo": null
+}

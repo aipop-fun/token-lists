@@ -1,0 +1,22 @@
+{
+  "name": "ImpactToken",
+  "symbol": "ImpactToken",
+  "decimals": 18,
+  "description": "ImpactToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ImpactToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ImpactToken",
+  "addresses": {
+    "8453": "0x1704926d3a5b667039b853de8596fa5ede21e3c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ImpactToken",
+    "sanitizedSymbol": "IMPACTTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125004",
+    "lockerAddress": "0x7d6d7608884f8CAFC058a769C55684A00a529B97"
+  },
+  "clankerInfo": null
+}

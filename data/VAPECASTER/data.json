@@ -1,0 +1,22 @@
+{
+  "name": "vapecaster",
+  "symbol": "vapecaster",
+  "decimals": 18,
+  "description": "vapecaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vapecaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vapecaster",
+  "addresses": {
+    "8453": "0x3ae5067869a27565d6eb4d25b324f402eeba18c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vapecaster",
+    "sanitizedSymbol": "VAPECASTER",
+    "created_at": "2024-12-11T11:08:38.905656",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1416760",
+    "lockerAddress": "0x78ea592CDcbFC1309B16352583597f1bb08a35f7"
+  },
+  "clankerInfo": null
+}

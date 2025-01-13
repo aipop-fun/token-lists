@@ -1,0 +1,22 @@
+{
+  "name": "Guess who's back",
+  "symbol": "Guess who's back",
+  "decimals": 18,
+  "description": "Guess who's back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Guess%20who's%20back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Guess who's back",
+  "addresses": {
+    "8453": "0x3a8b7346a33a7b2cd7b379f4c87733147f748e4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Guess who's back",
+    "sanitizedSymbol": "GUESS_WHO_S_BACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135491",
+    "lockerAddress": "0x5Ea5AF9763EDdc209304bbFBf0F31f38FB0DFA28"
+  },
+  "clankerInfo": null
+}

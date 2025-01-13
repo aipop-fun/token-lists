@@ -1,0 +1,22 @@
+{
+  "name": "Tacocat",
+  "symbol": "Tacocat",
+  "decimals": 18,
+  "description": "Tacocat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tacocat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tacocat",
+  "addresses": {
+    "8453": "0x3172b0af055807022a7868958eebc6935bf50d05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tacocat",
+    "sanitizedSymbol": "TACOCAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3Ad226427D6C1d8a53fb1948EfCd7a98890Fe8C1",
+    "lpNftId": "1328137",
+    "lockerAddress": "0xA1E447Ad676CC5BE21454315Aa8129a4082F7775"
+  },
+  "clankerInfo": null
+}

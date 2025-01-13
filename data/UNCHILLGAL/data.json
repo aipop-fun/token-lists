@@ -1,0 +1,22 @@
+{
+  "name": "UNCHILLGAL",
+  "symbol": "UNCHILLGAL",
+  "decimals": 18,
+  "description": "UNCHILLGAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNCHILLGAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNCHILLGAL",
+  "addresses": {
+    "8453": "0x3d7d87bde51a4d8ebf676fd9ce9d1ea179319f60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNCHILLGAL",
+    "sanitizedSymbol": "UNCHILLGAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197804",
+    "lockerAddress": "0x6257eA9fBee69Fb5B4e1a633e21aE1d298D7d8f1"
+  },
+  "clankerInfo": null
+}

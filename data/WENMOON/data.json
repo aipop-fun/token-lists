@@ -1,0 +1,22 @@
+{
+  "name": "WENMOON",
+  "symbol": "WENMOON",
+  "decimals": 18,
+  "description": "WENMOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WENMOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WENMOON",
+  "addresses": {
+    "8453": "0x05383b9fdba07662db47dc65a711b2fa2e13cd3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WENMOON",
+    "sanitizedSymbol": "WENMOON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210980",
+    "lockerAddress": "0xAE9d4F4E76bAE97c588c96F47f9C2a7f09Ab8339"
+  },
+  "clankerInfo": null
+}

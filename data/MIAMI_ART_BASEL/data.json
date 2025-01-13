@@ -1,0 +1,22 @@
+{
+  "name": "Miami Art Basel",
+  "symbol": "Miami Art Basel",
+  "decimals": 18,
+  "description": "Miami Art Basel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miami%20Art%20Basel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miami Art Basel",
+  "addresses": {
+    "8453": "0x21d2aa2e42fcd96c9855254448dc618dd88abe59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miami Art Basel",
+    "sanitizedSymbol": "MIAMI_ART_BASEL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x380D89b06a1a596a2C4F788dAaABc2dCc6493888",
+    "lpNftId": "1317374",
+    "lockerAddress": "0x1E4Dd6FACf692C6d27637c95BBA353C60222cc0f"
+  },
+  "clankerInfo": null
+}

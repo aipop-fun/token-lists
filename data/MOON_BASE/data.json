@@ -1,0 +1,22 @@
+{
+  "name": "moon base",
+  "symbol": "moon base",
+  "decimals": 18,
+  "description": "moon base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moon%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moon base",
+  "addresses": {
+    "8453": "0x3266eb77808a3bb5f4ea645ad9e815fa3b51258c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moon base",
+    "sanitizedSymbol": "MOON_BASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xeC924b50da12043f0fd573d816D31Dfed781e73a",
+    "lpNftId": "1282929",
+    "lockerAddress": "0xc814Ce8376c4E6b06091c3E2bDB2E787FCdCDeF2"
+  },
+  "clankerInfo": null
+}

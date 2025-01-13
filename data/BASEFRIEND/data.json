@@ -1,0 +1,22 @@
+{
+  "name": "BaseFriend",
+  "symbol": "BaseFriend",
+  "decimals": 18,
+  "description": "BaseFriend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseFriend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseFriend",
+  "addresses": {
+    "8453": "0x04e659f083f6b70d2fefad95e905da653ead36b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseFriend",
+    "sanitizedSymbol": "BASEFRIEND",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224484",
+    "lockerAddress": "0xd96Fd262cAb4EE7CC50d9831B6b114D750D66F56"
+  },
+  "clankerInfo": null
+}

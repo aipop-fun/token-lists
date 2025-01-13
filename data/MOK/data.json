@@ -1,0 +1,22 @@
+{
+  "name": "mok",
+  "symbol": "mok",
+  "decimals": 18,
+  "description": "mok is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mok",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mok",
+  "addresses": {
+    "8453": "0x29ff5eb9091e3a15c49bd75cf29db9268c0903f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mok",
+    "sanitizedSymbol": "MOK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165062",
+    "lockerAddress": "0x558027E414888991B491E2DbB07AB1c02185fb5c"
+  },
+  "clankerInfo": null
+}

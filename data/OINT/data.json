@@ -1,0 +1,22 @@
+{
+  "name": "Oint",
+  "symbol": "Oint",
+  "decimals": 18,
+  "description": "Oint is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oint",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oint",
+  "addresses": {
+    "8453": "0x1327c9184465c86059228f3f7d4e29c2417b99f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oint",
+    "sanitizedSymbol": "OINT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213795",
+    "lockerAddress": "0x9d34A37728354E3be4ef7d46186ba5663E468017"
+  },
+  "clankerInfo": null
+}

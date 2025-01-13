@@ -1,0 +1,22 @@
+{
+  "name": "AutoWassie",
+  "symbol": "AutoWassie",
+  "decimals": 18,
+  "description": "AutoWassie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AutoWassie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AutoWassie",
+  "addresses": {
+    "8453": "0x2fd10c09dd802e989d451442c20538e5aa6206f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AutoWassie",
+    "sanitizedSymbol": "AUTOWASSIE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237206",
+    "lockerAddress": "0x0f2f0ff4694137c0AAf1e82C61e935e60Ca24352"
+  },
+  "clankerInfo": null
+}

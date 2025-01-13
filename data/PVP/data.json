@@ -1,0 +1,22 @@
+{
+  "name": "pvp",
+  "symbol": "pvp",
+  "decimals": 18,
+  "description": "pvp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pvp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pvp",
+  "addresses": {
+    "8453": "0x27f335a2172f58480bb1d758b1ffeb0e0d3c439a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pvp",
+    "sanitizedSymbol": "PVP",
+    "created_at": "2024-12-11T18:41:09.386793",
+    "deployer": "0x5229496eB5572126E7A8fD4ED8F4Fb9FC9a7b272",
+    "lpNftId": "1424029",
+    "lockerAddress": "0x4A6FC809D4387F7aa632872030aF60a2Ed2d382A"
+  },
+  "clankerInfo": null
+}

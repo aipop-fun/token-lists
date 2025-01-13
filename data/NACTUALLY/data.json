@@ -1,0 +1,22 @@
+{
+  "name": "Nactually",
+  "symbol": "Nactually",
+  "decimals": 18,
+  "description": "Nactually is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nactually",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nactually",
+  "addresses": {
+    "8453": "0x1d58daf7a46468ca37669dda48f55100c1c2623e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nactually",
+    "sanitizedSymbol": "NACTUALLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204198",
+    "lockerAddress": "0x78404E5916c41E4E950120A2C24FCD7d916A387F"
+  },
+  "clankerInfo": null
+}

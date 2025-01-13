@@ -1,0 +1,22 @@
+{
+  "name": "vitalik experience",
+  "symbol": "vitalik experience",
+  "decimals": 18,
+  "description": "vitalik experience is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vitalik%20experience",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vitalik experience",
+  "addresses": {
+    "8453": "0x369d9dda9f93a3368579696b15981bf61474c3b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vitalik experience",
+    "sanitizedSymbol": "VITALIK_EXPERIENCE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1326957",
+    "lockerAddress": "0x54E99468E739da05B192f9fEA09D5Faaf65227dD"
+  },
+  "clankerInfo": null
+}

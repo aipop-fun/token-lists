@@ -1,0 +1,22 @@
+{
+  "name": "@Clanker Trenches",
+  "symbol": "@Clanker Trenches",
+  "decimals": 18,
+  "description": "@Clanker Trenches is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40Clanker%20Trenches",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@Clanker Trenches",
+  "addresses": {
+    "8453": "0x22000f47f4a5cd873ecf7ef429d3e01c15a5c44b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@Clanker Trenches",
+    "sanitizedSymbol": "CLANKER_TRENCHES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40c15967C2367f1910cbb80e261d0d5eC31e3430",
+    "lpNftId": "1316700",
+    "lockerAddress": "0xd763d7837342B877FD99d281516fA43D5C265796"
+  },
+  "clankerInfo": null
+}

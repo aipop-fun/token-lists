@@ -1,0 +1,22 @@
+{
+  "name": "PewPewPew",
+  "symbol": "PewPewPew",
+  "decimals": 18,
+  "description": "PewPewPew is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PewPewPew",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PewPewPew",
+  "addresses": {
+    "8453": "0x0897f0d14b9381c47a824c5a6982b002a1b02f3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PewPewPew",
+    "sanitizedSymbol": "PEWPEWPEW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb50505b79D98Fa09502a965f0559924623cBcDf4",
+    "lpNftId": "1353511",
+    "lockerAddress": "0x90716DE343a7637975bB2AA14eCa7738D49a3c60"
+  },
+  "clankerInfo": null
+}

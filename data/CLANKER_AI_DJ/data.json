@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER AI DJ",
+  "symbol": "CLANKER AI DJ",
+  "decimals": 18,
+  "description": "CLANKER AI DJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20AI%20DJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER AI DJ",
+  "addresses": {
+    "8453": "0x41349077ac5d63f848cfc6cf2ba6297240ba481b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER AI DJ",
+    "sanitizedSymbol": "CLANKER_AI_DJ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1312446",
+    "lockerAddress": "0x7Cc212bF9add1Ee569cbc267D7CFe9A0Fc7aBe09"
+  },
+  "clankerInfo": null
+}

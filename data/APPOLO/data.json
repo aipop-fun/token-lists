@@ -1,0 +1,22 @@
+{
+  "name": "APPOLO",
+  "symbol": "APPOLO",
+  "decimals": 18,
+  "description": "APPOLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APPOLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APPOLO",
+  "addresses": {
+    "8453": "0x0819eed8971160c710befe5a560a79389e150f62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APPOLO",
+    "sanitizedSymbol": "APPOLO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1329322",
+    "lockerAddress": "0xa8d2DD2F599E918aC669dE2b992BE6Db86F40810"
+  },
+  "clankerInfo": null
+}

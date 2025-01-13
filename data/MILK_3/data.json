@@ -1,0 +1,22 @@
+{
+  "name": "MILK",
+  "symbol": "MILK",
+  "decimals": 18,
+  "description": "MILK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILK",
+  "addresses": {
+    "8453": "0x20c5c2467e5544b1b737767d5302b0e68640a75c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILK",
+    "sanitizedSymbol": "MILK_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAC82e513B1BD6702DCd5752a493455Ea7D2D47c8",
+    "lpNftId": "1312909",
+    "lockerAddress": "0xB552c0Ac8babFBB9b0eD186ADfd3D6A4e42D34eA"
+  },
+  "clankerInfo": null
+}

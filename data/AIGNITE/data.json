@@ -1,0 +1,22 @@
+{
+  "name": "AIgnite",
+  "symbol": "AIgnite",
+  "decimals": 18,
+  "description": "AIgnite is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIgnite",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIgnite",
+  "addresses": {
+    "8453": "0x0d82e9fb6a66dc203ed9e77d4ed9b24e184e5c1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIgnite",
+    "sanitizedSymbol": "AIGNITE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235586",
+    "lockerAddress": "0x55c3c52c935C97097f4D34Dc7DAd377DF17bb188"
+  },
+  "clankerInfo": null
+}

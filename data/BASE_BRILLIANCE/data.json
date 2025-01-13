@@ -1,0 +1,22 @@
+{
+  "name": "Base Brilliance",
+  "symbol": "Base Brilliance",
+  "decimals": 18,
+  "description": "Base Brilliance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Brilliance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Brilliance",
+  "addresses": {
+    "8453": "0x325441905c98eeaf699d93d65dce81e6059bbbc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Brilliance",
+    "sanitizedSymbol": "BASE_BRILLIANCE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc1512c90DAbFD56Cdde8ee5c98f924C261555714",
+    "lpNftId": "1332701",
+    "lockerAddress": "0x0F8536E332Faf703273981466e490A192DFDb45E"
+  },
+  "clankerInfo": null
+}

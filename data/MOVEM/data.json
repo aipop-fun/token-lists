@@ -1,0 +1,22 @@
+{
+  "name": "movem",
+  "symbol": "movem",
+  "decimals": 18,
+  "description": "movem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=movem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "movem",
+  "addresses": {
+    "8453": "0x412732952d71b856fe09451054a00d2c8c522b8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "movem",
+    "sanitizedSymbol": "MOVEM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0A8c28b2bd449B632Ce1641cEbBe127dF79c3D1c",
+    "lpNftId": "1327499",
+    "lockerAddress": "0x0dF6A1E6A1c6e7ead51Dee826E1939DF6B5D9E86"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CHINU",
+  "symbol": "CHINU",
+  "decimals": 18,
+  "description": "CHINU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHINU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHINU",
+  "addresses": {
+    "8453": "0x0b254347ded6b9effea615c0680f451e60a7e4c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHINU",
+    "sanitizedSymbol": "CHINU_3",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3d3d843ebD7A8423C7455E654C4e1CaDb7e8F387",
+    "lpNftId": "1266729",
+    "lockerAddress": "0x11c8A16d4552134c985b70fEA4e6C6053FA747a1"
+  },
+  "clankerInfo": null
+}

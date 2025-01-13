@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik Safe Flight",
+  "symbol": "Vitalik Safe Flight",
+  "decimals": 18,
+  "description": "Vitalik Safe Flight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20Safe%20Flight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik Safe Flight",
+  "addresses": {
+    "8453": "0x3354bf7560f3222f0e8c7a9fc2c4fad3d48061e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik Safe Flight",
+    "sanitizedSymbol": "VITALIK_SAFE_FLIGHT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1320828",
+    "lockerAddress": "0x450b26Aee4967b24aA88899d452386709fDDE4Be"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Teefies",
+  "symbol": "Teefies",
+  "decimals": 18,
+  "description": "Teefies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Teefies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Teefies",
+  "addresses": {
+    "8453": "0x0070b2decde3b614e99407c3b79e46772f84f8b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Teefies",
+    "sanitizedSymbol": "TEEFIES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229635",
+    "lockerAddress": "0x8Df93454F3973fE58872e1792771a5441043c21D"
+  },
+  "clankerInfo": null
+}

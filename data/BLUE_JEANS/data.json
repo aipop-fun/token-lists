@@ -1,0 +1,22 @@
+{
+  "name": "Blue Jeans",
+  "symbol": "Blue Jeans",
+  "decimals": 18,
+  "description": "Blue Jeans is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Jeans",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Jeans",
+  "addresses": {
+    "8453": "0x31e0ef2986850eebc8b14af04a210fc4710a6367"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Jeans",
+    "sanitizedSymbol": "BLUE_JEANS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1309533",
+    "lockerAddress": "0x2E4eC3aab87E18d77ABD301Df5bA4f8F2b5CC780"
+  },
+  "clankerInfo": null
+}

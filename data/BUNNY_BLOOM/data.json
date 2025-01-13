@@ -1,0 +1,22 @@
+{
+  "name": "Bunny Bloom",
+  "symbol": "Bunny Bloom",
+  "decimals": 18,
+  "description": "Bunny Bloom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bunny%20Bloom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bunny Bloom",
+  "addresses": {
+    "8453": "0x0fe195d40f3644df9b3824a764f9a072b161fa3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bunny Bloom",
+    "sanitizedSymbol": "BUNNY_BLOOM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x100B2D0AB2fB5753b51F03C89447072c57E4aDEd",
+    "lpNftId": "1321054",
+    "lockerAddress": "0x35e3850F4c92aB070ad730853c12df045d2247FD"
+  },
+  "clankerInfo": null
+}

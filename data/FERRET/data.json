@@ -1,0 +1,22 @@
+{
+  "name": "Ferret",
+  "symbol": "Ferret",
+  "decimals": 18,
+  "description": "Ferret is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ferret",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ferret",
+  "addresses": {
+    "8453": "0x38b15979026982711c683510a71f98b49c9cbdb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ferret",
+    "sanitizedSymbol": "FERRET",
+    "created_at": "2024-12-10T17:25:03.891995",
+    "deployer": "0xEb8e490084b87AC0DcE028DC6D846f6D42Ce66Dd",
+    "lpNftId": "1404562",
+    "lockerAddress": "0xbDA2dED67965a61359F09BeD148356C362e1CAB9"
+  },
+  "clankerInfo": null
+}

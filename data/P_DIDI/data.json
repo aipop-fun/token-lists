@@ -1,0 +1,22 @@
+{
+  "name": "P DiDi",
+  "symbol": "P DiDi",
+  "decimals": 18,
+  "description": "P DiDi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=P%20DiDi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "P DiDi",
+  "addresses": {
+    "8453": "0x09241151f0eed99e561b2b496e539d6d62ea36b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "P DiDi",
+    "sanitizedSymbol": "P_DIDI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8ddE615413F33eF5b2c5b9Dd9ebeE15E1279A7C6",
+    "lpNftId": "1335433",
+    "lockerAddress": "0xF463bdAf851DaF66A660311147334e2C71626C79"
+  },
+  "clankerInfo": null
+}

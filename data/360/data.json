@@ -1,0 +1,22 @@
+{
+  "name": "360",
+  "symbol": "360",
+  "decimals": 18,
+  "description": "360 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=360",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "360",
+  "addresses": {
+    "8453": "0x110decceb4fd36030e8b21dffc04c953ac100229"
+  },
+  "tokenInfo": {
+    "originalSymbol": "360",
+    "sanitizedSymbol": "360",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a2f6c4C10c8AF0f0EeE8eEa8b7859C2a6000902",
+    "lpNftId": "1325263",
+    "lockerAddress": "0xd81E78db3573e1A06b99a30553E1D6202C8Ae92A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "626",
+  "symbol": "626",
+  "decimals": 18,
+  "description": "626 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=626",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "626",
+  "addresses": {
+    "8453": "0x35d770fb40059377f68510fab087988362b11f6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "626",
+    "sanitizedSymbol": "626_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5CBf3c93E1f3Af4c476D395D7457B61A18e349e9",
+    "lpNftId": "1313297",
+    "lockerAddress": "0x529562B5CC0cbf43900D69f7Af950b50318eD549"
+  },
+  "clankerInfo": null
+}

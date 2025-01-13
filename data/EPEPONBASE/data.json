@@ -1,0 +1,22 @@
+{
+  "name": "EPEPonBase",
+  "symbol": "EPEPonBase",
+  "decimals": 18,
+  "description": "EPEPonBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EPEPonBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EPEPonBase",
+  "addresses": {
+    "8453": "0x32b3901370d965b1a35018ec4520b2afd40ff4bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EPEPonBase",
+    "sanitizedSymbol": "EPEPONBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2bc66df32fE9774CAeE150A93BC2fCA840927Fb6",
+    "lpNftId": "1311064",
+    "lockerAddress": "0xcaf2a3f8dce6a482e47c6Aa147fD2288f063e596"
+  },
+  "clankerInfo": null
+}

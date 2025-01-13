@@ -1,0 +1,22 @@
+{
+  "name": "IPL",
+  "symbol": "IPL",
+  "decimals": 18,
+  "description": "IPL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IPL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IPL",
+  "addresses": {
+    "8453": "0x2371ea4932e650b1a6d3d1873546f38ad9cf2639"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IPL",
+    "sanitizedSymbol": "IPL",
+    "created_at": "2024-12-11T06:35:37.230879",
+    "deployer": "0x345ae3610d615af8c1E7605c72AF0aFa84cB3c6a",
+    "lpNftId": "1413916",
+    "lockerAddress": "0x73a3C8BAaa7D38A5768Bb0d8315Dd9a455D376C7"
+  },
+  "clankerInfo": null
+}

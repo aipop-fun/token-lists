@@ -1,0 +1,22 @@
+{
+  "name": "24Time",
+  "symbol": "24Time",
+  "decimals": 18,
+  "description": "24Time is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=24Time",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "24Time",
+  "addresses": {
+    "8453": "0x165b6963edf7b0cb5d28e29c6da68f0a6433b950"
+  },
+  "tokenInfo": {
+    "originalSymbol": "24Time",
+    "sanitizedSymbol": "24TIME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7FAE3B8255AF507C5a1cF1A669B5333C71446415",
+    "lpNftId": "1283859",
+    "lockerAddress": "0x6A2A9F86f3310A208199D908D8B81163b525aD25"
+  },
+  "clankerInfo": null
+}

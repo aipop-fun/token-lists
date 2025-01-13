@@ -1,0 +1,22 @@
+{
+  "name": "TRADE",
+  "symbol": "TRADE",
+  "decimals": 18,
+  "description": "TRADE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRADE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRADE",
+  "addresses": {
+    "8453": "0x1a1dd510b6580a549277316a4bec752f3e6b3f6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRADE",
+    "sanitizedSymbol": "TRADE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x305eC3f869c719a6821eD8b83A595Fb5dB406df0",
+    "lpNftId": "1333437",
+    "lockerAddress": "0x90fC3D0A80A119E6D105240B889cB3C3cdB1AB4D"
+  },
+  "clankerInfo": null
+}

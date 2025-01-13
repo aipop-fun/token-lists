@@ -1,0 +1,22 @@
+{
+  "name": "Zerion Base",
+  "symbol": "Zerion Base",
+  "decimals": 18,
+  "description": "Zerion Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zerion%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zerion Base",
+  "addresses": {
+    "8453": "0x213b2f1c48241fc2e15961ceccb86ddbf815cfec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zerion Base",
+    "sanitizedSymbol": "ZERION_BASE",
+    "created_at": "2024-12-09T19:33:35.993527",
+    "deployer": "0x722aB637320aFB42c27172a07e039d513837f0Ea",
+    "lpNftId": "1390944",
+    "lockerAddress": "0x38a612391D9f3Ef7ccF766D2080D88746e119E0c"
+  },
+  "clankerInfo": null
+}

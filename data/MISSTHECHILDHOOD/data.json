@@ -1,0 +1,22 @@
+{
+  "name": "MissTheChildhood",
+  "symbol": "MissTheChildhood",
+  "decimals": 18,
+  "description": "MissTheChildhood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MissTheChildhood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MissTheChildhood",
+  "addresses": {
+    "8453": "0x361aa02bc168c95fdac87b24a856484ca38d76f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MissTheChildhood",
+    "sanitizedSymbol": "MISSTHECHILDHOOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb50505b79D98Fa09502a965f0559924623cBcDf4",
+    "lpNftId": "1352504",
+    "lockerAddress": "0x4D30b9d303402bDB43103b78c83535CE32E8f52c"
+  },
+  "clankerInfo": null
+}

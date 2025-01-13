@@ -1,0 +1,22 @@
+{
+  "name": "I'm Different",
+  "symbol": "I'm Different",
+  "decimals": 18,
+  "description": "I'm Different is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I'm%20Different",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I'm Different",
+  "addresses": {
+    "8453": "0x302cc2eadff68c9d20cdea2d21063453ba2ee804"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I'm Different",
+    "sanitizedSymbol": "I_M_DIFFERENT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5b41Cc4300003F383628c232a508E3D4C1dA5038",
+    "lpNftId": "1322792",
+    "lockerAddress": "0xD54BC400B9Fe3c5bD41e1623342e1eD51a035177"
+  },
+  "clankerInfo": null
+}

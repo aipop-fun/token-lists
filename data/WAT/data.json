@@ -1,0 +1,22 @@
+{
+  "name": "WAT",
+  "symbol": "WAT",
+  "decimals": 18,
+  "description": "WAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WAT",
+  "addresses": {
+    "8453": "0x00009919b3c22bd7524cedb53647e3ccbd4642b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WAT",
+    "sanitizedSymbol": "WAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbAcC138C9575699b187420F4796dF35df0851163",
+    "lpNftId": "1298004",
+    "lockerAddress": "0xB7386438862b950Bb498fB14F43b665F476DBCc6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "confidential",
+  "symbol": "confidential",
+  "decimals": 18,
+  "description": "confidential is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=confidential",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "confidential",
+  "addresses": {
+    "8453": "0x2e7c6c5df63950aa33e23c1e81991be6ba5d4a6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "confidential",
+    "sanitizedSymbol": "CONFIDENTIAL",
+    "created_at": "2024-12-11T19:04:40.914919",
+    "deployer": "0xfb6a8cb632aa1a68b3a3569932c644253c078e6F",
+    "lpNftId": "1424494",
+    "lockerAddress": "0x240a36CBF07D7CB7Ec02F124D69F2De7d505F21B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pus",
+  "symbol": "pus",
+  "decimals": 18,
+  "description": "pus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pus",
+  "addresses": {
+    "8453": "0x29a6d172796829c22e8454b31c41d81d221e3491"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pus",
+    "sanitizedSymbol": "PUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeB485322189f57E4eEc86294eFCc3CA711c82781",
+    "lpNftId": "1288428",
+    "lockerAddress": "0x838f50f30D0be4D3DB30ab2ABCd39c5765c8e392"
+  },
+  "clankerInfo": null
+}

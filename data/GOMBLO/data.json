@@ -1,0 +1,22 @@
+{
+  "name": "GOMBLO",
+  "symbol": "GOMBLO",
+  "decimals": 18,
+  "description": "GOMBLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOMBLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOMBLO",
+  "addresses": {
+    "8453": "0x1de800ea91a06616ff39cd9f75aa3b9be998fca1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOMBLO",
+    "sanitizedSymbol": "GOMBLO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1333501",
+    "lockerAddress": "0xd960FA75AF98e432884a3979A118492D5c599Acd"
+  },
+  "clankerInfo": null
+}

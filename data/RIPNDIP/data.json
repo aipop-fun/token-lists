@@ -1,0 +1,22 @@
+{
+  "name": "RipNDip",
+  "symbol": "RipNDip",
+  "decimals": 18,
+  "description": "RipNDip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RipNDip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RipNDip",
+  "addresses": {
+    "8453": "0x2f3b7de52ac7ee197847db6c7c81656e61c144f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RipNDip",
+    "sanitizedSymbol": "RIPNDIP",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1264733",
+    "lockerAddress": "0x0b6De6534E8dbF395a01477503cF26deeAd5f908"
+  },
+  "clankerInfo": null
+}

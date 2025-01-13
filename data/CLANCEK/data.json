@@ -1,0 +1,22 @@
+{
+  "name": "CLANCEK",
+  "symbol": "CLANCEK",
+  "decimals": 18,
+  "description": "CLANCEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANCEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANCEK",
+  "addresses": {
+    "8453": "0x3ad672440458b2510745a544f8be3183a61cc163"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANCEK",
+    "sanitizedSymbol": "CLANCEK",
+    "created_at": "2024-12-10T09:31:21.276635",
+    "deployer": "0x3a066F5fB2F520695a27D877bFc40BAD81247e88",
+    "lpNftId": "1399259",
+    "lockerAddress": "0xc971115b76A0D48f8e7535eceA4Dba08fd7E1B59"
+  },
+  "clankerInfo": null
+}

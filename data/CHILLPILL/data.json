@@ -1,0 +1,22 @@
+{
+  "name": "CHILLPILL",
+  "symbol": "CHILLPILL",
+  "decimals": 18,
+  "description": "CHILLPILL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILLPILL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILLPILL",
+  "addresses": {
+    "8453": "0x39eea8759b8967008a4a3b2648775bc5fd73e5aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILLPILL",
+    "sanitizedSymbol": "CHILLPILL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226329",
+    "lockerAddress": "0x00f8BBE019000bBEC451e0d1ec1ac132Af2dFE60"
+  },
+  "clankerInfo": null
+}

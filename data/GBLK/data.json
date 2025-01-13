@@ -1,0 +1,22 @@
+{
+  "name": "$GBLK",
+  "symbol": "$GBLK",
+  "decimals": 18,
+  "description": "$GBLK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24GBLK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$GBLK",
+  "addresses": {
+    "8453": "0x1cab86b0eb478e33e9ce0b81afb084089af758be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$GBLK",
+    "sanitizedSymbol": "GBLK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF9AFDfE9292D62b560f21b668ff5c46D3a9E0Eb8",
+    "lpNftId": "1327286",
+    "lockerAddress": "0x3ADfB61A4717Fd84a198Df44c466e81A6b58BC9F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SpongeDAO",
+  "symbol": "SpongeDAO",
+  "decimals": 18,
+  "description": "SpongeDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpongeDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpongeDAO",
+  "addresses": {
+    "8453": "0x1785f7e28075bf82409c23a833e95a1498ed326d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpongeDAO",
+    "sanitizedSymbol": "SPONGEDAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173310",
+    "lockerAddress": "0xe9b5B2d48ef48E4983834d22cE183f053449384f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@clanker deploy a token",
+  "symbol": "@clanker deploy a token",
+  "decimals": 18,
+  "description": "@clanker deploy a token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40clanker%20deploy%20a%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@clanker deploy a token",
+  "addresses": {
+    "8453": "0x3e74c4c96c614ac1157b7cfe2518d55af9b9c7d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@clanker deploy a token",
+    "sanitizedSymbol": "CLANKER_DEPLOY_A_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234307",
+    "lockerAddress": "0xD89834f1c9B7C338120FAfd44C8D0A93Dce3f462"
+  },
+  "clankerInfo": null
+}

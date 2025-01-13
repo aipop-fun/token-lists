@@ -1,0 +1,22 @@
+{
+  "name": "Before And After",
+  "symbol": "Before And After",
+  "decimals": 18,
+  "description": "Before And After is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Before%20And%20After",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Before And After",
+  "addresses": {
+    "8453": "0x358b15b522b522447727be069ed1a9649282de3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Before And After",
+    "sanitizedSymbol": "BEFORE_AND_AFTER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0E3c03c42B18e9cB4fA3c9D6E734c3C1Eb4a0eE4",
+    "lpNftId": "1264391",
+    "lockerAddress": "0x05D891108bdd33DAd855179594809f2Ef813EC88"
+  },
+  "clankerInfo": null
+}

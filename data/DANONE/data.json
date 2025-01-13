@@ -1,0 +1,22 @@
+{
+  "name": "dANONe",
+  "symbol": "dANONe",
+  "decimals": 18,
+  "description": "dANONe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dANONe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dANONe",
+  "addresses": {
+    "8453": "0x3b4fd0b10fd76487d5e2ec7a359d9c6c3a65e788"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dANONe",
+    "sanitizedSymbol": "DANONE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201405",
+    "lockerAddress": "0xD09F19b2E3841517d35aAb65F755e5d28C0E0ac4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bloomy",
+  "symbol": "bloomy",
+  "decimals": 18,
+  "description": "bloomy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bloomy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bloomy",
+  "addresses": {
+    "8453": "0x01b1056f9a68d0efdb610e5741d359a7532f8d45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bloomy",
+    "sanitizedSymbol": "BLOOMY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1261D6A2dc2EE212Ff1C13efB329E24531ea000f",
+    "lpNftId": "1268811",
+    "lockerAddress": "0x2EdF78517965d65E9d7Eb3eB4894fe9700950B1D"
+  },
+  "clankerInfo": null
+}

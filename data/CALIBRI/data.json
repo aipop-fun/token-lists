@@ -1,0 +1,22 @@
+{
+  "name": "Calibri",
+  "symbol": "Calibri",
+  "decimals": 18,
+  "description": "Calibri is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Calibri",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Calibri",
+  "addresses": {
+    "8453": "0x1d92334f64b97c16ae90b69b2041d76cd64a26dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Calibri",
+    "sanitizedSymbol": "CALIBRI",
+    "created_at": "2024-12-09T05:40:30.788734",
+    "deployer": "0x435172C1B669839dE487c8A26BeE3124E2f06D78",
+    "lpNftId": "1383286",
+    "lockerAddress": "0x2f1Eb7f9e260F16745a140Da7EF687CA285AA366"
+  },
+  "clankerInfo": null
+}

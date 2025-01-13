@@ -1,0 +1,22 @@
+{
+  "name": "PEPE69",
+  "symbol": "PEPE69",
+  "decimals": 18,
+  "description": "PEPE69 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE69",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE69",
+  "addresses": {
+    "8453": "0x053919e5b08957380734a6ee0727b2120740ee53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE69",
+    "sanitizedSymbol": "PEPE69",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1286645",
+    "lockerAddress": "0x4283D788f812a7811f158FdD3c294F6050f7D125"
+  },
+  "clankerInfo": null
+}

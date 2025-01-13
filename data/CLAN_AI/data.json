@@ -1,0 +1,22 @@
+{
+  "name": "Clan AI",
+  "symbol": "Clan AI",
+  "decimals": 18,
+  "description": "Clan AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clan%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clan AI",
+  "addresses": {
+    "8453": "0x065d00f66d9108ce58c7a695855c16e85f44c0fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clan AI",
+    "sanitizedSymbol": "CLAN_AI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6aCAF482B1afD12EbbfDAC93D906fc512D7A6E9c",
+    "lpNftId": "1328818",
+    "lockerAddress": "0x3E2AE109338aC10E2BAeE918Aaa5b6DdC8aba90A"
+  },
+  "clankerInfo": null
+}

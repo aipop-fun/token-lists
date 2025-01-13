@@ -1,0 +1,22 @@
+{
+  "name": "BASE IS GOOD",
+  "symbol": "BASE IS GOOD",
+  "decimals": 18,
+  "description": "BASE IS GOOD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20IS%20GOOD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE IS GOOD",
+  "addresses": {
+    "8453": "0x34196b13afadaacb72f0e73eaa79c074b8fb5557"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE IS GOOD",
+    "sanitizedSymbol": "BASE_IS_GOOD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123234",
+    "lockerAddress": "0x9F89344309744C948ED654B6aB420cc48393Aa54"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KZL",
+  "symbol": "KZL",
+  "decimals": 18,
+  "description": "KZL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KZL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KZL",
+  "addresses": {
+    "8453": "0x2de29a6ce2ad0be51d1779a5d7de6511879aa131"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KZL",
+    "sanitizedSymbol": "KZL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x45849Aca6A2B9340D5452270aA32AF21996e429B",
+    "lpNftId": "1265479",
+    "lockerAddress": "0x949D66D552eAc3915C62984Fc91475E80D2b2734"
+  },
+  "clankerInfo": null
+}

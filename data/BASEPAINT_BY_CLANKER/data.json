@@ -1,0 +1,22 @@
+{
+  "name": "BasePaint By Clanker",
+  "symbol": "BasePaint By Clanker",
+  "decimals": 18,
+  "description": "BasePaint By Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasePaint%20By%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasePaint By Clanker",
+  "addresses": {
+    "8453": "0x411e74f57e0e728ebe0f39bed0e1bdb4d014790f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasePaint By Clanker",
+    "sanitizedSymbol": "BASEPAINT_BY_CLANKER",
+    "created_at": "2024-12-11T03:56:45.254202",
+    "deployer": "0x26bEfbfE356adF98d30523cF57b94951938A0F71",
+    "lpNftId": "1412048",
+    "lockerAddress": "0xb43462a3cD0F47e8DB3cA19E83E8bE7e60E55cE4"
+  },
+  "clankerInfo": null
+}

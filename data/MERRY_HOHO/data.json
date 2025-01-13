@@ -1,0 +1,22 @@
+{
+  "name": "Merry Hoho",
+  "symbol": "Merry Hoho",
+  "decimals": 18,
+  "description": "Merry Hoho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Merry%20Hoho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Merry Hoho",
+  "addresses": {
+    "8453": "0x2f5edadc20543d57c51aa5489de39748add3be99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Merry Hoho",
+    "sanitizedSymbol": "MERRY_HOHO",
+    "created_at": "2024-12-10T12:55:37.385205",
+    "deployer": "0x8533b0D731bDEaE92f52685856fFfCb8B48eBe96",
+    "lpNftId": "1401224",
+    "lockerAddress": "0x71C63ff978342c49D386904C074188C1536A2fB0"
+  },
+  "clankerInfo": null
+}

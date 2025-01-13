@@ -1,0 +1,22 @@
+{
+  "name": "Csd",
+  "symbol": "Csd",
+  "decimals": 18,
+  "description": "Csd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Csd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Csd",
+  "addresses": {
+    "8453": "0x123aeae156e35cada19f576d5bad77c84f8a15f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Csd",
+    "sanitizedSymbol": "CSD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1318121",
+    "lockerAddress": "0x050d46845492a3D16088fb9951e761f34D197353"
+  },
+  "clankerInfo": null
+}

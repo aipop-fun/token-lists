@@ -1,0 +1,22 @@
+{
+  "name": "Poetry",
+  "symbol": "Poetry",
+  "decimals": 18,
+  "description": "Poetry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Poetry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Poetry",
+  "addresses": {
+    "8453": "0x358c0693a3dd12a14d93a4f099d0f7690db16b26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Poetry",
+    "sanitizedSymbol": "POETRY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3F5602a8a9664817aBc95bf0280a5a9F621f0287",
+    "lpNftId": "1277869",
+    "lockerAddress": "0x83625aAd5F282A698033DB538bDC1eE6ce9EeE3e"
+  },
+  "clankerInfo": null
+}

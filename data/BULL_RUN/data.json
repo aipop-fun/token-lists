@@ -1,0 +1,22 @@
+{
+  "name": "Bull Run",
+  "symbol": "Bull Run",
+  "decimals": 18,
+  "description": "Bull Run is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bull%20Run",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bull Run",
+  "addresses": {
+    "8453": "0x245d8a82e1e8d5562c5844618ac095deff0f1a84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bull Run",
+    "sanitizedSymbol": "BULL_RUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206549",
+    "lockerAddress": "0x8aA617b3b8BA2F574Ab97a4E3Ccf80CA0D2B08fd"
+  },
+  "clankerInfo": null
+}

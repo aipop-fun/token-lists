@@ -1,0 +1,22 @@
+{
+  "name": "Mr. Popo",
+  "symbol": "Mr. Popo",
+  "decimals": 18,
+  "description": "Mr. Popo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.%20Popo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr. Popo",
+  "addresses": {
+    "8453": "0x28bb26a8e70698cc5227d3d9070ec8891bffea68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr. Popo",
+    "sanitizedSymbol": "MR_POPO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166980",
+    "lockerAddress": "0xD77a5C8E3AD6ae3Cbd1147B4a40aE98C7AEfD3Da"
+  },
+  "clankerInfo": null
+}

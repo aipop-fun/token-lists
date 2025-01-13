@@ -1,0 +1,22 @@
+{
+  "name": "DeBank",
+  "symbol": "DeBank",
+  "decimals": 18,
+  "description": "DeBank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeBank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeBank",
+  "addresses": {
+    "8453": "0x33870aee3f8e1d49bbb7f200256d12405a2caf7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeBank",
+    "sanitizedSymbol": "DEBANK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1366169",
+    "lockerAddress": "0x281C915E4f6caf0863D6c502cE03F52Eb84428E0"
+  },
+  "clankerInfo": null
+}

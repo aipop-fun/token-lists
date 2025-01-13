@@ -1,0 +1,22 @@
+{
+  "name": "Base Doge",
+  "symbol": "Base Doge",
+  "decimals": 18,
+  "description": "Base Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Doge",
+  "addresses": {
+    "8453": "0x41d9dbd60271437d364e92e7a7087f39075b4e31"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Doge",
+    "sanitizedSymbol": "BASE_DOGE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217991",
+    "lockerAddress": "0x183238Ff48B9D83481874017e2ee7034f106ffd0"
+  },
+  "clankerInfo": null
+}

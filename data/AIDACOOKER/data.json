@@ -1,0 +1,22 @@
+{
+  "name": "AIDACOOKER",
+  "symbol": "AIDACOOKER",
+  "decimals": 18,
+  "description": "AIDACOOKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIDACOOKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIDACOOKER",
+  "addresses": {
+    "8453": "0x22b42b213f44e2a15025109a5b24a5b1fa07a434"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIDACOOKER",
+    "sanitizedSymbol": "AIDACOOKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8B41BE592FfE6fc196724bB3C2356Cf1Ba07fBd6",
+    "lpNftId": "1266605",
+    "lockerAddress": "0x7fA4b05b5a4bB320690a7B8F5aB7409cdaA04275"
+  },
+  "clankerInfo": null
+}

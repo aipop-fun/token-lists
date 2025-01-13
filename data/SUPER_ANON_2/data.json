@@ -1,0 +1,22 @@
+{
+  "name": "Super Anon",
+  "symbol": "Super Anon",
+  "decimals": 18,
+  "description": "Super Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Anon",
+  "addresses": {
+    "8453": "0x2316ce1553deacdcf70bf7ad2ded5d50ced9a234"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Anon",
+    "sanitizedSymbol": "SUPER_ANON_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161909",
+    "lockerAddress": "0xE186F9272d1cA8708F51CA8D046339465C321adA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Creepy Zuck",
+  "symbol": "Creepy Zuck",
+  "decimals": 18,
+  "description": "Creepy Zuck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Creepy%20Zuck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Creepy Zuck",
+  "addresses": {
+    "8453": "0x1b86931dfe34c345ed5acb17a3e6c763200d370e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Creepy Zuck",
+    "sanitizedSymbol": "CREEPY_ZUCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1315530",
+    "lockerAddress": "0x834eA89c957188695405B339CfC8c9E7ef7170D0"
+  },
+  "clankerInfo": null
+}

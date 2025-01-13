@@ -1,0 +1,22 @@
+{
+  "name": "ZEEMI",
+  "symbol": "ZEEMI",
+  "decimals": 18,
+  "description": "ZEEMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEEMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEEMI",
+  "addresses": {
+    "8453": "0x4186be7578c66ea28c588d7dc4490deeb6f6851e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEEMI",
+    "sanitizedSymbol": "ZEEMI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x43A75D87479DF215bf316a8903C93D449D19f5D7",
+    "lpNftId": "1311041",
+    "lockerAddress": "0xf0e2fA4B6D998A3425f2422212A58d23057b5Df8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Inside",
+  "symbol": "Inside",
+  "decimals": 18,
+  "description": "Inside is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inside",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inside",
+  "addresses": {
+    "8453": "0x10c2818525f7983f15f2f8d9638e46c751e427eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inside",
+    "sanitizedSymbol": "INSIDE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165962",
+    "lockerAddress": "0x0806024c9dc1b9F157b53649E192F970e71d8B7F"
+  },
+  "clankerInfo": null
+}

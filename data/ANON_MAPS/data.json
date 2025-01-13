@@ -1,0 +1,22 @@
+{
+  "name": "Anon Maps",
+  "symbol": "Anon Maps",
+  "decimals": 18,
+  "description": "Anon Maps is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Maps",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Maps",
+  "addresses": {
+    "8453": "0x1987331a2d091653698310445788751bfd888ecb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Maps",
+    "sanitizedSymbol": "ANON_MAPS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0365B969FC9665A64c29bBEb16afc48CcbB65761",
+    "lpNftId": "1327744",
+    "lockerAddress": "0xb8a235FebabC90E6662EeD88C8e828A008d37E32"
+  },
+  "clankerInfo": null
+}

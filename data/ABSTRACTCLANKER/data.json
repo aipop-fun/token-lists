@@ -1,0 +1,22 @@
+{
+  "name": "AbstractClanker",
+  "symbol": "AbstractClanker",
+  "decimals": 18,
+  "description": "AbstractClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AbstractClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AbstractClanker",
+  "addresses": {
+    "8453": "0x2bc6a1aa6b316b06a20e921216643c813d2bbc68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AbstractClanker",
+    "sanitizedSymbol": "ABSTRACTCLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218857",
+    "lockerAddress": "0x015313dAbB785cBcc52B05D8dF4cAAefd3e91a30"
+  },
+  "clankerInfo": null
+}

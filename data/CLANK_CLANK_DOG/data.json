@@ -1,0 +1,22 @@
+{
+  "name": "clank clank dog",
+  "symbol": "clank clank dog",
+  "decimals": 18,
+  "description": "clank clank dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clank%20clank%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clank clank dog",
+  "addresses": {
+    "8453": "0x3ca93bb9aa910eac9913717bed1e6654adcda943"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clank clank dog",
+    "sanitizedSymbol": "CLANK_CLANK_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1249954",
+    "lockerAddress": "0x92C7ed8d86985B1CD846Db36A0823eDb0773530a"
+  },
+  "clankerInfo": null
+}

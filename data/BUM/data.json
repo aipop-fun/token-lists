@@ -1,0 +1,22 @@
+{
+  "name": "bum",
+  "symbol": "bum",
+  "decimals": 18,
+  "description": "bum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bum",
+  "addresses": {
+    "8453": "0x36942dff478b52dfbfd892b30f1c9c012703464c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bum",
+    "sanitizedSymbol": "BUM",
+    "created_at": "2024-12-10T05:51:31.339196",
+    "deployer": "0x9CCF767f66812D656B2F2EbE30c1987d61393eCd",
+    "lpNftId": "1397160",
+    "lockerAddress": "0x03C86587d04877886Ba6900097BCC01654eE744D"
+  },
+  "clankerInfo": null
+}

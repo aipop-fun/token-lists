@@ -1,0 +1,22 @@
+{
+  "name": "OTTO",
+  "symbol": "OTTO",
+  "decimals": 18,
+  "description": "OTTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OTTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OTTO",
+  "addresses": {
+    "8453": "0x3bbfdc5948a59d480cf9c9fdacbe9a6516ce581c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OTTO",
+    "sanitizedSymbol": "OTTO",
+    "created_at": "2024-12-10T04:30:22.859342",
+    "deployer": "0xdfFC6D4CfbFde65f4Ca4fdD0A5EA60148d808762",
+    "lpNftId": "1396305",
+    "lockerAddress": "0x571747725b22540eba678d0AE8AEF8Aa1a7A3105"
+  },
+  "clankerInfo": null
+}

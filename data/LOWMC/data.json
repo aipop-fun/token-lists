@@ -1,0 +1,22 @@
+{
+  "name": "lowmc",
+  "symbol": "lowmc",
+  "decimals": 18,
+  "description": "lowmc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lowmc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lowmc",
+  "addresses": {
+    "8453": "0x17aee70bb66887d2447654e0edffddfe0fcfad40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lowmc",
+    "sanitizedSymbol": "LOWMC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124518",
+    "lockerAddress": "0x94a678ed1B5444133f5410684d533f9BF44981be"
+  },
+  "clankerInfo": null
+}

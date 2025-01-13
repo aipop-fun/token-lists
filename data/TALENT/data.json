@@ -1,0 +1,22 @@
+{
+  "name": "Talent",
+  "symbol": "Talent",
+  "decimals": 18,
+  "description": "Talent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Talent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Talent",
+  "addresses": {
+    "8453": "0x1edc6a170c16ff83140f2b6e6e87819057440e62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Talent",
+    "sanitizedSymbol": "TALENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123325",
+    "lockerAddress": "0x169a5e0d29bf1200D2B4E00C980e1e010954022b"
+  },
+  "clankerInfo": null
+}

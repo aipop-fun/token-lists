@@ -1,0 +1,22 @@
+{
+  "name": "MILKME",
+  "symbol": "MILKME",
+  "decimals": 18,
+  "description": "MILKME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILKME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILKME",
+  "addresses": {
+    "8453": "0x2524fbdd867035b8b2ee33f632efbde994501a96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILKME",
+    "sanitizedSymbol": "MILKME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA7071299Be9dE85A7ac0C170E7f129856b7aDc9F",
+    "lpNftId": "1326413",
+    "lockerAddress": "0x86E1148e8017B5d543c89849137258776085E7B4"
+  },
+  "clankerInfo": null
+}

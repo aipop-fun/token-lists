@@ -1,0 +1,22 @@
+{
+  "name": "Eggbot",
+  "symbol": "Eggbot",
+  "decimals": 18,
+  "description": "Eggbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eggbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eggbot",
+  "addresses": {
+    "8453": "0x07cb3e4b7be5d2287ad9f22c7792aac284de6fe3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eggbot",
+    "sanitizedSymbol": "EGGBOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221932",
+    "lockerAddress": "0xfC5D20A21A52D41964201586B47325054E5371dE"
+  },
+  "clankerInfo": null
+}

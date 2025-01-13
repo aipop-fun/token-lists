@@ -1,0 +1,22 @@
+{
+  "name": "Shits 'n Giggles",
+  "symbol": "Shits 'n Giggles",
+  "decimals": 18,
+  "description": "Shits 'n Giggles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shits%20'n%20Giggles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shits 'n Giggles",
+  "addresses": {
+    "8453": "0x29a0a7914123f1aec11a7ada0ea5765154fc3b9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shits 'n Giggles",
+    "sanitizedSymbol": "SHITS_N_GIGGLES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1Cf41Ad63F67f3e7F8A1DB240D812f5392b9a9c4",
+    "lpNftId": "1313025",
+    "lockerAddress": "0x8AD614D1c490751Ca4d340E4d9892A382075D2D7"
+  },
+  "clankerInfo": null
+}

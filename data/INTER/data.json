@@ -1,0 +1,22 @@
+{
+  "name": "Inter",
+  "symbol": "Inter",
+  "decimals": 18,
+  "description": "Inter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inter",
+  "addresses": {
+    "8453": "0x1b851fac19d33d656cf1389d960ed6413462b549"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inter",
+    "sanitizedSymbol": "INTER",
+    "created_at": "2024-12-10T20:32:08.036421",
+    "deployer": "0xfa922ce609FeD47950E3f48662C9651d42ada194",
+    "lpNftId": "1406875",
+    "lockerAddress": "0xAf4f6F6247CfC67dec4336d8C0Bede13a9225774"
+  },
+  "clankerInfo": null
+}

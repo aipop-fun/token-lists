@@ -1,0 +1,22 @@
+{
+  "name": "Anubis",
+  "symbol": "Anubis",
+  "decimals": 18,
+  "description": "Anubis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anubis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anubis",
+  "addresses": {
+    "8453": "0x41749a3bf3d7e8a9bab3518c1e1c13a57e52674c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anubis",
+    "sanitizedSymbol": "ANUBIS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129787",
+    "lockerAddress": "0xA1e10765CF5fA2345bcBe70DECf4AB564335478c"
+  },
+  "clankerInfo": null
+}

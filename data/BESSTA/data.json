@@ -1,0 +1,22 @@
+{
+  "name": "bessta",
+  "symbol": "bessta",
+  "decimals": 18,
+  "description": "bessta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bessta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bessta",
+  "addresses": {
+    "8453": "0x1504472994add1e025fd289050f574294553a167"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bessta",
+    "sanitizedSymbol": "BESSTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1314756",
+    "lockerAddress": "0x5281ECb10199356bE88aD7e8D8a2B994B634b7b9"
+  },
+  "clankerInfo": null
+}

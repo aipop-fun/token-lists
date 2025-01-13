@@ -1,0 +1,22 @@
+{
+  "name": "One Dollar",
+  "symbol": "One Dollar",
+  "decimals": 18,
+  "description": "One Dollar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20Dollar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One Dollar",
+  "addresses": {
+    "8453": "0x02868498560d8c89181802df065b030b53e4861c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One Dollar",
+    "sanitizedSymbol": "ONE_DOLLAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222662",
+    "lockerAddress": "0x97a8646A34648980Dc81537F298C63eb3F2f05e5"
+  },
+  "clankerInfo": null
+}

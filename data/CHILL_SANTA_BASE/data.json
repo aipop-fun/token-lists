@@ -1,0 +1,22 @@
+{
+  "name": "Chill Santa Base",
+  "symbol": "Chill Santa Base",
+  "decimals": 18,
+  "description": "Chill Santa Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Santa%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Santa Base",
+  "addresses": {
+    "8453": "0x2d01a80e3d8455860c4d42dbb150ec2914126c39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Santa Base",
+    "sanitizedSymbol": "CHILL_SANTA_BASE",
+    "created_at": "2024-12-10T07:27:14.797865",
+    "deployer": "0xeFcaF62E79924e21819B8eE94ACB467c40d5E931",
+    "lpNftId": "1397905",
+    "lockerAddress": "0xcC4ACAbA8D7e3e0fe3453aca53022bb6fB644ec6"
+  },
+  "clankerInfo": null
+}

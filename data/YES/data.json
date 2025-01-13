@@ -1,0 +1,22 @@
+{
+  "name": "Yes",
+  "symbol": "Yes",
+  "decimals": 18,
+  "description": "Yes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yes",
+  "addresses": {
+    "8453": "0x0ab3c30be77b738919cb4431eae7ce15b08aace9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yes",
+    "sanitizedSymbol": "YES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194341",
+    "lockerAddress": "0x26B8d849055e751643a2033757B2F5F19FE01146"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BARRY",
+  "symbol": "BARRY",
+  "decimals": 18,
+  "description": "BARRY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BARRY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BARRY",
+  "addresses": {
+    "8453": "0x1081952250eeebdc5bc1061fb5467b1aa2cab21c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BARRY",
+    "sanitizedSymbol": "BARRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1333721",
+    "lockerAddress": "0x420669Cf7e37672fF12978DC2866919eC7E2EC2B"
+  },
+  "clankerInfo": null
+}

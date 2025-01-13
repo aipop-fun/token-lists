@@ -1,0 +1,22 @@
+{
+  "name": "Elia",
+  "symbol": "Elia",
+  "decimals": 18,
+  "description": "Elia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elia",
+  "addresses": {
+    "8453": "0x2810721cd1557d25afce2845571883c6841ccf7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elia",
+    "sanitizedSymbol": "ELIA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201294",
+    "lockerAddress": "0xc8bf55891B2B39F1c50Db1d847022D22181A56CF"
+  },
+  "clankerInfo": null
+}

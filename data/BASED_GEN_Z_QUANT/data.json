@@ -1,0 +1,22 @@
+{
+  "name": "Based Gen Z Quant",
+  "symbol": "Based Gen Z Quant",
+  "decimals": 18,
+  "description": "Based Gen Z Quant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Gen%20Z%20Quant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Gen Z Quant",
+  "addresses": {
+    "8453": "0x376f5ae3f11b8f16ef8f127d555731f1f0f95142"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Gen Z Quant",
+    "sanitizedSymbol": "BASED_GEN_Z_QUANT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196969",
+    "lockerAddress": "0x25e175EEcDEaC2D3d5B18eab7C2Bb8c5Db0D7b2d"
+  },
+  "clankerInfo": null
+}

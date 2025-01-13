@@ -1,0 +1,22 @@
+{
+  "name": "space on base",
+  "symbol": "space on base",
+  "decimals": 18,
+  "description": "space on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=space%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "space on base",
+  "addresses": {
+    "8453": "0x2da93d4efd34b6126a540a4447fa82707c40cdc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "space on base",
+    "sanitizedSymbol": "SPACE_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1376063",
+    "lockerAddress": "0xc8aA908be45fB8889BeE30AE227cE0fb4f8662c1"
+  },
+  "clankerInfo": null
+}

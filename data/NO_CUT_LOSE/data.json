@@ -1,0 +1,22 @@
+{
+  "name": "No Cut Lose",
+  "symbol": "No Cut Lose",
+  "decimals": 18,
+  "description": "No Cut Lose is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Cut%20Lose",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Cut Lose",
+  "addresses": {
+    "8453": "0x227c811479519ec0cd87abad1286490b93025b50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Cut Lose",
+    "sanitizedSymbol": "NO_CUT_LOSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226791",
+    "lockerAddress": "0x457984563898D5008260945dD7c72148c7e88f14"
+  },
+  "clankerInfo": null
+}

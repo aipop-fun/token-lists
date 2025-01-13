@@ -1,0 +1,22 @@
+{
+  "name": "philbot",
+  "symbol": "philbot",
+  "decimals": 18,
+  "description": "philbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=philbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "philbot",
+  "addresses": {
+    "8453": "0x1c8c70bf33110817c376ff9e9636cbed7441d4bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "philbot",
+    "sanitizedSymbol": "PHILBOT",
+    "created_at": "2024-12-12T21:25:06.710067",
+    "deployer": "0xA40832409CCCe51e7afbE87Ad030d9e326e357cD",
+    "lpNftId": "1443589",
+    "lockerAddress": "0x691F9B9832e14091F1b8160551eC5BD825e28083"
+  },
+  "clankerInfo": null
+}

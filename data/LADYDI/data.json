@@ -1,0 +1,22 @@
+{
+  "name": "LadyDi",
+  "symbol": "LadyDi",
+  "decimals": 18,
+  "description": "LadyDi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LadyDi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LadyDi",
+  "addresses": {
+    "8453": "0x0d155911e5bfa03cc0fce3183ecce6c7e088b388"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LadyDi",
+    "sanitizedSymbol": "LADYDI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x597d092a03E54BecCB15069Ba7A1FF8CEd669Ef0",
+    "lpNftId": "1252832",
+    "lockerAddress": "0x819Cf40D46f7E35898b723d972284d00ce933056"
+  },
+  "clankerInfo": null
+}

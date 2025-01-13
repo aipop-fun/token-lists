@@ -1,0 +1,22 @@
+{
+  "name": "AntiSocial",
+  "symbol": "AntiSocial",
+  "decimals": 18,
+  "description": "AntiSocial is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AntiSocial",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AntiSocial",
+  "addresses": {
+    "8453": "0x25fcdba54f74f65c3432fd4fa5205dc3b81439e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AntiSocial",
+    "sanitizedSymbol": "ANTISOCIAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193663",
+    "lockerAddress": "0x38fD3206479695215Fc9567D3f71A37ff0A4ed2d"
+  },
+  "clankerInfo": null
+}

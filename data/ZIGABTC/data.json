@@ -1,0 +1,22 @@
+{
+  "name": "ZIGABTC",
+  "symbol": "ZIGABTC",
+  "decimals": 18,
+  "description": "ZIGABTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZIGABTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZIGABTC",
+  "addresses": {
+    "8453": "0x0d19ed7a9c1f37c3912f9c447227d022cc780c8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZIGABTC",
+    "sanitizedSymbol": "ZIGABTC",
+    "created_at": "2024-12-12T05:47:19.253563",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1429454",
+    "lockerAddress": "0xd6E5Eb23F87F8bd2122C1955279814C6B41f7d08"
+  },
+  "clankerInfo": null
+}

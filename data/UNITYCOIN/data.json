@@ -1,0 +1,22 @@
+{
+  "name": "UnityCoin",
+  "symbol": "UnityCoin",
+  "decimals": 18,
+  "description": "UnityCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UnityCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UnityCoin",
+  "addresses": {
+    "8453": "0x13888f8c14f2c55cbd93f8f899958988a59738e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UnityCoin",
+    "sanitizedSymbol": "UNITYCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6fA77a17DbfC2b2F7e403F2b1C91c75bc592015",
+    "lpNftId": "1329236",
+    "lockerAddress": "0x638476374283823F9cb2577c0Bf79FDE2792b458"
+  },
+  "clankerInfo": null
+}

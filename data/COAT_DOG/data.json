@@ -1,0 +1,22 @@
+{
+  "name": "Coat Dog",
+  "symbol": "Coat Dog",
+  "decimals": 18,
+  "description": "Coat Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coat%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coat Dog",
+  "addresses": {
+    "8453": "0x0eed8807abb609172cf9ef3ad7bf8408d55a9253"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coat Dog",
+    "sanitizedSymbol": "COAT_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219254",
+    "lockerAddress": "0xfAFeEB326Aa10216A752f724CE5b16B0540A3d74"
+  },
+  "clankerInfo": null
+}

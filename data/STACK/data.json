@@ -1,0 +1,22 @@
+{
+  "name": "stack",
+  "symbol": "stack",
+  "decimals": 18,
+  "description": "stack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stack",
+  "addresses": {
+    "8453": "0x19880922ba0e1b3781aacb0eb050b447bd2923f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stack",
+    "sanitizedSymbol": "STACK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1323961",
+    "lockerAddress": "0xeE6AFfB1F88c8F090E1f9Db11fd15B327a78FA77"
+  },
+  "clankerInfo": null
+}

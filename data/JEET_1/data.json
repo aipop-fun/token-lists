@@ -1,0 +1,22 @@
+{
+  "name": "JEET",
+  "symbol": "JEET",
+  "decimals": 18,
+  "description": "JEET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEET",
+  "addresses": {
+    "8453": "0x272a5c9264967bd49699d164011faacad71fa88e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEET",
+    "sanitizedSymbol": "JEET_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206379",
+    "lockerAddress": "0x8E741415a6D19D57f4F9598845366b45A086bE67"
+  },
+  "clankerInfo": null
+}

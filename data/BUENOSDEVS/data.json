@@ -1,0 +1,22 @@
+{
+  "name": "BUENOSDEVS",
+  "symbol": "BUENOSDEVS",
+  "decimals": 18,
+  "description": "BUENOSDEVS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUENOSDEVS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUENOSDEVS",
+  "addresses": {
+    "8453": "0x0b8c03e7415d8df6517f9a56090bc32c5a9f30d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUENOSDEVS",
+    "sanitizedSymbol": "BUENOSDEVS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4CBA863D8350cC96313daCbe06a3F055537929c8",
+    "lpNftId": "1364126",
+    "lockerAddress": "0x7C24b3D5d2Bec52cCCEEa1BB0fd0E7027E0D66A8"
+  },
+  "clankerInfo": null
+}

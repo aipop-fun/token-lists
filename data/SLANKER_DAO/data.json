@@ -1,0 +1,22 @@
+{
+  "name": "SLANKER DAO",
+  "symbol": "SLANKER DAO",
+  "decimals": 18,
+  "description": "SLANKER DAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLANKER%20DAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLANKER DAO",
+  "addresses": {
+    "8453": "0x1166f917f8987ed61fc0cd0996247d4d4e21f43f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLANKER DAO",
+    "sanitizedSymbol": "SLANKER_DAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204257",
+    "lockerAddress": "0x832091ca02758B33776c9b4435FA021f601fF054"
+  },
+  "clankerInfo": null
+}

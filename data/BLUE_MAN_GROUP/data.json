@@ -1,0 +1,22 @@
+{
+  "name": "Blue Man Group",
+  "symbol": "Blue Man Group",
+  "decimals": 18,
+  "description": "Blue Man Group is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Man%20Group",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Man Group",
+  "addresses": {
+    "8453": "0x0b2e7bd0204bdfe9b1166e734319055bc4604df8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Man Group",
+    "sanitizedSymbol": "BLUE_MAN_GROUP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216959",
+    "lockerAddress": "0x6a9aE6D7E9E411eCB5343698A38D414E96633bbf"
+  },
+  "clankerInfo": null
+}

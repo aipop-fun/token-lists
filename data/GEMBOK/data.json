@@ -1,0 +1,22 @@
+{
+  "name": "gemboK",
+  "symbol": "gemboK",
+  "decimals": 18,
+  "description": "gemboK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gemboK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gemboK",
+  "addresses": {
+    "8453": "0x06bf9ee9216a413db6829ed8ccf91628eb23aeed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gemboK",
+    "sanitizedSymbol": "GEMBOK",
+    "created_at": "2024-12-11T13:17:52.160751",
+    "deployer": "0x76b429c6dDc43578775183d5962317b059965827",
+    "lpNftId": "1418968",
+    "lockerAddress": "0x6bd5e6585068Bc0Ea9E9FC242073f59eD059e90E"
+  },
+  "clankerInfo": null
+}

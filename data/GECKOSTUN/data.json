@@ -1,0 +1,22 @@
+{
+  "name": "GECKOSTUN",
+  "symbol": "GECKOSTUN",
+  "decimals": 18,
+  "description": "GECKOSTUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GECKOSTUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GECKOSTUN",
+  "addresses": {
+    "8453": "0x3191533252db40e26fe99499940d4546dd7e3fe5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GECKOSTUN",
+    "sanitizedSymbol": "GECKOSTUN",
+    "created_at": "2024-12-10T00:56:09.573911",
+    "deployer": "0x4c96BAdBDC05D2f62594B3135ba3A8E9f10cBC2d",
+    "lpNftId": "1394047",
+    "lockerAddress": "0x6c7E2A46FD329779Cd3947cf4B3dC26043ce75D5"
+  },
+  "clankerInfo": null
+}

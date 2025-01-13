@@ -1,0 +1,22 @@
+{
+  "name": "LIAR",
+  "symbol": "LIAR",
+  "decimals": 18,
+  "description": "LIAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIAR",
+  "addresses": {
+    "8453": "0x004935ac217574f09063718508fbfa9c2d2e6526"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIAR",
+    "sanitizedSymbol": "LIAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237587",
+    "lockerAddress": "0x1A3F3FC1703B3dE6b40bA6765C7734bfA6b2c4FC"
+  },
+  "clankerInfo": null
+}

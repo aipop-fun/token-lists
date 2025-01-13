@@ -1,0 +1,22 @@
+{
+  "name": "CHI",
+  "symbol": "CHI",
+  "decimals": 18,
+  "description": "CHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHI",
+  "addresses": {
+    "8453": "0x36ff8eef5842ee86ffd2fe7fb3c50e985d617dd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHI",
+    "sanitizedSymbol": "CHI",
+    "created_at": "2024-12-10T13:18:24.127568",
+    "deployer": "0xbA07Aa63d439E1b1ec1d2C58fE055b03b10Ebf67",
+    "lpNftId": "1401473",
+    "lockerAddress": "0x8fcd107F78CE60dd087b632A62cf44333B7E1264"
+  },
+  "clankerInfo": null
+}

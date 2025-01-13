@@ -1,0 +1,22 @@
+{
+  "name": "Touch The Grass",
+  "symbol": "Touch The Grass",
+  "decimals": 18,
+  "description": "Touch The Grass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Touch%20The%20Grass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Touch The Grass",
+  "addresses": {
+    "8453": "0x24c0205950cd691ca7e98f13c7e3b707dc3e9210"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Touch The Grass",
+    "sanitizedSymbol": "TOUCH_THE_GRASS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1198667d6Cc00AFa078dd4333f8328D8870f3C6d",
+    "lpNftId": "1361532",
+    "lockerAddress": "0xBdd3b9E84D2dD5334E5B1aC4E2072C620032D57B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "view",
+  "symbol": "view",
+  "decimals": 18,
+  "description": "view is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=view",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "view",
+  "addresses": {
+    "8453": "0x05d22890c8c8649ba9d9a6aab2ef4d0c2f5bef8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "view",
+    "sanitizedSymbol": "VIEW",
+    "created_at": "2024-12-10T15:30:39.611351",
+    "deployer": "0xd301FFd877d3539140311605d72158bEedc80512",
+    "lpNftId": "1402726",
+    "lockerAddress": "0x8B53720CB79Eb45C96a81092BE83b6F36429db37"
+  },
+  "clankerInfo": null
+}

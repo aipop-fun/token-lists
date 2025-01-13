@@ -1,0 +1,22 @@
+{
+  "name": "Bleeding market",
+  "symbol": "Bleeding market",
+  "decimals": 18,
+  "description": "Bleeding market is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bleeding%20market",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bleeding market",
+  "addresses": {
+    "8453": "0x0e1a32595a49a086f14f3789bc11bc82191c8ecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bleeding market",
+    "sanitizedSymbol": "BLEEDING_MARKET",
+    "created_at": "2024-12-10T11:39:01.097619",
+    "deployer": "0xd0e370d498B98A2c19FbF22053CE1d93752fAd46",
+    "lpNftId": "1400315",
+    "lockerAddress": "0xFC8BAE0571000eb39559FAEC59a73C09423F9d93"
+  },
+  "clankerInfo": null
+}

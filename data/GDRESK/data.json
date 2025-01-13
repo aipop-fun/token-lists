@@ -1,0 +1,22 @@
+{
+  "name": "GDRESK",
+  "symbol": "GDRESK",
+  "decimals": 18,
+  "description": "GDRESK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GDRESK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GDRESK",
+  "addresses": {
+    "8453": "0x2e482505b3c2a1b940a619a5ac19d3cc7cf5cc47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GDRESK",
+    "sanitizedSymbol": "GDRESK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1311111",
+    "lockerAddress": "0x0784bcA6e7B207d337c0BB1784D162763901A383"
+  },
+  "clankerInfo": null
+}

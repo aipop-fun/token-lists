@@ -1,0 +1,22 @@
+{
+  "name": "A Moxie Fan Token",
+  "symbol": "A Moxie Fan Token",
+  "decimals": 18,
+  "description": "A Moxie Fan Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20Moxie%20Fan%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A Moxie Fan Token",
+  "addresses": {
+    "8453": "0x1dcf7847a9cf073799fb86499534bc6b3812320b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A Moxie Fan Token",
+    "sanitizedSymbol": "A_MOXIE_FAN_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8264B5fd429E9CCD29B1A84EE407D3d25B00c0CE",
+    "lpNftId": "1374190",
+    "lockerAddress": "0xfd6589769a4906D7F87898A726d169B6aB05d872"
+  },
+  "clankerInfo": null
+}

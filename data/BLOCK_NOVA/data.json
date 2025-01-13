@@ -1,0 +1,22 @@
+{
+  "name": "Block Nova",
+  "symbol": "Block Nova",
+  "decimals": 18,
+  "description": "Block Nova is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Block%20Nova",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Block Nova",
+  "addresses": {
+    "8453": "0x11671a462e0f677b8530e8cad17a7bbf5310639f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Block Nova",
+    "sanitizedSymbol": "BLOCK_NOVA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x196D238b962e0E829a8918c41451599881Af9c23",
+    "lpNftId": "1323179",
+    "lockerAddress": "0x15e50081230AB0618E89147c8734b5f384853c0D"
+  },
+  "clankerInfo": null
+}

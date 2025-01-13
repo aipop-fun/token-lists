@@ -1,0 +1,22 @@
+{
+  "name": "tingle",
+  "symbol": "tingle",
+  "decimals": 18,
+  "description": "tingle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tingle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tingle",
+  "addresses": {
+    "8453": "0x259153c46f963353ed91cef5fabd74eeb79edbd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tingle",
+    "sanitizedSymbol": "TINGLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1345905",
+    "lockerAddress": "0x3AcFB82fAd1de0dc7D76C132d1c8e4330824f076"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Marpcast",
+  "symbol": "Marpcast",
+  "decimals": 18,
+  "description": "Marpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marpcast",
+  "addresses": {
+    "8453": "0x12e69e325250c7a489eb42e4d4142c74ead416b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marpcast",
+    "sanitizedSymbol": "MARPCAST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197654",
+    "lockerAddress": "0xA351F0F3935eFBe974c76291D0Fb2ADC4e213bf6"
+  },
+  "clankerInfo": null
+}

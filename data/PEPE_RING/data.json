@@ -1,0 +1,22 @@
+{
+  "name": "Pepe ring",
+  "symbol": "Pepe ring",
+  "decimals": 18,
+  "description": "Pepe ring is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20ring",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe ring",
+  "addresses": {
+    "8453": "0x080b6bb641e1e94deeedaf4070b7d7a14f95b48f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe ring",
+    "sanitizedSymbol": "PEPE_RING",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1328011",
+    "lockerAddress": "0xcB2B2C8294F6e434709d4197bAd6C65959Bd70Be"
+  },
+  "clankerInfo": null
+}

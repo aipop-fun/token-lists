@@ -1,0 +1,22 @@
+{
+  "name": "beliau",
+  "symbol": "beliau",
+  "decimals": 18,
+  "description": "beliau is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=beliau",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "beliau",
+  "addresses": {
+    "8453": "0x154e14e45a4b4a5c7a4efff1dc68333c22072812"
+  },
+  "tokenInfo": {
+    "originalSymbol": "beliau",
+    "sanitizedSymbol": "BELIAU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6C2ae452d2b966259d889A26fAa034cC741e3327",
+    "lpNftId": "1283708",
+    "lockerAddress": "0x98c851cC9DD11649D6f19Cfb322b8dB625d4a7fA"
+  },
+  "clankerInfo": null
+}

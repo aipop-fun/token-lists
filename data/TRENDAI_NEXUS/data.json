@@ -1,0 +1,22 @@
+{
+  "name": "TrendAI Nexus",
+  "symbol": "TrendAI Nexus",
+  "decimals": 18,
+  "description": "TrendAI Nexus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrendAI%20Nexus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrendAI Nexus",
+  "addresses": {
+    "8453": "0x29ff5f2ffa0a733c15f659539e13b8eae8e2b322"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrendAI Nexus",
+    "sanitizedSymbol": "TRENDAI_NEXUS",
+    "created_at": "2024-12-10T01:15:38.725523",
+    "deployer": "0x4c96BAdBDC05D2f62594B3135ba3A8E9f10cBC2d",
+    "lpNftId": "1394200",
+    "lockerAddress": "0x6510B7732ecb5722f1e9C2200e22e60d0b010F7a"
+  },
+  "clankerInfo": null
+}

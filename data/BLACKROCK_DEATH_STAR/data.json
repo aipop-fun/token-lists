@@ -1,0 +1,22 @@
+{
+  "name": "Blackrock Death Star",
+  "symbol": "Blackrock Death Star",
+  "decimals": 18,
+  "description": "Blackrock Death Star is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blackrock%20Death%20Star",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blackrock Death Star",
+  "addresses": {
+    "8453": "0x0beae7e2cdf1852caeb147f08aaf83f7e8b7b474"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blackrock Death Star",
+    "sanitizedSymbol": "BLACKROCK_DEATH_STAR",
+    "created_at": "2024-12-10T23:24:33.636278",
+    "deployer": "0x0bA64FE0Ed7ceDe265336a74dE92a25E143504aA",
+    "lpNftId": "1408344",
+    "lockerAddress": "0x25a32a8AcB97f6b2C14F6b319Ee7DEb1e6907594"
+  },
+  "clankerInfo": null
+}

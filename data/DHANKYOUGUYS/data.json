@@ -1,0 +1,22 @@
+{
+  "name": "dhankyouguys",
+  "symbol": "dhankyouguys",
+  "decimals": 18,
+  "description": "dhankyouguys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dhankyouguys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dhankyouguys",
+  "addresses": {
+    "8453": "0x3f76aea13979d9cf50d9fb2f3dd5dee38f991352"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dhankyouguys",
+    "sanitizedSymbol": "DHANKYOUGUYS",
+    "created_at": "2024-12-11T02:56:56.793331",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411257",
+    "lockerAddress": "0x4B98C5Fee89E5d83381136ABa049e78f12ce7Cfd"
+  },
+  "clankerInfo": null
+}

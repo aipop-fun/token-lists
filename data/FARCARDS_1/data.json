@@ -1,0 +1,22 @@
+{
+  "name": "farcards",
+  "symbol": "farcards",
+  "decimals": 18,
+  "description": "farcards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=farcards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "farcards",
+  "addresses": {
+    "8453": "0x33709976d7055a7e12fb0b40415c24ff941bfa16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "farcards",
+    "sanitizedSymbol": "FARCARDS_1",
+    "created_at": "2024-12-12T16:38:53.208234",
+    "deployer": "0x755F2fe4beAD1BeFE9E1DB008cd2D9b0C0E12DC7",
+    "lpNftId": "1438750",
+    "lockerAddress": "0x7cD835f831403579baCF40c4347D89c8B94b9f90"
+  },
+  "clankerInfo": null
+}

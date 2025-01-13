@@ -1,0 +1,22 @@
+{
+  "name": "Sarsaparilla",
+  "symbol": "Sarsaparilla",
+  "decimals": 18,
+  "description": "Sarsaparilla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sarsaparilla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sarsaparilla",
+  "addresses": {
+    "8453": "0x3f117ce7549bc458686a378fb31f5f5ac4c3d0a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sarsaparilla",
+    "sanitizedSymbol": "SARSAPARILLA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9C51532Ef51ab720514b5acAf97Fe6C600FbFb54",
+    "lpNftId": "1341416",
+    "lockerAddress": "0x90f8d34C89A13AD82670bA6c317a24ceF7ca8F1D"
+  },
+  "clankerInfo": null
+}

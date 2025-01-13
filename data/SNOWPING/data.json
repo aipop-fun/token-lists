@@ -1,0 +1,22 @@
+{
+  "name": "SNOWPING",
+  "symbol": "SNOWPING",
+  "decimals": 18,
+  "description": "SNOWPING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SNOWPING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SNOWPING",
+  "addresses": {
+    "8453": "0x02fccda8c8aae8232d7d324dd6500d63381ef1e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SNOWPING",
+    "sanitizedSymbol": "SNOWPING",
+    "created_at": "2024-12-12T14:39:04.888766",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1436072",
+    "lockerAddress": "0xfC6636E95a2FDEA19C0518179b1d5Fe17b8B1640"
+  },
+  "clankerInfo": null
+}

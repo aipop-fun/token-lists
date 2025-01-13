@@ -1,0 +1,22 @@
+{
+  "name": "snaps",
+  "symbol": "snaps",
+  "decimals": 18,
+  "description": "snaps is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=snaps",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "snaps",
+  "addresses": {
+    "8453": "0x0260bce978c1206f1fcc2a0253053784103a28bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "snaps",
+    "sanitizedSymbol": "SNAPS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a9F76ca688e39cEdd71328E100dBa1E867ae5B6",
+    "lpNftId": "1324400",
+    "lockerAddress": "0xFc28394907E7f88aB11f1609d24f023158Be94E7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DEVILD",
+  "symbol": "DEVILD",
+  "decimals": 18,
+  "description": "DEVILD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEVILD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEVILD",
+  "addresses": {
+    "8453": "0x41bfe1bf8f4f5d96c6355312e82fda16a4558868"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEVILD",
+    "sanitizedSymbol": "DEVILD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x16861D39A232A39c61A32Fb55759f87E5AD652cB",
+    "lpNftId": "1276860",
+    "lockerAddress": "0x3794e7180f2455E147ad48851777C33984b3d30F"
+  },
+  "clankerInfo": null
+}

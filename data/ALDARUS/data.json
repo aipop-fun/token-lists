@@ -1,0 +1,22 @@
+{
+  "name": "Aldarus",
+  "symbol": "Aldarus",
+  "decimals": 18,
+  "description": "Aldarus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aldarus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aldarus",
+  "addresses": {
+    "8453": "0x38bfc92d54f3962b12a287ca6af99f4c567d8cf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aldarus",
+    "sanitizedSymbol": "ALDARUS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2b1C4eF8d2dCBaF735A3037Bd963E20D70cD4834",
+    "lpNftId": "1253209",
+    "lockerAddress": "0x371A976B8d8534591Da34c2DB95Be807302c9B6D"
+  },
+  "clankerInfo": null
+}

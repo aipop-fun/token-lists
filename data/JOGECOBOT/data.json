@@ -1,0 +1,22 @@
+{
+  "name": "JogecoBOT",
+  "symbol": "JogecoBOT",
+  "decimals": 18,
+  "description": "JogecoBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JogecoBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JogecoBOT",
+  "addresses": {
+    "8453": "0x01f64dcf235db033cb892a470ffcc7e18dc1420f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JogecoBOT",
+    "sanitizedSymbol": "JOGECOBOT",
+    "created_at": "2024-12-10T17:32:56.64742",
+    "deployer": "0x3Aa730ADf1fe00aF670f0474d143b614C581d1b7",
+    "lpNftId": "1404666",
+    "lockerAddress": "0xd8c8DD6D69d61fD0068135F0b15949d55F27efFc"
+  },
+  "clankerInfo": null
+}

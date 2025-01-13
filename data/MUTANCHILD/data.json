@@ -1,0 +1,22 @@
+{
+  "name": "MUTANCHILD",
+  "symbol": "MUTANCHILD",
+  "decimals": 18,
+  "description": "MUTANCHILD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MUTANCHILD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MUTANCHILD",
+  "addresses": {
+    "8453": "0x2eacc3a59c96df43a6762b815608193554e57c45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MUTANCHILD",
+    "sanitizedSymbol": "MUTANCHILD",
+    "created_at": "2024-12-09T10:14:31.147965",
+    "deployer": "0x991E29a41f1af5332B9C191e185219fc5D27198a",
+    "lpNftId": "1385694",
+    "lockerAddress": "0x06427A65E9393eD5C6F0072542E781070CC91699"
+  },
+  "clankerInfo": null
+}

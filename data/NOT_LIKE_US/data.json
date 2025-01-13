@@ -1,0 +1,22 @@
+{
+  "name": "Not Like Us",
+  "symbol": "Not Like Us",
+  "decimals": 18,
+  "description": "Not Like Us is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Like%20Us",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Like Us",
+  "addresses": {
+    "8453": "0x0eff3f8fab916fcc8038e61ae018e09a0a1f828c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Like Us",
+    "sanitizedSymbol": "NOT_LIKE_US",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x1c69F310ca7708132713598b6f4F43896373535F",
+    "lpNftId": "1250700",
+    "lockerAddress": "0x05125e616332731B86FA7a220f4773946400347A"
+  },
+  "clankerInfo": null
+}

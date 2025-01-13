@@ -1,0 +1,22 @@
+{
+  "name": "AiAlgamion",
+  "symbol": "AiAlgamion",
+  "decimals": 18,
+  "description": "AiAlgamion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AiAlgamion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AiAlgamion",
+  "addresses": {
+    "8453": "0x11aade486bf5c822c6f2d03440f8ec021e3c51b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AiAlgamion",
+    "sanitizedSymbol": "AIALGAMION_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x04B011E374Ae57Fd525964D2527c51029CC452fE",
+    "lpNftId": "1265248",
+    "lockerAddress": "0x9086C8E0D017c5778492e363E9bdbd86eB6509C5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sixbase",
+  "symbol": "sixbase",
+  "decimals": 18,
+  "description": "sixbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sixbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sixbase",
+  "addresses": {
+    "8453": "0x20425ec4e07c7fda8d68b350783315d6484cdd67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sixbase",
+    "sanitizedSymbol": "SIXBASE",
+    "created_at": "2024-12-11T08:38:59.69668",
+    "deployer": "0x7948bc7502dDC2b05125FCC4bc9d76D042BcC419",
+    "lpNftId": "1415120",
+    "lockerAddress": "0x95020D4E1681F8063c90c9109B1eBA5d40a8cD97"
+  },
+  "clankerInfo": null
+}

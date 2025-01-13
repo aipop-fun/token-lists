@@ -1,0 +1,22 @@
+{
+  "name": "Timecoin",
+  "symbol": "Timecoin",
+  "decimals": 18,
+  "description": "Timecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Timecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Timecoin",
+  "addresses": {
+    "8453": "0x3252ec919a8d71040431ee07fec1046f18fef9e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Timecoin",
+    "sanitizedSymbol": "TIMECOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd3d2f7704Fe3836c7cE3B91E45E727368361d911",
+    "lpNftId": "1325845",
+    "lockerAddress": "0xEaA4B5458bD80C56EbD541ab1680c92EE3184ECD"
+  },
+  "clankerInfo": null
+}

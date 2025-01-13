@@ -1,0 +1,22 @@
+{
+  "name": "Joey the otter",
+  "symbol": "Joey the otter",
+  "decimals": 18,
+  "description": "Joey the otter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Joey%20the%20otter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Joey the otter",
+  "addresses": {
+    "8453": "0x368afce120c969688ab46890b66b49d28e973ad0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Joey the otter",
+    "sanitizedSymbol": "JOEY_THE_OTTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231785",
+    "lockerAddress": "0xd2F76cdD1f1B863362ad63cEBE658A6f6623305A"
+  },
+  "clankerInfo": null
+}

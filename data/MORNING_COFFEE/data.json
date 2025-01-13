@@ -1,0 +1,22 @@
+{
+  "name": "MORNING COFFEE",
+  "symbol": "MORNING COFFEE",
+  "decimals": 18,
+  "description": "MORNING COFFEE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MORNING%20COFFEE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MORNING COFFEE",
+  "addresses": {
+    "8453": "0x0d58a4b48c3559ab5b49cfc724e549dda5dd1ebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MORNING COFFEE",
+    "sanitizedSymbol": "MORNING_COFFEE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7Fe238f7b760ECF6774a6cF650C662328F104fCe",
+    "lpNftId": "1283476",
+    "lockerAddress": "0x8144155f230F276bB83C426f4509D1F64c565b94"
+  },
+  "clankerInfo": null
+}

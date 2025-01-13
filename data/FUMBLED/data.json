@@ -1,0 +1,22 @@
+{
+  "name": "Fumbled",
+  "symbol": "Fumbled",
+  "decimals": 18,
+  "description": "Fumbled is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fumbled",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fumbled",
+  "addresses": {
+    "8453": "0x0c263eca8ba5cba31ca8a51f896fae4f23b187b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fumbled",
+    "sanitizedSymbol": "FUMBLED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237177",
+    "lockerAddress": "0x7Fd306751aF406C7A1f8206B85D4e9a2A074b2Db"
+  },
+  "clankerInfo": null
+}

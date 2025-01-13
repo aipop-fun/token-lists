@@ -1,0 +1,22 @@
+{
+  "name": "Coconetic",
+  "symbol": "Coconetic",
+  "decimals": 18,
+  "description": "Coconetic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coconetic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coconetic",
+  "addresses": {
+    "8453": "0x250649d786aa8db07f0a00459ef9d05fefbfeba3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coconetic",
+    "sanitizedSymbol": "COCONETIC",
+    "created_at": "2024-12-11T09:12:10.737357",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1415399",
+    "lockerAddress": "0x44B1898dd1d2922C2B12F86a1B47B7C3A8D8eD05"
+  },
+  "clankerInfo": null
+}

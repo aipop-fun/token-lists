@@ -1,0 +1,22 @@
+{
+  "name": "NiceJob",
+  "symbol": "NiceJob",
+  "decimals": 18,
+  "description": "NiceJob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NiceJob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NiceJob",
+  "addresses": {
+    "8453": "0x2215787db1640e7c510350ed33caf7e814eb8e92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NiceJob",
+    "sanitizedSymbol": "NICEJOB",
+    "created_at": "2024-12-12T09:25:16.851068",
+    "deployer": "0xb961629B675C0BF4D4EA4a7698C99fbA81b25dC2",
+    "lpNftId": "1431198",
+    "lockerAddress": "0x19Fa906825D44F6c0512F89aF101ee9b727dF5dD"
+  },
+  "clankerInfo": null
+}

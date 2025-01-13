@@ -1,0 +1,22 @@
+{
+  "name": "Refulgent",
+  "symbol": "Refulgent",
+  "decimals": 18,
+  "description": "Refulgent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Refulgent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Refulgent",
+  "addresses": {
+    "8453": "0x3fab9f9bff738c6bd1813bad3a1ce843ddd47abd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Refulgent",
+    "sanitizedSymbol": "REFULGENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129014",
+    "lockerAddress": "0xbBC788CEc877857e0cB3cddF1c9176A96dF92EbD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Synchronicity",
+  "symbol": "Synchronicity",
+  "decimals": 18,
+  "description": "Synchronicity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Synchronicity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Synchronicity",
+  "addresses": {
+    "8453": "0x0fa309eaad1cfc695d68e05852dec9e9aa63dc69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Synchronicity",
+    "sanitizedSymbol": "SYNCHRONICITY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124605",
+    "lockerAddress": "0xD04822E2fB65da027b94B98D5eaA5326FEFdAdf3"
+  },
+  "clankerInfo": null
+}

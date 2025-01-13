@@ -1,0 +1,22 @@
+{
+  "name": "BHARAT",
+  "symbol": "BHARAT",
+  "decimals": 18,
+  "description": "BHARAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BHARAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BHARAT",
+  "addresses": {
+    "8453": "0x2fee0ae0c81c6654906f624b3de6fa947fe291b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BHARAT",
+    "sanitizedSymbol": "BHARAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xFA80B61BF5CA3F840dd5545477978A8FD2300948",
+    "lpNftId": "1038137",
+    "lockerAddress": "0xC4ba189C5Ad7b3466757e5017dD47B77fE875628"
+  },
+  "clankerInfo": null
+}

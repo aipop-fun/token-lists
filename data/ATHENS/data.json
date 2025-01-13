@@ -1,0 +1,22 @@
+{
+  "name": "ATHENS",
+  "symbol": "ATHENS",
+  "decimals": 18,
+  "description": "ATHENS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ATHENS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ATHENS",
+  "addresses": {
+    "8453": "0x218c9d1b49dfa9f623c571cdb0d6502d5156f2e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ATHENS",
+    "sanitizedSymbol": "ATHENS",
+    "created_at": "2024-12-12T11:53:10.629056",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1433752",
+    "lockerAddress": "0x99327Db5C0a2ECDF75c864ec1460bFEc24C5C4EE"
+  },
+  "clankerInfo": null
+}

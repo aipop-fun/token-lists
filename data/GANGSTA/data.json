@@ -1,0 +1,22 @@
+{
+  "name": "GANGSTA",
+  "symbol": "GANGSTA",
+  "decimals": 18,
+  "description": "GANGSTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GANGSTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GANGSTA",
+  "addresses": {
+    "8453": "0x37ad12aaf66f9a6e7d0affb49d0dda097866638c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GANGSTA",
+    "sanitizedSymbol": "GANGSTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x81737De19B43BC32508f393d872eed1190DD13A3",
+    "lpNftId": "1319251",
+    "lockerAddress": "0xDa548626420F42B48C2F462D505826890f0F31B0"
+  },
+  "clankerInfo": null
+}

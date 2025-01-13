@@ -1,0 +1,22 @@
+{
+  "name": "ELIO (2025)",
+  "symbol": "ELIO (2025)",
+  "decimals": 18,
+  "description": "ELIO (2025) is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELIO%20(2025)",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELIO (2025)",
+  "addresses": {
+    "8453": "0x245bf202cacb653423f0e648d8ff72fdca2444cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELIO (2025)",
+    "sanitizedSymbol": "ELIO_2025",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5F95f0350e55db5e9fE6f33A85CFF89a49Ec5ad7",
+    "lpNftId": "1312638",
+    "lockerAddress": "0x7076Fe3a5AAD5C6d50f0dB56d37eADee0F7CfCFe"
+  },
+  "clankerInfo": null
+}

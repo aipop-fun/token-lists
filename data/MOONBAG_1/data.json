@@ -1,0 +1,22 @@
+{
+  "name": "MOONBAG",
+  "symbol": "MOONBAG",
+  "decimals": 18,
+  "description": "MOONBAG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONBAG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONBAG",
+  "addresses": {
+    "8453": "0x19fa42eadb1cd0be999dbe74604bcfe996c5384d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONBAG",
+    "sanitizedSymbol": "MOONBAG_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdaDE1860A25CC70C54B26210a984AE0451D5bA53",
+    "lpNftId": "1253162",
+    "lockerAddress": "0xF8C8c56446a97C0514CBC28AFe7E206354Ad58ad"
+  },
+  "clankerInfo": null
+}

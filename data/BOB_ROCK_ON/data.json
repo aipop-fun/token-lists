@@ -1,0 +1,22 @@
+{
+  "name": "Bob Rock On",
+  "symbol": "Bob Rock On",
+  "decimals": 18,
+  "description": "Bob Rock On is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bob%20Rock%20On",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bob Rock On",
+  "addresses": {
+    "8453": "0x33e71e1165ae473d0c871507674a103f04aff8f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bob Rock On",
+    "sanitizedSymbol": "BOB_ROCK_ON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAEc6C9d92508C028f340CA79cAD01a4DeFf9239B",
+    "lpNftId": "1311938",
+    "lockerAddress": "0xD5d0b59c2b37fD8C1C35E343FaeC6a0107A2664a"
+  },
+  "clankerInfo": null
+}

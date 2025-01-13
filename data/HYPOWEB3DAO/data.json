@@ -1,0 +1,22 @@
+{
+  "name": "hypoweb3dao",
+  "symbol": "hypoweb3dao",
+  "decimals": 18,
+  "description": "hypoweb3dao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hypoweb3dao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hypoweb3dao",
+  "addresses": {
+    "8453": "0x1abb69f229f9d95e095c8b70de83b660b29f1947"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hypoweb3dao",
+    "sanitizedSymbol": "HYPOWEB3DAO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x533F15a3cf28fC3656c68Ce080747F6E7AaA61B4",
+    "lpNftId": "1323667",
+    "lockerAddress": "0x24B4336831D9E564F2A44dCB86cB6E1976D8121f"
+  },
+  "clankerInfo": null
+}

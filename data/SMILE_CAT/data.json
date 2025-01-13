@@ -1,0 +1,22 @@
+{
+  "name": "SMILE CAT",
+  "symbol": "SMILE CAT",
+  "decimals": 18,
+  "description": "SMILE CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SMILE%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SMILE CAT",
+  "addresses": {
+    "8453": "0x40cb162a626372591a5ccc9a6ffcc77a2804be18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SMILE CAT",
+    "sanitizedSymbol": "SMILE_CAT",
+    "created_at": "2024-12-09T17:47:37.694049",
+    "deployer": "0xdA38815f61174348f77DC7Fb3928063B1f7eE9Da",
+    "lpNftId": "1389930",
+    "lockerAddress": "0xc549522d1ce1355B97CA78f9F5F3cbB0B28AeCd5"
+  },
+  "clankerInfo": null
+}

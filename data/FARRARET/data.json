@@ -1,0 +1,22 @@
+{
+  "name": "FarRareT",
+  "symbol": "FarRareT",
+  "decimals": 18,
+  "description": "FarRareT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarRareT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarRareT",
+  "addresses": {
+    "8453": "0x182288ce942769f8f0776101ef52ee100e4663c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarRareT",
+    "sanitizedSymbol": "FARRARET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x741fE68f66B41C4cbe977Eab305F04D9C9707B75",
+    "lpNftId": "1312094",
+    "lockerAddress": "0xD3be9Aaa1f6083EFd067D022f63C83D576077A0a"
+  },
+  "clankerInfo": null
+}

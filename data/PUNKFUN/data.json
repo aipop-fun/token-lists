@@ -1,0 +1,22 @@
+{
+  "name": "Punkfun",
+  "symbol": "Punkfun",
+  "decimals": 18,
+  "description": "Punkfun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Punkfun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Punkfun",
+  "addresses": {
+    "8453": "0x3ef942f213e28ea2b0f7af885410164cfdb3ec61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Punkfun",
+    "sanitizedSymbol": "PUNKFUN",
+    "created_at": "2024-12-12T05:53:54.177407",
+    "deployer": "0xcA204C8de43549421a3960Cd8675BD78fdeb2AB3",
+    "lpNftId": "1429466",
+    "lockerAddress": "0x04d21D922948E27c4b2E1437e4a11b00e4a68C5F"
+  },
+  "clankerInfo": null
+}

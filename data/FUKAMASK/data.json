@@ -1,0 +1,22 @@
+{
+  "name": "FukaMask",
+  "symbol": "FukaMask",
+  "decimals": 18,
+  "description": "FukaMask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FukaMask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FukaMask",
+  "addresses": {
+    "8453": "0x3a29243cd7ce6a71ed3cb96d41f69946a6099774"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FukaMask",
+    "sanitizedSymbol": "FUKAMASK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6ea3b97e28f6D65034fb814cda9770a92BEA4bF2",
+    "lpNftId": "1308868",
+    "lockerAddress": "0xbA454b4Ee69e35Fea847506751435f72a6dB233f"
+  },
+  "clankerInfo": null
+}

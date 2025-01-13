@@ -1,0 +1,22 @@
+{
+  "name": "Low Taper Fade",
+  "symbol": "Low Taper Fade",
+  "decimals": 18,
+  "description": "Low Taper Fade is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Low%20Taper%20Fade",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Low Taper Fade",
+  "addresses": {
+    "8453": "0x071552c5930ee23bb80941313b57490aeb808c16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Low Taper Fade",
+    "sanitizedSymbol": "LOW_TAPER_FADE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229265",
+    "lockerAddress": "0x771C560486FA5aECcf33C3baae1dF4e0Ab8E5E3A"
+  },
+  "clankerInfo": null
+}

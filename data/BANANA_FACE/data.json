@@ -1,0 +1,22 @@
+{
+  "name": "Banana Face",
+  "symbol": "Banana Face",
+  "decimals": 18,
+  "description": "Banana Face is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banana%20Face",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banana Face",
+  "addresses": {
+    "8453": "0x289784d6c3368850f3fc30f4f3c4a1f0d649103e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banana Face",
+    "sanitizedSymbol": "BANANA_FACE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221783",
+    "lockerAddress": "0xb790C09a0F4aD3f2B00cb98cFAaD9108318AAd98"
+  },
+  "clankerInfo": null
+}

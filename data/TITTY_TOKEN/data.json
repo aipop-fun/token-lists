@@ -1,0 +1,22 @@
+{
+  "name": "Titty Token",
+  "symbol": "Titty Token",
+  "decimals": 18,
+  "description": "Titty Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Titty%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Titty Token",
+  "addresses": {
+    "8453": "0x2a34d41712c96ec9b5a2b78610c7023aca73c72b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Titty Token",
+    "sanitizedSymbol": "TITTY_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205373",
+    "lockerAddress": "0xBcab35F6bf38D936F269E5D486695A0C7f0EE80B"
+  },
+  "clankerInfo": null
+}

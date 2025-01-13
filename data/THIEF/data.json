@@ -1,0 +1,22 @@
+{
+  "name": "Thief",
+  "symbol": "Thief",
+  "decimals": 18,
+  "description": "Thief is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Thief",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Thief",
+  "addresses": {
+    "8453": "0x02100f064580877be66f8763471571348c7e8226"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Thief",
+    "sanitizedSymbol": "THIEF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1250562",
+    "lockerAddress": "0x64D318451D5627Df4Ce590C7c364cD816F0ca186"
+  },
+  "clankerInfo": null
+}

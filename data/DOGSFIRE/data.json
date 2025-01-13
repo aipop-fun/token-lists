@@ -1,0 +1,22 @@
+{
+  "name": "dogsfire",
+  "symbol": "dogsfire",
+  "decimals": 18,
+  "description": "dogsfire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogsfire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogsfire",
+  "addresses": {
+    "8453": "0x1a2ace1921a45a4d63b7ce2509e307cf928f7599"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogsfire",
+    "sanitizedSymbol": "DOGSFIRE",
+    "created_at": "2024-12-10T08:06:27.668342",
+    "deployer": "0x6D5F700DD6ff35A069dB26BF4ec0fC462C3d2Fd4",
+    "lpNftId": "1398524",
+    "lockerAddress": "0x63EDe59905359D5a74900Fd307e81F8FFA549781"
+  },
+  "clankerInfo": null
+}

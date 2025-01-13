@@ -1,0 +1,22 @@
+{
+  "name": "Otter",
+  "symbol": "Otter",
+  "decimals": 18,
+  "description": "Otter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Otter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Otter",
+  "addresses": {
+    "8453": "0x1a25708fb7a5f3878cb7dda3b642498aee0db326"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Otter",
+    "sanitizedSymbol": "OTTER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB2fe5c3c7231B1117Da36e7B29731693fbBc6F7A",
+    "lpNftId": "1285418",
+    "lockerAddress": "0xb3504Bd1493AD30a552C3523De5E8A411ab2bBbB"
+  },
+  "clankerInfo": null
+}

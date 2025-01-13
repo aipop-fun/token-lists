@@ -1,0 +1,22 @@
+{
+  "name": "ClankerPrediction",
+  "symbol": "ClankerPrediction",
+  "decimals": 18,
+  "description": "ClankerPrediction is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerPrediction",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerPrediction",
+  "addresses": {
+    "8453": "0x290e41cd7472eed256cc0ce7e4e40df2bccf5568"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerPrediction",
+    "sanitizedSymbol": "CLANKERPREDICTION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193530",
+    "lockerAddress": "0xed332065781BfD3C53d4112706D6127Ea34efdAC"
+  },
+  "clankerInfo": null
+}

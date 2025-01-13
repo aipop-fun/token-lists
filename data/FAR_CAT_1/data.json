@@ -1,0 +1,22 @@
+{
+  "name": "FAR CAT",
+  "symbol": "FAR CAT",
+  "decimals": 18,
+  "description": "FAR CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAR%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAR CAT",
+  "addresses": {
+    "8453": "0x1fb3eeacaf6f25ca59680c59c60caeeb5f81e546"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAR CAT",
+    "sanitizedSymbol": "FAR_CAT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf871426878441af12BCA3052049CeB14CD7e1D7F",
+    "lpNftId": "1332981",
+    "lockerAddress": "0xd4b76Bb911EfaB71F24b207818566c178F69520c"
+  },
+  "clankerInfo": null
+}

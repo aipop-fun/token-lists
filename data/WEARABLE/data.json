@@ -1,0 +1,22 @@
+{
+  "name": "Wearable",
+  "symbol": "Wearable",
+  "decimals": 18,
+  "description": "Wearable is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wearable",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wearable",
+  "addresses": {
+    "8453": "0x19f21ab54641a98ec744c6d93919a4fe9d1c5fa6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wearable",
+    "sanitizedSymbol": "WEARABLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2cbd423af8e64863a617d27E691b4f6Fb59db220",
+    "lpNftId": "1327291",
+    "lockerAddress": "0x3326798Ccc1E1427dBe79D4d1fb5B2fB4e43b575"
+  },
+  "clankerInfo": null
+}

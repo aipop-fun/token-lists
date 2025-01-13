@@ -1,0 +1,22 @@
+{
+  "name": "Milady",
+  "symbol": "Milady",
+  "decimals": 18,
+  "description": "Milady is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Milady",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Milady",
+  "addresses": {
+    "8453": "0x41c69239979d6c28069ce8027c7f96b186d0c319"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Milady",
+    "sanitizedSymbol": "MILADY_1",
+    "created_at": "2024-12-10T07:28:09.46912",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1397931",
+    "lockerAddress": "0xee93C45401eA59B18fCcBbc9BaB9D1f813A0a721"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fightforclanker",
+  "symbol": "fightforclanker",
+  "decimals": 18,
+  "description": "fightforclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fightforclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fightforclanker",
+  "addresses": {
+    "8453": "0x1b5557b075e617a7c2592f4c76f7f7661187eaaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fightforclanker",
+    "sanitizedSymbol": "FIGHTFORCLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225654",
+    "lockerAddress": "0x1f58D6723d6B6d3911f44dD37B508f1d5c0CF41D"
+  },
+  "clankerInfo": null
+}

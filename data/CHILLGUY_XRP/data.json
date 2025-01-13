@@ -1,0 +1,22 @@
+{
+  "name": "CHILLGUY XRP",
+  "symbol": "CHILLGUY XRP",
+  "decimals": 18,
+  "description": "CHILLGUY XRP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILLGUY%20XRP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILLGUY XRP",
+  "addresses": {
+    "8453": "0x0fafdb3559d397c601ba211f6767efe6ee385964"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILLGUY XRP",
+    "sanitizedSymbol": "CHILLGUY_XRP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x828C3E780844673A9c142168120709Ab67df2E08",
+    "lpNftId": "1288320",
+    "lockerAddress": "0xA9C7719C0fA43A2d3Baa27bd60771a8fd07F8e6F"
+  },
+  "clankerInfo": null
+}

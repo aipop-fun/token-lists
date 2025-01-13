@@ -1,0 +1,22 @@
+{
+  "name": "$cashtag",
+  "symbol": "$cashtag",
+  "decimals": 18,
+  "description": "$cashtag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24cashtag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$cashtag",
+  "addresses": {
+    "8453": "0x3f5427d76d4c9747e2a560371d4d420396e9efc2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$cashtag",
+    "sanitizedSymbol": "CASHTAG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193378",
+    "lockerAddress": "0xd63CED3e2360810696DE2bB37F634B834f75aAd4"
+  },
+  "clankerInfo": null
+}

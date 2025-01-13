@@ -1,0 +1,22 @@
+{
+  "name": "Baby Goblin",
+  "symbol": "Baby Goblin",
+  "decimals": 18,
+  "description": "Baby Goblin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Goblin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Goblin",
+  "addresses": {
+    "8453": "0x274f116d614116a46e4ecaf70a4de5ecfea5cef9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Goblin",
+    "sanitizedSymbol": "BABY_GOBLIN",
+    "created_at": "2024-12-09T04:29:54.100469",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1381896",
+    "lockerAddress": "0x87753006F9cD3a9Cc8Dd0B3103E24D7b237c834b"
+  },
+  "clankerInfo": null
+}

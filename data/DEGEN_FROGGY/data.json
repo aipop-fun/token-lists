@@ -1,0 +1,22 @@
+{
+  "name": "Degen Froggy",
+  "symbol": "Degen Froggy",
+  "decimals": 18,
+  "description": "Degen Froggy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Froggy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Froggy",
+  "addresses": {
+    "8453": "0x10333204010dee4710487bf546e44e3302759114"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Froggy",
+    "sanitizedSymbol": "DEGEN_FROGGY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232157",
+    "lockerAddress": "0x1a31b00ec18363D6d2c6Bd9475afd85624634739"
+  },
+  "clankerInfo": null
+}

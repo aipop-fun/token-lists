@@ -1,0 +1,22 @@
+{
+  "name": "Present",
+  "symbol": "Present",
+  "decimals": 18,
+  "description": "Present is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Present",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Present",
+  "addresses": {
+    "8453": "0x02ee2c2f0ebab5ab8e545e56e85e43fb9d39a847"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Present",
+    "sanitizedSymbol": "PRESENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5125B1989E54389Ef98C0e9FBDBc581C9Aece8Fe",
+    "lpNftId": "1285496",
+    "lockerAddress": "0xBDA7cBE831cF655D704251b745a8DE988a94c716"
+  },
+  "clankerInfo": null
+}

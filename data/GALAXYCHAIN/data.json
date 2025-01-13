@@ -1,0 +1,22 @@
+{
+  "name": "GalaxyChain",
+  "symbol": "GalaxyChain",
+  "decimals": 18,
+  "description": "GalaxyChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GalaxyChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GalaxyChain",
+  "addresses": {
+    "8453": "0x0fb22e62a89b229cdb533680e715902f7fee9016"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GalaxyChain",
+    "sanitizedSymbol": "GALAXYCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166151",
+    "lockerAddress": "0x75ecffD407cAFa75EDbf6544f0cC4Ab143166B8D"
+  },
+  "clankerInfo": null
+}

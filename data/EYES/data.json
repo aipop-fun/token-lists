@@ -1,0 +1,22 @@
+{
+  "name": "eyes",
+  "symbol": "eyes",
+  "decimals": 18,
+  "description": "eyes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eyes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eyes",
+  "addresses": {
+    "8453": "0x2a7b3f8527c11a5b221015211f71344e2d3a0459"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eyes",
+    "sanitizedSymbol": "EYES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151774",
+    "lockerAddress": "0x09493333669850Af9b322d11d930276e08e8866d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shoobie",
+  "symbol": "Shoobie",
+  "decimals": 18,
+  "description": "Shoobie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shoobie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shoobie",
+  "addresses": {
+    "8453": "0x0ed7deb6718a53e51469b607e4fab316be6067f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shoobie",
+    "sanitizedSymbol": "SHOOBIE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2117bf88b4Cb0186eaA87500A045fc998290E42a",
+    "lpNftId": "1329810",
+    "lockerAddress": "0xeb6b1884B84d84a97d4f1e3055134E5DeA1Aa4F2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pop it",
+  "symbol": "pop it",
+  "decimals": 18,
+  "description": "pop it is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pop%20it",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pop it",
+  "addresses": {
+    "8453": "0x4153c0b9287016e9a5479dfbf1cc0609e60af3f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pop it",
+    "sanitizedSymbol": "POP_IT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1326874",
+    "lockerAddress": "0x77782148DE17b422b8cf32F4Cd098cDFae527bdC"
+  },
+  "clankerInfo": null
+}

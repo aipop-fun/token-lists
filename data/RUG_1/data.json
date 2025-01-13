@@ -1,0 +1,22 @@
+{
+  "name": "RUG",
+  "symbol": "RUG",
+  "decimals": 18,
+  "description": "RUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUG",
+  "addresses": {
+    "8453": "0x0acd5aab90f5bc23345cff32493b680cc6cc6bab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUG",
+    "sanitizedSymbol": "RUG_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e0d2ff8A6f5cB87462b03627C90B38AFBEDB637",
+    "lpNftId": "1319911",
+    "lockerAddress": "0x228DA46aad15609712635044030a33C05591133E"
+  },
+  "clankerInfo": null
+}

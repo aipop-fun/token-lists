@@ -1,0 +1,22 @@
+{
+  "name": "RYMORY",
+  "symbol": "RYMORY",
+  "decimals": 18,
+  "description": "RYMORY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RYMORY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RYMORY",
+  "addresses": {
+    "8453": "0x2ebfd743c9525f81010f7b67ccf25d4b8be06756"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RYMORY",
+    "sanitizedSymbol": "RYMORY",
+    "created_at": "2024-12-11T08:26:31.849794",
+    "deployer": "0xcA204C8de43549421a3960Cd8675BD78fdeb2AB3",
+    "lpNftId": "1414921",
+    "lockerAddress": "0x9AF67057Cc8434A03f17ff692F6c458FEcDE0e56"
+  },
+  "clankerInfo": null
+}

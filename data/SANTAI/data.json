@@ -1,0 +1,22 @@
+{
+  "name": "Santai",
+  "symbol": "Santai",
+  "decimals": 18,
+  "description": "Santai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santai",
+  "addresses": {
+    "8453": "0x02225959e9f2c6fb95fd719f34d4de201994ccc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santai",
+    "sanitizedSymbol": "SANTAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7A193988632Dfa9a0e83360297Fc321526c30b2a",
+    "lpNftId": "1372639",
+    "lockerAddress": "0x2704789e253495797cA53769B367ea98768C3e38"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ClankDoge",
+  "symbol": "ClankDoge",
+  "decimals": 18,
+  "description": "ClankDoge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankDoge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankDoge",
+  "addresses": {
+    "8453": "0x1e42c46dea5c070a4c74e4d03d1bc0375309a856"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankDoge",
+    "sanitizedSymbol": "CLANKDOGE",
+    "created_at": "2024-12-10T07:23:31.36312",
+    "deployer": "0x430aeb867B81d576ddd4f08bB239A6BA305Bba84",
+    "lpNftId": "1397884",
+    "lockerAddress": "0x3Ac48ABE628ABD1c3eb00ef1882C14043D948c24"
+  },
+  "clankerInfo": null
+}

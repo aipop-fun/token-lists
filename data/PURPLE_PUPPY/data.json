@@ -1,0 +1,22 @@
+{
+  "name": "Purple Puppy",
+  "symbol": "Purple Puppy",
+  "decimals": 18,
+  "description": "Purple Puppy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purple%20Puppy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purple Puppy",
+  "addresses": {
+    "8453": "0x150b68183af79fc60cc5d910857d6289560b6730"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purple Puppy",
+    "sanitizedSymbol": "PURPLE_PUPPY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156473",
+    "lockerAddress": "0x5E32D5E9A8Fc7FC68384475D6585f02Adf97c947"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Green Grass",
+  "symbol": "Green Grass",
+  "decimals": 18,
+  "description": "Green Grass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Green%20Grass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Green Grass",
+  "addresses": {
+    "8453": "0x2940f26eba50138749cc522101bf744824c26e18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Green Grass",
+    "sanitizedSymbol": "GREEN_GRASS",
+    "created_at": "2024-12-09T07:43:57.350892",
+    "deployer": "0x29C33ac6Db1D16fdebe471c652585190905DfD04",
+    "lpNftId": "1384467",
+    "lockerAddress": "0x93b4D252D83633Bdc5E12A8085B92F64331d5399"
+  },
+  "clankerInfo": null
+}

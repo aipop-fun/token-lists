@@ -1,0 +1,22 @@
+{
+  "name": "Moow",
+  "symbol": "Moow",
+  "decimals": 18,
+  "description": "Moow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moow",
+  "addresses": {
+    "8453": "0x35d962d7630a197c301d4c246c13533a9eb07cad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moow",
+    "sanitizedSymbol": "MOOW",
+    "created_at": "2024-12-11T17:32:34.084903",
+    "deployer": "0xf06D1aDE3C5EB057B95CEd418072139673a58F73",
+    "lpNftId": "1422590",
+    "lockerAddress": "0x021DB56DabD12172f2ff5386005A54264168e1Dc"
+  },
+  "clankerInfo": null
+}

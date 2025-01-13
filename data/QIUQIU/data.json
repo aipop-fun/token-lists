@@ -1,0 +1,22 @@
+{
+  "name": "QIUQIU",
+  "symbol": "QIUQIU",
+  "decimals": 18,
+  "description": "QIUQIU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QIUQIU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QIUQIU",
+  "addresses": {
+    "8453": "0x200fe83e2212aefc64ea0f9bc0658d9da77a9889"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QIUQIU",
+    "sanitizedSymbol": "QIUQIU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129057",
+    "lockerAddress": "0xbF74ad74A00d14E1dfe4615018B10aAD8213bbE4"
+  },
+  "clankerInfo": null
+}

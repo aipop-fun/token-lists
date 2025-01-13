@@ -1,0 +1,22 @@
+{
+  "name": "LAGGER",
+  "symbol": "LAGGER",
+  "decimals": 18,
+  "description": "LAGGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAGGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAGGER",
+  "addresses": {
+    "8453": "0x147b4f7fd80708640a4df98dca8bed522d1bea8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAGGER",
+    "sanitizedSymbol": "LAGGER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1348151",
+    "lockerAddress": "0x0104e483063B125eC22812Ec70Ba7f0dC2732E79"
+  },
+  "clankerInfo": null
+}

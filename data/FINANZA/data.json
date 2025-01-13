@@ -1,0 +1,22 @@
+{
+  "name": "finanza",
+  "symbol": "finanza",
+  "decimals": 18,
+  "description": "finanza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=finanza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "finanza",
+  "addresses": {
+    "8453": "0x34131fbc78cd7087466cfc5a17eeafea700b2365"
+  },
+  "tokenInfo": {
+    "originalSymbol": "finanza",
+    "sanitizedSymbol": "FINANZA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA2c408956988672D64562A23bb0eD1d247a03B98",
+    "lpNftId": "1315160",
+    "lockerAddress": "0xb4993759f0A3bF9D5a51F0FE28E532bC6c65F580"
+  },
+  "clankerInfo": null
+}

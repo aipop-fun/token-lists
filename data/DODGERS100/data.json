@@ -1,0 +1,22 @@
+{
+  "name": "dodgers100",
+  "symbol": "dodgers100",
+  "decimals": 18,
+  "description": "dodgers100 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dodgers100",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dodgers100",
+  "addresses": {
+    "8453": "0x1f22a9d9d4cfceca1fc8924579797dfd7923f1fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dodgers100",
+    "sanitizedSymbol": "DODGERS100",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4E7Fe5701aE71C3c7682963816def89F954dDB1B",
+    "lpNftId": "1376175",
+    "lockerAddress": "0x468d89DDe61899c2402A5F6402BDE8c50e8fC47A"
+  },
+  "clankerInfo": null
+}

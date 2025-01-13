@@ -1,0 +1,22 @@
+{
+  "name": "Head Bob",
+  "symbol": "Head Bob",
+  "decimals": 18,
+  "description": "Head Bob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Head%20Bob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Head Bob",
+  "addresses": {
+    "8453": "0x2c07b92a0928a271ce178291ec6b68af0402c385"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Head Bob",
+    "sanitizedSymbol": "HEAD_BOB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1117956",
+    "lockerAddress": "0x093783F460d6dE80e06c0Ef4bb015Af5604A6BC4"
+  },
+  "clankerInfo": null
+}

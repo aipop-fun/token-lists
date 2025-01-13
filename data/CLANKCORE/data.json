@@ -1,0 +1,22 @@
+{
+  "name": "clankcore",
+  "symbol": "clankcore",
+  "decimals": 18,
+  "description": "clankcore is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankcore",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankcore",
+  "addresses": {
+    "8453": "0x1da7dc60c54f6f65f4eb56019d86b5f4ab9936ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankcore",
+    "sanitizedSymbol": "CLANKCORE",
+    "created_at": "2024-12-09T19:24:25.090567",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1390884",
+    "lockerAddress": "0x4897E619142B8922c6c38216EC513C54A2002802"
+  },
+  "clankerInfo": null
+}

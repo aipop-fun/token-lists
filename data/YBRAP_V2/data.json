@@ -1,0 +1,22 @@
+{
+  "name": "YBRAP V2",
+  "symbol": "YBRAP V2",
+  "decimals": 18,
+  "description": "YBRAP V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YBRAP%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YBRAP V2",
+  "addresses": {
+    "8453": "0x3f863714067d80c443b52ae1129af0bbab877e87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YBRAP V2",
+    "sanitizedSymbol": "YBRAP_V2",
+    "created_at": "2024-12-09T05:58:00.878996",
+    "deployer": "0xdde672dFb4D2DEE9246AD440BEbC568f765a70AA",
+    "lpNftId": "1383490",
+    "lockerAddress": "0x485F106dc6fB65ecc1Ff78B6e71eEA285Bbb8cD9"
+  },
+  "clankerInfo": null
+}

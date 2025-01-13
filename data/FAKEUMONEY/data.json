@@ -1,0 +1,22 @@
+{
+  "name": "FakeUmoney",
+  "symbol": "FakeUmoney",
+  "decimals": 18,
+  "description": "FakeUmoney is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FakeUmoney",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FakeUmoney",
+  "addresses": {
+    "8453": "0x30f3c54d90ec93d7360281f6f97792a74e2113ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FakeUmoney",
+    "sanitizedSymbol": "FAKEUMONEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x44Ed63dD10703101122707463c1E03064EB1f03f",
+    "lpNftId": "1251767",
+    "lockerAddress": "0xCEAa8A4d0a9Ee4f0513f3D04b1b7a786818b074A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Beluga",
+  "symbol": "Beluga",
+  "decimals": 18,
+  "description": "Beluga is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beluga",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beluga",
+  "addresses": {
+    "8453": "0x271207dbaf6ee5018fb3938b3ac1b491bb186a45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beluga",
+    "sanitizedSymbol": "BELUGA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1322680",
+    "lockerAddress": "0xE2226cc3AE6d48248270220FD32892aDc6ed504E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ANCELOTI",
+  "symbol": "ANCELOTI",
+  "decimals": 18,
+  "description": "ANCELOTI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANCELOTI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANCELOTI",
+  "addresses": {
+    "8453": "0x05807f36989ad7b2e3dd41e78d107466a46fcb9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANCELOTI",
+    "sanitizedSymbol": "ANCELOTI",
+    "created_at": "2024-12-11T14:44:24.764384",
+    "deployer": "0x46B705DA2C286Fe00b4CC0F33E086E10E52A5BeC",
+    "lpNftId": "1420532",
+    "lockerAddress": "0x2E1701071A7d1790de691dF314ae31238A1C33dC"
+  },
+  "clankerInfo": null
+}

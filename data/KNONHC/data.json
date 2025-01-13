@@ -1,0 +1,22 @@
+{
+  "name": "KNONHC",
+  "symbol": "KNONHC",
+  "decimals": 18,
+  "description": "KNONHC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KNONHC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KNONHC",
+  "addresses": {
+    "8453": "0x32d131ba7c252788090aa25a1d5bb6100f81cef8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KNONHC",
+    "sanitizedSymbol": "KNONHC",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1590AF8ae0032702850D88BfB9c01852c463edAB",
+    "lpNftId": "1264417",
+    "lockerAddress": "0x695A5bCc5922A1D4b7179b8Cb14f0bed5Bdf0B5c"
+  },
+  "clankerInfo": null
+}

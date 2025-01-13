@@ -1,0 +1,22 @@
+{
+  "name": "Palmer Luckey",
+  "symbol": "Palmer Luckey",
+  "decimals": 18,
+  "description": "Palmer Luckey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Palmer%20Luckey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Palmer Luckey",
+  "addresses": {
+    "8453": "0x3fccd72ec1fd29eedf0f68a8e1573fda6ec9ac91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Palmer Luckey",
+    "sanitizedSymbol": "PALMER_LUCKEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164805",
+    "lockerAddress": "0x85D94FB264Cf8d78228fDe6e4a92059dE6fFD46B"
+  },
+  "clankerInfo": null
+}

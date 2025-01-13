@@ -1,0 +1,22 @@
+{
+  "name": "SLENSERS",
+  "symbol": "SLENSERS",
+  "decimals": 18,
+  "description": "SLENSERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLENSERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLENSERS",
+  "addresses": {
+    "8453": "0x15cb7d28afcd6ce2680e0c1e0d743a1c9375a509"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLENSERS",
+    "sanitizedSymbol": "SLENSERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7c4F2020174082b14b648b1613c0f5689e55fFDB",
+    "lpNftId": "1329939",
+    "lockerAddress": "0x65E2e855bCC9792cebf3a07FdB0E16f6079c0E54"
+  },
+  "clankerInfo": null
+}

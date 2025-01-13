@@ -1,0 +1,22 @@
+{
+  "name": "Hot Pocket",
+  "symbol": "Hot Pocket",
+  "decimals": 18,
+  "description": "Hot Pocket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hot%20Pocket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hot Pocket",
+  "addresses": {
+    "8453": "0x1aef9bc123227b6bcdcb54967cb8627796a78fc1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hot Pocket",
+    "sanitizedSymbol": "HOT_POCKET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156436",
+    "lockerAddress": "0xFc876f230cFcb1Ce0C577bA8cDd015115F0D2D78"
+  },
+  "clankerInfo": null
+}

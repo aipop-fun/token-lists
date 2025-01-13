@@ -1,0 +1,22 @@
+{
+  "name": "Brainlet Santa",
+  "symbol": "Brainlet Santa",
+  "decimals": 18,
+  "description": "Brainlet Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brainlet%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brainlet Santa",
+  "addresses": {
+    "8453": "0x0870c7a77bc0ec1424e082fef499bf819aef25a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brainlet Santa",
+    "sanitizedSymbol": "BRAINLET_SANTA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56e0072B934ff08ed36CB42B8148905504EfB9FB",
+    "lpNftId": "1349267",
+    "lockerAddress": "0xc8d4A5c93Ed57bB080a1D8Ef120e36cedB746429"
+  },
+  "clankerInfo": null
+}

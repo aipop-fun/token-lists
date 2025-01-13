@@ -1,0 +1,22 @@
+{
+  "name": "golden duck",
+  "symbol": "golden duck",
+  "decimals": 18,
+  "description": "golden duck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=golden%20duck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "golden duck",
+  "addresses": {
+    "8453": "0x11f70df3092ed8d32538b727d8dc0e2da0db7bc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "golden duck",
+    "sanitizedSymbol": "GOLDEN_DUCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa1f124B31238Bb1756f63f5599C14a919995f0a6",
+    "lpNftId": "1311475",
+    "lockerAddress": "0x310e8f17DA5A5CBA50D18051A390909F1326c0ce"
+  },
+  "clankerInfo": null
+}

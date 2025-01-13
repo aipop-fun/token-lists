@@ -1,0 +1,22 @@
+{
+  "name": "POPNUT",
+  "symbol": "POPNUT",
+  "decimals": 18,
+  "description": "POPNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POPNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POPNUT",
+  "addresses": {
+    "8453": "0x09c32274d824441d24c8192a317ad2ec1d394ee8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POPNUT",
+    "sanitizedSymbol": "POPNUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b57f8A7553931d29Db1c7966BEf8B2E00367278",
+    "lpNftId": "1292406",
+    "lockerAddress": "0x92090900D4a1Fa2b2d0339556a27c007e0432C5f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Global Onchain Economy",
+  "symbol": "Global Onchain Economy",
+  "decimals": 18,
+  "description": "Global Onchain Economy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Global%20Onchain%20Economy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Global Onchain Economy",
+  "addresses": {
+    "8453": "0x17a65ef219a4369c7d7a721b363791d22a1c38a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Global Onchain Economy",
+    "sanitizedSymbol": "GLOBAL_ONCHAIN_ECONOMY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160907",
+    "lockerAddress": "0x5a63AE4C990097093A694037E0b91f7bF4bE1221"
+  },
+  "clankerInfo": null
+}

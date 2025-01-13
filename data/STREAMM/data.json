@@ -1,0 +1,22 @@
+{
+  "name": "streamm",
+  "symbol": "streamm",
+  "decimals": 18,
+  "description": "streamm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=streamm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "streamm",
+  "addresses": {
+    "8453": "0x2d5a063f2eb521a52242bc61ba828b28d6416443"
+  },
+  "tokenInfo": {
+    "originalSymbol": "streamm",
+    "sanitizedSymbol": "STREAMM",
+    "created_at": "2024-12-11T02:10:40.621793",
+    "deployer": "0x47Af98B93b8F38D6Da4e66648e697F3415A24b1A",
+    "lpNftId": "1410575",
+    "lockerAddress": "0x9e835aa41e82B65F172Ee8950EB455c36c71236F"
+  },
+  "clankerInfo": null
+}

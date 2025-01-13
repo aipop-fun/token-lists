@@ -1,0 +1,22 @@
+{
+  "name": "CrackFi",
+  "symbol": "CrackFi",
+  "decimals": 18,
+  "description": "CrackFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrackFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrackFi",
+  "addresses": {
+    "8453": "0x3d34d3519a9a0d354d55b1cc6f518ea176e0c373"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrackFi",
+    "sanitizedSymbol": "CRACKFI",
+    "created_at": "2024-12-12T01:03:55.489153",
+    "deployer": "0xd508Fe760Ac940F3256Ed294e8C005874201F3F2",
+    "lpNftId": "1428311",
+    "lockerAddress": "0x4E7c066f90843260De536204C6446aE321A4faC4"
+  },
+  "clankerInfo": null
+}

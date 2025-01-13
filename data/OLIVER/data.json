@@ -1,0 +1,22 @@
+{
+  "name": "Oliver",
+  "symbol": "Oliver",
+  "decimals": 18,
+  "description": "Oliver is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oliver",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oliver",
+  "addresses": {
+    "8453": "0x05bc5c7192b771d21976a8d302b60dc2906fd694"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oliver",
+    "sanitizedSymbol": "OLIVER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaC5d3F9f74c77821B624EC0830481E0608974fF7",
+    "lpNftId": "1313321",
+    "lockerAddress": "0x508C7E947aBC271c588962290c15eDF5Ca7b0DFa"
+  },
+  "clankerInfo": null
+}

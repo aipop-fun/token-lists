@@ -1,0 +1,22 @@
+{
+  "name": "Friday",
+  "symbol": "Friday",
+  "decimals": 18,
+  "description": "Friday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Friday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Friday",
+  "addresses": {
+    "8453": "0x114314f1b45bdc4a5263c4c274a7fc5b568c587f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Friday",
+    "sanitizedSymbol": "FRIDAY_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76963eE4C482fA4F9E125ea3C9Cc2Ea81fe8e8C6",
+    "lpNftId": "1288199",
+    "lockerAddress": "0xe67f0D4e1094fe2c60D24CA110F170fdb5A681DA"
+  },
+  "clankerInfo": null
+}

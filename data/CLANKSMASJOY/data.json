@@ -1,0 +1,22 @@
+{
+  "name": "ClanksmasJoy",
+  "symbol": "ClanksmasJoy",
+  "decimals": 18,
+  "description": "ClanksmasJoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClanksmasJoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClanksmasJoy",
+  "addresses": {
+    "8453": "0x3633ecb04d73d0b5d4f22d0ae8810f46b7e99bc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClanksmasJoy",
+    "sanitizedSymbol": "CLANKSMASJOY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8a6Ca0f498Ee45b5Bcc2E60EAA68f92f93BeDfAF",
+    "lpNftId": "1341419",
+    "lockerAddress": "0x11f276cAc537BC9605473Cb00a7AAd30295aABCF"
+  },
+  "clankerInfo": null
+}

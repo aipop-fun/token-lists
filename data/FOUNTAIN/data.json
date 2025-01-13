@@ -1,0 +1,22 @@
+{
+  "name": "Fountain",
+  "symbol": "Fountain",
+  "decimals": 18,
+  "description": "Fountain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fountain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fountain",
+  "addresses": {
+    "8453": "0x0bdc1e7fd0f76186b8cc816101f1cf7978d3c93a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fountain",
+    "sanitizedSymbol": "FOUNTAIN",
+    "created_at": "2024-12-10T17:35:16.059337",
+    "deployer": "0xeDd77ad3c8057CFd83d9bE94E54C2753A2015218",
+    "lpNftId": "1404708",
+    "lockerAddress": "0x11FE2d4a70f0e20D924500aEef7CdA31f2084356"
+  },
+  "clankerInfo": null
+}

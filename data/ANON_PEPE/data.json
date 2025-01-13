@@ -1,0 +1,22 @@
+{
+  "name": "Anon Pepe",
+  "symbol": "Anon Pepe",
+  "decimals": 18,
+  "description": "Anon Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Pepe",
+  "addresses": {
+    "8453": "0x1143ac1eed83645faf7d98ad950a67758ebc79e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Pepe",
+    "sanitizedSymbol": "ANON_PEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1371727",
+    "lockerAddress": "0x98489E03b64d32CCbd018f49F92171a1a37c3450"
+  },
+  "clankerInfo": null
+}

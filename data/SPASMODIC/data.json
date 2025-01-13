@@ -1,0 +1,22 @@
+{
+  "name": "Spasmodic",
+  "symbol": "Spasmodic",
+  "decimals": 18,
+  "description": "Spasmodic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spasmodic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spasmodic",
+  "addresses": {
+    "8453": "0x3c45bf80db51ee1f72414065cf5f6e347e1518dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spasmodic",
+    "sanitizedSymbol": "SPASMODIC",
+    "created_at": "2024-12-10T11:05:07.302768",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1400094",
+    "lockerAddress": "0xC4835BEe35FB649ab5b2bc95107eBc634d4b7b6d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FOMO Starter Pack",
+  "symbol": "FOMO Starter Pack",
+  "decimals": 18,
+  "description": "FOMO Starter Pack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMO%20Starter%20Pack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMO Starter Pack",
+  "addresses": {
+    "8453": "0x2abd75726b7d2141ea8d29dfee2eb136946f9b54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMO Starter Pack",
+    "sanitizedSymbol": "FOMO_STARTER_PACK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x675D882d6CDcDd8b2eAEA95F21Fbfc6916aF89f8",
+    "lpNftId": "1315080",
+    "lockerAddress": "0xF3Ce9513dF1b0EA166edCe2fE87eDB730E6A4ccb"
+  },
+  "clankerInfo": null
+}

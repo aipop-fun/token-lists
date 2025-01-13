@@ -1,0 +1,22 @@
+{
+  "name": "retired",
+  "symbol": "retired",
+  "decimals": 18,
+  "description": "retired is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=retired",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "retired",
+  "addresses": {
+    "8453": "0x26b3bfe28000588b69a63996210362e2297539fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "retired",
+    "sanitizedSymbol": "RETIRED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173025",
+    "lockerAddress": "0x1a7801a653aaF47b9E87402Ef231edD0add66512"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Scheiße",
+  "symbol": "Scheiße",
+  "decimals": 18,
+  "description": "Scheiße is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Schei%C3%9Fe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Scheiße",
+  "addresses": {
+    "8453": "0x24338751ab1d41b4800a089ee915bc664ad3a330"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Scheiße",
+    "sanitizedSymbol": "SCHEI_E",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234879",
+    "lockerAddress": "0x2ED40f3DDc498d0Af28f62EEc2D8f0FfBd933Fd1"
+  },
+  "clankerInfo": null
+}

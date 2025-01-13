@@ -1,0 +1,22 @@
+{
+  "name": "Frosty",
+  "symbol": "Frosty",
+  "decimals": 18,
+  "description": "Frosty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frosty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frosty",
+  "addresses": {
+    "8453": "0x02f17ec963e949a392773593998b12bc9c71b0dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frosty",
+    "sanitizedSymbol": "FROSTY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1263845",
+    "lockerAddress": "0x9a563aCb8b9262d76ec1Ef556d726F3022Fa2C6E"
+  },
+  "clankerInfo": null
+}

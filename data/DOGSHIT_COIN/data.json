@@ -1,0 +1,22 @@
+{
+  "name": "Dogshit coin",
+  "symbol": "Dogshit coin",
+  "decimals": 18,
+  "description": "Dogshit coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogshit%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogshit coin",
+  "addresses": {
+    "8453": "0x34af6698dd74eb40a298206cec73d09b48b59fcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogshit coin",
+    "sanitizedSymbol": "DOGSHIT_COIN",
+    "created_at": "2024-12-12T14:00:14.710977",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1435434",
+    "lockerAddress": "0xdEDE27082d3567Fe658e82e7be94851604170397"
+  },
+  "clankerInfo": null
+}

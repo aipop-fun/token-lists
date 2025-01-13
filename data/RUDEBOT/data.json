@@ -1,0 +1,22 @@
+{
+  "name": "RudeBot",
+  "symbol": "RudeBot",
+  "decimals": 18,
+  "description": "RudeBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RudeBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RudeBot",
+  "addresses": {
+    "8453": "0x1e6e3f64518b4d3dc3ab853692f02ebf5727a66c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RudeBot",
+    "sanitizedSymbol": "RUDEBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125353",
+    "lockerAddress": "0x2227Cd5483982dfB500Ef9eD0411A63F00aBE1d1"
+  },
+  "clankerInfo": null
+}

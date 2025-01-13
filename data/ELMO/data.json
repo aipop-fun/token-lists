@@ -1,0 +1,22 @@
+{
+  "name": "ELMO",
+  "symbol": "ELMO",
+  "decimals": 18,
+  "description": "ELMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELMO",
+  "addresses": {
+    "8453": "0x1cecd1d7dd326823a7394cdbea519a63b5ae8dbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELMO",
+    "sanitizedSymbol": "ELMO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x24993ccF3B739E992c0851034443D891605CAA96",
+    "lpNftId": "1297600",
+    "lockerAddress": "0x62605B5d3f468e674B05b531194cB804eFa3E763"
+  },
+  "clankerInfo": null
+}

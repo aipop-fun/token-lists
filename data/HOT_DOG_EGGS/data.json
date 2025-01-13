@@ -1,0 +1,22 @@
+{
+  "name": "Hot Dog & Eggs",
+  "symbol": "Hot Dog & Eggs",
+  "decimals": 18,
+  "description": "Hot Dog & Eggs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hot%20Dog%20%26%20Eggs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hot Dog & Eggs",
+  "addresses": {
+    "8453": "0x03278e6431906244beeae78faf258bd3e3a7d564"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hot Dog & Eggs",
+    "sanitizedSymbol": "HOT_DOG_EGGS",
+    "created_at": "2024-12-12T18:12:49.904646",
+    "deployer": "0x6DfAb7ff09c3C601cc6b1881aa0385163589c7ec",
+    "lpNftId": "1440588",
+    "lockerAddress": "0xb52d0b8E0488e7579cdf3D5C5857740803Ad5A49"
+  },
+  "clankerInfo": null
+}

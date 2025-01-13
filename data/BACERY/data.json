@@ -1,0 +1,22 @@
+{
+  "name": "Bacery",
+  "symbol": "Bacery",
+  "decimals": 18,
+  "description": "Bacery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bacery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bacery",
+  "addresses": {
+    "8453": "0x3f03df90e327a28ed6f21e7224ae14b6335319b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bacery",
+    "sanitizedSymbol": "BACERY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd44a2d237c3B54E2fe7f3D362bdE024b3001ac37",
+    "lpNftId": "1292380",
+    "lockerAddress": "0x4b68C63c463a025FE3Ed1A812D9EDf37c1D6fE30"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Adjuster",
+  "symbol": "The Adjuster",
+  "decimals": 18,
+  "description": "The Adjuster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Adjuster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Adjuster",
+  "addresses": {
+    "8453": "0x3f6b95245255f336d83d49bc8cb67845ac0cda20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Adjuster",
+    "sanitizedSymbol": "THE_ADJUSTER",
+    "created_at": "2024-12-10T01:54:43.895817",
+    "deployer": "0xf7CaD584a4d56959B5EE6B66d28BB1FeAC29C68d",
+    "lpNftId": "1394526",
+    "lockerAddress": "0xc4abeBD0311cEd4520e561CC3734F71CA67ef8DB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Upyachka",
+  "symbol": "Upyachka",
+  "decimals": 18,
+  "description": "Upyachka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Upyachka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Upyachka",
+  "addresses": {
+    "8453": "0x27bbf44366380b802bd9f618b001197bc6cb76bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Upyachka",
+    "sanitizedSymbol": "UPYACHKA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7F367d136CcCd0a65E8BCcCc8e68031Ae37251b9",
+    "lpNftId": "1288100",
+    "lockerAddress": "0x07600cfb8418552Cf43921F6d7e22eCf403004CD"
+  },
+  "clankerInfo": null
+}

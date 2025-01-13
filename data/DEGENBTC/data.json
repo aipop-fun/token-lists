@@ -1,0 +1,22 @@
+{
+  "name": "DEGENBTC",
+  "symbol": "DEGENBTC",
+  "decimals": 18,
+  "description": "DEGENBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGENBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGENBTC",
+  "addresses": {
+    "8453": "0x18b3428f0226554f41035fdec5db9ef2203dbe84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGENBTC",
+    "sanitizedSymbol": "DEGENBTC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAB87959792497ea7758544c517b7cD9e6064211e",
+    "lpNftId": "1324611",
+    "lockerAddress": "0xddeDC0a01e28B53e5e5b6DAfF638dEd4f498d2F5"
+  },
+  "clankerInfo": null
+}

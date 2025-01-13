@@ -1,0 +1,22 @@
+{
+  "name": "Rogue Clanker",
+  "symbol": "Rogue Clanker",
+  "decimals": 18,
+  "description": "Rogue Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rogue%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rogue Clanker",
+  "addresses": {
+    "8453": "0x17ea8fc5a7f3d713ba6ed0f9f3dd0cc314942041"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rogue Clanker",
+    "sanitizedSymbol": "ROGUE_CLANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192852",
+    "lockerAddress": "0x4F5AD98CBE25C3C01e9C08dc2f9Df579D4e356Ea"
+  },
+  "clankerInfo": null
+}

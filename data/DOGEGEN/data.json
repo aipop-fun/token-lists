@@ -1,0 +1,22 @@
+{
+  "name": "DogeGen",
+  "symbol": "DogeGen",
+  "decimals": 18,
+  "description": "DogeGen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeGen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeGen",
+  "addresses": {
+    "8453": "0x1f98f2f2ca2e79ca506f45eee20aeb7408b05628"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeGen",
+    "sanitizedSymbol": "DOGEGEN",
+    "created_at": "2024-12-08T23:59:25.988682",
+    "deployer": "0x6B12F9Db268ee3dd251a6dAA7F03f114c628A71C",
+    "lpNftId": "1321508",
+    "lockerAddress": "0xEa52980b6f2D4EB746b9773afb18f4029Ac859F5"
+  },
+  "clankerInfo": null
+}

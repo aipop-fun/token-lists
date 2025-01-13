@@ -1,0 +1,22 @@
+{
+  "name": "BANANA AAAA",
+  "symbol": "BANANA AAAA",
+  "decimals": 18,
+  "description": "BANANA AAAA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANANA%20AAAA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANANA AAAA",
+  "addresses": {
+    "8453": "0x2024774fba9c1c11852676088e7cbe5cbaec50e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANANA AAAA",
+    "sanitizedSymbol": "BANANA_AAAA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1309101",
+    "lockerAddress": "0xf8C2c045CEb46c2d4FB5a6c7572324a8f2c40470"
+  },
+  "clankerInfo": null
+}

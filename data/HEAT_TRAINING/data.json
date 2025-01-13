@@ -1,0 +1,22 @@
+{
+  "name": "Heat Training",
+  "symbol": "Heat Training",
+  "decimals": 18,
+  "description": "Heat Training is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Heat%20Training",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Heat Training",
+  "addresses": {
+    "8453": "0x03d3d2bd189f6609d0776b2a803c19f7451fb779"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Heat Training",
+    "sanitizedSymbol": "HEAT_TRAINING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142765",
+    "lockerAddress": "0x110378C552205Ba21f83816EfB5f9122bff957a8"
+  },
+  "clankerInfo": null
+}

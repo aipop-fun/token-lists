@@ -1,0 +1,22 @@
+{
+  "name": "Digital Footprint",
+  "symbol": "Digital Footprint",
+  "decimals": 18,
+  "description": "Digital Footprint is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Footprint",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Footprint",
+  "addresses": {
+    "8453": "0x22c1766d08a2ec4bc694e0637a39400c972fcf26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Footprint",
+    "sanitizedSymbol": "DIGITAL_FOOTPRINT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160614",
+    "lockerAddress": "0xd0a1f8e89A15D1ef3034f8b2667bEa2Db12F1608"
+  },
+  "clankerInfo": null
+}

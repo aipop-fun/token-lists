@@ -1,0 +1,22 @@
+{
+  "name": "RANDOMERO",
+  "symbol": "RANDOMERO",
+  "decimals": 18,
+  "description": "RANDOMERO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RANDOMERO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RANDOMERO",
+  "addresses": {
+    "8453": "0x047e31fac288fab6b011f5d014722c8e7cfa5e4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RANDOMERO",
+    "sanitizedSymbol": "RANDOMERO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162720",
+    "lockerAddress": "0x32A147F37b98923f344dD2A43ba7362B246D58f0"
+  },
+  "clankerInfo": null
+}

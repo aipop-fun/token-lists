@@ -1,0 +1,22 @@
+{
+  "name": "Uncertainty",
+  "symbol": "Uncertainty",
+  "decimals": 18,
+  "description": "Uncertainty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uncertainty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uncertainty",
+  "addresses": {
+    "8453": "0x310612a3b5a0e8cd732008eb105224f56e4d7cf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uncertainty",
+    "sanitizedSymbol": "UNCERTAINTY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158032",
+    "lockerAddress": "0x633F695B2f1E51c8b1CA2Cf1cb934325c57a1E61"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ScoobyDog",
+  "symbol": "ScoobyDog",
+  "decimals": 18,
+  "description": "ScoobyDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ScoobyDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ScoobyDog",
+  "addresses": {
+    "8453": "0x03e1dd01c40b07cdebe85f425ba914754e94672d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ScoobyDog",
+    "sanitizedSymbol": "SCOOBYDOG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe3d23daD1523a6A9b7842405d752b9D6534A24D2",
+    "lpNftId": "1276849",
+    "lockerAddress": "0x6258b814a10EcfE67eFd4160DfcF891603A7a8cB"
+  },
+  "clankerInfo": null
+}

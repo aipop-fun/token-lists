@@ -1,0 +1,22 @@
+{
+  "name": "Write or Die",
+  "symbol": "Write or Die",
+  "decimals": 18,
+  "description": "Write or Die is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Write%20or%20Die",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Write or Die",
+  "addresses": {
+    "8453": "0x29d36e2078b9941a9d94aec790ea94b669421b64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Write or Die",
+    "sanitizedSymbol": "WRITE_OR_DIE",
+    "created_at": "2024-12-09T20:06:10.115359",
+    "deployer": "0x2735D0A6e6AFF9eEdC40a9Dc859907dC36a97086",
+    "lpNftId": "1391393",
+    "lockerAddress": "0xecf996CcD04424E321ce57BB52Ee1B4cb2011bd1"
+  },
+  "clankerInfo": null
+}

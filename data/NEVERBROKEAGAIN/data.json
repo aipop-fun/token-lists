@@ -1,0 +1,22 @@
+{
+  "name": "NeverBrokeAgain",
+  "symbol": "NeverBrokeAgain",
+  "decimals": 18,
+  "description": "NeverBrokeAgain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NeverBrokeAgain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NeverBrokeAgain",
+  "addresses": {
+    "8453": "0x1d1a38ba1930cd3c65592a4e4fc1be20d9777352"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NeverBrokeAgain",
+    "sanitizedSymbol": "NEVERBROKEAGAIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x193BA5469dd547213eb3b4d4357bc286F00A0e1C",
+    "lpNftId": "1286508",
+    "lockerAddress": "0x9A446b692E76854C8C2D7c282D0D04c3F46Bdd77"
+  },
+  "clankerInfo": null
+}

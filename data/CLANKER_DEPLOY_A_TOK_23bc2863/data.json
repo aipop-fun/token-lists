@@ -1,0 +1,22 @@
+{
+  "name": "@clanker deploy a token with the name \"trolled\" and the symbol $troll",
+  "symbol": "@clanker deploy a token with the name \"trolled\" and the symbol $troll",
+  "decimals": 18,
+  "description": "@clanker deploy a token with the name \"trolled\" and the symbol $troll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40clanker%20deploy%20a%20token%20with%20the%20name%20%22trolled%22%20and%20the%20symbol%20%24troll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@clanker deploy a token with the name \"trolled\" and the symbol $troll",
+  "addresses": {
+    "8453": "0x1813e88881384c510308a054fd653df7ec401449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@clanker deploy a token with the name \"trolled\" and the symbol $troll",
+    "sanitizedSymbol": "CLANKER_DEPLOY_A_TOK_23bc2863",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162562",
+    "lockerAddress": "0x39d22705e86d91335A0C3F477dd04E0638690EBd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GUYE",
+  "symbol": "GUYE",
+  "decimals": 18,
+  "description": "GUYE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GUYE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GUYE",
+  "addresses": {
+    "8453": "0x3c58f2d7af0e41ae9e8280ad838a8c22f5c22f3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GUYE",
+    "sanitizedSymbol": "GUYE_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x974302f763532D8344432BE9DA60F904038d3FBd",
+    "lpNftId": "1265432",
+    "lockerAddress": "0x7414F1a9b158744cA12FCf1A1180044Fbc7ca4f8"
+  },
+  "clankerInfo": null
+}

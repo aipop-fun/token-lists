@@ -1,0 +1,22 @@
+{
+  "name": "LPG",
+  "symbol": "LPG",
+  "decimals": 18,
+  "description": "LPG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LPG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LPG",
+  "addresses": {
+    "8453": "0x3a766bd7bf34d2b9f151dd27ed941eadfcf64c15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LPG",
+    "sanitizedSymbol": "LPG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x573F69274c61578893B12Ec3E889554462991E86",
+    "lpNftId": "1323638",
+    "lockerAddress": "0x7E646a1CD932AD2A2F181f0a95f471CA60AD713B"
+  },
+  "clankerInfo": null
+}

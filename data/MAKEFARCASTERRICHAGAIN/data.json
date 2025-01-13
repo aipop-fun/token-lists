@@ -1,0 +1,22 @@
+{
+  "name": "MakeFarcasterRichAgain",
+  "symbol": "MakeFarcasterRichAgain",
+  "decimals": 18,
+  "description": "MakeFarcasterRichAgain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MakeFarcasterRichAgain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MakeFarcasterRichAgain",
+  "addresses": {
+    "8453": "0x09482c04d8751e3e435a3bce57df2bf7fba10af5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MakeFarcasterRichAgain",
+    "sanitizedSymbol": "MAKEFARCASTERRICHAGAIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB5c5CED7F2698ba6DbeC7140c89294f790f37aF2",
+    "lpNftId": "1302448",
+    "lockerAddress": "0xb010b4f0B1014D90c4223C6056C14a19915536E0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TATATS",
+  "symbol": "TATATS",
+  "decimals": 18,
+  "description": "TATATS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TATATS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TATATS",
+  "addresses": {
+    "8453": "0x21ed9049537acc85b1e8f64b3a2a80daec43fae2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TATATS",
+    "sanitizedSymbol": "TATATS_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3680506fc7E03F4f03C7DCDD700f15695e0c6638",
+    "lpNftId": "1321788",
+    "lockerAddress": "0xB3983090933f05717BE0943d7612db2AcD9d02D7"
+  },
+  "clankerInfo": null
+}

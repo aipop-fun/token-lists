@@ -1,0 +1,22 @@
+{
+  "name": "X3L-TRNop",
+  "symbol": "X3L-TRNop",
+  "decimals": 18,
+  "description": "X3L-TRNop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X3L-TRNop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X3L-TRNop",
+  "addresses": {
+    "8453": "0x3f4005eabc190d5174542636d979611938d3b991"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X3L-TRNop",
+    "sanitizedSymbol": "X3L_TRNOP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225995",
+    "lockerAddress": "0xEeF023f2e41938E37e44e6baa59F83D1734dB728"
+  },
+  "clankerInfo": null
+}

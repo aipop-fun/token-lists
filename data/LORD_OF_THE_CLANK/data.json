@@ -1,0 +1,22 @@
+{
+  "name": "Lord of the Clank",
+  "symbol": "Lord of the Clank",
+  "decimals": 18,
+  "description": "Lord of the Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lord%20of%20the%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lord of the Clank",
+  "addresses": {
+    "8453": "0x1b1551420f3eab218e2ad036cadd8a54cb21ccf0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lord of the Clank",
+    "sanitizedSymbol": "LORD_OF_THE_CLANK",
+    "created_at": "2024-12-09T06:13:37.111996",
+    "deployer": "0x1e7fC6D5aE1C6d6a3C8b4C29448Ec4794be28E42",
+    "lpNftId": "1383727",
+    "lockerAddress": "0x2A6FD66C20954a0c1E9D1D2402e04162DaB822BB"
+  },
+  "clankerInfo": null
+}

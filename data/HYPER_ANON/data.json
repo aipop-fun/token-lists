@@ -1,0 +1,22 @@
+{
+  "name": "HYPER ANON",
+  "symbol": "HYPER ANON",
+  "decimals": 18,
+  "description": "HYPER ANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPER%20ANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPER ANON",
+  "addresses": {
+    "8453": "0x102a50038a6263633ef731c9505e0cec6d344e5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPER ANON",
+    "sanitizedSymbol": "HYPER_ANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0772f0ad91F024031769EF0338316f7Ee8B86F0F",
+    "lpNftId": "1311343",
+    "lockerAddress": "0xcB82FE5eA20b2101351098Ad398F5DdF1856D44B"
+  },
+  "clankerInfo": null
+}

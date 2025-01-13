@@ -1,0 +1,22 @@
+{
+  "name": "Basetism",
+  "symbol": "Basetism",
+  "decimals": 18,
+  "description": "Basetism is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basetism",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basetism",
+  "addresses": {
+    "8453": "0x1c01a94707163f90500ce56b7003aece4ac2f7b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basetism",
+    "sanitizedSymbol": "BASETISM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129174",
+    "lockerAddress": "0x2Affdd8c70a166dA8584694a9d57498dF8798483"
+  },
+  "clankerInfo": null
+}

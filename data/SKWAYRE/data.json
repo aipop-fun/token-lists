@@ -1,0 +1,22 @@
+{
+  "name": "Skwayre",
+  "symbol": "Skwayre",
+  "decimals": 18,
+  "description": "Skwayre is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skwayre",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skwayre",
+  "addresses": {
+    "8453": "0x18a8c33c3ad1ec15be3bbee1cd2c567631f9aaca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skwayre",
+    "sanitizedSymbol": "SKWAYRE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaE1A5e3b9d469b7281455A62CD1F7879ff05c7c1",
+    "lpNftId": "1310731",
+    "lockerAddress": "0x3D0C3112F4BbE4BA2bd95B14b18238C2D3A55037"
+  },
+  "clankerInfo": null
+}

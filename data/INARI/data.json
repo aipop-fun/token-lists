@@ -1,0 +1,22 @@
+{
+  "name": "Inari",
+  "symbol": "Inari",
+  "decimals": 18,
+  "description": "Inari is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inari",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inari",
+  "addresses": {
+    "8453": "0x1161f1168647229d981a99accb5a6d0c71c8094e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inari",
+    "sanitizedSymbol": "INARI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199342",
+    "lockerAddress": "0xd1daE32A89a1762850D88Aa42fE3063328c86CbF"
+  },
+  "clankerInfo": null
+}

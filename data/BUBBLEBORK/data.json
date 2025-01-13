@@ -1,0 +1,22 @@
+{
+  "name": "bubblebork",
+  "symbol": "bubblebork",
+  "decimals": 18,
+  "description": "bubblebork is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bubblebork",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bubblebork",
+  "addresses": {
+    "8453": "0x288bcd1f8ffad4c7797eca0ecd9605000d8868d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bubblebork",
+    "sanitizedSymbol": "BUBBLEBORK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x04Baa89f40BcfE5ea69f78911a710e2cc5fFfE4b",
+    "lpNftId": "1285540",
+    "lockerAddress": "0x63747A762f8e9fE53f614897608a87cF441fa45E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "smcak.eth",
+  "symbol": "smcak.eth",
+  "decimals": 18,
+  "description": "smcak.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smcak.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smcak.eth",
+  "addresses": {
+    "8453": "0x2ef3b61d13599b394ee5e3463363b0d37015e1f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smcak.eth",
+    "sanitizedSymbol": "SMCAK_ETH",
+    "created_at": "2024-12-12T15:09:05.606431",
+    "deployer": "0x4e7a5f0e913993125E6e23be2B27266A863D5Ee5",
+    "lpNftId": "1436756",
+    "lockerAddress": "0x1cDA90661Dc48416cc57d01cCFe3CD088025b489"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Arcana",
+  "symbol": "Arcana",
+  "decimals": 18,
+  "description": "Arcana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Arcana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Arcana",
+  "addresses": {
+    "8453": "0x1000f7764e67a5cb79a12c2801d409eb379ac095"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Arcana",
+    "sanitizedSymbol": "ARCANA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204627",
+    "lockerAddress": "0x064CFEfEE4C71a0Ef05134920746Ef1EdF6306F4"
+  },
+  "clankerInfo": null
+}

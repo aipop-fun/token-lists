@@ -1,0 +1,22 @@
+{
+  "name": "Balatro",
+  "symbol": "Balatro",
+  "decimals": 18,
+  "description": "Balatro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Balatro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Balatro",
+  "addresses": {
+    "8453": "0x35047639bf3845fe2d0fc024c89f36dab960c49e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Balatro",
+    "sanitizedSymbol": "BALATRO",
+    "created_at": "2024-12-11T23:14:51.344397",
+    "deployer": "0x5739a67b78aB3DD2B038fD198260055CE441db19",
+    "lpNftId": "1427737",
+    "lockerAddress": "0x0a72079f5442F3D1452c29025638FD2E588d02FD"
+  },
+  "clankerInfo": null
+}

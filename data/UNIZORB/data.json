@@ -1,0 +1,22 @@
+{
+  "name": "unizorb",
+  "symbol": "unizorb",
+  "decimals": 18,
+  "description": "unizorb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=unizorb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "unizorb",
+  "addresses": {
+    "8453": "0x08134d3b857f990c9b5c5a51a0a441200c0ac905"
+  },
+  "tokenInfo": {
+    "originalSymbol": "unizorb",
+    "sanitizedSymbol": "UNIZORB",
+    "created_at": "2024-12-12T03:36:44.433028",
+    "deployer": "0x2302f95e29EcFbC285969c93582337973A75Fb2f",
+    "lpNftId": "1428940",
+    "lockerAddress": "0xa9086cBA85D286499a5ecDb9298EaaA9892f701d"
+  },
+  "clankerInfo": null
+}

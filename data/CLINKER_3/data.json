@@ -1,0 +1,22 @@
+{
+  "name": "CLINKER",
+  "symbol": "CLINKER",
+  "decimals": 18,
+  "description": "CLINKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLINKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLINKER",
+  "addresses": {
+    "8453": "0x2f4ec3eacfec47bc3a39596af7ab0a74b0a31ba4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLINKER",
+    "sanitizedSymbol": "CLINKER_3",
+    "created_at": "2024-12-12T05:25:28.965072",
+    "deployer": "0x0d0198c9F9719951a6e1f7f7A4036909aF7Ca31A",
+    "lpNftId": "1429383",
+    "lockerAddress": "0xF67a3eF884F3F88F68bfEbEB4F690bA630bc7D7A"
+  },
+  "clankerInfo": null
+}

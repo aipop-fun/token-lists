@@ -1,0 +1,22 @@
+{
+  "name": "Rumour",
+  "symbol": "Rumour",
+  "decimals": 18,
+  "description": "Rumour is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rumour",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rumour",
+  "addresses": {
+    "8453": "0x1ceccbe4d3a19cb62dbbd09756a52cfe5394fab8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rumour",
+    "sanitizedSymbol": "RUMOUR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222719",
+    "lockerAddress": "0xE3A5f9C755D7Cf001a18536250d959b26432cBD3"
+  },
+  "clankerInfo": null
+}

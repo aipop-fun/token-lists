@@ -1,0 +1,22 @@
+{
+  "name": "Finance Bro",
+  "symbol": "Finance Bro",
+  "decimals": 18,
+  "description": "Finance Bro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Finance%20Bro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Finance Bro",
+  "addresses": {
+    "8453": "0x1e23c06e823ebe7100575914b1f005e57e85ecc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Finance Bro",
+    "sanitizedSymbol": "FINANCE_BRO",
+    "created_at": "2024-12-11T16:15:45.935569",
+    "deployer": "0x4501457c36aE0647Cd43a1a81EA4e9E69604215f",
+    "lpNftId": "1421608",
+    "lockerAddress": "0xE1789Fc001Abf461A0108eE31F1fa5637AE96Be6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Glamorous chicken",
+  "symbol": "Glamorous chicken",
+  "decimals": 18,
+  "description": "Glamorous chicken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Glamorous%20chicken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Glamorous chicken",
+  "addresses": {
+    "8453": "0x1e1c5a40c69fc9e52b7c6afdffcbfb64f8c62b43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Glamorous chicken",
+    "sanitizedSymbol": "GLAMOROUS_CHICKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x06b7085E10F6cb0aB0101361C9E88A7d89bB406c",
+    "lpNftId": "1285698",
+    "lockerAddress": "0xB526B83AE44EA1Fe639c75c2f68fDEB9f426C9Ee"
+  },
+  "clankerInfo": null
+}

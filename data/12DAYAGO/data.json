@@ -1,0 +1,22 @@
+{
+  "name": "12DayAgo",
+  "symbol": "12DayAgo",
+  "decimals": 18,
+  "description": "12DayAgo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=12DayAgo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "12DayAgo",
+  "addresses": {
+    "8453": "0x2dcb56fc60fc2bef756fcc75ee304624a5a52190"
+  },
+  "tokenInfo": {
+    "originalSymbol": "12DayAgo",
+    "sanitizedSymbol": "12DAYAGO",
+    "created_at": "2024-12-10T19:32:01.692898",
+    "deployer": "0xeADa460F552A2074B723fa4E232BDc1f7852acDc",
+    "lpNftId": "1406226",
+    "lockerAddress": "0x9731Ad6f7F9e1c90caAF80540A68E6AEb4E43c5d"
+  },
+  "clankerInfo": null
+}

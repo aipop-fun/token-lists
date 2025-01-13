@@ -1,0 +1,22 @@
+{
+  "name": "Trenches",
+  "symbol": "Trenches",
+  "decimals": 18,
+  "description": "Trenches is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trenches",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trenches",
+  "addresses": {
+    "8453": "0x01d2126a739483c62beb8e608d6b11b34dd8f323"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trenches",
+    "sanitizedSymbol": "TRENCHES_2",
+    "created_at": "2024-12-12T01:01:08.113756",
+    "deployer": "0x3CEDee2De734fC5ca7bD06FD8Bb41274A45FDB1c",
+    "lpNftId": "1428294",
+    "lockerAddress": "0xd13db622775f307ee951fc7d320fd0A19136bF62"
+  },
+  "clankerInfo": null
+}

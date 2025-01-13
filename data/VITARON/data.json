@@ -1,0 +1,22 @@
+{
+  "name": "Vitaron",
+  "symbol": "Vitaron",
+  "decimals": 18,
+  "description": "Vitaron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitaron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitaron",
+  "addresses": {
+    "8453": "0x335fdd410684002d0c10c25d9ace2d9c1d95b64a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitaron",
+    "sanitizedSymbol": "VITARON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1AA9aCE6A350d834dA92c86E3fdAca2e7D492Ae3",
+    "lpNftId": "1309552",
+    "lockerAddress": "0xBfFEE4fc617280A507E9aCAeBd5b059A88bD9994"
+  },
+  "clankerInfo": null
+}

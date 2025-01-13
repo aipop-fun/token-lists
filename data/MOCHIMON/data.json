@@ -1,0 +1,22 @@
+{
+  "name": "Mochimon",
+  "symbol": "Mochimon",
+  "decimals": 18,
+  "description": "Mochimon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mochimon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mochimon",
+  "addresses": {
+    "8453": "0x29b290dc1b650c4938c36b59e9966c37f2ee7fc0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mochimon",
+    "sanitizedSymbol": "MOCHIMON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160356",
+    "lockerAddress": "0x7404Da331bEe2A0552d9A6aFe953dB51806819B0"
+  },
+  "clankerInfo": null
+}

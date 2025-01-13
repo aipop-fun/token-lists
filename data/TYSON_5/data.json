@@ -1,0 +1,22 @@
+{
+  "name": "TYSON",
+  "symbol": "TYSON",
+  "decimals": 18,
+  "description": "TYSON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TYSON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TYSON",
+  "addresses": {
+    "8453": "0x025e8b3162f81a8415878aa0a95bb4e09d9208ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TYSON",
+    "sanitizedSymbol": "TYSON_5",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233148",
+    "lockerAddress": "0x6b3bE20a2096fFa762a65D055F7d8EdF50a286c1"
+  },
+  "clankerInfo": null
+}

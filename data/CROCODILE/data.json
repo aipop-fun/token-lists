@@ -1,0 +1,22 @@
+{
+  "name": "crocodile",
+  "symbol": "crocodile",
+  "decimals": 18,
+  "description": "crocodile is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crocodile",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crocodile",
+  "addresses": {
+    "8453": "0x330782596cbe6619de5ee3b30b6c59dcd74615a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crocodile",
+    "sanitizedSymbol": "CROCODILE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0F5c0b356a7E667a1ca52fABC0dbeCdff2E204F2",
+    "lpNftId": "1308847",
+    "lockerAddress": "0xf485BCA8c9C9Cb7c576A00cBAA4963d7411b0591"
+  },
+  "clankerInfo": null
+}

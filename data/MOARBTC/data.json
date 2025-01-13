@@ -1,0 +1,22 @@
+{
+  "name": "moarBTC",
+  "symbol": "moarBTC",
+  "decimals": 18,
+  "description": "moarBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moarBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moarBTC",
+  "addresses": {
+    "8453": "0x094427483dfe67c5b9db45a75099d189b6781215"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moarBTC",
+    "sanitizedSymbol": "MOARBTC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE41f56122d44f63c4492096d54D8BE96d600bB06",
+    "lpNftId": "1330868",
+    "lockerAddress": "0x1360a8Ae9E0844A1aa9e45b861d283cf96c19C21"
+  },
+  "clankerInfo": null
+}

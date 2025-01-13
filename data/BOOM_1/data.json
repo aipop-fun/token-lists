@@ -1,0 +1,22 @@
+{
+  "name": "BOOM",
+  "symbol": "BOOM",
+  "decimals": 18,
+  "description": "BOOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOOM",
+  "addresses": {
+    "8453": "0x19f96d231c3edf4080a366216765a0312c19a367"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOOM",
+    "sanitizedSymbol": "BOOM_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1353457",
+    "lockerAddress": "0x4bc426AE92c2ef71ED380d0EcDa3f7a0965fB0Fd"
+  },
+  "clankerInfo": null
+}

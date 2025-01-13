@@ -1,0 +1,22 @@
+{
+  "name": "Dancing Dog",
+  "symbol": "Dancing Dog",
+  "decimals": 18,
+  "description": "Dancing Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dancing%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dancing Dog",
+  "addresses": {
+    "8453": "0x19440da104ad3e20d0c7e714ce8f4d2cf7de0402"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dancing Dog",
+    "sanitizedSymbol": "DANCING_DOG",
+    "created_at": "2024-12-12T20:40:11.45967",
+    "deployer": "0xaaFeD113a0900617c499e94cc6D1d99fe28a651a",
+    "lpNftId": "1442521",
+    "lockerAddress": "0x733Ff8CaDc6644BDCA46E3094c69FEBC5e396432"
+  },
+  "clankerInfo": null
+}

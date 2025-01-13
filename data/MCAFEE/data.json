@@ -1,0 +1,22 @@
+{
+  "name": "McAfee",
+  "symbol": "McAfee",
+  "decimals": 18,
+  "description": "McAfee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=McAfee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "McAfee",
+  "addresses": {
+    "8453": "0x0181412a9fe00d3ac995b27f9dcfe118bf281f0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "McAfee",
+    "sanitizedSymbol": "MCAFEE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119783",
+    "lockerAddress": "0x501df513d19a6f0431aBA6ec29F77d41c263cDA4"
+  },
+  "clankerInfo": null
+}

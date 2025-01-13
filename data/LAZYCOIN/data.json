@@ -1,0 +1,22 @@
+{
+  "name": "LazyCoin",
+  "symbol": "LazyCoin",
+  "decimals": 18,
+  "description": "LazyCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LazyCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LazyCoin",
+  "addresses": {
+    "8453": "0x0ac1795a5e76c7900e7d4faca99510100197de78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LazyCoin",
+    "sanitizedSymbol": "LAZYCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x779C9a1C80cCb9b2A00071b7aFD2b9fdb49937B2",
+    "lpNftId": "1286707",
+    "lockerAddress": "0x45DC5F41D9b3694A0A62C8a62f0D13f2F168dF3a"
+  },
+  "clankerInfo": null
+}

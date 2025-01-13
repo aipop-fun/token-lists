@@ -1,0 +1,22 @@
+{
+  "name": "mustards",
+  "symbol": "mustards",
+  "decimals": 18,
+  "description": "mustards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mustards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mustards",
+  "addresses": {
+    "8453": "0x29fce666428d780b7f2a41f2ed684279a6437531"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mustards",
+    "sanitizedSymbol": "MUSTARDS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x0D6BBb6B6f25Fb04c468069C285FFE5840961FBb",
+    "lpNftId": "1218961",
+    "lockerAddress": "0xfA1e3bDb0eaB5EB02C71C43cb0Bd557Ec5c4808F"
+  },
+  "clankerInfo": null
+}

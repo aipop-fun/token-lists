@@ -1,0 +1,22 @@
+{
+  "name": "ClankWank",
+  "symbol": "ClankWank",
+  "decimals": 18,
+  "description": "ClankWank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankWank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankWank",
+  "addresses": {
+    "8453": "0x0016618ddde9f1d7dcb6c2a5fb19573575bb8cf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankWank",
+    "sanitizedSymbol": "CLANKWANK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222723",
+    "lockerAddress": "0x0d78F44801b9C69C76d26cB76E7B8D96E0877e36"
+  },
+  "clankerInfo": null
+}

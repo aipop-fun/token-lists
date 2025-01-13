@@ -1,0 +1,22 @@
+{
+  "name": "CABAL",
+  "symbol": "CABAL",
+  "decimals": 18,
+  "description": "CABAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CABAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CABAL",
+  "addresses": {
+    "8453": "0x242fd63b3f6df329e22c09312e2e57bdde26bb3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CABAL",
+    "sanitizedSymbol": "CABAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124890",
+    "lockerAddress": "0x548805B8E10b6e1e23F86673395B61523e05FbBB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Doge Inu",
+  "symbol": "Doge Inu",
+  "decimals": 18,
+  "description": "Doge Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doge%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doge Inu",
+  "addresses": {
+    "8453": "0x3a5f3b9576ef1651496dedbb4b8930ba6cd90571"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doge Inu",
+    "sanitizedSymbol": "DOGE_INU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf6598681E2d995D82d54B82e8954C36b568dEc61",
+    "lpNftId": "1262132",
+    "lockerAddress": "0x62143EcaF2b7170310A90Ff8B386e7e2a8d50F4f"
+  },
+  "clankerInfo": null
+}

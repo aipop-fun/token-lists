@@ -1,0 +1,22 @@
+{
+  "name": "crazy caty",
+  "symbol": "crazy caty",
+  "decimals": 18,
+  "description": "crazy caty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crazy%20caty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crazy caty",
+  "addresses": {
+    "8453": "0x1e4e1506d1461e563425d104e2b24ca0f850f13a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crazy caty",
+    "sanitizedSymbol": "CRAZY_CATY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x64FbC39586Ed96981b8AF80a89bf7A604ac893a9",
+    "lpNftId": "1315210",
+    "lockerAddress": "0xd28871787eF07f23E3367ac353ced83aa0D92982"
+  },
+  "clankerInfo": null
+}

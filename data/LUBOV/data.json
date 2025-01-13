@@ -1,0 +1,22 @@
+{
+  "name": "lubov",
+  "symbol": "lubov",
+  "decimals": 18,
+  "description": "lubov is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lubov",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lubov",
+  "addresses": {
+    "8453": "0x3915fa57881cb75f41af4cb7018800e557814098"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lubov",
+    "sanitizedSymbol": "LUBOV",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x17bf04ac18596926FC2fB389965fC882F791c65f",
+    "lpNftId": "1298458",
+    "lockerAddress": "0x1FD7796B69998A4C1625709E213E4135C8704cC4"
+  },
+  "clankerInfo": null
+}

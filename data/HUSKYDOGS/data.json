@@ -1,0 +1,22 @@
+{
+  "name": "HuskyDogs",
+  "symbol": "HuskyDogs",
+  "decimals": 18,
+  "description": "HuskyDogs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HuskyDogs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HuskyDogs",
+  "addresses": {
+    "8453": "0x0fba18d8a1d8186d1fc0bab07bb312209f88638c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HuskyDogs",
+    "sanitizedSymbol": "HUSKYDOGS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb96a37F9a202204424b09D0844C03F7b7399b08D",
+    "lpNftId": "1252798",
+    "lockerAddress": "0x14AeF13D009b69e52A0733a667f86CcdcEBFd24c"
+  },
+  "clankerInfo": null
+}

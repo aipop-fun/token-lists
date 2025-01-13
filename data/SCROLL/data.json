@@ -1,0 +1,22 @@
+{
+  "name": "SCROLL",
+  "symbol": "SCROLL",
+  "decimals": 18,
+  "description": "SCROLL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCROLL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCROLL",
+  "addresses": {
+    "8453": "0x1f98671b968208bfe32efbe1ba9988c498d45066"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCROLL",
+    "sanitizedSymbol": "SCROLL",
+    "created_at": "2024-12-11T20:43:29.224371",
+    "deployer": "0xB4e60388BB1fbabdF77dFf2337Ad2fCB596d500A",
+    "lpNftId": "1425587",
+    "lockerAddress": "0x8f0305Ce3c9a2F9550C769fEBb826209E4A2A2F8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "anemale",
+  "symbol": "anemale",
+  "decimals": 18,
+  "description": "anemale is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anemale",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anemale",
+  "addresses": {
+    "8453": "0x20ebaf027e945685450e836d5ada970866cef9e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anemale",
+    "sanitizedSymbol": "ANEMALE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130164",
+    "lockerAddress": "0x1f5536f21B62a24890535C70869208276BB67425"
+  },
+  "clankerInfo": null
+}

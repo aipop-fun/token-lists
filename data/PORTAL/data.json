@@ -1,0 +1,22 @@
+{
+  "name": "PORTAL",
+  "symbol": "PORTAL",
+  "decimals": 18,
+  "description": "PORTAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PORTAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PORTAL",
+  "addresses": {
+    "8453": "0x0730a17487a16889bb0fdecb7b8db8198b98281e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PORTAL",
+    "sanitizedSymbol": "PORTAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1293351",
+    "lockerAddress": "0xc0251C8000cf808a08e4145eBc72af9bFCB393ca"
+  },
+  "clankerInfo": null
+}

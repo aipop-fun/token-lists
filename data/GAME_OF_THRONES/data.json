@@ -1,0 +1,22 @@
+{
+  "name": "Game Of Thrones",
+  "symbol": "Game Of Thrones",
+  "decimals": 18,
+  "description": "Game Of Thrones is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Game%20Of%20Thrones",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Game Of Thrones",
+  "addresses": {
+    "8453": "0x2bb7a58ed0baf7644354dc1a893dcf5a0f3ede32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Game Of Thrones",
+    "sanitizedSymbol": "GAME_OF_THRONES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1B338B23ce23143Ce6c962f3D4192267B30A4D7B",
+    "lpNftId": "1371542",
+    "lockerAddress": "0x911CA59dbC48D4A204F1F9edeEeD7Fc8588a234c"
+  },
+  "clankerInfo": null
+}

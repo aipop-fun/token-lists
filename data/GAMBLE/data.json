@@ -1,0 +1,22 @@
+{
+  "name": "Gamble",
+  "symbol": "Gamble",
+  "decimals": 18,
+  "description": "Gamble is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gamble",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gamble",
+  "addresses": {
+    "8453": "0x0190c0545f25c01be50deaf506acc59bdea2ceef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gamble",
+    "sanitizedSymbol": "GAMBLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235461",
+    "lockerAddress": "0x96dE76e801a2Ce961018a6e65D9719bE3cBF2A60"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "strong",
+  "symbol": "strong",
+  "decimals": 18,
+  "description": "strong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=strong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "strong",
+  "addresses": {
+    "8453": "0x07fc53d38438540ba7e0c80b72b1a49e56626309"
+  },
+  "tokenInfo": {
+    "originalSymbol": "strong",
+    "sanitizedSymbol": "STRONG_3",
+    "created_at": "2024-12-10T09:15:43.768735",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1399107",
+    "lockerAddress": "0xFb22B557Be0c09C2eF3B9C8dAe9275AcD265e46e"
+  },
+  "clankerInfo": null
+}

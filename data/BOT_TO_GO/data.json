@@ -1,0 +1,22 @@
+{
+  "name": "BOT TO GO!",
+  "symbol": "BOT TO GO!",
+  "decimals": 18,
+  "description": "BOT TO GO! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOT%20TO%20GO!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOT TO GO!",
+  "addresses": {
+    "8453": "0x4069519d0d0737d933c82a7b0dcd0cca1bf8598b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOT TO GO!",
+    "sanitizedSymbol": "BOT_TO_GO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x221289030ed4409284be36371664d39E692ae593",
+    "lpNftId": "1376433",
+    "lockerAddress": "0x15bDa8f4fc5A5e7BCB1dE125094Dd973331Ee37a"
+  },
+  "clankerInfo": null
+}

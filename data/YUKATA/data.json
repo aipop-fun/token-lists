@@ -1,0 +1,22 @@
+{
+  "name": "YUKATA",
+  "symbol": "YUKATA",
+  "decimals": 18,
+  "description": "YUKATA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUKATA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUKATA",
+  "addresses": {
+    "8453": "0x40085f8d299711ab6389dfe7f121c0166154a564"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUKATA",
+    "sanitizedSymbol": "YUKATA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x772125F73A9660f296f1D1A0ad33c1010E0aE38C",
+    "lpNftId": "1324472",
+    "lockerAddress": "0xc5a636A36Dc6808011bc5a71f9Ee41b6cFdF670D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MOONDOG",
+  "symbol": "MOONDOG",
+  "decimals": 18,
+  "description": "MOONDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONDOG",
+  "addresses": {
+    "8453": "0x06799a5bfb1cffe363bb10095f5552e1eba4ad49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONDOG",
+    "sanitizedSymbol": "MOONDOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1309407",
+    "lockerAddress": "0xaf63195949626b954674bD17Ca94855EE9996469"
+  },
+  "clankerInfo": null
+}

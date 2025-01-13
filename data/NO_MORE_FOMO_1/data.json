@@ -1,0 +1,22 @@
+{
+  "name": "NO MORE FOMO",
+  "symbol": "NO MORE FOMO",
+  "decimals": 18,
+  "description": "NO MORE FOMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NO%20MORE%20FOMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NO MORE FOMO",
+  "addresses": {
+    "8453": "0x049987953936666fab02bf2e617c352642e8c2b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NO MORE FOMO",
+    "sanitizedSymbol": "NO_MORE_FOMO_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1251417",
+    "lockerAddress": "0xa608516a40D27BED51358130AeA10df6d8400B39"
+  },
+  "clankerInfo": null
+}

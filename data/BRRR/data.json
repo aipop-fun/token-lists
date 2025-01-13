@@ -1,0 +1,22 @@
+{
+  "name": "BRRR",
+  "symbol": "BRRR",
+  "decimals": 18,
+  "description": "BRRR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRRR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRRR",
+  "addresses": {
+    "8453": "0x2f89f58e137f43992cec29d8b9d2c327eea00e95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRRR",
+    "sanitizedSymbol": "BRRR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x38E68Bc57b434B5dF5F1F54C4152AF1d41a6C88C",
+    "lpNftId": "1266549",
+    "lockerAddress": "0xEC1eA1bF395b743ffBA22fEb138e8d8A77a5D167"
+  },
+  "clankerInfo": null
+}

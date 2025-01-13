@@ -1,0 +1,22 @@
+{
+  "name": "EXODUS",
+  "symbol": "EXODUS",
+  "decimals": 18,
+  "description": "EXODUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EXODUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EXODUS",
+  "addresses": {
+    "8453": "0x419bf17b94673ef2baa3a7efe5e822cd0f073013"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EXODUS",
+    "sanitizedSymbol": "EXODUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223763",
+    "lockerAddress": "0x84ba76Bc07b90aD638855d00C0D1E975ABF517c1"
+  },
+  "clankerInfo": null
+}

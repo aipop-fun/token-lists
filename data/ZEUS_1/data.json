@@ -1,0 +1,22 @@
+{
+  "name": "ZEUS",
+  "symbol": "ZEUS",
+  "decimals": 18,
+  "description": "ZEUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEUS",
+  "addresses": {
+    "8453": "0x0884ad0778244587a0ce710a9ee7835769314efe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEUS",
+    "sanitizedSymbol": "ZEUS_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2bc66df32fE9774CAeE150A93BC2fCA840927Fb6",
+    "lpNftId": "1310190",
+    "lockerAddress": "0x1E01B085B9228b75588F3600afF2e182043076a4"
+  },
+  "clankerInfo": null
+}

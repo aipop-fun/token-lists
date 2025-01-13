@@ -1,0 +1,22 @@
+{
+  "name": "PrecisionBot",
+  "symbol": "PrecisionBot",
+  "decimals": 18,
+  "description": "PrecisionBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PrecisionBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PrecisionBot",
+  "addresses": {
+    "8453": "0x077e7944cfaf81350ac3d6dcdc96f72774f1ccb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PrecisionBot",
+    "sanitizedSymbol": "PRECISIONBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150672",
+    "lockerAddress": "0x8172126F3371040C5a3D7B40579266d20e63d6f5"
+  },
+  "clankerInfo": null
+}

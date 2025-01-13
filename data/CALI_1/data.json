@@ -1,0 +1,22 @@
+{
+  "name": "cali",
+  "symbol": "cali",
+  "decimals": 18,
+  "description": "cali is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cali",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cali",
+  "addresses": {
+    "8453": "0x00a962a3315918845478c45a7a9085bc485abe17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cali",
+    "sanitizedSymbol": "CALI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x34fa27534f9d3B30bcc3A842a3D360B5C7657faA",
+    "lpNftId": "1252364",
+    "lockerAddress": "0x5148c65D94B10e9A45398Ca2c5316BAB5C6AB9e6"
+  },
+  "clankerInfo": null
+}

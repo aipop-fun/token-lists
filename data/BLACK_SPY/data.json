@@ -1,0 +1,22 @@
+{
+  "name": "Black Spy",
+  "symbol": "Black Spy",
+  "decimals": 18,
+  "description": "Black Spy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Spy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Spy",
+  "addresses": {
+    "8453": "0x2eca6707c5f20a595a9289c9187d3200460c66b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Spy",
+    "sanitizedSymbol": "BLACK_SPY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x089FCE8bE711CABc806d69B1d0d5aebd52A06455",
+    "lpNftId": "1314280",
+    "lockerAddress": "0x7A87395B8eB303550A6c877D5ca8B21eE1DFb70A"
+  },
+  "clankerInfo": null
+}

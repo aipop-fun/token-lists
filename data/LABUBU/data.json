@@ -1,0 +1,22 @@
+{
+  "name": "LABUBU",
+  "symbol": "LABUBU",
+  "decimals": 18,
+  "description": "LABUBU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LABUBU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LABUBU",
+  "addresses": {
+    "8453": "0x0c64a5500d38c09b4fb4fe93a6a772ee1d9c0b71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LABUBU",
+    "sanitizedSymbol": "LABUBU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1291849",
+    "lockerAddress": "0xddfe3C15e586D1F3519640Ae30F30FEe8d7B694A"
+  },
+  "clankerInfo": null
+}

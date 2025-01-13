@@ -1,0 +1,22 @@
+{
+  "name": "SANTA PENNY",
+  "symbol": "SANTA PENNY",
+  "decimals": 18,
+  "description": "SANTA PENNY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20PENNY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA PENNY",
+  "addresses": {
+    "8453": "0x2a4873c7eae528d1352b77614adf219f56f59783"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA PENNY",
+    "sanitizedSymbol": "SANTA_PENNY",
+    "created_at": "2024-12-10T16:28:22.43924",
+    "deployer": "0x6131490b17149512Dcb96672a70bB1FBC049D501",
+    "lpNftId": "1404037",
+    "lockerAddress": "0x7D9F01fA0c6280141c442DC98b82ecB0B7b52586"
+  },
+  "clankerInfo": null
+}

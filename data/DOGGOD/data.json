@@ -1,0 +1,22 @@
+{
+  "name": "Doggod",
+  "symbol": "Doggod",
+  "decimals": 18,
+  "description": "Doggod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggod",
+  "addresses": {
+    "8453": "0x2cc898f34af20ebeeddbe16ba0c5b89aacb55a42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggod",
+    "sanitizedSymbol": "DOGGOD",
+    "created_at": "2024-12-09T02:19:00.702583",
+    "deployer": "0xfAEe785c6B076052Bf1BAfbbc436AEEbDA69Db20",
+    "lpNftId": "1378163",
+    "lockerAddress": "0x2422DFDe0C1F82Ee48De3C7C89cA37680DdB3a01"
+  },
+  "clankerInfo": null
+}

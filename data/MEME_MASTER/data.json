@@ -1,0 +1,22 @@
+{
+  "name": "Meme Master",
+  "symbol": "Meme Master",
+  "decimals": 18,
+  "description": "Meme Master is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Master",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Master",
+  "addresses": {
+    "8453": "0x17febe9d800acacd1a932ddbf54f56f18836cb8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Master",
+    "sanitizedSymbol": "MEME_MASTER",
+    "created_at": "2024-12-10T09:04:39.459583",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1399037",
+    "lockerAddress": "0xc59b55EaECB2445D1Be3b86a1E61f855F03d0D87"
+  },
+  "clankerInfo": null
+}

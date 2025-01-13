@@ -1,0 +1,22 @@
+{
+  "name": "PUDGYPOOR",
+  "symbol": "PUDGYPOOR",
+  "decimals": 18,
+  "description": "PUDGYPOOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUDGYPOOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUDGYPOOR",
+  "addresses": {
+    "8453": "0x08857a6e20ecd226f6a1b65b9a6cdb43dcd1e05c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUDGYPOOR",
+    "sanitizedSymbol": "PUDGYPOOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173944",
+    "lockerAddress": "0x2643E9Ba883CB382381c337e72531596495ba300"
+  },
+  "clankerInfo": null
+}

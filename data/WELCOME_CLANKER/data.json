@@ -1,0 +1,22 @@
+{
+  "name": "welcome clanker",
+  "symbol": "welcome clanker",
+  "decimals": 18,
+  "description": "welcome clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=welcome%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "welcome clanker",
+  "addresses": {
+    "8453": "0x10b5699b0a9e757a43d6c7fcc952b68497a36257"
+  },
+  "tokenInfo": {
+    "originalSymbol": "welcome clanker",
+    "sanitizedSymbol": "WELCOME_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x64B75f5b37e7c5Ae9020A1a2C5700830eb8faD52",
+    "lpNftId": "1376059",
+    "lockerAddress": "0xCF7e38d4F7895232D51E9f934B337bD053378892"
+  },
+  "clankerInfo": null
+}

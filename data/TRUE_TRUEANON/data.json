@@ -1,0 +1,22 @@
+{
+  "name": "$true (trueanon)",
+  "symbol": "$true (trueanon)",
+  "decimals": 18,
+  "description": "$true (trueanon) is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24true%20(trueanon)",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$true (trueanon)",
+  "addresses": {
+    "8453": "0x2b67e95b296a61951a8e451c0f6c6b541a2334b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$true (trueanon)",
+    "sanitizedSymbol": "TRUE_TRUEANON",
+    "created_at": "2024-12-09T15:59:29.751888",
+    "deployer": "0x0000000D9e7ac498cd37e8B17f88Ac3669c411d7",
+    "lpNftId": "1388898",
+    "lockerAddress": "0xC62B68D629679B19b61a830D5337cA7702F8DdCf"
+  },
+  "clankerInfo": null
+}

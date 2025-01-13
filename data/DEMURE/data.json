@@ -1,0 +1,22 @@
+{
+  "name": "DEMURE",
+  "symbol": "DEMURE",
+  "decimals": 18,
+  "description": "DEMURE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEMURE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEMURE",
+  "addresses": {
+    "8453": "0x3e66fa90f87d8752424d899b71d3ca8a3dec2552"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEMURE",
+    "sanitizedSymbol": "DEMURE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5029f815047DF31f1Ed5633B9BD43faA333CB454",
+    "lpNftId": "1314544",
+    "lockerAddress": "0x0a32521E4c309e268a39f1f03Bf3a286647a9804"
+  },
+  "clankerInfo": null
+}

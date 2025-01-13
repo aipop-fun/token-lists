@@ -1,0 +1,22 @@
+{
+  "name": "gemini",
+  "symbol": "gemini",
+  "decimals": 18,
+  "description": "gemini is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gemini",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gemini",
+  "addresses": {
+    "8453": "0x3f8d431f25ebaebbd33a55a36d39933fe81aca18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gemini",
+    "sanitizedSymbol": "GEMINI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162598",
+    "lockerAddress": "0xd8ae5De2da841036a8A0Dd2F7e50e5f68aEd36E2"
+  },
+  "clankerInfo": null
+}

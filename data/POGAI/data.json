@@ -1,0 +1,22 @@
+{
+  "name": "POGAI",
+  "symbol": "POGAI",
+  "decimals": 18,
+  "description": "POGAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POGAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POGAI",
+  "addresses": {
+    "8453": "0x1138c357a02e8863ece11e47b6c9bb7f02da07b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POGAI",
+    "sanitizedSymbol": "POGAI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xccc708F51F27DFB18F24dCe50B3e378C1a49839d",
+    "lpNftId": "1266672",
+    "lockerAddress": "0xcfF4a5Ed3c5cB922AdCEc0C4c4CCbDf8C9479236"
+  },
+  "clankerInfo": null
+}

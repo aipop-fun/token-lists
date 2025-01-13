@@ -1,0 +1,22 @@
+{
+  "name": "Kimchi FBI",
+  "symbol": "Kimchi FBI",
+  "decimals": 18,
+  "description": "Kimchi FBI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kimchi%20FBI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kimchi FBI",
+  "addresses": {
+    "8453": "0x052534205d8ecdb2d3967377786a9ad2477f8987"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kimchi FBI",
+    "sanitizedSymbol": "KIMCHI_FBI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5560650bF336dAfc2AaB23E6C2bCc78028877725",
+    "lpNftId": "1370705",
+    "lockerAddress": "0xf755AD301d575f1d9464b32F8F6360f6AaBbfBd5"
+  },
+  "clankerInfo": null
+}

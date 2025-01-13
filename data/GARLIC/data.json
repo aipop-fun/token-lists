@@ -1,0 +1,22 @@
+{
+  "name": "Garlic",
+  "symbol": "Garlic",
+  "decimals": 18,
+  "description": "Garlic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Garlic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Garlic",
+  "addresses": {
+    "8453": "0x37ea8e9ca21a7ab31c2be5d200caf71b2f3f498e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Garlic",
+    "sanitizedSymbol": "GARLIC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226210",
+    "lockerAddress": "0x6a34a0e10B361EF9C79fCb4752be157a097385bd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mulll",
+  "symbol": "mulll",
+  "decimals": 18,
+  "description": "mulll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mulll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mulll",
+  "addresses": {
+    "8453": "0x1db004e3c26081696fa5aa67dfeb39c2833830ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mulll",
+    "sanitizedSymbol": "MULLL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x40B2d48B5EbF4276ba35ea135da77AF8671d1779",
+    "lpNftId": "1253464",
+    "lockerAddress": "0xbE5F1BBdB98f6e23f7ec0761b673Ef6f42380850"
+  },
+  "clankerInfo": null
+}

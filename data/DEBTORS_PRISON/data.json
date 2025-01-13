@@ -1,0 +1,22 @@
+{
+  "name": "debtors prison",
+  "symbol": "debtors prison",
+  "decimals": 18,
+  "description": "debtors prison is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=debtors%20prison",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "debtors prison",
+  "addresses": {
+    "8453": "0x28a74ea673355e756cc04d926e9fd9d21a7fb4d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "debtors prison",
+    "sanitizedSymbol": "DEBTORS_PRISON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe876275e5e1A77e0DE4006e5d9B85B33621d1442",
+    "lpNftId": "1313660",
+    "lockerAddress": "0x22d4538650C73E6E1b223AcDB2B4bf1B994E46Bf"
+  },
+  "clankerInfo": null
+}

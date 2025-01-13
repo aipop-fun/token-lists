@@ -1,0 +1,22 @@
+{
+  "name": "TEST8",
+  "symbol": "TEST8",
+  "decimals": 18,
+  "description": "TEST8 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEST8",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEST8",
+  "addresses": {
+    "8453": "0x08fa38f639511b2b503408dff052961344f782aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEST8",
+    "sanitizedSymbol": "TEST8",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xb1F21bcDDB961760B1080d265Dd1F307396936a1",
+    "lpNftId": "1126173",
+    "lockerAddress": "0x50CcAE8422E5dBEA9Cb7AC60b5Be5A64355326fb"
+  },
+  "clankerInfo": null
+}

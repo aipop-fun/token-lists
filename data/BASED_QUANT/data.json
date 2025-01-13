@@ -1,0 +1,22 @@
+{
+  "name": "Based Quant",
+  "symbol": "Based Quant",
+  "decimals": 18,
+  "description": "Based Quant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Quant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Quant",
+  "addresses": {
+    "8453": "0x1f4bda74ffab85f918fb493fd79893b141b1a5f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Quant",
+    "sanitizedSymbol": "BASED_QUANT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199923",
+    "lockerAddress": "0x8163E6a4d89814c3d988f7213D53d2530240185E"
+  },
+  "clankerInfo": null
+}

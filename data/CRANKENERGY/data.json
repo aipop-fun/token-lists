@@ -1,0 +1,22 @@
+{
+  "name": "CrankEnergy",
+  "symbol": "CrankEnergy",
+  "decimals": 18,
+  "description": "CrankEnergy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrankEnergy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrankEnergy",
+  "addresses": {
+    "8453": "0x08318b6f7bbd986542409e59a0a14956a942dc37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrankEnergy",
+    "sanitizedSymbol": "CRANKENERGY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193158",
+    "lockerAddress": "0x35f83C0485eb99f2E39bb20bBeB71f84c5FCf915"
+  },
+  "clankerInfo": null
+}

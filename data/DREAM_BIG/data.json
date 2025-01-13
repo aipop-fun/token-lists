@@ -1,0 +1,22 @@
+{
+  "name": "Dream Big",
+  "symbol": "Dream Big",
+  "decimals": 18,
+  "description": "Dream Big is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dream%20Big",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dream Big",
+  "addresses": {
+    "8453": "0x005dfb689a6b3b7528b32716544f83b1a884d988"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dream Big",
+    "sanitizedSymbol": "DREAM_BIG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7d6d682795a5B704Fc5dDACaC91398C62B8B5416",
+    "lpNftId": "1299960",
+    "lockerAddress": "0x3db799465fD177834cb0261CCFb67C861b0fEE62"
+  },
+  "clankerInfo": null
+}

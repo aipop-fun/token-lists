@@ -1,0 +1,22 @@
+{
+  "name": "ChainGPT AI",
+  "symbol": "ChainGPT AI",
+  "decimals": 18,
+  "description": "ChainGPT AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChainGPT%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChainGPT AI",
+  "addresses": {
+    "8453": "0x28843b4ba955dae80d09224b8c7249647a9c95c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChainGPT AI",
+    "sanitizedSymbol": "CHAINGPT_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF8e015478Cd23f8c591DEb4c8e8213Ed1011bea2",
+    "lpNftId": "1304608",
+    "lockerAddress": "0xc2Ee0294beFC1e20D1CFf79CF4e70a42E0B07094"
+  },
+  "clankerInfo": null
+}

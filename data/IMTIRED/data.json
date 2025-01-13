@@ -1,0 +1,22 @@
+{
+  "name": "imtired",
+  "symbol": "imtired",
+  "decimals": 18,
+  "description": "imtired is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=imtired",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "imtired",
+  "addresses": {
+    "8453": "0x1b46f36b5a540b4cc29bbe687f4bca56329897d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "imtired",
+    "sanitizedSymbol": "IMTIRED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160613",
+    "lockerAddress": "0xe06adF7c43eA60437Fef28e279d49997837D7303"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Agent Evolution",
+  "symbol": "Agent Evolution",
+  "decimals": 18,
+  "description": "Agent Evolution is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20Evolution",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent Evolution",
+  "addresses": {
+    "8453": "0x13aaff34ccb3ca687db5e700507451e00cf62389"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent Evolution",
+    "sanitizedSymbol": "AGENT_EVOLUTION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157395",
+    "lockerAddress": "0x25d30034Fb2B7eF9690Aa39e1CF3A83F1d29303B"
+  },
+  "clankerInfo": null
+}

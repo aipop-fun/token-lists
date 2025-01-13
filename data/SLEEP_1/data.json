@@ -1,0 +1,22 @@
+{
+  "name": "sleep",
+  "symbol": "sleep",
+  "decimals": 18,
+  "description": "sleep is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sleep",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sleep",
+  "addresses": {
+    "8453": "0x212202cc11bd0a7058a078dc8fdb528e85e0d1d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sleep",
+    "sanitizedSymbol": "SLEEP_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217522",
+    "lockerAddress": "0x60F4923CCe73399f7e585858BA3636CD6bF4dba4"
+  },
+  "clankerInfo": null
+}

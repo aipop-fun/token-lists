@@ -1,0 +1,22 @@
+{
+  "name": "Qoo",
+  "symbol": "Qoo",
+  "decimals": 18,
+  "description": "Qoo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Qoo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Qoo",
+  "addresses": {
+    "8453": "0x1f2ec03607070f7b6e33f60994805f359d71d600"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Qoo",
+    "sanitizedSymbol": "QOO",
+    "created_at": "2024-12-09T09:05:25.114515",
+    "deployer": "0x1FdCd4B6fdFa83506C98924E9af1Bb549019Bd4b",
+    "lpNftId": "1385097",
+    "lockerAddress": "0x068868Ca7DA48a208c2EE7De2b8eCCC403c226E7"
+  },
+  "clankerInfo": null
+}

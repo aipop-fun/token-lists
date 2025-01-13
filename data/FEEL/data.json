@@ -1,0 +1,22 @@
+{
+  "name": "feel",
+  "symbol": "feel",
+  "decimals": 18,
+  "description": "feel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=feel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "feel",
+  "addresses": {
+    "8453": "0x3e274b4cb6ed0ce9a52a06413e1c3596c6556fd1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "feel",
+    "sanitizedSymbol": "FEEL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf2bB9a9E3B31d57723113FB8dC34AD8fDe6BE1a8",
+    "lpNftId": "1329196",
+    "lockerAddress": "0x2CfCF115b6B7949dFB14d41aF6aA6286e3E2742b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NanabCoin",
+  "symbol": "NanabCoin",
+  "decimals": 18,
+  "description": "NanabCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NanabCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NanabCoin",
+  "addresses": {
+    "8453": "0x229c08fe9a1993a505bc6a9ae91da866670ee494"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NanabCoin",
+    "sanitizedSymbol": "NANABCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2ff673a287a816fC4089CC51933f32E8C16fd416",
+    "lpNftId": "1292753",
+    "lockerAddress": "0xDc600B2e97665Abb2a61B8E7AE7944a6A55C8335"
+  },
+  "clankerInfo": null
+}

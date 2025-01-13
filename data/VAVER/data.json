@@ -1,0 +1,22 @@
+{
+  "name": "VAVER",
+  "symbol": "VAVER",
+  "decimals": 18,
+  "description": "VAVER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VAVER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VAVER",
+  "addresses": {
+    "8453": "0x2398426a53bf6601ee20334279136223ecc735db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VAVER",
+    "sanitizedSymbol": "VAVER",
+    "created_at": "2024-12-10T12:56:56.052594",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1401246",
+    "lockerAddress": "0x1820B9F6ccDC230BBe2D0e79f6065aB721e2e3cC"
+  },
+  "clankerInfo": null
+}

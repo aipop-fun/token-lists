@@ -1,0 +1,22 @@
+{
+  "name": "FRIENDLY",
+  "symbol": "FRIENDLY",
+  "decimals": 18,
+  "description": "FRIENDLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FRIENDLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FRIENDLY",
+  "addresses": {
+    "8453": "0x1c9a6596c838fecfe2d2b4d007282b4a061bf04d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FRIENDLY",
+    "sanitizedSymbol": "FRIENDLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202240",
+    "lockerAddress": "0x6eBB89F06f74D40Ba73a169d08E86FDCC52651A9"
+  },
+  "clankerInfo": null
+}

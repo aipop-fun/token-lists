@@ -1,0 +1,22 @@
+{
+  "name": "ALL IN REKT",
+  "symbol": "ALL IN REKT",
+  "decimals": 18,
+  "description": "ALL IN REKT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALL%20IN%20REKT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALL IN REKT",
+  "addresses": {
+    "8453": "0x3302a921eed3c8941bbf6b714454d6632a8958c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALL IN REKT",
+    "sanitizedSymbol": "ALL_IN_REKT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x915D5B9BfE21524a6b9f2b4A9D0252a1909E239f",
+    "lpNftId": "1318774",
+    "lockerAddress": "0xdA59834261e05daEEBcE299A04D04c2d91743501"
+  },
+  "clankerInfo": null
+}

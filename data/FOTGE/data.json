@@ -1,0 +1,22 @@
+{
+  "name": "FOTGE",
+  "symbol": "FOTGE",
+  "decimals": 18,
+  "description": "FOTGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOTGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOTGE",
+  "addresses": {
+    "8453": "0x07f9fae9e16ebc3d9f269ab30b0cb6058259581a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOTGE",
+    "sanitizedSymbol": "FOTGE",
+    "created_at": "2024-12-11T14:57:35.901325",
+    "deployer": "0xB613521DD073ac8d5a72CCd7126a944956966b19",
+    "lpNftId": "1420724",
+    "lockerAddress": "0x6c430eA8183f9A5db98FD2Eaa3b710377c9ff56F"
+  },
+  "clankerInfo": null
+}

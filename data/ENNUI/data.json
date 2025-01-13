@@ -1,0 +1,22 @@
+{
+  "name": "ENNUI",
+  "symbol": "ENNUI",
+  "decimals": 18,
+  "description": "ENNUI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ENNUI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ENNUI",
+  "addresses": {
+    "8453": "0x1a5b98d839e391837a7f6dbcfa88f4bf9f7e23b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ENNUI",
+    "sanitizedSymbol": "ENNUI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCb01992295F1997a56C957082fBf0471F563e2EA",
+    "lpNftId": "1318328",
+    "lockerAddress": "0x7c108DAB1d8f7Dd4c7cD9D476fcCD1956379DeB4"
+  },
+  "clankerInfo": null
+}

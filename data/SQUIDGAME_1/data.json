@@ -1,0 +1,22 @@
+{
+  "name": "SQUIDGAME",
+  "symbol": "SQUIDGAME",
+  "decimals": 18,
+  "description": "SQUIDGAME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SQUIDGAME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SQUIDGAME",
+  "addresses": {
+    "8453": "0x20e27976a1c6fbe92103f3aab43ba6b65395bca2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SQUIDGAME",
+    "sanitizedSymbol": "SQUIDGAME_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219981",
+    "lockerAddress": "0xfa7ee50898867BB40c0035914CF3238821fC5cDE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VladWifHat",
+  "symbol": "VladWifHat",
+  "decimals": 18,
+  "description": "VladWifHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VladWifHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VladWifHat",
+  "addresses": {
+    "8453": "0x1c154e33f0b498771957e2fea53dba6816fbba79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VladWifHat",
+    "sanitizedSymbol": "VLADWIFHAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229295",
+    "lockerAddress": "0xC8251041578d5d211A8FF6306e9709D7935eA4e3"
+  },
+  "clankerInfo": null
+}

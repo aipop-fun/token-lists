@@ -1,0 +1,22 @@
+{
+  "name": "WINGS",
+  "symbol": "WINGS",
+  "decimals": 18,
+  "description": "WINGS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WINGS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WINGS",
+  "addresses": {
+    "8453": "0x25802480128dc877f0c0a9f500812eb49b17c95e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WINGS",
+    "sanitizedSymbol": "WINGS",
+    "created_at": "2024-12-10T08:04:23.656787",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1398496",
+    "lockerAddress": "0x034138Ed3455E5016009373197950A013eb99e9b"
+  },
+  "clankerInfo": null
+}

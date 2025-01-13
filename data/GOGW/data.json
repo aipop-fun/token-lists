@@ -1,0 +1,22 @@
+{
+  "name": "GOGW",
+  "symbol": "GOGW",
+  "decimals": 18,
+  "description": "GOGW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOGW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOGW",
+  "addresses": {
+    "8453": "0x2aaad569d8b055d7d5229bb8c31ee663040a6807"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOGW",
+    "sanitizedSymbol": "GOGW",
+    "created_at": "2024-12-09T03:53:41.371681",
+    "deployer": "0x776959C49E33E6A424Bb709374Fd5e0a5f9D9cEE",
+    "lpNftId": "1380678",
+    "lockerAddress": "0xd958ACc385e74BAf68504e68F9D2eFE6EE84E142"
+  },
+  "clankerInfo": null
+}

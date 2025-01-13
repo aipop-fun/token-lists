@@ -1,0 +1,22 @@
+{
+  "name": "Hello December",
+  "symbol": "Hello December",
+  "decimals": 18,
+  "description": "Hello December is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello%20December",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello December",
+  "addresses": {
+    "8453": "0x30b2a083ca5663b5aa3dad4becafadbed737b253"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello December",
+    "sanitizedSymbol": "HELLO_DECEMBER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x626BdB052909752bc5DEc9216fED82C4FF88ABDA",
+    "lpNftId": "1273005",
+    "lockerAddress": "0x099212F15a210d8909D0207Fa2B2370FFF2969f2"
+  },
+  "clankerInfo": null
+}

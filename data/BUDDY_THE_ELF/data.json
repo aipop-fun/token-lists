@@ -1,0 +1,22 @@
+{
+  "name": "Buddy The Elf",
+  "symbol": "Buddy The Elf",
+  "decimals": 18,
+  "description": "Buddy The Elf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Buddy%20The%20Elf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Buddy The Elf",
+  "addresses": {
+    "8453": "0x3c17670084f5a6adce31ef637e81615ae4402dda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Buddy The Elf",
+    "sanitizedSymbol": "BUDDY_THE_ELF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229784",
+    "lockerAddress": "0x536D096c061e3a3760c17235dDCf82A0df08D43E"
+  },
+  "clankerInfo": null
+}

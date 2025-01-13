@@ -1,0 +1,22 @@
+{
+  "name": "Mew",
+  "symbol": "Mew",
+  "decimals": 18,
+  "description": "Mew is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mew",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mew",
+  "addresses": {
+    "8453": "0x06865a08899b4753e4252e7ccd7f45e3d2ea08f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mew",
+    "sanitizedSymbol": "MEW",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB4bCd07A199d6BF0c5a37C4C4DBB566d4A2ed917",
+    "lpNftId": "1305396",
+    "lockerAddress": "0xb3e7c987a0AA14565019c2Eb8fc3c54C3142a60c"
+  },
+  "clankerInfo": null
+}

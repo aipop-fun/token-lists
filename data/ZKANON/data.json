@@ -1,0 +1,22 @@
+{
+  "name": "ZKANON",
+  "symbol": "ZKANON",
+  "decimals": 18,
+  "description": "ZKANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZKANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZKANON",
+  "addresses": {
+    "8453": "0x0b8a2fa75e584c71f2be2aebe33007d15a01c59b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZKANON",
+    "sanitizedSymbol": "ZKANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd61FA7454b484cbAA69a7f7c04b3610FbcF2514B",
+    "lpNftId": "1321205",
+    "lockerAddress": "0xF132bc23EDbe818e702C806D089Ddd940B035940"
+  },
+  "clankerInfo": null
+}

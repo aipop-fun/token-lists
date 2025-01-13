@@ -1,0 +1,22 @@
+{
+  "name": "Anime in Base",
+  "symbol": "Anime in Base",
+  "decimals": 18,
+  "description": "Anime in Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anime%20in%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anime in Base",
+  "addresses": {
+    "8453": "0x2133dff34323ac9b52352411e7c42febdbc0a55c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anime in Base",
+    "sanitizedSymbol": "ANIME_IN_BASE",
+    "created_at": "2024-12-09T10:37:59.457082",
+    "deployer": "0x0Dd29A896E1f200efDF2f6DF76D27E23df04413d",
+    "lpNftId": "1385947",
+    "lockerAddress": "0x3296f5487242EF3348790Bbd23a2d6C75618f121"
+  },
+  "clankerInfo": null
+}

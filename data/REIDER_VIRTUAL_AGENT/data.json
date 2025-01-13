@@ -1,0 +1,22 @@
+{
+  "name": "Reider Virtual Agent",
+  "symbol": "Reider Virtual Agent",
+  "decimals": 18,
+  "description": "Reider Virtual Agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reider%20Virtual%20Agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reider Virtual Agent",
+  "addresses": {
+    "8453": "0x1ff55f36f3a4a272eebc00340bf1761182d6a2d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reider Virtual Agent",
+    "sanitizedSymbol": "REIDER_VIRTUAL_AGENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8f7E58C9dCa2A42E4F7b677Cd298de2E05462214",
+    "lpNftId": "1305940",
+    "lockerAddress": "0x438c36AFd9321413ca718B647e1e58cc97B75eeF"
+  },
+  "clankerInfo": null
+}

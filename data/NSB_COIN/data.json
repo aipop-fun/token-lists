@@ -1,0 +1,22 @@
+{
+  "name": "NSB Coin",
+  "symbol": "NSB Coin",
+  "decimals": 18,
+  "description": "NSB Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NSB%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NSB Coin",
+  "addresses": {
+    "8453": "0x1ffc4365a5798e877155edb57b9b1e640cbe4f0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NSB Coin",
+    "sanitizedSymbol": "NSB_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210313",
+    "lockerAddress": "0xCe3d35278FaAF4266A16E8295CfFc961c4AD0d4C"
+  },
+  "clankerInfo": null
+}

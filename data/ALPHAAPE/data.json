@@ -1,0 +1,22 @@
+{
+  "name": "ALPHAAPE",
+  "symbol": "ALPHAAPE",
+  "decimals": 18,
+  "description": "ALPHAAPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALPHAAPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALPHAAPE",
+  "addresses": {
+    "8453": "0x2b6a21383cf6f211287b8a88bbf7d350cc2e2762"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALPHAAPE",
+    "sanitizedSymbol": "ALPHAAPE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196039",
+    "lockerAddress": "0xA7C1D7c07B039e98D2CC5964A80b07fce466031B"
+  },
+  "clankerInfo": null
+}

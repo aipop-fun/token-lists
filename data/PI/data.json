@@ -1,0 +1,22 @@
+{
+  "name": "PI",
+  "symbol": "PI",
+  "decimals": 18,
+  "description": "PI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PI",
+  "addresses": {
+    "8453": "0x08c5be5c5852fbea821448f91551f9d38027d6d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PI",
+    "sanitizedSymbol": "PI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1249960",
+    "lockerAddress": "0x13Ce35DCA384f156B2B215f06F88d276d81f9f3B"
+  },
+  "clankerInfo": null
+}

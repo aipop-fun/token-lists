@@ -1,0 +1,22 @@
+{
+  "name": "Weird",
+  "symbol": "Weird",
+  "decimals": 18,
+  "description": "Weird is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weird",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weird",
+  "addresses": {
+    "8453": "0x23cc23a4dd93db5d1e6b62df0b50386e6a1f5fab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weird",
+    "sanitizedSymbol": "WEIRD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119889",
+    "lockerAddress": "0x3D6214376FFfD85527EBbA9017FDA1DEf5e852a6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Silphium",
+  "symbol": "Silphium",
+  "decimals": 18,
+  "description": "Silphium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Silphium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Silphium",
+  "addresses": {
+    "8453": "0x3d2ba9526fd6ce67d7b96aa7b2aad729da81feea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Silphium",
+    "sanitizedSymbol": "SILPHIUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156828",
+    "lockerAddress": "0x70Fe34Ae9dD288A8BeA7f01a40E2B3a4A4439016"
+  },
+  "clankerInfo": null
+}

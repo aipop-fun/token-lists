@@ -1,0 +1,22 @@
+{
+  "name": "BABLU",
+  "symbol": "BABLU",
+  "decimals": 18,
+  "description": "BABLU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABLU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABLU",
+  "addresses": {
+    "8453": "0x39e97965d4167c5c991e5e27dd22dc68718953a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABLU",
+    "sanitizedSymbol": "BABLU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237274",
+    "lockerAddress": "0xC8Ed8Aa498c73A04323f596C743C6D8e80d2d0b9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WOWSUX",
+  "symbol": "WOWSUX",
+  "decimals": 18,
+  "description": "WOWSUX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WOWSUX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WOWSUX",
+  "addresses": {
+    "8453": "0x3b37336bf8dbbf5acba7f006f953ad3606d0f0c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WOWSUX",
+    "sanitizedSymbol": "WOWSUX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194458",
+    "lockerAddress": "0xA254A201218F0b6E59f59F87c32E0D20e4f69c98"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "crazygamer",
+  "symbol": "crazygamer",
+  "decimals": 18,
+  "description": "crazygamer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crazygamer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crazygamer",
+  "addresses": {
+    "8453": "0x26199ef0f8ff8a1427eb7cba65fdb88d527f6e21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crazygamer",
+    "sanitizedSymbol": "CRAZYGAMER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC1fe9bd63c85f3504A168774C10BC0dddA321D1b",
+    "lpNftId": "1326513",
+    "lockerAddress": "0xCB9cF8C0453e5F4983484Af9a535fb043fa49C12"
+  },
+  "clankerInfo": null
+}

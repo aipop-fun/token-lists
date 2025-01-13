@@ -1,0 +1,22 @@
+{
+  "name": "ORANGE",
+  "symbol": "ORANGE",
+  "decimals": 18,
+  "description": "ORANGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ORANGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ORANGE",
+  "addresses": {
+    "8453": "0x236e8c92a6326ea56de0f082da9c10891c46314a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ORANGE",
+    "sanitizedSymbol": "ORANGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9837203C20d15989a3C4852e5d07E1a7A98CFE14",
+    "lpNftId": "1285521",
+    "lockerAddress": "0x3dAa65A36D1542D8A2CB5b59Bf98742fb450248F"
+  },
+  "clankerInfo": null
+}

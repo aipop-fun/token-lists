@@ -1,0 +1,22 @@
+{
+  "name": "WTFsheep",
+  "symbol": "WTFsheep",
+  "decimals": 18,
+  "description": "WTFsheep is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WTFsheep",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WTFsheep",
+  "addresses": {
+    "8453": "0x372ee91943e2eda90b5593c352ff53d52166e998"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WTFsheep",
+    "sanitizedSymbol": "WTFSHEEP",
+    "created_at": "2024-12-09T08:00:05.420574",
+    "deployer": "0x08B2dDb67AbE415b1B9027c24012464095ff338b",
+    "lpNftId": "1384560",
+    "lockerAddress": "0xEFe0E4ee1D0D886a84572de3E9D39a10d9464e07"
+  },
+  "clankerInfo": null
+}

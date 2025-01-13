@@ -1,0 +1,22 @@
+{
+  "name": "LittleWeeWee",
+  "symbol": "LittleWeeWee",
+  "decimals": 18,
+  "description": "LittleWeeWee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LittleWeeWee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LittleWeeWee",
+  "addresses": {
+    "8453": "0x3add04f94a0a73e03be33f37ed5c9a88e68463b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LittleWeeWee",
+    "sanitizedSymbol": "LITTLEWEEWEE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202354",
+    "lockerAddress": "0xfc0B108b6d4721c4150077EE11e8d90DC4666E61"
+  },
+  "clankerInfo": null
+}

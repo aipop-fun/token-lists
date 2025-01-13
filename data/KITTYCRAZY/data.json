@@ -1,0 +1,22 @@
+{
+  "name": "KittyCrazy",
+  "symbol": "KittyCrazy",
+  "decimals": 18,
+  "description": "KittyCrazy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KittyCrazy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KittyCrazy",
+  "addresses": {
+    "8453": "0x237c66c63af770bde2619836804f52ef1e2d6c08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KittyCrazy",
+    "sanitizedSymbol": "KITTYCRAZY",
+    "created_at": "2024-12-11T04:40:09.302169",
+    "deployer": "0xA5a56fA7C20E24695dC271F346016D8dA24c68a3",
+    "lpNftId": "1412660",
+    "lockerAddress": "0x823648cC62435eb6D65de3cc35e7353914431088"
+  },
+  "clankerInfo": null
+}

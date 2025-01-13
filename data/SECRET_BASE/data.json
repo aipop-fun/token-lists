@@ -1,0 +1,22 @@
+{
+  "name": "Secret Base",
+  "symbol": "Secret Base",
+  "decimals": 18,
+  "description": "Secret Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Secret%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Secret Base",
+  "addresses": {
+    "8453": "0x1f840519456a0f268b837dbf0a93a8c5b5a5432b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Secret Base",
+    "sanitizedSymbol": "SECRET_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234346",
+    "lockerAddress": "0x0210AA2316829f20814042D7E7AD8EdC29a7E44e"
+  },
+  "clankerInfo": null
+}

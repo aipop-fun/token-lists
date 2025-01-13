@@ -1,0 +1,22 @@
+{
+  "name": "Weary Token",
+  "symbol": "Weary Token",
+  "decimals": 18,
+  "description": "Weary Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weary%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weary Token",
+  "addresses": {
+    "8453": "0x383b27cee9d70bffe5b6d40e39706d0f5ef19849"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weary Token",
+    "sanitizedSymbol": "WEARY_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123306",
+    "lockerAddress": "0x44cf061899Faf9b79981199364004932AF6a7388"
+  },
+  "clankerInfo": null
+}

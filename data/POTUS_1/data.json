@@ -1,0 +1,22 @@
+{
+  "name": "Potus",
+  "symbol": "Potus",
+  "decimals": 18,
+  "description": "Potus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Potus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Potus",
+  "addresses": {
+    "8453": "0x415c03266cf5ab3da1182284d60432331460928a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Potus",
+    "sanitizedSymbol": "POTUS_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1214367",
+    "lockerAddress": "0x893D67bC60B30731b253171F551a395f635B8Ece"
+  },
+  "clankerInfo": null
+}

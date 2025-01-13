@@ -1,0 +1,22 @@
+{
+  "name": "Dumbb",
+  "symbol": "Dumbb",
+  "decimals": 18,
+  "description": "Dumbb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dumbb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dumbb",
+  "addresses": {
+    "8453": "0x013340b23d19735102ab39924c3f114dad990a5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dumbb",
+    "sanitizedSymbol": "DUMBB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231723",
+    "lockerAddress": "0x801992775B7D0669c6aBfC8aB970CF4294FeF920"
+  },
+  "clankerInfo": null
+}

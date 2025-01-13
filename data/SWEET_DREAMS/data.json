@@ -1,0 +1,22 @@
+{
+  "name": "Sweet Dreams",
+  "symbol": "Sweet Dreams",
+  "decimals": 18,
+  "description": "Sweet Dreams is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sweet%20Dreams",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sweet Dreams",
+  "addresses": {
+    "8453": "0x404bb468188ea15e332347b277c09710d9919c0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sweet Dreams",
+    "sanitizedSymbol": "SWEET_DREAMS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6506e31b88422251354d9deb63a904D90Acd8996",
+    "lpNftId": "1293428",
+    "lockerAddress": "0x8186d035eC5d46ab55d43EE202E84544d61D495E"
+  },
+  "clankerInfo": null
+}

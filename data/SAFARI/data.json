@@ -1,0 +1,22 @@
+{
+  "name": "safari",
+  "symbol": "safari",
+  "decimals": 18,
+  "description": "safari is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=safari",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "safari",
+  "addresses": {
+    "8453": "0x36eab1b88a6d78449ae32c2f15860d867df46507"
+  },
+  "tokenInfo": {
+    "originalSymbol": "safari",
+    "sanitizedSymbol": "SAFARI",
+    "created_at": "2024-12-10T21:29:25.468361",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1407340",
+    "lockerAddress": "0xD98b648fFB406242870eF517B6A17aB9e47CcE43"
+  },
+  "clankerInfo": null
+}

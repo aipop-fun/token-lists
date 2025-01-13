@@ -1,0 +1,22 @@
+{
+  "name": "SUPER",
+  "symbol": "SUPER",
+  "decimals": 18,
+  "description": "SUPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPER",
+  "addresses": {
+    "8453": "0x2c956bf640c101a4a5c6d9f8c7131def01bf5251"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPER",
+    "sanitizedSymbol": "SUPER_3",
+    "created_at": "2024-12-12T17:13:54.779647",
+    "deployer": "0x467881872B0d26452e47D749E45DAc7A195A68b6",
+    "lpNftId": "1439224",
+    "lockerAddress": "0x6b5891fC46c6D7e5Afb4643ABB5C6344F6f81F5b"
+  },
+  "clankerInfo": null
+}

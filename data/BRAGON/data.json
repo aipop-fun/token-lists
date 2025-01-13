@@ -1,0 +1,22 @@
+{
+  "name": "Bragon",
+  "symbol": "Bragon",
+  "decimals": 18,
+  "description": "Bragon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bragon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bragon",
+  "addresses": {
+    "8453": "0x27ad8d43161d91bed10b15bdd3cd9d05b17c86a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bragon",
+    "sanitizedSymbol": "BRAGON",
+    "created_at": "2024-12-12T00:26:23.414913",
+    "deployer": "0x12f98eAd4d2d93982AF945F6608967fFB51692E7",
+    "lpNftId": "1428144",
+    "lockerAddress": "0x5c842a387C439af0c6a557b07a4b100012ADEE85"
+  },
+  "clankerInfo": null
+}

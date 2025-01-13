@@ -1,0 +1,22 @@
+{
+  "name": "chillguy",
+  "symbol": "chillguy",
+  "decimals": 18,
+  "description": "chillguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillguy",
+  "addresses": {
+    "8453": "0x03d7335154c50e83abcd40c2d7cfad6db194d849"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillguy",
+    "sanitizedSymbol": "CHILLGUY_4",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231722",
+    "lockerAddress": "0x468e079e7dC14a6a1B922Ef42E2aEF2573e78741"
+  },
+  "clankerInfo": null
+}

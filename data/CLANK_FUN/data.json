@@ -1,0 +1,22 @@
+{
+  "name": "Clank Fun",
+  "symbol": "Clank Fun",
+  "decimals": 18,
+  "description": "Clank Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Fun",
+  "addresses": {
+    "8453": "0x14e295e1e791daeb77f7d537cfe969eace33a25d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Fun",
+    "sanitizedSymbol": "CLANK_FUN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4b012ea2E7ce01097ec3E40B95ce18b0a19A4315",
+    "lpNftId": "1287732",
+    "lockerAddress": "0x1233E7FC03Ae34cD5b4C6B281304De86dF3328Df"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VertigoToken",
+  "symbol": "VertigoToken",
+  "decimals": 18,
+  "description": "VertigoToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VertigoToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VertigoToken",
+  "addresses": {
+    "8453": "0x121adb4e5cf5bd34198303a1121c02a4dee6399e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VertigoToken",
+    "sanitizedSymbol": "VERTIGOTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118313",
+    "lockerAddress": "0xf67140353b7c0A67462E6BA6C54919B09b39fD69"
+  },
+  "clankerInfo": null
+}

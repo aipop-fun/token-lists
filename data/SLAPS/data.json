@@ -1,0 +1,22 @@
+{
+  "name": "SLAPS",
+  "symbol": "SLAPS",
+  "decimals": 18,
+  "description": "SLAPS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLAPS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLAPS",
+  "addresses": {
+    "8453": "0x0f161ae72fcb0b31d7d1e297e54e974662b75887"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLAPS",
+    "sanitizedSymbol": "SLAPS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161856",
+    "lockerAddress": "0xebADe6b3e0eBaDD824B0700B97BF958a1f9a05CE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kiwis",
+  "symbol": "Kiwis",
+  "decimals": 18,
+  "description": "Kiwis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kiwis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kiwis",
+  "addresses": {
+    "8453": "0x115b304ce9458183718a01c0446c628fe23a12cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kiwis",
+    "sanitizedSymbol": "KIWIS",
+    "created_at": "2024-12-11T06:10:18.276595",
+    "deployer": "0x6DfAb7ff09c3C601cc6b1881aa0385163589c7ec",
+    "lpNftId": "1413805",
+    "lockerAddress": "0x7979b3E113f9F288AfBD4502d9fC55649e749C2e"
+  },
+  "clankerInfo": null
+}

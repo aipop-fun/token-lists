@@ -1,0 +1,22 @@
+{
+  "name": "GEEK",
+  "symbol": "GEEK",
+  "decimals": 18,
+  "description": "GEEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GEEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GEEK",
+  "addresses": {
+    "8453": "0x33feb7d8622ebb3eed7cdf62ab3a614c6122840e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GEEK",
+    "sanitizedSymbol": "GEEK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225126",
+    "lockerAddress": "0x1b5277B2Fc10DdE38Cb42db9d00dDD40A45cBfFF"
+  },
+  "clankerInfo": null
+}

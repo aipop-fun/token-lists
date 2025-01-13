@@ -1,0 +1,22 @@
+{
+  "name": "TheGodfather",
+  "symbol": "TheGodfather",
+  "decimals": 18,
+  "description": "TheGodfather is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TheGodfather",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TheGodfather",
+  "addresses": {
+    "8453": "0x1b02a905f50efd400b27aaf9860dd25dc108a6a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TheGodfather",
+    "sanitizedSymbol": "THEGODFATHER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7631db2f9Ab8EfEbF9C358D2BDDBb61EcFf74C6D",
+    "lpNftId": "1284103",
+    "lockerAddress": "0xB1aadF9ba7cDd691Cf8237dC734f4426A0885B3a"
+  },
+  "clankerInfo": null
+}

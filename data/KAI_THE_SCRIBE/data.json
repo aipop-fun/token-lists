@@ -1,0 +1,22 @@
+{
+  "name": "Kai the Scribe",
+  "symbol": "Kai the Scribe",
+  "decimals": 18,
+  "description": "Kai the Scribe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kai%20the%20Scribe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kai the Scribe",
+  "addresses": {
+    "8453": "0x2c834b9794a20afa6dfc9710473d4a532caa48c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kai the Scribe",
+    "sanitizedSymbol": "KAI_THE_SCRIBE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe5414ccba3B083b56930d7037625Fa734568Da1a",
+    "lpNftId": "1347041",
+    "lockerAddress": "0x3D1012eB7F0Acb44c3F40cd0BE8bE37A1BCD6293"
+  },
+  "clankerInfo": null
+}

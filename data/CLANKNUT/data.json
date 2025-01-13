@@ -1,0 +1,22 @@
+{
+  "name": "Clanknut",
+  "symbol": "Clanknut",
+  "decimals": 18,
+  "description": "Clanknut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanknut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanknut",
+  "addresses": {
+    "8453": "0x2c1b206eb4836c71f9f777f745ab110ec339cef4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanknut",
+    "sanitizedSymbol": "CLANKNUT",
+    "created_at": "2024-12-10T04:19:13.095228",
+    "deployer": "0x18b244ed1bDef56Bed6b01A5Ce64e31Ce0DE3788",
+    "lpNftId": "1396208",
+    "lockerAddress": "0x3baf91f864a803795DAA2fDEF3473bd0C40f29b4"
+  },
+  "clankerInfo": null
+}

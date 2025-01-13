@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Monster",
+  "symbol": "Clanker Monster",
+  "decimals": 18,
+  "description": "Clanker Monster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Monster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Monster",
+  "addresses": {
+    "8453": "0x38d8429d2d995a0d29acce2ec99f13f060141585"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Monster",
+    "sanitizedSymbol": "CLANKER_MONSTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1367158",
+    "lockerAddress": "0x19fb9CB4c29413B1c02D8d79AE38a82A902F228F"
+  },
+  "clankerInfo": null
+}

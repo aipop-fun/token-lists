@@ -1,0 +1,22 @@
+{
+  "name": "SniperFC",
+  "symbol": "SniperFC",
+  "decimals": 18,
+  "description": "SniperFC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SniperFC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SniperFC",
+  "addresses": {
+    "8453": "0x31721fecac89c6881420daf391d9a180aac423f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SniperFC",
+    "sanitizedSymbol": "SNIPERFC",
+    "created_at": "2024-12-09T16:28:25.918114",
+    "deployer": "0xB9aA0A5916298C90211834a74b3723AA10C7a2bf",
+    "lpNftId": "1389221",
+    "lockerAddress": "0xfe9F0F289eA53F53c454A25C66aB9482EE398891"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wrapcastdog",
+  "symbol": "wrapcastdog",
+  "decimals": 18,
+  "description": "wrapcastdog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wrapcastdog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wrapcastdog",
+  "addresses": {
+    "8453": "0x066985fbaed61bb962a300c276c3c08d6a6f00b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wrapcastdog",
+    "sanitizedSymbol": "WRAPCASTDOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x53ae1C859F339B09c28fcC44B35A7Ec69316821E",
+    "lpNftId": "1330295",
+    "lockerAddress": "0x598a78ab98Cf5dEa854C56d3a3b26a41E29b72bA"
+  },
+  "clankerInfo": null
+}

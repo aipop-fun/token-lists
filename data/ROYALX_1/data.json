@@ -1,0 +1,22 @@
+{
+  "name": "ROYALX",
+  "symbol": "ROYALX",
+  "decimals": 18,
+  "description": "ROYALX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROYALX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROYALX",
+  "addresses": {
+    "8453": "0x2487816b3f68b05bdfada59ef5ef9afba59f40a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROYALX",
+    "sanitizedSymbol": "ROYALX_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcfF81aa6F77bE0E0Dc154Dc409707534F11524ac",
+    "lpNftId": "1325192",
+    "lockerAddress": "0xAAF7bDf9d44aF65223057F7521B258A2fFA324D7"
+  },
+  "clankerInfo": null
+}

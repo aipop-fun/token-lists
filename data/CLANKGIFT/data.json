@@ -1,0 +1,22 @@
+{
+  "name": "ClankGift",
+  "symbol": "ClankGift",
+  "decimals": 18,
+  "description": "ClankGift is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankGift",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankGift",
+  "addresses": {
+    "8453": "0x39f6a010fca21f59b90f6046dd094d9c2ad4dd45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankGift",
+    "sanitizedSymbol": "CLANKGIFT",
+    "created_at": "2024-12-10T05:18:00.04626",
+    "deployer": "0x0aeE5a4340817191af6ab929C4B79402dC368108",
+    "lpNftId": "1396838",
+    "lockerAddress": "0x61A6599A805e12A7700ce9a7425bDA09da58d33D"
+  },
+  "clankerInfo": null
+}

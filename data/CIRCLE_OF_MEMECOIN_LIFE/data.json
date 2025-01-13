@@ -1,0 +1,22 @@
+{
+  "name": "Circle of Memecoin Life",
+  "symbol": "Circle of Memecoin Life",
+  "decimals": 18,
+  "description": "Circle of Memecoin Life is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Circle%20of%20Memecoin%20Life",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Circle of Memecoin Life",
+  "addresses": {
+    "8453": "0x322a23c24717773970133faead46e8ce71fdd6e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Circle of Memecoin Life",
+    "sanitizedSymbol": "CIRCLE_OF_MEMECOIN_LIFE",
+    "created_at": "2024-12-10T22:24:34.761882",
+    "deployer": "0x0de290F9717764641B9694C246338A477Cff9543",
+    "lpNftId": "1407937",
+    "lockerAddress": "0x4671d3463Eae5a3f08189a07421F2729f1D89FdB"
+  },
+  "clankerInfo": null
+}

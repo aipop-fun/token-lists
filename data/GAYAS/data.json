@@ -1,0 +1,22 @@
+{
+  "name": "GAYAS",
+  "symbol": "GAYAS",
+  "decimals": 18,
+  "description": "GAYAS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAYAS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAYAS",
+  "addresses": {
+    "8453": "0x3bb38581017e4c1ef0c3b2a2863272422700e468"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAYAS",
+    "sanitizedSymbol": "GAYAS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163594",
+    "lockerAddress": "0x58967dCC6f286e7457F93FE9c3a4c8AB48A7d7D8"
+  },
+  "clankerInfo": null
+}

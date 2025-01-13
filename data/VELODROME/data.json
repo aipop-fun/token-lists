@@ -1,0 +1,22 @@
+{
+  "name": "VELODROME",
+  "symbol": "VELODROME",
+  "decimals": 18,
+  "description": "VELODROME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VELODROME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VELODROME",
+  "addresses": {
+    "8453": "0x1b61b52585d6ae465e6063089b5f578c7a3f05a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VELODROME",
+    "sanitizedSymbol": "VELODROME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1320298",
+    "lockerAddress": "0x913Dd3d6B2AD0c1642D7d805a1BA7324105B0023"
+  },
+  "clankerInfo": null
+}

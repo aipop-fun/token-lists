@@ -1,0 +1,22 @@
+{
+  "name": "digital eden",
+  "symbol": "digital eden",
+  "decimals": 18,
+  "description": "digital eden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=digital%20eden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "digital eden",
+  "addresses": {
+    "8453": "0x065506a1a594df823f63acd134767aad5ba296a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "digital eden",
+    "sanitizedSymbol": "DIGITAL_EDEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230999",
+    "lockerAddress": "0xDb2eb0c6eA7aEc16D10F0913e0F9A0E5ae744C34"
+  },
+  "clankerInfo": null
+}

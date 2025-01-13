@@ -1,0 +1,22 @@
+{
+  "name": "Towels",
+  "symbol": "Towels",
+  "decimals": 18,
+  "description": "Towels is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Towels",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Towels",
+  "addresses": {
+    "8453": "0x06da015022d36b3a9bcd11b3a1b73d646ecb4e32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Towels",
+    "sanitizedSymbol": "TOWELS",
+    "created_at": "2024-12-10T08:27:07.046426",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1398793",
+    "lockerAddress": "0x1faD304F31e7E4c19A1091374cd8E436e4eB2440"
+  },
+  "clankerInfo": null
+}

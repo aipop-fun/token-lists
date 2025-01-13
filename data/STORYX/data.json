@@ -1,0 +1,22 @@
+{
+  "name": "StoryX",
+  "symbol": "StoryX",
+  "decimals": 18,
+  "description": "StoryX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StoryX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StoryX",
+  "addresses": {
+    "8453": "0x049e63cca2cb7ba7e09c600c93d12322c6504db4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StoryX",
+    "sanitizedSymbol": "STORYX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C5aF5FFE13e7BE9bFeF1862e6F80769c69a9206",
+    "lpNftId": "1285473",
+    "lockerAddress": "0x5E96e41cE8b136B3c08b56bd387ED67fFb53082d"
+  },
+  "clankerInfo": null
+}

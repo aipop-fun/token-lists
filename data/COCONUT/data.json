@@ -1,0 +1,22 @@
+{
+  "name": "COCONUT",
+  "symbol": "COCONUT",
+  "decimals": 18,
+  "description": "COCONUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COCONUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COCONUT",
+  "addresses": {
+    "8453": "0x200cac2676dc870adef9a2752958c39c4dee45b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COCONUT",
+    "sanitizedSymbol": "COCONUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1301530",
+    "lockerAddress": "0xE460AC3de5c064Fc742215962AB4e0713C69176c"
+  },
+  "clankerInfo": null
+}

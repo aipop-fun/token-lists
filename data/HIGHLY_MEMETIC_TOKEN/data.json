@@ -1,0 +1,22 @@
+{
+  "name": "Highly Memetic Token",
+  "symbol": "Highly Memetic Token",
+  "decimals": 18,
+  "description": "Highly Memetic Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Highly%20Memetic%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Highly Memetic Token",
+  "addresses": {
+    "8453": "0x21876eb3780b29a3ad675fd90a6c81aebef7bada"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Highly Memetic Token",
+    "sanitizedSymbol": "HIGHLY_MEMETIC_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218825",
+    "lockerAddress": "0xaB141CFCCd63A37e040B4d1a3fDDD9658Dba1792"
+  },
+  "clankerInfo": null
+}

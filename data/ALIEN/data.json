@@ -1,0 +1,22 @@
+{
+  "name": "ALIEN",
+  "symbol": "ALIEN",
+  "decimals": 18,
+  "description": "ALIEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALIEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALIEN",
+  "addresses": {
+    "8453": "0x3e959da474051b8916e8d6f0b4c2dfc40744e246"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALIEN",
+    "sanitizedSymbol": "ALIEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1370719",
+    "lockerAddress": "0x4A307896cb20D26FF96913E96cbaf306aBd254A8"
+  },
+  "clankerInfo": null
+}

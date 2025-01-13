@@ -1,0 +1,22 @@
+{
+  "name": "OGPNUT",
+  "symbol": "OGPNUT",
+  "decimals": 18,
+  "description": "OGPNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OGPNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OGPNUT",
+  "addresses": {
+    "8453": "0x141d9c2e62b21af23274271bd666868eb96a6260"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OGPNUT",
+    "sanitizedSymbol": "OGPNUT_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5c509B6B77BBEd2d819B1155A0E88481a3C947c0",
+    "lpNftId": "1320714",
+    "lockerAddress": "0x5186B65AB43e5508d1304583bD424565aaE87f3E"
+  },
+  "clankerInfo": null
+}

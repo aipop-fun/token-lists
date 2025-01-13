@@ -1,0 +1,22 @@
+{
+  "name": "SFWOGHAT",
+  "symbol": "SFWOGHAT",
+  "decimals": 18,
+  "description": "SFWOGHAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SFWOGHAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SFWOGHAT",
+  "addresses": {
+    "8453": "0x3a7b2170ee5f41da370877feacf29552d2056158"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SFWOGHAT",
+    "sanitizedSymbol": "SFWOGHAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1326696",
+    "lockerAddress": "0x931161929a048646792591b58fE071aE39eADB2a"
+  },
+  "clankerInfo": null
+}

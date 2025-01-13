@@ -1,0 +1,22 @@
+{
+  "name": "Caveman",
+  "symbol": "Caveman",
+  "decimals": 18,
+  "description": "Caveman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caveman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caveman",
+  "addresses": {
+    "8453": "0x08c6aa61f62f33e1a1f07299f8c6bc8f489fddbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caveman",
+    "sanitizedSymbol": "CAVEMAN",
+    "created_at": "2024-12-10T17:48:37.31322",
+    "deployer": "0xf06D1aDE3C5EB057B95CEd418072139673a58F73",
+    "lpNftId": "1404997",
+    "lockerAddress": "0x46698466E6D76EB61263e624D6c11b98620DD142"
+  },
+  "clankerInfo": null
+}

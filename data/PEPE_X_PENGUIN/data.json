@@ -1,0 +1,22 @@
+{
+  "name": "pepe x penguin",
+  "symbol": "pepe x penguin",
+  "decimals": 18,
+  "description": "pepe x penguin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pepe%20x%20penguin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pepe x penguin",
+  "addresses": {
+    "8453": "0x3edf1891c3738918f791f9e580bfb4116a2a5575"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pepe x penguin",
+    "sanitizedSymbol": "PEPE_X_PENGUIN",
+    "created_at": "2024-12-10T08:35:32.299178",
+    "deployer": "0x17cf66C63741a9d542bCe7744f34b2a62C06cb60",
+    "lpNftId": "1398841",
+    "lockerAddress": "0x1Ad227EF8A650962f67D696e56cdbdb0b3937481"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Magic Frog",
+  "symbol": "Magic Frog",
+  "decimals": 18,
+  "description": "Magic Frog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Frog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Frog",
+  "addresses": {
+    "8453": "0x1ac3c3af49e8c55e47759be4e689948c6520621b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Frog",
+    "sanitizedSymbol": "MAGIC_FROG",
+    "created_at": "2024-12-10T05:16:19.311796",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1396813",
+    "lockerAddress": "0xC8e6FdAC27a9b990D6472F64409B9c2953e933E4"
+  },
+  "clankerInfo": null
+}

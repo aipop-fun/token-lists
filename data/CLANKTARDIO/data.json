@@ -1,0 +1,22 @@
+{
+  "name": "Clanktardio",
+  "symbol": "Clanktardio",
+  "decimals": 18,
+  "description": "Clanktardio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanktardio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanktardio",
+  "addresses": {
+    "8453": "0x0f4375473d32550fae2658342a49315fb0daaa6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanktardio",
+    "sanitizedSymbol": "CLANKTARDIO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x47Af98B93b8F38D6Da4e66648e697F3415A24b1A",
+    "lpNftId": "1357479",
+    "lockerAddress": "0xc90714e55a359079915133849c958B29C62C1cb0"
+  },
+  "clankerInfo": null
+}

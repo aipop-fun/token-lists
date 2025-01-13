@@ -1,0 +1,22 @@
+{
+  "name": "Jingle Bunny",
+  "symbol": "Jingle Bunny",
+  "decimals": 18,
+  "description": "Jingle Bunny is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jingle%20Bunny",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jingle Bunny",
+  "addresses": {
+    "8453": "0x405d5f38b5ce5de6fc64feca903b4d2362c45b23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jingle Bunny",
+    "sanitizedSymbol": "JINGLE_BUNNY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x18dfa3913d966F2048F58f9513727DC2c1978e87",
+    "lpNftId": "1251507",
+    "lockerAddress": "0x3E8FbD937833e4DF189d5Aa4c43aa8c260fa127b"
+  },
+  "clankerInfo": null
+}

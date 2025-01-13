@@ -1,0 +1,22 @@
+{
+  "name": "Metric Fox",
+  "symbol": "Metric Fox",
+  "decimals": 18,
+  "description": "Metric Fox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Metric%20Fox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Metric Fox",
+  "addresses": {
+    "8453": "0x0f671a49ed57f689c72f1ecf675e536642e5ef9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Metric Fox",
+    "sanitizedSymbol": "METRIC_FOX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb925302278dd1CEBCa50Ed8F7583367e382B2a61",
+    "lpNftId": "1327878",
+    "lockerAddress": "0xcc2d44b66906DbEcfE5a1A2fBC6BC14D12161057"
+  },
+  "clankerInfo": null
+}

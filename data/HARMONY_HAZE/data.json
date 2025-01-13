@@ -1,0 +1,22 @@
+{
+  "name": "Harmony Haze",
+  "symbol": "Harmony Haze",
+  "decimals": 18,
+  "description": "Harmony Haze is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Harmony%20Haze",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Harmony Haze",
+  "addresses": {
+    "8453": "0x02013fc956263b5ac8cc3a91644b1621117ae719"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Harmony Haze",
+    "sanitizedSymbol": "HARMONY_HAZE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1332838",
+    "lockerAddress": "0xe4AC3471AE6EA60bbE2Ee82AdDBe80e32a4e7e62"
+  },
+  "clankerInfo": null
+}

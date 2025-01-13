@@ -1,0 +1,22 @@
+{
+  "name": "Ketamin",
+  "symbol": "Ketamin",
+  "decimals": 18,
+  "description": "Ketamin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ketamin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ketamin",
+  "addresses": {
+    "8453": "0x0ec13290173e0106536c7bb2f031e3684cf03924"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ketamin",
+    "sanitizedSymbol": "KETAMIN",
+    "created_at": "2024-12-12T07:15:13.423231",
+    "deployer": "0x932b4B4B172d70C6474b7e1640600fd29f1122B4",
+    "lpNftId": "1429706",
+    "lockerAddress": "0x1498bb1Ff517A0eA12Cd57e600B9F8165DcA7649"
+  },
+  "clankerInfo": null
+}

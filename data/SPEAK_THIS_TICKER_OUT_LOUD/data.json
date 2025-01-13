@@ -1,0 +1,22 @@
+{
+  "name": "Speak this ticker out loud!",
+  "symbol": "Speak this ticker out loud!",
+  "decimals": 18,
+  "description": "Speak this ticker out loud! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Speak%20this%20ticker%20out%20loud!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Speak this ticker out loud!",
+  "addresses": {
+    "8453": "0x3227e1ee59565e964ae1daac938f8527898bab7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Speak this ticker out loud!",
+    "sanitizedSymbol": "SPEAK_THIS_TICKER_OUT_LOUD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173431",
+    "lockerAddress": "0x4C1EB516cd1B10665CFfF6E59E404c46f5b3ffEa"
+  },
+  "clankerInfo": null
+}

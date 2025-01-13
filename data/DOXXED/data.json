@@ -1,0 +1,22 @@
+{
+  "name": "DOXXED",
+  "symbol": "DOXXED",
+  "decimals": 18,
+  "description": "DOXXED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOXXED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOXXED",
+  "addresses": {
+    "8453": "0x03fed4c5e90c6546fac3e58d47b8148b05e4e56d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOXXED",
+    "sanitizedSymbol": "DOXXED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151572",
+    "lockerAddress": "0x161dC6C12cF34b9e9911a8F2D6727c242329531a"
+  },
+  "clankerInfo": null
+}

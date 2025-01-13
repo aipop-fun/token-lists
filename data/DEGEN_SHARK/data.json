@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN SHARK",
+  "symbol": "DEGEN SHARK",
+  "decimals": 18,
+  "description": "DEGEN SHARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20SHARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN SHARK",
+  "addresses": {
+    "8453": "0x0b09168ebe4fb135bccf8007e9e5267c66c45ab3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN SHARK",
+    "sanitizedSymbol": "DEGEN_SHARK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA2c408956988672D64562A23bb0eD1d247a03B98",
+    "lpNftId": "1309380",
+    "lockerAddress": "0x97F306968aCA1691567B94ce6936F9EE8E7F93E1"
+  },
+  "clankerInfo": null
+}

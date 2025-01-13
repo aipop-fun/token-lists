@@ -1,0 +1,22 @@
+{
+  "name": "HOLDRanch",
+  "symbol": "HOLDRanch",
+  "decimals": 18,
+  "description": "HOLDRanch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOLDRanch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOLDRanch",
+  "addresses": {
+    "8453": "0x26939d8f481814bcc1e8a29f5ffc012753c4e279"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOLDRanch",
+    "sanitizedSymbol": "HOLDRANCH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x18EE5f41FF432eCB84ed0Eb210f95906A32b3D42",
+    "lpNftId": "1365836",
+    "lockerAddress": "0x28F50Cbc1316D58836F109978310019571c5FCE5"
+  },
+  "clankerInfo": null
+}

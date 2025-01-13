@@ -1,0 +1,22 @@
+{
+  "name": "NONA BASE",
+  "symbol": "NONA BASE",
+  "decimals": 18,
+  "description": "NONA BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NONA%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NONA BASE",
+  "addresses": {
+    "8453": "0x164bd943cc6e8785ab771564f5ad9b80a082e5a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NONA BASE",
+    "sanitizedSymbol": "NONA_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73D3a571A5cDFf6b6d8B6C5421f7C9812DBad4a3",
+    "lpNftId": "1291940",
+    "lockerAddress": "0x724Ac956b9D35410270efcf331984265d967Ce10"
+  },
+  "clankerInfo": null
+}

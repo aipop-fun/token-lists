@@ -1,0 +1,22 @@
+{
+  "name": "degenbaby",
+  "symbol": "degenbaby",
+  "decimals": 18,
+  "description": "degenbaby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degenbaby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degenbaby",
+  "addresses": {
+    "8453": "0x30dffd652e6f4d37af1b051c11f33743b1c53cbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degenbaby",
+    "sanitizedSymbol": "DEGENBABY",
+    "created_at": "2024-12-10T16:47:44.736496",
+    "deployer": "0xab8149790b9dcAA9B706321Dbf04c9849E827A05",
+    "lpNftId": "1404182",
+    "lockerAddress": "0x2FD9F4FE9B86c536A92FFC52728CC6697910a956"
+  },
+  "clankerInfo": null
+}

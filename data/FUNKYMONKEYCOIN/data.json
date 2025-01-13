@@ -1,0 +1,22 @@
+{
+  "name": "FunkyMonkeyCoin",
+  "symbol": "FunkyMonkeyCoin",
+  "decimals": 18,
+  "description": "FunkyMonkeyCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FunkyMonkeyCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FunkyMonkeyCoin",
+  "addresses": {
+    "8453": "0x217a3e94e509e578e4956bf336ff0875aa963ce9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FunkyMonkeyCoin",
+    "sanitizedSymbol": "FUNKYMONKEYCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173374",
+    "lockerAddress": "0xe8902427ac16749bBf98767FEDdea9B810F753da"
+  },
+  "clankerInfo": null
+}

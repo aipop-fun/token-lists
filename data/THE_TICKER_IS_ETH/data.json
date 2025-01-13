@@ -1,0 +1,22 @@
+{
+  "name": "The ticker is ETH",
+  "symbol": "The ticker is ETH",
+  "decimals": 18,
+  "description": "The ticker is ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20ticker%20is%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The ticker is ETH",
+  "addresses": {
+    "8453": "0x26ef50e479df5c00e08526df37ef701bef8259ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The ticker is ETH",
+    "sanitizedSymbol": "THE_TICKER_IS_ETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196285",
+    "lockerAddress": "0x885278A2F307d007eE414e1607820d8A1bd7C315"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bio AI",
+  "symbol": "Bio AI",
+  "decimals": 18,
+  "description": "Bio AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bio%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bio AI",
+  "addresses": {
+    "8453": "0x0ad9f26153a8a74c31fe57c3f9cb4f49f2b4163e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bio AI",
+    "sanitizedSymbol": "BIO_AI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221543",
+    "lockerAddress": "0x08283c62BA0235a2f5d7FFaf8234b7a4Ce774157"
+  },
+  "clankerInfo": null
+}

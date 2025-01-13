@@ -1,0 +1,22 @@
+{
+  "name": "Champs Chibi",
+  "symbol": "Champs Chibi",
+  "decimals": 18,
+  "description": "Champs Chibi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Champs%20Chibi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Champs Chibi",
+  "addresses": {
+    "8453": "0x2ae4cd79b95f928f42ee93203aa8c2b29358cf2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Champs Chibi",
+    "sanitizedSymbol": "CHAMPS_CHIBI",
+    "created_at": "2024-12-12T22:19:35.470532",
+    "deployer": "0x16FFCE9Ec6aab1020fc744ABe6de24d6B994873a",
+    "lpNftId": "1444499",
+    "lockerAddress": "0x96E76A8c05CF546f9849576a20e58e9b0143F5A0"
+  },
+  "clankerInfo": null
+}

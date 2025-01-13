@@ -1,0 +1,22 @@
+{
+  "name": "AQI",
+  "symbol": "AQI",
+  "decimals": 18,
+  "description": "AQI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AQI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AQI",
+  "addresses": {
+    "8453": "0x103d3a25f786da600e5615bfa9d6fb3b173a8447"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AQI",
+    "sanitizedSymbol": "AQI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225047",
+    "lockerAddress": "0xD0E423F8A7640FBBE81CBB1945C8B52d91Ed688f"
+  },
+  "clankerInfo": null
+}

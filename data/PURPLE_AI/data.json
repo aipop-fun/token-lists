@@ -1,0 +1,22 @@
+{
+  "name": "Purple AI",
+  "symbol": "Purple AI",
+  "decimals": 18,
+  "description": "Purple AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purple%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purple AI",
+  "addresses": {
+    "8453": "0x15d37eb632d757a80bfa8a986072b98f0c033604"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purple AI",
+    "sanitizedSymbol": "PURPLE_AI",
+    "created_at": "2024-12-11T19:11:36.229202",
+    "deployer": "0xD69Aaa56C523B366a277D91086e740c7c481F592",
+    "lpNftId": "1424598",
+    "lockerAddress": "0x9aF64634847BE630191167a82bD329c799532B4E"
+  },
+  "clankerInfo": null
+}

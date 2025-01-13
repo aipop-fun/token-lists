@@ -1,0 +1,22 @@
+{
+  "name": "Order66",
+  "symbol": "Order66",
+  "decimals": 18,
+  "description": "Order66 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Order66",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Order66",
+  "addresses": {
+    "8453": "0x1452d996af296aff5143a4dcc3cada924e21f60d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Order66",
+    "sanitizedSymbol": "ORDER66",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205786",
+    "lockerAddress": "0xf041e03f34a6Fd92B4c2f07d19F29b7aF1c56cb2"
+  },
+  "clankerInfo": null
+}

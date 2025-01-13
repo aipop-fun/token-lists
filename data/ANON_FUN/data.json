@@ -1,0 +1,22 @@
+{
+  "name": "AnoN Fun",
+  "symbol": "AnoN Fun",
+  "decimals": 18,
+  "description": "AnoN Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnoN%20Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnoN Fun",
+  "addresses": {
+    "8453": "0x00ec1ffcdc37d5f1e8d60e6e4e9530209a75a1cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnoN Fun",
+    "sanitizedSymbol": "ANON_FUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xe41ff4C24CA0e80b970b61f92F5425eA26d9d344",
+    "lpNftId": "1250565",
+    "lockerAddress": "0x75287aABecE8342cbB912BA0dAcFE561d368d8c3"
+  },
+  "clankerInfo": null
+}

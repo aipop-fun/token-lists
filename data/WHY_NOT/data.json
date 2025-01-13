@@ -1,0 +1,22 @@
+{
+  "name": "Why Not?",
+  "symbol": "Why Not?",
+  "decimals": 18,
+  "description": "Why Not? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Why%20Not%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Why Not?",
+  "addresses": {
+    "8453": "0x005c48ffd15bdd6a277240591e8289528a4b90f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Why Not?",
+    "sanitizedSymbol": "WHY_NOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230139",
+    "lockerAddress": "0x91BCDb6b919daE06ac41908010105dFf3ef9e745"
+  },
+  "clankerInfo": null
+}

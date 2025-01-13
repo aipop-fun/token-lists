@@ -1,0 +1,22 @@
+{
+  "name": "Zoomers' Bullrun",
+  "symbol": "Zoomers' Bullrun",
+  "decimals": 18,
+  "description": "Zoomers' Bullrun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zoomers'%20Bullrun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zoomers' Bullrun",
+  "addresses": {
+    "8453": "0x3aa66c6eeab29d5d79fbea5f37b830c07d83e14b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zoomers' Bullrun",
+    "sanitizedSymbol": "ZOOMERS_BULLRUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143916",
+    "lockerAddress": "0xf2Bd078D66362386a6374768a37B1475dF065fB3"
+  },
+  "clankerInfo": null
+}

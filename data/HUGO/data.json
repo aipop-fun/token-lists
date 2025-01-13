@@ -1,0 +1,22 @@
+{
+  "name": "HUGO",
+  "symbol": "HUGO",
+  "decimals": 18,
+  "description": "HUGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HUGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HUGO",
+  "addresses": {
+    "8453": "0x117b1adcf818960bb3f2d1617ab5454d5854eebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HUGO",
+    "sanitizedSymbol": "HUGO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210258",
+    "lockerAddress": "0xa64d912B39CF577F11e1c41314A9F256D1305A69"
+  },
+  "clankerInfo": null
+}

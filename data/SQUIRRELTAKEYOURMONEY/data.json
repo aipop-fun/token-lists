@@ -1,0 +1,22 @@
+{
+  "name": "SquirrelTakeYourMoney",
+  "symbol": "SquirrelTakeYourMoney",
+  "decimals": 18,
+  "description": "SquirrelTakeYourMoney is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SquirrelTakeYourMoney",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SquirrelTakeYourMoney",
+  "addresses": {
+    "8453": "0x268ed5b97419c9e8b2aa1b8f74f3e9d46e876e9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SquirrelTakeYourMoney",
+    "sanitizedSymbol": "SQUIRRELTAKEYOURMONEY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217782",
+    "lockerAddress": "0x35Bd342c8Fe9870b17290dE38B3649579364E870"
+  },
+  "clankerInfo": null
+}

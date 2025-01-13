@@ -1,0 +1,22 @@
+{
+  "name": "booty PEPE",
+  "symbol": "booty PEPE",
+  "decimals": 18,
+  "description": "booty PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=booty%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "booty PEPE",
+  "addresses": {
+    "8453": "0x3d4c4a8cffef2f21dc23a42e8a250f643a7165cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "booty PEPE",
+    "sanitizedSymbol": "BOOTY_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2136f3Cb915F22956eE315f3000643493337c96e",
+    "lpNftId": "1285940",
+    "lockerAddress": "0xECb409523290840198763e876F99aB47331c5038"
+  },
+  "clankerInfo": null
+}

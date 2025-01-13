@@ -1,0 +1,22 @@
+{
+  "name": "REAL MADRID",
+  "symbol": "REAL MADRID",
+  "decimals": 18,
+  "description": "REAL MADRID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REAL%20MADRID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REAL MADRID",
+  "addresses": {
+    "8453": "0x18fc2eb634550d334ef7ec56349c307885bcd6fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REAL MADRID",
+    "sanitizedSymbol": "REAL_MADRID",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3c382D28f3F81E948Bc3F09Ea875f7926ab6F8E9",
+    "lpNftId": "1251905",
+    "lockerAddress": "0x5Dc357d238af2F7D31710F09Fb37634E82aC0f34"
+  },
+  "clankerInfo": null
+}

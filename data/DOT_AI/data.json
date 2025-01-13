@@ -1,0 +1,22 @@
+{
+  "name": "Dot AI",
+  "symbol": "Dot AI",
+  "decimals": 18,
+  "description": "Dot AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dot%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dot AI",
+  "addresses": {
+    "8453": "0x2316bda1cc990c97e0191781e3015558929db105"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dot AI",
+    "sanitizedSymbol": "DOT_AI",
+    "created_at": "2024-12-09T09:45:36.18108",
+    "deployer": "0xc7aDE6e2cE3aE0494827e42Ff5422A7b928e779A",
+    "lpNftId": "1385368",
+    "lockerAddress": "0xf958088a596E60A1d19627323479492A7d77F703"
+  },
+  "clankerInfo": null
+}

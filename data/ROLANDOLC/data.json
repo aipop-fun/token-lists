@@ -1,0 +1,22 @@
+{
+  "name": "rolandolc",
+  "symbol": "rolandolc",
+  "decimals": 18,
+  "description": "rolandolc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rolandolc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rolandolc",
+  "addresses": {
+    "8453": "0x1ab5fa194f409ffdc7d3dc23feea489b7545d499"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rolandolc",
+    "sanitizedSymbol": "ROLANDOLC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234523",
+    "lockerAddress": "0xe5E79ac7Efc6deF1dfc0A51c5a576FC01f6CDa70"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ephemeral Meme",
+  "symbol": "Ephemeral Meme",
+  "decimals": 18,
+  "description": "Ephemeral Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ephemeral%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ephemeral Meme",
+  "addresses": {
+    "8453": "0x228b3bdd5f7d70a6608ec1f6679073aaa9fcdb02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ephemeral Meme",
+    "sanitizedSymbol": "EPHEMERAL_MEME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231778",
+    "lockerAddress": "0xbb0CC70878c105cD420EdA6009D18620d3091779"
+  },
+  "clankerInfo": null
+}

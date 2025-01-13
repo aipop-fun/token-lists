@@ -1,0 +1,22 @@
+{
+  "name": "AFK",
+  "symbol": "AFK",
+  "decimals": 18,
+  "description": "AFK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AFK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AFK",
+  "addresses": {
+    "8453": "0x1110a084d32842ba4c5e01ffad91794556412460"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AFK",
+    "sanitizedSymbol": "AFK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221091",
+    "lockerAddress": "0x1ba338ca821C7005310F87711c3070b6c42FDaCE"
+  },
+  "clankerInfo": null
+}

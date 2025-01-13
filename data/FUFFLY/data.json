@@ -1,0 +1,22 @@
+{
+  "name": "Fuffly",
+  "symbol": "Fuffly",
+  "decimals": 18,
+  "description": "Fuffly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fuffly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fuffly",
+  "addresses": {
+    "8453": "0x24a622c982341b432e22764689846af91cfaec29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fuffly",
+    "sanitizedSymbol": "FUFFLY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBF88e9E0F0bd3E0F1A76D02A573512e63b26299C",
+    "lpNftId": "1327352",
+    "lockerAddress": "0x04f9038A3720887Bb6B353416A04cE5b5001e8f6"
+  },
+  "clankerInfo": null
+}

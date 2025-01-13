@@ -1,0 +1,22 @@
+{
+  "name": "Crab Rave",
+  "symbol": "Crab Rave",
+  "decimals": 18,
+  "description": "Crab Rave is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crab%20Rave",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crab Rave",
+  "addresses": {
+    "8453": "0x16a073ababbcb9b062521a50432a437db3342adf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crab Rave",
+    "sanitizedSymbol": "CRAB_RAVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x47Cd9fF80446FdEbc4f9b697Ea5858cDE5Ae01F6",
+    "lpNftId": "1294631",
+    "lockerAddress": "0xD00764cFDF238E65E083fe707F7Ed370EeAe4958"
+  },
+  "clankerInfo": null
+}

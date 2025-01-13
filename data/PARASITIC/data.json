@@ -1,0 +1,22 @@
+{
+  "name": "Parasitic",
+  "symbol": "Parasitic",
+  "decimals": 18,
+  "description": "Parasitic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Parasitic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Parasitic",
+  "addresses": {
+    "8453": "0x32887f565ded4c95afd976db63cac84896716aa7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Parasitic",
+    "sanitizedSymbol": "PARASITIC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217035",
+    "lockerAddress": "0xfD84685451cC56d47bE9D9e9Eae8cB40cdE59f0c"
+  },
+  "clankerInfo": null
+}

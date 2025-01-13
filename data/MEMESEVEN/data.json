@@ -1,0 +1,22 @@
+{
+  "name": "MEMESEVEN",
+  "symbol": "MEMESEVEN",
+  "decimals": 18,
+  "description": "MEMESEVEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMESEVEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMESEVEN",
+  "addresses": {
+    "8453": "0x12c32c88bf4ca169c0da978d0d782596ef6e28cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMESEVEN",
+    "sanitizedSymbol": "MEMESEVEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233308",
+    "lockerAddress": "0xc3b8C67b055260d8431A3cFD18eC2Ae5aA3056e2"
+  },
+  "clankerInfo": null
+}

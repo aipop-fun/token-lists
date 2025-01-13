@@ -1,0 +1,22 @@
+{
+  "name": "Voldemort",
+  "symbol": "Voldemort",
+  "decimals": 18,
+  "description": "Voldemort is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Voldemort",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Voldemort",
+  "addresses": {
+    "8453": "0x0cde71b979f1bc8ec632159918cad6a6881c7f22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Voldemort",
+    "sanitizedSymbol": "VOLDEMORT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223420",
+    "lockerAddress": "0xc87E292E3B9280968009dAfE9bef312426f0bAB2"
+  },
+  "clankerInfo": null
+}

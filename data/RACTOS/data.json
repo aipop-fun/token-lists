@@ -1,0 +1,22 @@
+{
+  "name": "Ractos",
+  "symbol": "Ractos",
+  "decimals": 18,
+  "description": "Ractos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ractos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ractos",
+  "addresses": {
+    "8453": "0x199c673fa4597c798b3290c8b8d423440c97f70f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ractos",
+    "sanitizedSymbol": "RACTOS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222877",
+    "lockerAddress": "0x6da0EBF32023F280f2B42BDe57c97A2B928B7FBA"
+  },
+  "clankerInfo": null
+}

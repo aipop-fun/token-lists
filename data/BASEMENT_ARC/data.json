@@ -1,0 +1,22 @@
+{
+  "name": "Basement Arc",
+  "symbol": "Basement Arc",
+  "decimals": 18,
+  "description": "Basement Arc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basement%20Arc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basement Arc",
+  "addresses": {
+    "8453": "0x2ba2535ac05ee0583d3edd1407f995ff9a6b4e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basement Arc",
+    "sanitizedSymbol": "BASEMENT_ARC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233842",
+    "lockerAddress": "0x2Fec0e07c142eeb016977C6679D046047d25b22c"
+  },
+  "clankerInfo": null
+}

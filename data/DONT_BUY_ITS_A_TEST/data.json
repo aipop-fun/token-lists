@@ -1,0 +1,22 @@
+{
+  "name": "dont buy its a test",
+  "symbol": "dont buy its a test",
+  "decimals": 18,
+  "description": "dont buy its a test is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dont%20buy%20its%20a%20test",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dont buy its a test",
+  "addresses": {
+    "8453": "0x03eba6dd0940ab1e2f58a88847b04de61a362b5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dont buy its a test",
+    "sanitizedSymbol": "DONT_BUY_ITS_A_TEST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xD0db5b4e50462B3eAA75FD3F87782badd15Ba577",
+    "lpNftId": "951717",
+    "lockerAddress": "0x00573325879E00d16eed91766928B4C2f65Ed5DF"
+  },
+  "clankerInfo": null
+}

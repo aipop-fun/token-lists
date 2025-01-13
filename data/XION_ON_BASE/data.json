@@ -1,0 +1,22 @@
+{
+  "name": "XION ON BASE",
+  "symbol": "XION ON BASE",
+  "decimals": 18,
+  "description": "XION ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XION%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XION ON BASE",
+  "addresses": {
+    "8453": "0x1f428f5e911b3172391c809f93edd589fadda252"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XION ON BASE",
+    "sanitizedSymbol": "XION_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc14Fb3F6cb9Fed43021f57CA6092FEEA841978b9",
+    "lpNftId": "1323372",
+    "lockerAddress": "0x5741d5c3692D33f37C796dac3d70c03c61AE9aeC"
+  },
+  "clankerInfo": null
+}

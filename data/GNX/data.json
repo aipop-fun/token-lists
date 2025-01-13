@@ -1,0 +1,22 @@
+{
+  "name": "GNX",
+  "symbol": "GNX",
+  "decimals": 18,
+  "description": "GNX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GNX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GNX",
+  "addresses": {
+    "8453": "0x0310c269650493dc5c1ee852719e00d55ac05d13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GNX",
+    "sanitizedSymbol": "GNX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210228",
+    "lockerAddress": "0x7A6584255e406031A7664b27868f3e61B5e94f56"
+  },
+  "clankerInfo": null
+}

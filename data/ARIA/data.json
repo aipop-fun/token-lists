@@ -1,0 +1,22 @@
+{
+  "name": "ARIA",
+  "symbol": "ARIA",
+  "decimals": 18,
+  "description": "ARIA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ARIA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ARIA",
+  "addresses": {
+    "8453": "0x2bbee43293a84b0ce1aee103103ecd2a8388a16b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ARIA",
+    "sanitizedSymbol": "ARIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1309770",
+    "lockerAddress": "0x78033588d088F75eFC9B0775BE457AaB4226A99f"
+  },
+  "clankerInfo": null
+}

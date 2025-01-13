@@ -1,0 +1,22 @@
+{
+  "name": "Ter",
+  "symbol": "Ter",
+  "decimals": 18,
+  "description": "Ter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ter",
+  "addresses": {
+    "8453": "0x30844b9e1260f0d2284ca696984298da118abdfe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ter",
+    "sanitizedSymbol": "TER",
+    "created_at": "2024-12-09T20:02:45.56173",
+    "deployer": "0x44Ed63dD10703101122707463c1E03064EB1f03f",
+    "lpNftId": "1391374",
+    "lockerAddress": "0x4a2480cf5Fc95733d5b749808C2873023E8bfEB6"
+  },
+  "clankerInfo": null
+}

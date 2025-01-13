@@ -1,0 +1,22 @@
+{
+  "name": "clunkor new era",
+  "symbol": "clunkor new era",
+  "decimals": 18,
+  "description": "clunkor new era is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clunkor%20new%20era",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clunkor new era",
+  "addresses": {
+    "8453": "0x10716bdf0f5313a65349a2cd87ab1045de47ed97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clunkor new era",
+    "sanitizedSymbol": "CLUNKOR_NEW_ERA",
+    "created_at": "2024-12-11T09:35:23.558807",
+    "deployer": "0x0afAC6A52082F0d0B300Bfb8d95683AA6Ea0696B",
+    "lpNftId": "1415651",
+    "lockerAddress": "0x869a1FAB59DEaEb4650bCe482cD9765293E78122"
+  },
+  "clankerInfo": null
+}

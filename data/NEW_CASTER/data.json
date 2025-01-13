@@ -1,0 +1,22 @@
+{
+  "name": "New Caster",
+  "symbol": "New Caster",
+  "decimals": 18,
+  "description": "New Caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Caster",
+  "addresses": {
+    "8453": "0x202ea43fe531f3f4e6bb59a7926fa8cb7cfd402b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Caster",
+    "sanitizedSymbol": "NEW_CASTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE7B7cBD142226994B2DCAa2C8f150Fde1e954C42",
+    "lpNftId": "1375012",
+    "lockerAddress": "0x6117bCC708C2Bb045c8069974eEB141dAD608Fa5"
+  },
+  "clankerInfo": null
+}

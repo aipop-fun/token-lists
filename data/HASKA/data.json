@@ -1,0 +1,22 @@
+{
+  "name": "HASKA",
+  "symbol": "HASKA",
+  "decimals": 18,
+  "description": "HASKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HASKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HASKA",
+  "addresses": {
+    "8453": "0x021629632c4ae03da9931bb657ea983248e53c11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HASKA",
+    "sanitizedSymbol": "HASKA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC88eb8c096D2A6bf50f6E738e992d31A27f56299",
+    "lpNftId": "1322586",
+    "lockerAddress": "0xB7c2939Cbe489404bA765Fb48871c45d167CDB5C"
+  },
+  "clankerInfo": null
+}

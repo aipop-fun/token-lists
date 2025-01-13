@@ -1,0 +1,22 @@
+{
+  "name": "BLDZ",
+  "symbol": "BLDZ",
+  "decimals": 18,
+  "description": "BLDZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLDZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLDZ",
+  "addresses": {
+    "8453": "0x1f0e1f96fce616807d47de10465750b982572497"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLDZ",
+    "sanitizedSymbol": "BLDZ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166210",
+    "lockerAddress": "0xd4e916a2dB8eAd7e653686AED24E3849eB0bAD41"
+  },
+  "clankerInfo": null
+}

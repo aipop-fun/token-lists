@@ -1,0 +1,22 @@
+{
+  "name": "Anonify",
+  "symbol": "Anonify",
+  "decimals": 18,
+  "description": "Anonify is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anonify",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anonify",
+  "addresses": {
+    "8453": "0x21875c61e7b828b5c805ed51bcbf535b3a16b1ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anonify",
+    "sanitizedSymbol": "ANONIFY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x320E73e1238b95E5Eb54C3FdBebF279F36a06714",
+    "lpNftId": "1323949",
+    "lockerAddress": "0xc14e409E9f768595e5d567a766658E4ae5778359"
+  },
+  "clankerInfo": null
+}

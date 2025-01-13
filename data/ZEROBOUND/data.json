@@ -1,0 +1,22 @@
+{
+  "name": "ZeroBound",
+  "symbol": "ZeroBound",
+  "decimals": 18,
+  "description": "ZeroBound is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZeroBound",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZeroBound",
+  "addresses": {
+    "8453": "0x1ba770333c58dffcb86477f1e2c4d80bea0a591a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZeroBound",
+    "sanitizedSymbol": "ZEROBOUND",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124645",
+    "lockerAddress": "0xE43a73Fe2641A53628c7f019ad59B7385F9888A7"
+  },
+  "clankerInfo": null
+}

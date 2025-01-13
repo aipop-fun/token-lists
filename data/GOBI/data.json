@@ -1,0 +1,22 @@
+{
+  "name": "GOBI",
+  "symbol": "GOBI",
+  "decimals": 18,
+  "description": "GOBI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOBI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOBI",
+  "addresses": {
+    "8453": "0x2a5c25ace46af20f3fe0a2c6ebec7bb3e5d455ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOBI",
+    "sanitizedSymbol": "GOBI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1284306",
+    "lockerAddress": "0xf8C5Df26B31b4098D9Bf7898A2c208B0B965c84A"
+  },
+  "clankerInfo": null
+}

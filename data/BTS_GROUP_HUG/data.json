@@ -1,0 +1,22 @@
+{
+  "name": "BTS Group Hug",
+  "symbol": "BTS Group Hug",
+  "decimals": 18,
+  "description": "BTS Group Hug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTS%20Group%20Hug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTS Group Hug",
+  "addresses": {
+    "8453": "0x0e559c8160d96f06ac613339ca848287638aee74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTS Group Hug",
+    "sanitizedSymbol": "BTS_GROUP_HUG",
+    "created_at": "2024-12-10T06:24:18.973869",
+    "deployer": "0xe7Ee6fbD58Fc68c30fc55Dc42A7bFED4f944552f",
+    "lpNftId": "1397395",
+    "lockerAddress": "0x116040A34Dd406E3DB930e4398Dd14E2cd67c89C"
+  },
+  "clankerInfo": null
+}

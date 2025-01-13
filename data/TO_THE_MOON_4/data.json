@@ -1,0 +1,22 @@
+{
+  "name": "To The Moon",
+  "symbol": "To The Moon",
+  "decimals": 18,
+  "description": "To The Moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=To%20The%20Moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "To The Moon",
+  "addresses": {
+    "8453": "0x0ca85022a17f39756df40d1c18bf36a04bf25ecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "To The Moon",
+    "sanitizedSymbol": "TO_THE_MOON_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2Fb0e475F6D495DFdfd9176aF9113f48F7687565",
+    "lpNftId": "1313724",
+    "lockerAddress": "0x4B4D203831fDecC88f9951d18758859FE211cB7a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "manga",
+  "symbol": "manga",
+  "decimals": 18,
+  "description": "manga is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=manga",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "manga",
+  "addresses": {
+    "8453": "0x3f5a1c02a528904c243d5bf80cefa6ea8d663695"
+  },
+  "tokenInfo": {
+    "originalSymbol": "manga",
+    "sanitizedSymbol": "MANGA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfBb6BFe2d09A10913db4400cDe3979Bd401f7310",
+    "lpNftId": "1286448",
+    "lockerAddress": "0x3a3B5146BEd886D4E435d5c5B499D2310B71797E"
+  },
+  "clankerInfo": null
+}

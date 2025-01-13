@@ -1,0 +1,22 @@
+{
+  "name": "GALAXY",
+  "symbol": "GALAXY",
+  "decimals": 18,
+  "description": "GALAXY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GALAXY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GALAXY",
+  "addresses": {
+    "8453": "0x079f00eaffca7e770dd5b7e86b3732369c918286"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GALAXY",
+    "sanitizedSymbol": "GALAXY_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5800e1C80c2d806862b7e9aa464BbF9557BAC03A",
+    "lpNftId": "1252028",
+    "lockerAddress": "0xAC865B0f0Db4CB32b78C2303F091bA05Ae61F0AB"
+  },
+  "clankerInfo": null
+}

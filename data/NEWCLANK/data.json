@@ -1,0 +1,22 @@
+{
+  "name": "NewClank",
+  "symbol": "NewClank",
+  "decimals": 18,
+  "description": "NewClank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NewClank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NewClank",
+  "addresses": {
+    "8453": "0x246164e2faba67ad5861dc3cff049416af8fdbc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NewClank",
+    "sanitizedSymbol": "NEWCLANK",
+    "created_at": "2024-12-10T11:49:13.223722",
+    "deployer": "0xc6773d25F31b1a7FE4E4C97B39C10D984F39c069",
+    "lpNftId": "1400411",
+    "lockerAddress": "0xd27d069A92d20A4833181E78C931467B2061d32A"
+  },
+  "clankerInfo": null
+}

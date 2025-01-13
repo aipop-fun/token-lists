@@ -1,0 +1,22 @@
+{
+  "name": "Nailong",
+  "symbol": "Nailong",
+  "decimals": 18,
+  "description": "Nailong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nailong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nailong",
+  "addresses": {
+    "8453": "0x3f468b794ad2a10e38ab5897611d1aad4644d73e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nailong",
+    "sanitizedSymbol": "NAILONG_2",
+    "created_at": "2024-12-09T16:52:15.372799",
+    "deployer": "0xCeF9cA789d4e30734D92b11Ce034Aa33559D0349",
+    "lpNftId": "1389422",
+    "lockerAddress": "0xee65bcC50A19e11252Da792678f0b99816292b23"
+  },
+  "clankerInfo": null
+}

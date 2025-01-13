@@ -1,0 +1,22 @@
+{
+  "name": "BLOCKNOVA",
+  "symbol": "BLOCKNOVA",
+  "decimals": 18,
+  "description": "BLOCKNOVA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLOCKNOVA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLOCKNOVA",
+  "addresses": {
+    "8453": "0x3375c04f6ddbac2c6a5de1b518baa8536bafc476"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLOCKNOVA",
+    "sanitizedSymbol": "BLOCKNOVA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x196D238b962e0E829a8918c41451599881Af9c23",
+    "lpNftId": "1323203",
+    "lockerAddress": "0xcc790e25e3058778A53d454d896795bFeF7eE625"
+  },
+  "clankerInfo": null
+}

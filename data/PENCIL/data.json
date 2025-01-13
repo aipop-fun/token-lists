@@ -1,0 +1,22 @@
+{
+  "name": "Pencil",
+  "symbol": "Pencil",
+  "decimals": 18,
+  "description": "Pencil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pencil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pencil",
+  "addresses": {
+    "8453": "0x0f45a1e0c09fe49de5a7ac76bff662c21bfc0f85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pencil",
+    "sanitizedSymbol": "PENCIL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233089",
+    "lockerAddress": "0xc63B8B38fAc30e97b8B484e8F17d08760FB23639"
+  },
+  "clankerInfo": null
+}

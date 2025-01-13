@@ -1,0 +1,22 @@
+{
+  "name": "TURBO-BULLISH",
+  "symbol": "TURBO-BULLISH",
+  "decimals": 18,
+  "description": "TURBO-BULLISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TURBO-BULLISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TURBO-BULLISH",
+  "addresses": {
+    "8453": "0x386c95c6fba83e125cf6087c3e4b4ff1c8801477"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TURBO-BULLISH",
+    "sanitizedSymbol": "TURBO_BULLISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9652ec72d486BFe415e1aF2e97761B6671872E2a",
+    "lpNftId": "1372839",
+    "lockerAddress": "0x5F03028093B7357afaA8c37E73eFC6314E0eD173"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Succ Token",
+  "symbol": "Succ Token",
+  "decimals": 18,
+  "description": "Succ Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Succ%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Succ Token",
+  "addresses": {
+    "8453": "0x101ab65d8d0d621b44dca628a2d50d47458e1daa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Succ Token",
+    "sanitizedSymbol": "SUCC_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166300",
+    "lockerAddress": "0xfAA057D880773a943A058153f5E5D888DA7Fd60D"
+  },
+  "clankerInfo": null
+}

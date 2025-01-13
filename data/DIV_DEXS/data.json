@@ -1,0 +1,22 @@
+{
+  "name": "DIV DEXS",
+  "symbol": "DIV DEXS",
+  "decimals": 18,
+  "description": "DIV DEXS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DIV%20DEXS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DIV DEXS",
+  "addresses": {
+    "8453": "0x26fdc59dc211ab2580a343284f24c6551cae7f11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DIV DEXS",
+    "sanitizedSymbol": "DIV_DEXS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1194196",
+    "lockerAddress": "0x95df384DEA5fB7A335D2dA0d6E437f4F8aDab840"
+  },
+  "clankerInfo": null
+}

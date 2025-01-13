@@ -1,0 +1,22 @@
+{
+  "name": "Clankerlens",
+  "symbol": "Clankerlens",
+  "decimals": 18,
+  "description": "Clankerlens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankerlens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankerlens",
+  "addresses": {
+    "8453": "0x338135e92cce6f84407d36cbdbbd23321710ed3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankerlens",
+    "sanitizedSymbol": "CLANKERLENS",
+    "created_at": "2024-12-12T19:38:11.215673",
+    "deployer": "0x6666dd3E374A62277E3D7083ec870e23122ccA03",
+    "lpNftId": "1441753",
+    "lockerAddress": "0x0b85420ce05f993aC8816188d4f6424F4d3ba6ca"
+  },
+  "clankerInfo": null
+}

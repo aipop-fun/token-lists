@@ -1,0 +1,22 @@
+{
+  "name": "Russell 9000 Index",
+  "symbol": "Russell 9000 Index",
+  "decimals": 18,
+  "description": "Russell 9000 Index is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Russell%209000%20Index",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Russell 9000 Index",
+  "addresses": {
+    "8453": "0x05410a1b1b7c1a11053e01e1d3aa81c6a044e090"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Russell 9000 Index",
+    "sanitizedSymbol": "RUSSELL_9000_INDEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143805",
+    "lockerAddress": "0xb9142A4bE51314301B5BAfd28C1A1e57A5E35b6e"
+  },
+  "clankerInfo": null
+}

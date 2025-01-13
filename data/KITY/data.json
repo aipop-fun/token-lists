@@ -1,0 +1,22 @@
+{
+  "name": "kity",
+  "symbol": "kity",
+  "decimals": 18,
+  "description": "kity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kity",
+  "addresses": {
+    "8453": "0x116d21fc6b61918d16772200db6abcf1c355b444"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kity",
+    "sanitizedSymbol": "KITY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9AD01016226CE1D47f76a0D28d62Bc6D689B5485",
+    "lpNftId": "1285311",
+    "lockerAddress": "0xba05072C2c07304b9104365b25321f6698383976"
+  },
+  "clankerInfo": null
+}

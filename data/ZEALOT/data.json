@@ -1,0 +1,22 @@
+{
+  "name": "Zealot",
+  "symbol": "Zealot",
+  "decimals": 18,
+  "description": "Zealot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zealot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zealot",
+  "addresses": {
+    "8453": "0x3d4a6b9c95f18742f2e729f3f5ce4ed52d9e9514"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zealot",
+    "sanitizedSymbol": "ZEALOT",
+    "created_at": "2024-12-10T05:15:55.141785",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396812",
+    "lockerAddress": "0x3fa09D99E9524275c13F8AF27766fe0436981A4d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Artifex",
+  "symbol": "Artifex",
+  "decimals": 18,
+  "description": "Artifex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Artifex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Artifex",
+  "addresses": {
+    "8453": "0x04013e98294adfcbfc493e1027a46a371319f087"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Artifex",
+    "sanitizedSymbol": "ARTIFEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205327",
+    "lockerAddress": "0xe7F5Dc2e1032BC60C78af151B2eD5a52DB72Cb1b"
+  },
+  "clankerInfo": null
+}

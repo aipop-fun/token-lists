@@ -1,0 +1,22 @@
+{
+  "name": "PigeonMeta",
+  "symbol": "PigeonMeta",
+  "decimals": 18,
+  "description": "PigeonMeta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PigeonMeta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PigeonMeta",
+  "addresses": {
+    "8453": "0x3ef7d8f4abdc72844ac41568dfe8f8f2293e0173"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PigeonMeta",
+    "sanitizedSymbol": "PIGEONMETA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166219",
+    "lockerAddress": "0x7c55896eDE67f7Cd275867ef92F3BC0A226ef7fF"
+  },
+  "clankerInfo": null
+}

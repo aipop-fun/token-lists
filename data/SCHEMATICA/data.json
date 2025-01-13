@@ -1,0 +1,22 @@
+{
+  "name": "Schematica",
+  "symbol": "Schematica",
+  "decimals": 18,
+  "description": "Schematica is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Schematica",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Schematica",
+  "addresses": {
+    "8453": "0x1d290a87d3152d9f72e3ec8bba9c5daa18101911"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Schematica",
+    "sanitizedSymbol": "SCHEMATICA",
+    "created_at": "2024-12-12T07:16:10.819864",
+    "deployer": "0x40D27d2fc73C67Ae1cC47629E5B3430479328dBc",
+    "lpNftId": "1429711",
+    "lockerAddress": "0x21E26A8f68eEc016Ce99801C20d44ce56A055433"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base At Devcon",
+  "symbol": "Base At Devcon",
+  "decimals": 18,
+  "description": "Base At Devcon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20At%20Devcon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base At Devcon",
+  "addresses": {
+    "8453": "0x383c8b3489251e71868cac24d7772b3293fc99ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base At Devcon",
+    "sanitizedSymbol": "BASE_AT_DEVCON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152360",
+    "lockerAddress": "0x550bd66Ae01813Ac368277f39099bA924cf0fDF4"
+  },
+  "clankerInfo": null
+}

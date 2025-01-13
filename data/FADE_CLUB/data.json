@@ -1,0 +1,22 @@
+{
+  "name": "Fade Club",
+  "symbol": "Fade Club",
+  "decimals": 18,
+  "description": "Fade Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fade%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fade Club",
+  "addresses": {
+    "8453": "0x340a87880c268623dcd81b7101437f468e33a52c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fade Club",
+    "sanitizedSymbol": "FADE_CLUB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236626",
+    "lockerAddress": "0x4B1Bb05E8f8b2A48617840790D9E48dD127D1b11"
+  },
+  "clankerInfo": null
+}

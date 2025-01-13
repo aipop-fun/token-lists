@@ -1,0 +1,22 @@
+{
+  "name": "MemeMonster",
+  "symbol": "MemeMonster",
+  "decimals": 18,
+  "description": "MemeMonster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemeMonster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemeMonster",
+  "addresses": {
+    "8453": "0x2cb08ce0b4148de53b4bcf918521eea77b8dcc4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemeMonster",
+    "sanitizedSymbol": "MEMEMONSTER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x420F3CDCEB517C132d6A023Ab728D0abf072b93F",
+    "lpNftId": "1265624",
+    "lockerAddress": "0x080937cD97066eC87AB3c0C2046A946Fcca943B0"
+  },
+  "clankerInfo": null
+}

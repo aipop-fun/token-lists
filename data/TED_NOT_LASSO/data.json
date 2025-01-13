@@ -1,0 +1,22 @@
+{
+  "name": "ted (not lasso)",
+  "symbol": "ted (not lasso)",
+  "decimals": 18,
+  "description": "ted (not lasso) is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ted%20(not%20lasso)",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ted (not lasso)",
+  "addresses": {
+    "8453": "0x2ee9dd3692385ce1a91740bcf8af101a4594cc6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ted (not lasso)",
+    "sanitizedSymbol": "TED_NOT_LASSO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1280532",
+    "lockerAddress": "0x227701FDc3f6340Ec17125fB49e61Ec8Be378a40"
+  },
+  "clankerInfo": null
+}

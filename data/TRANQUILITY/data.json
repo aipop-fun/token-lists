@@ -1,0 +1,22 @@
+{
+  "name": "Tranquility",
+  "symbol": "Tranquility",
+  "decimals": 18,
+  "description": "Tranquility is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tranquility",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tranquility",
+  "addresses": {
+    "8453": "0x272132d1974c2e50f0cdc437913b198256a0e8dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tranquility",
+    "sanitizedSymbol": "TRANQUILITY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206003",
+    "lockerAddress": "0xe143278c37836874c20F1dDfe9eE016be81716eD"
+  },
+  "clankerInfo": null
+}

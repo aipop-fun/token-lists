@@ -1,0 +1,22 @@
+{
+  "name": "STARFISH",
+  "symbol": "STARFISH",
+  "decimals": 18,
+  "description": "STARFISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STARFISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STARFISH",
+  "addresses": {
+    "8453": "0x1b1ef6d5a72a53b546baf7ff74fb7e861f49cfa9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STARFISH",
+    "sanitizedSymbol": "STARFISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD9715323fFc62e09e7C79a44D181590a2227829E",
+    "lpNftId": "1327333",
+    "lockerAddress": "0xd480DB32BEDe48F2B82F21353F252Cf3D764452c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Democracy Dog",
+  "symbol": "Democracy Dog",
+  "decimals": 18,
+  "description": "Democracy Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Democracy%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Democracy Dog",
+  "addresses": {
+    "8453": "0x1149c04088090c87a76a01ab8ae5737e25be9996"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Democracy Dog",
+    "sanitizedSymbol": "DEMOCRACY_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1331474",
+    "lockerAddress": "0x2a8D4841f1E1Ee13F89D75178e1af959CEB0c87a"
+  },
+  "clankerInfo": null
+}

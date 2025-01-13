@@ -1,0 +1,22 @@
+{
+  "name": "Last",
+  "symbol": "Last",
+  "decimals": 18,
+  "description": "Last is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Last",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Last",
+  "addresses": {
+    "8453": "0x20272356dbf5226c44f9bb43a0349b9e3d137954"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Last",
+    "sanitizedSymbol": "LAST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB8E8d2a9b5D1FF8FEb4EFA686ac1D15Bf960070d",
+    "lpNftId": "1228017",
+    "lockerAddress": "0xbf6429F729a7293b3CaAD83295a072aF6B4A445d"
+  },
+  "clankerInfo": null
+}

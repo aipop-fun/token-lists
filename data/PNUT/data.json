@@ -1,0 +1,22 @@
+{
+  "name": "PNUT",
+  "symbol": "PNUT",
+  "decimals": 18,
+  "description": "PNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNUT",
+  "addresses": {
+    "8453": "0x1654eec7b9378707ee2e4366eeb2ae7fba5f4a74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNUT",
+    "sanitizedSymbol": "PNUT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224725",
+    "lockerAddress": "0x6b70ddB40f69aC3eEfa703f48Ea46e556f2F1A35"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Recaster",
+  "symbol": "Recaster",
+  "decimals": 18,
+  "description": "Recaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Recaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Recaster",
+  "addresses": {
+    "8453": "0x0d8daaeb79570b5fd8fe2cc39a71cc59aa77063a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Recaster",
+    "sanitizedSymbol": "RECASTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206231",
+    "lockerAddress": "0xCEc6CAa82bc818087a7a251F3b84a457F5afA89c"
+  },
+  "clankerInfo": null
+}

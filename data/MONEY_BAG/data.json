@@ -1,0 +1,22 @@
+{
+  "name": "Money Bag",
+  "symbol": "Money Bag",
+  "decimals": 18,
+  "description": "Money Bag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Money%20Bag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Money Bag",
+  "addresses": {
+    "8453": "0x124f72b46d0cc84e3dc5614d3df4e13b5b7df6e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Money Bag",
+    "sanitizedSymbol": "MONEY_BAG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199954",
+    "lockerAddress": "0xA6359bef41883F6649A7dC714419Bc4370d47162"
+  },
+  "clankerInfo": null
+}

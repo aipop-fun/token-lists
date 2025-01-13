@@ -1,0 +1,22 @@
+{
+  "name": "Fru3tick",
+  "symbol": "Fru3tick",
+  "decimals": 18,
+  "description": "Fru3tick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fru3tick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fru3tick",
+  "addresses": {
+    "8453": "0x02e264de90991c6767b246498d7b4663fda47ea6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fru3tick",
+    "sanitizedSymbol": "FRU3TICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x218dA5D0585525fDac5f110a257f2aEa05123C03",
+    "lpNftId": "1283836",
+    "lockerAddress": "0x65c87FAbe0BF5F05068970b06b2886f08ff2De8A"
+  },
+  "clankerInfo": null
+}

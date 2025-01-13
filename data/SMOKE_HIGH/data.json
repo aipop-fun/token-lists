@@ -1,0 +1,22 @@
+{
+  "name": "Smoke High",
+  "symbol": "Smoke High",
+  "decimals": 18,
+  "description": "Smoke High is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Smoke%20High",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Smoke High",
+  "addresses": {
+    "8453": "0x216baecc1e3707f02ab6471a62f307df574d396a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Smoke High",
+    "sanitizedSymbol": "SMOKE_HIGH",
+    "created_at": "2024-12-11T09:47:41.598904",
+    "deployer": "0xF834d652A8Ccc2337f5B6E9718cd1725f082aC3F",
+    "lpNftId": "1415821",
+    "lockerAddress": "0x756dc1c6d72B53ad4EDd2E09261A45fE884b1e47"
+  },
+  "clankerInfo": null
+}

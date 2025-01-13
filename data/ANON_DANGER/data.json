@@ -1,0 +1,22 @@
+{
+  "name": "ANON DANGER",
+  "symbol": "ANON DANGER",
+  "decimals": 18,
+  "description": "ANON DANGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANON%20DANGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANON DANGER",
+  "addresses": {
+    "8453": "0x0e9af726e5191fa0c3c18bf1c98921a89e9b5904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANON DANGER",
+    "sanitizedSymbol": "ANON_DANGER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237214",
+    "lockerAddress": "0xF43DC674f1EE1A9017dC2fE97a4d028c1bB57339"
+  },
+  "clankerInfo": null
+}

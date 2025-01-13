@@ -1,0 +1,22 @@
+{
+  "name": "Downtime",
+  "symbol": "Downtime",
+  "decimals": 18,
+  "description": "Downtime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Downtime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Downtime",
+  "addresses": {
+    "8453": "0x3dc1c22b3f9182c6a06aa8309f936ba054f83fe8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Downtime",
+    "sanitizedSymbol": "DOWNTIME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1359557",
+    "lockerAddress": "0x50FfE03D718bb90CBf2628Ac5b54Da5ef11D0D3D"
+  },
+  "clankerInfo": null
+}

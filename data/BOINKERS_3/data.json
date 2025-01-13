@@ -1,0 +1,22 @@
+{
+  "name": "Boinkers",
+  "symbol": "Boinkers",
+  "decimals": 18,
+  "description": "Boinkers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boinkers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boinkers",
+  "addresses": {
+    "8453": "0x1bfd9963ae294daf0c3a7f1b10660154c8534791"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boinkers",
+    "sanitizedSymbol": "BOINKERS_3",
+    "created_at": "2024-12-11T14:17:06.256468",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1420083",
+    "lockerAddress": "0xAB633abaECC813028c8E82fa8B2bae6971FBff12"
+  },
+  "clankerInfo": null
+}

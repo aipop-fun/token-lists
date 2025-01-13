@@ -1,0 +1,22 @@
+{
+  "name": "Uponly",
+  "symbol": "Uponly",
+  "decimals": 18,
+  "description": "Uponly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uponly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uponly",
+  "addresses": {
+    "8453": "0x2fd6bf12d0323090e6082ec68bbac6080de7906f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uponly",
+    "sanitizedSymbol": "UPONLY_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6217E13578D8F88f3729C1394293c885C275f0d4",
+    "lpNftId": "1305442",
+    "lockerAddress": "0x7DbF133eB22f244DBa21Fe147B15E2fbcCD42B1c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HOLD MY BEER",
+  "symbol": "HOLD MY BEER",
+  "decimals": 18,
+  "description": "HOLD MY BEER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOLD%20MY%20BEER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOLD MY BEER",
+  "addresses": {
+    "8453": "0x1a7d51b34a8bb0f93013c9b163c9d2e518a65fec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOLD MY BEER",
+    "sanitizedSymbol": "HOLD_MY_BEER_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD039E7E515357271fAAD5A1760c0C9416c9445C8",
+    "lpNftId": "1325249",
+    "lockerAddress": "0x967a35A5da3582cFB6bE522EBCc63A0F1c0B5085"
+  },
+  "clankerInfo": null
+}

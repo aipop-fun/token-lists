@@ -1,0 +1,22 @@
+{
+  "name": "Tumbler",
+  "symbol": "Tumbler",
+  "decimals": 18,
+  "description": "Tumbler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tumbler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tumbler",
+  "addresses": {
+    "8453": "0x0271f89dc3b31c59ea00ae78b60fa6fde0bc4e24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tumbler",
+    "sanitizedSymbol": "TUMBLER",
+    "created_at": "2024-12-10T01:44:05.296309",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1394421",
+    "lockerAddress": "0x7C780e255D1b8957ea9091762467d31daD5654Ed"
+  },
+  "clankerInfo": null
+}

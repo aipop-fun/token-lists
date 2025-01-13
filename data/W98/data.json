@@ -1,0 +1,22 @@
+{
+  "name": "W98",
+  "symbol": "W98",
+  "decimals": 18,
+  "description": "W98 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=W98",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "W98",
+  "addresses": {
+    "8453": "0x2c4ddcf49ad02f08b790eae4b9c8ad252f0968c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "W98",
+    "sanitizedSymbol": "W98",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120252",
+    "lockerAddress": "0xc4Be2BcAC72C5a5AD324AFCda5f76EA165609415"
+  },
+  "clankerInfo": null
+}

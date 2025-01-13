@@ -1,0 +1,22 @@
+{
+  "name": "BASEDANON",
+  "symbol": "BASEDANON",
+  "decimals": 18,
+  "description": "BASEDANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASEDANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASEDANON",
+  "addresses": {
+    "8453": "0x2bc096f043e87e5a252e0774b7bd88a513d1932c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASEDANON",
+    "sanitizedSymbol": "BASEDANON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8a82B4B0f937aa79B9D7E917c860c6C539A0e185",
+    "lpNftId": "1250836",
+    "lockerAddress": "0xCA3E49D72649A932dAb6d0919a621f1Cc6552C2A"
+  },
+  "clankerInfo": null
+}

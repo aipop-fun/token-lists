@@ -1,0 +1,22 @@
+{
+  "name": "AVOCADO",
+  "symbol": "AVOCADO",
+  "decimals": 18,
+  "description": "AVOCADO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AVOCADO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AVOCADO",
+  "addresses": {
+    "8453": "0x292fcc0273faa12c3135334872f3b99bfb9d0a21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AVOCADO",
+    "sanitizedSymbol": "AVOCADO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213339",
+    "lockerAddress": "0x7230C44f0d4cd6CCa1bCae3B3d47bc8158f93744"
+  },
+  "clankerInfo": null
+}

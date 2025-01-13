@@ -1,0 +1,22 @@
+{
+  "name": "onemeth",
+  "symbol": "onemeth",
+  "decimals": 18,
+  "description": "onemeth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onemeth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onemeth",
+  "addresses": {
+    "8453": "0x2e05d2da886be61eebcca57aa36954f7201b080d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onemeth",
+    "sanitizedSymbol": "ONEMETH",
+    "created_at": "2024-12-12T19:30:29.321533",
+    "deployer": "0xA8bBDE3B3d0b922Ad5dd83E46b6272ca5989794B",
+    "lpNftId": "1441717",
+    "lockerAddress": "0xFa9CA929201FC73eD89B9E46225bF19Ffcdd7Ad9"
+  },
+  "clankerInfo": null
+}

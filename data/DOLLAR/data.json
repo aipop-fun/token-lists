@@ -1,0 +1,22 @@
+{
+  "name": "dollar",
+  "symbol": "dollar",
+  "decimals": 18,
+  "description": "dollar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dollar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dollar",
+  "addresses": {
+    "8453": "0x3a8c8f5cb73c8e78ee4792d3a26aac6df49cd4d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dollar",
+    "sanitizedSymbol": "DOLLAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128539",
+    "lockerAddress": "0x8E443a124707fB76384490eA80726d9784edb3a0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shake n' Bake",
+  "symbol": "Shake n' Bake",
+  "decimals": 18,
+  "description": "Shake n' Bake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shake%20n'%20Bake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shake n' Bake",
+  "addresses": {
+    "8453": "0x2ea4185b4e5453536ed6d8f1a0d516c23d533344"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shake n' Bake",
+    "sanitizedSymbol": "SHAKE_N_BAKE",
+    "created_at": "2024-12-12T18:58:02.072948",
+    "deployer": "0xD35A430d949054DA22DA425AAF50CEF53B77fE6F",
+    "lpNftId": "1441123",
+    "lockerAddress": "0xD6a98a930c66FF3F943A52831E28cd0Ce62308dd"
+  },
+  "clankerInfo": null
+}

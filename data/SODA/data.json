@@ -1,0 +1,22 @@
+{
+  "name": "SODA",
+  "symbol": "SODA",
+  "decimals": 18,
+  "description": "SODA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SODA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SODA",
+  "addresses": {
+    "8453": "0x32283203759ee6baefe4894a65723fb03ec2e857"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SODA",
+    "sanitizedSymbol": "SODA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5bca764f13024c4cc315422b2d1A0400B08cC8Ee",
+    "lpNftId": "1320019",
+    "lockerAddress": "0xD590d4A5A8c0FaAb091eE726F180eeDEe34e7efa"
+  },
+  "clankerInfo": null
+}

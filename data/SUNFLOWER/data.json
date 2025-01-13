@@ -1,0 +1,22 @@
+{
+  "name": "SUNFLOWER",
+  "symbol": "SUNFLOWER",
+  "decimals": 18,
+  "description": "SUNFLOWER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUNFLOWER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUNFLOWER",
+  "addresses": {
+    "8453": "0x0bebd77d3047d012d0ac87b87d7d2f19e9c6f5ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUNFLOWER",
+    "sanitizedSymbol": "SUNFLOWER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218639",
+    "lockerAddress": "0x57345326239381edB06F5460ab3AffA1Ab1B58A3"
+  },
+  "clankerInfo": null
+}

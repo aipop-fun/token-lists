@@ -1,0 +1,22 @@
+{
+  "name": "PNL",
+  "symbol": "PNL",
+  "decimals": 18,
+  "description": "PNL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNL",
+  "addresses": {
+    "8453": "0x344735c8cff03bab222c3a35966c18ee8c283bed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNL",
+    "sanitizedSymbol": "PNL",
+    "created_at": "2024-12-09T10:34:28.221062",
+    "deployer": "0x4d321B10c85f9D4AdD9a5E6d6266161Da1F8E16a",
+    "lpNftId": "1385926",
+    "lockerAddress": "0xc3c36966037D59a83a33B3db3f2e16F85F5Cb794"
+  },
+  "clankerInfo": null
+}

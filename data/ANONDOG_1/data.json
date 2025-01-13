@@ -1,0 +1,22 @@
+{
+  "name": "Anondog",
+  "symbol": "Anondog",
+  "decimals": 18,
+  "description": "Anondog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anondog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anondog",
+  "addresses": {
+    "8453": "0x2ba7a915c5725be608059879f533041e376883d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anondog",
+    "sanitizedSymbol": "ANONDOG_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222827",
+    "lockerAddress": "0xd8dfEb5156cd517DdA5e6EDcEfA9E2f90C80cdAB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wojak",
+  "symbol": "wojak",
+  "decimals": 18,
+  "description": "wojak is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wojak",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wojak",
+  "addresses": {
+    "8453": "0x2c8496c02c92af5369ef909099bf84aa487289fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wojak",
+    "sanitizedSymbol": "WOJAK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd3d2f7704Fe3836c7cE3B91E45E727368361d911",
+    "lpNftId": "1251497",
+    "lockerAddress": "0x9Bc95b98F1bE5502AaE2980E6aF5CAC2908ddA6E"
+  },
+  "clankerInfo": null
+}

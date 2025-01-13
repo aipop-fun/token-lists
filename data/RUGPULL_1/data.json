@@ -1,0 +1,22 @@
+{
+  "name": "RUGPULL",
+  "symbol": "RUGPULL",
+  "decimals": 18,
+  "description": "RUGPULL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUGPULL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUGPULL",
+  "addresses": {
+    "8453": "0x3d4f9dd6d2663a6efabd93f6ea16dc3b631781a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUGPULL",
+    "sanitizedSymbol": "RUGPULL_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x2425a22bb273949467aEEF8aBF8c3E24C4Ef1c61",
+    "lpNftId": "1250616",
+    "lockerAddress": "0xdC321b19dDfcD6D110185674ec6FCdb2278336b8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PG",
+  "symbol": "PG",
+  "decimals": 18,
+  "description": "PG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PG",
+  "addresses": {
+    "8453": "0x06ca65c64f473f492c0c6f8ca83927a0b0f18a25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PG",
+    "sanitizedSymbol": "PG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225945",
+    "lockerAddress": "0xf12baD4d416fd437B237EC7B2e95DAB89A503a0a"
+  },
+  "clankerInfo": null
+}

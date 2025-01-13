@@ -1,0 +1,22 @@
+{
+  "name": "BanyanOrb",
+  "symbol": "BanyanOrb",
+  "decimals": 18,
+  "description": "BanyanOrb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BanyanOrb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BanyanOrb",
+  "addresses": {
+    "8453": "0x0df85bc38210ee64ddbc75c360fd341109d7083f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BanyanOrb",
+    "sanitizedSymbol": "BANYANORB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4050763a78575754Fac3A2683541755bC0EBBCEa",
+    "lpNftId": "1309352",
+    "lockerAddress": "0x23A6F04487A880728704b69D5A96ac61e19eb7E7"
+  },
+  "clankerInfo": null
+}

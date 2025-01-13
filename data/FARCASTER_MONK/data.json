@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Monk",
+  "symbol": "Farcaster Monk",
+  "decimals": 18,
+  "description": "Farcaster Monk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Monk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Monk",
+  "addresses": {
+    "8453": "0x1b2a526e3fb506215b3e9257206d8c3f5c19b562"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Monk",
+    "sanitizedSymbol": "FARCASTER_MONK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8f7E58C9dCa2A42E4F7b677Cd298de2E05462214",
+    "lpNftId": "1322827",
+    "lockerAddress": "0xfc44aee3F9027f61190970141E19FF3bF475CF40"
+  },
+  "clankerInfo": null
+}

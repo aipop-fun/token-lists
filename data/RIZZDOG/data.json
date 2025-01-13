@@ -1,0 +1,22 @@
+{
+  "name": "RIZZDOG",
+  "symbol": "RIZZDOG",
+  "decimals": 18,
+  "description": "RIZZDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RIZZDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RIZZDOG",
+  "addresses": {
+    "8453": "0x375ea76aad70ee60945e04c6633788c223ff2db2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RIZZDOG",
+    "sanitizedSymbol": "RIZZDOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x01B37Edd07Ea71Eaf552b6ef1B8DcFBb328e1F39",
+    "lpNftId": "1353232",
+    "lockerAddress": "0x76AD139E4DbEcB070505c7Cd36ADd9DD3b000A58"
+  },
+  "clankerInfo": null
+}

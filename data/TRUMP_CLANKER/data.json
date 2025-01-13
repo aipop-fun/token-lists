@@ -1,0 +1,22 @@
+{
+  "name": "Trump Clanker",
+  "symbol": "Trump Clanker",
+  "decimals": 18,
+  "description": "Trump Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trump%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trump Clanker",
+  "addresses": {
+    "8453": "0x1dc45d547ef71abbc013cf249884ac14012e2082"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trump Clanker",
+    "sanitizedSymbol": "TRUMP_CLANKER",
+    "created_at": "2024-12-12T08:08:24.286117",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1429870",
+    "lockerAddress": "0xc1Efe3f99B8Ea77DF2D7C7a94e2d71e7882fcdC0"
+  },
+  "clankerInfo": null
+}

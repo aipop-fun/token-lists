@@ -1,0 +1,22 @@
+{
+  "name": "CheddarFrenzy",
+  "symbol": "CheddarFrenzy",
+  "decimals": 18,
+  "description": "CheddarFrenzy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CheddarFrenzy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CheddarFrenzy",
+  "addresses": {
+    "8453": "0x0fdfb612d5410395dc93cc0d324ef3e8f5f2664c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CheddarFrenzy",
+    "sanitizedSymbol": "CHEDDARFRENZY",
+    "created_at": "2024-12-09T03:24:47.840618",
+    "deployer": "0x7064856fcCF7aF18D2FC7D2F279e23BDFFd7Cd34",
+    "lpNftId": "1379941",
+    "lockerAddress": "0x7ace2819B3698ffF3ec775b00199547a1E5fF7a3"
+  },
+  "clankerInfo": null
+}

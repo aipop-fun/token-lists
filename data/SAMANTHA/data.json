@@ -1,0 +1,22 @@
+{
+  "name": "Samantha",
+  "symbol": "Samantha",
+  "decimals": 18,
+  "description": "Samantha is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Samantha",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Samantha",
+  "addresses": {
+    "8453": "0x3a5f9246eac90e540ecd6792a9f82d52b1c39c30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Samantha",
+    "sanitizedSymbol": "SAMANTHA",
+    "created_at": "2024-12-11T05:13:37.467724",
+    "deployer": "0x0444cD2b57DC4Ab637852dc8b60Ab397fb6837ac",
+    "lpNftId": "1413009",
+    "lockerAddress": "0x679770484fda3ECA37742214d2e27d90Dd904649"
+  },
+  "clankerInfo": null
+}

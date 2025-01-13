@@ -1,0 +1,22 @@
+{
+  "name": "ZINGR",
+  "symbol": "ZINGR",
+  "decimals": 18,
+  "description": "ZINGR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZINGR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZINGR",
+  "addresses": {
+    "8453": "0x3a374d6b4e13c78f59b0b38de4607815ef89d755"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZINGR",
+    "sanitizedSymbol": "ZINGR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1340981",
+    "lockerAddress": "0x8E8529cc6974f75719529086DC3a1C2B569b7B5E"
+  },
+  "clankerInfo": null
+}

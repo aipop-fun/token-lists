@@ -1,0 +1,22 @@
+{
+  "name": "HAL9000",
+  "symbol": "HAL9000",
+  "decimals": 18,
+  "description": "HAL9000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAL9000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAL9000",
+  "addresses": {
+    "8453": "0x1cac0707f7dcffa0f816c112aeb5b39830cd2401"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAL9000",
+    "sanitizedSymbol": "HAL9000",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164934",
+    "lockerAddress": "0xCd3D1E673CD27Cd96A2fAFD3Af69024f5F263F93"
+  },
+  "clankerInfo": null
+}

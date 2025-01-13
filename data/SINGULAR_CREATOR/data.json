@@ -1,0 +1,22 @@
+{
+  "name": "Singular Creator",
+  "symbol": "Singular Creator",
+  "decimals": 18,
+  "description": "Singular Creator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Singular%20Creator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Singular Creator",
+  "addresses": {
+    "8453": "0x0baa8b61565d9915745f35c8c2e607d836f4529f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Singular Creator",
+    "sanitizedSymbol": "SINGULAR_CREATOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235152",
+    "lockerAddress": "0xF040a82FFb2A1A52120BFC9600351B28A4903de3"
+  },
+  "clankerInfo": null
+}

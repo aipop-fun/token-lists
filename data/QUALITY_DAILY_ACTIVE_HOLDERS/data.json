@@ -1,0 +1,22 @@
+{
+  "name": "Quality Daily Active Holders",
+  "symbol": "Quality Daily Active Holders",
+  "decimals": 18,
+  "description": "Quality Daily Active Holders is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quality%20Daily%20Active%20Holders",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quality Daily Active Holders",
+  "addresses": {
+    "8453": "0x15a90221824098f4d4a6eeedf1d1c58b0a5fe8e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quality Daily Active Holders",
+    "sanitizedSymbol": "QUALITY_DAILY_ACTIVE_HOLDERS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204799",
+    "lockerAddress": "0x4baF8a9540527AEAdf7e68A5B62bB1A9Ef6b0456"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LOVELY",
+  "symbol": "LOVELY",
+  "decimals": 18,
+  "description": "LOVELY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOVELY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOVELY",
+  "addresses": {
+    "8453": "0x07a4590688fb92f613ed5720919d4a421a5b2d05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOVELY",
+    "sanitizedSymbol": "LOVELY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215656",
+    "lockerAddress": "0xCDB2ea14442faC34E565af6Dc61B4Fa4C0BA9C9b"
+  },
+  "clankerInfo": null
+}

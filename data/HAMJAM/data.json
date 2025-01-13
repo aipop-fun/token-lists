@@ -1,0 +1,22 @@
+{
+  "name": "HAMJAM",
+  "symbol": "HAMJAM",
+  "decimals": 18,
+  "description": "HAMJAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMJAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMJAM",
+  "addresses": {
+    "8453": "0x279ebb8f25f46e74aa1bba942ad1b4aceb6911cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMJAM",
+    "sanitizedSymbol": "HAMJAM",
+    "created_at": "2024-12-11T02:33:19.296828",
+    "deployer": "0x03e980f3eE4c13f2785099Dde09077F25Cfa3B33",
+    "lpNftId": "1410785",
+    "lockerAddress": "0x7431B89Efd6a6D97aA201145D48f20D84591B0Bd"
+  },
+  "clankerInfo": null
+}

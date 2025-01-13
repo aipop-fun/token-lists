@@ -1,0 +1,22 @@
+{
+  "name": "GAY",
+  "symbol": "GAY",
+  "decimals": 18,
+  "description": "GAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAY",
+  "addresses": {
+    "8453": "0x0a06ee8eacf9b3f38e82da380a927a4a0ee635c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAY",
+    "sanitizedSymbol": "GAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xa97d45c7d7DF859c465635E2f19F90c0cf5b1899",
+    "lpNftId": "1226637",
+    "lockerAddress": "0x0B0F63fa3AED5c2e02FfEB67924A2A5592cDD1eC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NONANON",
+  "symbol": "NONANON",
+  "decimals": 18,
+  "description": "NONANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NONANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NONANON",
+  "addresses": {
+    "8453": "0x0a0fd9016b6c8d3cae14df1acfeddd9b3d7f399f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NONANON",
+    "sanitizedSymbol": "NONANON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfAC50FD9eb90c1a7c0bC7b739EB90F1bda06E9D0",
+    "lpNftId": "1279237",
+    "lockerAddress": "0x628eFC64b870dCC22A114bAABc6Acb39C1405fe8"
+  },
+  "clankerInfo": null
+}

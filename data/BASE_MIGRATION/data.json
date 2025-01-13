@@ -1,0 +1,22 @@
+{
+  "name": "Base Migration",
+  "symbol": "Base Migration",
+  "decimals": 18,
+  "description": "Base Migration is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Migration",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Migration",
+  "addresses": {
+    "8453": "0x03759fcd2e637115b50202b4061dbe9d8ed0d9d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Migration",
+    "sanitizedSymbol": "BASE_MIGRATION",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223653",
+    "lockerAddress": "0x7fF7c3A3d58dd0D3fBb69f58883535A010992a06"
+  },
+  "clankerInfo": null
+}

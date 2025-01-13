@@ -1,0 +1,22 @@
+{
+  "name": "bosmal",
+  "symbol": "bosmal",
+  "decimals": 18,
+  "description": "bosmal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bosmal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bosmal",
+  "addresses": {
+    "8453": "0x0767d926392c353479fd617857bfb43902db7b7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bosmal",
+    "sanitizedSymbol": "BOSMAL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xBE79AE33E9706235D2a342aB2B9ca8FbBfADb238",
+    "lpNftId": "1251875",
+    "lockerAddress": "0x49643aece6e5d3e2D33DD31220668FCc999E8BeC"
+  },
+  "clankerInfo": null
+}

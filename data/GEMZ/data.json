@@ -1,0 +1,22 @@
+{
+  "name": "GEMZ",
+  "symbol": "GEMZ",
+  "decimals": 18,
+  "description": "GEMZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GEMZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GEMZ",
+  "addresses": {
+    "8453": "0x391cba03510523bedee7cba8c17dd3c5ac26ae60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GEMZ",
+    "sanitizedSymbol": "GEMZ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235309",
+    "lockerAddress": "0x21338232c0c0DdD7f6E70911f41b75f63b3607DB"
+  },
+  "clankerInfo": null
+}

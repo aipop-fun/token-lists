@@ -1,0 +1,22 @@
+{
+  "name": "babybark",
+  "symbol": "babybark",
+  "decimals": 18,
+  "description": "babybark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=babybark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "babybark",
+  "addresses": {
+    "8453": "0x175101846198e7225f2854da760ad41575434420"
+  },
+  "tokenInfo": {
+    "originalSymbol": "babybark",
+    "sanitizedSymbol": "BABYBARK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1354514",
+    "lockerAddress": "0x866BC8f80E68Ee14598CEb2E0ee297EeB955273d"
+  },
+  "clankerInfo": null
+}

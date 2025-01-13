@@ -1,0 +1,22 @@
+{
+  "name": "Golden Lion",
+  "symbol": "Golden Lion",
+  "decimals": 18,
+  "description": "Golden Lion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golden%20Lion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golden Lion",
+  "addresses": {
+    "8453": "0x361054f3b86f200b73f792b4703f21df7713029d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golden Lion",
+    "sanitizedSymbol": "GOLDEN_LION",
+    "created_at": "2024-12-12T22:16:14.45939",
+    "deployer": "0x75076758e0983E9f50E57E749C93F48047991894",
+    "lpNftId": "1444466",
+    "lockerAddress": "0x8794F3A69Cd5dC09F720e70B2c06820121570673"
+  },
+  "clankerInfo": null
+}

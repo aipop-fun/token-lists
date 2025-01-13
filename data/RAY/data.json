@@ -1,0 +1,22 @@
+{
+  "name": "RAY",
+  "symbol": "RAY",
+  "decimals": 18,
+  "description": "RAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAY",
+  "addresses": {
+    "8453": "0x12118c5eb76d98d664d9faffda46eb7daedf519d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAY",
+    "sanitizedSymbol": "RAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b5fa155785fcb3deD40e6e138BedEdC9Df1CFe9",
+    "lpNftId": "1362382",
+    "lockerAddress": "0xD46AA90907262F90fDE04725324870B5BAdD0297"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "gtokenhome",
+  "symbol": "gtokenhome",
+  "decimals": 18,
+  "description": "gtokenhome is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gtokenhome",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gtokenhome",
+  "addresses": {
+    "8453": "0x14ebd67d1d4a32a7bb7cd63c1f62d5ad470fbe32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gtokenhome",
+    "sanitizedSymbol": "GTOKENHOME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x007678a2Fb7EE0E04a6B1ae37ff7fd6CFb22046A",
+    "lpNftId": "1326460",
+    "lockerAddress": "0x8fa494a465Fa37e5Fb85D14643D90e6fa9dC4aa4"
+  },
+  "clankerInfo": null
+}

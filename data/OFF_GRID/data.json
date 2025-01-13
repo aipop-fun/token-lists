@@ -1,0 +1,22 @@
+{
+  "name": "$Off-Grid",
+  "symbol": "$Off-Grid",
+  "decimals": 18,
+  "description": "$Off-Grid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24Off-Grid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$Off-Grid",
+  "addresses": {
+    "8453": "0x027dc87945625243bf7d47c0bdadc8564778dc37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$Off-Grid",
+    "sanitizedSymbol": "OFF_GRID",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8A9eAB15A74a4Bf96804C55387580f1493765B75",
+    "lpNftId": "1272581",
+    "lockerAddress": "0x53d3101B865f5B486C675Db7764E80d214AdbbE2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BLUE MONSTER",
+  "symbol": "BLUE MONSTER",
+  "decimals": 18,
+  "description": "BLUE MONSTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUE%20MONSTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUE MONSTER",
+  "addresses": {
+    "8453": "0x2b05d29f99f9304741eff42c52144cbe4144c085"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUE MONSTER",
+    "sanitizedSymbol": "BLUE_MONSTER_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE302B9eC189426D0BCA4011e46EBEbb2F56158cD",
+    "lpNftId": "1306745",
+    "lockerAddress": "0xB58aA12B837A0F6986FD6619abFA488cC520Eddb"
+  },
+  "clankerInfo": null
+}

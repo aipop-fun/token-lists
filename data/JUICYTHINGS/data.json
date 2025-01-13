@@ -1,0 +1,22 @@
+{
+  "name": "JuicyThings",
+  "symbol": "JuicyThings",
+  "decimals": 18,
+  "description": "JuicyThings is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JuicyThings",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JuicyThings",
+  "addresses": {
+    "8453": "0x3fad815bc87c4a8e22c78237b7eef2198a06c005"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JuicyThings",
+    "sanitizedSymbol": "JUICYTHINGS",
+    "created_at": "2024-12-11T22:29:31.530241",
+    "deployer": "0x6ecD0e894F2432A7e4f2f6bFAa24FEb27Cc84750",
+    "lpNftId": "1427334",
+    "lockerAddress": "0x4079E62BAe5FCfaF6D45e36CF585D0c3dE42C172"
+  },
+  "clankerInfo": null
+}

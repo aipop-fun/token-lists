@@ -1,0 +1,22 @@
+{
+  "name": "base pilled",
+  "symbol": "base pilled",
+  "decimals": 18,
+  "description": "base pilled is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20pilled",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base pilled",
+  "addresses": {
+    "8453": "0x2c6a5fa6d4367f945ace6a2508ee28780272dda9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base pilled",
+    "sanitizedSymbol": "BASE_PILLED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229798",
+    "lockerAddress": "0x29BCD3f56a4a48C9DB374473De34a5Ef70570797"
+  },
+  "clankerInfo": null
+}

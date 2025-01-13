@@ -1,0 +1,22 @@
+{
+  "name": "SANTA CLAUS",
+  "symbol": "SANTA CLAUS",
+  "decimals": 18,
+  "description": "SANTA CLAUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20CLAUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA CLAUS",
+  "addresses": {
+    "8453": "0x3da2878fd2821e3efeaf93edd5e4b3ad49327980"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA CLAUS",
+    "sanitizedSymbol": "SANTA_CLAUS_4",
+    "created_at": "2024-12-12T06:45:19.596913",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1429638",
+    "lockerAddress": "0xDbb0C5CD44C4846118dBDdb77a0F99eF42bdC3FD"
+  },
+  "clankerInfo": null
+}

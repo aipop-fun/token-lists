@@ -1,0 +1,22 @@
+{
+  "name": "HumanAI",
+  "symbol": "HumanAI",
+  "decimals": 18,
+  "description": "HumanAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HumanAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HumanAI",
+  "addresses": {
+    "8453": "0x19bbcd758fa91f1ca5bea135cb8bb1dc431ff212"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HumanAI",
+    "sanitizedSymbol": "HUMANAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB9aA0A5916298C90211834a74b3723AA10C7a2bf",
+    "lpNftId": "1285695",
+    "lockerAddress": "0x5d373D568308e0e6B5a25001eeE6502281Ee37e0"
+  },
+  "clankerInfo": null
+}

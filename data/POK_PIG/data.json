@@ -1,0 +1,22 @@
+{
+  "name": "pok pig",
+  "symbol": "pok pig",
+  "decimals": 18,
+  "description": "pok pig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pok%20pig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pok pig",
+  "addresses": {
+    "8453": "0x33cf20fa3792f4ffc1665528fbeee1677f223601"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pok pig",
+    "sanitizedSymbol": "POK_PIG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd829a730952720B09d0fA66e2566752243317d8C",
+    "lpNftId": "1251479",
+    "lockerAddress": "0x522dCE449779FA0dCcA35FA4CcBCf567c1B2366B"
+  },
+  "clankerInfo": null
+}

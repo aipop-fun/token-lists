@@ -1,0 +1,22 @@
+{
+  "name": "cinizio",
+  "symbol": "cinizio",
+  "decimals": 18,
+  "description": "cinizio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cinizio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cinizio",
+  "addresses": {
+    "8453": "0x2a2b85e5303c60799e3283ebb9e0ef14d8c103fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cinizio",
+    "sanitizedSymbol": "CINIZIO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1313868",
+    "lockerAddress": "0x4bD14bffBc49A0D2525eA076e21693b21788779d"
+  },
+  "clankerInfo": null
+}

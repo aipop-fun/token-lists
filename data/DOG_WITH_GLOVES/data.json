@@ -1,0 +1,22 @@
+{
+  "name": "Dog with Gloves",
+  "symbol": "Dog with Gloves",
+  "decimals": 18,
+  "description": "Dog with Gloves is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dog%20with%20Gloves",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dog with Gloves",
+  "addresses": {
+    "8453": "0x0dfd4cdd535ca07c27c92542b9d368bae631e8ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dog with Gloves",
+    "sanitizedSymbol": "DOG_WITH_GLOVES",
+    "created_at": "2024-12-10T21:07:35.871312",
+    "deployer": "0x450bcef5d8Fe5Db30926184dA441708B72994e51",
+    "lpNftId": "1407224",
+    "lockerAddress": "0x6AA56f077Ce9Aac5842A9aB8C72a5d94832E15bf"
+  },
+  "clankerInfo": null
+}

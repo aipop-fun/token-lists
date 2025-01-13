@@ -1,0 +1,22 @@
+{
+  "name": "QQ Penguins Coins",
+  "symbol": "QQ Penguins Coins",
+  "decimals": 18,
+  "description": "QQ Penguins Coins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QQ%20Penguins%20Coins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QQ Penguins Coins",
+  "addresses": {
+    "8453": "0x129272528a1053ecc2af1f24eefccb26d3b89e9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QQ Penguins Coins",
+    "sanitizedSymbol": "QQ_PENGUINS_COINS",
+    "created_at": "2024-12-10T12:53:22.684583",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1401197",
+    "lockerAddress": "0x6f8d44AfcE72Fc9699683A403232C79561439849"
+  },
+  "clankerInfo": null
+}

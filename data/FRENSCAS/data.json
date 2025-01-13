@@ -1,0 +1,22 @@
+{
+  "name": "frenscas",
+  "symbol": "frenscas",
+  "decimals": 18,
+  "description": "frenscas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=frenscas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "frenscas",
+  "addresses": {
+    "8453": "0x391e158090b1cd7023efa88952fb2e878bd10973"
+  },
+  "tokenInfo": {
+    "originalSymbol": "frenscas",
+    "sanitizedSymbol": "FRENSCAS",
+    "created_at": "2024-12-09T03:39:01.604649",
+    "deployer": "0xb19Ad939C719CdeEa7646f8fEE0FcAFeC4a95218",
+    "lpNftId": "1380215",
+    "lockerAddress": "0x0111e20954fc41811d69BD432Eb641A66f35B70D"
+  },
+  "clankerInfo": null
+}

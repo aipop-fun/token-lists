@@ -1,0 +1,22 @@
+{
+  "name": "PAIN",
+  "symbol": "PAIN",
+  "decimals": 18,
+  "description": "PAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAIN",
+  "addresses": {
+    "8453": "0x3fb1ae8f3b6a0d86211165a4ff773986015303ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAIN",
+    "sanitizedSymbol": "PAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123414",
+    "lockerAddress": "0xCBDc2bB5EDa5b56719E1CFBE55175120E17e8586"
+  },
+  "clankerInfo": null
+}

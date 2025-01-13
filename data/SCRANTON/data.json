@@ -1,0 +1,22 @@
+{
+  "name": "Scranton",
+  "symbol": "Scranton",
+  "decimals": 18,
+  "description": "Scranton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Scranton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Scranton",
+  "addresses": {
+    "8453": "0x20eb88b6508a3d83e6e27bc264cde030790cec56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Scranton",
+    "sanitizedSymbol": "SCRANTON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xebC86D89D5Cd76f4D2C82702509A8ed336Ad1f12",
+    "lpNftId": "1318481",
+    "lockerAddress": "0x6E6568A3cE2C76ff641f58e53e8bFedF75Ff7715"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Colossal",
+  "symbol": "Colossal",
+  "decimals": 18,
+  "description": "Colossal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Colossal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Colossal",
+  "addresses": {
+    "8453": "0x10af77af7d01568d43baa1e600e96699669fd449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Colossal",
+    "sanitizedSymbol": "COLOSSAL",
+    "created_at": "2024-12-09T10:47:39.007519",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1386044",
+    "lockerAddress": "0x64f8702340BA341Efb12dE580bE2461405C8239F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "jizzlypuff",
+  "symbol": "jizzlypuff",
+  "decimals": 18,
+  "description": "jizzlypuff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jizzlypuff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jizzlypuff",
+  "addresses": {
+    "8453": "0x0c5e326cb012ac68cb9043f1af764ba21911f39c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jizzlypuff",
+    "sanitizedSymbol": "JIZZLYPUFF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237801",
+    "lockerAddress": "0xAE1Ea8E9B1D204E9e63A6c6A43EFC9fB2B81909c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RIP Jake",
+  "symbol": "RIP Jake",
+  "decimals": 18,
+  "description": "RIP Jake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RIP%20Jake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RIP Jake",
+  "addresses": {
+    "8453": "0x1be59afd3b3692c87dc07260179fd572a27f5b01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RIP Jake",
+    "sanitizedSymbol": "RIP_JAKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1168022",
+    "lockerAddress": "0xb586ae7C03F7e3b02306679EE038d8A88893438F"
+  },
+  "clankerInfo": null
+}

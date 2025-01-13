@@ -1,0 +1,22 @@
+{
+  "name": "meowmeowmeow",
+  "symbol": "meowmeowmeow",
+  "decimals": 18,
+  "description": "meowmeowmeow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=meowmeowmeow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "meowmeowmeow",
+  "addresses": {
+    "8453": "0x3528e3619ede9e14060d3f2572bfeeef9ca8dbb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "meowmeowmeow",
+    "sanitizedSymbol": "MEOWMEOWMEOW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223871",
+    "lockerAddress": "0xb07E4C5355984C6483307b2021DC64d2aB55f4ec"
+  },
+  "clankerInfo": null
+}

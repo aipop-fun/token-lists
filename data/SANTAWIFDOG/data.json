@@ -1,0 +1,22 @@
+{
+  "name": "SantaWifDog",
+  "symbol": "SantaWifDog",
+  "decimals": 18,
+  "description": "SantaWifDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaWifDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaWifDog",
+  "addresses": {
+    "8453": "0x3a3a3dbf51e5ad998fe05c8d10a6daa4bd6cfbf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaWifDog",
+    "sanitizedSymbol": "SANTAWIFDOG",
+    "created_at": "2024-12-10T04:30:15.66603",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1396303",
+    "lockerAddress": "0xc7B1cdE65b8B076d33dCD0ab69A10068CcBe3E7D"
+  },
+  "clankerInfo": null
+}

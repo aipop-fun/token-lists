@@ -1,0 +1,22 @@
+{
+  "name": "Poglad' kota",
+  "symbol": "Poglad' kota",
+  "decimals": 18,
+  "description": "Poglad' kota is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Poglad'%20kota",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Poglad' kota",
+  "addresses": {
+    "8453": "0x15e5b2a06d3f1dd4d7bd805c0b9737e5a667e9b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Poglad' kota",
+    "sanitizedSymbol": "POGLAD_KOTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7F367d136CcCd0a65E8BCcCc8e68031Ae37251b9",
+    "lpNftId": "1312761",
+    "lockerAddress": "0x6eFE89cAD1De0aB7a4Dc64E4d21158Dc3BF04cfF"
+  },
+  "clankerInfo": null
+}

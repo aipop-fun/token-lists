@@ -1,0 +1,22 @@
+{
+  "name": "Ginatl",
+  "symbol": "Ginatl",
+  "decimals": 18,
+  "description": "Ginatl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ginatl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ginatl",
+  "addresses": {
+    "8453": "0x0b34412a0e388395ae6fb76de636ab2338848a39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ginatl",
+    "sanitizedSymbol": "GINATL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x326fb0EaB3645763bc7CC027864Ce89269838575",
+    "lpNftId": "1312935",
+    "lockerAddress": "0x014bDd3C5a41ab8b439F6A69F2563f5b12B13a48"
+  },
+  "clankerInfo": null
+}

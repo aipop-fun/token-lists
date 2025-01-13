@@ -1,0 +1,22 @@
+{
+  "name": "BASE GRAPEFRUIT",
+  "symbol": "BASE GRAPEFRUIT",
+  "decimals": 18,
+  "description": "BASE GRAPEFRUIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20GRAPEFRUIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE GRAPEFRUIT",
+  "addresses": {
+    "8453": "0x1b0a60d3846556c94f6dea3518a7a17819c0231d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE GRAPEFRUIT",
+    "sanitizedSymbol": "BASE_GRAPEFRUIT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xaa01bbB38Fc52095185fAD0C625b5CaEDE05C93A",
+    "lpNftId": "1267760",
+    "lockerAddress": "0x38537C5222c0cd031d8e141c97fD5293Cf904f05"
+  },
+  "clankerInfo": null
+}

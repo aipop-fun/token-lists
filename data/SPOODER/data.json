@@ -1,0 +1,22 @@
+{
+  "name": "SPooDER",
+  "symbol": "SPooDER",
+  "decimals": 18,
+  "description": "SPooDER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPooDER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPooDER",
+  "addresses": {
+    "8453": "0x0c49d765acf97b2b5e795ba39f5387a12f16dd65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPooDER",
+    "sanitizedSymbol": "SPOODER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22363a27920cE769E396f59D63BB8744bd677b23",
+    "lpNftId": "1311935",
+    "lockerAddress": "0x7c6aaE7aeffb3f0C709f858e1812AaDF0dd63eFb"
+  },
+  "clankerInfo": null
+}

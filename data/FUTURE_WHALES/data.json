@@ -1,0 +1,22 @@
+{
+  "name": "Future whales",
+  "symbol": "Future whales",
+  "decimals": 18,
+  "description": "Future whales is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Future%20whales",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Future whales",
+  "addresses": {
+    "8453": "0x057969189dda9a204030fae835ac2c2c2a40d7dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Future whales",
+    "sanitizedSymbol": "FUTURE_WHALES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1319326",
+    "lockerAddress": "0x63A5D0f107Aa2Dfe6d89cDD69bB234E263125cf2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kitiket",
+  "symbol": "Kitiket",
+  "decimals": 18,
+  "description": "Kitiket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kitiket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kitiket",
+  "addresses": {
+    "8453": "0x2924a1f5a44b6f09cc04538939df759d0b1891f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kitiket",
+    "sanitizedSymbol": "KITIKET",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4005cfA230F4A422D119406f826e9894dAaC19d9",
+    "lpNftId": "1324104",
+    "lockerAddress": "0x292f2A18385B987eD22F54424aAa8C571823A702"
+  },
+  "clankerInfo": null
+}

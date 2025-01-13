@@ -1,0 +1,22 @@
+{
+  "name": "MOVE BASED",
+  "symbol": "MOVE BASED",
+  "decimals": 18,
+  "description": "MOVE BASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOVE%20BASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOVE BASED",
+  "addresses": {
+    "8453": "0x29a7847f4bfa05b553dd6541d67c8d4d328b5a34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOVE BASED",
+    "sanitizedSymbol": "MOVE_BASED",
+    "created_at": "2024-12-10T19:06:33.396462",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1405967",
+    "lockerAddress": "0xF1e1206bb992DC12010aaf123aaFcF84Da3907ca"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ESPECULATION",
+  "symbol": "ESPECULATION",
+  "decimals": 18,
+  "description": "ESPECULATION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ESPECULATION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ESPECULATION",
+  "addresses": {
+    "8453": "0x2a39e8e01303498290a8683035217683d33d3fa8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ESPECULATION",
+    "sanitizedSymbol": "ESPECULATION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x954B6dE2E9C58B0ca7B21e9A048fD0A6CEa6f92C",
+    "lpNftId": "1364165",
+    "lockerAddress": "0x9D931134Bf2cFAe813cc5b4E7C7795De0f909a53"
+  },
+  "clankerInfo": null
+}

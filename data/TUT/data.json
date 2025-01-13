@@ -1,0 +1,22 @@
+{
+  "name": "tut",
+  "symbol": "tut",
+  "decimals": 18,
+  "description": "tut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tut",
+  "addresses": {
+    "8453": "0x2e342fc627ac923b3ac4fc66220acb6574dc6621"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tut",
+    "sanitizedSymbol": "TUT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7510E45811640A0A81ea8618b268429D0cF446A6",
+    "lpNftId": "1252972",
+    "lockerAddress": "0x80C0B84ce779f29E557c4B12AA398B9e91CAFB54"
+  },
+  "clankerInfo": null
+}

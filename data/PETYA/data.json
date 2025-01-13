@@ -1,0 +1,22 @@
+{
+  "name": "petya",
+  "symbol": "petya",
+  "decimals": 18,
+  "description": "petya is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=petya",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "petya",
+  "addresses": {
+    "8453": "0x3e458f8baf66170263415dda522dc2c7697e1cff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "petya",
+    "sanitizedSymbol": "PETYA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf7714634c8b226e664AcE3468b907a9F4D2d0EEf",
+    "lpNftId": "1313603",
+    "lockerAddress": "0x19606C84B0F128cE15aE0427EAa298d2a5052bFf"
+  },
+  "clankerInfo": null
+}

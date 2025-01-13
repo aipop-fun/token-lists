@@ -1,0 +1,22 @@
+{
+  "name": "My Name is, Jeff",
+  "symbol": "My Name is, Jeff",
+  "decimals": 18,
+  "description": "My Name is, Jeff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Name%20is%2C%20Jeff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Name is, Jeff",
+  "addresses": {
+    "8453": "0x0cc05457d479566b5a2b425ab11bbeb4cdc6153a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Name is, Jeff",
+    "sanitizedSymbol": "MY_NAME_IS_JEFF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x24a0e4EE348f33252e83fE1e824499381dd21aa9",
+    "lpNftId": "1346210",
+    "lockerAddress": "0x65CFe375750f8A91154f2a6C950E1A7154a99b06"
+  },
+  "clankerInfo": null
+}

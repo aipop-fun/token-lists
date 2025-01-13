@@ -1,0 +1,22 @@
+{
+  "name": "stroke",
+  "symbol": "stroke",
+  "decimals": 18,
+  "description": "stroke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stroke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stroke",
+  "addresses": {
+    "8453": "0x0a50dba581577aae60467927b5f647977ba9845c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stroke",
+    "sanitizedSymbol": "STROKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192933",
+    "lockerAddress": "0x961dd68b8a0C8dC28a02213b344Cb65b304C6b96"
+  },
+  "clankerInfo": null
+}

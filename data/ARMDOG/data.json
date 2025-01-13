@@ -1,0 +1,22 @@
+{
+  "name": "ArmDog",
+  "symbol": "ArmDog",
+  "decimals": 18,
+  "description": "ArmDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ArmDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ArmDog",
+  "addresses": {
+    "8453": "0x00babde47e5eb62f798488449496dbbc2f67debf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ArmDog",
+    "sanitizedSymbol": "ARMDOG",
+    "created_at": "2024-12-09T15:56:35.104537",
+    "deployer": "0xC8D4F855FE4a3d88e77Ae4eb0BB8BE492AeeaF44",
+    "lpNftId": "1388872",
+    "lockerAddress": "0xA4adA9bb5F25b065323e66b4444E7a2B05dB1f88"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fork",
+  "symbol": "fork",
+  "decimals": 18,
+  "description": "fork is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fork",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fork",
+  "addresses": {
+    "8453": "0x19e37eee0ce32fb08d3407e9ea61538763ff8dc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fork",
+    "sanitizedSymbol": "FORK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6E44C9F85B1C68567a77cD2E1071aC9c78fd37d7",
+    "lpNftId": "1344073",
+    "lockerAddress": "0x4D94DcA4a7fa2543f93Af5b2c0e014A51E3a3bB3"
+  },
+  "clankerInfo": null
+}

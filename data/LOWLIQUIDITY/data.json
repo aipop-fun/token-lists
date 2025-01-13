@@ -1,0 +1,22 @@
+{
+  "name": "LOWLIQUIDITY",
+  "symbol": "LOWLIQUIDITY",
+  "decimals": 18,
+  "description": "LOWLIQUIDITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOWLIQUIDITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOWLIQUIDITY",
+  "addresses": {
+    "8453": "0x0fc40b842165541c607b893e8cdcc5f44fda53a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOWLIQUIDITY",
+    "sanitizedSymbol": "LOWLIQUIDITY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156629",
+    "lockerAddress": "0xe31251EcF8d6BE52b5344bBdC425E77643B873B2"
+  },
+  "clankerInfo": null
+}

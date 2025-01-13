@@ -1,0 +1,22 @@
+{
+  "name": "Not that Chill",
+  "symbol": "Not that Chill",
+  "decimals": 18,
+  "description": "Not that Chill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20that%20Chill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not that Chill",
+  "addresses": {
+    "8453": "0x323375c15f45ddaf2a52f94bbe722372af4669d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not that Chill",
+    "sanitizedSymbol": "NOT_THAT_CHILL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223027",
+    "lockerAddress": "0xDbB299B9B4f3976feA41d029d23ABAaEb3C8EedB"
+  },
+  "clankerInfo": null
+}

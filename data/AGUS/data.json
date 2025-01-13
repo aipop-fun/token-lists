@@ -1,0 +1,22 @@
+{
+  "name": "AGUS",
+  "symbol": "AGUS",
+  "decimals": 18,
+  "description": "AGUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AGUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AGUS",
+  "addresses": {
+    "8453": "0x308e1a8b8c99d91a9ccf27c38a287b3dacdd76ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AGUS",
+    "sanitizedSymbol": "AGUS",
+    "created_at": "2024-12-11T16:38:18.051635",
+    "deployer": "0xc6c9B9C154D7053f14BeCA7483aB14a9ce279328",
+    "lpNftId": "1421950",
+    "lockerAddress": "0xdCF1D43E02210A864613bb3F5cD44eecDdeBF242"
+  },
+  "clankerInfo": null
+}

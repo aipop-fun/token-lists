@@ -1,0 +1,22 @@
+{
+  "name": "John Cena",
+  "symbol": "John Cena",
+  "decimals": 18,
+  "description": "John Cena is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=John%20Cena",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "John Cena",
+  "addresses": {
+    "8453": "0x306ba2a13afe3a3f4c787cdf9ef0a8290aec2eb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "John Cena",
+    "sanitizedSymbol": "JOHN_CENA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x042273183818FF50cAE2cD5883AB2c7ffD421b8b",
+    "lpNftId": "1308712",
+    "lockerAddress": "0x3AEd0186A774f288128F65d6A9c1bDaBdF23c78e"
+  },
+  "clankerInfo": null
+}

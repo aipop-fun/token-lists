@@ -1,0 +1,22 @@
+{
+  "name": "MakeMoreMoney",
+  "symbol": "MakeMoreMoney",
+  "decimals": 18,
+  "description": "MakeMoreMoney is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MakeMoreMoney",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MakeMoreMoney",
+  "addresses": {
+    "8453": "0x402cfa020b5344be6f9751dc91b5399831e97703"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MakeMoreMoney",
+    "sanitizedSymbol": "MAKEMOREMONEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfE5f86F8AEFB83d96c5205C1cCc0b140cFf79E09",
+    "lpNftId": "1252761",
+    "lockerAddress": "0x0F608a4026908AC116ca40A63871D6A068ea231f"
+  },
+  "clankerInfo": null
+}

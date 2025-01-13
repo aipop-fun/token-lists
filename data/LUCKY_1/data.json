@@ -1,0 +1,22 @@
+{
+  "name": "Lucky",
+  "symbol": "Lucky",
+  "decimals": 18,
+  "description": "Lucky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lucky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lucky",
+  "addresses": {
+    "8453": "0x24755257fd2c6d191eb82d93cc73128b74e0343a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lucky",
+    "sanitizedSymbol": "LUCKY_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232321",
+    "lockerAddress": "0x70628e4e6Ac7dbf07647136Ec9EAdF7c6009ACf6"
+  },
+  "clankerInfo": null
+}

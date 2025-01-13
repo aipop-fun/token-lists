@@ -1,0 +1,22 @@
+{
+  "name": "POOR",
+  "symbol": "POOR",
+  "decimals": 18,
+  "description": "POOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POOR",
+  "addresses": {
+    "8453": "0x3139a98c55f78d30ccfde1f2e983a72540caad29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POOR",
+    "sanitizedSymbol": "POOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235106",
+    "lockerAddress": "0x01e53dc2a866daFc23e14631c2b6f68BaB7DF3E9"
+  },
+  "clankerInfo": null
+}

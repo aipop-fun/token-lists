@@ -1,0 +1,22 @@
+{
+  "name": "Question mark",
+  "symbol": "Question mark",
+  "decimals": 18,
+  "description": "Question mark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Question%20mark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Question mark",
+  "addresses": {
+    "8453": "0x064b4808229936772363e0e9b2d08359f8e9fc56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Question mark",
+    "sanitizedSymbol": "QUESTION_MARK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210340",
+    "lockerAddress": "0x3071F860f74e06dB817F4500d842fF7E53238De6"
+  },
+  "clankerInfo": null
+}

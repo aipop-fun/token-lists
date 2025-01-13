@@ -1,0 +1,22 @@
+{
+  "name": "MONICE",
+  "symbol": "MONICE",
+  "decimals": 18,
+  "description": "MONICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONICE",
+  "addresses": {
+    "8453": "0x03a30858760a21d4e222f5f7555a76e37388ff66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONICE",
+    "sanitizedSymbol": "MONICE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf9d7947c09Df9e56FD25D6eed9286fe96E02F7cA",
+    "lpNftId": "1251031",
+    "lockerAddress": "0x836FE8f2A67b34a3A4A1eE6C82FeD7D37A8551fA"
+  },
+  "clankerInfo": null
+}

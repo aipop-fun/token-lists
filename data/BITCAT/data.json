@@ -1,0 +1,22 @@
+{
+  "name": "BitCat",
+  "symbol": "BitCat",
+  "decimals": 18,
+  "description": "BitCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BitCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BitCat",
+  "addresses": {
+    "8453": "0x13de1839b78276815f8d9ae4c6c8529a6eb33ba7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BitCat",
+    "sanitizedSymbol": "BITCAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163291",
+    "lockerAddress": "0x5F5A51585772fC3D313685cFd4c1A44Be2007591"
+  },
+  "clankerInfo": null
+}

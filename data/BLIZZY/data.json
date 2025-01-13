@@ -1,0 +1,22 @@
+{
+  "name": "Blizzy",
+  "symbol": "Blizzy",
+  "decimals": 18,
+  "description": "Blizzy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blizzy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blizzy",
+  "addresses": {
+    "8453": "0x0cf0eb1666009d3f5c7649efb9a016fbe9550965"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blizzy",
+    "sanitizedSymbol": "BLIZZY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc771e423F687f913E252CeA0A491380dc0f9ec58",
+    "lpNftId": "1252019",
+    "lockerAddress": "0xd93a5260f4122b5ecb3F0CCC65d3BD910f1Fe1e3"
+  },
+  "clankerInfo": null
+}

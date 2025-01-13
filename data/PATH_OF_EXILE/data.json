@@ -1,0 +1,22 @@
+{
+  "name": "Path of Exile",
+  "symbol": "Path of Exile",
+  "decimals": 18,
+  "description": "Path of Exile is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Path%20of%20Exile",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Path of Exile",
+  "addresses": {
+    "8453": "0x3822a793b216c8cfe9ad2719b0f4d0c214b84af3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Path of Exile",
+    "sanitizedSymbol": "PATH_OF_EXILE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x425C90B7CA97BEc31aa2ae2Eb58F683F5D11E03a",
+    "lpNftId": "1321097",
+    "lockerAddress": "0x91a1d4D8A3d5a12A026B2E86e58bF73150529091"
+  },
+  "clankerInfo": null
+}

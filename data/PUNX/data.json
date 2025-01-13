@@ -1,0 +1,22 @@
+{
+  "name": "PUNX",
+  "symbol": "PUNX",
+  "decimals": 18,
+  "description": "PUNX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUNX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUNX",
+  "addresses": {
+    "8453": "0x2e6bbcbe1bf4511d384c1807e8265bbbcf59d1b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUNX",
+    "sanitizedSymbol": "PUNX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9Bd54CAcC901F0aA03Ff1465d0EbcabE98F4022a",
+    "lpNftId": "1319982",
+    "lockerAddress": "0xfC4930BabBB8063BB13646F0aE5808D22C822BE2"
+  },
+  "clankerInfo": null
+}

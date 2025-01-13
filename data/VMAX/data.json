@@ -1,0 +1,22 @@
+{
+  "name": "VMAX",
+  "symbol": "VMAX",
+  "decimals": 18,
+  "description": "VMAX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VMAX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VMAX",
+  "addresses": {
+    "8453": "0x13f479bf7817d95d1b1c3cad441011b7a422af40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VMAX",
+    "sanitizedSymbol": "VMAX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcdEBddbbc3A2d522032B9Ee964321b7403B7181e",
+    "lpNftId": "1284523",
+    "lockerAddress": "0x761b3C288aA581627DeE5C83505DF8391360853e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "transgirl",
+  "symbol": "transgirl",
+  "decimals": 18,
+  "description": "transgirl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=transgirl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "transgirl",
+  "addresses": {
+    "8453": "0x0cdcede0301cdc8524da07d95a83993f4b8262d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "transgirl",
+    "sanitizedSymbol": "TRANSGIRL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1140f01a6ddeCca7804f00D5C2D63F18b70231e",
+    "lpNftId": "1314754",
+    "lockerAddress": "0x074F27888616094a01e42bcFcC2565Bc836292A8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FUTURE",
+  "symbol": "FUTURE",
+  "decimals": 18,
+  "description": "FUTURE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUTURE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUTURE",
+  "addresses": {
+    "8453": "0x157ce4b64e3bd7bac90632fde896efff4bb6d430"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUTURE",
+    "sanitizedSymbol": "FUTURE_2",
+    "created_at": "2024-12-11T03:03:01.598889",
+    "deployer": "0xaB4EB9B3Bb2073Ff1e8c70A17720CB2EDCc13fA6",
+    "lpNftId": "1411483",
+    "lockerAddress": "0x41E85EcBF9c329391B26720C6b042013169fcFD2"
+  },
+  "clankerInfo": null
+}

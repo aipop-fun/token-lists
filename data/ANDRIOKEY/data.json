@@ -1,0 +1,22 @@
+{
+  "name": "andriokey",
+  "symbol": "andriokey",
+  "decimals": 18,
+  "description": "andriokey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=andriokey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "andriokey",
+  "addresses": {
+    "8453": "0x2a384d6ab7b88bce67e1e1bf702b2786cd0005e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "andriokey",
+    "sanitizedSymbol": "ANDRIOKEY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1292413",
+    "lockerAddress": "0xA768480fdf4758d3d62327CA08e80E986453015b"
+  },
+  "clankerInfo": null
+}

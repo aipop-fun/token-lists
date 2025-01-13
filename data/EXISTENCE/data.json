@@ -1,0 +1,22 @@
+{
+  "name": "Existence",
+  "symbol": "Existence",
+  "decimals": 18,
+  "description": "Existence is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Existence",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Existence",
+  "addresses": {
+    "8453": "0x3affe879a5eb3a2da87d355588da190e457dad96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Existence",
+    "sanitizedSymbol": "EXISTENCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160850",
+    "lockerAddress": "0x0D55418f5300415EC805dc7215489D4032251D52"
+  },
+  "clankerInfo": null
+}

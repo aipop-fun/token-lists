@@ -1,0 +1,22 @@
+{
+  "name": "Badgerly",
+  "symbol": "Badgerly",
+  "decimals": 18,
+  "description": "Badgerly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Badgerly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Badgerly",
+  "addresses": {
+    "8453": "0x081d3dfd11437e308cf40d8f447f8424ba23e733"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Badgerly",
+    "sanitizedSymbol": "BADGERLY",
+    "created_at": "2024-12-10T23:07:13.625455",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408232",
+    "lockerAddress": "0x36452Fe81f11472Ce300943dD04C3136a01FE9c5"
+  },
+  "clankerInfo": null
+}

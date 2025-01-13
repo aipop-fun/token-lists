@@ -1,0 +1,22 @@
+{
+  "name": "uiepe0",
+  "symbol": "uiepe0",
+  "decimals": 18,
+  "description": "uiepe0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=uiepe0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "uiepe0",
+  "addresses": {
+    "8453": "0x0d7549484f44e1d8798e9baa1a8ef34d8fd34435"
+  },
+  "tokenInfo": {
+    "originalSymbol": "uiepe0",
+    "sanitizedSymbol": "UIEPE0",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0CA61F71dE22197A22dcB37af0e3477822093658",
+    "lpNftId": "1251962",
+    "lockerAddress": "0x233EDCd77C0A429C54e6f9F54C2A708Da53C9c93"
+  },
+  "clankerInfo": null
+}

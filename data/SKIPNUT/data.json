@@ -1,0 +1,22 @@
+{
+  "name": "SKIPNUT",
+  "symbol": "SKIPNUT",
+  "decimals": 18,
+  "description": "SKIPNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKIPNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKIPNUT",
+  "addresses": {
+    "8453": "0x0fa02f3d9d26eb5a7bf2b0c5931608b934579a71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKIPNUT",
+    "sanitizedSymbol": "SKIPNUT",
+    "created_at": "2024-12-09T05:39:51.93824",
+    "deployer": "0x73D1aA788C87CB2EF0843a8d638D7399b1608A65",
+    "lpNftId": "1383285",
+    "lockerAddress": "0x27B2dEc7D1dDeDB3EC65437008914cf752b46620"
+  },
+  "clankerInfo": null
+}

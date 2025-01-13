@@ -1,0 +1,22 @@
+{
+  "name": "Shibase",
+  "symbol": "Shibase",
+  "decimals": 18,
+  "description": "Shibase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shibase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shibase",
+  "addresses": {
+    "8453": "0x0bbfe7f729e1a510a24d70343be8db353217a364"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shibase",
+    "sanitizedSymbol": "SHIBASE_1",
+    "created_at": "2024-12-12T13:46:57.717449",
+    "deployer": "0x3B120B802081585c966e30f1FD116A0941461358",
+    "lpNftId": "1435309",
+    "lockerAddress": "0xcF24D3F02D7D69E49ADF2D3cAca935E00bdf5558"
+  },
+  "clankerInfo": null
+}

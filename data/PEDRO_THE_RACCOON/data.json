@@ -1,0 +1,22 @@
+{
+  "name": "Pedro the Raccoon",
+  "symbol": "Pedro the Raccoon",
+  "decimals": 18,
+  "description": "Pedro the Raccoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pedro%20the%20Raccoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pedro the Raccoon",
+  "addresses": {
+    "8453": "0x41b7776d634a128954b6cec77c8b9e1dcddf186f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pedro the Raccoon",
+    "sanitizedSymbol": "PEDRO_THE_RACCOON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x34B09CAAdFf3500De1aA060Fc424286aB55d6640",
+    "lpNftId": "1252928",
+    "lockerAddress": "0x2b5134021096fa11b67e0f9A9b3E29d230029000"
+  },
+  "clankerInfo": null
+}

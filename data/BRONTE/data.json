@@ -1,0 +1,22 @@
+{
+  "name": "BRONTE",
+  "symbol": "BRONTE",
+  "decimals": 18,
+  "description": "BRONTE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRONTE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRONTE",
+  "addresses": {
+    "8453": "0x298170423b54201e306d9e0d89c4c6ac585a8e43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRONTE",
+    "sanitizedSymbol": "BRONTE",
+    "created_at": "2024-12-09T12:49:22.137178",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1387095",
+    "lockerAddress": "0x6f3De868b4392d1CAfcF98b69c0F4B77dfbcAB2D"
+  },
+  "clankerInfo": null
+}

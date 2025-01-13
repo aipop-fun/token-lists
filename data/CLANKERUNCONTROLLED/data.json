@@ -1,0 +1,22 @@
+{
+  "name": "Clankeruncontrolled",
+  "symbol": "Clankeruncontrolled",
+  "decimals": 18,
+  "description": "Clankeruncontrolled is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankeruncontrolled",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankeruncontrolled",
+  "addresses": {
+    "8453": "0x4179554d0d6e098122b5b2929b9484df9e13ff1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankeruncontrolled",
+    "sanitizedSymbol": "CLANKERUNCONTROLLED",
+    "created_at": "2024-12-10T16:55:16.277298",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1404239",
+    "lockerAddress": "0x6A5e69F79C1b37Ead7B60B8da68C02F7F15A3c11"
+  },
+  "clankerInfo": null
+}

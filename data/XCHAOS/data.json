@@ -1,0 +1,22 @@
+{
+  "name": "XCHAOS",
+  "symbol": "XCHAOS",
+  "decimals": 18,
+  "description": "XCHAOS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XCHAOS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XCHAOS",
+  "addresses": {
+    "8453": "0x305b458bb81504d0df5f6198a2707487862d1172"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XCHAOS",
+    "sanitizedSymbol": "XCHAOS",
+    "created_at": "2024-12-09T01:21:42.023623",
+    "deployer": "0x14016fe5F8E757A66c9719b6EAcEf663035887c9",
+    "lpNftId": "1377432",
+    "lockerAddress": "0x953221d8577126EdEf56C319b8f8040Da4335339"
+  },
+  "clankerInfo": null
+}

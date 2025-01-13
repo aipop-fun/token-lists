@@ -1,0 +1,22 @@
+{
+  "name": "NEIKO",
+  "symbol": "NEIKO",
+  "decimals": 18,
+  "description": "NEIKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEIKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEIKO",
+  "addresses": {
+    "8453": "0x1192ccb17b1193589bc4a4b59ad7d3ec43d6f8d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEIKO",
+    "sanitizedSymbol": "NEIKO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1123968",
+    "lockerAddress": "0xE5D398294d2A4af4D104Bc0210e53BD5A8805494"
+  },
+  "clankerInfo": null
+}

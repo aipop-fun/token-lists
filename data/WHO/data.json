@@ -1,0 +1,22 @@
+{
+  "name": "WHO",
+  "symbol": "WHO",
+  "decimals": 18,
+  "description": "WHO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WHO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WHO",
+  "addresses": {
+    "8453": "0x2212f2bdd079099cc99a8edd3cf7e3b0f6672667"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WHO",
+    "sanitizedSymbol": "WHO",
+    "created_at": "2024-12-09T09:33:51.054932",
+    "deployer": "0x78a97e1011714822a4021C507281F4dc8C3500F7",
+    "lpNftId": "1385290",
+    "lockerAddress": "0xc870A3cC0a8078F955FbA536D63dEcD6dBE1Cfeb"
+  },
+  "clankerInfo": null
+}

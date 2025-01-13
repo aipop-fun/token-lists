@@ -1,0 +1,22 @@
+{
+  "name": "Digital Diamond",
+  "symbol": "Digital Diamond",
+  "decimals": 18,
+  "description": "Digital Diamond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Diamond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Diamond",
+  "addresses": {
+    "8453": "0x1d0e511417565279998751ca00b4a40aa6b4341c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Diamond",
+    "sanitizedSymbol": "DIGITAL_DIAMOND",
+    "created_at": "2024-12-11T00:13:31.192177",
+    "deployer": "0x36acec90bDf8C47D732ef57dc4ffb2AaE3080d24",
+    "lpNftId": "1408754",
+    "lockerAddress": "0xeFA32Fd4d6832A2920E52cFc81b12126Bed7Bd3c"
+  },
+  "clankerInfo": null
+}

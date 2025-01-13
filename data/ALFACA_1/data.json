@@ -1,0 +1,22 @@
+{
+  "name": "Alfaca",
+  "symbol": "Alfaca",
+  "decimals": 18,
+  "description": "Alfaca is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alfaca",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alfaca",
+  "addresses": {
+    "8453": "0x05ec43d0e75250ce3270219fcfc4b7b3023946c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alfaca",
+    "sanitizedSymbol": "ALFACA_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128915",
+    "lockerAddress": "0xC833Aba977c85EEfF769AeD5aD9a86EA7638B845"
+  },
+  "clankerInfo": null
+}

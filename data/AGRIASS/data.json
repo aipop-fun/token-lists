@@ -1,0 +1,22 @@
+{
+  "name": "agriass",
+  "symbol": "agriass",
+  "decimals": 18,
+  "description": "agriass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=agriass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "agriass",
+  "addresses": {
+    "8453": "0x3352c7dd623afa2466ec496e1e5e8ccea9238bee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "agriass",
+    "sanitizedSymbol": "AGRIASS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6C2ae452d2b966259d889A26fAa034cC741e3327",
+    "lpNftId": "1330255",
+    "lockerAddress": "0x7c290c6E4D6fBcA02faC238539E7F0aEeDF62B1e"
+  },
+  "clankerInfo": null
+}

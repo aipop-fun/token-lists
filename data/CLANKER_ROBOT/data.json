@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Robot",
+  "symbol": "Clanker Robot",
+  "decimals": 18,
+  "description": "Clanker Robot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Robot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Robot",
+  "addresses": {
+    "8453": "0x3d8ed4d8f9d402310bf5a2482b1e43a60ad2e2c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Robot",
+    "sanitizedSymbol": "CLANKER_ROBOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225539",
+    "lockerAddress": "0x4212175673bfA9e18db7e21133105Bc46BA78F1E"
+  },
+  "clankerInfo": null
+}

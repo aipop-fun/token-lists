@@ -1,0 +1,22 @@
+{
+  "name": "AInow",
+  "symbol": "AInow",
+  "decimals": 18,
+  "description": "AInow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AInow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AInow",
+  "addresses": {
+    "8453": "0x14943490dcd02f6940e93095d24e80ae67b362a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AInow",
+    "sanitizedSymbol": "AINOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165797",
+    "lockerAddress": "0xE078550aD34d8a5C172FB210cDD211F3adbbBC2F"
+  },
+  "clankerInfo": null
+}

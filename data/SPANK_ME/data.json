@@ -1,0 +1,22 @@
+{
+  "name": "Spank Me",
+  "symbol": "Spank Me",
+  "decimals": 18,
+  "description": "Spank Me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spank%20Me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spank Me",
+  "addresses": {
+    "8453": "0x1b70ea6c0cf05449bae3fb61b3413cf1b7da13f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spank Me",
+    "sanitizedSymbol": "SPANK_ME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217712",
+    "lockerAddress": "0xa7437f5098274B63BeF71Bb4B7D631AB4c6F79d3"
+  },
+  "clankerInfo": null
+}

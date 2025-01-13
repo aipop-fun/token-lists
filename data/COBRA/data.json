@@ -1,0 +1,22 @@
+{
+  "name": "COBRA",
+  "symbol": "COBRA",
+  "decimals": 18,
+  "description": "COBRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COBRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COBRA",
+  "addresses": {
+    "8453": "0x38f1c0d945c9f5ab3d6b8111028afa5da87e4d4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COBRA",
+    "sanitizedSymbol": "COBRA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213317",
+    "lockerAddress": "0x745c85A313ce646038d9dAb4FFa29238d9083Bdb"
+  },
+  "clankerInfo": null
+}

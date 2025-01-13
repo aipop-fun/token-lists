@@ -1,0 +1,22 @@
+{
+  "name": "Dick Ghost",
+  "symbol": "Dick Ghost",
+  "decimals": 18,
+  "description": "Dick Ghost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dick%20Ghost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dick Ghost",
+  "addresses": {
+    "8453": "0x29c10e23ef8efd3ebb5a7e8fdc0e436a02314dc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dick Ghost",
+    "sanitizedSymbol": "DICK_GHOST",
+    "created_at": "2024-12-10T19:33:10.049679",
+    "deployer": "0x071a09289ae784217e4A6B6795a8e8346f8Bfa28",
+    "lpNftId": "1406246",
+    "lockerAddress": "0x85cBBB6d6471957E8d5246EEB2Dd327ab74bDC6a"
+  },
+  "clankerInfo": null
+}

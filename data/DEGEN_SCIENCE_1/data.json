@@ -1,0 +1,22 @@
+{
+  "name": "Degen Science",
+  "symbol": "Degen Science",
+  "decimals": 18,
+  "description": "Degen Science is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Science",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Science",
+  "addresses": {
+    "8453": "0x010ee1f216c54eab509eda95673fcc17e658eb4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Science",
+    "sanitizedSymbol": "DEGEN_SCIENCE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225627",
+    "lockerAddress": "0x897b9Abed66eF2E929684D61c4B46cF16FcDCF90"
+  },
+  "clankerInfo": null
+}

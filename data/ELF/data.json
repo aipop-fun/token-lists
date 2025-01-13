@@ -1,0 +1,22 @@
+{
+  "name": "elf",
+  "symbol": "elf",
+  "decimals": 18,
+  "description": "elf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=elf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "elf",
+  "addresses": {
+    "8453": "0x028e768d803a267282adc84d7c786708f5ce4d4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "elf",
+    "sanitizedSymbol": "ELF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x81e5E3478BB13304018C8D5e82E72636Bb83bd93",
+    "lpNftId": "1251731",
+    "lockerAddress": "0x9A00c69c39EE924Ddc585479338d489a86f75F41"
+  },
+  "clankerInfo": null
+}

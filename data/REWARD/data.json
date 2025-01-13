@@ -1,0 +1,22 @@
+{
+  "name": "REWARD",
+  "symbol": "REWARD",
+  "decimals": 18,
+  "description": "REWARD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REWARD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REWARD",
+  "addresses": {
+    "8453": "0x404f1a3be613caa5774f7488e1c6b649fa089269"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REWARD",
+    "sanitizedSymbol": "REWARD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1323012",
+    "lockerAddress": "0xE4B67A15F97EEFB9961A207636cb10cEdf26e540"
+  },
+  "clankerInfo": null
+}

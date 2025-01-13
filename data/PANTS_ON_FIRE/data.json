@@ -1,0 +1,22 @@
+{
+  "name": "Pants on fire",
+  "symbol": "Pants on fire",
+  "decimals": 18,
+  "description": "Pants on fire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pants%20on%20fire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pants on fire",
+  "addresses": {
+    "8453": "0x05e4661dcd33bc84e05e8332c1e4540545099b99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pants on fire",
+    "sanitizedSymbol": "PANTS_ON_FIRE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC50DD445A3ec252f210A55aB09f036D101169c3A",
+    "lpNftId": "1328905",
+    "lockerAddress": "0x8F6621f7fEFafA3163D021388De0cDAe9f314676"
+  },
+  "clankerInfo": null
+}

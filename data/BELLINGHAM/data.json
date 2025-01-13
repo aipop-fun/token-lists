@@ -1,0 +1,22 @@
+{
+  "name": "BELLINGHAM",
+  "symbol": "BELLINGHAM",
+  "decimals": 18,
+  "description": "BELLINGHAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BELLINGHAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BELLINGHAM",
+  "addresses": {
+    "8453": "0x08dce579482fb706880f3491778fbb0e2c30219d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BELLINGHAM",
+    "sanitizedSymbol": "BELLINGHAM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x345b0A1A50017De69C05a7a104045a36dF4B801e",
+    "lpNftId": "1310469",
+    "lockerAddress": "0x044a3EF2F0820baA7F271Cf4b75A8C60502af8F0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base Wassie",
+  "symbol": "Base Wassie",
+  "decimals": 18,
+  "description": "Base Wassie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Wassie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Wassie",
+  "addresses": {
+    "8453": "0x2a1cb7eba6248950087d63d85692b8261b445bd8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Wassie",
+    "sanitizedSymbol": "BASE_WASSIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9aFbB039e9517cc3A8B96B4Cb04901586c5B6eC",
+    "lpNftId": "1312968",
+    "lockerAddress": "0x8770cC7C2Ef00CC22d2Bab5098B605ce224F4906"
+  },
+  "clankerInfo": null
+}

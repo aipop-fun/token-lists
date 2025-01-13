@@ -1,0 +1,22 @@
+{
+  "name": "DUHH",
+  "symbol": "DUHH",
+  "decimals": 18,
+  "description": "DUHH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUHH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUHH",
+  "addresses": {
+    "8453": "0x11f288dc9a0ee5f4029429f78e5f6ec6103864bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUHH",
+    "sanitizedSymbol": "DUHH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221412",
+    "lockerAddress": "0xd585d61d6C13Bf4297D65Ca3f221720CfC1c5bc9"
+  },
+  "clankerInfo": null
+}

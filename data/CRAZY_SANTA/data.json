@@ -1,0 +1,22 @@
+{
+  "name": "Crazy Santa",
+  "symbol": "Crazy Santa",
+  "decimals": 18,
+  "description": "Crazy Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crazy%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crazy Santa",
+  "addresses": {
+    "8453": "0x3958078902e133c707dc0c051fe1d9f6798f2a39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crazy Santa",
+    "sanitizedSymbol": "CRAZY_SANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7763761fe909356286902Ca33Fa79e233eb53D99",
+    "lpNftId": "1320221",
+    "lockerAddress": "0x87a7F002EC24a163E5Ca03a8e3F1E23252685494"
+  },
+  "clankerInfo": null
+}

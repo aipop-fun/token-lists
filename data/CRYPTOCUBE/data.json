@@ -1,0 +1,22 @@
+{
+  "name": "cryptocube",
+  "symbol": "cryptocube",
+  "decimals": 18,
+  "description": "cryptocube is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cryptocube",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cryptocube",
+  "addresses": {
+    "8453": "0x0fcc2ea57c8d1ad23ed6b2be120e54b86c3f2adc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cryptocube",
+    "sanitizedSymbol": "CRYPTOCUBE",
+    "created_at": "2024-12-11T08:56:31.237391",
+    "deployer": "0x01500d3c04484dd4c1EbF491CDAaB11c7689EeFD",
+    "lpNftId": "1415280",
+    "lockerAddress": "0xD2c9aDB800785B3029Cf4ADf82615EF4B1e244af"
+  },
+  "clankerInfo": null
+}

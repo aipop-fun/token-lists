@@ -1,0 +1,22 @@
+{
+  "name": "Aspirant",
+  "symbol": "Aspirant",
+  "decimals": 18,
+  "description": "Aspirant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aspirant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aspirant",
+  "addresses": {
+    "8453": "0x1f47f9468f8757ce1d2d21061a9cd5d638694218"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aspirant",
+    "sanitizedSymbol": "ASPIRANT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x60ba240114b825F676D11Cc178409Cc9c385171c",
+    "lpNftId": "1340051",
+    "lockerAddress": "0x6Eec7344aE3D13Ba1440148a4532C129e93f6a21"
+  },
+  "clankerInfo": null
+}

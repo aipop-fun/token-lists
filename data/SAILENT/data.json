@@ -1,0 +1,22 @@
+{
+  "name": "SaiLent",
+  "symbol": "SaiLent",
+  "decimals": 18,
+  "description": "SaiLent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SaiLent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SaiLent",
+  "addresses": {
+    "8453": "0x106e76d51bafd4d42096edcc541d477da7d05212"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SaiLent",
+    "sanitizedSymbol": "SAILENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB3b1F28A457A60354d93830Aa40A1A3551a246e5",
+    "lpNftId": "1309443",
+    "lockerAddress": "0x7f63E19cB72D70046725224fdDDc59e8adD238dF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ChainZen",
+  "symbol": "ChainZen",
+  "decimals": 18,
+  "description": "ChainZen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChainZen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChainZen",
+  "addresses": {
+    "8453": "0x0f2a82e0cd634467a7e33bae3039f0e0d618392a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChainZen",
+    "sanitizedSymbol": "CHAINZEN",
+    "created_at": "2024-12-12T19:22:40.313248",
+    "deployer": "0xdE8668a54Fced968c9C2F43d62b1d2E6319a4Afe",
+    "lpNftId": "1441605",
+    "lockerAddress": "0x1aa12A28d683E32804F4cc06AB1c85eBF2fC6BBb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Unfit",
+  "symbol": "Unfit",
+  "decimals": 18,
+  "description": "Unfit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unfit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unfit",
+  "addresses": {
+    "8453": "0x014d5c5de71f735d76d848fe68692d59e0dc52a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unfit",
+    "sanitizedSymbol": "UNFIT",
+    "created_at": "2024-12-10T02:57:05.805669",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395394",
+    "lockerAddress": "0xEb918E3F0073c9f2cD711D7f8f5C11456e40Fd20"
+  },
+  "clankerInfo": null
+}

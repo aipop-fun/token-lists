@@ -1,0 +1,22 @@
+{
+  "name": "Koala",
+  "symbol": "Koala",
+  "decimals": 18,
+  "description": "Koala is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Koala",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Koala",
+  "addresses": {
+    "8453": "0x09dc9a7e85b324daf72d725e06af898ba6d36746"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Koala",
+    "sanitizedSymbol": "KOALA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151676",
+    "lockerAddress": "0xE3f2563Fa0209eDcC86daDD7e723d4220D234de1"
+  },
+  "clankerInfo": null
+}

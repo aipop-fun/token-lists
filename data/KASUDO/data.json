@@ -1,0 +1,22 @@
+{
+  "name": "KASUDO",
+  "symbol": "KASUDO",
+  "decimals": 18,
+  "description": "KASUDO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KASUDO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KASUDO",
+  "addresses": {
+    "8453": "0x270ff0f47727063f92bc5485ce27c2994308c0d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KASUDO",
+    "sanitizedSymbol": "KASUDO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2AAAcb0EBF28c2c54E77Ec192526f678ab2b3c01",
+    "lpNftId": "1320626",
+    "lockerAddress": "0xe550433989be1897CA04710642C2EAf6EAFaD8b0"
+  },
+  "clankerInfo": null
+}

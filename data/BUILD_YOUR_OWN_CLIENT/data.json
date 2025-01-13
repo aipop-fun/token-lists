@@ -1,0 +1,22 @@
+{
+  "name": "Build Your Own Client",
+  "symbol": "Build Your Own Client",
+  "decimals": 18,
+  "description": "Build Your Own Client is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Build%20Your%20Own%20Client",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Build Your Own Client",
+  "addresses": {
+    "8453": "0x38e8e164797ecdf9bc7d580dbc15cf8780ff7b4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Build Your Own Client",
+    "sanitizedSymbol": "BUILD_YOUR_OWN_CLIENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147707",
+    "lockerAddress": "0x6704F56ABec20845f99d4A68E88B67a9171366D0"
+  },
+  "clankerInfo": null
+}

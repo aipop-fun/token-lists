@@ -1,0 +1,22 @@
+{
+  "name": "Liquid",
+  "symbol": "Liquid",
+  "decimals": 18,
+  "description": "Liquid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liquid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liquid",
+  "addresses": {
+    "8453": "0x272d3a5632187528f50e19a840b7a96f12609fc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liquid",
+    "sanitizedSymbol": "LIQUID",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158884",
+    "lockerAddress": "0xD6f90bE80FC57a8E17Be55ca1552AE3F406a9E12"
+  },
+  "clankerInfo": null
+}

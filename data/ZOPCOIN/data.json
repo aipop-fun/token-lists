@@ -1,0 +1,22 @@
+{
+  "name": "zopcoin",
+  "symbol": "zopcoin",
+  "decimals": 18,
+  "description": "zopcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zopcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zopcoin",
+  "addresses": {
+    "8453": "0x25b418ca22dfcfdc617d5fd9df8caa2006f9b1c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zopcoin",
+    "sanitizedSymbol": "ZOPCOIN",
+    "created_at": "2024-12-11T12:29:43.087228",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418062",
+    "lockerAddress": "0x02744083dC152099D2895AFFBBda412be7fA1FE8"
+  },
+  "clankerInfo": null
+}

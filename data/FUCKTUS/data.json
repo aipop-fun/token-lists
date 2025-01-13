@@ -1,0 +1,22 @@
+{
+  "name": "Fucktus",
+  "symbol": "Fucktus",
+  "decimals": 18,
+  "description": "Fucktus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fucktus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fucktus",
+  "addresses": {
+    "8453": "0x116220a3d1865c4dd8d04a7e52c29efbdebe0559"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fucktus",
+    "sanitizedSymbol": "FUCKTUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1365173",
+    "lockerAddress": "0x23911dB043294F08F356602B822998Fc19fE25b3"
+  },
+  "clankerInfo": null
+}

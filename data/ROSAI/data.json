@@ -1,0 +1,22 @@
+{
+  "name": "Rosai",
+  "symbol": "Rosai",
+  "decimals": 18,
+  "description": "Rosai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rosai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rosai",
+  "addresses": {
+    "8453": "0x03be82ef103db2cb42375721c90e7baad2c2cd56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rosai",
+    "sanitizedSymbol": "ROSAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196854",
+    "lockerAddress": "0xe8A446f16b5e4e6cbCE3f67C8A99BD40B48c7c2C"
+  },
+  "clankerInfo": null
+}

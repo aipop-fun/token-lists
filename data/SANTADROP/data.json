@@ -1,0 +1,22 @@
+{
+  "name": "SantaDrop",
+  "symbol": "SantaDrop",
+  "decimals": 18,
+  "description": "SantaDrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaDrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaDrop",
+  "addresses": {
+    "8453": "0x233817c803ed35b14217dec95867c6ce6bee53a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaDrop",
+    "sanitizedSymbol": "SANTADROP",
+    "created_at": "2024-12-10T01:45:12.574117",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1394435",
+    "lockerAddress": "0x21A00Dae55D52C095bd9a3C4D641F5C1F93Fa1eF"
+  },
+  "clankerInfo": null
+}

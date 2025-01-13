@@ -1,0 +1,22 @@
+{
+  "name": "PNUT Allergy",
+  "symbol": "PNUT Allergy",
+  "decimals": 18,
+  "description": "PNUT Allergy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNUT%20Allergy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNUT Allergy",
+  "addresses": {
+    "8453": "0x24cfffc7e3510d7412c4badb565563cfe50fd403"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNUT Allergy",
+    "sanitizedSymbol": "PNUT_ALLERGY",
+    "created_at": "2024-12-11T03:30:57.448311",
+    "deployer": "0xed95418601b6F2C656497deBb151AFE2AC91eD8C",
+    "lpNftId": "1411783",
+    "lockerAddress": "0xF9FAdF224eB373B09Db596450Bef56507BcF8Bec"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MAGAT",
+  "symbol": "MAGAT",
+  "decimals": 18,
+  "description": "MAGAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAGAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAGAT",
+  "addresses": {
+    "8453": "0x0686fba341c1ac9dee7958d7752f35c0ad0b6a58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAGAT",
+    "sanitizedSymbol": "MAGAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAf321Fbdb65edDB21d184A0840784E8dC89c7b8d",
+    "lpNftId": "1313338",
+    "lockerAddress": "0x34255C451D8d203C38c5E73670B26e4E7a98c851"
+  },
+  "clankerInfo": null
+}

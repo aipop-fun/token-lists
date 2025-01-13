@@ -1,0 +1,22 @@
+{
+  "name": "BasedZonk",
+  "symbol": "BasedZonk",
+  "decimals": 18,
+  "description": "BasedZonk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedZonk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedZonk",
+  "addresses": {
+    "8453": "0x1a9ef852907b852b997ea5c75a3590abd4248575"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedZonk",
+    "sanitizedSymbol": "BASEDZONK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1357960",
+    "lockerAddress": "0xaE19e3EB0d5d94d83318e72fBc92323574fce6cb"
+  },
+  "clankerInfo": null
+}

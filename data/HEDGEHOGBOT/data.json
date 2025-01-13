@@ -1,0 +1,22 @@
+{
+  "name": "HedgehogBOT",
+  "symbol": "HedgehogBOT",
+  "decimals": 18,
+  "description": "HedgehogBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HedgehogBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HedgehogBOT",
+  "addresses": {
+    "8453": "0x062b0a562bd912fb6612ed608532e0fbb6740219"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HedgehogBOT",
+    "sanitizedSymbol": "HEDGEHOGBOT",
+    "created_at": "2024-12-10T16:59:50.086448",
+    "deployer": "0x8Cd730B5Bf47bf0120d874f7a1dE926f358a9C4E",
+    "lpNftId": "1404292",
+    "lockerAddress": "0xf978C0a757DD8BA17f91EDeDb65d384c775c66ff"
+  },
+  "clankerInfo": null
+}

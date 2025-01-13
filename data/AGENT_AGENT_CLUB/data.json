@@ -1,0 +1,22 @@
+{
+  "name": "Agent Agent Club",
+  "symbol": "Agent Agent Club",
+  "decimals": 18,
+  "description": "Agent Agent Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20Agent%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent Agent Club",
+  "addresses": {
+    "8453": "0x3043177dc1f9edeb4ba41e9c99b028d113c093f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent Agent Club",
+    "sanitizedSymbol": "AGENT_AGENT_CLUB",
+    "created_at": "2024-12-12T06:44:07.46289",
+    "deployer": "0xf110B66Bc9492E62De8C6DD7d291cAe16F9F08f5",
+    "lpNftId": "1429635",
+    "lockerAddress": "0x9cFdC32e89d2E117C4386B59B223084BfaB5261B"
+  },
+  "clankerInfo": null
+}

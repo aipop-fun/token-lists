@@ -1,0 +1,22 @@
+{
+  "name": "Merkin",
+  "symbol": "Merkin",
+  "decimals": 18,
+  "description": "Merkin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Merkin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Merkin",
+  "addresses": {
+    "8453": "0x14fc2f1fd527784a74f6c9bd9e0bc140cd305d6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Merkin",
+    "sanitizedSymbol": "MERKIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229613",
+    "lockerAddress": "0x6a75856b59981cD05E628Fa01774c76F734D8938"
+  },
+  "clankerInfo": null
+}

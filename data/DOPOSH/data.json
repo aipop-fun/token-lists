@@ -1,0 +1,22 @@
+{
+  "name": "DoPosh",
+  "symbol": "DoPosh",
+  "decimals": 18,
+  "description": "DoPosh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DoPosh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DoPosh",
+  "addresses": {
+    "8453": "0x30f393abe6895dfc535dd6a8dd20c9d2ee1b9ff1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DoPosh",
+    "sanitizedSymbol": "DOPOSH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165901",
+    "lockerAddress": "0x93dD6a3479e6402F5E0Ab506e81816ED4705C3e9"
+  },
+  "clankerInfo": null
+}

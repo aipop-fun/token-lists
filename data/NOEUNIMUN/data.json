@@ -1,0 +1,22 @@
+{
+  "name": "noeunimun",
+  "symbol": "noeunimun",
+  "decimals": 18,
+  "description": "noeunimun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=noeunimun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "noeunimun",
+  "addresses": {
+    "8453": "0x2e1d866b16e281c949f5ea7df295d0e2b7750602"
+  },
+  "tokenInfo": {
+    "originalSymbol": "noeunimun",
+    "sanitizedSymbol": "NOEUNIMUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x12ce79966bC522569104d26db9037C9751aeCa80",
+    "lpNftId": "1124588",
+    "lockerAddress": "0xaffe1572a7e47D75CE01E98F6ca40c2138592f06"
+  },
+  "clankerInfo": null
+}

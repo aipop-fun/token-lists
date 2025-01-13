@@ -1,0 +1,22 @@
+{
+  "name": "Futura",
+  "symbol": "Futura",
+  "decimals": 18,
+  "description": "Futura is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Futura",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Futura",
+  "addresses": {
+    "8453": "0x40fd58dff9a02e3edda8c5a9cf012fd53b7cbfa0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Futura",
+    "sanitizedSymbol": "FUTURA",
+    "created_at": "2024-12-11T01:24:24.796194",
+    "deployer": "0xF6eb526BFfA8d5036746Df58Fef23Fb091739c44",
+    "lpNftId": "1409626",
+    "lockerAddress": "0xB8Ea1aBD5165BEe7c8D02A985323bB69769054EC"
+  },
+  "clankerInfo": null
+}

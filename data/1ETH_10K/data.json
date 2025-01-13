@@ -1,0 +1,22 @@
+{
+  "name": "1ETH = 10K",
+  "symbol": "1ETH = 10K",
+  "decimals": 18,
+  "description": "1ETH = 10K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1ETH%20%3D%2010K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1ETH = 10K",
+  "addresses": {
+    "8453": "0x25630aef9e9b2cde90e6a93f37f14edff3838962"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1ETH = 10K",
+    "sanitizedSymbol": "1ETH_10K",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1148142",
+    "lockerAddress": "0x94eDB29e4b3299c80B4Ceb0d93458923Ecf28b09"
+  },
+  "clankerInfo": null
+}

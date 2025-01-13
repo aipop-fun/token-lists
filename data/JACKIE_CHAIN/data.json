@@ -1,0 +1,22 @@
+{
+  "name": "JACKIE CHAIN",
+  "symbol": "JACKIE CHAIN",
+  "decimals": 18,
+  "description": "JACKIE CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JACKIE%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JACKIE CHAIN",
+  "addresses": {
+    "8453": "0x26568ef4a1e82a5136f750fa360359672a755b12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JACKIE CHAIN",
+    "sanitizedSymbol": "JACKIE_CHAIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221643",
+    "lockerAddress": "0xd3bF85B502f029F5849294A49C799a152F8707Bc"
+  },
+  "clankerInfo": null
+}

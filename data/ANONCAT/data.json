@@ -1,0 +1,22 @@
+{
+  "name": "ANONCAT",
+  "symbol": "ANONCAT",
+  "decimals": 18,
+  "description": "ANONCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONCAT",
+  "addresses": {
+    "8453": "0x13f7c3cf8313bb2c3186fcdbde689230107df867"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONCAT",
+    "sanitizedSymbol": "ANONCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x657604627622A5DFA2d4603A69c4b673BA7986cb",
+    "lpNftId": "1313427",
+    "lockerAddress": "0xEEf9DD08cd08F01604a3a408ef6549BBE5bA92C1"
+  },
+  "clankerInfo": null
+}

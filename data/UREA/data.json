@@ -1,0 +1,22 @@
+{
+  "name": "Áurea",
+  "symbol": "Áurea",
+  "decimals": 18,
+  "description": "Áurea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%C3%81urea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Áurea",
+  "addresses": {
+    "8453": "0x2d5a6a34f011e9b9680f79d85a86562d21f07bfe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Áurea",
+    "sanitizedSymbol": "UREA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x64bF8D9a93A5642cA93d98b5Db88B2Cc953c8426",
+    "lpNftId": "1360554",
+    "lockerAddress": "0x4D84060c3A74b607BB3475FD6087fD0a8AfD97A0"
+  },
+  "clankerInfo": null
+}

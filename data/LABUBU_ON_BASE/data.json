@@ -1,0 +1,22 @@
+{
+  "name": "Labubu On Base",
+  "symbol": "Labubu On Base",
+  "decimals": 18,
+  "description": "Labubu On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Labubu%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Labubu On Base",
+  "addresses": {
+    "8453": "0x30db8a4376ef3f2a8343244a36e644a677f82633"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Labubu On Base",
+    "sanitizedSymbol": "LABUBU_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a9c258d4037f46873b42893F4A7a11288628f9c",
+    "lpNftId": "1320795",
+    "lockerAddress": "0x16db052Ed3FbA0d497fb4D3BB37080645e902900"
+  },
+  "clankerInfo": null
+}

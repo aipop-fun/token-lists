@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Oil",
+  "symbol": "Clanker Oil",
+  "decimals": 18,
+  "description": "Clanker Oil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Oil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Oil",
+  "addresses": {
+    "8453": "0x2c5c449bdf81e25dcfc9451e250d8d09e05723ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Oil",
+    "sanitizedSymbol": "CLANKER_OIL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219427",
+    "lockerAddress": "0x4623F24E6525fb157A886E9DE04cB0CCd2e070c9"
+  },
+  "clankerInfo": null
+}

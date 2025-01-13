@@ -1,0 +1,22 @@
+{
+  "name": "Sleeper",
+  "symbol": "Sleeper",
+  "decimals": 18,
+  "description": "Sleeper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sleeper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sleeper",
+  "addresses": {
+    "8453": "0x3f466f567bbc464712145ff96414b5f8b3eccb2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sleeper",
+    "sanitizedSymbol": "SLEEPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159905",
+    "lockerAddress": "0x019B6Fa82bBC54c3141d87408eF043D13379e052"
+  },
+  "clankerInfo": null
+}

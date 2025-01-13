@@ -1,0 +1,22 @@
+{
+  "name": "Based Lady",
+  "symbol": "Based Lady",
+  "decimals": 18,
+  "description": "Based Lady is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Lady",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Lady",
+  "addresses": {
+    "8453": "0x3eae42b2a17f20cc068767dd4f3520f94c2bdfcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Lady",
+    "sanitizedSymbol": "BASED_LADY",
+    "created_at": "2024-12-11T12:01:59.189517",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1417316",
+    "lockerAddress": "0x2a750Cb7715827A63b48C6c3F4fe893278fB03cc"
+  },
+  "clankerInfo": null
+}

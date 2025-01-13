@@ -1,0 +1,22 @@
+{
+  "name": "free",
+  "symbol": "free",
+  "decimals": 18,
+  "description": "free is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=free",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "free",
+  "addresses": {
+    "8453": "0x282f0f6cd05ce0c325f61c673ca5b5e37265d1bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "free",
+    "sanitizedSymbol": "FREE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x11849573966d4a16C2196D32e79164087b23E202",
+    "lpNftId": "1285361",
+    "lockerAddress": "0xa6534BcD2977786242b277aac021a8f3Ab51bdD7"
+  },
+  "clankerInfo": null
+}

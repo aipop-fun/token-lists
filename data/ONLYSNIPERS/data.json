@@ -1,0 +1,22 @@
+{
+  "name": "OnlySnipers",
+  "symbol": "OnlySnipers",
+  "decimals": 18,
+  "description": "OnlySnipers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlySnipers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlySnipers",
+  "addresses": {
+    "8453": "0x21fe51d30faa8c9b08bf12dbc9930afdacb14d4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlySnipers",
+    "sanitizedSymbol": "ONLYSNIPERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235484",
+    "lockerAddress": "0x5DcD195806819f296aF236A8D2dd0E6b486Fd380"
+  },
+  "clankerInfo": null
+}

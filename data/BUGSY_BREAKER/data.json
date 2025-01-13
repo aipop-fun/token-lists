@@ -1,0 +1,22 @@
+{
+  "name": "Bugsy Breaker",
+  "symbol": "Bugsy Breaker",
+  "decimals": 18,
+  "description": "Bugsy Breaker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bugsy%20Breaker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bugsy Breaker",
+  "addresses": {
+    "8453": "0x0f88ccc4513c5aa2a8796ce13847114a330a4925"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bugsy Breaker",
+    "sanitizedSymbol": "BUGSY_BREAKER",
+    "created_at": "2024-12-10T04:10:11.463715",
+    "deployer": "0x42a898561f8a02E9Db34c3E0cF2860886e0d905d",
+    "lpNftId": "1396152",
+    "lockerAddress": "0x7dc0d7cEdB8D12E02C89DF209AD640407B820DE3"
+  },
+  "clankerInfo": null
+}

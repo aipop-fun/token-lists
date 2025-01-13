@@ -1,0 +1,22 @@
+{
+  "name": "Supper",
+  "symbol": "Supper",
+  "decimals": 18,
+  "description": "Supper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Supper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Supper",
+  "addresses": {
+    "8453": "0x19ab7a451c663e8b6f6fd40e76b443df20b09229"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Supper",
+    "sanitizedSymbol": "SUPPER_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x851f5a2ae1113c287F8483b22934Bc144357Ed9A",
+    "lpNftId": "1281453",
+    "lockerAddress": "0x5ba333FeFC68ccdfb62E5b661242c302c1eA6e44"
+  },
+  "clankerInfo": null
+}

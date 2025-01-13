@@ -1,0 +1,22 @@
+{
+  "name": "danwifhat",
+  "symbol": "danwifhat",
+  "decimals": 18,
+  "description": "danwifhat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=danwifhat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "danwifhat",
+  "addresses": {
+    "8453": "0x2c7cf113535b37f8845878c72304fa347977983a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "danwifhat",
+    "sanitizedSymbol": "DANWIFHAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62d5ADd76F7Ec0E1DB413137aaDe61a7f654b8Df",
+    "lpNftId": "1306787",
+    "lockerAddress": "0x850Be0f047AE43637b9A202CA2Fbac6AfE6442Fa"
+  },
+  "clankerInfo": null
+}

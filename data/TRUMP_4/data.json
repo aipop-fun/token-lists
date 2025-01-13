@@ -1,0 +1,22 @@
+{
+  "name": "Trump",
+  "symbol": "Trump",
+  "decimals": 18,
+  "description": "Trump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trump",
+  "addresses": {
+    "8453": "0x0c32a012dd2130bf26e0ec3642c2c849f6151d62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trump",
+    "sanitizedSymbol": "TRUMP_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x29ccC63EdE1a0ad108Be56ECE9aD76BC3d0d64cB",
+    "lpNftId": "1292532",
+    "lockerAddress": "0x34636481903fA34E133c1CC1853173C08627e315"
+  },
+  "clankerInfo": null
+}

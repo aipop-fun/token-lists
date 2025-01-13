@@ -1,0 +1,22 @@
+{
+  "name": "caui",
+  "symbol": "caui",
+  "decimals": 18,
+  "description": "caui is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=caui",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "caui",
+  "addresses": {
+    "8453": "0x0bff45301761a5cdb597be61bf5929f50e11e04f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "caui",
+    "sanitizedSymbol": "CAUI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1250710",
+    "lockerAddress": "0x27d0Be9bD20A7245B10235aC1f15043B844eeDD2"
+  },
+  "clankerInfo": null
+}

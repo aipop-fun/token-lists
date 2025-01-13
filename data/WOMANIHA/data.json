@@ -1,0 +1,22 @@
+{
+  "name": "WomaniHa",
+  "symbol": "WomaniHa",
+  "decimals": 18,
+  "description": "WomaniHa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WomaniHa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WomaniHa",
+  "addresses": {
+    "8453": "0x00d5be27b84faefdb4ca88b0104a5da3964190f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WomaniHa",
+    "sanitizedSymbol": "WOMANIHA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1286285",
+    "lockerAddress": "0x9DF450Df502Ba2A0B8744EeC3aaDDC945E6a4B5f"
+  },
+  "clankerInfo": null
+}

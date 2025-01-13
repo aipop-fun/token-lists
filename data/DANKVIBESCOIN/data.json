@@ -1,0 +1,22 @@
+{
+  "name": "DankVibesCoin",
+  "symbol": "DankVibesCoin",
+  "decimals": 18,
+  "description": "DankVibesCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DankVibesCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DankVibesCoin",
+  "addresses": {
+    "8453": "0x210f8278248d84f7e607e72dffcc260bfc35c0f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DankVibesCoin",
+    "sanitizedSymbol": "DANKVIBESCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173383",
+    "lockerAddress": "0x1830310A0F9673F6778fc6727B6656D2397A18a2"
+  },
+  "clankerInfo": null
+}

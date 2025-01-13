@@ -1,0 +1,22 @@
+{
+  "name": "StormBot",
+  "symbol": "StormBot",
+  "decimals": 18,
+  "description": "StormBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StormBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StormBot",
+  "addresses": {
+    "8453": "0x2f36e211673029bbbf6f68fdf56aaecc1f1b6558"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StormBot",
+    "sanitizedSymbol": "STORMBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129063",
+    "lockerAddress": "0x7381A06A831577E817644B6D132aB2F1eC1420F0"
+  },
+  "clankerInfo": null
+}

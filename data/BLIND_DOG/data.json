@@ -1,0 +1,22 @@
+{
+  "name": "Blind Dog",
+  "symbol": "Blind Dog",
+  "decimals": 18,
+  "description": "Blind Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blind%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blind Dog",
+  "addresses": {
+    "8453": "0x1b67ba3b70b4d14b8efdfa8c0eca15a8b935e7a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blind Dog",
+    "sanitizedSymbol": "BLIND_DOG",
+    "created_at": "2024-12-11T17:24:23.397546",
+    "deployer": "0x0cCe1bf28B673626F140b926d55d7F3A88AA0615",
+    "lpNftId": "1422448",
+    "lockerAddress": "0x7206e0BC8Fc1A86Bdde5eE402ABa82bD65Ff312c"
+  },
+  "clankerInfo": null
+}

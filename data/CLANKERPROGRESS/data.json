@@ -1,0 +1,22 @@
+{
+  "name": "ClankerProgress",
+  "symbol": "ClankerProgress",
+  "decimals": 18,
+  "description": "ClankerProgress is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerProgress",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerProgress",
+  "addresses": {
+    "8453": "0x2fdc355cfebc47a84cbba00daac61d229b10de44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerProgress",
+    "sanitizedSymbol": "CLANKERPROGRESS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173546",
+    "lockerAddress": "0xB9019E6611BB5c6b27bd74d39cc5108647819D3b"
+  },
+  "clankerInfo": null
+}

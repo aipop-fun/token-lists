@@ -1,0 +1,22 @@
+{
+  "name": "Black Warp",
+  "symbol": "Black Warp",
+  "decimals": 18,
+  "description": "Black Warp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Warp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Warp",
+  "addresses": {
+    "8453": "0x1b4156655d63c18347d85734865ba6e5d39eb529"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Warp",
+    "sanitizedSymbol": "BLACK_WARP",
+    "created_at": "2024-12-12T12:14:06.954391",
+    "deployer": "0x3F997b677B54C872897c50810A33417C1E4cD70b",
+    "lpNftId": "1434039",
+    "lockerAddress": "0xea29C86F284765a8A897CA5458d08ee70B52F7f3"
+  },
+  "clankerInfo": null
+}

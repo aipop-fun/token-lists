@@ -1,0 +1,22 @@
+{
+  "name": "Bao",
+  "symbol": "Bao",
+  "decimals": 18,
+  "description": "Bao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bao",
+  "addresses": {
+    "8453": "0x302b189d11e4958578994ae5bf17cf94f8411220"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bao",
+    "sanitizedSymbol": "BAO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218582",
+    "lockerAddress": "0x6DCecAb3607009a67b639a3040868421876952f5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BabyDoge",
+  "symbol": "BabyDoge",
+  "decimals": 18,
+  "description": "BabyDoge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyDoge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyDoge",
+  "addresses": {
+    "8453": "0x1991699cc7cd8288ee48ffd0a2ab678d64dad4e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyDoge",
+    "sanitizedSymbol": "BABYDOGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeb0b24f85675204b8F33cF022EF2664f0DF5A519",
+    "lpNftId": "1318299",
+    "lockerAddress": "0x8caD585641f88e5969B0A357915E0F40bF48EBE5"
+  },
+  "clankerInfo": null
+}

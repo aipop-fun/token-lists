@@ -1,0 +1,22 @@
+{
+  "name": "neutron",
+  "symbol": "neutron",
+  "decimals": 18,
+  "description": "neutron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=neutron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "neutron",
+  "addresses": {
+    "8453": "0x317920f8297e2ccb4ce4c8e342117c570fec47bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "neutron",
+    "sanitizedSymbol": "NEUTRON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124155",
+    "lockerAddress": "0x5d87AaE606a43fdA80a9Fd90dad0CDEFc2395aE8"
+  },
+  "clankerInfo": null
+}

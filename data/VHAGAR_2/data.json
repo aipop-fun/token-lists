@@ -1,0 +1,22 @@
+{
+  "name": "VHAGAR",
+  "symbol": "VHAGAR",
+  "decimals": 18,
+  "description": "VHAGAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VHAGAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VHAGAR",
+  "addresses": {
+    "8453": "0x3b01363f0aec2aeb55d7651d314c67afe38f6278"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VHAGAR",
+    "sanitizedSymbol": "VHAGAR_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfDb854C8ba5D38ed026831c1D94Ed39d04a980ec",
+    "lpNftId": "1320067",
+    "lockerAddress": "0xC9D1982b6352C23CFa12fB761FC0b7189a17D558"
+  },
+  "clankerInfo": null
+}

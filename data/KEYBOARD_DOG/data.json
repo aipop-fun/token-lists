@@ -1,0 +1,22 @@
+{
+  "name": "Keyboard Dog",
+  "symbol": "Keyboard Dog",
+  "decimals": 18,
+  "description": "Keyboard Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Keyboard%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Keyboard Dog",
+  "addresses": {
+    "8453": "0x2b6ed2b8874c8959a94343f4ee080f2e7de8658a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Keyboard Dog",
+    "sanitizedSymbol": "KEYBOARD_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1340518",
+    "lockerAddress": "0xB2CF3030e96c4d145f494B8F962b42B674BF59c6"
+  },
+  "clankerInfo": null
+}

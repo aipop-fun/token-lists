@@ -1,0 +1,22 @@
+{
+  "name": "December bag",
+  "symbol": "December bag",
+  "decimals": 18,
+  "description": "December bag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=December%20bag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "December bag",
+  "addresses": {
+    "8453": "0x0b6b4576ef2443bd1cd995f36e7f8df86f9b9d98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "December bag",
+    "sanitizedSymbol": "DECEMBER_BAG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE3F1864E378057c77064B50f948F08525C190157",
+    "lpNftId": "1284435",
+    "lockerAddress": "0x74DdC48cf4D7B9E288EB22cd02b3bf5B418D2fE9"
+  },
+  "clankerInfo": null
+}

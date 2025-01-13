@@ -1,0 +1,22 @@
+{
+  "name": "OP_CAT Inscription",
+  "symbol": "OP_CAT Inscription",
+  "decimals": 18,
+  "description": "OP_CAT Inscription is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OP_CAT%20Inscription",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OP_CAT Inscription",
+  "addresses": {
+    "8453": "0x2a7bb04c7eb613c98c7ea902ee8d8ab9d8655704"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OP_CAT Inscription",
+    "sanitizedSymbol": "OP_CAT_INSCRIPTION",
+    "created_at": "2024-12-10T00:53:28.623784",
+    "deployer": "0x1b3bFfa8825924E5195C6D282c3B8dA524E31214",
+    "lpNftId": "1394017",
+    "lockerAddress": "0xCfD740bA3433F05d5c3A195e71c87559A045ddA2"
+  },
+  "clankerInfo": null
+}

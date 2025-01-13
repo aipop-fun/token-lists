@@ -1,0 +1,22 @@
+{
+  "name": "Degentlement",
+  "symbol": "Degentlement",
+  "decimals": 18,
+  "description": "Degentlement is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degentlement",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degentlement",
+  "addresses": {
+    "8453": "0x027169d92c14850dc545a7bb94828be0844a5667"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degentlement",
+    "sanitizedSymbol": "DEGENTLEMENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35282D65dF0d7419001e44b9dF85330dA553B605",
+    "lpNftId": "1285865",
+    "lockerAddress": "0x9ebc94De6782d0BCe31F10381Bf3A56c210Caa48"
+  },
+  "clankerInfo": null
+}

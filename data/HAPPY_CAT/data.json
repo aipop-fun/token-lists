@@ -1,0 +1,22 @@
+{
+  "name": "Happy Cat",
+  "symbol": "Happy Cat",
+  "decimals": 18,
+  "description": "Happy Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Cat",
+  "addresses": {
+    "8453": "0x00559c9bab3687a5fd162b936a9e92459c1bbe5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Cat",
+    "sanitizedSymbol": "HAPPY_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230478",
+    "lockerAddress": "0xcF5b1ccCc504c1c41F80B243D9a306D18758A1f3"
+  },
+  "clankerInfo": null
+}

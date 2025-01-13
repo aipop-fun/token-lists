@@ -1,0 +1,22 @@
+{
+  "name": "Luminous",
+  "symbol": "Luminous",
+  "decimals": 18,
+  "description": "Luminous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luminous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luminous",
+  "addresses": {
+    "8453": "0x39df39f685cd838b89f701219bafa40f104bf730"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luminous",
+    "sanitizedSymbol": "LUMINOUS_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123350",
+    "lockerAddress": "0x65b101620a449b24679862b7b53996E4E209CF8E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "One For All",
+  "symbol": "One For All",
+  "decimals": 18,
+  "description": "One For All is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20For%20All",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One For All",
+  "addresses": {
+    "8453": "0x1791d23a7ebccc3b5136c12697a1c4d41bc51ed4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One For All",
+    "sanitizedSymbol": "ONE_FOR_ALL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232092",
+    "lockerAddress": "0x120Bd52263f27b84C38Bf74Ee39aCF8D9D1bEbD4"
+  },
+  "clankerInfo": null
+}

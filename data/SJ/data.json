@@ -1,0 +1,22 @@
+{
+  "name": "SJ",
+  "symbol": "SJ",
+  "decimals": 18,
+  "description": "SJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SJ",
+  "addresses": {
+    "8453": "0x3d7df3d3e0c9b7bbbe4cb1707cd2c9b3e44aed42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SJ",
+    "sanitizedSymbol": "SJ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216831",
+    "lockerAddress": "0x17D49e16D2EF21C143A2aF63be9B3900baAd5FAA"
+  },
+  "clankerInfo": null
+}

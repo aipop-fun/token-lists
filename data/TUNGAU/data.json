@@ -1,0 +1,22 @@
+{
+  "name": "Tungau",
+  "symbol": "Tungau",
+  "decimals": 18,
+  "description": "Tungau is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tungau",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tungau",
+  "addresses": {
+    "8453": "0x1da3f15dcc68b206b7cffe3e1f967ece332518d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tungau",
+    "sanitizedSymbol": "TUNGAU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd34d0c19Bb089584b24E029c88A3c51F71911A68",
+    "lpNftId": "1335391",
+    "lockerAddress": "0x198CfdB6aBF56b916ADa28E2D41971ae96a07737"
+  },
+  "clankerInfo": null
+}

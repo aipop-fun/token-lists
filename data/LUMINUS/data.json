@@ -1,0 +1,22 @@
+{
+  "name": "Luminus",
+  "symbol": "Luminus",
+  "decimals": 18,
+  "description": "Luminus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luminus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luminus",
+  "addresses": {
+    "8453": "0x118cd77aa5bba05556dfc267e5d09df4bb8585eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luminus",
+    "sanitizedSymbol": "LUMINUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84be480Ee32f01E59D60D42Cd6574D53Dc4dC412",
+    "lpNftId": "1313659",
+    "lockerAddress": "0x42eFeDFBFA228E20169964F35a38435563C00F06"
+  },
+  "clankerInfo": null
+}

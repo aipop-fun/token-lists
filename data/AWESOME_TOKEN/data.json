@@ -1,0 +1,22 @@
+{
+  "name": "Awesome Token",
+  "symbol": "Awesome Token",
+  "decimals": 18,
+  "description": "Awesome Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Awesome%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Awesome Token",
+  "addresses": {
+    "8453": "0x2f408102388e107c80ee2af7376f5a7faacac850"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Awesome Token",
+    "sanitizedSymbol": "AWESOME_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118304",
+    "lockerAddress": "0xe6284bE32af1855487a7CFcAfA37326a900B6408"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shibwifhat",
+  "symbol": "shibwifhat",
+  "decimals": 18,
+  "description": "shibwifhat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shibwifhat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shibwifhat",
+  "addresses": {
+    "8453": "0x015f4b9221ececf28141029fe6eab91a601c2654"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shibwifhat",
+    "sanitizedSymbol": "SHIBWIFHAT",
+    "created_at": "2024-12-11T12:02:29.475172",
+    "deployer": "0xe69206579f1895f95E25A8a3aEd577027E74c687",
+    "lpNftId": "1417329",
+    "lockerAddress": "0xDed9Cfb8e1D3c556C7E7218d7155013859BE3076"
+  },
+  "clankerInfo": null
+}

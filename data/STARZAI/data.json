@@ -1,0 +1,22 @@
+{
+  "name": "StarzAI",
+  "symbol": "StarzAI",
+  "decimals": 18,
+  "description": "StarzAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StarzAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StarzAI",
+  "addresses": {
+    "8453": "0x0e50752a27f6bda9aa1f44469cf555becc6bd340"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StarzAI",
+    "sanitizedSymbol": "STARZAI",
+    "created_at": "2024-12-11T09:04:17.243287",
+    "deployer": "0xc20948451B60FD1DCEfDA9F9dDD7f92984df13A6",
+    "lpNftId": "1415333",
+    "lockerAddress": "0x85b308cBB5DE7C48d944D19a93D06e846021527B"
+  },
+  "clankerInfo": null
+}

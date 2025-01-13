@@ -1,0 +1,22 @@
+{
+  "name": "babyboo",
+  "symbol": "babyboo",
+  "decimals": 18,
+  "description": "babyboo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=babyboo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "babyboo",
+  "addresses": {
+    "8453": "0x2bb3c87fa0e09d2f384de89305a2b9fd930528f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "babyboo",
+    "sanitizedSymbol": "BABYBOO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x247b21c6F26d2567A5D3882a17d76bb01e047645",
+    "lpNftId": "1333224",
+    "lockerAddress": "0xEa8974E36c74f5a960bA73a48Caf373aea8D08c3"
+  },
+  "clankerInfo": null
+}

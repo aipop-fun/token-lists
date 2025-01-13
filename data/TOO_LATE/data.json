@@ -1,0 +1,22 @@
+{
+  "name": "too late",
+  "symbol": "too late",
+  "decimals": 18,
+  "description": "too late is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=too%20late",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "too late",
+  "addresses": {
+    "8453": "0x2c8014516eee4147cf251d6ab4da74eb69f20602"
+  },
+  "tokenInfo": {
+    "originalSymbol": "too late",
+    "sanitizedSymbol": "TOO_LATE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x675D882d6CDcDd8b2eAEA95F21Fbfc6916aF89f8",
+    "lpNftId": "1322623",
+    "lockerAddress": "0xD6bc0641750C4bDC4bd6f2115E723d27fc83fAd9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ITFILA",
+  "symbol": "ITFILA",
+  "decimals": 18,
+  "description": "ITFILA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ITFILA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ITFILA",
+  "addresses": {
+    "8453": "0x19419e3708a24ead0c2cf3fbd7293cb2b79f0831"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ITFILA",
+    "sanitizedSymbol": "ITFILA_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233558",
+    "lockerAddress": "0xF85aee913A66E621CFfF3770F32c28F992Ec8ac8"
+  },
+  "clankerInfo": null
+}

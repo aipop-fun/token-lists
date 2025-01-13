@@ -1,0 +1,22 @@
+{
+  "name": "Power By Farcaster",
+  "symbol": "Power By Farcaster",
+  "decimals": 18,
+  "description": "Power By Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Power%20By%20Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Power By Farcaster",
+  "addresses": {
+    "8453": "0x39ab07ec397747549fe646ff33aa8ef5b7e90349"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Power By Farcaster",
+    "sanitizedSymbol": "POWER_BY_FARCASTER",
+    "created_at": "2024-12-12T08:51:07.319684",
+    "deployer": "0x26bEfbfE356adF98d30523cF57b94951938A0F71",
+    "lpNftId": "1430210",
+    "lockerAddress": "0x0950a5585A3729DE013a135A3F98d0C186F7Fd86"
+  },
+  "clankerInfo": null
+}

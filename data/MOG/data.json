@@ -1,0 +1,22 @@
+{
+  "name": "mog",
+  "symbol": "mog",
+  "decimals": 18,
+  "description": "mog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mog",
+  "addresses": {
+    "8453": "0x2ad4a096bfa837ec7ba1f8c0dccc96827c146579"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mog",
+    "sanitizedSymbol": "MOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdB4508515a0bf62864c2E3fF0ceD87354C5C4522",
+    "lpNftId": "1308969",
+    "lockerAddress": "0x582804F783F8E3EeB67E5692F58498d593f8F224"
+  },
+  "clankerInfo": null
+}

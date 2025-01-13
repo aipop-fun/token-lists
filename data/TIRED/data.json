@@ -1,0 +1,22 @@
+{
+  "name": "TIRED",
+  "symbol": "TIRED",
+  "decimals": 18,
+  "description": "TIRED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TIRED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TIRED",
+  "addresses": {
+    "8453": "0x3b3356944ce20ddeb6bf0f0824a9a27d935d9f4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TIRED",
+    "sanitizedSymbol": "TIRED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xef4C5dF8289f0Cc50aDda9c7bFC200c548aA14eB",
+    "lpNftId": "1320668",
+    "lockerAddress": "0x32ca615bc8DEa1FB01ECf4b2B89c566E0Ae99DaA"
+  },
+  "clankerInfo": null
+}

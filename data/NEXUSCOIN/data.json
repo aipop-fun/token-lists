@@ -1,0 +1,22 @@
+{
+  "name": "NexusCoin",
+  "symbol": "NexusCoin",
+  "decimals": 18,
+  "description": "NexusCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NexusCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NexusCoin",
+  "addresses": {
+    "8453": "0x025421cb3dd80398aff47f73935bfc827709c9ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NexusCoin",
+    "sanitizedSymbol": "NEXUSCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6fA77a17DbfC2b2F7e403F2b1C91c75bc592015",
+    "lpNftId": "1318533",
+    "lockerAddress": "0xEc19D2C4C8c169bA1bA9e43A7fE5842a3d6abA28"
+  },
+  "clankerInfo": null
+}

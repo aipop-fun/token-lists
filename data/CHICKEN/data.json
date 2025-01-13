@@ -1,0 +1,22 @@
+{
+  "name": "CHICKEN",
+  "symbol": "CHICKEN",
+  "decimals": 18,
+  "description": "CHICKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHICKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHICKEN",
+  "addresses": {
+    "8453": "0x1202a0faf268f26a5a22d6cfdd12bbd134ecd3e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHICKEN",
+    "sanitizedSymbol": "CHICKEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf98162Fd059525872a3d28a6f3ca296689f5Dcdc",
+    "lpNftId": "1252869",
+    "lockerAddress": "0xb0A29f02C92eA5ac8fe4Ae58960A1B114712Ea3c"
+  },
+  "clankerInfo": null
+}

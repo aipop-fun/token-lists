@@ -1,0 +1,22 @@
+{
+  "name": "BUTTON",
+  "symbol": "BUTTON",
+  "decimals": 18,
+  "description": "BUTTON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUTTON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUTTON",
+  "addresses": {
+    "8453": "0x13b5089a8c4c5848df59b2f3eedbdadfa0e688ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUTTON",
+    "sanitizedSymbol": "BUTTON_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123540",
+    "lockerAddress": "0xB10e0F0b7aEA1FCbe2eF2c56437a60798AedA7D5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Circuit Portrait",
+  "symbol": "Circuit Portrait",
+  "decimals": 18,
+  "description": "Circuit Portrait is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Circuit%20Portrait",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Circuit Portrait",
+  "addresses": {
+    "8453": "0x1642c182e14173da7623dda9f4d51d4e4af3b36a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Circuit Portrait",
+    "sanitizedSymbol": "CIRCUIT_PORTRAIT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166733",
+    "lockerAddress": "0xD78F0b0da92053559d2Cee2517C8D0198E00181f"
+  },
+  "clankerInfo": null
+}

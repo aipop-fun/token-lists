@@ -1,0 +1,22 @@
+{
+  "name": "Zombot",
+  "symbol": "Zombot",
+  "decimals": 18,
+  "description": "Zombot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zombot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zombot",
+  "addresses": {
+    "8453": "0x25764212fff8aeb6bee6c90257e4ba1fc774f546"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zombot",
+    "sanitizedSymbol": "ZOMBOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1332041",
+    "lockerAddress": "0xaaD1C20BFfA8090B6FC14c0597A5217e36c15E0A"
+  },
+  "clankerInfo": null
+}

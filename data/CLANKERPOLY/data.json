@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERPoly",
+  "symbol": "CLANKERPoly",
+  "decimals": 18,
+  "description": "CLANKERPoly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERPoly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERPoly",
+  "addresses": {
+    "8453": "0x27034419eb7e0828080bb1dc21f4acbd01ff753c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERPoly",
+    "sanitizedSymbol": "CLANKERPOLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237414",
+    "lockerAddress": "0xf049143a29C2d0176a0D6fA565cDc1552880572A"
+  },
+  "clankerInfo": null
+}

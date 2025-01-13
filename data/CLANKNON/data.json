@@ -1,0 +1,22 @@
+{
+  "name": "Clanknon",
+  "symbol": "Clanknon",
+  "decimals": 18,
+  "description": "Clanknon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanknon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanknon",
+  "addresses": {
+    "8453": "0x08cc1c55590e81cb86775a818ec97814517dfb45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanknon",
+    "sanitizedSymbol": "CLANKNON",
+    "created_at": "2024-12-10T08:29:19.705366",
+    "deployer": "0x2039b2CB8145dcE15F86d7fb09dde7Cda70e849C",
+    "lpNftId": "1398800",
+    "lockerAddress": "0x9ACeB214049f3dffcEB3b0D3BF065Ff08aDA56BF"
+  },
+  "clankerInfo": null
+}

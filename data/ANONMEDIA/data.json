@@ -1,0 +1,22 @@
+{
+  "name": "AnonMedia",
+  "symbol": "AnonMedia",
+  "decimals": 18,
+  "description": "AnonMedia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonMedia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonMedia",
+  "addresses": {
+    "8453": "0x289d03d480790c0cf1261cf8d1b0ace2788b8ea3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonMedia",
+    "sanitizedSymbol": "ANONMEDIA",
+    "created_at": "2024-12-09T02:35:40.691908",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1378740",
+    "lockerAddress": "0x1Ff3Ea7A9F3e20199027795E00369d94766e8212"
+  },
+  "clankerInfo": null
+}

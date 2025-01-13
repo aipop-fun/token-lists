@@ -1,0 +1,22 @@
+{
+  "name": "web2",
+  "symbol": "web2",
+  "decimals": 18,
+  "description": "web2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=web2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "web2",
+  "addresses": {
+    "8453": "0x209448e81ed13657a93a57c5aa8fec54b2814f52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "web2",
+    "sanitizedSymbol": "WEB2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233774",
+    "lockerAddress": "0xD7DC6Eb72C08E8a5b801A8B8160c5b15a0ea92d8"
+  },
+  "clankerInfo": null
+}

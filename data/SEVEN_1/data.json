@@ -1,0 +1,22 @@
+{
+  "name": "SEVEN",
+  "symbol": "SEVEN",
+  "decimals": 18,
+  "description": "SEVEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SEVEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SEVEN",
+  "addresses": {
+    "8453": "0x214f4a283da8d7266c8ee0e42ad8588f6a2f5a98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SEVEN",
+    "sanitizedSymbol": "SEVEN_1",
+    "created_at": "2024-12-11T02:53:52.852723",
+    "deployer": "0xCC92f1eCC2838a5C6C634eEbfBb6a33B8B346442",
+    "lpNftId": "1411246",
+    "lockerAddress": "0x080b9361dC46B5AfDE0a560141f0679965A15edE"
+  },
+  "clankerInfo": null
+}

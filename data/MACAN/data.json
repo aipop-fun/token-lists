@@ -1,0 +1,22 @@
+{
+  "name": "Macan",
+  "symbol": "Macan",
+  "decimals": 18,
+  "description": "Macan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Macan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Macan",
+  "addresses": {
+    "8453": "0x059439fbd07440721ab1f429e7f1ce6c669319b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Macan",
+    "sanitizedSymbol": "MACAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4D112871f46b543411E1851083116ccD231a527e",
+    "lpNftId": "1281781",
+    "lockerAddress": "0x86faDd913011BcB4D7a51dF4d323759572CEa941"
+  },
+  "clankerInfo": null
+}

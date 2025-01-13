@@ -1,0 +1,22 @@
+{
+  "name": "major",
+  "symbol": "major",
+  "decimals": 18,
+  "description": "major is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=major",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "major",
+  "addresses": {
+    "8453": "0x044302d1194f794124f57af2f736d10cdaf2860c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "major",
+    "sanitizedSymbol": "MAJOR_2",
+    "created_at": "2024-12-10T22:54:09.109585",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408165",
+    "lockerAddress": "0x569D6bc975Fa49A100FD99c036f1132c66C031dA"
+  },
+  "clankerInfo": null
+}

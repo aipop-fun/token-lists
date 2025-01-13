@@ -1,0 +1,22 @@
+{
+  "name": "BASEGUY",
+  "symbol": "BASEGUY",
+  "decimals": 18,
+  "description": "BASEGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASEGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASEGUY",
+  "addresses": {
+    "8453": "0x057455721d1c1ececf1c0fdb6b9a6a99eb46ce4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASEGUY",
+    "sanitizedSymbol": "BASEGUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1333746",
+    "lockerAddress": "0x7442aB06485e67fcB4132dB653A9eE6Fe9653F65"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RONNY",
+  "symbol": "RONNY",
+  "decimals": 18,
+  "description": "RONNY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RONNY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RONNY",
+  "addresses": {
+    "8453": "0x3c36dae2dc999160b4c39339fc3f9572c7060e5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RONNY",
+    "sanitizedSymbol": "RONNY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217679",
+    "lockerAddress": "0xBEB954259fA2eeDE8cC4C32dA674C85d370372d3"
+  },
+  "clankerInfo": null
+}

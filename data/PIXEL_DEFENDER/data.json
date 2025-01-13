@@ -1,0 +1,22 @@
+{
+  "name": "Pixel Defender",
+  "symbol": "Pixel Defender",
+  "decimals": 18,
+  "description": "Pixel Defender is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pixel%20Defender",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pixel Defender",
+  "addresses": {
+    "8453": "0x1bacf8c685b95abf859a063827e566e717fc4992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pixel Defender",
+    "sanitizedSymbol": "PIXEL_DEFENDER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFC559a9619BF03a55ba7a93B6479B3E9c24295ab",
+    "lpNftId": "1292553",
+    "lockerAddress": "0xab9c96ab7CBf346d459E95cDC3f8b253B02846ae"
+  },
+  "clankerInfo": null
+}

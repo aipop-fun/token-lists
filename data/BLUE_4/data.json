@@ -1,0 +1,22 @@
+{
+  "name": "BLUE",
+  "symbol": "BLUE",
+  "decimals": 18,
+  "description": "BLUE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUE",
+  "addresses": {
+    "8453": "0x36642fb608f1a1dd0a371efd41053a41b465d583"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUE",
+    "sanitizedSymbol": "BLUE_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1340914",
+    "lockerAddress": "0x61E24B2697b5D9eF5aa479a3f05b0f33a4871C0A"
+  },
+  "clankerInfo": null
+}

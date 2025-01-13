@@ -1,0 +1,22 @@
+{
+  "name": "LarryBOT",
+  "symbol": "LarryBOT",
+  "decimals": 18,
+  "description": "LarryBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LarryBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LarryBOT",
+  "addresses": {
+    "8453": "0x16618c2bdd9ef06b012dcb82010e0735b59fab68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LarryBOT",
+    "sanitizedSymbol": "LARRYBOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1332653",
+    "lockerAddress": "0x1190744a6Ec520bC12bF5d3d69D76AE7C51148bC"
+  },
+  "clankerInfo": null
+}

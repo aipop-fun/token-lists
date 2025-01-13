@@ -1,0 +1,22 @@
+{
+  "name": "CLONE",
+  "symbol": "CLONE",
+  "decimals": 18,
+  "description": "CLONE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLONE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLONE",
+  "addresses": {
+    "8453": "0x194c1eb515c0c28ac878e04a9cb9ffc2cc215ff0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLONE",
+    "sanitizedSymbol": "CLONE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219953",
+    "lockerAddress": "0x4d7567406F68cecDa9AB3941F3C55408f7a8b728"
+  },
+  "clankerInfo": null
+}

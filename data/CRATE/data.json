@@ -1,0 +1,22 @@
+{
+  "name": "crate",
+  "symbol": "crate",
+  "decimals": 18,
+  "description": "crate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crate",
+  "addresses": {
+    "8453": "0x0249f10677fd8cd16d1065b1220c08dc0715e264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crate",
+    "sanitizedSymbol": "CRATE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1369850",
+    "lockerAddress": "0x8254AC70A0171A270b57d99f6294df0E80Ce51F5"
+  },
+  "clankerInfo": null
+}

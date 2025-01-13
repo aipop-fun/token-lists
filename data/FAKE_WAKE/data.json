@@ -1,0 +1,22 @@
+{
+  "name": "fake wake",
+  "symbol": "fake wake",
+  "decimals": 18,
+  "description": "fake wake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fake%20wake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fake wake",
+  "addresses": {
+    "8453": "0x132b766a4daa7668724d3d332a8f2062ade1bbec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fake wake",
+    "sanitizedSymbol": "FAKE_WAKE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x665eABA50fF0C80F318DE79F5c2b7A9fCe409Dc1",
+    "lpNftId": "1310935",
+    "lockerAddress": "0x27Aa4E9B7B7183B7b5C575033E860F6dC3EAC541"
+  },
+  "clankerInfo": null
+}

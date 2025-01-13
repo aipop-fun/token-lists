@@ -1,0 +1,22 @@
+{
+  "name": "NjalNada",
+  "symbol": "NjalNada",
+  "decimals": 18,
+  "description": "NjalNada is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NjalNada",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NjalNada",
+  "addresses": {
+    "8453": "0x071838bc546f049e7a9e5357cb8c594a7e3021cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NjalNada",
+    "sanitizedSymbol": "NJALNADA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197831",
+    "lockerAddress": "0x893BcE4C9084971f71024C1abebaf0852990b21F"
+  },
+  "clankerInfo": null
+}

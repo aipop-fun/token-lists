@@ -1,0 +1,22 @@
+{
+  "name": "I AM",
+  "symbol": "I AM",
+  "decimals": 18,
+  "description": "I AM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20AM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I AM",
+  "addresses": {
+    "8453": "0x13c8d5772ec78b09e6f259cc1392e8a2f32f62c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I AM",
+    "sanitizedSymbol": "I_AM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc99183a86619a1F5045332a3b8dB14649A9afD8A",
+    "lpNftId": "1313173",
+    "lockerAddress": "0x0F1ACa34ac9b7f0C83088f24Dac16ea46eD4dB9B"
+  },
+  "clankerInfo": null
+}

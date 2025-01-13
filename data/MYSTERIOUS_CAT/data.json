@@ -1,0 +1,22 @@
+{
+  "name": "Mysterious cat",
+  "symbol": "Mysterious cat",
+  "decimals": 18,
+  "description": "Mysterious cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mysterious%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mysterious cat",
+  "addresses": {
+    "8453": "0x3e9f6f00b518e6087b28b2da16ae2f122c1ea7f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mysterious cat",
+    "sanitizedSymbol": "MYSTERIOUS_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF72E10Ba10c78B845e63328f83AE3623bB525618",
+    "lpNftId": "1313993",
+    "lockerAddress": "0x75933292460F4Ad9D54fCCdFE3a0BC55FC87b2BA"
+  },
+  "clankerInfo": null
+}

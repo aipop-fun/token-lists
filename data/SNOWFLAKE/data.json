@@ -1,0 +1,22 @@
+{
+  "name": "Snowflake",
+  "symbol": "Snowflake",
+  "decimals": 18,
+  "description": "Snowflake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snowflake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snowflake",
+  "addresses": {
+    "8453": "0x000e5d684ea996738f35be039d856c5e857fc974"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snowflake",
+    "sanitizedSymbol": "SNOWFLAKE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d7A233843932A618d243ff9D166D3b8630cBc24",
+    "lpNftId": "1321411",
+    "lockerAddress": "0xEE46C9f76B5BC171C4E8DDf11AA83bb644Ab1944"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MischaPus",
+  "symbol": "MischaPus",
+  "decimals": 18,
+  "description": "MischaPus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MischaPus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MischaPus",
+  "addresses": {
+    "8453": "0x1226a9684cced2eac7cc646eb0c53e2899bb3625"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MischaPus",
+    "sanitizedSymbol": "MISCHAPUS",
+    "created_at": "2024-12-11T05:02:27.60133",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1412901",
+    "lockerAddress": "0x253201c018678007e37b89b96EB2111BB1Ac57AF"
+  },
+  "clankerInfo": null
+}

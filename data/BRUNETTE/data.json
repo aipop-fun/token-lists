@@ -1,0 +1,22 @@
+{
+  "name": "Brunette",
+  "symbol": "Brunette",
+  "decimals": 18,
+  "description": "Brunette is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brunette",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brunette",
+  "addresses": {
+    "8453": "0x00561688b20a2b8a47f504d44b7b63b996fbcbd4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brunette",
+    "sanitizedSymbol": "BRUNETTE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223894",
+    "lockerAddress": "0x0a749C782Af4956EB204537d7c9E3d0E165CA82c"
+  },
+  "clankerInfo": null
+}

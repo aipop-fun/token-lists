@@ -1,0 +1,22 @@
+{
+  "name": "I GO MEOW",
+  "symbol": "I GO MEOW",
+  "decimals": 18,
+  "description": "I GO MEOW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20GO%20MEOW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I GO MEOW",
+  "addresses": {
+    "8453": "0x00d9f381294d05682924daa0c832cbdc81baaa1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I GO MEOW",
+    "sanitizedSymbol": "I_GO_MEOW",
+    "created_at": "2024-12-10T02:49:55.603518",
+    "deployer": "0x2d8B0abd7980C5c9D0CB5a008A3af690C1586509",
+    "lpNftId": "1395338",
+    "lockerAddress": "0x41125d7Fa6c69CDA0b09c92DB7e646CeC3dcbDf5"
+  },
+  "clankerInfo": null
+}

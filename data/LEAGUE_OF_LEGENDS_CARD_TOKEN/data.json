@@ -1,0 +1,22 @@
+{
+  "name": "League of Legends Card Token",
+  "symbol": "League of Legends Card Token",
+  "decimals": 18,
+  "description": "League of Legends Card Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=League%20of%20Legends%20Card%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "League of Legends Card Token",
+  "addresses": {
+    "8453": "0x288579ec091cc4ad50c4481ff7c8a45496f55ee2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "League of Legends Card Token",
+    "sanitizedSymbol": "LEAGUE_OF_LEGENDS_CARD_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1353888",
+    "lockerAddress": "0x0AC75cEB0050fC97C45F17b65b633Cc51e06DFD4"
+  },
+  "clankerInfo": null
+}

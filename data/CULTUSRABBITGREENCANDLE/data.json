@@ -1,0 +1,22 @@
+{
+  "name": "CultusRabbitGreenCandle",
+  "symbol": "CultusRabbitGreenCandle",
+  "decimals": 18,
+  "description": "CultusRabbitGreenCandle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CultusRabbitGreenCandle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CultusRabbitGreenCandle",
+  "addresses": {
+    "8453": "0x2fb55f3b7686b9efb7607ccc91d0d63da61529b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CultusRabbitGreenCandle",
+    "sanitizedSymbol": "CULTUSRABBITGREENCANDLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202434",
+    "lockerAddress": "0x12058761eeA9b3900f155c3232B31f30A1092f08"
+  },
+  "clankerInfo": null
+}

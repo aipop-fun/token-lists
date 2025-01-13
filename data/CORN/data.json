@@ -1,0 +1,22 @@
+{
+  "name": "corn",
+  "symbol": "corn",
+  "decimals": 18,
+  "description": "corn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=corn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "corn",
+  "addresses": {
+    "8453": "0x417bf39beac63b960e6ed7a2890f2e743920cfe4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "corn",
+    "sanitizedSymbol": "CORN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x02b315BA6697Ec8b124e44590168c621CeF644ed",
+    "lpNftId": "1278736",
+    "lockerAddress": "0x8F08580A10187d4e8868B4ba621e3Be42D872E95"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Apes Punk",
+  "symbol": "Apes Punk",
+  "decimals": 18,
+  "description": "Apes Punk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apes%20Punk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apes Punk",
+  "addresses": {
+    "8453": "0x135b18a9b1df24a83eb4b2549f38de5ac7ed0c32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apes Punk",
+    "sanitizedSymbol": "APES_PUNK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1284399",
+    "lockerAddress": "0xBe9696090cdeCB8f906c6798E6fdba04245a7039"
+  },
+  "clankerInfo": null
+}

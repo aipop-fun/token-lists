@@ -1,0 +1,22 @@
+{
+  "name": "Wen Base",
+  "symbol": "Wen Base",
+  "decimals": 18,
+  "description": "Wen Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wen%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wen Base",
+  "addresses": {
+    "8453": "0x10843c0ef8380ee9d4232b72bca42ed9606862d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wen Base",
+    "sanitizedSymbol": "WEN_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8B881349c69fdA7E1121Ae397383aA2002f9f418",
+    "lpNftId": "1286542",
+    "lockerAddress": "0xF8D989E561781381A2784DaAd07c5e91C11b65Ba"
+  },
+  "clankerInfo": null
+}

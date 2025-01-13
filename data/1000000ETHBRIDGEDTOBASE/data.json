@@ -1,0 +1,22 @@
+{
+  "name": "+1000000ETHBridgedToBase",
+  "symbol": "+1000000ETHBridgedToBase",
+  "decimals": 18,
+  "description": "+1000000ETHBridgedToBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%2B1000000ETHBridgedToBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "+1000000ETHBridgedToBase",
+  "addresses": {
+    "8453": "0x2a0b2050521389732faa06d09af216bf12857992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "+1000000ETHBridgedToBase",
+    "sanitizedSymbol": "1000000ETHBRIDGEDTOBASE",
+    "created_at": "2024-12-12T19:38:48.589373",
+    "deployer": "0xB4BF4DAAd1049B7198522C738a3D81B14B82a162",
+    "lpNftId": "1441772",
+    "lockerAddress": "0x3a9DF1a547CF59754B4D29B460d94835A05FF817"
+  },
+  "clankerInfo": null
+}

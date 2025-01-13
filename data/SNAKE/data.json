@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "symbol": "snake",
+  "decimals": 18,
+  "description": "snake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=snake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "snake",
+  "addresses": {
+    "8453": "0x2f8a6c39f1c34b270fe292813c013bd8dc4e5852"
+  },
+  "tokenInfo": {
+    "originalSymbol": "snake",
+    "sanitizedSymbol": "SNAKE",
+    "created_at": "2024-12-12T10:05:39.406181",
+    "deployer": "0x76b429c6dDc43578775183d5962317b059965827",
+    "lpNftId": "1432174",
+    "lockerAddress": "0xabFf3C7D9C49b451488737af64C4309c2C165bfD"
+  },
+  "clankerInfo": null
+}

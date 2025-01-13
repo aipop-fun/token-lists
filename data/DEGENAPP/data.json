@@ -1,0 +1,22 @@
+{
+  "name": "DegenApp",
+  "symbol": "DegenApp",
+  "decimals": 18,
+  "description": "DegenApp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenApp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenApp",
+  "addresses": {
+    "8453": "0x3c3d61c054b6cc269061e3b60564a679702c28bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenApp",
+    "sanitizedSymbol": "DEGENAPP",
+    "created_at": "2024-12-12T11:59:40.011475",
+    "deployer": "0xf4D0EEAb4A106163B6A37D39D3cf60399c94d23d",
+    "lpNftId": "1433798",
+    "lockerAddress": "0x82bc65032Edc657455A3DF46857D22af6F8e2588"
+  },
+  "clankerInfo": null
+}

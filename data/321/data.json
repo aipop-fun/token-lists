@@ -1,0 +1,22 @@
+{
+  "name": "321",
+  "symbol": "321",
+  "decimals": 18,
+  "description": "321 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=321",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "321",
+  "addresses": {
+    "8453": "0x283856cab9f4288ef06d7e4df2e877014182cba7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "321",
+    "sanitizedSymbol": "321",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1333298",
+    "lockerAddress": "0xeA9C0eE2A24A45Fd052b6Ed5D55CEB9A0b777cA9"
+  },
+  "clankerInfo": null
+}

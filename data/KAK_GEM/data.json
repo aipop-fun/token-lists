@@ -1,0 +1,22 @@
+{
+  "name": "Kak Gem",
+  "symbol": "Kak Gem",
+  "decimals": 18,
+  "description": "Kak Gem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kak%20Gem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kak Gem",
+  "addresses": {
+    "8453": "0x336322b3739ea6fe897fd6ce9a68524edf0490d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kak Gem",
+    "sanitizedSymbol": "KAK_GEM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235100",
+    "lockerAddress": "0xa15881D8fd80707a3AD39121960Ad549dA3D90c0"
+  },
+  "clankerInfo": null
+}

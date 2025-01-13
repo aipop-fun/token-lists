@@ -1,0 +1,22 @@
+{
+  "name": "Pending",
+  "symbol": "Pending",
+  "decimals": 18,
+  "description": "Pending is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pending",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pending",
+  "addresses": {
+    "8453": "0x2d0a1ba384a89d38d0834cd7eae0525e23c8b01c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pending",
+    "sanitizedSymbol": "PENDING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173194",
+    "lockerAddress": "0x179B4cBb7A85E575bC4F14221f4CC2FD56A8E1Da"
+  },
+  "clankerInfo": null
+}

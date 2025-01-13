@@ -1,0 +1,22 @@
+{
+  "name": "EPS212",
+  "symbol": "EPS212",
+  "decimals": 18,
+  "description": "EPS212 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EPS212",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EPS212",
+  "addresses": {
+    "8453": "0x3cb80077da9e2c3c4ec7a9d478a35c0760efd21f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EPS212",
+    "sanitizedSymbol": "EPS212",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9481fCc182851E380e306287d566B2589a36EC6C",
+    "lpNftId": "1308871",
+    "lockerAddress": "0x4c89289DE3e3329A80eDd7FA2D1f621ebf9318A1"
+  },
+  "clankerInfo": null
+}

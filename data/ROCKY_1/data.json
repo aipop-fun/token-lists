@@ -1,0 +1,22 @@
+{
+  "name": "Rocky",
+  "symbol": "Rocky",
+  "decimals": 18,
+  "description": "Rocky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rocky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rocky",
+  "addresses": {
+    "8453": "0x0a7d7d08996c4bf31b875b5b661e3357e0a20752"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rocky",
+    "sanitizedSymbol": "ROCKY_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4e1cfa8c6e0D4a681cDb362027c61E650D2aaAC0",
+    "lpNftId": "1345411",
+    "lockerAddress": "0xE49DCc95742206272D5378F418d63e70269c1399"
+  },
+  "clankerInfo": null
+}

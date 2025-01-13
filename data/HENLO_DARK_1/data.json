@@ -1,0 +1,22 @@
+{
+  "name": "HENLO DARK",
+  "symbol": "HENLO DARK",
+  "decimals": 18,
+  "description": "HENLO DARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HENLO%20DARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HENLO DARK",
+  "addresses": {
+    "8453": "0x192fc9a732270c28823487d165bc86f57b249bfe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HENLO DARK",
+    "sanitizedSymbol": "HENLO_DARK_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6110DFca53554486489E07dFFde2E384AFe99827",
+    "lpNftId": "1311270",
+    "lockerAddress": "0x1AFF6C1B8fa5E00eF4BdeE95fe7ecAD461cFb8D2"
+  },
+  "clankerInfo": null
+}

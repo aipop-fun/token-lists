@@ -1,0 +1,22 @@
+{
+  "name": "Joint Protocol",
+  "symbol": "Joint Protocol",
+  "decimals": 18,
+  "description": "Joint Protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Joint%20Protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Joint Protocol",
+  "addresses": {
+    "8453": "0x0c9a78cc865d83af504fbf4c0a08185f2c4db935"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Joint Protocol",
+    "sanitizedSymbol": "JOINT_PROTOCOL",
+    "created_at": "2024-12-11T14:07:11.972152",
+    "deployer": "0xB3580458B303D12467CA0f79818801aa5780A2A3",
+    "lpNftId": "1419868",
+    "lockerAddress": "0xCb0D07a38EB8589c45090aaF029A7e6E45E936dF"
+  },
+  "clankerInfo": null
+}

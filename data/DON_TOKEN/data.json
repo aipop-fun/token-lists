@@ -1,0 +1,22 @@
+{
+  "name": "Don Token",
+  "symbol": "Don Token",
+  "decimals": 18,
+  "description": "Don Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don Token",
+  "addresses": {
+    "8453": "0x08ed2e7f09213a5341bf948d2db5988f35b79746"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don Token",
+    "sanitizedSymbol": "DON_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124979",
+    "lockerAddress": "0xb489d7502E9098E4B528F45748844035B5a50EcD"
+  },
+  "clankerInfo": null
+}

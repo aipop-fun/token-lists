@@ -1,0 +1,22 @@
+{
+  "name": "OG Clank",
+  "symbol": "OG Clank",
+  "decimals": 18,
+  "description": "OG Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OG%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OG Clank",
+  "addresses": {
+    "8453": "0x3dc7b0a9e5712de349d22c864559a7ca1be5db3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OG Clank",
+    "sanitizedSymbol": "OG_CLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a9c258d4037f46873b42893F4A7a11288628f9c",
+    "lpNftId": "1313670",
+    "lockerAddress": "0x3C3e93ee3E536E41caBd67D9260f4D292E5eAFF0"
+  },
+  "clankerInfo": null
+}

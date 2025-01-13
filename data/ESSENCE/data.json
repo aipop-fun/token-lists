@@ -1,0 +1,22 @@
+{
+  "name": "ESSENCE",
+  "symbol": "ESSENCE",
+  "decimals": 18,
+  "description": "ESSENCE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ESSENCE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ESSENCE",
+  "addresses": {
+    "8453": "0x22d0ce988510064ca0f9b35cd3d9600bb5fb76a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ESSENCE",
+    "sanitizedSymbol": "ESSENCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120363",
+    "lockerAddress": "0x2BBDFa340B4E2f07f3D62Bf54eB3CdAFe41d50d1"
+  },
+  "clankerInfo": null
+}

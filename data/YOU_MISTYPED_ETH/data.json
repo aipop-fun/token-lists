@@ -1,0 +1,22 @@
+{
+  "name": "You mistyped ETH",
+  "symbol": "You mistyped ETH",
+  "decimals": 18,
+  "description": "You mistyped ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=You%20mistyped%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "You mistyped ETH",
+  "addresses": {
+    "8453": "0x0054091f70c1a9f39ba0281e9c7525d7f3d9c135"
+  },
+  "tokenInfo": {
+    "originalSymbol": "You mistyped ETH",
+    "sanitizedSymbol": "YOU_MISTYPED_ETH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x82D746d7d53515B22Ad058937EE4D139bA09Ff07",
+    "lpNftId": "1328495",
+    "lockerAddress": "0xE8312ab33738D7329692d3CB4c1AE0132B4c4805"
+  },
+  "clankerInfo": null
+}

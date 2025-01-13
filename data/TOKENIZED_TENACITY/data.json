@@ -1,0 +1,22 @@
+{
+  "name": "Tokenized Tenacity",
+  "symbol": "Tokenized Tenacity",
+  "decimals": 18,
+  "description": "Tokenized Tenacity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tokenized%20Tenacity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tokenized Tenacity",
+  "addresses": {
+    "8453": "0x22a6cc506f2c053a374fdb8087565a330adcb491"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tokenized Tenacity",
+    "sanitizedSymbol": "TOKENIZED_TENACITY",
+    "created_at": "2024-12-09T16:27:37.73222",
+    "deployer": "0xed21735DC192dC4eeAFd71b4Dc023bC53fE4DF15",
+    "lpNftId": "1389206",
+    "lockerAddress": "0x5e6565e6d5deeFF30d0293344c84bac8F514a06f"
+  },
+  "clankerInfo": null
+}

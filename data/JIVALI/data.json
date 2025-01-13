@@ -1,0 +1,22 @@
+{
+  "name": "Jivali",
+  "symbol": "Jivali",
+  "decimals": 18,
+  "description": "Jivali is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jivali",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jivali",
+  "addresses": {
+    "8453": "0x1f1273b27325dca912f3352a16124ef4782fabbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jivali",
+    "sanitizedSymbol": "JIVALI",
+    "created_at": "2024-12-12T04:12:05.483006",
+    "deployer": "0xc6b973bB42266c9CBd6B61ff4AEd2e2527Eb8F2B",
+    "lpNftId": "1429103",
+    "lockerAddress": "0xE3c078b03479C002Bdd3760aA3636B4471fB569D"
+  },
+  "clankerInfo": null
+}

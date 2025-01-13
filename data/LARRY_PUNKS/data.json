@@ -1,0 +1,22 @@
+{
+  "name": "Larry Punks",
+  "symbol": "Larry Punks",
+  "decimals": 18,
+  "description": "Larry Punks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Larry%20Punks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Larry Punks",
+  "addresses": {
+    "8453": "0x3580ef66c0b7b7b73863b86cd5ade5b4748c876c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Larry Punks",
+    "sanitizedSymbol": "LARRY_PUNKS",
+    "created_at": "2024-12-11T15:21:10.366002",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1420878",
+    "lockerAddress": "0x878a54bA727d862CB5819B4444eb210d828F9F08"
+  },
+  "clankerInfo": null
+}

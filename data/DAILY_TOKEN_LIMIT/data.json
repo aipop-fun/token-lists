@@ -1,0 +1,22 @@
+{
+  "name": "Daily Token Limit",
+  "symbol": "Daily Token Limit",
+  "decimals": 18,
+  "description": "Daily Token Limit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Daily%20Token%20Limit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Daily Token Limit",
+  "addresses": {
+    "8453": "0x0ab33aa73ae3c16155cbccff7903ca83caad3898"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Daily Token Limit",
+    "sanitizedSymbol": "DAILY_TOKEN_LIMIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233290",
+    "lockerAddress": "0xe5a1Cc74c2e05d29235C5495668FE68672C9c86F"
+  },
+  "clankerInfo": null
+}

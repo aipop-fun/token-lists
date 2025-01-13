@@ -1,0 +1,22 @@
+{
+  "name": "Playstation One",
+  "symbol": "Playstation One",
+  "decimals": 18,
+  "description": "Playstation One is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Playstation%20One",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Playstation One",
+  "addresses": {
+    "8453": "0x333263208859b406d97587f55d57c89a16cfd0f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Playstation One",
+    "sanitizedSymbol": "PLAYSTATION_ONE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151420",
+    "lockerAddress": "0xF84A7161503964AD9a658dDFA35b8dd4d9ea7c2a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$antum",
+  "symbol": "$antum",
+  "decimals": 18,
+  "description": "$antum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24antum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$antum",
+  "addresses": {
+    "8453": "0x3af41487b1f871e3f71c7b47d863b775e9eac432"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$antum",
+    "sanitizedSymbol": "ANTUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1312272",
+    "lockerAddress": "0xD020b9a59cFC578446AA1cD4aF725c805DB1BD0f"
+  },
+  "clankerInfo": null
+}

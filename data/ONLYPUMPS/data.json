@@ -1,0 +1,22 @@
+{
+  "name": "OnlyPumps",
+  "symbol": "OnlyPumps",
+  "decimals": 18,
+  "description": "OnlyPumps is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyPumps",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyPumps",
+  "addresses": {
+    "8453": "0x2528a0cc24bb55bfc84aa2ab2f095bc8c09eb617"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyPumps",
+    "sanitizedSymbol": "ONLYPUMPS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217847",
+    "lockerAddress": "0x77424799A50051C9A53bbb1A0B81d1D86F5d0418"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "graffiti",
+  "symbol": "graffiti",
+  "decimals": 18,
+  "description": "graffiti is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=graffiti",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "graffiti",
+  "addresses": {
+    "8453": "0x006816e6f0cc48f2ff64a8ff47bb2f782e14de1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "graffiti",
+    "sanitizedSymbol": "GRAFFITI",
+    "created_at": "2024-12-12T16:31:16.791581",
+    "deployer": "0x74Ed4b81890739185a04634Ef037C4B3b4Bf53ba",
+    "lpNftId": "1438601",
+    "lockerAddress": "0xADb9D29096CEbFEC131183593933BB8Ca1cd8A9a"
+  },
+  "clankerInfo": null
+}

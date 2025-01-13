@@ -1,0 +1,22 @@
+{
+  "name": "DRAKULA",
+  "symbol": "DRAKULA",
+  "decimals": 18,
+  "description": "DRAKULA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRAKULA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRAKULA",
+  "addresses": {
+    "8453": "0x0cab33036bac5bed055015b1eed89afab7a44904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRAKULA",
+    "sanitizedSymbol": "DRAKULA_2",
+    "created_at": "2024-12-11T08:35:29.460854",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1415092",
+    "lockerAddress": "0xa488f9f7dA9b2fE0ffB5ae9a622b7d2d5fF2cc61"
+  },
+  "clankerInfo": null
+}

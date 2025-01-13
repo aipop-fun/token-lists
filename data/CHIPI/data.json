@@ -1,0 +1,22 @@
+{
+  "name": "CHIPI",
+  "symbol": "CHIPI",
+  "decimals": 18,
+  "description": "CHIPI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHIPI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHIPI",
+  "addresses": {
+    "8453": "0x08b7a67e1cdd9b9d1f3d1c681b2a78c349578ba2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHIPI",
+    "sanitizedSymbol": "CHIPI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222818",
+    "lockerAddress": "0x9CB9b2b7bc457F9638e852404513eace7aB2c83C"
+  },
+  "clankerInfo": null
+}

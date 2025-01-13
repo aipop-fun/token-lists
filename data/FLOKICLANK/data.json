@@ -1,0 +1,22 @@
+{
+  "name": "FlokiClank",
+  "symbol": "FlokiClank",
+  "decimals": 18,
+  "description": "FlokiClank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FlokiClank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FlokiClank",
+  "addresses": {
+    "8453": "0x32ed1599a0a80755805f5bb98ebcf4ae580e7cfc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FlokiClank",
+    "sanitizedSymbol": "FLOKICLANK",
+    "created_at": "2024-12-12T22:18:34.897103",
+    "deployer": "0x7962fEf25045f85a24cC14Ab166C79Ff080E75D8",
+    "lpNftId": "1444477",
+    "lockerAddress": "0xe9Dbeca63D0152A65e2196D90CeDDbaa4B78Da37"
+  },
+  "clankerInfo": null
+}

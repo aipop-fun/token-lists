@@ -1,0 +1,22 @@
+{
+  "name": "PENGU x Jesse",
+  "symbol": "PENGU x Jesse",
+  "decimals": 18,
+  "description": "PENGU x Jesse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PENGU%20x%20Jesse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PENGU x Jesse",
+  "addresses": {
+    "8453": "0x187f2e140f913ad5107a9a0e5a4a6f720526d1c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PENGU x Jesse",
+    "sanitizedSymbol": "PENGU_X_JESSE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1359825",
+    "lockerAddress": "0x1F9879906790C204F9f3369368Fa43ff4FE0Fa77"
+  },
+  "clankerInfo": null
+}

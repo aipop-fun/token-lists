@@ -1,0 +1,22 @@
+{
+  "name": "Vision1M",
+  "symbol": "Vision1M",
+  "decimals": 18,
+  "description": "Vision1M is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vision1M",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vision1M",
+  "addresses": {
+    "8453": "0x1d21e9edaf622054efdb59608e154d594ad1e442"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vision1M",
+    "sanitizedSymbol": "VISION1M",
+    "created_at": "2024-12-10T15:11:57.588782",
+    "deployer": "0x786200A1B260F6160903547B62DB09Be4D7776e9",
+    "lpNftId": "1402475",
+    "lockerAddress": "0x203635aC34eed75AEd4B98163E8e43B0Eae9dc44"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Moonlight",
+  "symbol": "Moonlight",
+  "decimals": 18,
+  "description": "Moonlight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moonlight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moonlight",
+  "addresses": {
+    "8453": "0x313a30c943e9b2c67264747d353105306e01c4ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moonlight",
+    "sanitizedSymbol": "MOONLIGHT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1333622",
+    "lockerAddress": "0xC23A489183F7e43E981DADbcf9E77E6280b324A0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HENLO BALLS ON BASE",
+  "symbol": "HENLO BALLS ON BASE",
+  "decimals": 18,
+  "description": "HENLO BALLS ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HENLO%20BALLS%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HENLO BALLS ON BASE",
+  "addresses": {
+    "8453": "0x2953ed9bef89661bd98882f6341cbc5f5469e947"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HENLO BALLS ON BASE",
+    "sanitizedSymbol": "HENLO_BALLS_ON_BASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1172998",
+    "lockerAddress": "0x2d835265903174AB97ee6645769B1F2483cd8395"
+  },
+  "clankerInfo": null
+}

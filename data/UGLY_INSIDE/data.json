@@ -1,0 +1,22 @@
+{
+  "name": "Ugly Inside",
+  "symbol": "Ugly Inside",
+  "decimals": 18,
+  "description": "Ugly Inside is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ugly%20Inside",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ugly Inside",
+  "addresses": {
+    "8453": "0x03054467a2a3662b953835af8b9e26d9655cde36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ugly Inside",
+    "sanitizedSymbol": "UGLY_INSIDE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1343452",
+    "lockerAddress": "0xB3DBfD79BD1846547457B60Fc44Fe9C21C5eD05C"
+  },
+  "clankerInfo": null
+}

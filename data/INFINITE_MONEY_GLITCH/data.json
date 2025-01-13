@@ -1,0 +1,22 @@
+{
+  "name": "Infinite Money Glitch",
+  "symbol": "Infinite Money Glitch",
+  "decimals": 18,
+  "description": "Infinite Money Glitch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Infinite%20Money%20Glitch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Infinite Money Glitch",
+  "addresses": {
+    "8453": "0x3cd27d14c24954f8176865ac6cad53abd4e6ffed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Infinite Money Glitch",
+    "sanitizedSymbol": "INFINITE_MONEY_GLITCH",
+    "created_at": "2024-12-11T09:14:53.830972",
+    "deployer": "0x01A29134723ef72a968838cb1DF498BC4f910bEc",
+    "lpNftId": "1415416",
+    "lockerAddress": "0xa8712DDEdD78b466beB0bc95D92E5a85e1C65a01"
+  },
+  "clankerInfo": null
+}

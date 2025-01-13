@@ -1,0 +1,22 @@
+{
+  "name": "Digital Syndicate",
+  "symbol": "Digital Syndicate",
+  "decimals": 18,
+  "description": "Digital Syndicate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Syndicate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Syndicate",
+  "addresses": {
+    "8453": "0x328b1a480e65bff09580c2d555e26cea4f406b47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Syndicate",
+    "sanitizedSymbol": "DIGITAL_SYNDICATE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x49F099C691a2Bf64066ca23d142fe2f3A0DD639a",
+    "lpNftId": "1319274",
+    "lockerAddress": "0x59DeB7a548A0aE5a74254ed32f3a83fBCF21a871"
+  },
+  "clankerInfo": null
+}

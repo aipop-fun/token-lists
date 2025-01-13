@@ -1,0 +1,22 @@
+{
+  "name": "clanker enterprises",
+  "symbol": "clanker enterprises",
+  "decimals": 18,
+  "description": "clanker enterprises is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20enterprises",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker enterprises",
+  "addresses": {
+    "8453": "0x08bec99a4eb47e2aad1d4d54d69089dc781a20d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker enterprises",
+    "sanitizedSymbol": "CLANKER_ENTERPRISES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216456",
+    "lockerAddress": "0xC5F5253D669cD5bA0bb19a79c21F9e99b0d8C135"
+  },
+  "clankerInfo": null
+}

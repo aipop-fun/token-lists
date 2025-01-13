@@ -1,0 +1,22 @@
+{
+  "name": "Btcsoon2_1000000$",
+  "symbol": "Btcsoon2_1000000$",
+  "decimals": 18,
+  "description": "Btcsoon2_1000000$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Btcsoon2_1000000%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Btcsoon2_1000000$",
+  "addresses": {
+    "8453": "0x3b2d449b234ef8d8e51d033485d401d745320330"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Btcsoon2_1000000$",
+    "sanitizedSymbol": "BTCSOON2_1000000",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB07ec928f7ce5f2996eBa928c1B64a14eFb0A940",
+    "lpNftId": "1331919",
+    "lockerAddress": "0x6BaDa7c226Da906e7dAc7f90d1213214490bD2f6"
+  },
+  "clankerInfo": null
+}

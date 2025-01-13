@@ -1,0 +1,22 @@
+{
+  "name": "PoseBook",
+  "symbol": "PoseBook",
+  "decimals": 18,
+  "description": "PoseBook is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PoseBook",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PoseBook",
+  "addresses": {
+    "8453": "0x27b71aafd2d6a00164d2149607bc97ef49512a26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PoseBook",
+    "sanitizedSymbol": "POSEBOOK",
+    "created_at": "2024-12-12T07:37:02.519347",
+    "deployer": "0x178294e1Cfdd8F65fD8e0bB0F9a142397733C873",
+    "lpNftId": "1429772",
+    "lockerAddress": "0x54DF08d015B8ca93D19282FF457329F323A3A4b1"
+  },
+  "clankerInfo": null
+}

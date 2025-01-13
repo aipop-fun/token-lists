@@ -1,0 +1,22 @@
+{
+  "name": "Venice",
+  "symbol": "Venice",
+  "decimals": 18,
+  "description": "Venice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Venice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Venice",
+  "addresses": {
+    "8453": "0x286382267841c98ba66962203766576591e2efb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Venice",
+    "sanitizedSymbol": "VENICE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220041",
+    "lockerAddress": "0x98F13D4d431E5b72D6706B3C78685930374102cA"
+  },
+  "clankerInfo": null
+}

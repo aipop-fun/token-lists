@@ -1,0 +1,22 @@
+{
+  "name": "Authentic",
+  "symbol": "Authentic",
+  "decimals": 18,
+  "description": "Authentic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Authentic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Authentic",
+  "addresses": {
+    "8453": "0x08013e0b3b3f6de465b54ecaf1014d12f914f4a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Authentic",
+    "sanitizedSymbol": "AUTHENTIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120351",
+    "lockerAddress": "0x53871a0f4284ac0A9b6A08b0D268Dc500dd1D16A"
+  },
+  "clankerInfo": null
+}

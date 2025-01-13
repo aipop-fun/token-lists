@@ -1,0 +1,22 @@
+{
+  "name": "The Real Clanker",
+  "symbol": "The Real Clanker",
+  "decimals": 18,
+  "description": "The Real Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Real%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Real Clanker",
+  "addresses": {
+    "8453": "0x0943f902f4435005edbf9b1af344bff2f1d4a768"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Real Clanker",
+    "sanitizedSymbol": "THE_REAL_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212496",
+    "lockerAddress": "0x096Fa1153f900e55BAeb897Ae37E3a794A72cE81"
+  },
+  "clankerInfo": null
+}

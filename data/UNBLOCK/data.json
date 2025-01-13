@@ -1,0 +1,22 @@
+{
+  "name": "UNBLOCK",
+  "symbol": "UNBLOCK",
+  "decimals": 18,
+  "description": "UNBLOCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNBLOCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNBLOCK",
+  "addresses": {
+    "8453": "0x33964e05bb69b7c550673d1441d44c5dca8e4390"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNBLOCK",
+    "sanitizedSymbol": "UNBLOCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd469Ce76ca266dC2B84B2782A1879e6E0743492d",
+    "lpNftId": "1320084",
+    "lockerAddress": "0x1E933b93be1D42Aa4EbE1AD997eF126815D7658B"
+  },
+  "clankerInfo": null
+}

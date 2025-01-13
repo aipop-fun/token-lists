@@ -1,0 +1,22 @@
+{
+  "name": "espectral world",
+  "symbol": "espectral world",
+  "decimals": 18,
+  "description": "espectral world is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=espectral%20world",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "espectral world",
+  "addresses": {
+    "8453": "0x01f2be4955bd773ae64b9aa8f79a65f5a0b7f129"
+  },
+  "tokenInfo": {
+    "originalSymbol": "espectral world",
+    "sanitizedSymbol": "ESPECTRAL_WORLD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE3883B5d2013b772D0F92d41eCC3e92C3F2EB924",
+    "lpNftId": "1330292",
+    "lockerAddress": "0xa86001242814B8B02fc373C3b15f8b47e4AcdDE7"
+  },
+  "clankerInfo": null
+}

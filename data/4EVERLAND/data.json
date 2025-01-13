@@ -1,0 +1,22 @@
+{
+  "name": "4everland",
+  "symbol": "4everland",
+  "decimals": 18,
+  "description": "4everland is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=4everland",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "4everland",
+  "addresses": {
+    "8453": "0x3fa7c96846c081ef528fa15ca26d77474810abe6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "4everland",
+    "sanitizedSymbol": "4EVERLAND",
+    "created_at": "2024-12-12T04:08:08.639902",
+    "deployer": "0x028aa845de6E6988518615D37c5D00dE29EE58D1",
+    "lpNftId": "1429084",
+    "lockerAddress": "0x3F9dfD37E6aA28aA7254D333c6c2A29F4B491eA0"
+  },
+  "clankerInfo": null
+}

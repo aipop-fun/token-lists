@@ -1,0 +1,22 @@
+{
+  "name": "mars",
+  "symbol": "mars",
+  "decimals": 18,
+  "description": "mars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mars",
+  "addresses": {
+    "8453": "0x12416dba736e6740256719cb0ebf328124124659"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mars",
+    "sanitizedSymbol": "MARS_4",
+    "created_at": "2024-12-11T06:37:23.023339",
+    "deployer": "0x557c4816d619E527E78f00262c5EA784065e7570",
+    "lpNftId": "1413927",
+    "lockerAddress": "0xeD40F53D921f5cf6367c45C23F6E63599615F5BA"
+  },
+  "clankerInfo": null
+}

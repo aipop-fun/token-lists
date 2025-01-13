@@ -1,0 +1,22 @@
+{
+  "name": "33BITS",
+  "symbol": "33BITS",
+  "decimals": 18,
+  "description": "33BITS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=33BITS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "33BITS",
+  "addresses": {
+    "8453": "0x3b18f2ec50719fd459e4234d16b38af74ab5ab7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "33BITS",
+    "sanitizedSymbol": "33BITS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193981",
+    "lockerAddress": "0x4908FD439b0F81d9BA47666d3d3DE33774A57FC5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "V FOR ETH",
+  "symbol": "V FOR ETH",
+  "decimals": 18,
+  "description": "V FOR ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=V%20FOR%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "V FOR ETH",
+  "addresses": {
+    "8453": "0x11750df4a01269508e60e4ae459bc5b7a17e2ca5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "V FOR ETH",
+    "sanitizedSymbol": "V_FOR_ETH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0Fe2CF6Ead36c27260085438D7DfF72a40089AaD",
+    "lpNftId": "1374728",
+    "lockerAddress": "0x181aC7DD96e4885a19DB8DAf46C3Fd4494bA6169"
+  },
+  "clankerInfo": null
+}

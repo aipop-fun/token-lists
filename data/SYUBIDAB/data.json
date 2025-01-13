@@ -1,0 +1,22 @@
+{
+  "name": "syubidab",
+  "symbol": "syubidab",
+  "decimals": 18,
+  "description": "syubidab is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=syubidab",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "syubidab",
+  "addresses": {
+    "8453": "0x331f663f2dd0939b2e7d8e9c4ffbba8233e6bb89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "syubidab",
+    "sanitizedSymbol": "SYUBIDAB",
+    "created_at": "2024-12-12T10:04:43.478837",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1432135",
+    "lockerAddress": "0x243607EC7B60cCC6E6C537Abd9E40d7Bb4B24d28"
+  },
+  "clankerInfo": null
+}

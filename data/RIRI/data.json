@@ -1,0 +1,22 @@
+{
+  "name": "Riri",
+  "symbol": "Riri",
+  "decimals": 18,
+  "description": "Riri is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Riri",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Riri",
+  "addresses": {
+    "8453": "0x0c84608c4a2e1b7fbc18951a56b40fd147be20e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Riri",
+    "sanitizedSymbol": "RIRI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4638aeDf9c02EEf5B8288Dcfb6B5f2834fA78718",
+    "lpNftId": "1266191",
+    "lockerAddress": "0x1692d9a2F13744E68B9e78D76B8eeAA50C2b217A"
+  },
+  "clankerInfo": null
+}

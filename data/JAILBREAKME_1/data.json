@@ -1,0 +1,22 @@
+{
+  "name": "JailbreakMe",
+  "symbol": "JailbreakMe",
+  "decimals": 18,
+  "description": "JailbreakMe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JailbreakMe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JailbreakMe",
+  "addresses": {
+    "8453": "0x058bdf98e5457051c694e18ee51d02f43b3b3381"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JailbreakMe",
+    "sanitizedSymbol": "JAILBREAKME_1",
+    "created_at": "2024-12-09T13:40:33.183638",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1387527",
+    "lockerAddress": "0xc10a6F618f23C1434B87963e9994D0cdB3aad477"
+  },
+  "clankerInfo": null
+}

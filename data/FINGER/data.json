@@ -1,0 +1,22 @@
+{
+  "name": "FINGER",
+  "symbol": "FINGER",
+  "decimals": 18,
+  "description": "FINGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FINGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FINGER",
+  "addresses": {
+    "8453": "0x236ef4d96b0895fb76ec001df64b070ea82a860c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FINGER",
+    "sanitizedSymbol": "FINGER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6dB79E23597E84FCFE0cdc552E04bAc740358bD4",
+    "lpNftId": "1312179",
+    "lockerAddress": "0x9255Fd254f1d901FB20B12b81A829F9dfc252adA"
+  },
+  "clankerInfo": null
+}

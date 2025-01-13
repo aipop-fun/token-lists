@@ -1,0 +1,22 @@
+{
+  "name": "JESSE",
+  "symbol": "JESSE",
+  "decimals": 18,
+  "description": "JESSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JESSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JESSE",
+  "addresses": {
+    "8453": "0x01bfe3a539183afd5e0c34749901c7814211f9f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JESSE",
+    "sanitizedSymbol": "JESSE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1eB95Fe1B6c92DB8A154E065Dd88f96cc0915d84",
+    "lpNftId": "1312304",
+    "lockerAddress": "0x495fd83Ef0952e1672b840838107F7dFe541fd52"
+  },
+  "clankerInfo": null
+}

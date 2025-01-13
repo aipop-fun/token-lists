@@ -1,0 +1,22 @@
+{
+  "name": "Bubbles",
+  "symbol": "Bubbles",
+  "decimals": 18,
+  "description": "Bubbles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bubbles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bubbles",
+  "addresses": {
+    "8453": "0x12bba6270246a30e6ca4c379677b12407b54afba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bubbles",
+    "sanitizedSymbol": "BUBBLES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158949",
+    "lockerAddress": "0x0855b89EB846D95cBCa153EdC42C41010d4cc16e"
+  },
+  "clankerInfo": null
+}

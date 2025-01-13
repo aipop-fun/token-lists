@@ -1,0 +1,22 @@
+{
+  "name": "STOPHUNT",
+  "symbol": "STOPHUNT",
+  "decimals": 18,
+  "description": "STOPHUNT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STOPHUNT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STOPHUNT",
+  "addresses": {
+    "8453": "0x3187200ea43ae4f8ea7d3c6167be3de2d1e6726f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STOPHUNT",
+    "sanitizedSymbol": "STOPHUNT_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x31fE06733625656d6eA04478c2aC3fc9cdA6ed4e",
+    "lpNftId": "1252668",
+    "lockerAddress": "0x9a9F4a76ddB8005b4675Db517bB44fe1312Ddd2c"
+  },
+  "clankerInfo": null
+}

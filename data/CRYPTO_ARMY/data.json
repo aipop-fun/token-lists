@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTO ARMY",
+  "symbol": "CRYPTO ARMY",
+  "decimals": 18,
+  "description": "CRYPTO ARMY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTO%20ARMY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTO ARMY",
+  "addresses": {
+    "8453": "0x1a8eaf6d90cae1bd3f1b3df2cc65c43b9944e915"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTO ARMY",
+    "sanitizedSymbol": "CRYPTO_ARMY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x59da2fe88b81EA425c91576bD23076212b86D4F2",
+    "lpNftId": "1250663",
+    "lockerAddress": "0x03aa11E2be37da5f901261E6A8a4731997DdDbED"
+  },
+  "clankerInfo": null
+}

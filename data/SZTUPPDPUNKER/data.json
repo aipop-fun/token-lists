@@ -1,0 +1,22 @@
+{
+  "name": "Sztuppdpunker",
+  "symbol": "Sztuppdpunker",
+  "decimals": 18,
+  "description": "Sztuppdpunker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sztuppdpunker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sztuppdpunker",
+  "addresses": {
+    "8453": "0x3439d12c1e133f694b22667c08c1935f2476b517"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sztuppdpunker",
+    "sanitizedSymbol": "SZTUPPDPUNKER",
+    "created_at": "2024-12-09T17:45:43.399771",
+    "deployer": "0x677815c69018cbff0201374Dfd1a61d410049b7f",
+    "lpNftId": "1389921",
+    "lockerAddress": "0xf60874FB00a66A39ce13e342015A04B93095317e"
+  },
+  "clankerInfo": null
+}

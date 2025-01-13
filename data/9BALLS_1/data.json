@@ -1,0 +1,22 @@
+{
+  "name": "9BALLS",
+  "symbol": "9BALLS",
+  "decimals": 18,
+  "description": "9BALLS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=9BALLS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "9BALLS",
+  "addresses": {
+    "8453": "0x0d9e55f7027267b550560ef9ba884c4e35ddbb30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "9BALLS",
+    "sanitizedSymbol": "9BALLS_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x569a6Ef95dCeBa4c30A3489869Fb345041A2A60D",
+    "lpNftId": "1321640",
+    "lockerAddress": "0x4A4cdB2B9DbD015E827cfb075e8d6c93858a357A"
+  },
+  "clankerInfo": null
+}

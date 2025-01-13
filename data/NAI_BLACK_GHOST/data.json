@@ -1,0 +1,22 @@
+{
+  "name": "Nai Black Ghost",
+  "symbol": "Nai Black Ghost",
+  "decimals": 18,
+  "description": "Nai Black Ghost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nai%20Black%20Ghost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nai Black Ghost",
+  "addresses": {
+    "8453": "0x080826971f270863eb18b5a321570eefac8f956d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nai Black Ghost",
+    "sanitizedSymbol": "NAI_BLACK_GHOST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1284820",
+    "lockerAddress": "0xD25f2565BE479f2865EDceDB6a1360bAc741545E"
+  },
+  "clankerInfo": null
+}

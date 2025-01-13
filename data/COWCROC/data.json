@@ -1,0 +1,22 @@
+{
+  "name": "CowCroc",
+  "symbol": "CowCroc",
+  "decimals": 18,
+  "description": "CowCroc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CowCroc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CowCroc",
+  "addresses": {
+    "8453": "0x3a30e9ef595236dbf444e6f4e2a9c5d911f6e965"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CowCroc",
+    "sanitizedSymbol": "COWCROC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84037f0D36C6BD21fFD9b6c11f671ba100bc9bCf",
+    "lpNftId": "1304748",
+    "lockerAddress": "0x70ACdd305234d93Eb4B0Ab534457f739ACa8713B"
+  },
+  "clankerInfo": null
+}

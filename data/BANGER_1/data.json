@@ -1,0 +1,22 @@
+{
+  "name": "Banger",
+  "symbol": "Banger",
+  "decimals": 18,
+  "description": "Banger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banger",
+  "addresses": {
+    "8453": "0x2fa6873a5a6a842465dd415627d2bd84d4448496"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banger",
+    "sanitizedSymbol": "BANGER_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x828C3E780844673A9c142168120709Ab67df2E08",
+    "lpNftId": "1312071",
+    "lockerAddress": "0x3B889108c6f912724FA713ae5Da4cD57248523C6"
+  },
+  "clankerInfo": null
+}

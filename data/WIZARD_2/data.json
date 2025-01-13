@@ -1,0 +1,22 @@
+{
+  "name": "Wizard",
+  "symbol": "Wizard",
+  "decimals": 18,
+  "description": "Wizard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wizard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wizard",
+  "addresses": {
+    "8453": "0x001304ca8b34305b3c0cb850135b0820e7365290"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wizard",
+    "sanitizedSymbol": "WIZARD_2",
+    "created_at": "2024-12-12T07:42:31.892134",
+    "deployer": "0xC3468129496b0169C046Ae9Ffc6dDC6f2D699b7d",
+    "lpNftId": "1429788",
+    "lockerAddress": "0xc43fbaFd21Cf24942F1345D2ed89b884a9c2734b"
+  },
+  "clankerInfo": null
+}

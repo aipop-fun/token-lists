@@ -1,0 +1,22 @@
+{
+  "name": "BrunchCoin",
+  "symbol": "BrunchCoin",
+  "decimals": 18,
+  "description": "BrunchCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BrunchCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BrunchCoin",
+  "addresses": {
+    "8453": "0x0ebb083ccc66e38d4983177c82568c90641b4800"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BrunchCoin",
+    "sanitizedSymbol": "BRUNCHCOIN",
+    "created_at": "2024-12-10T05:17:00.194459",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396826",
+    "lockerAddress": "0x30fE6ee41Ccba36f15834055942c2f2b1bd05726"
+  },
+  "clankerInfo": null
+}

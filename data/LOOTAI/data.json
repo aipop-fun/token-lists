@@ -1,0 +1,22 @@
+{
+  "name": "LOOTAI",
+  "symbol": "LOOTAI",
+  "decimals": 18,
+  "description": "LOOTAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOOTAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOOTAI",
+  "addresses": {
+    "8453": "0x09ccecf7e2aa7dfdfaf4d6691727cca084082b2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOOTAI",
+    "sanitizedSymbol": "LOOTAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1368878",
+    "lockerAddress": "0xB490401AA5e7d409058F58cb0209885b01C43d07"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Airdrop Hunter",
+  "symbol": "Airdrop Hunter",
+  "decimals": 18,
+  "description": "Airdrop Hunter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Airdrop%20Hunter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Airdrop Hunter",
+  "addresses": {
+    "8453": "0x0187addf6b2aa3816fc8e0f62a1843580512b222"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Airdrop Hunter",
+    "sanitizedSymbol": "AIRDROP_HUNTER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6F0EB4dDcf5d6114D5a975EB73536F0d388711C2",
+    "lpNftId": "1312564",
+    "lockerAddress": "0xcC698C3c83683611a8909f1086aC398cA27BD418"
+  },
+  "clankerInfo": null
+}

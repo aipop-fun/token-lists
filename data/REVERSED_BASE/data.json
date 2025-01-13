@@ -1,0 +1,22 @@
+{
+  "name": "Reversed BASE",
+  "symbol": "Reversed BASE",
+  "decimals": 18,
+  "description": "Reversed BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reversed%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reversed BASE",
+  "addresses": {
+    "8453": "0x3a9e0c1cea3cce95c9b2e8803a602e5960d2db88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reversed BASE",
+    "sanitizedSymbol": "REVERSED_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223370",
+    "lockerAddress": "0x1355Cfe08E70f41cEaEF24980afe005DDCa5A3a3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bestcoin",
+  "symbol": "bestcoin",
+  "decimals": 18,
+  "description": "bestcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bestcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bestcoin",
+  "addresses": {
+    "8453": "0x0409daf4a093406ddc9a9276cf2fa1471550a2c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bestcoin",
+    "sanitizedSymbol": "BESTCOIN",
+    "created_at": "2024-12-10T22:54:16.976966",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408166",
+    "lockerAddress": "0xb623EBA6f212C6D0BA3bDB7D0F2e603D61506716"
+  },
+  "clankerInfo": null
+}

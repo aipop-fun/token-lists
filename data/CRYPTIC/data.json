@@ -1,0 +1,22 @@
+{
+  "name": "Cryptic",
+  "symbol": "Cryptic",
+  "decimals": 18,
+  "description": "Cryptic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cryptic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cryptic",
+  "addresses": {
+    "8453": "0x30ace9a0563413862637bd903cf2238f24f7b873"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cryptic",
+    "sanitizedSymbol": "CRYPTIC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb576f95D12f2aBA29aBD06B02Ce79153b9Ff5C50",
+    "lpNftId": "1331851",
+    "lockerAddress": "0x8988EE729603804Faa87586D5BBdd10A30e5126F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "darkweb",
+  "symbol": "darkweb",
+  "decimals": 18,
+  "description": "darkweb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=darkweb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "darkweb",
+  "addresses": {
+    "8453": "0x27cce0a33de7e2afc05211a3be1fcf050d5603c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "darkweb",
+    "sanitizedSymbol": "DARKWEB",
+    "created_at": "2024-12-09T01:14:48.485268",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1377370",
+    "lockerAddress": "0x67B49B2C31D85d50efE70EF6D6D51A9feFDA9B4f"
+  },
+  "clankerInfo": null
+}

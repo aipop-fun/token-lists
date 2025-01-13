@@ -1,0 +1,22 @@
+{
+  "name": "Black Nailong",
+  "symbol": "Black Nailong",
+  "decimals": 18,
+  "description": "Black Nailong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Nailong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Nailong",
+  "addresses": {
+    "8453": "0x34fe254449038e9db213c3d5236d89ca526697e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Nailong",
+    "sanitizedSymbol": "BLACK_NAILONG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213628",
+    "lockerAddress": "0x488b33f1dA0b6BbC143E25871e92405a568bD826"
+  },
+  "clankerInfo": null
+}

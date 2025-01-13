@@ -1,0 +1,22 @@
+{
+  "name": "Salsal",
+  "symbol": "Salsal",
+  "decimals": 18,
+  "description": "Salsal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Salsal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Salsal",
+  "addresses": {
+    "8453": "0x3e335dd4ca28a73c30fef4b036d81aea30de472f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Salsal",
+    "sanitizedSymbol": "SALSAL",
+    "created_at": "2024-12-11T04:05:06.856724",
+    "deployer": "0xDab29C57035b7CFEe6247b42D48C200d65C91542",
+    "lpNftId": "1412103",
+    "lockerAddress": "0xEE8B637E547A9746d15cC02F990416cDD3523086"
+  },
+  "clankerInfo": null
+}

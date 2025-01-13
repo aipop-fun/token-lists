@@ -1,0 +1,22 @@
+{
+  "name": "sportcar",
+  "symbol": "sportcar",
+  "decimals": 18,
+  "description": "sportcar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sportcar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sportcar",
+  "addresses": {
+    "8453": "0x224479112ca2c0c74dcfa9dd4e23df159fbfbcf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sportcar",
+    "sanitizedSymbol": "SPORTCAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x033441cD8061544E1a013723C57A4AfD2E7BAA14",
+    "lpNftId": "1307459",
+    "lockerAddress": "0xb3304AF3ab38122539A0A0E7be7d5329E4A5CcEe"
+  },
+  "clankerInfo": null
+}

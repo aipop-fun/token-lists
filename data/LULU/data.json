@@ -1,0 +1,22 @@
+{
+  "name": "LULU",
+  "symbol": "LULU",
+  "decimals": 18,
+  "description": "LULU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LULU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LULU",
+  "addresses": {
+    "8453": "0x2d09c2336b4ba2e026175fc9d1c0315894971a43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LULU",
+    "sanitizedSymbol": "LULU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0e2AeEAa52752E111FFA3609409Bc6bB55A87cE7",
+    "lpNftId": "1286576",
+    "lockerAddress": "0x46Fb4E3faAA83c3f5fcc6E451A11c42b62342050"
+  },
+  "clankerInfo": null
+}

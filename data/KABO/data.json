@@ -1,0 +1,22 @@
+{
+  "name": "Kabo",
+  "symbol": "Kabo",
+  "decimals": 18,
+  "description": "Kabo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kabo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kabo",
+  "addresses": {
+    "8453": "0x1d4e257f25831b3869572ca1783b437a80b562db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kabo",
+    "sanitizedSymbol": "KABO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159255",
+    "lockerAddress": "0xc7D8a1344897F36AC385e1Fad33f5749b595B1C1"
+  },
+  "clankerInfo": null
+}

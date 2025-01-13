@@ -1,0 +1,22 @@
+{
+  "name": "JONTOL",
+  "symbol": "JONTOL",
+  "decimals": 18,
+  "description": "JONTOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JONTOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JONTOL",
+  "addresses": {
+    "8453": "0x40c95a6f48bc893b308a46c342dfefc2a4293ef9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JONTOL",
+    "sanitizedSymbol": "JONTOL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x56627c184ad0F1083816cdc8A0d7530D990068C1",
+    "lpNftId": "1252847",
+    "lockerAddress": "0x52e249f0523bF8922b3daDcDF561165b7a39aB63"
+  },
+  "clankerInfo": null
+}

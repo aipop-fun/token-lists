@@ -1,0 +1,22 @@
+{
+  "name": "lollipop",
+  "symbol": "lollipop",
+  "decimals": 18,
+  "description": "lollipop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lollipop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lollipop",
+  "addresses": {
+    "8453": "0x1939a49fbcafbde7459278750c8afb5c0d65c0b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lollipop",
+    "sanitizedSymbol": "LOLLIPOP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5ac80F7222e19254417BFB15FfCDCD6b5BE6A97C",
+    "lpNftId": "1330057",
+    "lockerAddress": "0xA2174dE0551f8d04B7a685a59DaBCc34863bBAC3"
+  },
+  "clankerInfo": null
+}

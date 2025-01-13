@@ -1,0 +1,22 @@
+{
+  "name": "ShiroNeko",
+  "symbol": "ShiroNeko",
+  "decimals": 18,
+  "description": "ShiroNeko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShiroNeko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShiroNeko",
+  "addresses": {
+    "8453": "0x23af8fc852cb1996d5563ba1d3793955f4234276"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShiroNeko",
+    "sanitizedSymbol": "SHIRONEKO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1549DA3d2f9436e087dB7A312A6b7d082E1E52c8",
+    "lpNftId": "1290977",
+    "lockerAddress": "0xbABd1eFfE4c39D0FA1d9FFB532D5cEBb9b7FB76c"
+  },
+  "clankerInfo": null
+}

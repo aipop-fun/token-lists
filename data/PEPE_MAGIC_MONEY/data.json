@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Magic Money",
+  "symbol": "Pepe Magic Money",
+  "decimals": 18,
+  "description": "Pepe Magic Money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Magic%20Money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Magic Money",
+  "addresses": {
+    "8453": "0x1303e9d25b277ad5e35d47e70f13e89efe3f1abe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Magic Money",
+    "sanitizedSymbol": "PEPE_MAGIC_MONEY",
+    "created_at": "2024-12-10T13:50:29.276187",
+    "deployer": "0x809b53a1dc63Af991f648776aBAa6EEe7724ec2F",
+    "lpNftId": "1401584",
+    "lockerAddress": "0x3Af40610f07C66E2b9358cA45fF54E08017Ab1a0"
+  },
+  "clankerInfo": null
+}

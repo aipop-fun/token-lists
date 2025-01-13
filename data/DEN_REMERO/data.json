@@ -1,0 +1,22 @@
+{
+  "name": "Den Remero",
+  "symbol": "Den Remero",
+  "decimals": 18,
+  "description": "Den Remero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Den%20Remero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Den Remero",
+  "addresses": {
+    "8453": "0x1bcf06c9952a0aa2fe2d69d6855760713884ed33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Den Remero",
+    "sanitizedSymbol": "DEN_REMERO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1312016",
+    "lockerAddress": "0x9f58FAC127Edd7823E5F7a2567b0b0e06b94D968"
+  },
+  "clankerInfo": null
+}

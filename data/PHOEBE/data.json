@@ -1,0 +1,22 @@
+{
+  "name": "Phoebe",
+  "symbol": "Phoebe",
+  "decimals": 18,
+  "description": "Phoebe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phoebe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phoebe",
+  "addresses": {
+    "8453": "0x20979859dcf8310af74c75470faeead97c756f5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phoebe",
+    "sanitizedSymbol": "PHOEBE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6d1ee3d996198DD2092C66E5bd3ae3Bb5d3b466A",
+    "lpNftId": "1330281",
+    "lockerAddress": "0x4B6bb419848d2BE5FB672178435D267bD7fD14B5"
+  },
+  "clankerInfo": null
+}

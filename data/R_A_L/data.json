@@ -1,0 +1,22 @@
+{
+  "name": "R A L",
+  "symbol": "R A L",
+  "decimals": 18,
+  "description": "R A L is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=R%20A%20L",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "R A L",
+  "addresses": {
+    "8453": "0x3629a619a9e76846465ce8804084ea348a1f1260"
+  },
+  "tokenInfo": {
+    "originalSymbol": "R A L",
+    "sanitizedSymbol": "R_A_L",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBF1cd893f7fC1154c54122ABc4374a16141d3b02",
+    "lpNftId": "1332842",
+    "lockerAddress": "0x621F31c4D81B60D6Fe862A7812C450957c44A5bD"
+  },
+  "clankerInfo": null
+}

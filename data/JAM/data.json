@@ -1,0 +1,22 @@
+{
+  "name": "Jam",
+  "symbol": "Jam",
+  "decimals": 18,
+  "description": "Jam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jam",
+  "addresses": {
+    "8453": "0x305fa41af602946a3bf1f33246eb590cdf32f595"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jam",
+    "sanitizedSymbol": "JAM",
+    "created_at": "2024-12-10T16:45:59.872839",
+    "deployer": "0xc36131B4A0945A0F30b546b0A2247e78bd9453eC",
+    "lpNftId": "1404175",
+    "lockerAddress": "0xbD2e90D99EEE306cF9f790a8832B50C964c037a8"
+  },
+  "clankerInfo": null
+}

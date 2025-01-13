@@ -1,0 +1,22 @@
+{
+  "name": "Donald Duck",
+  "symbol": "Donald Duck",
+  "decimals": 18,
+  "description": "Donald Duck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Donald%20Duck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Donald Duck",
+  "addresses": {
+    "8453": "0x32b6bf798ec10c181da8a3065e26d15b30fbaeba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Donald Duck",
+    "sanitizedSymbol": "DONALD_DUCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdB4508515a0bf62864c2E3fF0ceD87354C5C4522",
+    "lpNftId": "1311566",
+    "lockerAddress": "0xdd5A3f5DeD37C6C5C15429C5d3eF0cfb1178c4a2"
+  },
+  "clankerInfo": null
+}

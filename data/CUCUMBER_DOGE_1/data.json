@@ -1,0 +1,22 @@
+{
+  "name": "Cucumber Doge",
+  "symbol": "Cucumber Doge",
+  "decimals": 18,
+  "description": "Cucumber Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cucumber%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cucumber Doge",
+  "addresses": {
+    "8453": "0x10c3ca3f728b59f5958fd8c16049c6ba3b2942b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cucumber Doge",
+    "sanitizedSymbol": "CUCUMBER_DOGE_1",
+    "created_at": "2024-12-10T13:05:35.526074",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1401387",
+    "lockerAddress": "0x3D91e15F9e0107B6aa368b800773F7D34b7706e4"
+  },
+  "clankerInfo": null
+}

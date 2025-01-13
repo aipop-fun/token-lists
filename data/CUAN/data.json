@@ -1,0 +1,22 @@
+{
+  "name": "CUAN",
+  "symbol": "CUAN",
+  "decimals": 18,
+  "description": "CUAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CUAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CUAN",
+  "addresses": {
+    "8453": "0x3850308de8663e50739e9a91cef662b14e720768"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CUAN",
+    "sanitizedSymbol": "CUAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4BF1BFe5Cf59d67879464cDF28d1De326F38B1E2",
+    "lpNftId": "1313395",
+    "lockerAddress": "0x95b6D90c6D423f603c305065b25866518b741fd5"
+  },
+  "clankerInfo": null
+}

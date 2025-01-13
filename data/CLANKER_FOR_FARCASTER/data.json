@@ -1,0 +1,22 @@
+{
+  "name": "Clanker For Farcaster",
+  "symbol": "Clanker For Farcaster",
+  "decimals": 18,
+  "description": "Clanker For Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20For%20Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker For Farcaster",
+  "addresses": {
+    "8453": "0x283ac1a508d415420aab072bfa7afb8eebd259c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker For Farcaster",
+    "sanitizedSymbol": "CLANKER_FOR_FARCASTER",
+    "created_at": "2024-12-10T15:05:33.322539",
+    "deployer": "0xF56511E01E713ECc4F3E8F482b0D3E606d123643",
+    "lpNftId": "1402414",
+    "lockerAddress": "0x7e490B435B6aa39F51e4114383347A89464395bc"
+  },
+  "clankerInfo": null
+}

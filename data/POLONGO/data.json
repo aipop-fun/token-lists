@@ -1,0 +1,22 @@
+{
+  "name": "Polongo",
+  "symbol": "Polongo",
+  "decimals": 18,
+  "description": "Polongo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Polongo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Polongo",
+  "addresses": {
+    "8453": "0x244622db2093a1916d738c876ad016f3f05b4612"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Polongo",
+    "sanitizedSymbol": "POLONGO",
+    "created_at": "2024-12-11T03:01:00.215723",
+    "deployer": "0x1F1Ce2Fe1dB18A57798e4De5242a9f20EbA04039",
+    "lpNftId": "1411419",
+    "lockerAddress": "0xc10df93Bdb6364BAe6016f1C75441FFCbea9838c"
+  },
+  "clankerInfo": null
+}

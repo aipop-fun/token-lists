@@ -1,0 +1,22 @@
+{
+  "name": "axolotls coins",
+  "symbol": "axolotls coins",
+  "decimals": 18,
+  "description": "axolotls coins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=axolotls%20coins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "axolotls coins",
+  "addresses": {
+    "8453": "0x0a0c0c553b7dcd40ecf604e46f8f0ddd0a2da1cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "axolotls coins",
+    "sanitizedSymbol": "AXOLOTLS_COINS",
+    "created_at": "2024-12-11T05:53:04.805865",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1413670",
+    "lockerAddress": "0xfa4B8F98ec561f12eEA4b75565618fEb648c50e6"
+  },
+  "clankerInfo": null
+}

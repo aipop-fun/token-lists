@@ -1,0 +1,22 @@
+{
+  "name": "BUILDOOOR",
+  "symbol": "BUILDOOOR",
+  "decimals": 18,
+  "description": "BUILDOOOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUILDOOOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUILDOOOR",
+  "addresses": {
+    "8453": "0x2f745a0c63363fa0c457506fd29cc3b04093c460"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUILDOOOR",
+    "sanitizedSymbol": "BUILDOOOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x569a6Ef95dCeBa4c30A3489869Fb345041A2A60D",
+    "lpNftId": "1321212",
+    "lockerAddress": "0xB54296a8d2Da755834B5D54caeC178967F50A089"
+  },
+  "clankerInfo": null
+}

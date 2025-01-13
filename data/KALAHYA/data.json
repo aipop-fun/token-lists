@@ -1,0 +1,22 @@
+{
+  "name": "kalahya",
+  "symbol": "kalahya",
+  "decimals": 18,
+  "description": "kalahya is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kalahya",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kalahya",
+  "addresses": {
+    "8453": "0x25b71eeb650d17f173368597b18e0e792df8fba4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kalahya",
+    "sanitizedSymbol": "KALAHYA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x59764A95a1a5C29f3b7bA3754E52f744711d3617",
+    "lpNftId": "1252631",
+    "lockerAddress": "0xD95C03d02C4C90c2b914E0c0fC303F708411F943"
+  },
+  "clankerInfo": null
+}

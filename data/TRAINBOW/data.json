@@ -1,0 +1,22 @@
+{
+  "name": "Trainbow",
+  "symbol": "Trainbow",
+  "decimals": 18,
+  "description": "Trainbow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trainbow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trainbow",
+  "addresses": {
+    "8453": "0x137fd70bf2a3e250949efcdf7d0185d67d2d7279"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trainbow",
+    "sanitizedSymbol": "TRAINBOW",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1314807",
+    "lockerAddress": "0xefcA031D5DfD04fBDc4cB474c545eF518B7f17B8"
+  },
+  "clankerInfo": null
+}

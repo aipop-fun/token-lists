@@ -1,0 +1,22 @@
+{
+  "name": "POPANT",
+  "symbol": "POPANT",
+  "decimals": 18,
+  "description": "POPANT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POPANT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POPANT",
+  "addresses": {
+    "8453": "0x03ce710d9ba51c3619ed870f9030513bc2a01e2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POPANT",
+    "sanitizedSymbol": "POPANT",
+    "created_at": "2024-12-10T07:18:49.772244",
+    "deployer": "0x981fFACB152ca9a142ee84fb78C35A00660f4106",
+    "lpNftId": "1397807",
+    "lockerAddress": "0xFA801b4165c22834D090330f1Cd37B33e4e89608"
+  },
+  "clankerInfo": null
+}

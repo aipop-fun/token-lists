@@ -1,0 +1,22 @@
+{
+  "name": "Cold Logic",
+  "symbol": "Cold Logic",
+  "decimals": 18,
+  "description": "Cold Logic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cold%20Logic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cold Logic",
+  "addresses": {
+    "8453": "0x2dbf1ffef14cc6fdba88dc1377113435f1a0f12d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cold Logic",
+    "sanitizedSymbol": "COLD_LOGIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210943",
+    "lockerAddress": "0x1D25388b38Bfa418Ad7d2217017Db64F021F6875"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fries",
+  "symbol": "Fries",
+  "decimals": 18,
+  "description": "Fries is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fries",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fries",
+  "addresses": {
+    "8453": "0x19c38be550cf0707860bf67e5c67b2261a239d4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fries",
+    "sanitizedSymbol": "FRIES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119230",
+    "lockerAddress": "0x51Dd648Bb1db36fd29d13691840c357791d8fD80"
+  },
+  "clankerInfo": null
+}

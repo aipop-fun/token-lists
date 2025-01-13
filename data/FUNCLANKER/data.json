@@ -1,0 +1,22 @@
+{
+  "name": "FunClanker",
+  "symbol": "FunClanker",
+  "decimals": 18,
+  "description": "FunClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FunClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FunClanker",
+  "addresses": {
+    "8453": "0x0eaee93413fc29100e55b8ace7189b7cdffee11b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FunClanker",
+    "sanitizedSymbol": "FUNCLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x24F942f736c343AF7EC9f051b5F951AB5D3E05f8",
+    "lpNftId": "1320483",
+    "lockerAddress": "0x28241865FBdd3a9D3d801c45353f28F58976e04c"
+  },
+  "clankerInfo": null
+}

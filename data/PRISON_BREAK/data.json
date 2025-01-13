@@ -1,0 +1,22 @@
+{
+  "name": "Prison Break",
+  "symbol": "Prison Break",
+  "decimals": 18,
+  "description": "Prison Break is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Prison%20Break",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Prison Break",
+  "addresses": {
+    "8453": "0x28afb4e75c8dd91aae0771dd346f0d66e305fa37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Prison Break",
+    "sanitizedSymbol": "PRISON_BREAK",
+    "created_at": "2024-12-11T00:20:59.239029",
+    "deployer": "0x7eA9bE1500843292f8eb9117b56941d15d4291A8",
+    "lpNftId": "1408836",
+    "lockerAddress": "0x63FeDC0F69b02AEF57EC82B54Eff73851F18ec30"
+  },
+  "clankerInfo": null
+}

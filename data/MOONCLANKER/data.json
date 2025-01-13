@@ -1,0 +1,22 @@
+{
+  "name": "moonclanker",
+  "symbol": "moonclanker",
+  "decimals": 18,
+  "description": "moonclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moonclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moonclanker",
+  "addresses": {
+    "8453": "0x234f86477c8da75e63c87218f177e0b501864121"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moonclanker",
+    "sanitizedSymbol": "MOONCLANKER",
+    "created_at": "2024-12-10T07:15:44.543023",
+    "deployer": "0x6C902149b5e19c0bD4Ae581656F32F4BaA62f9a3",
+    "lpNftId": "1397762",
+    "lockerAddress": "0x187a547d68d63C937148713700650d8863D9ECd5"
+  },
+  "clankerInfo": null
+}

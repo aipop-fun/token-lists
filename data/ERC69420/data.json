@@ -1,0 +1,22 @@
+{
+  "name": "ERC69420",
+  "symbol": "ERC69420",
+  "decimals": 18,
+  "description": "ERC69420 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ERC69420",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ERC69420",
+  "addresses": {
+    "8453": "0x1b0fe6dafb46d7f61536b025e7f3ad5e79f08a29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ERC69420",
+    "sanitizedSymbol": "ERC69420",
+    "created_at": "2024-12-09T15:48:39.703232",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1388790",
+    "lockerAddress": "0xa762efdF8a25933a039dF058C34Cd84410f3C447"
+  },
+  "clankerInfo": null
+}

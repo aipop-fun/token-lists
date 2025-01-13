@@ -1,0 +1,22 @@
+{
+  "name": "OMEGA",
+  "symbol": "OMEGA",
+  "decimals": 18,
+  "description": "OMEGA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OMEGA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OMEGA",
+  "addresses": {
+    "8453": "0x3f63c3d9379c21c8067c93c7191be83940724505"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OMEGA",
+    "sanitizedSymbol": "OMEGA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc7bd636735e7F696fC80D91D7bE3C27BD665da61",
+    "lpNftId": "1286225",
+    "lockerAddress": "0x2CB86A5e5bE3CE1268062A694f218c73a319D74C"
+  },
+  "clankerInfo": null
+}

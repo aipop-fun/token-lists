@@ -1,0 +1,22 @@
+{
+  "name": "FLOKISH",
+  "symbol": "FLOKISH",
+  "decimals": 18,
+  "description": "FLOKISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLOKISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLOKISH",
+  "addresses": {
+    "8453": "0x3b72ef76e9d28fa244af5dfe897f87064481eb62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLOKISH",
+    "sanitizedSymbol": "FLOKISH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xaC45e4001977694e9a168e6f33C2cfd463cDcf5b",
+    "lpNftId": "1280899",
+    "lockerAddress": "0x5ca172E593579221E56D54f0181f970fD402B421"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hogger",
+  "symbol": "Hogger",
+  "decimals": 18,
+  "description": "Hogger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hogger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hogger",
+  "addresses": {
+    "8453": "0x3b26915cd7562fe8213c555c4f4b7072f761a84e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hogger",
+    "sanitizedSymbol": "HOGGER",
+    "created_at": "2024-12-11T19:42:51.287496",
+    "deployer": "0x84865Bb349998D6b813DB7Cc0F722fD0A94e6e27",
+    "lpNftId": "1424915",
+    "lockerAddress": "0xe332F2C772653c2Bb8aD8C4A3cc8A700Fbf7a580"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Brain Rot",
+  "symbol": "Brain Rot",
+  "decimals": 18,
+  "description": "Brain Rot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brain%20Rot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brain Rot",
+  "addresses": {
+    "8453": "0x29a0f6cbd35d059786b892288796a863f59fd2aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brain Rot",
+    "sanitizedSymbol": "BRAIN_ROT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13C2BF12304E74deB34669CE89c124924358B795",
+    "lpNftId": "1285141",
+    "lockerAddress": "0x9abF5553d62D43b00816C370d9818E24A7A2Eb5F"
+  },
+  "clankerInfo": null
+}

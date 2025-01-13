@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Ai",
+  "symbol": "Pepe Ai",
+  "decimals": 18,
+  "description": "Pepe Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Ai",
+  "addresses": {
+    "8453": "0x3edba105447c9b641d7a0f0e3b35e6c7e7869c98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Ai",
+    "sanitizedSymbol": "PEPE_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e66056f3247508B522e09e8C5A60b93c1554913",
+    "lpNftId": "1320614",
+    "lockerAddress": "0x71D70bC2E6C5b45cfcB915cc7B7F73dBb3150774"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Based Sonic",
+  "symbol": "Based Sonic",
+  "decimals": 18,
+  "description": "Based Sonic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Sonic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Sonic",
+  "addresses": {
+    "8453": "0x009be0167554564b4499b104eada3c663a081633"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Sonic",
+    "sanitizedSymbol": "BASED_SONIC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x180D4A7c54bAdB851AaC45Cdd612A13e666a9Ff6",
+    "lpNftId": "1306333",
+    "lockerAddress": "0x9fa9b93211639F09E4Eb6Ba726eF3b333213Ac69"
+  },
+  "clankerInfo": null
+}

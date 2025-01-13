@@ -1,0 +1,22 @@
+{
+  "name": "WARPCONNECT",
+  "symbol": "WARPCONNECT",
+  "decimals": 18,
+  "description": "WARPCONNECT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARPCONNECT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARPCONNECT",
+  "addresses": {
+    "8453": "0x0dae27a68d0a2db53562bbe9b5d755a82a49bb00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARPCONNECT",
+    "sanitizedSymbol": "WARPCONNECT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa1098B9ae468D5D03564a06d9Ab19092eF9a333C",
+    "lpNftId": "1316913",
+    "lockerAddress": "0x668CeB9a8a1c517BfF07f0669A3dBc084E4dCd66"
+  },
+  "clankerInfo": null
+}

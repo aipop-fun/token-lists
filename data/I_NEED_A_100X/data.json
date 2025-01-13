@@ -1,0 +1,22 @@
+{
+  "name": "I need a 100x",
+  "symbol": "I need a 100x",
+  "decimals": 18,
+  "description": "I need a 100x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20need%20a%20100x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I need a 100x",
+  "addresses": {
+    "8453": "0x3e294362899f10f8e62553789d014178efbbf72e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I need a 100x",
+    "sanitizedSymbol": "I_NEED_A_100X",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc9DcAcb07F81464257A22f2508270B9a8DE6A4c5",
+    "lpNftId": "1277854",
+    "lockerAddress": "0xb04f5dc09Feb0F5615cadaEc6589484CBd6B34B7"
+  },
+  "clankerInfo": null
+}

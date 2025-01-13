@@ -1,0 +1,22 @@
+{
+  "name": "DOMINIC",
+  "symbol": "DOMINIC",
+  "decimals": 18,
+  "description": "DOMINIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOMINIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOMINIC",
+  "addresses": {
+    "8453": "0x072eb458945b451c6e523a37e332664ef313950b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOMINIC",
+    "sanitizedSymbol": "DOMINIC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41AB1D15fD3c4888b1c5d7E480df5233C82Aab48",
+    "lpNftId": "1311913",
+    "lockerAddress": "0x71af3eC4C8155e4c7f78d8D9bd270036B55e1bc3"
+  },
+  "clankerInfo": null
+}

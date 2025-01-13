@@ -1,0 +1,22 @@
+{
+  "name": "SantAI",
+  "symbol": "SantAI",
+  "decimals": 18,
+  "description": "SantAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantAI",
+  "addresses": {
+    "8453": "0x1b5845bedafac6813c7c36b8942888471829115d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantAI",
+    "sanitizedSymbol": "SANTAI_1",
+    "created_at": "2024-12-10T19:18:31.524222",
+    "deployer": "0xc4d87CCeA06adaB9874B8fb780EE55A0060a4aDb",
+    "lpNftId": "1406053",
+    "lockerAddress": "0x9D77689A64176429284D5bfEA82e4CE8E289e413"
+  },
+  "clankerInfo": null
+}

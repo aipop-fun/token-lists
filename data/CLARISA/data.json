@@ -1,0 +1,22 @@
+{
+  "name": "Clarisa",
+  "symbol": "Clarisa",
+  "decimals": 18,
+  "description": "Clarisa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clarisa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clarisa",
+  "addresses": {
+    "8453": "0x12a4061a5695ea8cacdce87a62dfd71dad69f8f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clarisa",
+    "sanitizedSymbol": "CLARISA",
+    "created_at": "2024-12-12T15:40:57.458732",
+    "deployer": "0xeADa460F552A2074B723fa4E232BDc1f7852acDc",
+    "lpNftId": "1437243",
+    "lockerAddress": "0xb4a76117f48fDd396875b9BDEb2797391eDFFe9b"
+  },
+  "clankerInfo": null
+}

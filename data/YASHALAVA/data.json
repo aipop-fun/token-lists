@@ -1,0 +1,22 @@
+{
+  "name": "Yashalava",
+  "symbol": "Yashalava",
+  "decimals": 18,
+  "description": "Yashalava is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yashalava",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yashalava",
+  "addresses": {
+    "8453": "0x2e6008cbf3e03925784f8e957bb5e54ff120c0e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yashalava",
+    "sanitizedSymbol": "YASHALAVA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xEb6887509D0fd0C8189c6E9CBd5879D726D3c103",
+    "lpNftId": "1250693",
+    "lockerAddress": "0x26DFa29215837b1691ECa47a2393Fe5a849820B4"
+  },
+  "clankerInfo": null
+}

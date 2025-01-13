@@ -1,0 +1,22 @@
+{
+  "name": "Unicorn",
+  "symbol": "Unicorn",
+  "decimals": 18,
+  "description": "Unicorn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unicorn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unicorn",
+  "addresses": {
+    "8453": "0x085ac4e9f8f0214ae2b1f384a1ebb96074a2fda3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unicorn",
+    "sanitizedSymbol": "UNICORN_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA13bfd96AAA5f77007fE3eC3b6b88c024859e001",
+    "lpNftId": "1287961",
+    "lockerAddress": "0x48cc89a75e7327Ab310c4381A4584613B9010F32"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DEEZ",
+  "symbol": "DEEZ",
+  "decimals": 18,
+  "description": "DEEZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEEZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEEZ",
+  "addresses": {
+    "8453": "0x05240594148df480c628ec922c2bed8b2ae80728"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEEZ",
+    "sanitizedSymbol": "DEEZ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216870",
+    "lockerAddress": "0x11D0b8b570a8839c921395703D996b8b708C62eB"
+  },
+  "clankerInfo": null
+}

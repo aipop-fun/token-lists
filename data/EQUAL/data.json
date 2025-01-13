@@ -1,0 +1,22 @@
+{
+  "name": "Equal",
+  "symbol": "Equal",
+  "decimals": 18,
+  "description": "Equal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Equal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Equal",
+  "addresses": {
+    "8453": "0x0e5f7fd16d6d814b12779379479bba1bbca70f2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Equal",
+    "sanitizedSymbol": "EQUAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1288272",
+    "lockerAddress": "0xE081aF16BD1fAa7334bFed753882252a52dbd56D"
+  },
+  "clankerInfo": null
+}

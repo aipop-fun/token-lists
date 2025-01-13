@@ -1,0 +1,22 @@
+{
+  "name": "Drunken Santa",
+  "symbol": "Drunken Santa",
+  "decimals": 18,
+  "description": "Drunken Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drunken%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drunken Santa",
+  "addresses": {
+    "8453": "0x01be106a3d8521abc56d2b6e2c904e1c89ac3ef6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drunken Santa",
+    "sanitizedSymbol": "DRUNKEN_SANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C4b7F7a6B731ebff0207F0EF3191b08C05f93d1",
+    "lpNftId": "1301273",
+    "lockerAddress": "0xD9bc7f006DA2bf06bdC9fD56Ef4a5D3d004dB000"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DC7SEA",
+  "symbol": "DC7SEA",
+  "decimals": 18,
+  "description": "DC7SEA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DC7SEA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DC7SEA",
+  "addresses": {
+    "8453": "0x15e484e8c13b7fe10ce295b2f21f237acf52beb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DC7SEA",
+    "sanitizedSymbol": "DC7SEA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151620",
+    "lockerAddress": "0xc2ed8264b43f3d304220CB8E950F5bC02c50F36A"
+  },
+  "clankerInfo": null
+}

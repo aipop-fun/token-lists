@@ -1,0 +1,22 @@
+{
+  "name": "Hey",
+  "symbol": "Hey",
+  "decimals": 18,
+  "description": "Hey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hey",
+  "addresses": {
+    "8453": "0x0ffd1c768efb4ba943395e39854e248e5cf7568f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hey",
+    "sanitizedSymbol": "HEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xe9205D1d09c8fC8Da13079a1a5C0E430b74fb93b",
+    "lpNftId": "1132603",
+    "lockerAddress": "0xE61Bcd7474f37Fdb2ebbf960A455c04e7E7dbAa5"
+  },
+  "clankerInfo": null
+}

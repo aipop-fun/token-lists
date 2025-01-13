@@ -1,0 +1,22 @@
+{
+  "name": "HotGod",
+  "symbol": "HotGod",
+  "decimals": 18,
+  "description": "HotGod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HotGod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HotGod",
+  "addresses": {
+    "8453": "0x034edb5be5a37947713236b4248d21f14a8de518"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HotGod",
+    "sanitizedSymbol": "HOTGOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C8981A1d0e563536906ee27dAA89A5E65312A34",
+    "lpNftId": "1286389",
+    "lockerAddress": "0xE4A3986cAd621dD49A28656cc690CFB819867Fa3"
+  },
+  "clankerInfo": null
+}

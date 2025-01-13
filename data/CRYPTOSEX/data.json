@@ -1,0 +1,22 @@
+{
+  "name": "CryptoSex",
+  "symbol": "CryptoSex",
+  "decimals": 18,
+  "description": "CryptoSex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoSex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoSex",
+  "addresses": {
+    "8453": "0x05f8b9c392072f3e1b138c0e40617d6c14c45268"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoSex",
+    "sanitizedSymbol": "CRYPTOSEX",
+    "created_at": "2024-12-12T11:56:35.20505",
+    "deployer": "0x98EC9f4D4cB6Be64335db6376C4c0bE91586D53E",
+    "lpNftId": "1433790",
+    "lockerAddress": "0x7F79eBaf4D82558A3AeF2617F1e7A9580CbEdfa2"
+  },
+  "clankerInfo": null
+}

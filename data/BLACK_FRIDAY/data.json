@@ -1,0 +1,22 @@
+{
+  "name": "Black Friday",
+  "symbol": "Black Friday",
+  "decimals": 18,
+  "description": "Black Friday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Friday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Friday",
+  "addresses": {
+    "8453": "0x0e3fc37a869e492060b3cebaebf734f8b14e86df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Friday",
+    "sanitizedSymbol": "BLACK_FRIDAY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x30702b968ABDeF89927bAF8133D3a87Bf757c5c7",
+    "lpNftId": "1264738",
+    "lockerAddress": "0x86B7f199DF16a7692c252c856C35cB49aF16e4a0"
+  },
+  "clankerInfo": null
+}

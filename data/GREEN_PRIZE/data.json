@@ -1,0 +1,22 @@
+{
+  "name": "Green Prize",
+  "symbol": "Green Prize",
+  "decimals": 18,
+  "description": "Green Prize is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Green%20Prize",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Green Prize",
+  "addresses": {
+    "8453": "0x0f55b1ad3e96b0bf7ebe20618963aae3cca76163"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Green Prize",
+    "sanitizedSymbol": "GREEN_PRIZE",
+    "created_at": "2024-12-12T15:28:15.097354",
+    "deployer": "0xB95E686b44fBE91368c80Fb3c624eEA68AD8f5b6",
+    "lpNftId": "1437131",
+    "lockerAddress": "0xeaD977014463fc3ddE7aD2650F54aDCbD466389D"
+  },
+  "clankerInfo": null
+}

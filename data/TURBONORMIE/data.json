@@ -1,0 +1,22 @@
+{
+  "name": "Turbonormie",
+  "symbol": "Turbonormie",
+  "decimals": 18,
+  "description": "Turbonormie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Turbonormie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Turbonormie",
+  "addresses": {
+    "8453": "0x1255504d7570edbd6464b5a24968e9190d565e5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Turbonormie",
+    "sanitizedSymbol": "TURBONORMIE",
+    "created_at": "2024-12-10T08:22:07.188923",
+    "deployer": "0x9aeB385fe75f069F4b2af1E115A1f1F731230F62",
+    "lpNftId": "1398714",
+    "lockerAddress": "0x703A7765a072dfb3F4193ceDA565cB47B8d530Cf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Top Sipper",
+  "symbol": "Top Sipper",
+  "decimals": 18,
+  "description": "Top Sipper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Top%20Sipper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Top Sipper",
+  "addresses": {
+    "8453": "0x2ed3aa3905b188864ac206ca652406f7e2941b32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Top Sipper",
+    "sanitizedSymbol": "TOP_SIPPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210969",
+    "lockerAddress": "0x49D8D54Aba3caB05B69eEC71735Ab36f9943aF1f"
+  },
+  "clankerInfo": null
+}

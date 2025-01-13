@@ -1,0 +1,22 @@
+{
+  "name": "ARCBLOCK",
+  "symbol": "ARCBLOCK",
+  "decimals": 18,
+  "description": "ARCBLOCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ARCBLOCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ARCBLOCK",
+  "addresses": {
+    "8453": "0x297288063c158c1f8834a868d1ab34a454486ba3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ARCBLOCK",
+    "sanitizedSymbol": "ARCBLOCK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201360",
+    "lockerAddress": "0x39b6982DE85e254d45e1322086Ea00c1e36FF37B"
+  },
+  "clankerInfo": null
+}

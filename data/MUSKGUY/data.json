@@ -1,0 +1,22 @@
+{
+  "name": "MUSKGUY",
+  "symbol": "MUSKGUY",
+  "decimals": 18,
+  "description": "MUSKGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MUSKGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MUSKGUY",
+  "addresses": {
+    "8453": "0x0a3de7bdbc7dc3f038a9972ab24d0c47f8bd1b33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MUSKGUY",
+    "sanitizedSymbol": "MUSKGUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCd175E0D488B64c414cd2B13e5982A39f0bA2dc0",
+    "lpNftId": "1289779",
+    "lockerAddress": "0xECe7B768609fdD5495CAeE028BA0B781026D9928"
+  },
+  "clankerInfo": null
+}

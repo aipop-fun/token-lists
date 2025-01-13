@@ -1,0 +1,22 @@
+{
+  "name": "Al Czar",
+  "symbol": "Al Czar",
+  "decimals": 18,
+  "description": "Al Czar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Al%20Czar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Al Czar",
+  "addresses": {
+    "8453": "0x0cd1caf6265f9fe1679dde01c98f6b6e56538c91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Al Czar",
+    "sanitizedSymbol": "AL_CZAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233096",
+    "lockerAddress": "0xb86F521B39FEdc99B494D6a322af24A7B1E8DaFC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Etherscan",
+  "symbol": "Etherscan",
+  "decimals": 18,
+  "description": "Etherscan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Etherscan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Etherscan",
+  "addresses": {
+    "8453": "0x140e626a70fccf89a67e53463631bce4464858cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Etherscan",
+    "sanitizedSymbol": "ETHERSCAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfFBe87856ebcA31143A59b88Db2726E773BE7194",
+    "lpNftId": "1327823",
+    "lockerAddress": "0x656fE141060fC2E85A907688008FC9872E8a4243"
+  },
+  "clankerInfo": null
+}

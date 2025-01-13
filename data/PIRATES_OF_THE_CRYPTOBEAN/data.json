@@ -1,0 +1,22 @@
+{
+  "name": "Pirates of the Cryptobean",
+  "symbol": "Pirates of the Cryptobean",
+  "decimals": 18,
+  "description": "Pirates of the Cryptobean is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pirates%20of%20the%20Cryptobean",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pirates of the Cryptobean",
+  "addresses": {
+    "8453": "0x22f7bdaa138c1eab2ce3d331158b8cd435ff9131"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pirates of the Cryptobean",
+    "sanitizedSymbol": "PIRATES_OF_THE_CRYPTOBEAN",
+    "created_at": "2024-12-12T14:53:17.146884",
+    "deployer": "0xd66c3603aaeAe3d03BC521434AfF992a8aF6Af17",
+    "lpNftId": "1436421",
+    "lockerAddress": "0x51C401882F44128e1Bf741E39B20f65Fa6a4b072"
+  },
+  "clankerInfo": null
+}

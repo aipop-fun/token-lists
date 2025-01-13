@@ -1,0 +1,22 @@
+{
+  "name": "StrongestClankers",
+  "symbol": "StrongestClankers",
+  "decimals": 18,
+  "description": "StrongestClankers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StrongestClankers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StrongestClankers",
+  "addresses": {
+    "8453": "0x16a36a4b0f33c218553a8f24f3cefea941966a5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StrongestClankers",
+    "sanitizedSymbol": "STRONGESTCLANKERS",
+    "created_at": "2024-12-12T17:48:46.980711",
+    "deployer": "0xf99973528e2C0F1a089DC026F38690fC0829174C",
+    "lpNftId": "1440093",
+    "lockerAddress": "0xc9DA5C7AaDfAc657918ef2763FC1aEceE11Fd5e4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pear",
+  "symbol": "Pear",
+  "decimals": 18,
+  "description": "Pear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pear",
+  "addresses": {
+    "8453": "0x1d637a41eb043fb67bcc4e1af776d5693af21a05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pear",
+    "sanitizedSymbol": "PEAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdf4978810384e29c3b7aaB493D33e061d90CD7E6",
+    "lpNftId": "1304039",
+    "lockerAddress": "0x6E7584DD80fF1cCb9D804E068E4bb7680cF4580F"
+  },
+  "clankerInfo": null
+}

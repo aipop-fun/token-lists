@@ -1,0 +1,22 @@
+{
+  "name": "FENDI",
+  "symbol": "FENDI",
+  "decimals": 18,
+  "description": "FENDI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FENDI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FENDI",
+  "addresses": {
+    "8453": "0x3555164ce4cb573c9d152a8eb02f7d8b951477e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FENDI",
+    "sanitizedSymbol": "FENDI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6a2Ad8d914b57E5E71580F73F00Fdbfc122F6F3C",
+    "lpNftId": "1309005",
+    "lockerAddress": "0xECfE837073A36c383A16a95Bdc20D81750CAF227"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tinybrain",
+  "symbol": "Tinybrain",
+  "decimals": 18,
+  "description": "Tinybrain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tinybrain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tinybrain",
+  "addresses": {
+    "8453": "0x187ee0393192c1d642a7aff08f2ab3013c698333"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tinybrain",
+    "sanitizedSymbol": "TINYBRAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128655",
+    "lockerAddress": "0xbB138695ba95E1F3E607966662500f10771428Ee"
+  },
+  "clankerInfo": null
+}

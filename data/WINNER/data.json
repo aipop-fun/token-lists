@@ -1,0 +1,22 @@
+{
+  "name": "WINNER",
+  "symbol": "WINNER",
+  "decimals": 18,
+  "description": "WINNER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WINNER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WINNER",
+  "addresses": {
+    "8453": "0x145157d534f2821003757e2e4c6c376f0480bf5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WINNER",
+    "sanitizedSymbol": "WINNER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1332580",
+    "lockerAddress": "0xD7D5EBD2BE71c44B95a95e961a89C17C0b533217"
+  },
+  "clankerInfo": null
+}

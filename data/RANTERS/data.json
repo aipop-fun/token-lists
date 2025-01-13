@@ -1,0 +1,22 @@
+{
+  "name": "RANTERS",
+  "symbol": "RANTERS",
+  "decimals": 18,
+  "description": "RANTERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RANTERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RANTERS",
+  "addresses": {
+    "8453": "0x2e620855a93668ade4ff2af82880f48c42214a46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RANTERS",
+    "sanitizedSymbol": "RANTERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x30eA1D7618c84272C679F2962dD8F7980C999de0",
+    "lpNftId": "1308816",
+    "lockerAddress": "0x6f7ba7d7d7CE42a7FA3e31e3d679919A98d356C4"
+  },
+  "clankerInfo": null
+}

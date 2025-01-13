@@ -1,0 +1,22 @@
+{
+  "name": "Wagmi On Clanker",
+  "symbol": "Wagmi On Clanker",
+  "decimals": 18,
+  "description": "Wagmi On Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wagmi%20On%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wagmi On Clanker",
+  "addresses": {
+    "8453": "0x2c95fe3497a7186a3a0d42da423d01948abc4c32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wagmi On Clanker",
+    "sanitizedSymbol": "WAGMI_ON_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x42a1A62246Ca7C774186Fd357fa72fEC20B12f62",
+    "lpNftId": "1251536",
+    "lockerAddress": "0x25e01F2791818c216fb5AaB3e8c31435269fc3a9"
+  },
+  "clankerInfo": null
+}

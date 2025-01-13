@@ -1,0 +1,22 @@
+{
+  "name": "BASED MFERS",
+  "symbol": "BASED MFERS",
+  "decimals": 18,
+  "description": "BASED MFERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20MFERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED MFERS",
+  "addresses": {
+    "8453": "0x3f8f9067ac9d448a275e3a31017d1542ad8170fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED MFERS",
+    "sanitizedSymbol": "BASED_MFERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1369707",
+    "lockerAddress": "0xBF90195719b6CfB447E6A461c5E4c4a872d136c2"
+  },
+  "clankerInfo": null
+}

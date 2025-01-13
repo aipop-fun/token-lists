@@ -1,0 +1,22 @@
+{
+  "name": "PUMP-NUTELA",
+  "symbol": "PUMP-NUTELA",
+  "decimals": 18,
+  "description": "PUMP-NUTELA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMP-NUTELA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMP-NUTELA",
+  "addresses": {
+    "8453": "0x40115f3bbb60ee79eb18d9f765f2c705bee9e7e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMP-NUTELA",
+    "sanitizedSymbol": "PUMP_NUTELA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129308",
+    "lockerAddress": "0xa24B269283038F1DC28DA0A90AfFD8FFCd2737Bc"
+  },
+  "clankerInfo": null
+}

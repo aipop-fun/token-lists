@@ -1,0 +1,22 @@
+{
+  "name": "prootec protocol",
+  "symbol": "prootec protocol",
+  "decimals": 18,
+  "description": "prootec protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=prootec%20protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "prootec protocol",
+  "addresses": {
+    "8453": "0x16c95ae5bb6a7d84cde85492d6206d60c1653401"
+  },
+  "tokenInfo": {
+    "originalSymbol": "prootec protocol",
+    "sanitizedSymbol": "PROOTEC_PROTOCOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x9B6f01a888FD5B96D4D0FF67716496c01000e0CE",
+    "lpNftId": "1250686",
+    "lockerAddress": "0x939F8Ce0E276BD697299f993B48076C8AeDACcBB"
+  },
+  "clankerInfo": null
+}

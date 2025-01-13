@@ -1,0 +1,22 @@
+{
+  "name": "Autos Base",
+  "symbol": "Autos Base",
+  "decimals": 18,
+  "description": "Autos Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Autos%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Autos Base",
+  "addresses": {
+    "8453": "0x25fbbfb2b13424a611fbb3695256abe986f705fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Autos Base",
+    "sanitizedSymbol": "AUTOS_BASE",
+    "created_at": "2024-12-11T22:29:23.465723",
+    "deployer": "0x7f99DAB40012Cd34768d32f4e60b6E39a5c23624",
+    "lpNftId": "1427333",
+    "lockerAddress": "0x07451987755742abfd1daFd684A9478e045156F5"
+  },
+  "clankerInfo": null
+}

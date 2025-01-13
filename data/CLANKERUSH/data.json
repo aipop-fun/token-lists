@@ -1,0 +1,22 @@
+{
+  "name": "clankerush",
+  "symbol": "clankerush",
+  "decimals": 18,
+  "description": "clankerush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerush",
+  "addresses": {
+    "8453": "0x0c73844f5cb72f291a998dab61f61347bbda17d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerush",
+    "sanitizedSymbol": "CLANKERUSH",
+    "created_at": "2024-12-10T22:24:21.505617",
+    "deployer": "0x35282D65dF0d7419001e44b9dF85330dA553B605",
+    "lpNftId": "1407935",
+    "lockerAddress": "0xBe90536EF397aD653789C93F148316E71C70b51D"
+  },
+  "clankerInfo": null
+}

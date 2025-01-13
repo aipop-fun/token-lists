@@ -1,0 +1,22 @@
+{
+  "name": "goldcoin",
+  "symbol": "goldcoin",
+  "decimals": 18,
+  "description": "goldcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=goldcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "goldcoin",
+  "addresses": {
+    "8453": "0x123013e5630a0d1872fe12799a59ee105ff47d61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "goldcoin",
+    "sanitizedSymbol": "GOLDCOIN",
+    "created_at": "2024-12-11T13:14:41.348502",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418943",
+    "lockerAddress": "0x7E826d34A728b1f4625a64d4C54CA0e525b58972"
+  },
+  "clankerInfo": null
+}

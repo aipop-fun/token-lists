@@ -1,0 +1,22 @@
+{
+  "name": "Brownie",
+  "symbol": "Brownie",
+  "decimals": 18,
+  "description": "Brownie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brownie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brownie",
+  "addresses": {
+    "8453": "0x19f44a7d60a9abda1cc6a233083fe018c6e36b3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brownie",
+    "sanitizedSymbol": "BROWNIE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1360445",
+    "lockerAddress": "0x96490060406bb4E3C1c17FBE25a6350fD6390618"
+  },
+  "clankerInfo": null
+}

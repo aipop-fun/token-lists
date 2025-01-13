@@ -1,0 +1,22 @@
+{
+  "name": "BONKEYS",
+  "symbol": "BONKEYS",
+  "decimals": 18,
+  "description": "BONKEYS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BONKEYS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BONKEYS",
+  "addresses": {
+    "8453": "0x02c68a85302b4817c6f42d4a282958d1789dc799"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BONKEYS",
+    "sanitizedSymbol": "BONKEYS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA0DEC165d9b4441A46e7022f347C191c4e233587",
+    "lpNftId": "1318387",
+    "lockerAddress": "0x43ee3A89dCEC4150906c4012FE5dc0E3D6848A0A"
+  },
+  "clankerInfo": null
+}

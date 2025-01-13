@@ -1,0 +1,22 @@
+{
+  "name": "Parabolic",
+  "symbol": "Parabolic",
+  "decimals": 18,
+  "description": "Parabolic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Parabolic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Parabolic",
+  "addresses": {
+    "8453": "0x28eb846511e9fbfec310d853828edd6b8d2d2541"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Parabolic",
+    "sanitizedSymbol": "PARABOLIC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222453",
+    "lockerAddress": "0xe07178F9c1727677F842a0109E9171Ad79b2c010"
+  },
+  "clankerInfo": null
+}

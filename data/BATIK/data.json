@@ -1,0 +1,22 @@
+{
+  "name": "BATIK",
+  "symbol": "BATIK",
+  "decimals": 18,
+  "description": "BATIK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BATIK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BATIK",
+  "addresses": {
+    "8453": "0x0bf5caf3cbaa7b68a9819c3f20ecf1d17a9a4985"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BATIK",
+    "sanitizedSymbol": "BATIK",
+    "created_at": "2024-12-09T04:38:17.261991",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1382206",
+    "lockerAddress": "0x66B6E275feBB2682c4FE51B9f52Bb9b80BD0192f"
+  },
+  "clankerInfo": null
+}

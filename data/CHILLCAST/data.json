@@ -1,0 +1,22 @@
+{
+  "name": "chillcast",
+  "symbol": "chillcast",
+  "decimals": 18,
+  "description": "chillcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillcast",
+  "addresses": {
+    "8453": "0x325a4c70e662a58372f2ccf8cc313b011f77cc51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillcast",
+    "sanitizedSymbol": "CHILLCAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x849d14Fb8fea52a113E1E73541eFaE887cd3731d",
+    "lpNftId": "1318763",
+    "lockerAddress": "0xf18701c4C734Cd447202E23F12c209CB4970dEBa"
+  },
+  "clankerInfo": null
+}

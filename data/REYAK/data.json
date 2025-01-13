@@ -1,0 +1,22 @@
+{
+  "name": "REYAK",
+  "symbol": "REYAK",
+  "decimals": 18,
+  "description": "REYAK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REYAK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REYAK",
+  "addresses": {
+    "8453": "0x21a6f95274c712792be00963b5b57f3e1fa04e9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REYAK",
+    "sanitizedSymbol": "REYAK",
+    "created_at": "2024-12-11T02:48:19.800043",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1411173",
+    "lockerAddress": "0x611b9E235858c3288d0dB1B78193524C9E7594EA"
+  },
+  "clankerInfo": null
+}

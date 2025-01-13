@@ -1,0 +1,22 @@
+{
+  "name": "Cataa",
+  "symbol": "Cataa",
+  "decimals": 18,
+  "description": "Cataa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cataa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cataa",
+  "addresses": {
+    "8453": "0x3f536dee29797e10623a82976d74bee297652143"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cataa",
+    "sanitizedSymbol": "CATAA",
+    "created_at": "2024-12-10T13:57:27.483763",
+    "deployer": "0xC07DD6f42faA2Df78C26fe244cb8F0231E5089C4",
+    "lpNftId": "1401628",
+    "lockerAddress": "0xa0c20ECeC79bcc4C2E3fF2fB72fB24E393b931e9"
+  },
+  "clankerInfo": null
+}

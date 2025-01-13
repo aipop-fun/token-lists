@@ -1,0 +1,22 @@
+{
+  "name": "stacc",
+  "symbol": "stacc",
+  "decimals": 18,
+  "description": "stacc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stacc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stacc",
+  "addresses": {
+    "8453": "0x2b86a53f80113d7e3cb5060819ffdb6c1a1a27a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stacc",
+    "sanitizedSymbol": "STACC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xA99b349a07a5004330b4B06D98b0D24FE43D8bE1",
+    "lpNftId": "1243941",
+    "lockerAddress": "0x59206848199d570CED8b4D4E1d1D5c3d37Dc41Ab"
+  },
+  "clankerInfo": null
+}

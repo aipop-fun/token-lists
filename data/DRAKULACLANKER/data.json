@@ -1,0 +1,22 @@
+{
+  "name": "drakulaclanker",
+  "symbol": "drakulaclanker",
+  "decimals": 18,
+  "description": "drakulaclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=drakulaclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "drakulaclanker",
+  "addresses": {
+    "8453": "0x0800105d43845118b21e8964d7958f94c61389cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "drakulaclanker",
+    "sanitizedSymbol": "DRAKULACLANKER",
+    "created_at": "2024-12-11T21:46:18.671504",
+    "deployer": "0xf2d366d228770E91F4Db456D5dBB0305e123EC2b",
+    "lpNftId": "1426515",
+    "lockerAddress": "0x4f53eE431230Aad3b6eD1158F9ccD872B0B863a3"
+  },
+  "clankerInfo": null
+}

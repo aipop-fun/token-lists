@@ -1,0 +1,22 @@
+{
+  "name": "CHEDS",
+  "symbol": "CHEDS",
+  "decimals": 18,
+  "description": "CHEDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHEDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHEDS",
+  "addresses": {
+    "8453": "0x40be3310f61f138aff3cdffbde6de8b699ea3f53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHEDS",
+    "sanitizedSymbol": "CHEDS_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5DFaA00af03F80A5265AC62Cc45dE21949c75c4e",
+    "lpNftId": "1266213",
+    "lockerAddress": "0x802c6d1f1686EaEf589e14c60E11e28a1A1764C8"
+  },
+  "clankerInfo": null
+}

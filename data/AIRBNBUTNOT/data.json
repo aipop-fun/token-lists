@@ -1,0 +1,22 @@
+{
+  "name": "AirbnbutNot",
+  "symbol": "AirbnbutNot",
+  "decimals": 18,
+  "description": "AirbnbutNot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AirbnbutNot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AirbnbutNot",
+  "addresses": {
+    "8453": "0x22d5bd749d48b5dd62dcbbcca53597448c600124"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AirbnbutNot",
+    "sanitizedSymbol": "AIRBNBUTNOT",
+    "created_at": "2024-12-11T14:14:19.230858",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1420059",
+    "lockerAddress": "0x4F3cAbC140A6E88bf189Bf3c11f6fd04e71dDdc1"
+  },
+  "clankerInfo": null
+}

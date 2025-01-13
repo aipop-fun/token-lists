@@ -1,0 +1,22 @@
+{
+  "name": "ALTSEA",
+  "symbol": "ALTSEA",
+  "decimals": 18,
+  "description": "ALTSEA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALTSEA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALTSEA",
+  "addresses": {
+    "8453": "0x3cd7b54b4cd9e042d34aeeba4811f7b03b3553a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALTSEA",
+    "sanitizedSymbol": "ALTSEA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD9e10135beE11A553A4d947EfAbCb56892b1eE1C",
+    "lpNftId": "1375641",
+    "lockerAddress": "0x3958430Cd10047734A8F7C7B5F1Dc1e8bFe63136"
+  },
+  "clankerInfo": null
+}

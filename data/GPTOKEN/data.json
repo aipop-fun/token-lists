@@ -1,0 +1,22 @@
+{
+  "name": "GPToken",
+  "symbol": "GPToken",
+  "decimals": 18,
+  "description": "GPToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GPToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GPToken",
+  "addresses": {
+    "8453": "0x22dfc18af49cd4cd3a0eef990aa5a7da873fcb03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GPToken",
+    "sanitizedSymbol": "GPTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198896",
+    "lockerAddress": "0xDD1c1B2F1Ad5F8b47c2cf185Aff1ad4AdBa6204D"
+  },
+  "clankerInfo": null
+}

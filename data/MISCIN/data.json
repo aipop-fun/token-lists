@@ -1,0 +1,22 @@
+{
+  "name": "MISCIN",
+  "symbol": "MISCIN",
+  "decimals": 18,
+  "description": "MISCIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MISCIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MISCIN",
+  "addresses": {
+    "8453": "0x1cc816dad72a773e10f7bb8bd37feca82ee584c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MISCIN",
+    "sanitizedSymbol": "MISCIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x00000274D208d797f3fA90ed734578079db51a69",
+    "lpNftId": "1327648",
+    "lockerAddress": "0xcc43F525c95367d465B4E4125068c1183655a7E2"
+  },
+  "clankerInfo": null
+}

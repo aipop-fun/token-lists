@@ -1,0 +1,22 @@
+{
+  "name": "YUKINAWA",
+  "symbol": "YUKINAWA",
+  "decimals": 18,
+  "description": "YUKINAWA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUKINAWA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUKINAWA",
+  "addresses": {
+    "8453": "0x2d19e2187d3a25bea0f22671154de683c3b3b2a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUKINAWA",
+    "sanitizedSymbol": "YUKINAWA",
+    "created_at": "2024-12-11T00:41:19.199485",
+    "deployer": "0x0cf3da9568727d1d8B3a9D0586f6668031a3BF52",
+    "lpNftId": "1409016",
+    "lockerAddress": "0xAe5062fA53014be96B75bbf566267D03f92653dC"
+  },
+  "clankerInfo": null
+}

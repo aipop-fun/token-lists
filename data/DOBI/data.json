@@ -1,0 +1,22 @@
+{
+  "name": "DOBI",
+  "symbol": "DOBI",
+  "decimals": 18,
+  "description": "DOBI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOBI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOBI",
+  "addresses": {
+    "8453": "0x32bcfcebc6213dce6e5b35b3428f817214a8bc6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOBI",
+    "sanitizedSymbol": "DOBI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13C2BF12304E74deB34669CE89c124924358B795",
+    "lpNftId": "1319098",
+    "lockerAddress": "0xeE793C62a6240212E35258A223388bcdd0Bb9a43"
+  },
+  "clankerInfo": null
+}

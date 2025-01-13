@@ -1,0 +1,22 @@
+{
+  "name": "papanon",
+  "symbol": "papanon",
+  "decimals": 18,
+  "description": "papanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=papanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "papanon",
+  "addresses": {
+    "8453": "0x3e81ee29c3b53ca81195ff19ff72a8ef5d8e48e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "papanon",
+    "sanitizedSymbol": "PAPANON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8E6eE0933761aD94Db983ba394333cc161C0B1d7",
+    "lpNftId": "1251236",
+    "lockerAddress": "0x2CBB02E0cEc968924eEacB3335EA2EC3258dF7A1"
+  },
+  "clankerInfo": null
+}

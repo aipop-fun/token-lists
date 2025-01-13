@@ -1,0 +1,22 @@
+{
+  "name": "POLS",
+  "symbol": "POLS",
+  "decimals": 18,
+  "description": "POLS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POLS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POLS",
+  "addresses": {
+    "8453": "0x1692bb90c42ed3d70c54a22b99c5e649cd133171"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POLS",
+    "sanitizedSymbol": "POLS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1315176",
+    "lockerAddress": "0x03d753B6e1f91949C3Fa3af121ac258E3563A355"
+  },
+  "clankerInfo": null
+}

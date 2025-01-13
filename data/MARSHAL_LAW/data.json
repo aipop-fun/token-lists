@@ -1,0 +1,22 @@
+{
+  "name": "Marshal Law",
+  "symbol": "Marshal Law",
+  "decimals": 18,
+  "description": "Marshal Law is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marshal%20Law",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marshal Law",
+  "addresses": {
+    "8453": "0x32c80cc30e621884b19cab60077743e287b1167f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marshal Law",
+    "sanitizedSymbol": "MARSHAL_LAW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcB565Ee70934c5887F9459fb0Dcec6ADD7F43CF2",
+    "lpNftId": "1321821",
+    "lockerAddress": "0x69D473176de623781c7ed77d1b35aa446106e24E"
+  },
+  "clankerInfo": null
+}

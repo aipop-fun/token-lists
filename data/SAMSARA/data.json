@@ -1,0 +1,22 @@
+{
+  "name": "Samsara",
+  "symbol": "Samsara",
+  "decimals": 18,
+  "description": "Samsara is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Samsara",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Samsara",
+  "addresses": {
+    "8453": "0x23b7706acdc2c159273a29ffd6dc6983ee3fef68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Samsara",
+    "sanitizedSymbol": "SAMSARA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaE6DcaDD9CB79990Ce63c3b4391dc4Ffa9A8AFe8",
+    "lpNftId": "1294723",
+    "lockerAddress": "0xd00a6B035270D7fA4F82fE23533E0cf1fCbEE12e"
+  },
+  "clankerInfo": null
+}

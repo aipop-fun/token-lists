@@ -1,0 +1,22 @@
+{
+  "name": "Femmella",
+  "symbol": "Femmella",
+  "decimals": 18,
+  "description": "Femmella is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Femmella",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Femmella",
+  "addresses": {
+    "8453": "0x29d7b575e521dc9c7c2c638ff272e35ca9bf16c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Femmella",
+    "sanitizedSymbol": "FEMMELLA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173265",
+    "lockerAddress": "0x51F8F9d92F7E6cE3455BDB396bf0cA0Feb807456"
+  },
+  "clankerInfo": null
+}

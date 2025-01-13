@@ -1,0 +1,22 @@
+{
+  "name": "Genyframe",
+  "symbol": "Genyframe",
+  "decimals": 18,
+  "description": "Genyframe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Genyframe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Genyframe",
+  "addresses": {
+    "8453": "0x0d20690154ab025a5901aeacd304080caa7d28b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Genyframe",
+    "sanitizedSymbol": "GENYFRAME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7960F1B90b257BfF29D5164D16bca4C8030b7f6D",
+    "lpNftId": "1319562",
+    "lockerAddress": "0xAE7dB7983Ac4AEC8C782e7B0520DAf775aca877b"
+  },
+  "clankerInfo": null
+}

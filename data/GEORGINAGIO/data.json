@@ -1,0 +1,22 @@
+{
+  "name": "georginagio",
+  "symbol": "georginagio",
+  "decimals": 18,
+  "description": "georginagio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=georginagio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "georginagio",
+  "addresses": {
+    "8453": "0x27147a7c112b7458377157b6d3a4bff7247be091"
+  },
+  "tokenInfo": {
+    "originalSymbol": "georginagio",
+    "sanitizedSymbol": "GEORGINAGIO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1336985",
+    "lockerAddress": "0x7A4D6359eDbF0e2815Bf48f5A2FA733De77f28F4"
+  },
+  "clankerInfo": null
+}

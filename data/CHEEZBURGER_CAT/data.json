@@ -1,0 +1,22 @@
+{
+  "name": "Cheezburger Cat",
+  "symbol": "Cheezburger Cat",
+  "decimals": 18,
+  "description": "Cheezburger Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cheezburger%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cheezburger Cat",
+  "addresses": {
+    "8453": "0x01e5a1e2f2ee1af230477785e4ddde7bccc54e1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cheezburger Cat",
+    "sanitizedSymbol": "CHEEZBURGER_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152186",
+    "lockerAddress": "0xabb9b2f8A65B821f869D99B60408bc2CF90B6B0f"
+  },
+  "clankerInfo": null
+}

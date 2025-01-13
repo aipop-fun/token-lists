@@ -1,0 +1,22 @@
+{
+  "name": "Shitter",
+  "symbol": "Shitter",
+  "decimals": 18,
+  "description": "Shitter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shitter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shitter",
+  "addresses": {
+    "8453": "0x3666fd8c07d5c1d355bfce3bd44a9e06d5952fc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shitter",
+    "sanitizedSymbol": "SHITTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157719",
+    "lockerAddress": "0x89f96D938639E8B30746452da40c2b139C84DF55"
+  },
+  "clankerInfo": null
+}

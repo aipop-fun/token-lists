@@ -1,0 +1,22 @@
+{
+  "name": "clankerisreal",
+  "symbol": "clankerisreal",
+  "decimals": 18,
+  "description": "clankerisreal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerisreal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerisreal",
+  "addresses": {
+    "8453": "0x213f8a5c7b48842a01e28d5a4019259f6957ed42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerisreal",
+    "sanitizedSymbol": "CLANKERISREAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD1272A7849D076C549c3ADDB654C9702cec296ca",
+    "lpNftId": "1309566",
+    "lockerAddress": "0x110502880ceC69D7091Ee8960997Afda6EF1b5ef"
+  },
+  "clankerInfo": null
+}

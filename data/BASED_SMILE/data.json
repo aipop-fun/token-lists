@@ -1,0 +1,22 @@
+{
+  "name": "Based Smile",
+  "symbol": "Based Smile",
+  "decimals": 18,
+  "description": "Based Smile is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Smile",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Smile",
+  "addresses": {
+    "8453": "0x30f9bde5c1629b1f8654e848d147e6b49928bc47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Smile",
+    "sanitizedSymbol": "BASED_SMILE",
+    "created_at": "2024-12-11T14:55:17.893941",
+    "deployer": "0xa635a137bbddC01a7a8A09680a91DD72cb71c100",
+    "lpNftId": "1420692",
+    "lockerAddress": "0x26536A6BaDd6037F2FA86b3BC339cF13812e2a5a"
+  },
+  "clankerInfo": null
+}

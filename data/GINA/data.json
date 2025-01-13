@@ -1,0 +1,22 @@
+{
+  "name": "GINA",
+  "symbol": "GINA",
+  "decimals": 18,
+  "description": "GINA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GINA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GINA",
+  "addresses": {
+    "8453": "0x1d8fcbfcd06c2e2305d360c73d648648b43378df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GINA",
+    "sanitizedSymbol": "GINA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3f26119ff2C8b2482Ac3D21C7D4a92e38BeD4f18",
+    "lpNftId": "1342397",
+    "lockerAddress": "0xD418D8300DdF155e428079BF84731Dc6Df0a409A"
+  },
+  "clankerInfo": null
+}

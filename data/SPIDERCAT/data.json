@@ -1,0 +1,22 @@
+{
+  "name": "SpiderCAT",
+  "symbol": "SpiderCAT",
+  "decimals": 18,
+  "description": "SpiderCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpiderCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpiderCAT",
+  "addresses": {
+    "8453": "0x1214916403e4d16b50e0de1900f5a4e72ba90c23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpiderCAT",
+    "sanitizedSymbol": "SPIDERCAT",
+    "created_at": "2024-12-09T04:47:11.564079",
+    "deployer": "0x2a84F7f91B3dCfF97523d16030a2e5BdF5c40eBd",
+    "lpNftId": "1382548",
+    "lockerAddress": "0xA9014605fD875506E20e3433Cc03AAE67b73cB2E"
+  },
+  "clankerInfo": null
+}

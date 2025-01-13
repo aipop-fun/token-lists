@@ -1,0 +1,22 @@
+{
+  "name": "Lunar Ascent",
+  "symbol": "Lunar Ascent",
+  "decimals": 18,
+  "description": "Lunar Ascent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lunar%20Ascent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lunar Ascent",
+  "addresses": {
+    "8453": "0x1f4db67623790dbcc949aae559750a9c16dbb310"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lunar Ascent",
+    "sanitizedSymbol": "LUNAR_ASCENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124999",
+    "lockerAddress": "0xb85eDa9C7BA19678CD8fAE853B5B3783E61CdB25"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DemoSnipi",
+  "symbol": "DemoSnipi",
+  "decimals": 18,
+  "description": "DemoSnipi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DemoSnipi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DemoSnipi",
+  "addresses": {
+    "8453": "0x2d181a36b95bf15aa861f6c4cb6359cc611d9cb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DemoSnipi",
+    "sanitizedSymbol": "DEMOSNIPI_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x47aE270d3528623e9b31D185926046f00b9c4892",
+    "lpNftId": "1207588",
+    "lockerAddress": "0xEF4f01ee09088594Ec036bd612Aa3ae0cb713AdB"
+  },
+  "clankerInfo": null
+}

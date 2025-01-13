@@ -1,0 +1,22 @@
+{
+  "name": "BABYETH",
+  "symbol": "BABYETH",
+  "decimals": 18,
+  "description": "BABYETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABYETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABYETH",
+  "addresses": {
+    "8453": "0x02259aa43b3129227ad8324e6c63724d08d7d0be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABYETH",
+    "sanitizedSymbol": "BABYETH",
+    "created_at": "2024-12-11T15:07:27.486841",
+    "deployer": "0x73D1aA788C87CB2EF0843a8d638D7399b1608A65",
+    "lpNftId": "1420812",
+    "lockerAddress": "0xBd757D757438a5787809f5cbe878F7036534d998"
+  },
+  "clankerInfo": null
+}

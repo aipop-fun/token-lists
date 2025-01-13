@@ -1,0 +1,22 @@
+{
+  "name": "Liana",
+  "symbol": "Liana",
+  "decimals": 18,
+  "description": "Liana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liana",
+  "addresses": {
+    "8453": "0x2d1b39a2b440f639dd74354c7fa7d5d2a4dc0dcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liana",
+    "sanitizedSymbol": "LIANA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7aAf831AD5482F5eFaDC5a65Ca94c1Dd1A0b6d71",
+    "lpNftId": "1285173",
+    "lockerAddress": "0x4D6F82b38Fed4738efD1d187930c0912F5F9B560"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BART",
+  "symbol": "BART",
+  "decimals": 18,
+  "description": "BART is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BART",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BART",
+  "addresses": {
+    "8453": "0x2916dad5bb3530141a22283776d5d2dde4e1c8ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BART",
+    "sanitizedSymbol": "BART",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9837203C20d15989a3C4852e5d07E1a7A98CFE14",
+    "lpNftId": "1325224",
+    "lockerAddress": "0x2eca54BcCA13cFc36Af41770a1319AC0E8967269"
+  },
+  "clankerInfo": null
+}

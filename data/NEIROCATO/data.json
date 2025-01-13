@@ -1,0 +1,22 @@
+{
+  "name": "NEIROCATO",
+  "symbol": "NEIROCATO",
+  "decimals": 18,
+  "description": "NEIROCATO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEIROCATO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEIROCATO",
+  "addresses": {
+    "8453": "0x409002276381ca5b6c01efac72b6f11a40f6a8e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEIROCATO",
+    "sanitizedSymbol": "NEIROCATO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x805dbe6Ff2Ed576Af4eaC1085d0Aa74C1e59be53",
+    "lpNftId": "1294685",
+    "lockerAddress": "0x99FF254022d0025d912f2a42AE2ded52f86D3Edb"
+  },
+  "clankerInfo": null
+}

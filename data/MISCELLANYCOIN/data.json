@@ -1,0 +1,22 @@
+{
+  "name": "Miscellanycoin",
+  "symbol": "Miscellanycoin",
+  "decimals": 18,
+  "description": "Miscellanycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miscellanycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miscellanycoin",
+  "addresses": {
+    "8453": "0x27b28573cfe4407e33c664138aeb2d733de31914"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miscellanycoin",
+    "sanitizedSymbol": "MISCELLANYCOIN",
+    "created_at": "2024-12-11T06:01:08.291211",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1413733",
+    "lockerAddress": "0x08322152EC39667CC47105ac30aD5E295ffE67c6"
+  },
+  "clankerInfo": null
+}

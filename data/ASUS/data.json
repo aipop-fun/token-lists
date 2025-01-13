@@ -1,0 +1,22 @@
+{
+  "name": "ASUS",
+  "symbol": "ASUS",
+  "decimals": 18,
+  "description": "ASUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ASUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ASUS",
+  "addresses": {
+    "8453": "0x36947df082e004a7d5fdfd5009c0fb8f62b0dfe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ASUS",
+    "sanitizedSymbol": "ASUS",
+    "created_at": "2024-12-12T20:47:48.332147",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1442689",
+    "lockerAddress": "0xB045a8Bb87da291Ef1B219b39d6D8EdBE86d1Dc6"
+  },
+  "clankerInfo": null
+}

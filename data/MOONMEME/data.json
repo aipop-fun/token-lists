@@ -1,0 +1,22 @@
+{
+  "name": "MoonMeme",
+  "symbol": "MoonMeme",
+  "decimals": 18,
+  "description": "MoonMeme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonMeme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonMeme",
+  "addresses": {
+    "8453": "0x37db30178d38b12264700195c762d270ca31b219"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonMeme",
+    "sanitizedSymbol": "MOONMEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173271",
+    "lockerAddress": "0xc5648672b5aFDbF212A9C749Db87f9aB4CBad2BD"
+  },
+  "clankerInfo": null
+}

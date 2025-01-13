@@ -1,0 +1,22 @@
+{
+  "name": "Regen girl",
+  "symbol": "Regen girl",
+  "decimals": 18,
+  "description": "Regen girl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Regen%20girl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Regen girl",
+  "addresses": {
+    "8453": "0x40cd534214c3e66ae6d55132c299b3c10f772619"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Regen girl",
+    "sanitizedSymbol": "REGEN_GIRL",
+    "created_at": "2024-12-10T09:39:36.872815",
+    "deployer": "0x9EC0cb720fCc865dAb4c4aBB0D896650EcD243Fc",
+    "lpNftId": "1399289",
+    "lockerAddress": "0xC1e3Be9DcD2704521bFb54a70C8c31825A9FEF71"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dev is Cooking",
+  "symbol": "Dev is Cooking",
+  "decimals": 18,
+  "description": "Dev is Cooking is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dev%20is%20Cooking",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dev is Cooking",
+  "addresses": {
+    "8453": "0x29a91457d3286e272ddc01e581df9f1c13d62907"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dev is Cooking",
+    "sanitizedSymbol": "DEV_IS_COOKING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1238406",
+    "lockerAddress": "0x6B0d346bE1c7972925A9873f69a7f9363C410024"
+  },
+  "clankerInfo": null
+}

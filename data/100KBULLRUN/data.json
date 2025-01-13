@@ -1,0 +1,22 @@
+{
+  "name": "100Kbullrun",
+  "symbol": "100Kbullrun",
+  "decimals": 18,
+  "description": "100Kbullrun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100Kbullrun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100Kbullrun",
+  "addresses": {
+    "8453": "0x2c22ebe763201f636c9db715aeb94c5cf7eac3a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100Kbullrun",
+    "sanitizedSymbol": "100KBULLRUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0000084397B6d03d925D3dEeddeA90EdB4F073B4",
+    "lpNftId": "1328868",
+    "lockerAddress": "0xaeF14815CD6201356c24dD60DD0b5405ae1Fbaa2"
+  },
+  "clankerInfo": null
+}

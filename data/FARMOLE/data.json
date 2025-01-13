@@ -1,0 +1,22 @@
+{
+  "name": "FARMOLE",
+  "symbol": "FARMOLE",
+  "decimals": 18,
+  "description": "FARMOLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARMOLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARMOLE",
+  "addresses": {
+    "8453": "0x1cb19a4f484fcf43b9a3b6cb18a020a8551637d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARMOLE",
+    "sanitizedSymbol": "FARMOLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x756743d571c130bcEa0Af63770D91F38cDdbBd41",
+    "lpNftId": "1361474",
+    "lockerAddress": "0x02519102C3D8c253255b2EeF93AdA5E4a2ef2221"
+  },
+  "clankerInfo": null
+}

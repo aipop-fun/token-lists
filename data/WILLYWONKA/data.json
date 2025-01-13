@@ -1,0 +1,22 @@
+{
+  "name": "WillyWonka",
+  "symbol": "WillyWonka",
+  "decimals": 18,
+  "description": "WillyWonka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WillyWonka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WillyWonka",
+  "addresses": {
+    "8453": "0x0bfd7b4b5fbe3b88f90b30b6f84e6ffef95d41f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WillyWonka",
+    "sanitizedSymbol": "WILLYWONKA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215106",
+    "lockerAddress": "0x6a8E17C645cf71653E7424074e3b895Ce3b90D21"
+  },
+  "clankerInfo": null
+}

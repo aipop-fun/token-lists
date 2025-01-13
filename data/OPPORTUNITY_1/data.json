@@ -1,0 +1,22 @@
+{
+  "name": "OPPORTUNITY",
+  "symbol": "OPPORTUNITY",
+  "decimals": 18,
+  "description": "OPPORTUNITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OPPORTUNITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OPPORTUNITY",
+  "addresses": {
+    "8453": "0x0703f2a4d5526632f9012a17122958050dbc01cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OPPORTUNITY",
+    "sanitizedSymbol": "OPPORTUNITY_1",
+    "created_at": "2024-12-10T22:04:59.424228",
+    "deployer": "0xfE030FFd20a4AE3EC68ec6606E045C4aD3211f97",
+    "lpNftId": "1407733",
+    "lockerAddress": "0x075B3518D8F18Db469dD5aCc840fd1bb530Ed015"
+  },
+  "clankerInfo": null
+}

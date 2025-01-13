@@ -1,0 +1,22 @@
+{
+  "name": "Trashy",
+  "symbol": "Trashy",
+  "decimals": 18,
+  "description": "Trashy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trashy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trashy",
+  "addresses": {
+    "8453": "0x079027e2e2fc02a0baa0483bba57c0e22d1d9e12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trashy",
+    "sanitizedSymbol": "TRASHY",
+    "created_at": "2024-12-10T15:55:23.435238",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1403185",
+    "lockerAddress": "0xE00f5F249E3E0a5c1Acbc0a74AC8728C93e80786"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Horse Power",
+  "symbol": "Horse Power",
+  "decimals": 18,
+  "description": "Horse Power is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Horse%20Power",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Horse Power",
+  "addresses": {
+    "8453": "0x113425b448b10e2da1c91715ff593a2c5aecf44d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Horse Power",
+    "sanitizedSymbol": "HORSE_POWER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125409",
+    "lockerAddress": "0x013aa02e9Bf792a48c3AB7dDC7400dC55A57a3Aa"
+  },
+  "clankerInfo": null
+}

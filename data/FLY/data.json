@@ -1,0 +1,22 @@
+{
+  "name": "FLY",
+  "symbol": "FLY",
+  "decimals": 18,
+  "description": "FLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLY",
+  "addresses": {
+    "8453": "0x2a5aafe5dd88afb86e995fb8add56f40aac5db94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLY",
+    "sanitizedSymbol": "FLY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1364314",
+    "lockerAddress": "0xD3b820405fB7dEA79F1d8f81571154209CE1C707"
+  },
+  "clankerInfo": null
+}

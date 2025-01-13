@@ -1,0 +1,22 @@
+{
+  "name": "FREE DEX",
+  "symbol": "FREE DEX",
+  "decimals": 18,
+  "description": "FREE DEX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FREE%20DEX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FREE DEX",
+  "addresses": {
+    "8453": "0x15b9b4538bb954db7a19066af4149a3b8328f1c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FREE DEX",
+    "sanitizedSymbol": "FREE_DEX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1228389",
+    "lockerAddress": "0x7449192807269103160Ac4857A3D5BB66539d493"
+  },
+  "clankerInfo": null
+}

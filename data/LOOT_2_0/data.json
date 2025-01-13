@@ -1,0 +1,22 @@
+{
+  "name": "loot 2.0",
+  "symbol": "loot 2.0",
+  "decimals": 18,
+  "description": "loot 2.0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=loot%202.0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "loot 2.0",
+  "addresses": {
+    "8453": "0x17d14f818a840c6d5682c38932d18432eeb89bcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "loot 2.0",
+    "sanitizedSymbol": "LOOT_2_0",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203549",
+    "lockerAddress": "0xca09CdEb9c841cFFF4079aC70C21AFc016E29DE9"
+  },
+  "clankerInfo": null
+}

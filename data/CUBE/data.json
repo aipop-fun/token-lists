@@ -1,0 +1,22 @@
+{
+  "name": "CUBE",
+  "symbol": "CUBE",
+  "decimals": 18,
+  "description": "CUBE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CUBE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CUBE",
+  "addresses": {
+    "8453": "0x3a6121404bad40d97faf51336d7d3ede3c8f3ff3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CUBE",
+    "sanitizedSymbol": "CUBE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1333180",
+    "lockerAddress": "0x8F68C9C66be9A0756AA09C94DF1D26bf414786bb"
+  },
+  "clankerInfo": null
+}

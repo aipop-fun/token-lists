@@ -1,0 +1,22 @@
+{
+  "name": "FREEZE ICE",
+  "symbol": "FREEZE ICE",
+  "decimals": 18,
+  "description": "FREEZE ICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FREEZE%20ICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FREEZE ICE",
+  "addresses": {
+    "8453": "0x0e086d69d15365ed73ec47db5b6df3292a0b57ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FREEZE ICE",
+    "sanitizedSymbol": "FREEZE_ICE",
+    "created_at": "2024-12-12T17:32:05.748626",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1439579",
+    "lockerAddress": "0x09A4E453a89d4354594EBF7976b8CC5841DDece0"
+  },
+  "clankerInfo": null
+}

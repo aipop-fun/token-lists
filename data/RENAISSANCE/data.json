@@ -1,0 +1,22 @@
+{
+  "name": "renAIssance",
+  "symbol": "renAIssance",
+  "decimals": 18,
+  "description": "renAIssance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=renAIssance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "renAIssance",
+  "addresses": {
+    "8453": "0x03e0dd068843525666fc586eb24027de1eec301b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "renAIssance",
+    "sanitizedSymbol": "RENAISSANCE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0C5B0fa4544c93F7c3535bf4674E33345adF3ac6",
+    "lpNftId": "1252621",
+    "lockerAddress": "0xF6E6f2d39Fe196Ded5A7B8c24CF4a531Ffbd94Fb"
+  },
+  "clankerInfo": null
+}

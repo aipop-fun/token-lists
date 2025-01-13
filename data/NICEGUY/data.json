@@ -1,0 +1,22 @@
+{
+  "name": "NICEGUY",
+  "symbol": "NICEGUY",
+  "decimals": 18,
+  "description": "NICEGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NICEGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NICEGUY",
+  "addresses": {
+    "8453": "0x06b38669abdb1de779b2acc24102edb1931461cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NICEGUY",
+    "sanitizedSymbol": "NICEGUY",
+    "created_at": "2024-12-11T13:48:28.888778",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1419465",
+    "lockerAddress": "0x91E057A976564420B64E5fF173802e1Ad386E46D"
+  },
+  "clankerInfo": null
+}

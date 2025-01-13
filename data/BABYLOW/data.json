@@ -1,0 +1,22 @@
+{
+  "name": "Babylow",
+  "symbol": "Babylow",
+  "decimals": 18,
+  "description": "Babylow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babylow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babylow",
+  "addresses": {
+    "8453": "0x3dc8a9196514273c5297226e2cd94c265d9762f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babylow",
+    "sanitizedSymbol": "BABYLOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0eeca95C58919B1b96bb1cDe61A99F9d7571DeF6",
+    "lpNftId": "1329081",
+    "lockerAddress": "0x1b6dA3119b21b54386D7A99909Ed81Cf7D8Dc638"
+  },
+  "clankerInfo": null
+}

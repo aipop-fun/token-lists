@@ -1,0 +1,22 @@
+{
+  "name": "tubiktoken",
+  "symbol": "tubiktoken",
+  "decimals": 18,
+  "description": "tubiktoken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tubiktoken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tubiktoken",
+  "addresses": {
+    "8453": "0x121025061635bf58d0b8afc0518e28f0803c83a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tubiktoken",
+    "sanitizedSymbol": "TUBIKTOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x70e9E9C0C221AE0dD3C66787CEf1bAE044ee541C",
+    "lpNftId": "1288335",
+    "lockerAddress": "0x5A6D92d4F46C12E106a62999d2012dba87BC0C6c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tsacpraw",
+  "symbol": "tsacpraw",
+  "decimals": 18,
+  "description": "tsacpraw is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tsacpraw",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tsacpraw",
+  "addresses": {
+    "8453": "0x3c57df317fbe13f0fb1d4ddad3c4a7d4c1996a48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tsacpraw",
+    "sanitizedSymbol": "TSACPRAW",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1311892",
+    "lockerAddress": "0x42272E57527EF3C79Dc673B92652EBF0BA202281"
+  },
+  "clankerInfo": null
+}

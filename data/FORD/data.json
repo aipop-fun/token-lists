@@ -1,0 +1,22 @@
+{
+  "name": "Ford",
+  "symbol": "Ford",
+  "decimals": 18,
+  "description": "Ford is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ford",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ford",
+  "addresses": {
+    "8453": "0x08a77dcf78254c5bdf22ba49383b7328277dd15e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ford",
+    "sanitizedSymbol": "FORD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229744",
+    "lockerAddress": "0xa78D1b0b28591a8bFACb53Abf19Eff16F44Ce2Bf"
+  },
+  "clankerInfo": null
+}

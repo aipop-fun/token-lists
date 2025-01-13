@@ -1,0 +1,22 @@
+{
+  "name": "MOXIE",
+  "symbol": "MOXIE",
+  "decimals": 18,
+  "description": "MOXIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOXIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOXIE",
+  "addresses": {
+    "8453": "0x3c00aad8c46fe458f5147940c498c71905b3b023"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOXIE",
+    "sanitizedSymbol": "MOXIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1321286",
+    "lockerAddress": "0xeb766DBf36431eCb46651B227A7Aa6eDB5E4Db02"
+  },
+  "clankerInfo": null
+}

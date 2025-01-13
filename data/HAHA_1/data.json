@@ -1,0 +1,22 @@
+{
+  "name": "HaHa",
+  "symbol": "HaHa",
+  "decimals": 18,
+  "description": "HaHa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HaHa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HaHa",
+  "addresses": {
+    "8453": "0x25a0503ed6aa70e699b9927db2952bb3eafaeef3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HaHa",
+    "sanitizedSymbol": "HAHA_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA0DEC165d9b4441A46e7022f347C191c4e233587",
+    "lpNftId": "1330230",
+    "lockerAddress": "0xaad29c615768daa7D57D2458F15da4a148DA1d12"
+  },
+  "clankerInfo": null
+}

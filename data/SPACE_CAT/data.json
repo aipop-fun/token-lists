@@ -1,0 +1,22 @@
+{
+  "name": "Space Cat",
+  "symbol": "Space Cat",
+  "decimals": 18,
+  "description": "Space Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Space%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Space Cat",
+  "addresses": {
+    "8453": "0x328e5736509123207280cfd81f95d17ab5650f09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Space Cat",
+    "sanitizedSymbol": "SPACE_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224360",
+    "lockerAddress": "0x2a270960bf27d05E3a3D82Ed275470AC1d19eE84"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mooncat",
+  "symbol": "mooncat",
+  "decimals": 18,
+  "description": "mooncat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mooncat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mooncat",
+  "addresses": {
+    "8453": "0x37698cb2134c2ad8d2424e702bedd8b5325e2686"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mooncat",
+    "sanitizedSymbol": "MOONCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1a417383cCB925DBdE3Ad54C0B3F373fAbD15804",
+    "lpNftId": "1287016",
+    "lockerAddress": "0x0900AA8819DA79Bac7a0760179FDe5Efe54Ed9F8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Waifu",
+  "symbol": "Waifu",
+  "decimals": 18,
+  "description": "Waifu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Waifu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Waifu",
+  "addresses": {
+    "8453": "0x3199fb33499a4c76c301806e3eae59f669ee75cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Waifu",
+    "sanitizedSymbol": "WAIFU_7",
+    "created_at": "2024-12-10T23:03:58.885574",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408211",
+    "lockerAddress": "0x0720c1555eC53f722f16e2c9BDc5ab722308D620"
+  },
+  "clankerInfo": null
+}

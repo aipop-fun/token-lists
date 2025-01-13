@@ -1,0 +1,22 @@
+{
+  "name": "Chill Deer",
+  "symbol": "Chill Deer",
+  "decimals": 18,
+  "description": "Chill Deer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Deer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Deer",
+  "addresses": {
+    "8453": "0x12cd1e0369494baab06c6a21e07cb8dce1880c79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Deer",
+    "sanitizedSymbol": "CHILL_DEER",
+    "created_at": "2024-12-12T19:27:46.270005",
+    "deployer": "0xbfFd0f67e2E8F9688dD8E6a3ec6f6a74ced85B37",
+    "lpNftId": "1441682",
+    "lockerAddress": "0x3660d932A8E357225df91bBe8D4EfB28Ab4780aa"
+  },
+  "clankerInfo": null
+}

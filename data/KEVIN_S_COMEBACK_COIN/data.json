@@ -1,0 +1,22 @@
+{
+  "name": "Kevin's Comeback Coin",
+  "symbol": "Kevin's Comeback Coin",
+  "decimals": 18,
+  "description": "Kevin's Comeback Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kevin's%20Comeback%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kevin's Comeback Coin",
+  "addresses": {
+    "8453": "0x3733277cd940fbf40b2ec65ab9a05dd521c0db23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kevin's Comeback Coin",
+    "sanitizedSymbol": "KEVIN_S_COMEBACK_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128813",
+    "lockerAddress": "0x98087907cc45a883c48FD3d241d4397010445689"
+  },
+  "clankerInfo": null
+}

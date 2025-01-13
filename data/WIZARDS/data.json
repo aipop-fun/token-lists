@@ -1,0 +1,22 @@
+{
+  "name": "wizards",
+  "symbol": "wizards",
+  "decimals": 18,
+  "description": "wizards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wizards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wizards",
+  "addresses": {
+    "8453": "0x41b161c073a591ae0081ab3ee66a569efcc32253"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wizards",
+    "sanitizedSymbol": "WIZARDS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1274654",
+    "lockerAddress": "0x963eFEdBc50b68e1E9c98Ac5312C7D50dc3cabd5"
+  },
+  "clankerInfo": null
+}

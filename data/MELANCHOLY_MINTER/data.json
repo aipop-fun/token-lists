@@ -1,0 +1,22 @@
+{
+  "name": "Melancholy Minter",
+  "symbol": "Melancholy Minter",
+  "decimals": 18,
+  "description": "Melancholy Minter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Melancholy%20Minter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Melancholy Minter",
+  "addresses": {
+    "8453": "0x1169261596b235443f10f8df5a6405cafbca7b60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Melancholy Minter",
+    "sanitizedSymbol": "MELANCHOLY_MINTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbF52fFfc7aB171670241baDf3C93b03ECa780360",
+    "lpNftId": "1340437",
+    "lockerAddress": "0x24157BAe8eB3DB3597402C5b8e96B27ef086be59"
+  },
+  "clankerInfo": null
+}

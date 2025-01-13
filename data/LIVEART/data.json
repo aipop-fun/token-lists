@@ -1,0 +1,22 @@
+{
+  "name": "LiveArt",
+  "symbol": "LiveArt",
+  "decimals": 18,
+  "description": "LiveArt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LiveArt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LiveArt",
+  "addresses": {
+    "8453": "0x22623f33dc252931215590c6b3f9f202004743e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LiveArt",
+    "sanitizedSymbol": "LIVEART",
+    "created_at": "2024-12-11T13:31:31.73756",
+    "deployer": "0x676C4f2c77F2ed2Cf046F92747AF654A1b40AabE",
+    "lpNftId": "1419155",
+    "lockerAddress": "0xcD00abFB8B26fb3eF13cf6D88c99e18918583979"
+  },
+  "clankerInfo": null
+}

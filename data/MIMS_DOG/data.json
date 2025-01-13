@@ -1,0 +1,22 @@
+{
+  "name": "MIMS DOG",
+  "symbol": "MIMS DOG",
+  "decimals": 18,
+  "description": "MIMS DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MIMS%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MIMS DOG",
+  "addresses": {
+    "8453": "0x040e330d5a1fd3fe6b9bb9ab9abda078b6d62d40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MIMS DOG",
+    "sanitizedSymbol": "MIMS_DOG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x94efc35BE44688E1e930Fe8b3b6c783bC3851646",
+    "lpNftId": "1264287",
+    "lockerAddress": "0xeF45C39D736584E88ABba982173A141F9508c72A"
+  },
+  "clankerInfo": null
+}

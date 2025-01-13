@@ -1,0 +1,22 @@
+{
+  "name": "Korean Crypto Community",
+  "symbol": "Korean Crypto Community",
+  "decimals": 18,
+  "description": "Korean Crypto Community is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Korean%20Crypto%20Community",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Korean Crypto Community",
+  "addresses": {
+    "8453": "0x2d4bed7bc26e59a7de8807c0c9e5b6325e17ae85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Korean Crypto Community",
+    "sanitizedSymbol": "KOREAN_CRYPTO_COMMUNITY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236765",
+    "lockerAddress": "0x0F901FfBcB1c2FbDcabB6e2F9E905887c9FD0Eb2"
+  },
+  "clankerInfo": null
+}

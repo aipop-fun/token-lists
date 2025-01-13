@@ -1,0 +1,22 @@
+{
+  "name": "Virtualik",
+  "symbol": "Virtualik",
+  "decimals": 18,
+  "description": "Virtualik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Virtualik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Virtualik",
+  "addresses": {
+    "8453": "0x1ba8aad58719030f409794a28b4b2bedb54f216b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Virtualik",
+    "sanitizedSymbol": "VIRTUALIK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x53Fdd2853d7bB8fbcEe77B0eFF77EF7F180Ad38D",
+    "lpNftId": "1322859",
+    "lockerAddress": "0x57068aDe85B789498C9B9Fe821BF24Ba551d53d9"
+  },
+  "clankerInfo": null
+}

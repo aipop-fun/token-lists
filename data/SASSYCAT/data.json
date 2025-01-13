@@ -1,0 +1,22 @@
+{
+  "name": "SassyCat",
+  "symbol": "SassyCat",
+  "decimals": 18,
+  "description": "SassyCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SassyCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SassyCat",
+  "addresses": {
+    "8453": "0x3bc32b729f92efb178393b3c5e7612090da7e0de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SassyCat",
+    "sanitizedSymbol": "SASSYCAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173280",
+    "lockerAddress": "0xDaB179d0402c23B541E9e51d523Ee5A51C60A873"
+  },
+  "clankerInfo": null
+}

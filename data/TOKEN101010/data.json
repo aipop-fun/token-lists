@@ -1,0 +1,22 @@
+{
+  "name": "TOKEN101010",
+  "symbol": "TOKEN101010",
+  "decimals": 18,
+  "description": "TOKEN101010 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOKEN101010",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOKEN101010",
+  "addresses": {
+    "8453": "0x14771790bfcb0804859af95e6b10ef9a45eb89e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOKEN101010",
+    "sanitizedSymbol": "TOKEN101010",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124830",
+    "lockerAddress": "0xB7702C9420601FD6D969B2DebC50fA95bcA70FF1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Station Forge",
+  "symbol": "Station Forge",
+  "decimals": 18,
+  "description": "Station Forge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Station%20Forge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Station Forge",
+  "addresses": {
+    "8453": "0x34e4a50a50057b7d45e92bc2b2cd5882b47e65e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Station Forge",
+    "sanitizedSymbol": "STATION_FORGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229554",
+    "lockerAddress": "0xD59159c4c8Dbe203549BDf3081254eE8c5B7Cb3c"
+  },
+  "clankerInfo": null
+}

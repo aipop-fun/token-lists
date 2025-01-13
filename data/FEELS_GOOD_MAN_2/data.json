@@ -1,0 +1,22 @@
+{
+  "name": "Feels Good Man",
+  "symbol": "Feels Good Man",
+  "decimals": 18,
+  "description": "Feels Good Man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Feels%20Good%20Man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Feels Good Man",
+  "addresses": {
+    "8453": "0x3539ec99cd90417ba7eb44b9a8c89fa41ca6654e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Feels Good Man",
+    "sanitizedSymbol": "FEELS_GOOD_MAN_2",
+    "created_at": "2024-12-12T07:19:16.680457",
+    "deployer": "0x832b4f764bCC2c8689A5256A5b0C6bA9aABc72BB",
+    "lpNftId": "1429722",
+    "lockerAddress": "0x29D2A7aCe7A24e4A0CAD6Fbb60aF02683A925a6a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Garu",
+  "symbol": "Garu",
+  "decimals": 18,
+  "description": "Garu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Garu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Garu",
+  "addresses": {
+    "8453": "0x126fbc03690deb06b1e6ce049a276e0876daf247"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Garu",
+    "sanitizedSymbol": "GARU",
+    "created_at": "2024-12-11T06:50:19.122188",
+    "deployer": "0x932b4B4B172d70C6474b7e1640600fd29f1122B4",
+    "lpNftId": "1413970",
+    "lockerAddress": "0x64fD6Fa2D62364C066545F1235AbF4ceEEFFd5a1"
+  },
+  "clankerInfo": null
+}

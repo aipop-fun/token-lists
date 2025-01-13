@@ -1,0 +1,22 @@
+{
+  "name": "Strategic Baldcoin Reserve",
+  "symbol": "Strategic Baldcoin Reserve",
+  "decimals": 18,
+  "description": "Strategic Baldcoin Reserve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Strategic%20Baldcoin%20Reserve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Strategic Baldcoin Reserve",
+  "addresses": {
+    "8453": "0x04e19a9a52f29ffcc028686307d5f56437730d8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Strategic Baldcoin Reserve",
+    "sanitizedSymbol": "STRATEGIC_BALDCOIN_RESERVE",
+    "created_at": "2024-12-12T17:57:04.113606",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1440305",
+    "lockerAddress": "0x221967a3A69D9A7F93a2DDdF5685B50133B632CE"
+  },
+  "clankerInfo": null
+}

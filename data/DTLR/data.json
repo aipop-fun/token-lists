@@ -1,0 +1,22 @@
+{
+  "name": "DTLR",
+  "symbol": "DTLR",
+  "decimals": 18,
+  "description": "DTLR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DTLR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DTLR",
+  "addresses": {
+    "8453": "0x04bcc5cab3566b611aa21e93ec49d5535ed3f09d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DTLR",
+    "sanitizedSymbol": "DTLR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229820",
+    "lockerAddress": "0x54bEe04828f16006d7657110EEF1453224ebD61F"
+  },
+  "clankerInfo": null
+}

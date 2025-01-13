@@ -1,0 +1,22 @@
+{
+  "name": "Degen School Bus",
+  "symbol": "Degen School Bus",
+  "decimals": 18,
+  "description": "Degen School Bus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20School%20Bus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen School Bus",
+  "addresses": {
+    "8453": "0x1519543a524815714c96e792b8a15438702d9d0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen School Bus",
+    "sanitizedSymbol": "DEGEN_SCHOOL_BUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150890",
+    "lockerAddress": "0xA8804FD2bFD342D2c9394154Abd54a4256db0A9C"
+  },
+  "clankerInfo": null
+}

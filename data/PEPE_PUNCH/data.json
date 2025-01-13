@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Punch",
+  "symbol": "Pepe Punch",
+  "decimals": 18,
+  "description": "Pepe Punch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Punch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Punch",
+  "addresses": {
+    "8453": "0x221cab44c4ec5d4b130d29f89f955fd16220b30b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Punch",
+    "sanitizedSymbol": "PEPE_PUNCH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236194",
+    "lockerAddress": "0x760481dDC843f7f925b10Fb3aff602021809BB30"
+  },
+  "clankerInfo": null
+}

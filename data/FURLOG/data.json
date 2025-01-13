@@ -1,0 +1,22 @@
+{
+  "name": "FURLOG",
+  "symbol": "FURLOG",
+  "decimals": 18,
+  "description": "FURLOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FURLOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FURLOG",
+  "addresses": {
+    "8453": "0x3a776e0c2ae5697f3faed2a672c358496d5b2c4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FURLOG",
+    "sanitizedSymbol": "FURLOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x247b21c6F26d2567A5D3882a17d76bb01e047645",
+    "lpNftId": "1333170",
+    "lockerAddress": "0x52C390D9D22096189D98154B8Aa033d711b539e1"
+  },
+  "clankerInfo": null
+}

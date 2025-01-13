@@ -1,0 +1,22 @@
+{
+  "name": "Skipepe",
+  "symbol": "Skipepe",
+  "decimals": 18,
+  "description": "Skipepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skipepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skipepe",
+  "addresses": {
+    "8453": "0x03683253f557eff5510defb7e1f918d8effea6e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skipepe",
+    "sanitizedSymbol": "SKIPEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xadd446769D566C5fc57E6A045fd325920938c41d",
+    "lpNftId": "1342508",
+    "lockerAddress": "0xce28CCC124BEB785C0b55DEAfEd09FDBdfaBA30a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dogecoinonbase",
+  "symbol": "Dogecoinonbase",
+  "decimals": 18,
+  "description": "Dogecoinonbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogecoinonbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogecoinonbase",
+  "addresses": {
+    "8453": "0x311c903a24b662faeed36fb4c2050fee11b8825e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogecoinonbase",
+    "sanitizedSymbol": "DOGECOINONBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129085",
+    "lockerAddress": "0x58f8BB8f2ff6584930E5F56bA101C71aa2A7244d"
+  },
+  "clankerInfo": null
+}

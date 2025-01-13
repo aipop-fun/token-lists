@@ -1,0 +1,22 @@
+{
+  "name": "platypus",
+  "symbol": "platypus",
+  "decimals": 18,
+  "description": "platypus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=platypus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "platypus",
+  "addresses": {
+    "8453": "0x04987aa68534d9d826a19ab69ef24b6d525fc4b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "platypus",
+    "sanitizedSymbol": "PLATYPUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x34dFC08eB3B7eD60D00e5B2CB611ac27C152B45c",
+    "lpNftId": "1330714",
+    "lockerAddress": "0x092f8feEF33F5ca6863fD4637DB1cC8bc7B53478"
+  },
+  "clankerInfo": null
+}

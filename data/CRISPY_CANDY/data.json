@@ -1,0 +1,22 @@
+{
+  "name": "crispy candy",
+  "symbol": "crispy candy",
+  "decimals": 18,
+  "description": "crispy candy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crispy%20candy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crispy candy",
+  "addresses": {
+    "8453": "0x3252d9bfc2e8bb3385a2dc8b91d3b69b0721702e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crispy candy",
+    "sanitizedSymbol": "CRISPY_CANDY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225249",
+    "lockerAddress": "0x30697A1BC2F48C770217E7e61aB1e0Eb84792e68"
+  },
+  "clankerInfo": null
+}

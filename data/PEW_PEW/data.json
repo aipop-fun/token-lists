@@ -1,0 +1,22 @@
+{
+  "name": "PEW PEW",
+  "symbol": "PEW PEW",
+  "decimals": 18,
+  "description": "PEW PEW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEW%20PEW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEW PEW",
+  "addresses": {
+    "8453": "0x21830be9716bdc37ad22d0cba7a881e97ac0d2a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEW PEW",
+    "sanitizedSymbol": "PEW_PEW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x71B632fd5c0Bb128F4d54724963D775cc177D11f",
+    "lpNftId": "1250425",
+    "lockerAddress": "0x7B308C885c8bcFeD7313E7c6bA66DfF4199288Af"
+  },
+  "clankerInfo": null
+}

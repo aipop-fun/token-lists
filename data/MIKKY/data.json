@@ -1,0 +1,22 @@
+{
+  "name": "MIKKY",
+  "symbol": "MIKKY",
+  "decimals": 18,
+  "description": "MIKKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MIKKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MIKKY",
+  "addresses": {
+    "8453": "0x2345498dff6efde5fa5fc0107c330d189ab9513d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MIKKY",
+    "sanitizedSymbol": "MIKKY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1312919",
+    "lockerAddress": "0x43B50360d8628a66d5a34dAE74081A6335787F71"
+  },
+  "clankerInfo": null
+}

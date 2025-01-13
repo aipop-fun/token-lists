@@ -1,0 +1,22 @@
+{
+  "name": "Deluder",
+  "symbol": "Deluder",
+  "decimals": 18,
+  "description": "Deluder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deluder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deluder",
+  "addresses": {
+    "8453": "0x23da71c3725cce2a95aa762d3c55ad5a461cbc1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deluder",
+    "sanitizedSymbol": "DELUDER",
+    "created_at": "2024-12-10T01:51:43.823786",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1394509",
+    "lockerAddress": "0xA84787e9CE25eFED25F54B663BEb2783c039BAC3"
+  },
+  "clankerInfo": null
+}

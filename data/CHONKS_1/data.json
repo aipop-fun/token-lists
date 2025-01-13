@@ -1,0 +1,22 @@
+{
+  "name": "Chonks",
+  "symbol": "Chonks",
+  "decimals": 18,
+  "description": "Chonks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chonks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chonks",
+  "addresses": {
+    "8453": "0x1a0aafc1e3c7ef63cf0e4df9cc09a8d35e720581"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chonks",
+    "sanitizedSymbol": "CHONKS_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6EefbF0A876442d3B98664efcF3c4b3dAB56A13a",
+    "lpNftId": "1348449",
+    "lockerAddress": "0xCff8a33e55408bff2428571f62f9DcBf05Aa4BDd"
+  },
+  "clankerInfo": null
+}

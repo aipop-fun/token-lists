@@ -1,0 +1,22 @@
+{
+  "name": "tieubochet",
+  "symbol": "tieubochet",
+  "decimals": 18,
+  "description": "tieubochet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tieubochet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tieubochet",
+  "addresses": {
+    "8453": "0x2ef553edf72d861b20a07b3dbad1b3595eb72fe6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tieubochet",
+    "sanitizedSymbol": "TIEUBOCHET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225764",
+    "lockerAddress": "0x6236e95257A5C7a35A5e80c5aFcC126B4AC7Fd50"
+  },
+  "clankerInfo": null
+}

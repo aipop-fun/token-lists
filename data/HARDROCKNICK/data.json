@@ -1,0 +1,22 @@
+{
+  "name": "HardRockNick",
+  "symbol": "HardRockNick",
+  "decimals": 18,
+  "description": "HardRockNick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HardRockNick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HardRockNick",
+  "addresses": {
+    "8453": "0x04680833c20680befa96cfb2d52175d560dc01f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HardRockNick",
+    "sanitizedSymbol": "HARDROCKNICK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217514",
+    "lockerAddress": "0xc65068cfc7a3D0207A0D32a9823a6426d10cddbe"
+  },
+  "clankerInfo": null
+}

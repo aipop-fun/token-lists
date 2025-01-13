@@ -1,0 +1,22 @@
+{
+  "name": "HYPE MEME",
+  "symbol": "HYPE MEME",
+  "decimals": 18,
+  "description": "HYPE MEME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPE%20MEME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPE MEME",
+  "addresses": {
+    "8453": "0x0c6e0d3402980775e6ca05ec23402735a0ee28dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPE MEME",
+    "sanitizedSymbol": "HYPE_MEME_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1276994",
+    "lockerAddress": "0x450a5FD9Cb3bE0D390bf8f53B3326D9fF6887ae5"
+  },
+  "clankerInfo": null
+}

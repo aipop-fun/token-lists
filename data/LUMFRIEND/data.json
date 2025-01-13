@@ -1,0 +1,22 @@
+{
+  "name": "LumFriend",
+  "symbol": "LumFriend",
+  "decimals": 18,
+  "description": "LumFriend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LumFriend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LumFriend",
+  "addresses": {
+    "8453": "0x3a6d4b5bbf5955d7cb90c8248aed4bef9719084e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LumFriend",
+    "sanitizedSymbol": "LUMFRIEND",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173063",
+    "lockerAddress": "0x79cD23CF7a7448D9d8C919Fd5064C2b4D9299aC8"
+  },
+  "clankerInfo": null
+}

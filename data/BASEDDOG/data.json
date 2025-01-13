@@ -1,0 +1,22 @@
+{
+  "name": "BasedDog",
+  "symbol": "BasedDog",
+  "decimals": 18,
+  "description": "BasedDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedDog",
+  "addresses": {
+    "8453": "0x2d8eaba1afc94b6875e34742667ba777c2dee5f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedDog",
+    "sanitizedSymbol": "BASEDDOG",
+    "created_at": "2024-12-09T03:35:56.546346",
+    "deployer": "0xEDbf72f88E72133b10CdDded385D2b0f7b27f588",
+    "lpNftId": "1380156",
+    "lockerAddress": "0x5F8b08C3a961D905CE3064881936b14b17CE9BDA"
+  },
+  "clankerInfo": null
+}

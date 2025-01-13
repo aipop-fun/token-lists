@@ -1,0 +1,22 @@
+{
+  "name": "OG Base",
+  "symbol": "OG Base",
+  "decimals": 18,
+  "description": "OG Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OG%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OG Base",
+  "addresses": {
+    "8453": "0x2488a3947dd2541f4ae83bcc84da553f0db2e3d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OG Base",
+    "sanitizedSymbol": "OG_BASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3FFb9466C7A13f08D3f776D98e5405c264524706",
+    "lpNftId": "1269431",
+    "lockerAddress": "0xA0F15394642B6e35eAACCaDBBb4f78A77632A500"
+  },
+  "clankerInfo": null
+}

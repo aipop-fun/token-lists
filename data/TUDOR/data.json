@@ -1,0 +1,22 @@
+{
+  "name": "tudor",
+  "symbol": "tudor",
+  "decimals": 18,
+  "description": "tudor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tudor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tudor",
+  "addresses": {
+    "8453": "0x031d7c43542c07fcddfb1eaa9cf6ec48fbacc3b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tudor",
+    "sanitizedSymbol": "TUDOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbdCA59f1346f6ccF05Ee0C28CE4491CdF119fb4C",
+    "lpNftId": "1286560",
+    "lockerAddress": "0xB1c48503d908562842837b63D4719eBE7D8F1dDa"
+  },
+  "clankerInfo": null
+}

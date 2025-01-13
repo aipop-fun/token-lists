@@ -1,0 +1,22 @@
+{
+  "name": "Rubber Cat Token",
+  "symbol": "Rubber Cat Token",
+  "decimals": 18,
+  "description": "Rubber Cat Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rubber%20Cat%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rubber Cat Token",
+  "addresses": {
+    "8453": "0x2c9d0a2a243ac3f6ca6ba5e29dda2fc581422adf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rubber Cat Token",
+    "sanitizedSymbol": "RUBBER_CAT_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235468",
+    "lockerAddress": "0xcf73ef6253Ff2AB1821624B2a445c1C756283edD"
+  },
+  "clankerInfo": null
+}

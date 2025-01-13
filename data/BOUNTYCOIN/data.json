@@ -1,0 +1,22 @@
+{
+  "name": "BountyCoin",
+  "symbol": "BountyCoin",
+  "decimals": 18,
+  "description": "BountyCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BountyCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BountyCoin",
+  "addresses": {
+    "8453": "0x21a17653f889b675c1ec28b99478406a53d97773"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BountyCoin",
+    "sanitizedSymbol": "BOUNTYCOIN",
+    "created_at": "2024-12-10T21:39:01.785397",
+    "deployer": "0xc8ABF679e14add9A6d6b6881cBDb4bCa748Cd2D0",
+    "lpNftId": "1407392",
+    "lockerAddress": "0x0498c97b4281e7F73578d3B0fF65285d462a33C2"
+  },
+  "clankerInfo": null
+}

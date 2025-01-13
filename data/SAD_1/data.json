@@ -1,0 +1,22 @@
+{
+  "name": "SAD",
+  "symbol": "SAD",
+  "decimals": 18,
+  "description": "SAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAD",
+  "addresses": {
+    "8453": "0x0391aff75f6329a9c284207a4c734303c6106c99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAD",
+    "sanitizedSymbol": "SAD_1",
+    "created_at": "2024-12-10T22:31:10.913433",
+    "deployer": "0xa17aEc61cfF8B34691b0585793b76ADf58A4731A",
+    "lpNftId": "1408003",
+    "lockerAddress": "0x79425864faD1E4f940364B9dCa0ACAD37c9cc15a"
+  },
+  "clankerInfo": null
+}

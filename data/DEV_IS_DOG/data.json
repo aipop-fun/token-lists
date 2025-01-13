@@ -1,0 +1,22 @@
+{
+  "name": "DEV IS DOG",
+  "symbol": "DEV IS DOG",
+  "decimals": 18,
+  "description": "DEV IS DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEV%20IS%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEV IS DOG",
+  "addresses": {
+    "8453": "0x317c70bb564defa09223f8704e52ef8d9b60382a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEV IS DOG",
+    "sanitizedSymbol": "DEV_IS_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6C5054771F7b601a816396c96354cC179171eE2",
+    "lpNftId": "1328438",
+    "lockerAddress": "0x11A1B264df09FB60a8183a5399F65d8292cc4686"
+  },
+  "clankerInfo": null
+}

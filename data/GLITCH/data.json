@@ -1,0 +1,22 @@
+{
+  "name": "Glitch",
+  "symbol": "Glitch",
+  "decimals": 18,
+  "description": "Glitch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Glitch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Glitch",
+  "addresses": {
+    "8453": "0x3e48f48fac6aa3d60e64fb5bbd73b0a64428a0f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Glitch",
+    "sanitizedSymbol": "GLITCH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcEeeC734ECb02377937446d1a38130d076bAAd74",
+    "lpNftId": "1308537",
+    "lockerAddress": "0x90F5eFcc0316EC4a226EFB332F00d57eda282EAd"
+  },
+  "clankerInfo": null
+}

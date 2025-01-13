@@ -1,0 +1,22 @@
+{
+  "name": "ermie",
+  "symbol": "ermie",
+  "decimals": 18,
+  "description": "ermie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ermie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ermie",
+  "addresses": {
+    "8453": "0x17ba02a2f9e519a688d7cd4a78fd7530c2149f87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ermie",
+    "sanitizedSymbol": "ERMIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1320861",
+    "lockerAddress": "0x25Db649b045B703F65D03DCCaB3e914b5b5985a5"
+  },
+  "clankerInfo": null
+}

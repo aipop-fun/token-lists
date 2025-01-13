@@ -1,0 +1,22 @@
+{
+  "name": "Donald pump",
+  "symbol": "Donald pump",
+  "decimals": 18,
+  "description": "Donald pump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Donald%20pump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Donald pump",
+  "addresses": {
+    "8453": "0x03d684da3d6a1bd2ba044365291bbfda5502bc12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Donald pump",
+    "sanitizedSymbol": "DONALD_PUMP_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EFCcE22a3F385da42C60f4064223C79CFa73d48",
+    "lpNftId": "1326900",
+    "lockerAddress": "0xc386b973e947417ce5fc6E44194B6964930Fe26C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HYPHAL",
+  "symbol": "HYPHAL",
+  "decimals": 18,
+  "description": "HYPHAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPHAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPHAL",
+  "addresses": {
+    "8453": "0x14ff36c80c3b7c84bcfa6026336ba14046e1d56c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPHAL",
+    "sanitizedSymbol": "HYPHAL",
+    "created_at": "2024-12-12T17:56:31.605617",
+    "deployer": "0xEb8e490084b87AC0DcE028DC6D846f6D42Ce66Dd",
+    "lpNftId": "1440303",
+    "lockerAddress": "0x439767440cdBa525375cd9f460524bEb21312919"
+  },
+  "clankerInfo": null
+}

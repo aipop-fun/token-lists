@@ -1,0 +1,22 @@
+{
+  "name": "MOONDOGE",
+  "symbol": "MOONDOGE",
+  "decimals": 18,
+  "description": "MOONDOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONDOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONDOGE",
+  "addresses": {
+    "8453": "0x230a70c6e9c28439917a89390c6cc9e2f906a40e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONDOGE",
+    "sanitizedSymbol": "MOONDOGE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0dA53864f41F702892cbed60482431feE7d5B522",
+    "lpNftId": "1281301",
+    "lockerAddress": "0xfe0822A4dCdA1d71FbfC4105064bCC195b9B56Ab"
+  },
+  "clankerInfo": null
+}

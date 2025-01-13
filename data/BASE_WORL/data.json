@@ -1,0 +1,22 @@
+{
+  "name": "base worl",
+  "symbol": "base worl",
+  "decimals": 18,
+  "description": "base worl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20worl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base worl",
+  "addresses": {
+    "8453": "0x101e7913a5b59680595de2a3486afde7962e149b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base worl",
+    "sanitizedSymbol": "BASE_WORL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1322559",
+    "lockerAddress": "0x7566C087F2697E00685302fC994F7348FE0c05dF"
+  },
+  "clankerInfo": null
+}

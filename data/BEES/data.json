@@ -1,0 +1,22 @@
+{
+  "name": "bees",
+  "symbol": "bees",
+  "decimals": 18,
+  "description": "bees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bees",
+  "addresses": {
+    "8453": "0x3752a4704e4ae608cb5fc46e84a1a7cf2eb4fe6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bees",
+    "sanitizedSymbol": "BEES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x478bda0645A39895Fd7C1C5cF2b7d3fd02cE114d",
+    "lpNftId": "1284444",
+    "lockerAddress": "0xFF2d806ABD42f521872930cC8CdE919B750a7073"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RideTheWave",
+  "symbol": "RideTheWave",
+  "decimals": 18,
+  "description": "RideTheWave is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RideTheWave",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RideTheWave",
+  "addresses": {
+    "8453": "0x2b20ca68d55280e1ac3fb0f4de088a8d66225f87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RideTheWave",
+    "sanitizedSymbol": "RIDETHEWAVE",
+    "created_at": "2024-12-11T16:54:53.426548",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1422137",
+    "lockerAddress": "0xE71AE8f918106db27aAD705A15CEc3297E00b10b"
+  },
+  "clankerInfo": null
+}

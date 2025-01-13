@@ -1,0 +1,22 @@
+{
+  "name": "Hold on",
+  "symbol": "Hold on",
+  "decimals": 18,
+  "description": "Hold on is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hold%20on",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hold on",
+  "addresses": {
+    "8453": "0x3e4f765a29b3643006823c600a1f7a24abeae264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hold on",
+    "sanitizedSymbol": "HOLD_ON",
+    "created_at": "2024-12-10T21:54:50.716539",
+    "deployer": "0x76963eE4C482fA4F9E125ea3C9Cc2Ea81fe8e8C6",
+    "lpNftId": "1407589",
+    "lockerAddress": "0x90508288381DAF4C81b35fA08E96A0D4bBcEd747"
+  },
+  "clankerInfo": null
+}

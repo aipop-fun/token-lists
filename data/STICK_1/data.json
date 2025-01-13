@@ -1,0 +1,22 @@
+{
+  "name": "Stick",
+  "symbol": "Stick",
+  "decimals": 18,
+  "description": "Stick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stick",
+  "addresses": {
+    "8453": "0x3d1537f526767396faf664ec273ca678af83dc96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stick",
+    "sanitizedSymbol": "STICK_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaeEdd5B1f4175C740121527Ba9973672DFF2d4A7",
+    "lpNftId": "1327643",
+    "lockerAddress": "0x90278f4F5b9Ce9EF404C804ECa784f726B2A8cb6"
+  },
+  "clankerInfo": null
+}

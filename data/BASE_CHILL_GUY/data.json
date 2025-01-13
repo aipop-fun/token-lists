@@ -1,0 +1,22 @@
+{
+  "name": "BASE CHILL GUY",
+  "symbol": "BASE CHILL GUY",
+  "decimals": 18,
+  "description": "BASE CHILL GUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20CHILL%20GUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE CHILL GUY",
+  "addresses": {
+    "8453": "0x2ee9818f3777adaa98b2ae144fe397aece2a1df2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE CHILL GUY",
+    "sanitizedSymbol": "BASE_CHILL_GUY",
+    "created_at": "2024-12-09T14:58:53.451055",
+    "deployer": "0x0e03C68327947446515B1EC6D1dD2a8C6758D299",
+    "lpNftId": "1388229",
+    "lockerAddress": "0xe8654691FB846f486A036bD0c1AbD38785dd0A9d"
+  },
+  "clankerInfo": null
+}

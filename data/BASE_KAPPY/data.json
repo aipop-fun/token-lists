@@ -1,0 +1,22 @@
+{
+  "name": "Base Kappy",
+  "symbol": "Base Kappy",
+  "decimals": 18,
+  "description": "Base Kappy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Kappy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Kappy",
+  "addresses": {
+    "8453": "0x35689a0b0d3e5386dd000686d6853e0f3c7510ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Kappy",
+    "sanitizedSymbol": "BASE_KAPPY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa2758921Dd7E3cA0C28071cbbE0fCe3291F8d589",
+    "lpNftId": "1328616",
+    "lockerAddress": "0xA93b53cE77556D537DFb5Cd5F9C0D3df2F92c50a"
+  },
+  "clankerInfo": null
+}

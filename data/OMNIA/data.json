@@ -1,0 +1,22 @@
+{
+  "name": "OMNIA",
+  "symbol": "OMNIA",
+  "decimals": 18,
+  "description": "OMNIA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OMNIA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OMNIA",
+  "addresses": {
+    "8453": "0x02f9a5e361f8bbcb37bee5277c0b7a9b43e36ec4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OMNIA",
+    "sanitizedSymbol": "OMNIA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194076",
+    "lockerAddress": "0x671018E3e84DC681d8CC21f66ef46740c488C6f6"
+  },
+  "clankerInfo": null
+}

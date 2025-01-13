@@ -1,0 +1,22 @@
+{
+  "name": "zcu",
+  "symbol": "zcu",
+  "decimals": 18,
+  "description": "zcu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zcu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zcu",
+  "addresses": {
+    "8453": "0x29c3a546e8c9a8b97f8f980d3fa74647239803a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zcu",
+    "sanitizedSymbol": "ZCU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x556F4f90eaE811647104b42A961eD572980CC0C8",
+    "lpNftId": "1329612",
+    "lockerAddress": "0xE483Be0854785Ad61994C082dED11E81e12aA3d9"
+  },
+  "clankerInfo": null
+}

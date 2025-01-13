@@ -1,0 +1,22 @@
+{
+  "name": "ClankerChristmasOnbase",
+  "symbol": "ClankerChristmasOnbase",
+  "decimals": 18,
+  "description": "ClankerChristmasOnbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerChristmasOnbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerChristmasOnbase",
+  "addresses": {
+    "8453": "0x1573bbb621842b356114a4d4310fbc964d407e17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerChristmasOnbase",
+    "sanitizedSymbol": "CLANKERCHRISTMASONBASE",
+    "created_at": "2024-12-12T16:00:24.638405",
+    "deployer": "0x8c8a64fF974F11367AF8367FfB400aB4431f2fC1",
+    "lpNftId": "1437721",
+    "lockerAddress": "0x01f96d7fD14906eF3361e7B9c08e43BC932c7132"
+  },
+  "clankerInfo": null
+}

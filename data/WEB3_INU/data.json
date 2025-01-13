@@ -1,0 +1,22 @@
+{
+  "name": "Web3 Inu",
+  "symbol": "Web3 Inu",
+  "decimals": 18,
+  "description": "Web3 Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Web3%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Web3 Inu",
+  "addresses": {
+    "8453": "0x0ab2daed2fe7a3f64124fb8d1c538cd505ef0eaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Web3 Inu",
+    "sanitizedSymbol": "WEB3_INU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151011",
+    "lockerAddress": "0x9e77F018E5CBAA06831c8E724f58d5728E832155"
+  },
+  "clankerInfo": null
+}

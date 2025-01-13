@@ -1,0 +1,22 @@
+{
+  "name": "King Soap",
+  "symbol": "King Soap",
+  "decimals": 18,
+  "description": "King Soap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King%20Soap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King Soap",
+  "addresses": {
+    "8453": "0x1016a0e2430e35f122a579792dd4ad1d8186e835"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King Soap",
+    "sanitizedSymbol": "KING_SOAP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf609fdE64E1742A57F4e8ebeE9c5A80a7a44DcEa",
+    "lpNftId": "1319247",
+    "lockerAddress": "0x6740bf9c1Ff66Dba0813A586cD0e37aF096c5C30"
+  },
+  "clankerInfo": null
+}

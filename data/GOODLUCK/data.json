@@ -1,0 +1,22 @@
+{
+  "name": "GoodLuck",
+  "symbol": "GoodLuck",
+  "decimals": 18,
+  "description": "GoodLuck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoodLuck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoodLuck",
+  "addresses": {
+    "8453": "0x14d8c6f47554a05c69063a96ce89eb3b9a668742"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoodLuck",
+    "sanitizedSymbol": "GOODLUCK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x409ADBBEF0d920Dc05a90083F1388f2D2c0205D1",
+    "lpNftId": "1263941",
+    "lockerAddress": "0xad0695180178ab0a017C934fd8B6e5BB3497b474"
+  },
+  "clankerInfo": null
+}

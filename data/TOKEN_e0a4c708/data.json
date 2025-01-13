@@ -1,0 +1,22 @@
+{
+  "name": "源神",
+  "symbol": "源神",
+  "decimals": 18,
+  "description": "源神 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E6%BA%90%E7%A5%9E",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "源神",
+  "addresses": {
+    "8453": "0x0149908f1335c220c07fc2d24f560fdb4eb5e135"
+  },
+  "tokenInfo": {
+    "originalSymbol": "源神",
+    "sanitizedSymbol": "TOKEN_e0a4c708",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE636a85317E750Da6Aa8fa8B6566489000000000",
+    "lpNftId": "1372096",
+    "lockerAddress": "0x6ffF0F4943a0a74c8d304a601B096E6a2f931381"
+  },
+  "clankerInfo": null
+}

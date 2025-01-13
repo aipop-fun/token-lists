@@ -1,0 +1,22 @@
+{
+  "name": "BREAKING NEWS",
+  "symbol": "BREAKING NEWS",
+  "decimals": 18,
+  "description": "BREAKING NEWS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BREAKING%20NEWS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BREAKING NEWS",
+  "addresses": {
+    "8453": "0x16a5a20bf4d29aaaec9f409c4f4ab8370a4bd832"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BREAKING NEWS",
+    "sanitizedSymbol": "BREAKING_NEWS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205635",
+    "lockerAddress": "0xBb505Aa4De230a2f6FF93D1Cd6A946F20d2DDcaf"
+  },
+  "clankerInfo": null
+}

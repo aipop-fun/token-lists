@@ -1,0 +1,22 @@
+{
+  "name": "Mr.Peanut",
+  "symbol": "Mr.Peanut",
+  "decimals": 18,
+  "description": "Mr.Peanut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.Peanut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr.Peanut",
+  "addresses": {
+    "8453": "0x05e6fba848a17553fb4268d9dca2210dd4616b15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr.Peanut",
+    "sanitizedSymbol": "MR_PEANUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x48Abd05c722c6bA90645e2c1236B4d693E769EBB",
+    "lpNftId": "1307486",
+    "lockerAddress": "0x33e27dB38157eb94d9303e1896C61B8D916BdE20"
+  },
+  "clankerInfo": null
+}

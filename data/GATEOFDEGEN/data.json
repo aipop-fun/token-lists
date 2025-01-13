@@ -1,0 +1,22 @@
+{
+  "name": "gateofdegen",
+  "symbol": "gateofdegen",
+  "decimals": 18,
+  "description": "gateofdegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gateofdegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gateofdegen",
+  "addresses": {
+    "8453": "0x22604a7fd1ea4f6e35acc05d66d1cc0e6b00680c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gateofdegen",
+    "sanitizedSymbol": "GATEOFDEGEN",
+    "created_at": "2024-12-10T16:21:35.921287",
+    "deployer": "0x019F305155E932AC42976f2b3C5C3f7D22E57792",
+    "lpNftId": "1403854",
+    "lockerAddress": "0xB97259AC21771893D48d9f10b888d4BC3722a8F3"
+  },
+  "clankerInfo": null
+}

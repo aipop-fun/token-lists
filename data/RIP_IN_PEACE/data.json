@@ -1,0 +1,22 @@
+{
+  "name": "RIP in Peace",
+  "symbol": "RIP in Peace",
+  "decimals": 18,
+  "description": "RIP in Peace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RIP%20in%20Peace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RIP in Peace",
+  "addresses": {
+    "8453": "0x02cdba5de2be039670c05bbec98df369103e4f55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RIP in Peace",
+    "sanitizedSymbol": "RIP_IN_PEACE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205930",
+    "lockerAddress": "0xA035f0e2d94732E8f450C4Bd594AfC28834FD5B3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bot Love",
+  "symbol": "Bot Love",
+  "decimals": 18,
+  "description": "Bot Love is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bot%20Love",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bot Love",
+  "addresses": {
+    "8453": "0x3eefb089d08ffb1bc5e4f235ed9685560e28e311"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bot Love",
+    "sanitizedSymbol": "BOT_LOVE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfEe7486a3EbfF6d668630517aA493Ae7A0598067",
+    "lpNftId": "1277345",
+    "lockerAddress": "0x1cF1A1FAEa7420941d3B98c5b32761BfeF0b09E9"
+  },
+  "clankerInfo": null
+}

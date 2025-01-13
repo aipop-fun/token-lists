@@ -1,0 +1,22 @@
+{
+  "name": "Snow",
+  "symbol": "Snow",
+  "decimals": 18,
+  "description": "Snow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snow",
+  "addresses": {
+    "8453": "0x297a5376bd01cf17b31f42d5456036f1333e8260"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snow",
+    "sanitizedSymbol": "SNOW",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x15420357f53Be7E0a76DEB6EdB2f6b111CA79230",
+    "lpNftId": "1251936",
+    "lockerAddress": "0x1808dE9dd567C4FB3204d7b84E46b256dF7c9458"
+  },
+  "clankerInfo": null
+}

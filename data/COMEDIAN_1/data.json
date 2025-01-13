@@ -1,0 +1,22 @@
+{
+  "name": "Comedian",
+  "symbol": "Comedian",
+  "decimals": 18,
+  "description": "Comedian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Comedian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Comedian",
+  "addresses": {
+    "8453": "0x0f5bab71b8f2fe456e2ff0370bc2430c03472e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Comedian",
+    "sanitizedSymbol": "COMEDIAN_1",
+    "created_at": "2024-12-09T07:44:17.726842",
+    "deployer": "0x02c57a67b4A04066F1029D1aF807ECEbBC09E78a",
+    "lpNftId": "1384469",
+    "lockerAddress": "0xF8272dbf6E3765C7d506AaF40ab1648B80065AD0"
+  },
+  "clankerInfo": null
+}

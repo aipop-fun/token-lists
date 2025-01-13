@@ -1,0 +1,22 @@
+{
+  "name": "Babylon",
+  "symbol": "Babylon",
+  "decimals": 18,
+  "description": "Babylon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babylon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babylon",
+  "addresses": {
+    "8453": "0x34206162d459c3d69b102472106987e86871ce0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babylon",
+    "sanitizedSymbol": "BABYLON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x676C4f2c77F2ed2Cf046F92747AF654A1b40AabE",
+    "lpNftId": "1309472",
+    "lockerAddress": "0x7A559cB08445FDe83D11e74b8aa8C835D5Bd4a16"
+  },
+  "clankerInfo": null
+}

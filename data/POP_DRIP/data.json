@@ -1,0 +1,22 @@
+{
+  "name": "Pop Drip",
+  "symbol": "Pop Drip",
+  "decimals": 18,
+  "description": "Pop Drip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pop%20Drip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pop Drip",
+  "addresses": {
+    "8453": "0x119df605deae48c8a868d0f0818f011ba9f7b551"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pop Drip",
+    "sanitizedSymbol": "POP_DRIP",
+    "created_at": "2024-12-12T10:12:44.546495",
+    "deployer": "0xC7292c33fa4ED21b7DB0aEF23A98DA01362d4773",
+    "lpNftId": "1432340",
+    "lockerAddress": "0x5BD80C160Bb7DC5249af5E37AEaf1c20bb68330B"
+  },
+  "clankerInfo": null
+}

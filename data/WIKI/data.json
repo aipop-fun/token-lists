@@ -1,0 +1,22 @@
+{
+  "name": "wiki",
+  "symbol": "wiki",
+  "decimals": 18,
+  "description": "wiki is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wiki",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wiki",
+  "addresses": {
+    "8453": "0x27cd04c1b7976b2fba2227ba4209bd498442ac53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wiki",
+    "sanitizedSymbol": "WIKI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7990841BF73A552fcDA5Db9D68446AC6a5aB1E7C",
+    "lpNftId": "1327848",
+    "lockerAddress": "0xb223A93D4EcDcCba2e86093C656314D86fF0A366"
+  },
+  "clankerInfo": null
+}

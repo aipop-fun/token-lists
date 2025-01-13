@@ -1,0 +1,22 @@
+{
+  "name": "KingJohn",
+  "symbol": "KingJohn",
+  "decimals": 18,
+  "description": "KingJohn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KingJohn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KingJohn",
+  "addresses": {
+    "8453": "0x3e3f3590060201db2a8e1a7997a7c4de8566bb1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KingJohn",
+    "sanitizedSymbol": "KINGJOHN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5aaB6CE310212C018A7b6e3fbF89301A4029814c",
+    "lpNftId": "1281941",
+    "lockerAddress": "0x56052d2EdCaB7401dc196abC422de7f0F71083ac"
+  },
+  "clankerInfo": null
+}

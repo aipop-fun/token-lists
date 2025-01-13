@@ -1,0 +1,22 @@
+{
+  "name": "Cameleon",
+  "symbol": "Cameleon",
+  "decimals": 18,
+  "description": "Cameleon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cameleon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cameleon",
+  "addresses": {
+    "8453": "0x1258a5802642a878e81e03a2f7526c757eea6d9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cameleon",
+    "sanitizedSymbol": "CAMELEON",
+    "created_at": "2024-12-11T00:11:34.895162",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408716",
+    "lockerAddress": "0x2A5db48EBae0238E91f954eb111e64D29a912141"
+  },
+  "clankerInfo": null
+}

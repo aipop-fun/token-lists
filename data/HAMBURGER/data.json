@@ -1,0 +1,22 @@
+{
+  "name": "hamburger",
+  "symbol": "hamburger",
+  "decimals": 18,
+  "description": "hamburger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hamburger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hamburger",
+  "addresses": {
+    "8453": "0x32cb0297115c10c47ac5222750f9b41eef0c6162"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hamburger",
+    "sanitizedSymbol": "HAMBURGER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119268",
+    "lockerAddress": "0x7C7fc7A06E1B3D5F7F825b4314177df04FC5cB5f"
+  },
+  "clankerInfo": null
+}

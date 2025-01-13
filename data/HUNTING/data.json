@@ -1,0 +1,22 @@
+{
+  "name": "hunting",
+  "symbol": "hunting",
+  "decimals": 18,
+  "description": "hunting is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hunting",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hunting",
+  "addresses": {
+    "8453": "0x019887daad89fec89a05f16469ef24b32cc363de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hunting",
+    "sanitizedSymbol": "HUNTING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCDe3d2D8D7228f966AC9aEa6d323f044749e7624",
+    "lpNftId": "1285168",
+    "lockerAddress": "0x5575A3e740D889e6AE317e01aeB4BD2314e28F00"
+  },
+  "clankerInfo": null
+}

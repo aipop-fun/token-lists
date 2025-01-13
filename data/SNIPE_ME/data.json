@@ -1,0 +1,22 @@
+{
+  "name": "Snipe me",
+  "symbol": "Snipe me",
+  "decimals": 18,
+  "description": "Snipe me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snipe%20me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snipe me",
+  "addresses": {
+    "8453": "0x2ba95122f2e4e53337578e6f04c20926b85e0d8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snipe me",
+    "sanitizedSymbol": "SNIPE_ME",
+    "created_at": "2024-12-10T07:12:17.895521",
+    "deployer": "0x4e0EA281a5782A3BA15e92194b2f179305764723",
+    "lpNftId": "1397700",
+    "lockerAddress": "0x103887f5F7bB65caF9688b263bF4722F1950BC38"
+  },
+  "clankerInfo": null
+}

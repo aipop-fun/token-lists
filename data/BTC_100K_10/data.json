@@ -1,0 +1,22 @@
+{
+  "name": "BTC $100K",
+  "symbol": "BTC $100K",
+  "decimals": 18,
+  "description": "BTC $100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC%20%24100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC $100K",
+  "addresses": {
+    "8453": "0x28bcb808e82ff854d59cd94397cbab2c8210d0b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC $100K",
+    "sanitizedSymbol": "BTC_100K_10",
+    "created_at": "2024-12-09T05:49:51.305927",
+    "deployer": "0xeDd77ad3c8057CFd83d9bE94E54C2753A2015218",
+    "lpNftId": "1383380",
+    "lockerAddress": "0x320aB351B36F69692688b3dC12d22694Ae6351b6"
+  },
+  "clankerInfo": null
+}

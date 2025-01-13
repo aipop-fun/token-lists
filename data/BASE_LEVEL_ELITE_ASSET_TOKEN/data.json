@@ -1,0 +1,22 @@
+{
+  "name": "Base Level Elite Asset Token",
+  "symbol": "Base Level Elite Asset Token",
+  "decimals": 18,
+  "description": "Base Level Elite Asset Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Level%20Elite%20Asset%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Level Elite Asset Token",
+  "addresses": {
+    "8453": "0x2c443a0761d08ce1bc0cba9c6272665b922b10a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Level Elite Asset Token",
+    "sanitizedSymbol": "BASE_LEVEL_ELITE_ASSET_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120100",
+    "lockerAddress": "0x8cC18951E731A05D7153b89Ce8deA666128AcBF7"
+  },
+  "clankerInfo": null
+}

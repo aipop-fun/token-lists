@@ -1,0 +1,22 @@
+{
+  "name": "JackTest",
+  "symbol": "JackTest",
+  "decimals": 18,
+  "description": "JackTest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JackTest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JackTest",
+  "addresses": {
+    "8453": "0x37d2693e166f116651c0e037e3a906667bf61426"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JackTest",
+    "sanitizedSymbol": "JACKTEST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1122913",
+    "lockerAddress": "0x25767FDA36aE6D3494Dd5d5016F56d7EB87Be78F"
+  },
+  "clankerInfo": null
+}

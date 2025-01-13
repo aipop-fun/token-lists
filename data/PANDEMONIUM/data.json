@@ -1,0 +1,22 @@
+{
+  "name": "Pandemonium",
+  "symbol": "Pandemonium",
+  "decimals": 18,
+  "description": "Pandemonium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pandemonium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pandemonium",
+  "addresses": {
+    "8453": "0x36cc98a371c14ed0a3aa8c229242ae8a4b735444"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pandemonium",
+    "sanitizedSymbol": "PANDEMONIUM",
+    "created_at": "2024-12-10T05:08:21.02252",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396732",
+    "lockerAddress": "0xbd3eed888ABfe37E39069B217cC225F47fdFF286"
+  },
+  "clankerInfo": null
+}

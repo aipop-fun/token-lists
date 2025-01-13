@@ -1,0 +1,22 @@
+{
+  "name": "IMBAv2",
+  "symbol": "IMBAv2",
+  "decimals": 18,
+  "description": "IMBAv2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IMBAv2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IMBAv2",
+  "addresses": {
+    "8453": "0x1c1d78d4abfe742727ebffb09793123061f59dc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IMBAv2",
+    "sanitizedSymbol": "IMBAV2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8C1906750e4f0C7b81172DCeD02F33D013695A80",
+    "lpNftId": "1284671",
+    "lockerAddress": "0x849A11EC9835ccf3F80c19EEe41f90864F54932d"
+  },
+  "clankerInfo": null
+}

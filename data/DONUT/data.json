@@ -1,0 +1,22 @@
+{
+  "name": "Donut",
+  "symbol": "Donut",
+  "decimals": 18,
+  "description": "Donut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Donut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Donut",
+  "addresses": {
+    "8453": "0x121b91df449c1388ac92800f58a8c695bd9a4289"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Donut",
+    "sanitizedSymbol": "DONUT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202833",
+    "lockerAddress": "0xE843062BEA11953274c64B1a3b985b2B969B9E05"
+  },
+  "clankerInfo": null
+}

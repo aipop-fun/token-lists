@@ -1,0 +1,22 @@
+{
+  "name": "World Liberty",
+  "symbol": "World Liberty",
+  "decimals": 18,
+  "description": "World Liberty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20Liberty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World Liberty",
+  "addresses": {
+    "8453": "0x2f5a66fc121b9e5ba2e42027852cb56245cd34a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World Liberty",
+    "sanitizedSymbol": "WORLD_LIBERTY",
+    "created_at": "2024-12-12T14:26:56.604893",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1435815",
+    "lockerAddress": "0xA26a942f1FE35025fF0b1444E7258dc7f8b912b9"
+  },
+  "clankerInfo": null
+}

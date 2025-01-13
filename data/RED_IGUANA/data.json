@@ -1,0 +1,22 @@
+{
+  "name": "Red Iguana",
+  "symbol": "Red Iguana",
+  "decimals": 18,
+  "description": "Red Iguana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Iguana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Iguana",
+  "addresses": {
+    "8453": "0x0ab8db816dbcc50359f01309a536e949a4fff776"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Iguana",
+    "sanitizedSymbol": "RED_IGUANA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173475",
+    "lockerAddress": "0x02217D94e400FeF4239e02D979166D3e292Ce6BA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SPICY",
+  "symbol": "SPICY",
+  "decimals": 18,
+  "description": "SPICY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPICY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPICY",
+  "addresses": {
+    "8453": "0x0a7e8337f061fc1fb461eaa160f46ad42933548b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPICY",
+    "sanitizedSymbol": "SPICY",
+    "created_at": "2024-12-08T23:59:25.988682",
+    "deployer": "0xa2B0405506B13f180e83a66a9903a839B6cbCeCD",
+    "lpNftId": "1321517",
+    "lockerAddress": "0x005C6B9259EE0F6c673a67c3B2441a089eB0f375"
+  },
+  "clankerInfo": null
+}

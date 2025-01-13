@@ -1,0 +1,22 @@
+{
+  "name": "Abubing Cat",
+  "symbol": "Abubing Cat",
+  "decimals": 18,
+  "description": "Abubing Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Abubing%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Abubing Cat",
+  "addresses": {
+    "8453": "0x2fb7aefb63202efb62bc16f22d083191c7aa7576"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Abubing Cat",
+    "sanitizedSymbol": "ABUBING_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1309203",
+    "lockerAddress": "0x9389b0fdaf5f1FFde0C8e9EEce66d56101DaC56c"
+  },
+  "clankerInfo": null
+}

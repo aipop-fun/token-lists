@@ -1,0 +1,22 @@
+{
+  "name": "citix",
+  "symbol": "citix",
+  "decimals": 18,
+  "description": "citix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=citix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "citix",
+  "addresses": {
+    "8453": "0x1e48550c78217e7d1075a16c450c7c32a51b673a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "citix",
+    "sanitizedSymbol": "CITIX",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x641C8084615e6e71dAb78905e490d61d2d004055",
+    "lpNftId": "1251878",
+    "lockerAddress": "0x9989FFC79AEF2026e66B4012750a6795Df076C9D"
+  },
+  "clankerInfo": null
+}

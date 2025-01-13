@@ -1,0 +1,22 @@
+{
+  "name": "GOOPY BASE",
+  "symbol": "GOOPY BASE",
+  "decimals": 18,
+  "description": "GOOPY BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOOPY%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOOPY BASE",
+  "addresses": {
+    "8453": "0x0b6efe6b7bfac744ad2af99929e6d2db316da8a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOOPY BASE",
+    "sanitizedSymbol": "GOOPY_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3540D804e6124757A49B805E944B48d14cb78B74",
+    "lpNftId": "1332371",
+    "lockerAddress": "0x95b01E9cF4032A6C985C3500e5227d697bAae2d3"
+  },
+  "clankerInfo": null
+}

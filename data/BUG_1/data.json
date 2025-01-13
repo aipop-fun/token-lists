@@ -1,0 +1,22 @@
+{
+  "name": "BUG",
+  "symbol": "BUG",
+  "decimals": 18,
+  "description": "BUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUG",
+  "addresses": {
+    "8453": "0x1ab2bf92ca745126932fbec34be86fc930561938"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUG",
+    "sanitizedSymbol": "BUG_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230463",
+    "lockerAddress": "0x4E12c913eA0E6cC0c2e52FD7283fd25033A0eadF"
+  },
+  "clankerInfo": null
+}

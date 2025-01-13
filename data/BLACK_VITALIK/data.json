@@ -1,0 +1,22 @@
+{
+  "name": "Black Vitalik",
+  "symbol": "Black Vitalik",
+  "decimals": 18,
+  "description": "Black Vitalik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Vitalik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Vitalik",
+  "addresses": {
+    "8453": "0x1e45a92a708c275f233d10e299f27292e902494e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Vitalik",
+    "sanitizedSymbol": "BLACK_VITALIK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223020",
+    "lockerAddress": "0x07e3ceE7854b1476907cC3F50De66114E811f7a3"
+  },
+  "clankerInfo": null
+}

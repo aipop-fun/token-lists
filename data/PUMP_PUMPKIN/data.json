@@ -1,0 +1,22 @@
+{
+  "name": "pump pumpkin",
+  "symbol": "pump pumpkin",
+  "decimals": 18,
+  "description": "pump pumpkin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump%20pumpkin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump pumpkin",
+  "addresses": {
+    "8453": "0x17117eb69067c55c2e63d01bd74e8ea8745b1106"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump pumpkin",
+    "sanitizedSymbol": "PUMP_PUMPKIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdb2bbe02f192908D8904723f99f6447e0a83416C",
+    "lpNftId": "1330350",
+    "lockerAddress": "0x058Ad2995D40bD2EdBCe6F0f4115C6Ae32d0092b"
+  },
+  "clankerInfo": null
+}

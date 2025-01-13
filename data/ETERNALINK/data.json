@@ -1,0 +1,22 @@
+{
+  "name": "EternaLink",
+  "symbol": "EternaLink",
+  "decimals": 18,
+  "description": "EternaLink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EternaLink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EternaLink",
+  "addresses": {
+    "8453": "0x18aff23ac773843105417f09ad5ae9f1893400e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EternaLink",
+    "sanitizedSymbol": "ETERNALINK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199625",
+    "lockerAddress": "0x19f594C91b3d8bD4DaCf04dcDC9e8918A73dF3F6"
+  },
+  "clankerInfo": null
+}

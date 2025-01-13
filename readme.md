@@ -1,4 +1,4 @@
-# Superbridge token lists
+# Aipopfun token lists
 
 We use this repository for accepting token listings on [superbridge.app](https://superbridge.app).
 

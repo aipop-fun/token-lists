@@ -1,0 +1,22 @@
+{
+  "name": "Beeper Dealer",
+  "symbol": "Beeper Dealer",
+  "decimals": 18,
+  "description": "Beeper Dealer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beeper%20Dealer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beeper Dealer",
+  "addresses": {
+    "8453": "0x1515f6a1a9bb234ab21a5a20c086240218f25d8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beeper Dealer",
+    "sanitizedSymbol": "BEEPER_DEALER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x66e75E94eEcCACb8708fA9C2fdF93750d770b0Fb",
+    "lpNftId": "1344005",
+    "lockerAddress": "0x270282D1818c37cA294c2ECABBA1587Ccfc56039"
+  },
+  "clankerInfo": null
+}

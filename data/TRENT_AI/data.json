@@ -1,0 +1,22 @@
+{
+  "name": "Trent.Ai",
+  "symbol": "Trent.Ai",
+  "decimals": 18,
+  "description": "Trent.Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trent.Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trent.Ai",
+  "addresses": {
+    "8453": "0x0ee203afe351c36b904dd41e3c63762a2cc6ec04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trent.Ai",
+    "sanitizedSymbol": "TRENT_AI",
+    "created_at": "2024-12-11T07:41:45.560377",
+    "deployer": "0xC88b8a6362a6DC533DA6421DB4d033dCF0644f5B",
+    "lpNftId": "1414117",
+    "lockerAddress": "0x15967fC3B75071a266CB82171237703Af393Ea17"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WANKA",
+  "symbol": "WANKA",
+  "decimals": 18,
+  "description": "WANKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WANKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WANKA",
+  "addresses": {
+    "8453": "0x19ddce7e9d07594b711d19d77207b23e67d77cc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WANKA",
+    "sanitizedSymbol": "WANKA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x44f6498D1403321890F3f2917E00F22dBDE3577a",
+    "lpNftId": "1228220",
+    "lockerAddress": "0x6d941DAE5863CD6B1f4dCDA141A298eD9bd7E194"
+  },
+  "clankerInfo": null
+}

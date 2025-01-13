@@ -1,0 +1,22 @@
+{
+  "name": "cheese CTO",
+  "symbol": "cheese CTO",
+  "decimals": 18,
+  "description": "cheese CTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cheese%20CTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cheese CTO",
+  "addresses": {
+    "8453": "0x33a941b284ad90695cf6df4f42da555d51524a5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cheese CTO",
+    "sanitizedSymbol": "CHEESE_CTO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x20412b398afBbb09231f7b9F23Ca34ebeA06e8fB",
+    "lpNftId": "1253345",
+    "lockerAddress": "0x56060137aF7B91a6D81793415C8F69f2D91c055f"
+  },
+  "clankerInfo": null
+}

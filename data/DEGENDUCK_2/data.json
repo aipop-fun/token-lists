@@ -1,0 +1,22 @@
+{
+  "name": "DegenDuck",
+  "symbol": "DegenDuck",
+  "decimals": 18,
+  "description": "DegenDuck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenDuck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenDuck",
+  "addresses": {
+    "8453": "0x37175612d165bb583651ce7f8c28febf5a0387f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenDuck",
+    "sanitizedSymbol": "DEGENDUCK_2",
+    "created_at": "2024-12-11T15:32:36.001063",
+    "deployer": "0x7eF99f5c56961e1Ea56B8d79e2F70F22C96Ea41B",
+    "lpNftId": "1421015",
+    "lockerAddress": "0x914E359f750c0D595Be1DF1A6f4cC93a33B8a1E7"
+  },
+  "clankerInfo": null
+}

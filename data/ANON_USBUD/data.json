@@ -1,0 +1,22 @@
+{
+  "name": "anon usbud",
+  "symbol": "anon usbud",
+  "decimals": 18,
+  "description": "anon usbud is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anon%20usbud",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anon usbud",
+  "addresses": {
+    "8453": "0x299d46066d61993ef67771dc50cda897d18641cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anon usbud",
+    "sanitizedSymbol": "ANON_USBUD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220836",
+    "lockerAddress": "0x15629390266c96160CB2A0a086025bC82859b6B4"
+  },
+  "clankerInfo": null
+}

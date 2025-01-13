@@ -1,0 +1,22 @@
+{
+  "name": "blastcaster",
+  "symbol": "blastcaster",
+  "decimals": 18,
+  "description": "blastcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=blastcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "blastcaster",
+  "addresses": {
+    "8453": "0x237bee8b9c1e1f176c3f122df46788e3ae1a936f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "blastcaster",
+    "sanitizedSymbol": "BLASTCASTER",
+    "created_at": "2024-12-10T11:09:43.003195",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1400113",
+    "lockerAddress": "0x445ca5c2bbc057cba602B5B10D01CF6044608AA7"
+  },
+  "clankerInfo": null
+}

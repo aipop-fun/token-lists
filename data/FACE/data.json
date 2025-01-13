@@ -1,0 +1,22 @@
+{
+  "name": "face",
+  "symbol": "face",
+  "decimals": 18,
+  "description": "face is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=face",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "face",
+  "addresses": {
+    "8453": "0x1dd1e9a7676b1857c0ad5072b078e746e3ffa7fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "face",
+    "sanitizedSymbol": "FACE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3e056F3F58BeE0368cfF587010C3917F01B9E572",
+    "lpNftId": "1319381",
+    "lockerAddress": "0xf0AFf403A4e33f26DFE9ce7B957921f1FF47ec95"
+  },
+  "clankerInfo": null
+}

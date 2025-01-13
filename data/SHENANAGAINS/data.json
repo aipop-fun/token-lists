@@ -1,0 +1,22 @@
+{
+  "name": "Shenanagains",
+  "symbol": "Shenanagains",
+  "decimals": 18,
+  "description": "Shenanagains is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shenanagains",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shenanagains",
+  "addresses": {
+    "8453": "0x3b0f6b48e1b53db69f6d1b6e815b77ee67ea9011"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shenanagains",
+    "sanitizedSymbol": "SHENANAGAINS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124990",
+    "lockerAddress": "0xa99469CA9224B6EfAf833d18E37cf756603083D2"
+  },
+  "clankerInfo": null
+}

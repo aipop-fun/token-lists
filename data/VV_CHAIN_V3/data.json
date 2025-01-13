@@ -1,0 +1,22 @@
+{
+  "name": "VV CHAIN V3",
+  "symbol": "VV CHAIN V3",
+  "decimals": 18,
+  "description": "VV CHAIN V3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VV%20CHAIN%20V3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VV CHAIN V3",
+  "addresses": {
+    "8453": "0x17be0895a9d4de2f0985b94fe321d9f3c72ddbbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VV CHAIN V3",
+    "sanitizedSymbol": "VV_CHAIN_V3",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195493",
+    "lockerAddress": "0xaB4B6A068fFf3113D3c5316e8aC03de5E9C72cCc"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SPAMMY",
+  "symbol": "SPAMMY",
+  "decimals": 18,
+  "description": "SPAMMY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPAMMY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPAMMY",
+  "addresses": {
+    "8453": "0x332c72d8c1748176bafd4f2782d987fd5e121fc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPAMMY",
+    "sanitizedSymbol": "SPAMMY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8aaeF3C365f90318d15944587D1D3d842e16565A",
+    "lpNftId": "1336021",
+    "lockerAddress": "0x93875412248DDF9922b51138e967A229dE18cDf4"
+  },
+  "clankerInfo": null
+}

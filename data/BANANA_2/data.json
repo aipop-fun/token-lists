@@ -1,0 +1,22 @@
+{
+  "name": "Banana",
+  "symbol": "Banana",
+  "decimals": 18,
+  "description": "Banana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banana",
+  "addresses": {
+    "8453": "0x0954db1d6831e563645fb3d5c3d93c7712fb5416"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banana",
+    "sanitizedSymbol": "BANANA_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0d3739232Ed717301BC38d97ecff40B2e5146da3",
+    "lpNftId": "1253403",
+    "lockerAddress": "0x283E89b7EB980892248B1fd590Db09B8EAb41059"
+  },
+  "clankerInfo": null
+}

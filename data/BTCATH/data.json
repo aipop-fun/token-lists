@@ -1,0 +1,22 @@
+{
+  "name": "BTCATH",
+  "symbol": "BTCATH",
+  "decimals": 18,
+  "description": "BTCATH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTCATH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTCATH",
+  "addresses": {
+    "8453": "0x2abd9c255949ef112d8b6e102a415fca4c63d22a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTCATH",
+    "sanitizedSymbol": "BTCATH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD9e10135beE11A553A4d947EfAbCb56892b1eE1C",
+    "lpNftId": "1330180",
+    "lockerAddress": "0xD845B35249bA016B743e9FD4FcF4da29e56E52Fd"
+  },
+  "clankerInfo": null
+}

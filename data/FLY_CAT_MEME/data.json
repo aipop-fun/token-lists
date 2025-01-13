@@ -1,0 +1,22 @@
+{
+  "name": "Fly Cat Meme",
+  "symbol": "Fly Cat Meme",
+  "decimals": 18,
+  "description": "Fly Cat Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fly%20Cat%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fly Cat Meme",
+  "addresses": {
+    "8453": "0x1dabb3c726a44617a40feef9a4f0ed26edcc3169"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fly Cat Meme",
+    "sanitizedSymbol": "FLY_CAT_MEME",
+    "created_at": "2024-12-12T05:18:23.020141",
+    "deployer": "0xB97FD7036E9C8a24A3A8C1e541678d27aFE477ce",
+    "lpNftId": "1429353",
+    "lockerAddress": "0x4E72240309F5555E152161Fa68Bd033086c30F9c"
+  },
+  "clankerInfo": null
+}

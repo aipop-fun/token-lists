@@ -1,0 +1,22 @@
+{
+  "name": "dodegen",
+  "symbol": "dodegen",
+  "decimals": 18,
+  "description": "dodegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dodegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dodegen",
+  "addresses": {
+    "8453": "0x318265ebec922c76e6151355b94d244c32939780"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dodegen",
+    "sanitizedSymbol": "DODEGEN",
+    "created_at": "2024-12-11T12:31:03.574787",
+    "deployer": "0x74bA4F0A218B1c7722e6654133dA206C277263Da",
+    "lpNftId": "1418065",
+    "lockerAddress": "0xF7f28cE39588079D5B898eDddbb29F3b20b6aa9e"
+  },
+  "clankerInfo": null
+}

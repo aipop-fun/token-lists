@@ -1,0 +1,22 @@
+{
+  "name": "Puppet",
+  "symbol": "Puppet",
+  "decimals": 18,
+  "description": "Puppet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Puppet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Puppet",
+  "addresses": {
+    "8453": "0x09deaf311bf3bcc51b953479dedb81c8fb13a791"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Puppet",
+    "sanitizedSymbol": "PUPPET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123587",
+    "lockerAddress": "0x6FC3FB571796bF3314d407096d338e9442B7e736"
+  },
+  "clankerInfo": null
+}

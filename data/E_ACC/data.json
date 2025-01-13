@@ -1,0 +1,22 @@
+{
+  "name": "e/acc",
+  "symbol": "e/acc",
+  "decimals": 18,
+  "description": "e/acc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=e%2Facc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "e/acc",
+  "addresses": {
+    "8453": "0x0913f749aca0551cbd77ab2cc6302b38a67a3519"
+  },
+  "tokenInfo": {
+    "originalSymbol": "e/acc",
+    "sanitizedSymbol": "E_ACC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF1b3447e815642308B3867D7175CEab8ECEf8581",
+    "lpNftId": "1322385",
+    "lockerAddress": "0xC6989724Fa815B45Ffb7Bec4d1cB2f42A9B57de5"
+  },
+  "clankerInfo": null
+}

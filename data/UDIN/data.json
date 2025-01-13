@@ -1,0 +1,22 @@
+{
+  "name": "UDIN",
+  "symbol": "UDIN",
+  "decimals": 18,
+  "description": "UDIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UDIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UDIN",
+  "addresses": {
+    "8453": "0x14642a0c99e89247a3f17a5db61c695a3cb9bf01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UDIN",
+    "sanitizedSymbol": "UDIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcAD1721Bd0AF83E08e89037DE805009596963B7C",
+    "lpNftId": "1327488",
+    "lockerAddress": "0x1A417A4771C69e2aE1400D2A91771EE20c5a5113"
+  },
+  "clankerInfo": null
+}

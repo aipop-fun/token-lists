@@ -1,0 +1,22 @@
+{
+  "name": "Ice King",
+  "symbol": "Ice King",
+  "decimals": 18,
+  "description": "Ice King is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ice%20King",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ice King",
+  "addresses": {
+    "8453": "0x016ace2a80eab83740ec5beff87fb03927709d39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ice King",
+    "sanitizedSymbol": "ICE_KING_1",
+    "created_at": "2024-12-12T20:44:24.465685",
+    "deployer": "0x3f03b815C9af33cE456503f0d753b04FC7f2CE78",
+    "lpNftId": "1442613",
+    "lockerAddress": "0x5F950dC4c435b351a7C58f6bcaC88D4729588FA1"
+  },
+  "clankerInfo": null
+}

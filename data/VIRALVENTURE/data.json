@@ -1,0 +1,22 @@
+{
+  "name": "ViralVenture",
+  "symbol": "ViralVenture",
+  "decimals": 18,
+  "description": "ViralVenture is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ViralVenture",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ViralVenture",
+  "addresses": {
+    "8453": "0x1798a57f1bc9f778c4d3c79b0fa7f77aa92979ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ViralVenture",
+    "sanitizedSymbol": "VIRALVENTURE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211221",
+    "lockerAddress": "0xf6dE4C07eb96f47282C22e12DaECb2955403aa16"
+  },
+  "clankerInfo": null
+}

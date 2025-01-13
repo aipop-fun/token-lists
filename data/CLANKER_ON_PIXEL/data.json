@@ -1,0 +1,22 @@
+{
+  "name": "Clanker on Pixel",
+  "symbol": "Clanker on Pixel",
+  "decimals": 18,
+  "description": "Clanker on Pixel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20on%20Pixel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker on Pixel",
+  "addresses": {
+    "8453": "0x06ba43ac1ee57ab2206c6fe1da5c14ca2030c449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker on Pixel",
+    "sanitizedSymbol": "CLANKER_ON_PIXEL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235074",
+    "lockerAddress": "0x3a30871d8173A736Bd7EB53C6359CB868BC830cf"
+  },
+  "clankerInfo": null
+}

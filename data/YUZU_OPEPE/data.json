@@ -1,0 +1,22 @@
+{
+  "name": "YUZU OPEPE",
+  "symbol": "YUZU OPEPE",
+  "decimals": 18,
+  "description": "YUZU OPEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUZU%20OPEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUZU OPEPE",
+  "addresses": {
+    "8453": "0x0f4e56852a4a68fc9e5e91a17de5fc7501bc9e63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUZU OPEPE",
+    "sanitizedSymbol": "YUZU_OPEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaee9df4554DF4DDB473E1713eC0BB2eAD5f8fC97",
+    "lpNftId": "1308956",
+    "lockerAddress": "0x6E59a2957F851A579f668F8a132a9aa0Ad17ff79"
+  },
+  "clankerInfo": null
+}

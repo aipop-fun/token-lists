@@ -1,0 +1,22 @@
+{
+  "name": "ManoBrown",
+  "symbol": "ManoBrown",
+  "decimals": 18,
+  "description": "ManoBrown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ManoBrown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ManoBrown",
+  "addresses": {
+    "8453": "0x19cc069bae095d589e72eba5b9ddf35bce1af9fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ManoBrown",
+    "sanitizedSymbol": "MANOBROWN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x13A63Fe0b58464df382e470D439601F0237fA89a",
+    "lpNftId": "1356802",
+    "lockerAddress": "0x4E4b1e2426D01919fDf360bA6675ba53F1e460f4"
+  },
+  "clankerInfo": null
+}

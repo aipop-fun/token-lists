@@ -1,0 +1,22 @@
+{
+  "name": "GOGLZ SONIC",
+  "symbol": "GOGLZ SONIC",
+  "decimals": 18,
+  "description": "GOGLZ SONIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOGLZ%20SONIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOGLZ SONIC",
+  "addresses": {
+    "8453": "0x3d024d46d58403811197432202caa614b25bf93c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOGLZ SONIC",
+    "sanitizedSymbol": "GOGLZ_SONIC",
+    "created_at": "2024-12-10T13:45:25.739013",
+    "deployer": "0xA2635d4Bcaa0FF8e3f4e004419399Cdd2bB26551",
+    "lpNftId": "1401559",
+    "lockerAddress": "0xB7767C5dD881671E2409FC87bceFf70308C69f0C"
+  },
+  "clankerInfo": null
+}

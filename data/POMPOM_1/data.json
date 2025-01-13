@@ -1,0 +1,22 @@
+{
+  "name": "POMPOM",
+  "symbol": "POMPOM",
+  "decimals": 18,
+  "description": "POMPOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POMPOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POMPOM",
+  "addresses": {
+    "8453": "0x1e0cc7f95e038ab3a16652cc76bddca6f0270f52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POMPOM",
+    "sanitizedSymbol": "POMPOM_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x38450324dC7EF00A242486E66B0B4e3CD4d43c27",
+    "lpNftId": "1353273",
+    "lockerAddress": "0xf15137f6Cf64c54D22952a63cDE4E920e03F0809"
+  },
+  "clankerInfo": null
+}

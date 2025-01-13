@@ -1,0 +1,22 @@
+{
+  "name": "Swamp Token",
+  "symbol": "Swamp Token",
+  "decimals": 18,
+  "description": "Swamp Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Swamp%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Swamp Token",
+  "addresses": {
+    "8453": "0x280405e6310eb19084950b91bb42f8d621bcfe22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Swamp Token",
+    "sanitizedSymbol": "SWAMP_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222399",
+    "lockerAddress": "0xCBfeFEB7E6825B44296Fd4Ab4Ff6C789F2f97bAa"
+  },
+  "clankerInfo": null
+}

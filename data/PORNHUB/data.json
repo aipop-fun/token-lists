@@ -1,0 +1,22 @@
+{
+  "name": "pornhub",
+  "symbol": "pornhub",
+  "decimals": 18,
+  "description": "pornhub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pornhub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pornhub",
+  "addresses": {
+    "8453": "0x3dc15682fede226db58ab5c9749f13ba6c52bfa7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pornhub",
+    "sanitizedSymbol": "PORNHUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x042273183818FF50cAE2cD5883AB2c7ffD421b8b",
+    "lpNftId": "1310679",
+    "lockerAddress": "0x8b0c6760574478f634a96a268582c56997976E83"
+  },
+  "clankerInfo": null
+}

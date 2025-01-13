@@ -1,0 +1,22 @@
+{
+  "name": "ShrekoTON",
+  "symbol": "ShrekoTON",
+  "decimals": 18,
+  "description": "ShrekoTON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShrekoTON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShrekoTON",
+  "addresses": {
+    "8453": "0x27651c2bf1868eb25bd922aa63ef4563e18b8518"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShrekoTON",
+    "sanitizedSymbol": "SHREKOTON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4C265b66cAACffba6Ef1A01a007f1dd5C7e2Dbd0",
+    "lpNftId": "1287499",
+    "lockerAddress": "0xdd1f96526867B2b9414f425A12Dbc0D4c52Ef13D"
+  },
+  "clankerInfo": null
+}

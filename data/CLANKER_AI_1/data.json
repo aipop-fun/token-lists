@@ -1,0 +1,22 @@
+{
+  "name": "Clanker AI",
+  "symbol": "Clanker AI",
+  "decimals": 18,
+  "description": "Clanker AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker AI",
+  "addresses": {
+    "8453": "0x3b6e5f909f2eef5641aae48cad8e1f6f0e2cc69a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker AI",
+    "sanitizedSymbol": "CLANKER_AI_1",
+    "created_at": "2024-12-12T12:58:37.823199",
+    "deployer": "0x74bA4F0A218B1c7722e6654133dA206C277263Da",
+    "lpNftId": "1434370",
+    "lockerAddress": "0x7Aa193691F3fa76a216CD3E6dcC3445D8fA295bE"
+  },
+  "clankerInfo": null
+}

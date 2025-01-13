@@ -1,0 +1,22 @@
+{
+  "name": "Jackbot",
+  "symbol": "Jackbot",
+  "decimals": 18,
+  "description": "Jackbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jackbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jackbot",
+  "addresses": {
+    "8453": "0x13f712e18df82957cbb9a53bad20cb2020b0bc8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jackbot",
+    "sanitizedSymbol": "JACKBOT",
+    "created_at": "2024-12-10T14:06:58.888256",
+    "deployer": "0x1bE287cd72ACAf5D3EaBc44B732bd71BbA4e30F6",
+    "lpNftId": "1401693",
+    "lockerAddress": "0x84f9a1bd39C2fC94d806f9B9eB6f3A2072DC3c69"
+  },
+  "clankerInfo": null
+}

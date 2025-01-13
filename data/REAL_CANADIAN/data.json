@@ -1,0 +1,22 @@
+{
+  "name": "Real Canadian",
+  "symbol": "Real Canadian",
+  "decimals": 18,
+  "description": "Real Canadian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Real%20Canadian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Real Canadian",
+  "addresses": {
+    "8453": "0x07cf10c80f41e847885c2cd6563c14bc7662245b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Real Canadian",
+    "sanitizedSymbol": "REAL_CANADIAN",
+    "created_at": "2024-12-09T10:26:52.82733",
+    "deployer": "0x57ce6c12a101c41e790744413F4f5408Ac64D8c6",
+    "lpNftId": "1385832",
+    "lockerAddress": "0xDcdBa06ae15fDCd520B290a32D0b977947449C8b"
+  },
+  "clankerInfo": null
+}

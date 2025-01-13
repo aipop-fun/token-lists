@@ -1,0 +1,22 @@
+{
+  "name": "Blockchain Bandits",
+  "symbol": "Blockchain Bandits",
+  "decimals": 18,
+  "description": "Blockchain Bandits is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blockchain%20Bandits",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blockchain Bandits",
+  "addresses": {
+    "8453": "0x24b1318ee0dc8ded3300b95ccf67b4ea335be303"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blockchain Bandits",
+    "sanitizedSymbol": "BLOCKCHAIN_BANDITS",
+    "created_at": "2024-12-11T01:22:55.319801",
+    "deployer": "0x9CF7036aef81dF2C0e48De0bb2E32270EE3283D5",
+    "lpNftId": "1409601",
+    "lockerAddress": "0x2B33353cf4f965C07f280a12cd13e7D2aE44c2e0"
+  },
+  "clankerInfo": null
+}

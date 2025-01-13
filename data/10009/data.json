@@ -1,0 +1,22 @@
+{
+  "name": "$10009",
+  "symbol": "$10009",
+  "decimals": 18,
+  "description": "$10009 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%2410009",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$10009",
+  "addresses": {
+    "8453": "0x1a478b8185520d5cfd794b7356f9fc97b861eac2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$10009",
+    "sanitizedSymbol": "10009",
+    "created_at": "2024-12-12T05:20:21.443125",
+    "deployer": "0x79eDb125f22C4085A11DAACbb5Eaa8507A3759AE",
+    "lpNftId": "1429360",
+    "lockerAddress": "0x8a754291fFFc69a9d3414e66fbDf770B99D1Ab01"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "anonfunbot",
+  "symbol": "anonfunbot",
+  "decimals": 18,
+  "description": "anonfunbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonfunbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonfunbot",
+  "addresses": {
+    "8453": "0x2ea9bb4f78b21a89cd94235fca1ac02f5369ea87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonfunbot",
+    "sanitizedSymbol": "ANONFUNBOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237083",
+    "lockerAddress": "0x2F6dd6d09d57C239e2fBBAEC68FBdE8A9Ef5D781"
+  },
+  "clankerInfo": null
+}

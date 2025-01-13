@@ -1,0 +1,22 @@
+{
+  "name": "FakeD Money Snipres",
+  "symbol": "FakeD Money Snipres",
+  "decimals": 18,
+  "description": "FakeD Money Snipres is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FakeD%20Money%20Snipres",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FakeD Money Snipres",
+  "addresses": {
+    "8453": "0x371f211ec5847e8df4db822e3b842cdefd8eac8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FakeD Money Snipres",
+    "sanitizedSymbol": "FAKED_MONEY_SNIPRES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2d8679EF8155596D4759E8328394cDd01c31230B",
+    "lpNftId": "1283783",
+    "lockerAddress": "0x271F84d233694c00CFDCe2a1b7C69ac80700206A"
+  },
+  "clankerInfo": null
+}

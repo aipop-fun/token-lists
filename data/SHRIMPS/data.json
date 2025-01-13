@@ -1,0 +1,22 @@
+{
+  "name": "Shrimps",
+  "symbol": "Shrimps",
+  "decimals": 18,
+  "description": "Shrimps is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shrimps",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shrimps",
+  "addresses": {
+    "8453": "0x26d6e2a71f3c9ebe58b0829eda2d183387244a82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shrimps",
+    "sanitizedSymbol": "SHRIMPS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f15426b3CC12bF69772A60cEE03fA2DA051Bf6D",
+    "lpNftId": "1327586",
+    "lockerAddress": "0xA3F564157cD808767F011e5e528c253ad17b9fc1"
+  },
+  "clankerInfo": null
+}

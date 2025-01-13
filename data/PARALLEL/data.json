@@ -1,0 +1,22 @@
+{
+  "name": "PARALLEL",
+  "symbol": "PARALLEL",
+  "decimals": 18,
+  "description": "PARALLEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PARALLEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PARALLEL",
+  "addresses": {
+    "8453": "0x2df09ec90a08f8b37776312f273a5de70e1b69e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PARALLEL",
+    "sanitizedSymbol": "PARALLEL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232057",
+    "lockerAddress": "0xe400A999eb044974Da703bF40B19DD9E82220620"
+  },
+  "clankerInfo": null
+}

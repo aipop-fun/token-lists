@@ -1,0 +1,22 @@
+{
+  "name": "No To Crypto Tax",
+  "symbol": "No To Crypto Tax",
+  "decimals": 18,
+  "description": "No To Crypto Tax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20To%20Crypto%20Tax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No To Crypto Tax",
+  "addresses": {
+    "8453": "0x25a4990cecc5e2fa814f1844b8dc44c4c78668cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No To Crypto Tax",
+    "sanitizedSymbol": "NO_TO_CRYPTO_TAX",
+    "created_at": "2024-12-10T22:58:19.179672",
+    "deployer": "0x9C35739128867BfB69fDfC6Df6386Ee6C4c4cceD",
+    "lpNftId": "1408194",
+    "lockerAddress": "0x80B0E801d53721D7566cd5C5B566510896477C00"
+  },
+  "clankerInfo": null
+}

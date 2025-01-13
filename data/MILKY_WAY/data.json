@@ -1,0 +1,22 @@
+{
+  "name": "Milky Way",
+  "symbol": "Milky Way",
+  "decimals": 18,
+  "description": "Milky Way is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Milky%20Way",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Milky Way",
+  "addresses": {
+    "8453": "0x11f3a1c26baff23a18c25c0883b19583aa31887c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Milky Way",
+    "sanitizedSymbol": "MILKY_WAY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194023",
+    "lockerAddress": "0x776780d65c342CAf7C8E9600ccF90DFf1CBA0b78"
+  },
+  "clankerInfo": null
+}

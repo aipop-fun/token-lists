@@ -1,0 +1,22 @@
+{
+  "name": "PAYVERTISE",
+  "symbol": "PAYVERTISE",
+  "decimals": 18,
+  "description": "PAYVERTISE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAYVERTISE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAYVERTISE",
+  "addresses": {
+    "8453": "0x32ec9b0d90030a228a6c4989e69805ce0ee07315"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAYVERTISE",
+    "sanitizedSymbol": "PAYVERTISE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226537",
+    "lockerAddress": "0x4a639A3011025B4274085673AF529F9f206DF1E5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SupercastOG",
+  "symbol": "SupercastOG",
+  "decimals": 18,
+  "description": "SupercastOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SupercastOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SupercastOG",
+  "addresses": {
+    "8453": "0x07c79a9f25aab70ce31879ca06556128a8e75f07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SupercastOG",
+    "sanitizedSymbol": "SUPERCASTOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5b8eba0B8fAfa9d92Ec667d7440D5ac3E9D574cE",
+    "lpNftId": "1308917",
+    "lockerAddress": "0x4A510867b88776AbCD615B3F0964f4603fffF4c0"
+  },
+  "clankerInfo": null
+}

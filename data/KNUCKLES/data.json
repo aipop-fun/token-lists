@@ -1,0 +1,22 @@
+{
+  "name": "Knuckles",
+  "symbol": "Knuckles",
+  "decimals": 18,
+  "description": "Knuckles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Knuckles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Knuckles",
+  "addresses": {
+    "8453": "0x37162b16e0b27d62cb60a8a3e85f4bb0ba13f192"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Knuckles",
+    "sanitizedSymbol": "KNUCKLES",
+    "created_at": "2024-12-11T16:39:56.200422",
+    "deployer": "0xEFEE404D58aD7614E894E55DF4E0434Eea985CFA",
+    "lpNftId": "1421973",
+    "lockerAddress": "0x075818c4Dd0486461Ce3Ce8BCAa0B201c4eeCfA0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eye",
+  "symbol": "eye",
+  "decimals": 18,
+  "description": "eye is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eye",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eye",
+  "addresses": {
+    "8453": "0x08828e6d258f16f555470e483267c2848fe9d290"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eye",
+    "sanitizedSymbol": "EYE",
+    "created_at": "2024-12-11T15:35:03.610514",
+    "deployer": "0x76b429c6dDc43578775183d5962317b059965827",
+    "lpNftId": "1421080",
+    "lockerAddress": "0xEA297CE572ff6a809695DFA5FbC8E8541FdD83ea"
+  },
+  "clankerInfo": null
+}

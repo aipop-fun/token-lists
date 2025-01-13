@@ -1,0 +1,22 @@
+{
+  "name": "Alpha Channel",
+  "symbol": "Alpha Channel",
+  "decimals": 18,
+  "description": "Alpha Channel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alpha%20Channel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alpha Channel",
+  "addresses": {
+    "8453": "0x27ae7aff4a44554b0c7847a4da6c9f6095445c5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alpha Channel",
+    "sanitizedSymbol": "ALPHA_CHANNEL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcEeeC734ECb02377937446d1a38130d076bAAd74",
+    "lpNftId": "1319630",
+    "lockerAddress": "0x507D7A711f043C1b289B03dD593EC8AaC198D116"
+  },
+  "clankerInfo": null
+}

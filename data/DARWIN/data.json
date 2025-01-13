@@ -1,0 +1,22 @@
+{
+  "name": "Darwin",
+  "symbol": "Darwin",
+  "decimals": 18,
+  "description": "Darwin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Darwin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Darwin",
+  "addresses": {
+    "8453": "0x037e562988d923077414e4d879323cc5905c26fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Darwin",
+    "sanitizedSymbol": "DARWIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2d461a79229cf9D45d7d055769d797F6A5e77A17",
+    "lpNftId": "1303675",
+    "lockerAddress": "0x27E8199BCd87A76C47D16140a1912CE8745e0752"
+  },
+  "clankerInfo": null
+}

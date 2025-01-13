@@ -1,0 +1,22 @@
+{
+  "name": "SETTINGS",
+  "symbol": "SETTINGS",
+  "decimals": 18,
+  "description": "SETTINGS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SETTINGS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SETTINGS",
+  "addresses": {
+    "8453": "0x22b9aac034cdf610fde178576c3921fef7b2c00c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SETTINGS",
+    "sanitizedSymbol": "SETTINGS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x049c0cAcB780B66cD421d5179ccC29d0100bE9Ac",
+    "lpNftId": "1252294",
+    "lockerAddress": "0x8131D0b978965b7488E57FDbC2DE7334E4514833"
+  },
+  "clankerInfo": null
+}

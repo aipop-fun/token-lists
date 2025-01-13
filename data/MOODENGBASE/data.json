@@ -1,0 +1,22 @@
+{
+  "name": "MOODENGBASE",
+  "symbol": "MOODENGBASE",
+  "decimals": 18,
+  "description": "MOODENGBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOODENGBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOODENGBASE",
+  "addresses": {
+    "8453": "0x3f8eb7f3c4749ebf78cf67590d840fff24016f53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOODENGBASE",
+    "sanitizedSymbol": "MOODENGBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaEaCab7CF6605fd77DceB1854810A9ddC1b95f1b",
+    "lpNftId": "1328000",
+    "lockerAddress": "0x03C6Ca541E2177DD8b07578ce6B420DA7910fc33"
+  },
+  "clankerInfo": null
+}

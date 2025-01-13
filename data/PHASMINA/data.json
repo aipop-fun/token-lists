@@ -1,0 +1,22 @@
+{
+  "name": "PHASMINA",
+  "symbol": "PHASMINA",
+  "decimals": 18,
+  "description": "PHASMINA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PHASMINA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PHASMINA",
+  "addresses": {
+    "8453": "0x07320f60868e37017092727f41edbd2bce6e956a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PHASMINA",
+    "sanitizedSymbol": "PHASMINA",
+    "created_at": "2024-12-09T01:36:25.757692",
+    "deployer": "0xf4D0EEAb4A106163B6A37D39D3cf60399c94d23d",
+    "lpNftId": "1377526",
+    "lockerAddress": "0x6E518796ADcB9927E41470fB57774F40C8777132"
+  },
+  "clankerInfo": null
+}

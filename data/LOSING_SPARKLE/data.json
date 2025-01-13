@@ -1,0 +1,22 @@
+{
+  "name": "Losing Sparkle",
+  "symbol": "Losing Sparkle",
+  "decimals": 18,
+  "description": "Losing Sparkle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Losing%20Sparkle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Losing Sparkle",
+  "addresses": {
+    "8453": "0x3727ea68baf456117abbb6c7f2461ed835dff2fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Losing Sparkle",
+    "sanitizedSymbol": "LOSING_SPARKLE",
+    "created_at": "2024-12-09T16:02:59.650976",
+    "deployer": "0xA7071299Be9dE85A7ac0C170E7f129856b7aDc9F",
+    "lpNftId": "1388917",
+    "lockerAddress": "0x18Bb1F5C03d970aA1A48b54Ab30e10A8105aD2E6"
+  },
+  "clankerInfo": null
+}

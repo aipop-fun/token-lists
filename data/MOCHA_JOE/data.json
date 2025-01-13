@@ -1,0 +1,22 @@
+{
+  "name": "Mocha Joe",
+  "symbol": "Mocha Joe",
+  "decimals": 18,
+  "description": "Mocha Joe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mocha%20Joe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mocha Joe",
+  "addresses": {
+    "8453": "0x18bbb8e29c4dc27ec283bf043e6c840d6745bede"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mocha Joe",
+    "sanitizedSymbol": "MOCHA_JOE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x354d4D759c49094f60D537bfD7177c05b70c20cC",
+    "lpNftId": "1333747",
+    "lockerAddress": "0x656604C0260C3f8B837D571ad8e1f23b39b457dC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Neuranova",
+  "symbol": "Neuranova",
+  "decimals": 18,
+  "description": "Neuranova is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neuranova",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neuranova",
+  "addresses": {
+    "8453": "0x0e76998b68260348812ce7a80e892ed033a459aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neuranova",
+    "sanitizedSymbol": "NEURANOVA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xecb00427816E652a94c6D85406D1C3904909F421",
+    "lpNftId": "1283343",
+    "lockerAddress": "0xae07C6dAFBF70ae4D0fAF80CC4071854bdC5F735"
+  },
+  "clankerInfo": null
+}

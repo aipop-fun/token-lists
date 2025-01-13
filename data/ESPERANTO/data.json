@@ -1,0 +1,22 @@
+{
+  "name": "Esperanto",
+  "symbol": "Esperanto",
+  "decimals": 18,
+  "description": "Esperanto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Esperanto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Esperanto",
+  "addresses": {
+    "8453": "0x171f86577341079bc2b59e3fc53f0956b7501122"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Esperanto",
+    "sanitizedSymbol": "ESPERANTO",
+    "created_at": "2024-12-09T07:29:02.057059",
+    "deployer": "0x67Aa06d9FBDD6d77A921dD9f12560D524dd92301",
+    "lpNftId": "1384402",
+    "lockerAddress": "0x7C674f142111c7C6277A19faB22b1966DD5B7b79"
+  },
+  "clankerInfo": null
+}

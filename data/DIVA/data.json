@@ -1,0 +1,22 @@
+{
+  "name": "DIVA",
+  "symbol": "DIVA",
+  "decimals": 18,
+  "description": "DIVA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DIVA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DIVA",
+  "addresses": {
+    "8453": "0x1b9db77407c25c5067e16c0a919173275c917a06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DIVA",
+    "sanitizedSymbol": "DIVA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x50024f00E334d26e9973D9974b372A63C04636C1",
+    "lpNftId": "1323537",
+    "lockerAddress": "0xD96636B2F0Fd672Dc1373047a9684375C594488a"
+  },
+  "clankerInfo": null
+}

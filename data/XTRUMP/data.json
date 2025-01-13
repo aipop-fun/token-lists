@@ -1,0 +1,22 @@
+{
+  "name": "xTrump",
+  "symbol": "xTrump",
+  "decimals": 18,
+  "description": "xTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xTrump",
+  "addresses": {
+    "8453": "0x0ccde48c96304caec545cc459bed34ad498fe7b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xTrump",
+    "sanitizedSymbol": "XTRUMP",
+    "created_at": "2024-12-12T01:44:02.082846",
+    "deployer": "0x18a372f4BCC952f205549837c116f61a43C59e1d",
+    "lpNftId": "1428476",
+    "lockerAddress": "0x671497Fd3292B5b802796878C41A6D8E4a961F54"
+  },
+  "clankerInfo": null
+}

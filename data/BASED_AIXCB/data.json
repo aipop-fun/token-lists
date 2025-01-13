@@ -1,0 +1,22 @@
+{
+  "name": "BASED aixCB",
+  "symbol": "BASED aixCB",
+  "decimals": 18,
+  "description": "BASED aixCB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20aixCB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED aixCB",
+  "addresses": {
+    "8453": "0x40870ea110c7866b8cc20ff9f88881b11b6192e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED aixCB",
+    "sanitizedSymbol": "BASED_AIXCB",
+    "created_at": "2024-12-10T00:58:37.084752",
+    "deployer": "0x42b6c6aF011f1B322fAfAEA663De2a608e7b2178",
+    "lpNftId": "1394058",
+    "lockerAddress": "0x3b9C90d9Ebc4a7CBE87FA865290A117450bf21fC"
+  },
+  "clankerInfo": null
+}

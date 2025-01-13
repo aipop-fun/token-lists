@@ -1,0 +1,22 @@
+{
+  "name": "gus",
+  "symbol": "gus",
+  "decimals": 18,
+  "description": "gus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gus",
+  "addresses": {
+    "8453": "0x10c721470b9f7b83b88313160d989f775d380bb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gus",
+    "sanitizedSymbol": "GUS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x877E6E6a3A0e1Df5a7eE7eA868a3DeD38FC1763f",
+    "lpNftId": "1264117",
+    "lockerAddress": "0xA8FDbd898125bC87de1c024a6b7465947DB3CE2E"
+  },
+  "clankerInfo": null
+}

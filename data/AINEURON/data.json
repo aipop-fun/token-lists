@@ -1,0 +1,22 @@
+{
+  "name": "AiNeuron",
+  "symbol": "AiNeuron",
+  "decimals": 18,
+  "description": "AiNeuron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AiNeuron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AiNeuron",
+  "addresses": {
+    "8453": "0x07d0a56edb09d4c621b74feed5f076a3d6553190"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AiNeuron",
+    "sanitizedSymbol": "AINEURON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124691",
+    "lockerAddress": "0x194967b1654f40b345D87238B0A433f56B804ecd"
+  },
+  "clankerInfo": null
+}

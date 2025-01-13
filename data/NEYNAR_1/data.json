@@ -1,0 +1,22 @@
+{
+  "name": "Neynar",
+  "symbol": "Neynar",
+  "decimals": 18,
+  "description": "Neynar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neynar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neynar",
+  "addresses": {
+    "8453": "0x2331c4cb34fe7f62c7439d6230fe282ec9bcc978"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neynar",
+    "sanitizedSymbol": "NEYNAR_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5aC9ce17b773B023D5Ef31757B850D3F608E487D",
+    "lpNftId": "1265163",
+    "lockerAddress": "0x24cce9E56D477EFdCbC52550BC0093237B8dFAc0"
+  },
+  "clankerInfo": null
+}

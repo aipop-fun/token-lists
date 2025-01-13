@@ -1,0 +1,22 @@
+{
+  "name": "StellarByte",
+  "symbol": "StellarByte",
+  "decimals": 18,
+  "description": "StellarByte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StellarByte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StellarByte",
+  "addresses": {
+    "8453": "0x1e4dcbde8f8302fdca3a28dd1237c0e89e1e8448"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StellarByte",
+    "sanitizedSymbol": "STELLARBYTE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD4f73B54D1bc004a4dFc49DC370767d304c2E4Fa",
+    "lpNftId": "1327283",
+    "lockerAddress": "0xDE29681A215bDE2d59D3F5E15A417EFeBB2f2518"
+  },
+  "clankerInfo": null
+}

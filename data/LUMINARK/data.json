@@ -1,0 +1,22 @@
+{
+  "name": "Luminark",
+  "symbol": "Luminark",
+  "decimals": 18,
+  "description": "Luminark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luminark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luminark",
+  "addresses": {
+    "8453": "0x3f197ebd44a08b62b0feff0f31aec7f7b057c93c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luminark",
+    "sanitizedSymbol": "LUMINARK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x32c04Cca25CADE7Fb25f29e0791886CBf79fb1dd",
+    "lpNftId": "1293936",
+    "lockerAddress": "0x6b3862C1D31a242Ac71755579a3a20586ffBd75E"
+  },
+  "clankerInfo": null
+}

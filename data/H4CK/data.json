@@ -1,0 +1,22 @@
+{
+  "name": "H4CK",
+  "symbol": "H4CK",
+  "decimals": 18,
+  "description": "H4CK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=H4CK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "H4CK",
+  "addresses": {
+    "8453": "0x30861a630557eec578ad18487bb91f8fdcdd1b98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "H4CK",
+    "sanitizedSymbol": "H4CK",
+    "created_at": "2024-12-10T15:27:46.291864",
+    "deployer": "0xF6C31e6dA5a1417306df69C5608E59457e9404E9",
+    "lpNftId": "1402635",
+    "lockerAddress": "0x9A0296815b9B4E0F8d61C8De69f9c18C151A532A"
+  },
+  "clankerInfo": null
+}

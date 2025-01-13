@@ -1,0 +1,22 @@
+{
+  "name": "PurrfectClank",
+  "symbol": "PurrfectClank",
+  "decimals": 18,
+  "description": "PurrfectClank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PurrfectClank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PurrfectClank",
+  "addresses": {
+    "8453": "0x1ce61aa10d4c8311e627921aead9d45053bc2a10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PurrfectClank",
+    "sanitizedSymbol": "PURRFECTCLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe20C54BaE4826173346A50E48B78C60FA141d333",
+    "lpNftId": "1284136",
+    "lockerAddress": "0x3e0A5b6F80343586657F806Ea792b8B817081DEa"
+  },
+  "clankerInfo": null
+}

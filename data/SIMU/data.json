@@ -1,0 +1,22 @@
+{
+  "name": "simu",
+  "symbol": "simu",
+  "decimals": 18,
+  "description": "simu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=simu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "simu",
+  "addresses": {
+    "8453": "0x20203a6ef77c5ce66e4d2071ecf6c158ca487783"
+  },
+  "tokenInfo": {
+    "originalSymbol": "simu",
+    "sanitizedSymbol": "SIMU",
+    "created_at": "2024-12-12T04:24:33.498547",
+    "deployer": "0x751814f2fe2Cdf48696621eE133BCad889BB6e8c",
+    "lpNftId": "1429145",
+    "lockerAddress": "0x36ee2dE701325057c9564184c0553D5f653608e2"
+  },
+  "clankerInfo": null
+}

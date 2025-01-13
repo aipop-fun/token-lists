@@ -1,0 +1,22 @@
+{
+  "name": "Naked Yeti Club",
+  "symbol": "Naked Yeti Club",
+  "decimals": 18,
+  "description": "Naked Yeti Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Naked%20Yeti%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Naked Yeti Club",
+  "addresses": {
+    "8453": "0x3ba02b7873ff50296d64c605b6b8cc0ff9162ee3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Naked Yeti Club",
+    "sanitizedSymbol": "NAKED_YETI_CLUB",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x861D6c2cE06CCAD847288d0B3BAC2C024F36629f",
+    "lpNftId": "1279995",
+    "lockerAddress": "0x1Bb10a5c6aaae083156C011663967343B38cbF1b"
+  },
+  "clankerInfo": null
+}

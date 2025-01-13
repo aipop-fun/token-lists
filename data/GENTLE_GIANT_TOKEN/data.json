@@ -1,0 +1,22 @@
+{
+  "name": "Gentle Giant Token",
+  "symbol": "Gentle Giant Token",
+  "decimals": 18,
+  "description": "Gentle Giant Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gentle%20Giant%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gentle Giant Token",
+  "addresses": {
+    "8453": "0x3513cc47450124297dff26ed8c5cd0a7d14c919c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gentle Giant Token",
+    "sanitizedSymbol": "GENTLE_GIANT_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7d847610CD861C9bCFC78b8aA417DDf867dFB73B",
+    "lpNftId": "1287374",
+    "lockerAddress": "0x6DfA0AC28614A8885aB451980097473c8d26E8D8"
+  },
+  "clankerInfo": null
+}

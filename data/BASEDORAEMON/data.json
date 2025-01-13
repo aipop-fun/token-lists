@@ -1,0 +1,22 @@
+{
+  "name": "BaseDoraemon",
+  "symbol": "BaseDoraemon",
+  "decimals": 18,
+  "description": "BaseDoraemon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseDoraemon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseDoraemon",
+  "addresses": {
+    "8453": "0x2a596fb7f58ad7bb68d9a1f5275a3076bdd9c0da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseDoraemon",
+    "sanitizedSymbol": "BASEDORAEMON",
+    "created_at": "2024-12-11T02:34:17.471962",
+    "deployer": "0xFFdd1470d481AA7b7d1149A33c2A1e596fa62995",
+    "lpNftId": "1410831",
+    "lockerAddress": "0x440ac7FE6665c2E328D13D230cbc8bC35defE918"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pumper",
+  "symbol": "Pumper",
+  "decimals": 18,
+  "description": "Pumper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pumper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pumper",
+  "addresses": {
+    "8453": "0x06786c3233e3e12d8ab995e0a8282841e4b65cc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pumper",
+    "sanitizedSymbol": "PUMPER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x37bc769C78CDAA3d04d67f874107d64fc6c20276",
+    "lpNftId": "1320770",
+    "lockerAddress": "0x849F5B6a3614FB7A0d613A6FB5FbBd7614b3Ef74"
+  },
+  "clankerInfo": null
+}

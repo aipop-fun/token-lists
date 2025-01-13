@@ -1,0 +1,22 @@
+{
+  "name": "AYWA",
+  "symbol": "AYWA",
+  "decimals": 18,
+  "description": "AYWA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AYWA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AYWA",
+  "addresses": {
+    "8453": "0x11938bc52ef69ada6625673ff85200a230b2cec2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AYWA",
+    "sanitizedSymbol": "AYWA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
+    "lpNftId": "1313443",
+    "lockerAddress": "0x9DCb428feaFC59493EE02d64956447152B2a80fD"
+  },
+  "clankerInfo": null
+}

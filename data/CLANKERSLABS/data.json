@@ -1,0 +1,22 @@
+{
+  "name": "ClankersLabs",
+  "symbol": "ClankersLabs",
+  "decimals": 18,
+  "description": "ClankersLabs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankersLabs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankersLabs",
+  "addresses": {
+    "8453": "0x2653e57b383a505d8c1e9aaf0998cc7b5a7b9720"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankersLabs",
+    "sanitizedSymbol": "CLANKERSLABS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1328047",
+    "lockerAddress": "0xD60180fd2bc565F463F7137c3006e3bBC5D5A57C"
+  },
+  "clankerInfo": null
+}

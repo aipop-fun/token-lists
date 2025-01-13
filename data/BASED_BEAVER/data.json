@@ -1,0 +1,22 @@
+{
+  "name": "Based Beaver",
+  "symbol": "Based Beaver",
+  "decimals": 18,
+  "description": "Based Beaver is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Beaver",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Beaver",
+  "addresses": {
+    "8453": "0x19e236b9a65c76d9949b27b0fd320b1295ad7e18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Beaver",
+    "sanitizedSymbol": "BASED_BEAVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222132",
+    "lockerAddress": "0x6eAB989F82CB38EDAF3f39DDddF4dbdC68b445B6"
+  },
+  "clankerInfo": null
+}

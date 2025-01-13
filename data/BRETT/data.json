@@ -1,0 +1,22 @@
+{
+  "name": "BRETT",
+  "symbol": "BRETT",
+  "decimals": 18,
+  "description": "BRETT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRETT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRETT",
+  "addresses": {
+    "8453": "0x11e97aa9d9c350456a358d2563a3270c2bef9659"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRETT",
+    "sanitizedSymbol": "BRETT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128786",
+    "lockerAddress": "0x0e702bD144077a86d9Ea9FFc4b033Da1A7423580"
+  },
+  "clankerInfo": null
+}

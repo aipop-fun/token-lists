@@ -1,0 +1,22 @@
+{
+  "name": "Quantum",
+  "symbol": "Quantum",
+  "decimals": 18,
+  "description": "Quantum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quantum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quantum",
+  "addresses": {
+    "8453": "0x1336565ca99d06440fceea69e09a9a09e2ed0ee5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quantum",
+    "sanitizedSymbol": "QUANTUM_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3fC2ca5D9629F2826c8FCA8667e1C74dAE3F76D4",
+    "lpNftId": "1306481",
+    "lockerAddress": "0x03414Ba97F73A60aF9AEBD0CD3913E39A37B6EBd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "I Am Echo",
+  "symbol": "I Am Echo",
+  "decimals": 18,
+  "description": "I Am Echo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20Am%20Echo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I Am Echo",
+  "addresses": {
+    "8453": "0x27fa426ea6b9f62652d4cbbbd67968b39387fc86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I Am Echo",
+    "sanitizedSymbol": "I_AM_ECHO",
+    "created_at": "2024-12-09T18:26:44.742872",
+    "deployer": "0xD5C1F09901D7e28973762d98e350EdAECcc7AD6F",
+    "lpNftId": "1390196",
+    "lockerAddress": "0xD2d1c19B63b3fb757F73cC6d83aFcFa140C1c4D8"
+  },
+  "clankerInfo": null
+}

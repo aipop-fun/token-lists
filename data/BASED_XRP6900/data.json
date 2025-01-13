@@ -1,0 +1,22 @@
+{
+  "name": "Based XRP6900",
+  "symbol": "Based XRP6900",
+  "decimals": 18,
+  "description": "Based XRP6900 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20XRP6900",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based XRP6900",
+  "addresses": {
+    "8453": "0x0aab035c8fadf0479a12c210d78d2bd97076e54d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based XRP6900",
+    "sanitizedSymbol": "BASED_XRP6900",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35b7E45eA858Ce46AEfF6f1059bC64e96dA7D40E",
+    "lpNftId": "1297753",
+    "lockerAddress": "0x4a105ED5eB2BAC40d28A51C94B6a312d6162aeBa"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WarpcastInu",
+  "symbol": "WarpcastInu",
+  "decimals": 18,
+  "description": "WarpcastInu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpcastInu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpcastInu",
+  "addresses": {
+    "8453": "0x14f9395b0223a33c6cef7a4a7784a557afde45b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpcastInu",
+    "sanitizedSymbol": "WARPCASTINU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153264",
+    "lockerAddress": "0x67081932f0b3f04D938952fb36505C0AE3A9eb36"
+  },
+  "clankerInfo": null
+}

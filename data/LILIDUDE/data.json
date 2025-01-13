@@ -1,0 +1,22 @@
+{
+  "name": "lilidude",
+  "symbol": "lilidude",
+  "decimals": 18,
+  "description": "lilidude is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lilidude",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lilidude",
+  "addresses": {
+    "8453": "0x08d2d08ea49e73139d76502982dfef0aa3f1eaef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lilidude",
+    "sanitizedSymbol": "LILIDUDE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA4b76992D155c694F74c3dae92A0e4F620e214B2",
+    "lpNftId": "1309335",
+    "lockerAddress": "0x37753779B12FA42f3B672CC3676E1a44090e6840"
+  },
+  "clankerInfo": null
+}

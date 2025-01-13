@@ -1,0 +1,22 @@
+{
+  "name": "Jynxzi",
+  "symbol": "Jynxzi",
+  "decimals": 18,
+  "description": "Jynxzi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jynxzi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jynxzi",
+  "addresses": {
+    "8453": "0x00027ba6fd1337d76102f1812fe25d2641b90d25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jynxzi",
+    "sanitizedSymbol": "JYNXZI_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166507",
+    "lockerAddress": "0xF7FAf7cCe30C47f30129770026d54cFd8959AF7a"
+  },
+  "clankerInfo": null
+}

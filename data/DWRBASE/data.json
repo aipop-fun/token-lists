@@ -1,0 +1,22 @@
+{
+  "name": "DwrBase",
+  "symbol": "DwrBase",
+  "decimals": 18,
+  "description": "DwrBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DwrBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DwrBase",
+  "addresses": {
+    "8453": "0x110bf781160f02465c8498c8a7447708534d52f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DwrBase",
+    "sanitizedSymbol": "DWRBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAd9DEB26b275e89F7EFE055cb6307db57ef3e765",
+    "lpNftId": "1327052",
+    "lockerAddress": "0x80c87CaF71a98C0Bc93c08CCAea0BA93e706CF37"
+  },
+  "clankerInfo": null
+}

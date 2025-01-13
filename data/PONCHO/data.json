@@ -1,0 +1,22 @@
+{
+  "name": "Poncho",
+  "symbol": "Poncho",
+  "decimals": 18,
+  "description": "Poncho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Poncho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Poncho",
+  "addresses": {
+    "8453": "0x17af61cf0b70ba0755e6e9579ff22e5da080bb56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Poncho",
+    "sanitizedSymbol": "PONCHO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5881d9BfFf787C8655A9b7F3484aE1a6f7a966E8",
+    "lpNftId": "1268243",
+    "lockerAddress": "0x6BfF9810292229CB91aAD7bB5b2BbFf9aF9d9A07"
+  },
+  "clankerInfo": null
+}

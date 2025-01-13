@@ -1,0 +1,22 @@
+{
+  "name": "JNE",
+  "symbol": "JNE",
+  "decimals": 18,
+  "description": "JNE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JNE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JNE",
+  "addresses": {
+    "8453": "0x3a90eac14779857ee12a1ee74bf786c945597515"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JNE",
+    "sanitizedSymbol": "JNE",
+    "created_at": "2024-12-11T08:19:20.696198",
+    "deployer": "0x697C132b7f7231a0e35Bd0237150854Fd2C65361",
+    "lpNftId": "1414766",
+    "lockerAddress": "0x55b1c3db2fb53Dbd0a2b4741D07d46C9A3673028"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bloody",
+  "symbol": "Bloody",
+  "decimals": 18,
+  "description": "Bloody is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bloody",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bloody",
+  "addresses": {
+    "8453": "0x3b9902092ce1f398cbc9490bf89efbf15d4c0c2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bloody",
+    "sanitizedSymbol": "BLOODY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x18365374878caA600886740292eD430ce1761a7D",
+    "lpNftId": "1317205",
+    "lockerAddress": "0x33Be4290Ebb949B25efd4Faf46E3E7915AFD2A13"
+  },
+  "clankerInfo": null
+}

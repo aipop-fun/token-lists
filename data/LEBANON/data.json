@@ -1,0 +1,22 @@
+{
+  "name": "Lebanon",
+  "symbol": "Lebanon",
+  "decimals": 18,
+  "description": "Lebanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lebanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lebanon",
+  "addresses": {
+    "8453": "0x23380d31088cd5d02759461730deaad39ebd2b8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lebanon",
+    "sanitizedSymbol": "LEBANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205232",
+    "lockerAddress": "0xF7f15fB4Be6bE2bf2F1ddc2489704A5664FE783C"
+  },
+  "clankerInfo": null
+}

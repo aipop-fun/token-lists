@@ -1,0 +1,22 @@
+{
+  "name": "Tom & Jerry",
+  "symbol": "Tom & Jerry",
+  "decimals": 18,
+  "description": "Tom & Jerry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tom%20%26%20Jerry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tom & Jerry",
+  "addresses": {
+    "8453": "0x03f5e413be2534834a0ae4660e2a72d9758d9c9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tom & Jerry",
+    "sanitizedSymbol": "TOM_JERRY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151900",
+    "lockerAddress": "0xb252fF8D926Cb0Bf4a7CfDFcad768287677887dC"
+  },
+  "clankerInfo": null
+}

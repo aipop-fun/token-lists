@@ -1,0 +1,22 @@
+{
+  "name": "TOLOL",
+  "symbol": "TOLOL",
+  "decimals": 18,
+  "description": "TOLOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOLOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOLOL",
+  "addresses": {
+    "8453": "0x052852b69038e66f7e113e89d697c2d3398124d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOLOL",
+    "sanitizedSymbol": "TOLOL_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc2Fcf0512352801ca77598075772f9576Fa7e926",
+    "lpNftId": "1320438",
+    "lockerAddress": "0xc5F1Ace1d6498A76F779D80f907f2481623D76F0"
+  },
+  "clankerInfo": null
+}

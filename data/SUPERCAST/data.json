@@ -1,0 +1,22 @@
+{
+  "name": "SUPERCAST",
+  "symbol": "SUPERCAST",
+  "decimals": 18,
+  "description": "SUPERCAST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPERCAST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPERCAST",
+  "addresses": {
+    "8453": "0x0db3effdd4363d24fe5feada26e43efea54ebcf9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPERCAST",
+    "sanitizedSymbol": "SUPERCAST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4c96BAdBDC05D2f62594B3135ba3A8E9f10cBC2d",
+    "lpNftId": "1375746",
+    "lockerAddress": "0x4544A1446d599738b3beD32735b6c82166830EBa"
+  },
+  "clankerInfo": null
+}

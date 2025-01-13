@@ -1,0 +1,22 @@
+{
+  "name": "Color",
+  "symbol": "Color",
+  "decimals": 18,
+  "description": "Color is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Color",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Color",
+  "addresses": {
+    "8453": "0x1e7ea76e1c8ba57a8b41cf4c4e50e3f4ce774526"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Color",
+    "sanitizedSymbol": "COLOR",
+    "created_at": "2024-12-10T14:27:44.687335",
+    "deployer": "0x21C3029d2D60062F764Fc186E265633db494CC7E",
+    "lpNftId": "1401785",
+    "lockerAddress": "0x97216148cC83E47232cbd3602e0a3BA50c22A919"
+  },
+  "clankerInfo": null
+}

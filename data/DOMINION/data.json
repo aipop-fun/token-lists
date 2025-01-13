@@ -1,0 +1,22 @@
+{
+  "name": "DOMINION",
+  "symbol": "DOMINION",
+  "decimals": 18,
+  "description": "DOMINION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOMINION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOMINION",
+  "addresses": {
+    "8453": "0x34337465137980c43abf183c23414e8789acccc2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOMINION",
+    "sanitizedSymbol": "DOMINION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0d0198c9F9719951a6e1f7f7A4036909aF7Ca31A",
+    "lpNftId": "1370585",
+    "lockerAddress": "0x9e7E5635F9c197Df878143230578e2e03a51EfdE"
+  },
+  "clankerInfo": null
+}

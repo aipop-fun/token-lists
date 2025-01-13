@@ -1,0 +1,22 @@
+{
+  "name": "PupperCoin",
+  "symbol": "PupperCoin",
+  "decimals": 18,
+  "description": "PupperCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PupperCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PupperCoin",
+  "addresses": {
+    "8453": "0x292372f0f70e5827163e38ccaffcea72ce6e3bcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PupperCoin",
+    "sanitizedSymbol": "PUPPERCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4b91475af6eC45997794b513349aADf7772De95a",
+    "lpNftId": "1327809",
+    "lockerAddress": "0x3DC4A3DBA56f005719BFd297FcdAF930425835D3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZIGMA",
+  "symbol": "ZIGMA",
+  "decimals": 18,
+  "description": "ZIGMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZIGMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZIGMA",
+  "addresses": {
+    "8453": "0x2cecbd31f17cd997e16d58739de7b08890d17d10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZIGMA",
+    "sanitizedSymbol": "ZIGMA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130098",
+    "lockerAddress": "0xEec653D1bf78c693f423b828c00F4227AF639d09"
+  },
+  "clankerInfo": null
+}

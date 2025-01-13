@@ -1,0 +1,22 @@
+{
+  "name": "gol",
+  "symbol": "gol",
+  "decimals": 18,
+  "description": "gol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gol",
+  "addresses": {
+    "8453": "0x183c7f241b4722b2c628864e6300a98ba14db80d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gol",
+    "sanitizedSymbol": "GOL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBBE4b0809452978c38B1b530d3182B9CaAd871b9",
+    "lpNftId": "1287900",
+    "lockerAddress": "0x3e9BFA2a7Ebc522de5CF6BB1b4716eAA78b88414"
+  },
+  "clankerInfo": null
+}

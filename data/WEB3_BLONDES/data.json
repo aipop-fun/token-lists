@@ -1,0 +1,22 @@
+{
+  "name": "Web3 Blondes",
+  "symbol": "Web3 Blondes",
+  "decimals": 18,
+  "description": "Web3 Blondes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Web3%20Blondes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Web3 Blondes",
+  "addresses": {
+    "8453": "0x2b407f87077a7e9f8e2a38fec3bc6db8db9520f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Web3 Blondes",
+    "sanitizedSymbol": "WEB3_BLONDES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229476",
+    "lockerAddress": "0x91316d638Fb8E3AE0c04DEA90fF03FFD1351d8B6"
+  },
+  "clankerInfo": null
+}

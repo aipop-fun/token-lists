@@ -1,0 +1,22 @@
+{
+  "name": "Trading Cat",
+  "symbol": "Trading Cat",
+  "decimals": 18,
+  "description": "Trading Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trading%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trading Cat",
+  "addresses": {
+    "8453": "0x0b7a124ca8e092df4086b3ca588c1b21e2014a04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trading Cat",
+    "sanitizedSymbol": "TRADING_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216910",
+    "lockerAddress": "0x73dADE721282231651085585AF318181e8e35bF6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ForeverToken",
+  "symbol": "ForeverToken",
+  "decimals": 18,
+  "description": "ForeverToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ForeverToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ForeverToken",
+  "addresses": {
+    "8453": "0x2b0e59bbc53af50487e9f6e3fbe5b5c3e1913971"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ForeverToken",
+    "sanitizedSymbol": "FOREVERTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165954",
+    "lockerAddress": "0x51187d1F7F88DdB48fB03A7F92fD5981cE8023d3"
+  },
+  "clankerInfo": null
+}

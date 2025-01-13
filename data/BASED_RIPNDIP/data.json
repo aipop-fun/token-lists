@@ -1,0 +1,22 @@
+{
+  "name": "Based Ripndip",
+  "symbol": "Based Ripndip",
+  "decimals": 18,
+  "description": "Based Ripndip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Ripndip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Ripndip",
+  "addresses": {
+    "8453": "0x0442f2a3cef3c42380b207621e71bd1183d1442d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Ripndip",
+    "sanitizedSymbol": "BASED_RIPNDIP",
+    "created_at": "2024-12-11T14:46:10.928965",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1420554",
+    "lockerAddress": "0x33688E7dc35438767D35505A8752062d6E8e4528"
+  },
+  "clankerInfo": null
+}

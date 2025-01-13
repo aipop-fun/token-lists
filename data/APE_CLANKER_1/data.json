@@ -1,0 +1,22 @@
+{
+  "name": "APE CLANKER",
+  "symbol": "APE CLANKER",
+  "decimals": 18,
+  "description": "APE CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APE%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APE CLANKER",
+  "addresses": {
+    "8453": "0x2fe6a1a88d41606657713fdecccd00e65389efdb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APE CLANKER",
+    "sanitizedSymbol": "APE_CLANKER_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAD4c9F10a8d85c18D2B23379a27B0154fdDFeF42",
+    "lpNftId": "1319497",
+    "lockerAddress": "0xDA8b1770313D326331b4c7E1e09046F70aC75eC2"
+  },
+  "clankerInfo": null
+}

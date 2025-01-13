@@ -1,0 +1,22 @@
+{
+  "name": "Hacipupu",
+  "symbol": "Hacipupu",
+  "decimals": 18,
+  "description": "Hacipupu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hacipupu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hacipupu",
+  "addresses": {
+    "8453": "0x0af6783eada236ce06dbc0a0cdf50e6625519bbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hacipupu",
+    "sanitizedSymbol": "HACIPUPU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211849",
+    "lockerAddress": "0x16994Fb08964B2B313513EA7AD14EB8631b14396"
+  },
+  "clankerInfo": null
+}

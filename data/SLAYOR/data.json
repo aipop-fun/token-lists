@@ -1,0 +1,22 @@
+{
+  "name": "Slayor",
+  "symbol": "Slayor",
+  "decimals": 18,
+  "description": "Slayor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Slayor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Slayor",
+  "addresses": {
+    "8453": "0x401434ac97eef849b88bf044c1f0fcf33d897ef0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Slayor",
+    "sanitizedSymbol": "SLAYOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76f980Cfe17D4fF3e3F9ddCe2129C17e55A1091d",
+    "lpNftId": "1286872",
+    "lockerAddress": "0xA2E169Cf14852D809F548FBE2b75B0eC0a67f3cD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Break The Wall",
+  "symbol": "Break The Wall",
+  "decimals": 18,
+  "description": "Break The Wall is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Break%20The%20Wall",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Break The Wall",
+  "addresses": {
+    "8453": "0x3b251d99779799d14c593c7edf8fedcad9df2842"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Break The Wall",
+    "sanitizedSymbol": "BREAK_THE_WALL_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC1F7dC1382B9bCBA4a41Ef2b40357bef3aFaE7fF",
+    "lpNftId": "1269254",
+    "lockerAddress": "0xc7444F9fDcF863fb853F0Ff2459A86Fc2c0E1c8F"
+  },
+  "clankerInfo": null
+}

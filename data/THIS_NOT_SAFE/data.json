@@ -1,0 +1,22 @@
+{
+  "name": "This NOT Safe",
+  "symbol": "This NOT Safe",
+  "decimals": 18,
+  "description": "This NOT Safe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=This%20NOT%20Safe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "This NOT Safe",
+  "addresses": {
+    "8453": "0x3def6d8a57d7f2bc0aa383b096b88fcf7d54c314"
+  },
+  "tokenInfo": {
+    "originalSymbol": "This NOT Safe",
+    "sanitizedSymbol": "THIS_NOT_SAFE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1245273",
+    "lockerAddress": "0xC664f735D645203e41F12cE82ab5EaA30E71045F"
+  },
+  "clankerInfo": null
+}

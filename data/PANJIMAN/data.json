@@ -1,0 +1,22 @@
+{
+  "name": "Panjiman",
+  "symbol": "Panjiman",
+  "decimals": 18,
+  "description": "Panjiman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Panjiman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Panjiman",
+  "addresses": {
+    "8453": "0x1788d9c3eef3f5697ca2e1e3bbd7488c3c40f37f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Panjiman",
+    "sanitizedSymbol": "PANJIMAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x29F0DAFFCBC45f2d7Ce7a397e9eC3C7eBB5AFb68",
+    "lpNftId": "1329805",
+    "lockerAddress": "0xE3D4c9a77Fda6e58ab158555C3af833b103D8C43"
+  },
+  "clankerInfo": null
+}

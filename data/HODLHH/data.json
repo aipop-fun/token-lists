@@ -1,0 +1,22 @@
+{
+  "name": "HodlHH",
+  "symbol": "HodlHH",
+  "decimals": 18,
+  "description": "HodlHH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HodlHH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HodlHH",
+  "addresses": {
+    "8453": "0x36e436f9c600cb15229cb8c113e035a175260baa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HodlHH",
+    "sanitizedSymbol": "HODLHH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1f289cdA70D35b95346b2Ba0EAC27759A82aa2ed",
+    "lpNftId": "1327978",
+    "lockerAddress": "0x261245035287F99891DBa53333e28ad53CE27952"
+  },
+  "clankerInfo": null
+}

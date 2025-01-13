@@ -1,0 +1,22 @@
+{
+  "name": "TolkienETH",
+  "symbol": "TolkienETH",
+  "decimals": 18,
+  "description": "TolkienETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TolkienETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TolkienETH",
+  "addresses": {
+    "8453": "0x12db58a2dfb5d68b9f5ed943a318d0792de26618"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TolkienETH",
+    "sanitizedSymbol": "TOLKIENETH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdE02d0E3c94FDe483c29AF48F914a59a6CeC631a",
+    "lpNftId": "1303898",
+    "lockerAddress": "0xE84EE54726f848b39D60280B4277FCfffCA295C9"
+  },
+  "clankerInfo": null
+}

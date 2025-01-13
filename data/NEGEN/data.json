@@ -1,0 +1,22 @@
+{
+  "name": "NEGEN",
+  "symbol": "NEGEN",
+  "decimals": 18,
+  "description": "NEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEGEN",
+  "addresses": {
+    "8453": "0x00cfd7f8654682b7cf10f5a1466cc4ca14b7abaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEGEN",
+    "sanitizedSymbol": "NEGEN",
+    "created_at": "2024-12-09T03:59:59.34816",
+    "deployer": "0x605b1AEB495E0328f6a36690d698ffd345161F1d",
+    "lpNftId": "1380831",
+    "lockerAddress": "0xa4485Bd98a09C9E8b4914ED92B69E6b153d9eb87"
+  },
+  "clankerInfo": null
+}

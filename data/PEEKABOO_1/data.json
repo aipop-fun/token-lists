@@ -1,0 +1,22 @@
+{
+  "name": "peekaboo",
+  "symbol": "peekaboo",
+  "decimals": 18,
+  "description": "peekaboo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=peekaboo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "peekaboo",
+  "addresses": {
+    "8453": "0x0d65935dafffac104ca86ee2c27fa6bc91f1de6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "peekaboo",
+    "sanitizedSymbol": "PEEKABOO_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6f0E1D636b0Acae2e866dfb71741514751C99241",
+    "lpNftId": "1376376",
+    "lockerAddress": "0x79Dcb405a8983C837BB32f3037058E0ba9994Bda"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blue Bird",
+  "symbol": "Blue Bird",
+  "decimals": 18,
+  "description": "Blue Bird is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Bird",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Bird",
+  "addresses": {
+    "8453": "0x0753931991f6e40dd6a354f782169fcbdc13a567"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Bird",
+    "sanitizedSymbol": "BLUE_BIRD",
+    "created_at": "2024-12-12T11:54:47.606632",
+    "deployer": "0x0E7685dB214173082f8fE30A6C2A2066D48d39B3",
+    "lpNftId": "1433774",
+    "lockerAddress": "0x059651cfCc49ec119636c2EDeD8BD95433570499"
+  },
+  "clankerInfo": null
+}

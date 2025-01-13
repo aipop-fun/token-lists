@@ -1,0 +1,22 @@
+{
+  "name": "Bryan",
+  "symbol": "Bryan",
+  "decimals": 18,
+  "description": "Bryan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bryan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bryan",
+  "addresses": {
+    "8453": "0x3a85c58284701c43b76f2cb6a8928ce592cafbe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bryan",
+    "sanitizedSymbol": "BRYAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119734",
+    "lockerAddress": "0x6D6cF995cd685e82425c7EB093b79Bd25865BcAe"
+  },
+  "clankerInfo": null
+}

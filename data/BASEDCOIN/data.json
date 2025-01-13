@@ -1,0 +1,22 @@
+{
+  "name": "Basedcoin",
+  "symbol": "Basedcoin",
+  "decimals": 18,
+  "description": "Basedcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basedcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basedcoin",
+  "addresses": {
+    "8453": "0x367050eaf67e7e79bfee347863e61b94e880cf98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basedcoin",
+    "sanitizedSymbol": "BASEDCOIN",
+    "created_at": "2024-12-10T07:26:05.270156",
+    "deployer": "0x318b501840Be9b18835fCAfdF8bec5f7679fEe86",
+    "lpNftId": "1397902",
+    "lockerAddress": "0xb1da2DCDCEd0E7Bb6B9303969C0DDd7AFEF41D69"
+  },
+  "clankerInfo": null
+}

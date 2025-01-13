@@ -1,0 +1,22 @@
+{
+  "name": "Not A Rug",
+  "symbol": "Not A Rug",
+  "decimals": 18,
+  "description": "Not A Rug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20A%20Rug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not A Rug",
+  "addresses": {
+    "8453": "0x317711a7a21e0634aa1493431682a61bb860c52a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not A Rug",
+    "sanitizedSymbol": "NOT_A_RUG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128440",
+    "lockerAddress": "0xa83ba02640F8Cdf2456D4f1E8A66745E2Be1AFC2"
+  },
+  "clankerInfo": null
+}

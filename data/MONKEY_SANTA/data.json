@@ -1,0 +1,22 @@
+{
+  "name": "Monkey Santa",
+  "symbol": "Monkey Santa",
+  "decimals": 18,
+  "description": "Monkey Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monkey%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monkey Santa",
+  "addresses": {
+    "8453": "0x21cc14a6d82572ee605056d49a0b4b1185e2984b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monkey Santa",
+    "sanitizedSymbol": "MONKEY_SANTA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1323644",
+    "lockerAddress": "0x2A6e2fBC62bC9780143e66Eb012C0f5da24c3C8a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TWINS",
+  "symbol": "TWINS",
+  "decimals": 18,
+  "description": "TWINS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TWINS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TWINS",
+  "addresses": {
+    "8453": "0x31dd08825e6a8450f96fe9cbc2de497b13e622c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TWINS",
+    "sanitizedSymbol": "TWINS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x88Fd52c4C766eacB16768e98373DBe0c7005e65F",
+    "lpNftId": "1375743",
+    "lockerAddress": "0xf75aB821AddC8Ea62B77dE4b7b226AB6471Ed9ff"
+  },
+  "clankerInfo": null
+}

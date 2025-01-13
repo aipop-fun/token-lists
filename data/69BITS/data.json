@@ -1,0 +1,22 @@
+{
+  "name": "69BITS",
+  "symbol": "69BITS",
+  "decimals": 18,
+  "description": "69BITS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=69BITS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "69BITS",
+  "addresses": {
+    "8453": "0x33c83c3f530bfb37f24586de1fcacd578b60ae78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "69BITS",
+    "sanitizedSymbol": "69BITS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x60ba240114b825F676D11Cc178409Cc9c385171c",
+    "lpNftId": "1374028",
+    "lockerAddress": "0x1BC43bc675A80351c9641314Cf3BB0Be875B6f2C"
+  },
+  "clankerInfo": null
+}

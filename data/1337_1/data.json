@@ -1,0 +1,22 @@
+{
+  "name": "1337",
+  "symbol": "1337",
+  "decimals": 18,
+  "description": "1337 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1337",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1337",
+  "addresses": {
+    "8453": "0x15e8f222958f90c2c23fc2a68fe9cac946a2332e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1337",
+    "sanitizedSymbol": "1337_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1320625",
+    "lockerAddress": "0x714507b8B8d5d934D425Ec41e5eC1B0cd7573F14"
+  },
+  "clankerInfo": null
+}

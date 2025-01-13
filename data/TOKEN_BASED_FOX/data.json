@@ -1,0 +1,22 @@
+{
+  "name": "Token based fox",
+  "symbol": "Token based fox",
+  "decimals": 18,
+  "description": "Token based fox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20based%20fox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token based fox",
+  "addresses": {
+    "8453": "0x2cf0bd6da81bb4ef78050ac3522beeb5a82b28dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token based fox",
+    "sanitizedSymbol": "TOKEN_BASED_FOX",
+    "created_at": "2024-12-10T10:45:37.373347",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1399987",
+    "lockerAddress": "0x7C8da2f4e34E2cD580348Cc63E0Df1464F3C4d2f"
+  },
+  "clankerInfo": null
+}

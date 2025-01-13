@@ -1,0 +1,22 @@
+{
+  "name": "Move Mania",
+  "symbol": "Move Mania",
+  "decimals": 18,
+  "description": "Move Mania is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Move%20Mania",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Move Mania",
+  "addresses": {
+    "8453": "0x10de89a142da0af2026611194e1f5a61f7dbf51d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Move Mania",
+    "sanitizedSymbol": "MOVE_MANIA",
+    "created_at": "2024-12-09T18:03:40.562745",
+    "deployer": "0x65F69C5ED64366C4d9229A6DF3fF8D4A18bd773b",
+    "lpNftId": "1390006",
+    "lockerAddress": "0x49B5a6AC3AE402428aCbDc7C50d16225D0D4Fa15"
+  },
+  "clankerInfo": null
+}

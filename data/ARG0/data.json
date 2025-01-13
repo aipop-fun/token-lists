@@ -1,0 +1,22 @@
+{
+  "name": "ARG0",
+  "symbol": "ARG0",
+  "decimals": 18,
+  "description": "ARG0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ARG0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ARG0",
+  "addresses": {
+    "8453": "0x20fe7be949c3c5679275b7974a9c80e1e9067d7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ARG0",
+    "sanitizedSymbol": "ARG0",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1720297747aaF387a0a6d760174880Df2771F83b",
+    "lpNftId": "1324645",
+    "lockerAddress": "0xD2Cd2a354C8b50a4a37A70F702Cd4b3367800a4F"
+  },
+  "clankerInfo": null
+}

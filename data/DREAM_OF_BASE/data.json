@@ -1,0 +1,22 @@
+{
+  "name": "Dream of Base",
+  "symbol": "Dream of Base",
+  "decimals": 18,
+  "description": "Dream of Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dream%20of%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dream of Base",
+  "addresses": {
+    "8453": "0x2811c65cec8bd8fc60fabb346fb76df5fd03ca87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dream of Base",
+    "sanitizedSymbol": "DREAM_OF_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225391",
+    "lockerAddress": "0xa539a33eD5da3989E9f4639313720173b5131628"
+  },
+  "clankerInfo": null
+}

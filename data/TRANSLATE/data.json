@@ -1,0 +1,22 @@
+{
+  "name": "Translate",
+  "symbol": "Translate",
+  "decimals": 18,
+  "description": "Translate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Translate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Translate",
+  "addresses": {
+    "8453": "0x157e5294f809d488e10be7862282baa74189b3dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Translate",
+    "sanitizedSymbol": "TRANSLATE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x491dC8E39B7001aE3bFC1b5AdC871D238cA8256C",
+    "lpNftId": "1322727",
+    "lockerAddress": "0x1F35d2331224751e84bF2Ad1d8A56824A6c07162"
+  },
+  "clankerInfo": null
+}

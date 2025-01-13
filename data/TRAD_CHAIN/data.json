@@ -1,0 +1,22 @@
+{
+  "name": "TRAD CHAIN",
+  "symbol": "TRAD CHAIN",
+  "decimals": 18,
+  "description": "TRAD CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRAD%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRAD CHAIN",
+  "addresses": {
+    "8453": "0x2fde007723ee8f4c21f8e14bdd758ca9be20be28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRAD CHAIN",
+    "sanitizedSymbol": "TRAD_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195087",
+    "lockerAddress": "0xCad78CA6d213d44A6f1A441f76be7613911946aD"
+  },
+  "clankerInfo": null
+}

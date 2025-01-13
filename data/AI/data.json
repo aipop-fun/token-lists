@@ -1,0 +1,22 @@
+{
+  "name": "AI",
+  "symbol": "AI",
+  "decimals": 18,
+  "description": "AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI",
+  "addresses": {
+    "8453": "0x285b236cd65e3c0b02a0b95cd52dae5ea5d27885"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI",
+    "sanitizedSymbol": "AI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162987",
+    "lockerAddress": "0xC009d03162d56629295aB5cCE243302fd09b6ca9"
+  },
+  "clankerInfo": null
+}

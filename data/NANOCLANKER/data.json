@@ -1,0 +1,22 @@
+{
+  "name": "Nanoclanker",
+  "symbol": "Nanoclanker",
+  "decimals": 18,
+  "description": "Nanoclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nanoclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nanoclanker",
+  "addresses": {
+    "8453": "0x33d047fab2e1a111a2b7cc56fc2b7680097c618d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nanoclanker",
+    "sanitizedSymbol": "NANOCLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1346847",
+    "lockerAddress": "0x3011ac8b0dd7C0c94d10D4e88196d1bCA5151916"
+  },
+  "clankerInfo": null
+}

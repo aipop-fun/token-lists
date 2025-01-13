@@ -1,0 +1,22 @@
+{
+  "name": "$KEK",
+  "symbol": "$KEK",
+  "decimals": 18,
+  "description": "$KEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24KEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$KEK",
+  "addresses": {
+    "8453": "0x1e0fba25b26cd415b5540846cb571a7adca585c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$KEK",
+    "sanitizedSymbol": "KEK",
+    "created_at": "2024-12-11T13:49:03.760344",
+    "deployer": "0xDd6d37E29294A985E49fF301Acc80877fC24997F",
+    "lpNftId": "1419477",
+    "lockerAddress": "0xAF329f4734Ab7648e842f00f9b0652397e8D06B4"
+  },
+  "clankerInfo": null
+}

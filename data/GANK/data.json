@@ -1,0 +1,22 @@
+{
+  "name": "Gank",
+  "symbol": "Gank",
+  "decimals": 18,
+  "description": "Gank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gank",
+  "addresses": {
+    "8453": "0x23705f16b5f3083fafd83e63ac552483688a9b64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gank",
+    "sanitizedSymbol": "GANK",
+    "created_at": "2024-12-10T05:46:38.833007",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397142",
+    "lockerAddress": "0x96660a27c6EcF1685a4A5B643F347F528c841BEf"
+  },
+  "clankerInfo": null
+}

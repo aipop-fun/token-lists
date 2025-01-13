@@ -1,0 +1,22 @@
+{
+  "name": "barca",
+  "symbol": "barca",
+  "decimals": 18,
+  "description": "barca is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=barca",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "barca",
+  "addresses": {
+    "8453": "0x39c2d400d527fb83e3ccb09b5fcf10ba33fb7d43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "barca",
+    "sanitizedSymbol": "BARCA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd02E817f734ce42EbBeFfdB0D2dcC76E3D7182C0",
+    "lpNftId": "1252796",
+    "lockerAddress": "0xce81CCE82D0d8970C616de5D84B85bA2db7b705F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XmasCoin",
+  "symbol": "XmasCoin",
+  "decimals": 18,
+  "description": "XmasCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XmasCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XmasCoin",
+  "addresses": {
+    "8453": "0x24b5b2ae52206f4afbe462b45350e76752fc1407"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XmasCoin",
+    "sanitizedSymbol": "XMASCOIN",
+    "created_at": "2024-12-09T20:50:24.215564",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1391944",
+    "lockerAddress": "0xbaFCC0D63a45f4F0a52170b5F4E6681e5E5f4cB4"
+  },
+  "clankerInfo": null
+}

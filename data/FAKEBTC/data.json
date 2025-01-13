@@ -1,0 +1,22 @@
+{
+  "name": "FAKEBTC",
+  "symbol": "FAKEBTC",
+  "decimals": 18,
+  "description": "FAKEBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAKEBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAKEBTC",
+  "addresses": {
+    "8453": "0x342f44c07743d29d0e6ed5254c44c664534a5d5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAKEBTC",
+    "sanitizedSymbol": "FAKEBTC",
+    "created_at": "2024-12-10T08:40:15.601674",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1398883",
+    "lockerAddress": "0x41f59E59fbe52Bef484fB63FDc5f81E31805122B"
+  },
+  "clankerInfo": null
+}

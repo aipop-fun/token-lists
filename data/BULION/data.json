@@ -1,0 +1,22 @@
+{
+  "name": "BUlion",
+  "symbol": "BUlion",
+  "decimals": 18,
+  "description": "BUlion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUlion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUlion",
+  "addresses": {
+    "8453": "0x00b75cfedae6c3f139773d4325a1de3f4bcfe84f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUlion",
+    "sanitizedSymbol": "BULION",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x73c18ddDe43b36469095aFFCc1596fC861A6ea1E",
+    "lpNftId": "1277878",
+    "lockerAddress": "0x47c3019b65822998728eD83e915b3ab54B8b2C19"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bounty",
+  "symbol": "Bounty",
+  "decimals": 18,
+  "description": "Bounty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bounty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bounty",
+  "addresses": {
+    "8453": "0x34b15613ef20169a1884edb4ec7a74c8a0cf5d77"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bounty",
+    "sanitizedSymbol": "BOUNTY_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161623",
+    "lockerAddress": "0xc72c600a61A3F7A3cd27d18c140b666070FA99b1"
+  },
+  "clankerInfo": null
+}

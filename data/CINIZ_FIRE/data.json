@@ -1,0 +1,22 @@
+{
+  "name": "CINIZ FIRE",
+  "symbol": "CINIZ FIRE",
+  "decimals": 18,
+  "description": "CINIZ FIRE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CINIZ%20FIRE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CINIZ FIRE",
+  "addresses": {
+    "8453": "0x36365bb1624cf6f6d3d2dcf4436e5c59c0475f43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CINIZ FIRE",
+    "sanitizedSymbol": "CINIZ_FIRE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1285424",
+    "lockerAddress": "0xd5b2ADE6e6c5326432F9cB64C524f021eF73e204"
+  },
+  "clankerInfo": null
+}

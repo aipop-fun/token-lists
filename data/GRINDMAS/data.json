@@ -1,0 +1,22 @@
+{
+  "name": "grindmas",
+  "symbol": "grindmas",
+  "decimals": 18,
+  "description": "grindmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=grindmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "grindmas",
+  "addresses": {
+    "8453": "0x0265e2299a83cb449d355da69b4f7fd6402f8a52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "grindmas",
+    "sanitizedSymbol": "GRINDMAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaC7491Be41827E21e8a8A6581baBd1e7f60fa22f",
+    "lpNftId": "1319558",
+    "lockerAddress": "0xaA84cde7cd37deBE4E756a6dB7792faCaF67B8F8"
+  },
+  "clankerInfo": null
+}

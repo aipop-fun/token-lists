@@ -1,0 +1,22 @@
+{
+  "name": "Flippant",
+  "symbol": "Flippant",
+  "decimals": 18,
+  "description": "Flippant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flippant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flippant",
+  "addresses": {
+    "8453": "0x0925826e7748b34c9d1b9c0994803f3d1099858d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flippant",
+    "sanitizedSymbol": "FLIPPANT",
+    "created_at": "2024-12-10T09:03:57.402607",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1399034",
+    "lockerAddress": "0x322545Bb0f0adcb345829BF49998C188BfC41102"
+  },
+  "clankerInfo": null
+}

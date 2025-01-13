@@ -1,0 +1,22 @@
+{
+  "name": "CUM",
+  "symbol": "CUM",
+  "decimals": 18,
+  "description": "CUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CUM",
+  "addresses": {
+    "8453": "0x1c59e922394d3f95cb3f409fddf3c23ee8ea5f2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CUM",
+    "sanitizedSymbol": "CUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120032",
+    "lockerAddress": "0xe480f0C8a2B0391061FFEE253ee6c993bd20F8FD"
+  },
+  "clankerInfo": null
+}

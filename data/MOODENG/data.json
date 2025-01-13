@@ -1,0 +1,22 @@
+{
+  "name": "Moodeng",
+  "symbol": "Moodeng",
+  "decimals": 18,
+  "description": "Moodeng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moodeng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moodeng",
+  "addresses": {
+    "8453": "0x0cbbc30c3466ad5ed2ccc9d62a8070756062833a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moodeng",
+    "sanitizedSymbol": "MOODENG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193523",
+    "lockerAddress": "0xEfD6F3A8cA870AA1697C95A0E8DAF8A0214C7abD"
+  },
+  "clankerInfo": null
+}

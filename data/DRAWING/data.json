@@ -1,0 +1,22 @@
+{
+  "name": "drawing",
+  "symbol": "drawing",
+  "decimals": 18,
+  "description": "drawing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=drawing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "drawing",
+  "addresses": {
+    "8453": "0x3ea69ba789f4b63c5b0b2d772515102c2c40ee1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "drawing",
+    "sanitizedSymbol": "DRAWING",
+    "created_at": "2024-12-10T13:54:17.724218",
+    "deployer": "0x964Eb32468a33E61ED48D74DD3CaD61CABE2704B",
+    "lpNftId": "1401609",
+    "lockerAddress": "0x11daBdB67FfF6731a9D8842e95f361647aC85C41"
+  },
+  "clankerInfo": null
+}

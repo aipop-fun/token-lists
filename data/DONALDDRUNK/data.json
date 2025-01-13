@@ -1,0 +1,22 @@
+{
+  "name": "DonaldDrunk",
+  "symbol": "DonaldDrunk",
+  "decimals": 18,
+  "description": "DonaldDrunk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DonaldDrunk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DonaldDrunk",
+  "addresses": {
+    "8453": "0x134eb4be22006b568e37d76317f7801014629bce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DonaldDrunk",
+    "sanitizedSymbol": "DONALDDRUNK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C5aF5FFE13e7BE9bFeF1862e6F80769c69a9206",
+    "lpNftId": "1301140",
+    "lockerAddress": "0x6f75e1188930D397023E7Fd11E66ED1A4d9A5000"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ESAB Token",
+  "symbol": "ESAB Token",
+  "decimals": 18,
+  "description": "ESAB Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ESAB%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ESAB Token",
+  "addresses": {
+    "8453": "0x0526a1ac3ce6a3a4ed7a2e4304818e79ebbc9e1b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ESAB Token",
+    "sanitizedSymbol": "ESAB_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218427",
+    "lockerAddress": "0xeF71878375c8725949a676EB69618105B01369B6"
+  },
+  "clankerInfo": null
+}

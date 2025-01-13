@@ -1,0 +1,22 @@
+{
+  "name": "moycoin",
+  "symbol": "moycoin",
+  "decimals": 18,
+  "description": "moycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moycoin",
+  "addresses": {
+    "8453": "0x010703ca2268c541460d3c5baef35d2b8645a5b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moycoin",
+    "sanitizedSymbol": "MOYCOIN",
+    "created_at": "2024-12-11T05:07:15.380408",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1412955",
+    "lockerAddress": "0x0ef546A7C527Ba72507d09f63bd078fa42E3e0Ae"
+  },
+  "clankerInfo": null
+}

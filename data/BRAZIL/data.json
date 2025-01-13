@@ -1,0 +1,22 @@
+{
+  "name": "Brazil",
+  "symbol": "Brazil",
+  "decimals": 18,
+  "description": "Brazil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brazil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brazil",
+  "addresses": {
+    "8453": "0x1623c4467de56b4cf7b53e8e5f7d6d3c1e9dbe27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brazil",
+    "sanitizedSymbol": "BRAZIL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x55c9a5b941790C0939C7E189C45b45e10ff31dCD",
+    "lpNftId": "1286218",
+    "lockerAddress": "0x29E4eBC179e1B24A082D8d671Ad0A5ccD88fACA3"
+  },
+  "clankerInfo": null
+}

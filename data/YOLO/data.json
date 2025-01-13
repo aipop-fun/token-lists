@@ -1,0 +1,22 @@
+{
+  "name": "YOLO",
+  "symbol": "YOLO",
+  "decimals": 18,
+  "description": "YOLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOLO",
+  "addresses": {
+    "8453": "0x0ad12da448fc1f0150d02f6c0ddcf0ba4b5710e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOLO",
+    "sanitizedSymbol": "YOLO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x938Dcc2e5f8025Fb4467B2B5fdA21E99237fD30e",
+    "lpNftId": "1342927",
+    "lockerAddress": "0x743E0b20587aFeb35d4D67fB01AF7152F82CF485"
+  },
+  "clankerInfo": null
+}

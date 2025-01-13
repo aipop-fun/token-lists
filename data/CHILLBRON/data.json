@@ -1,0 +1,22 @@
+{
+  "name": "ChillBron",
+  "symbol": "ChillBron",
+  "decimals": 18,
+  "description": "ChillBron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillBron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillBron",
+  "addresses": {
+    "8453": "0x3ac93179801213d32005c66faed937b1acb9bcd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillBron",
+    "sanitizedSymbol": "CHILLBRON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2fE1e19deDaAC992096D706eb75a60C8Bde5326F",
+    "lpNftId": "1329901",
+    "lockerAddress": "0xc62F6eAF621FA58C4e3A1CbF3Fe982c328b73279"
+  },
+  "clankerInfo": null
+}

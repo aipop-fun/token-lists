@@ -1,0 +1,22 @@
+{
+  "name": "tod",
+  "symbol": "tod",
+  "decimals": 18,
+  "description": "tod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tod",
+  "addresses": {
+    "8453": "0x10a7d4d64402db1b70fc6d2d76e9a415e479e351"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tod",
+    "sanitizedSymbol": "TOD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xbcfef956C5EA6563FA8703f7d180402D8D31471b",
+    "lpNftId": "1252936",
+    "lockerAddress": "0xcA4d534b4302B3f0c959f3D4005100d2ca1D3323"
+  },
+  "clankerInfo": null
+}

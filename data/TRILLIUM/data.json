@@ -1,0 +1,22 @@
+{
+  "name": "Trillium",
+  "symbol": "Trillium",
+  "decimals": 18,
+  "description": "Trillium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trillium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trillium",
+  "addresses": {
+    "8453": "0x4170b08ca5d084f84011339fd3b93f0f6882cb97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trillium",
+    "sanitizedSymbol": "TRILLIUM",
+    "created_at": "2024-12-12T14:28:21.300158",
+    "deployer": "0xd0be5393d1a423e2761225CaBB62A6Fa81D5FDc0",
+    "lpNftId": "1435845",
+    "lockerAddress": "0x71C15C81117Eaa9d16754cF8042c684b3E73D483"
+  },
+  "clankerInfo": null
+}

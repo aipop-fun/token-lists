@@ -1,0 +1,22 @@
+{
+  "name": "NOVA",
+  "symbol": "NOVA",
+  "decimals": 18,
+  "description": "NOVA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOVA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOVA",
+  "addresses": {
+    "8453": "0x1db14334d40c980a6d0f7487fe1a8a1e21c6623e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOVA",
+    "sanitizedSymbol": "NOVA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129556",
+    "lockerAddress": "0x426a62A9815097b392e7cFf8c3d39aC0A1c2a3ED"
+  },
+  "clankerInfo": null
+}

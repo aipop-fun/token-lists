@@ -1,0 +1,22 @@
+{
+  "name": "poop",
+  "symbol": "poop",
+  "decimals": 18,
+  "description": "poop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=poop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "poop",
+  "addresses": {
+    "8453": "0x0ab99aae6727968d361971764e75f4193a516799"
+  },
+  "tokenInfo": {
+    "originalSymbol": "poop",
+    "sanitizedSymbol": "POOP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5df0f96c5DE9F03d5d1678656dA0B4b5B0647cE1",
+    "lpNftId": "1329500",
+    "lockerAddress": "0xfE54e84EF7Ed2A66EbE5d75C6A5E2F1CE4A8A061"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scan me",
+  "symbol": "scan me",
+  "decimals": 18,
+  "description": "scan me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=scan%20me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "scan me",
+  "addresses": {
+    "8453": "0x34fb95e6113db6ad91370751e8a5101c1c94564c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "scan me",
+    "sanitizedSymbol": "SCAN_ME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1319290",
+    "lockerAddress": "0x11FCe846f16B61b2dc81bFC8C3Ccb54C71DF5d00"
+  },
+  "clankerInfo": null
+}

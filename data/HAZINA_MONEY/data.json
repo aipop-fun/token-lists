@@ -1,0 +1,22 @@
+{
+  "name": "HAZINA MONEY",
+  "symbol": "HAZINA MONEY",
+  "decimals": 18,
+  "description": "HAZINA MONEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAZINA%20MONEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAZINA MONEY",
+  "addresses": {
+    "8453": "0x0768fd0bc55a244c9d84808d8150a10b0fe5eb3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAZINA MONEY",
+    "sanitizedSymbol": "HAZINA_MONEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1209321",
+    "lockerAddress": "0xA24072ab972904B3A39Fb491693AA0F6eE2EF734"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BytePaw",
+  "symbol": "BytePaw",
+  "decimals": 18,
+  "description": "BytePaw is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BytePaw",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BytePaw",
+  "addresses": {
+    "8453": "0x0bddb3299a9ddbf274e4a06a0351943d190f0b8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BytePaw",
+    "sanitizedSymbol": "BYTEPAW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211860",
+    "lockerAddress": "0xc752c17DBD3d4c2D7502b287CF1C3992620204F5"
+  },
+  "clankerInfo": null
+}

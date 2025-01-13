@@ -1,0 +1,22 @@
+{
+  "name": "APE APE BASE",
+  "symbol": "APE APE BASE",
+  "decimals": 18,
+  "description": "APE APE BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APE%20APE%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APE APE BASE",
+  "addresses": {
+    "8453": "0x087745b47aab0ebffdeedf7d72ba44b6c81183cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APE APE BASE",
+    "sanitizedSymbol": "APE_APE_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1312414",
+    "lockerAddress": "0xC6277C72D0de01A47D6D26Fa15dc2B4B0Ae0be58"
+  },
+  "clankerInfo": null
+}

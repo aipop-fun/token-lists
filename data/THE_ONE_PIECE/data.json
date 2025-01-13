@@ -1,0 +1,22 @@
+{
+  "name": "The One Piece",
+  "symbol": "The One Piece",
+  "decimals": 18,
+  "description": "The One Piece is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20One%20Piece",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The One Piece",
+  "addresses": {
+    "8453": "0x20f2b76cddf7bb6cd0f6354fba1837188c7df628"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The One Piece",
+    "sanitizedSymbol": "THE_ONE_PIECE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAf8217Fc95F030986aA9B8d5B3F4F93BfE25b86f",
+    "lpNftId": "1312852",
+    "lockerAddress": "0x704651B30b2b5F4970B281F9Fd45F9595C63E4f0"
+  },
+  "clankerInfo": null
+}

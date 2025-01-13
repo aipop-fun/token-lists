@@ -1,0 +1,22 @@
+{
+  "name": "Clanker is Down",
+  "symbol": "Clanker is Down",
+  "decimals": 18,
+  "description": "Clanker is Down is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20is%20Down",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker is Down",
+  "addresses": {
+    "8453": "0x052d367694f25c183e863b609b7c2360e9598a62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker is Down",
+    "sanitizedSymbol": "CLANKER_IS_DOWN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73cccA7296DfEdB88Bfd68cEda833d8D79abB35f",
+    "lpNftId": "1314158",
+    "lockerAddress": "0x362EEf7DF3FcE0210710240A80a559900a435d52"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Neon Cat",
+  "symbol": "Neon Cat",
+  "decimals": 18,
+  "description": "Neon Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neon%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neon Cat",
+  "addresses": {
+    "8453": "0x293798f0d4eb7998fc4fc7d2285aaf7b7bcb5dae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neon Cat",
+    "sanitizedSymbol": "NEON_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203547",
+    "lockerAddress": "0xFdf5264Eca70cc4FE8158F185eD55e8Ce047f101"
+  },
+  "clankerInfo": null
+}

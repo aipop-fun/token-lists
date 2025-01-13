@@ -1,0 +1,22 @@
+{
+  "name": "Microcap",
+  "symbol": "Microcap",
+  "decimals": 18,
+  "description": "Microcap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Microcap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Microcap",
+  "addresses": {
+    "8453": "0x09fc316a45f986e66c120f0817d74c517caa3fe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Microcap",
+    "sanitizedSymbol": "MICROCAP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1375321",
+    "lockerAddress": "0x5FedBAd369E8Eb365474FeB30500633aC6671f6b"
+  },
+  "clankerInfo": null
+}

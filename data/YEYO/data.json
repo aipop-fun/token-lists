@@ -1,0 +1,22 @@
+{
+  "name": "YEYO",
+  "symbol": "YEYO",
+  "decimals": 18,
+  "description": "YEYO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YEYO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YEYO",
+  "addresses": {
+    "8453": "0x1c3caa21e13e7dfc5595490bdfb73de095e50760"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YEYO",
+    "sanitizedSymbol": "YEYO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6DA0F7C6eF27Abbfa9Aef7aD5871153Eea6cb776",
+    "lpNftId": "1168003",
+    "lockerAddress": "0x59B590653F8F334214D07F1AD1f66F8a95ba3184"
+  },
+  "clankerInfo": null
+}

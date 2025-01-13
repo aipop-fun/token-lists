@@ -1,0 +1,22 @@
+{
+  "name": "Bakayaro",
+  "symbol": "Bakayaro",
+  "decimals": 18,
+  "description": "Bakayaro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bakayaro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bakayaro",
+  "addresses": {
+    "8453": "0x3d7b2b87883b7cb163f83b17c0787b8ac85f5075"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bakayaro",
+    "sanitizedSymbol": "BAKAYARO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226455",
+    "lockerAddress": "0x41Ea08DbfddFa05bfb1137ED6CB862554485D896"
+  },
+  "clankerInfo": null
+}

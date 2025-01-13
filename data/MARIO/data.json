@@ -1,0 +1,22 @@
+{
+  "name": "MARIO",
+  "symbol": "MARIO",
+  "decimals": 18,
+  "description": "MARIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MARIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MARIO",
+  "addresses": {
+    "8453": "0x042d6cd95cce39dffefae1e1d904a38ce77e9745"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MARIO",
+    "sanitizedSymbol": "MARIO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128994",
+    "lockerAddress": "0xB1F9958162FfB1BC3b2a25cceF97A77043094412"
+  },
+  "clankerInfo": null
+}

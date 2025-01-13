@@ -1,0 +1,22 @@
+{
+  "name": "Bat token",
+  "symbol": "Bat token",
+  "decimals": 18,
+  "description": "Bat token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bat%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bat token",
+  "addresses": {
+    "8453": "0x0cee3c4cbb141b49319679fcf1af74afd5aff8b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bat token",
+    "sanitizedSymbol": "BAT_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeb7363e978ecbC2E9Edb09A7FD57497a52718637",
+    "lpNftId": "1323022",
+    "lockerAddress": "0x40a722979303B2141ef75ED8dFA89057CB10a259"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anon Bulls",
+  "symbol": "Anon Bulls",
+  "decimals": 18,
+  "description": "Anon Bulls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Bulls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Bulls",
+  "addresses": {
+    "8453": "0x10572effc380c6c5b9bdfd7bd1834b1754498e25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Bulls",
+    "sanitizedSymbol": "ANON_BULLS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1347026",
+    "lockerAddress": "0xe8699e442d11423679fc388e569d1229ED59Fd33"
+  },
+  "clankerInfo": null
+}

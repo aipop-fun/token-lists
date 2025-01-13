@@ -1,0 +1,22 @@
+{
+  "name": "UP130K",
+  "symbol": "UP130K",
+  "decimals": 18,
+  "description": "UP130K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UP130K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UP130K",
+  "addresses": {
+    "8453": "0x1e90efe32e554b05b35fdabee3bf8dc67def5c45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UP130K",
+    "sanitizedSymbol": "UP130K",
+    "created_at": "2024-12-12T16:21:45.312554",
+    "deployer": "0x8c8a64fF974F11367AF8367FfB400aB4431f2fC1",
+    "lpNftId": "1438429",
+    "lockerAddress": "0x65aE273489F579C75c511331B8DAa7b060BFd766"
+  },
+  "clankerInfo": null
+}

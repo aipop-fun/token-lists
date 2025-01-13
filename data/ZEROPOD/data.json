@@ -1,0 +1,22 @@
+{
+  "name": "ZEROPOD",
+  "symbol": "ZEROPOD",
+  "decimals": 18,
+  "description": "ZEROPOD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEROPOD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEROPOD",
+  "addresses": {
+    "8453": "0x2f2d28128a2d915959b0d9d94e607781a16e4574"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEROPOD",
+    "sanitizedSymbol": "ZEROPOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98D5A312d54e546cF530256e385480dDE97646A7",
+    "lpNftId": "1312891",
+    "lockerAddress": "0x27C54872689F1fd1B6321620D48788F090Ad06EB"
+  },
+  "clankerInfo": null
+}

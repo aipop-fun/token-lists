@@ -1,0 +1,22 @@
+{
+  "name": "CARTIST",
+  "symbol": "CARTIST",
+  "decimals": 18,
+  "description": "CARTIST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CARTIST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CARTIST",
+  "addresses": {
+    "8453": "0x03b3286ab4e980336b8b822af88a2f51033427fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CARTIST",
+    "sanitizedSymbol": "CARTIST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA7071299Be9dE85A7ac0C170E7f129856b7aDc9F",
+    "lpNftId": "1320641",
+    "lockerAddress": "0x2A26C04bb0de929b6285D2FB06036AA8c27D907b"
+  },
+  "clankerInfo": null
+}

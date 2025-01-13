@@ -1,0 +1,22 @@
+{
+  "name": "vladimir",
+  "symbol": "vladimir",
+  "decimals": 18,
+  "description": "vladimir is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vladimir",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vladimir",
+  "addresses": {
+    "8453": "0x2a516ad1ee01c015e79288b63878f23a12a2856e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vladimir",
+    "sanitizedSymbol": "VLADIMIR",
+    "created_at": "2024-12-10T23:48:01.835055",
+    "deployer": "0xE3883B5d2013b772D0F92d41eCC3e92C3F2EB924",
+    "lpNftId": "1408587",
+    "lockerAddress": "0x132C41edcD67c71db64Cf567b7737B24A1116fb1"
+  },
+  "clankerInfo": null
+}

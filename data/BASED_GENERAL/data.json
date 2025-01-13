@@ -1,0 +1,22 @@
+{
+  "name": "BASED General",
+  "symbol": "BASED General",
+  "decimals": 18,
+  "description": "BASED General is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20General",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED General",
+  "addresses": {
+    "8453": "0x316b30cc57ba09fb9b982965b0b205e731dcb25a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED General",
+    "sanitizedSymbol": "BASED_GENERAL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x085D81b8EAF8b5861Bb8C5467359FF8dA8319119",
+    "lpNftId": "1333107",
+    "lockerAddress": "0x162023DAdBbbaD6C8C9a1b211bA3e4b91Ef4a221"
+  },
+  "clankerInfo": null
+}

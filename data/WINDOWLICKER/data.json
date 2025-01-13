@@ -1,0 +1,22 @@
+{
+  "name": "Windowlicker",
+  "symbol": "Windowlicker",
+  "decimals": 18,
+  "description": "Windowlicker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Windowlicker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Windowlicker",
+  "addresses": {
+    "8453": "0x15995fa1beeedb6b65731de4a250bb4a4a62b482"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Windowlicker",
+    "sanitizedSymbol": "WINDOWLICKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1246138",
+    "lockerAddress": "0xC89c2Aa4ea5ae7CA20a978F702953f4d904b5314"
+  },
+  "clankerInfo": null
+}

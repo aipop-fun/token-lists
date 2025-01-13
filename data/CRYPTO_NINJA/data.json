@@ -1,0 +1,22 @@
+{
+  "name": "crypto ninja",
+  "symbol": "crypto ninja",
+  "decimals": 18,
+  "description": "crypto ninja is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crypto%20ninja",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crypto ninja",
+  "addresses": {
+    "8453": "0x053381758ceb0c6f954122be2713d0c5146e36e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crypto ninja",
+    "sanitizedSymbol": "CRYPTO_NINJA",
+    "created_at": "2024-12-11T04:03:19.645606",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1412079",
+    "lockerAddress": "0xf42e6782ca9073dF5F0f52aA7A2Cd30a54667C91"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base Intern",
+  "symbol": "Base Intern",
+  "decimals": 18,
+  "description": "Base Intern is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Intern",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Intern",
+  "addresses": {
+    "8453": "0x18c4621d8b9c4283e19336bdb87f7d2abe2af26b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Intern",
+    "sanitizedSymbol": "BASE_INTERN",
+    "created_at": "2024-12-12T18:26:27.492723",
+    "deployer": "0xb54542296845DBC8B2713549b4B0483Bd19652c8",
+    "lpNftId": "1440743",
+    "lockerAddress": "0x6779BeD0753e38854E1C25B0262Cf94e204fe90E"
+  },
+  "clankerInfo": null
+}

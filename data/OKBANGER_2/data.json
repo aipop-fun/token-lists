@@ -1,0 +1,22 @@
+{
+  "name": "okbanger",
+  "symbol": "okbanger",
+  "decimals": 18,
+  "description": "okbanger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=okbanger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "okbanger",
+  "addresses": {
+    "8453": "0x1d8c5886a4b3f44733750a46a3a6d62945e40df8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "okbanger",
+    "sanitizedSymbol": "OKBANGER_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1346570",
+    "lockerAddress": "0x18Eb26A0d3DCe9771754E36f076CE0e5984E0885"
+  },
+  "clankerInfo": null
+}

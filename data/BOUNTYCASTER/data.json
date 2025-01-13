@@ -1,0 +1,22 @@
+{
+  "name": "BountyCaster",
+  "symbol": "BountyCaster",
+  "decimals": 18,
+  "description": "BountyCaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BountyCaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BountyCaster",
+  "addresses": {
+    "8453": "0x079f76a84ee2b76153889d7247b77009308275e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BountyCaster",
+    "sanitizedSymbol": "BOUNTYCASTER",
+    "created_at": "2024-12-11T11:19:10.723403",
+    "deployer": "0xbF570d01254AA938Ae705ea772c3aB80f42c29EB",
+    "lpNftId": "1416836",
+    "lockerAddress": "0xfbE90A026f7A65C13000f1f7C6875843dc50B235"
+  },
+  "clankerInfo": null
+}

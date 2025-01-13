@@ -1,0 +1,22 @@
+{
+  "name": "SaveACart",
+  "symbol": "SaveACart",
+  "decimals": 18,
+  "description": "SaveACart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SaveACart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SaveACart",
+  "addresses": {
+    "8453": "0x1ac4c94d893642ce5d8f5bc3b81846051c903b15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SaveACart",
+    "sanitizedSymbol": "SAVEACART",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C51532Ef51ab720514b5acAf97Fe6C600FbFb54",
+    "lpNftId": "1283449",
+    "lockerAddress": "0x9E50B86634e9fF1476565d2e4ED186C44064A224"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Jerry",
+  "symbol": "Jerry",
+  "decimals": 18,
+  "description": "Jerry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jerry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jerry",
+  "addresses": {
+    "8453": "0x187baea24852986c292a5002b36ea7015b974779"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jerry",
+    "sanitizedSymbol": "JERRY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151971",
+    "lockerAddress": "0xd9d7602a96E587edD1401AFc35de6128E7aC8305"
+  },
+  "clankerInfo": null
+}

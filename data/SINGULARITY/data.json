@@ -1,0 +1,22 @@
+{
+  "name": "SINGULARITY",
+  "symbol": "SINGULARITY",
+  "decimals": 18,
+  "description": "SINGULARITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SINGULARITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SINGULARITY",
+  "addresses": {
+    "8453": "0x08ffe15102e64d7c5110dda43eff34127238d4e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SINGULARITY",
+    "sanitizedSymbol": "SINGULARITY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x647B7881b8A63FD8C6AAb5b0244b9067223d0e12",
+    "lpNftId": "1320887",
+    "lockerAddress": "0xAde5f7dEE626F1E88F69B31d144c03C0FA4eD56c"
+  },
+  "clankerInfo": null
+}

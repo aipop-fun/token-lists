@@ -1,0 +1,22 @@
+{
+  "name": "STARSMOON",
+  "symbol": "STARSMOON",
+  "decimals": 18,
+  "description": "STARSMOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STARSMOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STARSMOON",
+  "addresses": {
+    "8453": "0x12d155832919e95f0011460940edfc30f6f5c5ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STARSMOON",
+    "sanitizedSymbol": "STARSMOON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1328036",
+    "lockerAddress": "0x95EF79c54Dacf930e4A2e6c24821F07f2B1AA42E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hedgehog in a hat",
+  "symbol": "Hedgehog in a hat",
+  "decimals": 18,
+  "description": "Hedgehog in a hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hedgehog%20in%20a%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hedgehog in a hat",
+  "addresses": {
+    "8453": "0x4148b131a04362d0f3b74b6b63d378c78e350066"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hedgehog in a hat",
+    "sanitizedSymbol": "HEDGEHOG_IN_A_HAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56688a7F8932EFDf7AFaB2a0724a1eEe12147C20",
+    "lpNftId": "1364049",
+    "lockerAddress": "0x168a011F01161F3f5E75DC89b0321C7B529B7afC"
+  },
+  "clankerInfo": null
+}

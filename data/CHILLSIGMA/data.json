@@ -1,0 +1,22 @@
+{
+  "name": "chillsigma",
+  "symbol": "chillsigma",
+  "decimals": 18,
+  "description": "chillsigma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillsigma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillsigma",
+  "addresses": {
+    "8453": "0x0360587243aad14e04955cfc5242d1ab70000712"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillsigma",
+    "sanitizedSymbol": "CHILLSIGMA",
+    "created_at": "2024-12-10T07:22:17.662686",
+    "deployer": "0x55Ad73084479c02Ce3C4265F312871e638F95Ff4",
+    "lpNftId": "1397869",
+    "lockerAddress": "0xA62f5ca9d85b56DB26b3407F494837d3cbd31f09"
+  },
+  "clankerInfo": null
+}

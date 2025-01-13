@@ -1,0 +1,22 @@
+{
+  "name": "White Bag",
+  "symbol": "White Bag",
+  "decimals": 18,
+  "description": "White Bag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=White%20Bag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "White Bag",
+  "addresses": {
+    "8453": "0x20f165ab724e66a1b15761c4dfb487ab05b9762c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "White Bag",
+    "sanitizedSymbol": "WHITE_BAG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9f3Eec7C6d68482a337E4AFa90D66127545E0288",
+    "lpNftId": "1331664",
+    "lockerAddress": "0x4639F50b61Cdb7Bb75f69db7D45C26b8D34c5A0a"
+  },
+  "clankerInfo": null
+}

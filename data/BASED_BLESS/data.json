@@ -1,0 +1,22 @@
+{
+  "name": "Based Bless",
+  "symbol": "Based Bless",
+  "decimals": 18,
+  "description": "Based Bless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Bless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Bless",
+  "addresses": {
+    "8453": "0x10b9c8a61a0e735e934a1f4b127e83c927d9e50e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Bless",
+    "sanitizedSymbol": "BASED_BLESS",
+    "created_at": "2024-12-12T16:07:05.747395",
+    "deployer": "0x3312723a3075306d381E243790f673A753619019",
+    "lpNftId": "1437920",
+    "lockerAddress": "0x02A5f4CBaD003501263DbF58be8d4B267720faF5"
+  },
+  "clankerInfo": null
+}

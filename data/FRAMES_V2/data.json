@@ -1,0 +1,22 @@
+{
+  "name": "Frames V2",
+  "symbol": "Frames V2",
+  "decimals": 18,
+  "description": "Frames V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frames%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frames V2",
+  "addresses": {
+    "8453": "0x224a218f8ecb432b162264f0852e891a4de13711"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frames V2",
+    "sanitizedSymbol": "FRAMES_V2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205459",
+    "lockerAddress": "0x6f523c66ed24d673b1ab19944F7c1Ca6a29EB2b1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WhiteHatDogWithBone",
+  "symbol": "WhiteHatDogWithBone",
+  "decimals": 18,
+  "description": "WhiteHatDogWithBone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WhiteHatDogWithBone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WhiteHatDogWithBone",
+  "addresses": {
+    "8453": "0x0614b699c98f69e2e61e7b0db7cb70bb34b9d6de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WhiteHatDogWithBone",
+    "sanitizedSymbol": "WHITEHATDOGWITHBONE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222062",
+    "lockerAddress": "0x20193dd35858d6196560319045819d71E7fFc36E"
+  },
+  "clankerInfo": null
+}

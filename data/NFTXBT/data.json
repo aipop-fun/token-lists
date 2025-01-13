@@ -1,0 +1,22 @@
+{
+  "name": "NFTXBT",
+  "symbol": "NFTXBT",
+  "decimals": 18,
+  "description": "NFTXBT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NFTXBT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NFTXBT",
+  "addresses": {
+    "8453": "0x2be047c903dcdbed16943f93833e3073c0b3ca80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NFTXBT",
+    "sanitizedSymbol": "NFTXBT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1316520",
+    "lockerAddress": "0x8927ec2c2cE3909f7faa3232ea6f9c688da52a4d"
+  },
+  "clankerInfo": null
+}

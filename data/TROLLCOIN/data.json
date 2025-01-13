@@ -1,0 +1,22 @@
+{
+  "name": "TrollCoin",
+  "symbol": "TrollCoin",
+  "decimals": 18,
+  "description": "TrollCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrollCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrollCoin",
+  "addresses": {
+    "8453": "0x33f88cac3c716a3bd59cf8ddb5e0a1f2dd9341e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrollCoin",
+    "sanitizedSymbol": "TROLLCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165949",
+    "lockerAddress": "0x8E77409ACfC55305280AEb145BAbB0A17c3CD3eB"
+  },
+  "clankerInfo": null
+}

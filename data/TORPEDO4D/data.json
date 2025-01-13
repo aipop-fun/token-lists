@@ -1,0 +1,22 @@
+{
+  "name": "Torpedo4D",
+  "symbol": "Torpedo4D",
+  "decimals": 18,
+  "description": "Torpedo4D is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Torpedo4D",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Torpedo4D",
+  "addresses": {
+    "8453": "0x1c6fc8d8a1e63a8afd75fa817139d107da02f952"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Torpedo4D",
+    "sanitizedSymbol": "TORPEDO4D",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8ddE615413F33eF5b2c5b9Dd9ebeE15E1279A7C6",
+    "lpNftId": "1285014",
+    "lockerAddress": "0x59d886d57Cac20937bF4F7E6E0a28D1C31E2e495"
+  },
+  "clankerInfo": null
+}

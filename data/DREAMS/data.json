@@ -1,0 +1,22 @@
+{
+  "name": "Dreams",
+  "symbol": "Dreams",
+  "decimals": 18,
+  "description": "Dreams is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dreams",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dreams",
+  "addresses": {
+    "8453": "0x121c25617f2e8426105e7712ac7603fc97a131d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dreams",
+    "sanitizedSymbol": "DREAMS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF49d3994D738F417d761678DE19Cb02D14e1161e",
+    "lpNftId": "1321881",
+    "lockerAddress": "0x9b1240BC9281ACCE7ced28DA3CD5D5E07041D824"
+  },
+  "clankerInfo": null
+}

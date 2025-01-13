@@ -1,0 +1,22 @@
+{
+  "name": "MoonPaws",
+  "symbol": "MoonPaws",
+  "decimals": 18,
+  "description": "MoonPaws is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonPaws",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonPaws",
+  "addresses": {
+    "8453": "0x2d589a209debc93637d0b8da3452a967fec7d06c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonPaws",
+    "sanitizedSymbol": "MOONPAWS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE5AC80a69E9fA7f6428480b2300338eE5136044d",
+    "lpNftId": "1324846",
+    "lockerAddress": "0x83DD51e02E6156e6a959A2909A59C76CD1fcf915"
+  },
+  "clankerInfo": null
+}

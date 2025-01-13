@@ -1,0 +1,22 @@
+{
+  "name": "Wira",
+  "symbol": "Wira",
+  "decimals": 18,
+  "description": "Wira is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wira",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wira",
+  "addresses": {
+    "8453": "0x1efd114d1f2aec61335a02e9cb18b07b5d835b45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wira",
+    "sanitizedSymbol": "WIRA",
+    "created_at": "2024-12-09T04:19:07.695383",
+    "deployer": "0x9ed991A8F5c31B2793B4Ed9E02055f7D0a795457",
+    "lpNftId": "1381486",
+    "lockerAddress": "0x7EE1db0Ac5435445996bADf8F252f589318aEc4F"
+  },
+  "clankerInfo": null
+}

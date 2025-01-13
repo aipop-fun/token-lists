@@ -1,0 +1,22 @@
+{
+  "name": "metamask",
+  "symbol": "metamask",
+  "decimals": 18,
+  "description": "metamask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=metamask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "metamask",
+  "addresses": {
+    "8453": "0x05fd5a75513f0dc635af2b82a58954406df21b61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "metamask",
+    "sanitizedSymbol": "METAMASK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x25441a8254AF607947c939eDa43364d55725125c",
+    "lpNftId": "1323101",
+    "lockerAddress": "0xfBe1972Bf2eCAdfb492b1D9B10a50255b7C4919B"
+  },
+  "clankerInfo": null
+}

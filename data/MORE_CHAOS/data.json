@@ -1,0 +1,22 @@
+{
+  "name": "More Chaos",
+  "symbol": "More Chaos",
+  "decimals": 18,
+  "description": "More Chaos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=More%20Chaos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "More Chaos",
+  "addresses": {
+    "8453": "0x05c5d103cef193c96c50b25e0c426be0335bf823"
+  },
+  "tokenInfo": {
+    "originalSymbol": "More Chaos",
+    "sanitizedSymbol": "MORE_CHAOS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x62321E5A55EA63f35944D8BAD9eA4873e6f4c71B",
+    "lpNftId": "1322880",
+    "lockerAddress": "0x8904543A6a172fA0c00c6054eF7f8bf1E930bF24"
+  },
+  "clankerInfo": null
+}

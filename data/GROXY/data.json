@@ -1,0 +1,22 @@
+{
+  "name": "GROXY",
+  "symbol": "GROXY",
+  "decimals": 18,
+  "description": "GROXY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GROXY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GROXY",
+  "addresses": {
+    "8453": "0x239cdc20de86ae7560372baf6bbefbf695383120"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GROXY",
+    "sanitizedSymbol": "GROXY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7887400E4Cc0D3A1bc7EAFC8ddC55035d9Dcbf23",
+    "lpNftId": "1309207",
+    "lockerAddress": "0xd96458Af92eacc1002f3471fE927FdCCD434436D"
+  },
+  "clankerInfo": null
+}

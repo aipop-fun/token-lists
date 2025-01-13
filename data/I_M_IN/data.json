@@ -1,0 +1,22 @@
+{
+  "name": "I'm In",
+  "symbol": "I'm In",
+  "decimals": 18,
+  "description": "I'm In is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I'm%20In",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I'm In",
+  "addresses": {
+    "8453": "0x1b7c76cdf20f5ecb618f0ffff48339f68285067c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I'm In",
+    "sanitizedSymbol": "I_M_IN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232329",
+    "lockerAddress": "0xC68e94D71D0ED7a74070CB388d01067ED85AA189"
+  },
+  "clankerInfo": null
+}

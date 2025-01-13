@@ -1,0 +1,22 @@
+{
+  "name": "Lady Clanker",
+  "symbol": "Lady Clanker",
+  "decimals": 18,
+  "description": "Lady Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lady%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lady Clanker",
+  "addresses": {
+    "8453": "0x299bd1b2ea6355f58c199a8657aa103c9ef680b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lady Clanker",
+    "sanitizedSymbol": "LADY_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc0DA86Fae8418C44d1D097d15820b656E46c7eC1",
+    "lpNftId": "1361754",
+    "lockerAddress": "0x98b7c27eae7569607A980BA78f993587e3DeAE7B"
+  },
+  "clankerInfo": null
+}

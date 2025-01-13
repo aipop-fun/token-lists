@@ -1,0 +1,22 @@
+{
+  "name": "GOODGAME",
+  "symbol": "GOODGAME",
+  "decimals": 18,
+  "description": "GOODGAME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOODGAME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOODGAME",
+  "addresses": {
+    "8453": "0x2cd4c6f3bf63593dc333935f1486dc892537690b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOODGAME",
+    "sanitizedSymbol": "GOODGAME",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1267623",
+    "lockerAddress": "0xF69cB997B57a8eab888198BE10Bbc12975400341"
+  },
+  "clankerInfo": null
+}

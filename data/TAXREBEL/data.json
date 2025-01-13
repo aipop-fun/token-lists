@@ -1,0 +1,22 @@
+{
+  "name": "TaxRebel",
+  "symbol": "TaxRebel",
+  "decimals": 18,
+  "description": "TaxRebel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TaxRebel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TaxRebel",
+  "addresses": {
+    "8453": "0x03cae56dcedbca7a0e406c608ae8463a6e8c1e5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TaxRebel",
+    "sanitizedSymbol": "TAXREBEL",
+    "created_at": "2024-12-10T04:48:33.499396",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1396556",
+    "lockerAddress": "0xEDDA5f22D68786580dc91fD5Ba1c2C9E3e7Aa12e"
+  },
+  "clankerInfo": null
+}

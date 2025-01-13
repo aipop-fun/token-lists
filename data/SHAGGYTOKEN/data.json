@@ -1,0 +1,22 @@
+{
+  "name": "ShaggyToken",
+  "symbol": "ShaggyToken",
+  "decimals": 18,
+  "description": "ShaggyToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShaggyToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShaggyToken",
+  "addresses": {
+    "8453": "0x1078022bf8241c689aaa9a803be7a119910adf4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShaggyToken",
+    "sanitizedSymbol": "SHAGGYTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166293",
+    "lockerAddress": "0xd4bd72c3fE2ae84DAE222A53Cd8AA91AA574A10E"
+  },
+  "clankerInfo": null
+}

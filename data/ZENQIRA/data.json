@@ -1,0 +1,22 @@
+{
+  "name": "Zenqira",
+  "symbol": "Zenqira",
+  "decimals": 18,
+  "description": "Zenqira is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zenqira",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zenqira",
+  "addresses": {
+    "8453": "0x0f7d42ba493183e6049d44791f0f50be0e6c7181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zenqira",
+    "sanitizedSymbol": "ZENQIRA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5259dAf51a4311637216Ece9c005e6f551114A4B",
+    "lpNftId": "1286970",
+    "lockerAddress": "0x6f3993ff0A535F52249b5Aa22C53F487aA8e24Cc"
+  },
+  "clankerInfo": null
+}

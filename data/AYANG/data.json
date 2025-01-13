@@ -1,0 +1,22 @@
+{
+  "name": "Ayang",
+  "symbol": "Ayang",
+  "decimals": 18,
+  "description": "Ayang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ayang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ayang",
+  "addresses": {
+    "8453": "0x208dd5361a8e39e17a13dbebc2cbf7b3b7191cc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ayang",
+    "sanitizedSymbol": "AYANG",
+    "created_at": "2024-12-11T07:59:53.203163",
+    "deployer": "0x36acec90bDf8C47D732ef57dc4ffb2AaE3080d24",
+    "lpNftId": "1414518",
+    "lockerAddress": "0x157b95D376D92A7342Ef6757755ac11c3ab83658"
+  },
+  "clankerInfo": null
+}

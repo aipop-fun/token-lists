@@ -1,0 +1,22 @@
+{
+  "name": "Pippin",
+  "symbol": "Pippin",
+  "decimals": 18,
+  "description": "Pippin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pippin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pippin",
+  "addresses": {
+    "8453": "0x28419a037ade845368445e1d92c440c05866354d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pippin",
+    "sanitizedSymbol": "PIPPIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7C43b56e9FeD360fdCddB541D944a92825aDCBb2",
+    "lpNftId": "1252165",
+    "lockerAddress": "0x942D3A6339e6ED0Bec9D3902ae97a1D7C0A8530f"
+  },
+  "clankerInfo": null
+}

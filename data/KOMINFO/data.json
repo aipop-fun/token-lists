@@ -1,0 +1,22 @@
+{
+  "name": "KOMINFO",
+  "symbol": "KOMINFO",
+  "decimals": 18,
+  "description": "KOMINFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KOMINFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KOMINFO",
+  "addresses": {
+    "8453": "0x01b593dff6d97211441cf97b75053bfaa0047632"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KOMINFO",
+    "sanitizedSymbol": "KOMINFO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x013738Dda211Ae9988CE34a5b0460e64299abcB5",
+    "lpNftId": "1320353",
+    "lockerAddress": "0xbD38C037b316c10AF6fa61f1E3F186949df295bB"
+  },
+  "clankerInfo": null
+}

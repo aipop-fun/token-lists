@@ -1,0 +1,22 @@
+{
+  "name": "We Ham",
+  "symbol": "We Ham",
+  "decimals": 18,
+  "description": "We Ham is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=We%20Ham",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "We Ham",
+  "addresses": {
+    "8453": "0x3413ccbcde1a9f81b1d50021ded88d0725c0a0fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "We Ham",
+    "sanitizedSymbol": "WE_HAM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119902",
+    "lockerAddress": "0xcF7C4C8A8A5fBE59af3bca2480C0E72760599679"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "elon musk",
+  "symbol": "elon musk",
+  "decimals": 18,
+  "description": "elon musk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=elon%20musk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "elon musk",
+  "addresses": {
+    "8453": "0x1eb48be306d469527f26e77e03fa2ca42aa138b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "elon musk",
+    "sanitizedSymbol": "ELON_MUSK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4850EaE55A6EF549955826b8a86e756C2fbbEF77",
+    "lpNftId": "1319654",
+    "lockerAddress": "0x3eD7267F8504E855acBb4176F1e0f9aEdB807b1d"
+  },
+  "clankerInfo": null
+}

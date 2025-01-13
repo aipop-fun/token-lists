@@ -1,0 +1,22 @@
+{
+  "name": "Buy High Sell Low",
+  "symbol": "Buy High Sell Low",
+  "decimals": 18,
+  "description": "Buy High Sell Low is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Buy%20High%20Sell%20Low",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Buy High Sell Low",
+  "addresses": {
+    "8453": "0x26a2ca3b3fa09cc9740898defd46fb1f65885273"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Buy High Sell Low",
+    "sanitizedSymbol": "BUY_HIGH_SELL_LOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x320E73e1238b95E5Eb54C3FdBebF279F36a06714",
+    "lpNftId": "1335334",
+    "lockerAddress": "0xB6908435Ca5732275205c8B8d35efA70F0cC6a4d"
+  },
+  "clankerInfo": null
+}

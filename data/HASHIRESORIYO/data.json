@@ -1,0 +1,22 @@
+{
+  "name": "hashiresoriyo",
+  "symbol": "hashiresoriyo",
+  "decimals": 18,
+  "description": "hashiresoriyo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hashiresoriyo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hashiresoriyo",
+  "addresses": {
+    "8453": "0x2e41948df2b12b541f903ab7ec911428d317bd9a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hashiresoriyo",
+    "sanitizedSymbol": "HASHIRESORIYO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbA1Adce08840FA8191FDc349FF1E739c903F1Af8",
+    "lpNftId": "1330014",
+    "lockerAddress": "0x2f67aE663a9b42Ecb9Ec6057FFcc3bF93f327976"
+  },
+  "clankerInfo": null
+}

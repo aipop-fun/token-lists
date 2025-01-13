@@ -1,0 +1,22 @@
+{
+  "name": "GAYPEPE",
+  "symbol": "GAYPEPE",
+  "decimals": 18,
+  "description": "GAYPEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAYPEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAYPEPE",
+  "addresses": {
+    "8453": "0x345d327ed8e097828649704edf9e8615980124ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAYPEPE",
+    "sanitizedSymbol": "GAYPEPE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153602",
+    "lockerAddress": "0xb3d89f8FF315f18F84Ac6AfD1c1f95Dd01a88A09"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Virtuals",
+  "symbol": "Virtuals",
+  "decimals": 18,
+  "description": "Virtuals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Virtuals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Virtuals",
+  "addresses": {
+    "8453": "0x0dd09e912401f40f3de51cc8c8c552bf15117ae9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Virtuals",
+    "sanitizedSymbol": "VIRTUALS",
+    "created_at": "2024-12-10T10:38:54.958449",
+    "deployer": "0xaE2051D467fe08A4F4D70Ff6138fa020fe252F02",
+    "lpNftId": "1399929",
+    "lockerAddress": "0xd01eeda3b222306b632F7f036408BF05950e92B4"
+  },
+  "clankerInfo": null
+}

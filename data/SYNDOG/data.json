@@ -1,0 +1,22 @@
+{
+  "name": "SYNDOG",
+  "symbol": "SYNDOG",
+  "decimals": 18,
+  "description": "SYNDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SYNDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SYNDOG",
+  "addresses": {
+    "8453": "0x38034d8c7058387ecf2a1cb1f47063c2757d9419"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SYNDOG",
+    "sanitizedSymbol": "SYNDOG",
+    "created_at": "2024-12-09T18:58:07.498531",
+    "deployer": "0x446F549f37A397B78921CD28CFB7E21224fCEca8",
+    "lpNftId": "1390525",
+    "lockerAddress": "0x5884030Db61593cE9F9cdEBc9979d9DD82453218"
+  },
+  "clankerInfo": null
+}

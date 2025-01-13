@@ -1,0 +1,22 @@
+{
+  "name": "Elon Base",
+  "symbol": "Elon Base",
+  "decimals": 18,
+  "description": "Elon Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elon%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elon Base",
+  "addresses": {
+    "8453": "0x21a613d5a34247059873c80fe6ae5d6bb7fd200e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elon Base",
+    "sanitizedSymbol": "ELON_BASE",
+    "created_at": "2024-12-12T03:41:01.044692",
+    "deployer": "0x851432cA77546B472b08e06cE050e4fDeB557dA1",
+    "lpNftId": "1428963",
+    "lockerAddress": "0xc3554BfBFff1aAD444Cad897bf9aC93a3cB0f990"
+  },
+  "clankerInfo": null
+}

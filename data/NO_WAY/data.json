@@ -1,0 +1,22 @@
+{
+  "name": "no way",
+  "symbol": "no way",
+  "decimals": 18,
+  "description": "no way is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=no%20way",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "no way",
+  "addresses": {
+    "8453": "0x373a9dbd74ab06abe6fdcb96dae5b5e90bce6c61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "no way",
+    "sanitizedSymbol": "NO_WAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6f50f30E148B0aeC9a10706b2784Fc596136384c",
+    "lpNftId": "1322092",
+    "lockerAddress": "0x36EA6Bc2eC6b8C2cad9BDA0aD73cEc6f0898bb19"
+  },
+  "clankerInfo": null
+}

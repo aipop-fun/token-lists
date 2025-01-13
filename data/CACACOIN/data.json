@@ -1,0 +1,22 @@
+{
+  "name": "CacaCoin",
+  "symbol": "CacaCoin",
+  "decimals": 18,
+  "description": "CacaCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CacaCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CacaCoin",
+  "addresses": {
+    "8453": "0x33080f6b5cbffbdc40d66be91a35a570ae352143"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CacaCoin",
+    "sanitizedSymbol": "CACACOIN",
+    "created_at": "2024-12-09T13:51:19.549853",
+    "deployer": "0x3a904b9797f8ff2E1337c6871705048c482D155d",
+    "lpNftId": "1387643",
+    "lockerAddress": "0xe5224089e1597615ddb88a0070600d274F75479c"
+  },
+  "clankerInfo": null
+}

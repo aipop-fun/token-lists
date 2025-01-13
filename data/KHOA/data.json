@@ -1,0 +1,22 @@
+{
+  "name": "Khoa",
+  "symbol": "Khoa",
+  "decimals": 18,
+  "description": "Khoa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Khoa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Khoa",
+  "addresses": {
+    "8453": "0x11e8e52c7677e035d2a06300596250bfe54cd19f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Khoa",
+    "sanitizedSymbol": "KHOA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeCd93c24aa1BAf83a1215265C7406ab446db1499",
+    "lpNftId": "1328906",
+    "lockerAddress": "0xB231cD352dA9d1c523ff9394D66742f62aBebE17"
+  },
+  "clankerInfo": null
+}

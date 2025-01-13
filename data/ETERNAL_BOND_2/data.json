@@ -1,0 +1,22 @@
+{
+  "name": "Eternal Bond",
+  "symbol": "Eternal Bond",
+  "decimals": 18,
+  "description": "Eternal Bond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eternal%20Bond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eternal Bond",
+  "addresses": {
+    "8453": "0x195d9d82ef2396f2a427fab0b26a423e57090a9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eternal Bond",
+    "sanitizedSymbol": "ETERNAL_BOND_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234221",
+    "lockerAddress": "0x725794fd2B986b0E08417f113ED9c96BE3586f14"
+  },
+  "clankerInfo": null
+}

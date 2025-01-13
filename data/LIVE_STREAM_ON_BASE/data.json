@@ -1,0 +1,22 @@
+{
+  "name": "Live Stream on Base",
+  "symbol": "Live Stream on Base",
+  "decimals": 18,
+  "description": "Live Stream on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Live%20Stream%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Live Stream on Base",
+  "addresses": {
+    "8453": "0x1e4c734f7d14d14882775f32b36cab468e015edc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Live Stream on Base",
+    "sanitizedSymbol": "LIVE_STREAM_ON_BASE",
+    "created_at": "2024-12-12T06:55:58.637944",
+    "deployer": "0xF1CE74080f700e0cdE521Adf3fBB8bDd16dD1875",
+    "lpNftId": "1429659",
+    "lockerAddress": "0xE1e5a55B101062aE0043B6691B18f6Eb26524e12"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPECASH",
+  "symbol": "PEPECASH",
+  "decimals": 18,
+  "description": "PEPECASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPECASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPECASH",
+  "addresses": {
+    "8453": "0x2d99a757c8f6c6836bd78f60b7f8bfab26b30c4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPECASH",
+    "sanitizedSymbol": "PEPECASH",
+    "created_at": "2024-12-12T18:18:59.161391",
+    "deployer": "0x3d95D4A6DbaE0Cd0643a82b13A13b08921D6ADf7",
+    "lpNftId": "1440656",
+    "lockerAddress": "0x857DE664EB5F004db677D0bBa3D082E3cE118d9D"
+  },
+  "clankerInfo": null
+}

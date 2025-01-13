@@ -1,0 +1,22 @@
+{
+  "name": "AIVirtualHelper",
+  "symbol": "AIVirtualHelper",
+  "decimals": 18,
+  "description": "AIVirtualHelper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIVirtualHelper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIVirtualHelper",
+  "addresses": {
+    "8453": "0x2e4afd69d4807213f83a3738b2cbdb6fabe04b65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIVirtualHelper",
+    "sanitizedSymbol": "AIVIRTUALHELPER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaF95D68532Fc3c02FF4AaE0Cd64182bE368D9417",
+    "lpNftId": "1288322",
+    "lockerAddress": "0xF9020C29c54D5f3142AabeEB6a69182681212C00"
+  },
+  "clankerInfo": null
+}

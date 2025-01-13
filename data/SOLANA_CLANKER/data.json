@@ -1,0 +1,22 @@
+{
+  "name": "Solana clanker",
+  "symbol": "Solana clanker",
+  "decimals": 18,
+  "description": "Solana clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Solana%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Solana clanker",
+  "addresses": {
+    "8453": "0x1ba538c985bcaeafebfb696ab86e6948118588c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Solana clanker",
+    "sanitizedSymbol": "SOLANA_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4Df7874063E416803d3A29A9f599FcC3B9957b43",
+    "lpNftId": "1336768",
+    "lockerAddress": "0x9e53949FDE840B6652f5B7D593E548b5abC19643"
+  },
+  "clankerInfo": null
+}

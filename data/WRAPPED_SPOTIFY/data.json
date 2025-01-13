@@ -1,0 +1,22 @@
+{
+  "name": "Wrapped Spotify",
+  "symbol": "Wrapped Spotify",
+  "decimals": 18,
+  "description": "Wrapped Spotify is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wrapped%20Spotify",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wrapped Spotify",
+  "addresses": {
+    "8453": "0x3af5f9afdfb9b5f170748b874e9e2ccf6aeaf4dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wrapped Spotify",
+    "sanitizedSymbol": "WRAPPED_SPOTIFY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x73a8bdebd8C323E17805De6CcE197a9a79dA6928",
+    "lpNftId": "1327740",
+    "lockerAddress": "0xFBc23Aa6a5631d2def6731BB5ffbcCe1c123982d"
+  },
+  "clankerInfo": null
+}

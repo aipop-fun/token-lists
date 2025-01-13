@@ -1,0 +1,22 @@
+{
+  "name": "Shrek",
+  "symbol": "Shrek",
+  "decimals": 18,
+  "description": "Shrek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shrek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shrek",
+  "addresses": {
+    "8453": "0x034c7f1b0ab1649b8a209fe1c452e2c2820fc316"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shrek",
+    "sanitizedSymbol": "SHREK_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3Ad226427D6C1d8a53fb1948EfCd7a98890Fe8C1",
+    "lpNftId": "1322995",
+    "lockerAddress": "0xCc6562123F64361a330d45f0B97D953f10fd9c4e"
+  },
+  "clankerInfo": null
+}

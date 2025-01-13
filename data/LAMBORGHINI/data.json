@@ -1,0 +1,22 @@
+{
+  "name": "Lamborghini",
+  "symbol": "Lamborghini",
+  "decimals": 18,
+  "description": "Lamborghini is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lamborghini",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lamborghini",
+  "addresses": {
+    "8453": "0x132a262433b5b9334aac5ce11dc0c9638ad59904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lamborghini",
+    "sanitizedSymbol": "LAMBORGHINI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C35739128867BfB69fDfC6Df6386Ee6C4c4cceD",
+    "lpNftId": "1320657",
+    "lockerAddress": "0xCf431650334c1A5A2Ca7B252023B96a019E9a1EC"
+  },
+  "clankerInfo": null
+}

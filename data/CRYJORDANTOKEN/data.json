@@ -1,0 +1,22 @@
+{
+  "name": "CryJordanToken",
+  "symbol": "CryJordanToken",
+  "decimals": 18,
+  "description": "CryJordanToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryJordanToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryJordanToken",
+  "addresses": {
+    "8453": "0x38c180008371c61e6b5ba14b30bb753a651694de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryJordanToken",
+    "sanitizedSymbol": "CRYJORDANTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166299",
+    "lockerAddress": "0x0e22C8bd7587a768ba6C811EC2177f833b75549E"
+  },
+  "clankerInfo": null
+}

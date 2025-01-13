@@ -1,0 +1,22 @@
+{
+  "name": "DRSGME",
+  "symbol": "DRSGME",
+  "decimals": 18,
+  "description": "DRSGME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRSGME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRSGME",
+  "addresses": {
+    "8453": "0x4053ebd62877f9a2c67ba119f9576893ca108047"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRSGME",
+    "sanitizedSymbol": "DRSGME",
+    "created_at": "2024-12-11T15:53:49.300156",
+    "deployer": "0xdE92f70C81437662d17eb046C617Cd2A47c38BC2",
+    "lpNftId": "1421311",
+    "lockerAddress": "0x7e3ecf570851aC92082C115693b2bc6DE464e7D3"
+  },
+  "clankerInfo": null
+}

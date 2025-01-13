@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin 100,000 American Dollars",
+  "symbol": "Bitcoin 100,000 American Dollars",
+  "decimals": 18,
+  "description": "Bitcoin 100,000 American Dollars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20100%2C000%20American%20Dollars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin 100,000 American Dollars",
+  "addresses": {
+    "8453": "0x2a8c01b4c48b3937189e50082e1fd108e2fcf948"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin 100,000 American Dollars",
+    "sanitizedSymbol": "BITCOIN_100_000_AMERICAN_DOLLARS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x508dd44Ff3404e618D430D4562C3773B073a5Ccc",
+    "lpNftId": "1328426",
+    "lockerAddress": "0x80031eb331Eca94EB3Ea5c97d7f2b83197B5141c"
+  },
+  "clankerInfo": null
+}

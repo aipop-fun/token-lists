@@ -1,0 +1,22 @@
+{
+  "name": "Baseketball",
+  "symbol": "Baseketball",
+  "decimals": 18,
+  "description": "Baseketball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baseketball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baseketball",
+  "addresses": {
+    "8453": "0x2c2aa0d8e1611d54100c54f036e5208c5aa11217"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baseketball",
+    "sanitizedSymbol": "BASEKETBALL",
+    "created_at": "2024-12-11T02:31:12.650669",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1410734",
+    "lockerAddress": "0xb44aB4C1Ff37dF5bC999845b92e65A30EfDA4EA8"
+  },
+  "clankerInfo": null
+}

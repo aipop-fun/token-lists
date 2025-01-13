@@ -1,0 +1,22 @@
+{
+  "name": "HatWifHat",
+  "symbol": "HatWifHat",
+  "decimals": 18,
+  "description": "HatWifHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HatWifHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HatWifHat",
+  "addresses": {
+    "8453": "0x03acf4678b449d6ec53d79980dbb7c4fb0e0d244"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HatWifHat",
+    "sanitizedSymbol": "HATWIFHAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x51f3b880207Db19635702e2bf9660Dc4b659bb41",
+    "lpNftId": "1319118",
+    "lockerAddress": "0xA837903670837c374317dc7C9da475b2Fdc375bF"
+  },
+  "clankerInfo": null
+}

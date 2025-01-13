@@ -1,0 +1,22 @@
+{
+  "name": "悟空",
+  "symbol": "悟空",
+  "decimals": 18,
+  "description": "悟空 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E6%82%9F%E7%A9%BA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "悟空",
+  "addresses": {
+    "8453": "0x0b9a87f6f5c74b71dc6349617a1f6b7b9bd5ed73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "悟空",
+    "sanitizedSymbol": "TOKEN_44b249aa",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231527",
+    "lockerAddress": "0xc6B3701C6Ca803F2a8562eDe08799cAa3921EdAA"
+  },
+  "clankerInfo": null
+}

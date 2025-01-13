@@ -1,0 +1,22 @@
+{
+  "name": "DogegodToken",
+  "symbol": "DogegodToken",
+  "decimals": 18,
+  "description": "DogegodToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogegodToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogegodToken",
+  "addresses": {
+    "8453": "0x190b5446c92a09cfb7fcc4a7cd8a3e1989029f02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogegodToken",
+    "sanitizedSymbol": "DOGEGODTOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1353661",
+    "lockerAddress": "0x526E689CF09f48d5937B97d4C8fCfa9E302bcD14"
+  },
+  "clankerInfo": null
+}

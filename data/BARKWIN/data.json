@@ -1,0 +1,22 @@
+{
+  "name": "BARKWIN",
+  "symbol": "BARKWIN",
+  "decimals": 18,
+  "description": "BARKWIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BARKWIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BARKWIN",
+  "addresses": {
+    "8453": "0x0b496cbaee198e965ff9819c58e621239ce83f76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BARKWIN",
+    "sanitizedSymbol": "BARKWIN",
+    "created_at": "2024-12-12T06:32:47.131779",
+    "deployer": "0x753cB878d12D538E13873c9417DCF932107e05d0",
+    "lpNftId": "1429597",
+    "lockerAddress": "0x6a57bF26136f599305d677Ed584Da4FeFe94119a"
+  },
+  "clankerInfo": null
+}

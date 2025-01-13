@@ -1,0 +1,22 @@
+{
+  "name": "Santas Little Helper",
+  "symbol": "Santas Little Helper",
+  "decimals": 18,
+  "description": "Santas Little Helper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santas%20Little%20Helper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santas Little Helper",
+  "addresses": {
+    "8453": "0x25a2514b63f3c69a87169d6988d9851b767d1744"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santas Little Helper",
+    "sanitizedSymbol": "SANTAS_LITTLE_HELPER",
+    "created_at": "2024-12-11T07:53:25.091094",
+    "deployer": "0x65F9Cc60087fEDC7B8d2245E824535A85d036824",
+    "lpNftId": "1414389",
+    "lockerAddress": "0x7F22C3Eb6faa902E6B7Fe43b229E55F9ECE3e98e"
+  },
+  "clankerInfo": null
+}

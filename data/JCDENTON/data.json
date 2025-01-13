@@ -1,0 +1,22 @@
+{
+  "name": "jcdenton",
+  "symbol": "jcdenton",
+  "decimals": 18,
+  "description": "jcdenton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jcdenton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jcdenton",
+  "addresses": {
+    "8453": "0x328e3ffc0255d5f249af36cc4f9b2cbaa5f6e35c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jcdenton",
+    "sanitizedSymbol": "JCDENTON",
+    "created_at": "2024-12-11T08:50:32.021932",
+    "deployer": "0xDbd88e1e4f4222Bb0e6641bb545cD509F62471cB",
+    "lpNftId": "1415236",
+    "lockerAddress": "0x530294346711Ad5497B9C96fb2b8ADeC289957aC"
+  },
+  "clankerInfo": null
+}

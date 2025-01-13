@@ -1,0 +1,22 @@
+{
+  "name": "Billionaire",
+  "symbol": "Billionaire",
+  "decimals": 18,
+  "description": "Billionaire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Billionaire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Billionaire",
+  "addresses": {
+    "8453": "0x3d89b308805618aa5b2c6f5df0d1522faf491a34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Billionaire",
+    "sanitizedSymbol": "BILLIONAIRE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x320E73e1238b95E5Eb54C3FdBebF279F36a06714",
+    "lpNftId": "1291441",
+    "lockerAddress": "0xe823b60383071C8FB3123F8530A697621e9D7292"
+  },
+  "clankerInfo": null
+}

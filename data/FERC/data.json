@@ -1,0 +1,22 @@
+{
+  "name": "FERC",
+  "symbol": "FERC",
+  "decimals": 18,
+  "description": "FERC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FERC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FERC",
+  "addresses": {
+    "8453": "0x0420d94de510501025567e9faf6cd11a5d6d1f75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FERC",
+    "sanitizedSymbol": "FERC",
+    "created_at": "2024-12-10T09:48:35.078535",
+    "deployer": "0x8286A9A98dd3A31754b116d68d154170E93072e4",
+    "lpNftId": "1399377",
+    "lockerAddress": "0x405D5dCA5b043a5E284cEB2d5D8989812fE10C8F"
+  },
+  "clankerInfo": null
+}

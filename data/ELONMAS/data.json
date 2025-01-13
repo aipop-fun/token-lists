@@ -1,0 +1,22 @@
+{
+  "name": "elonmas",
+  "symbol": "elonmas",
+  "decimals": 18,
+  "description": "elonmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=elonmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "elonmas",
+  "addresses": {
+    "8453": "0x04a851879a23866ed997c94945c130afe380a151"
+  },
+  "tokenInfo": {
+    "originalSymbol": "elonmas",
+    "sanitizedSymbol": "ELONMAS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF818755b3278389cBE81c880A849ed50Ec82AA55",
+    "lpNftId": "1276425",
+    "lockerAddress": "0xD647C62963253a31460Fe72509F07E564063A67E"
+  },
+  "clankerInfo": null
+}

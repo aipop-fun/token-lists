@@ -1,0 +1,22 @@
+{
+  "name": "index",
+  "symbol": "index",
+  "decimals": 18,
+  "description": "index is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=index",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "index",
+  "addresses": {
+    "8453": "0x0dfd11ef72a6230a874012aa49230bb10f9af5f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "index",
+    "sanitizedSymbol": "INDEX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1321558",
+    "lockerAddress": "0x3115b74A2545A775760433CD78cE21E142fA8D08"
+  },
+  "clankerInfo": null
+}

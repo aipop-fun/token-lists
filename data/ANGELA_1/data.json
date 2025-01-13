@@ -1,0 +1,22 @@
+{
+  "name": "ANGELA",
+  "symbol": "ANGELA",
+  "decimals": 18,
+  "description": "ANGELA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANGELA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANGELA",
+  "addresses": {
+    "8453": "0x2e58c52c646916563d78d14545fb94e64f7f9941"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANGELA",
+    "sanitizedSymbol": "ANGELA_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212510",
+    "lockerAddress": "0x3707f0E869B1f5F092DB3f35892F7Ad7e3755e39"
+  },
+  "clankerInfo": null
+}

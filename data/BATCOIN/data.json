@@ -1,0 +1,22 @@
+{
+  "name": "batcoin",
+  "symbol": "batcoin",
+  "decimals": 18,
+  "description": "batcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=batcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "batcoin",
+  "addresses": {
+    "8453": "0x1bb35de214377d3388f387ead491a57e6f72b471"
+  },
+  "tokenInfo": {
+    "originalSymbol": "batcoin",
+    "sanitizedSymbol": "BATCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6217E13578D8F88f3729C1394293c885C275f0d4",
+    "lpNftId": "1252156",
+    "lockerAddress": "0x7290217Ee7f63a9B62a0d5a6cCDA41262220c5CE"
+  },
+  "clankerInfo": null
+}

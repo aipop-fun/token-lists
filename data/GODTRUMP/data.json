@@ -1,0 +1,22 @@
+{
+  "name": "GodTrump",
+  "symbol": "GodTrump",
+  "decimals": 18,
+  "description": "GodTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GodTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GodTrump",
+  "addresses": {
+    "8453": "0x314ff1c9bcf7d170ce89e4a64b856907eb459bf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GodTrump",
+    "sanitizedSymbol": "GODTRUMP",
+    "created_at": "2024-12-12T07:45:21.897484",
+    "deployer": "0x0731Ab4463bb5E80345cb15124FE5a588E6d54F4",
+    "lpNftId": "1429799",
+    "lockerAddress": "0x7ae7b45Ff7F3aBB09f89eF45CE2Fda5c12f1Eed9"
+  },
+  "clankerInfo": null
+}

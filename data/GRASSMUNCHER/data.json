@@ -1,0 +1,22 @@
+{
+  "name": "Grassmuncher",
+  "symbol": "Grassmuncher",
+  "decimals": 18,
+  "description": "Grassmuncher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Grassmuncher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Grassmuncher",
+  "addresses": {
+    "8453": "0x147c8ed7ce7cecbe94e8ea909da3a607fb2ef7b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Grassmuncher",
+    "sanitizedSymbol": "GRASSMUNCHER",
+    "created_at": "2024-12-10T03:48:24.922467",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395874",
+    "lockerAddress": "0xa5fcAd2A92c29Bbaccef2e3EF7eD7e0A8A098874"
+  },
+  "clankerInfo": null
+}

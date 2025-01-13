@@ -1,0 +1,22 @@
+{
+  "name": "Hoodie",
+  "symbol": "Hoodie",
+  "decimals": 18,
+  "description": "Hoodie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hoodie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hoodie",
+  "addresses": {
+    "8453": "0x354b1f7559b66a22088b8a1883b07f6ca735a6e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hoodie",
+    "sanitizedSymbol": "HOODIE",
+    "created_at": "2024-12-11T15:43:01.320218",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1421211",
+    "lockerAddress": "0x8E6C308eC72348f1cBB05824d4D5E3B4B35541F6"
+  },
+  "clankerInfo": null
+}

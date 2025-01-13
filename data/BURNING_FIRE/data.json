@@ -1,0 +1,22 @@
+{
+  "name": "Burning Fire",
+  "symbol": "Burning Fire",
+  "decimals": 18,
+  "description": "Burning Fire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Burning%20Fire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Burning Fire",
+  "addresses": {
+    "8453": "0x16adb667901234e45d15541df2b944f51f58699c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Burning Fire",
+    "sanitizedSymbol": "BURNING_FIRE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x555449D6e2Ec6C72735a8C8341e1E039552407f0",
+    "lpNftId": "1288948",
+    "lockerAddress": "0xeaB29f9E58c0FDcf5890B13DCb79cA6A09C087d6"
+  },
+  "clankerInfo": null
+}

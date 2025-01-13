@@ -1,0 +1,22 @@
+{
+  "name": "GMdotLAND",
+  "symbol": "GMdotLAND",
+  "decimals": 18,
+  "description": "GMdotLAND is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GMdotLAND",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GMdotLAND",
+  "addresses": {
+    "8453": "0x046dd27d3aeec1f98aabe0634bc0ac8fa5e805ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GMdotLAND",
+    "sanitizedSymbol": "GMDOTLAND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2E2Cd888d5048e46Ad24830A76529366145b9c0D",
+    "lpNftId": "1375462",
+    "lockerAddress": "0xE78956Ef105f02Fb35CbAEc537d5d8818983802C"
+  },
+  "clankerInfo": null
+}

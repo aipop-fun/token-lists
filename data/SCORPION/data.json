@@ -1,0 +1,22 @@
+{
+  "name": "Scorpion",
+  "symbol": "Scorpion",
+  "decimals": 18,
+  "description": "Scorpion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Scorpion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Scorpion",
+  "addresses": {
+    "8453": "0x1d3456f50f6b904e0586fbdb9d0bb5978b1b9904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Scorpion",
+    "sanitizedSymbol": "SCORPION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC1d02aBAdc2fed2619512ADeA1418Bd83490E66d",
+    "lpNftId": "1285267",
+    "lockerAddress": "0x04E98E88A7e44F6Db9429a28dEFcAA93fd66aAfC"
+  },
+  "clankerInfo": null
+}

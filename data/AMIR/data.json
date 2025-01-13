@@ -1,0 +1,22 @@
+{
+  "name": "Amir",
+  "symbol": "Amir",
+  "decimals": 18,
+  "description": "Amir is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Amir",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Amir",
+  "addresses": {
+    "8453": "0x0f27e8251dd9e7433c62ebca595d158625a3aeba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Amir",
+    "sanitizedSymbol": "AMIR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7aAf831AD5482F5eFaDC5a65Ca94c1Dd1A0b6d71",
+    "lpNftId": "1269410",
+    "lockerAddress": "0x67988Fc03358d60b59E63A12437B21C4dEa07306"
+  },
+  "clankerInfo": null
+}

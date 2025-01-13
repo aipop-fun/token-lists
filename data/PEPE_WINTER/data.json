@@ -1,0 +1,22 @@
+{
+  "name": "Pepe winter",
+  "symbol": "Pepe winter",
+  "decimals": 18,
+  "description": "Pepe winter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20winter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe winter",
+  "addresses": {
+    "8453": "0x08c58167ef723d8e1cbad2e666d103a1e24b4434"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe winter",
+    "sanitizedSymbol": "PEPE_WINTER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1284119",
+    "lockerAddress": "0x028D64Fa9B534bc8C4245b5baab888e4AA663604"
+  },
+  "clankerInfo": null
+}

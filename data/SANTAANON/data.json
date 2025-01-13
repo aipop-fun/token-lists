@@ -1,0 +1,22 @@
+{
+  "name": "SantaAnon",
+  "symbol": "SantaAnon",
+  "decimals": 18,
+  "description": "SantaAnon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaAnon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaAnon",
+  "addresses": {
+    "8453": "0x1b39598204aea08ac01212e7f09333acbfa1d0a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaAnon",
+    "sanitizedSymbol": "SANTAANON",
+    "created_at": "2024-12-10T04:48:15.81251",
+    "deployer": "0xDE25d943bC656d0eD18535A51BbA4e31024254Da",
+    "lpNftId": "1396554",
+    "lockerAddress": "0xaC11806359aDCB0559a831CE66EF7E6b14a7e847"
+  },
+  "clankerInfo": null
+}

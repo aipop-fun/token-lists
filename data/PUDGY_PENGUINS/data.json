@@ -1,0 +1,22 @@
+{
+  "name": "PUDGY PENGUINS",
+  "symbol": "PUDGY PENGUINS",
+  "decimals": 18,
+  "description": "PUDGY PENGUINS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUDGY%20PENGUINS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUDGY PENGUINS",
+  "addresses": {
+    "8453": "0x03c04d3fb30e785479a19b8acebffc6417c81938"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUDGY PENGUINS",
+    "sanitizedSymbol": "PUDGY_PENGUINS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x090dCF0E96A99CDe12cbbd0811AB3b03152F8949",
+    "lpNftId": "1354711",
+    "lockerAddress": "0x474A194E6f42BFe6d8D85b7B8591F846DcE821dC"
+  },
+  "clankerInfo": null
+}

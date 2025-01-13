@@ -1,0 +1,22 @@
+{
+  "name": "DEVIL",
+  "symbol": "DEVIL",
+  "decimals": 18,
+  "description": "DEVIL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEVIL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEVIL",
+  "addresses": {
+    "8453": "0x091bd8a2a27f681a7307923c15c514131b7311e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEVIL",
+    "sanitizedSymbol": "DEVIL_1",
+    "created_at": "2024-12-11T00:55:30.506003",
+    "deployer": "0xb2469A35264d6e4e772768896Cad96D237c30945",
+    "lpNftId": "1409123",
+    "lockerAddress": "0x3a58fD70915a281A48e06DdEC78BDc6604B8dE97"
+  },
+  "clankerInfo": null
+}

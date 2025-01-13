@@ -1,0 +1,22 @@
+{
+  "name": "ALPHADEGEN",
+  "symbol": "ALPHADEGEN",
+  "decimals": 18,
+  "description": "ALPHADEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALPHADEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALPHADEGEN",
+  "addresses": {
+    "8453": "0x21a48d9bc2b17f58641f630d78434c683ba2285d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALPHADEGEN",
+    "sanitizedSymbol": "ALPHADEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4114C0E2906c079DC25083B0EEF214f40AE09781",
+    "lpNftId": "1317785",
+    "lockerAddress": "0x6cd3c12855Aa408EF0ea40a089B2e1395e7b3D39"
+  },
+  "clankerInfo": null
+}

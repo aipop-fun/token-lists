@@ -1,0 +1,22 @@
+{
+  "name": "MeAI",
+  "symbol": "MeAI",
+  "decimals": 18,
+  "description": "MeAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeAI",
+  "addresses": {
+    "8453": "0x0481ac09c2ca927eaf16476d9845064ed9105053"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeAI",
+    "sanitizedSymbol": "MEAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143194",
+    "lockerAddress": "0xE3eA6C384c45DB8f0B2dB71bD7fE891F325d4837"
+  },
+  "clankerInfo": null
+}

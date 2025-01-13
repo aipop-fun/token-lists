@@ -1,0 +1,22 @@
+{
+  "name": "lewinter",
+  "symbol": "lewinter",
+  "decimals": 18,
+  "description": "lewinter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lewinter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lewinter",
+  "addresses": {
+    "8453": "0x11cd8ce90ae8c7b36a7c7b3dae6641696c415543"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lewinter",
+    "sanitizedSymbol": "LEWINTER",
+    "created_at": "2024-12-12T00:10:20.12547",
+    "deployer": "0x17cf66C63741a9d542bCe7744f34b2a62C06cb60",
+    "lpNftId": "1428082",
+    "lockerAddress": "0x94853dAE0c0B65a85e393019fF341C5c8e6e2665"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Coinbase Mascot",
+  "symbol": "Coinbase Mascot",
+  "decimals": 18,
+  "description": "Coinbase Mascot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coinbase%20Mascot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coinbase Mascot",
+  "addresses": {
+    "8453": "0x313f29f61a17e383472115c726cc30302035bee9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coinbase Mascot",
+    "sanitizedSymbol": "COINBASE_MASCOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231846",
+    "lockerAddress": "0x8b3Fa8f98ACd6746c4Be1764774B164CF315f7c2"
+  },
+  "clankerInfo": null
+}

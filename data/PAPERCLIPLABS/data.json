@@ -1,0 +1,22 @@
+{
+  "name": "Papercliplabs",
+  "symbol": "Papercliplabs",
+  "decimals": 18,
+  "description": "Papercliplabs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Papercliplabs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Papercliplabs",
+  "addresses": {
+    "8453": "0x271cfd8b9587c35e4e2573e6e14d5e4b04be7db5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Papercliplabs",
+    "sanitizedSymbol": "PAPERCLIPLABS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x219C90DEb99c8383a5F4330D500869b26d78f92a",
+    "lpNftId": "1313438",
+    "lockerAddress": "0x09DF8c4d5E5066aFdD1587cE69c98c2365E0D11a"
+  },
+  "clankerInfo": null
+}

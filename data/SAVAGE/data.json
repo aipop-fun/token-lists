@@ -1,0 +1,22 @@
+{
+  "name": "SAVAGE",
+  "symbol": "SAVAGE",
+  "decimals": 18,
+  "description": "SAVAGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAVAGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAVAGE",
+  "addresses": {
+    "8453": "0x3da203be4977bb3b22761e696e1181a54d589ed5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAVAGE",
+    "sanitizedSymbol": "SAVAGE",
+    "created_at": "2024-12-11T12:28:37.478057",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1418047",
+    "lockerAddress": "0xa7F598339b9B1Fec72994c67212e8b9C61Dfed3E"
+  },
+  "clankerInfo": null
+}

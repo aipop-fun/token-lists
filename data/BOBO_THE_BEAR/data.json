@@ -1,0 +1,22 @@
+{
+  "name": "Bobo The Bear",
+  "symbol": "Bobo The Bear",
+  "decimals": 18,
+  "description": "Bobo The Bear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bobo%20The%20Bear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bobo The Bear",
+  "addresses": {
+    "8453": "0x254d1c8baa60ee53cb4ec7e4ab8c143f71c03645"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bobo The Bear",
+    "sanitizedSymbol": "BOBO_THE_BEAR",
+    "created_at": "2024-12-10T16:38:54.874119",
+    "deployer": "0xcFb3f48b37fC30f79ED49b31A5dD4A35aFA289a5",
+    "lpNftId": "1404131",
+    "lockerAddress": "0x44d00B0Af7BF2A710C3835192b18ff00E56674bD"
+  },
+  "clankerInfo": null
+}

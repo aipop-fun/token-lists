@@ -1,0 +1,22 @@
+{
+  "name": "Beathernet",
+  "symbol": "Beathernet",
+  "decimals": 18,
+  "description": "Beathernet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beathernet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beathernet",
+  "addresses": {
+    "8453": "0x2049b6996910d3b50aa0a024249db5759ec2b3d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beathernet",
+    "sanitizedSymbol": "BEATHERNET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123546",
+    "lockerAddress": "0xe34479e7DDDFe8e833Ea1D442a5B96D1E0e20e31"
+  },
+  "clankerInfo": null
+}

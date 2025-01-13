@@ -1,0 +1,22 @@
+{
+  "name": "December Bull Run",
+  "symbol": "December Bull Run",
+  "decimals": 18,
+  "description": "December Bull Run is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=December%20Bull%20Run",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "December Bull Run",
+  "addresses": {
+    "8453": "0x0873003a4e1b948d509b7b96f595230e45a8c352"
+  },
+  "tokenInfo": {
+    "originalSymbol": "December Bull Run",
+    "sanitizedSymbol": "DECEMBER_BULL_RUN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8f2279a7A43AD4faDA4B742441A633C64A08fB6c",
+    "lpNftId": "1268426",
+    "lockerAddress": "0x02C5a135f2252A1bdc760bfe2d0Ce1212500d558"
+  },
+  "clankerInfo": null
+}

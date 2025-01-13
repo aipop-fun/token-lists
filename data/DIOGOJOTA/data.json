@@ -1,0 +1,22 @@
+{
+  "name": "DiogoJota",
+  "symbol": "DiogoJota",
+  "decimals": 18,
+  "description": "DiogoJota is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DiogoJota",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DiogoJota",
+  "addresses": {
+    "8453": "0x090f07e20d81c92098728dbcc8c8c030dfa03f77"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DiogoJota",
+    "sanitizedSymbol": "DIOGOJOTA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6A850e6693C41Dc33eaC2a7a1A9bAFA6F0F71A85",
+    "lpNftId": "1323291",
+    "lockerAddress": "0x6340A8996b355D9e91C785f1BAf873f8eAdd0f95"
+  },
+  "clankerInfo": null
+}

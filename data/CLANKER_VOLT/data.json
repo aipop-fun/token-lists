@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Volt",
+  "symbol": "Clanker Volt",
+  "decimals": 18,
+  "description": "Clanker Volt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Volt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Volt",
+  "addresses": {
+    "8453": "0x1f8e7a35d19e12dbb45929888ad7bcdf20320e47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Volt",
+    "sanitizedSymbol": "CLANKER_VOLT",
+    "created_at": "2024-12-11T01:22:45.665957",
+    "deployer": "0xCA1D2dBc3Bb2B19895459f8a82642821DD227365",
+    "lpNftId": "1409600",
+    "lockerAddress": "0x7e43Fc2bcdA3960848B1cE9fBFbC6078B51A6fe0"
+  },
+  "clankerInfo": null
+}

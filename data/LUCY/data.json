@@ -1,0 +1,22 @@
+{
+  "name": "Lucy",
+  "symbol": "Lucy",
+  "decimals": 18,
+  "description": "Lucy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lucy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lucy",
+  "addresses": {
+    "8453": "0x36a9f25a00eb6e6357e2aa0386f8925acb447de2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lucy",
+    "sanitizedSymbol": "LUCY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217873",
+    "lockerAddress": "0xC5a3dA618F3f7F7A6D3A2dB628a0c9eA14c61766"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TriCast Unity",
+  "symbol": "TriCast Unity",
+  "decimals": 18,
+  "description": "TriCast Unity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TriCast%20Unity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TriCast Unity",
+  "addresses": {
+    "8453": "0x37c951d9e70c44bd3288aa8490c9169264301e65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TriCast Unity",
+    "sanitizedSymbol": "TRICAST_UNITY",
+    "created_at": "2024-12-12T02:59:28.346097",
+    "deployer": "0x3352B1775610AEEc84A06C69b7C7852ABbDB5a37",
+    "lpNftId": "1428758",
+    "lockerAddress": "0xA21A34dE6317AA4461aAd54827C0EE89D84E303b"
+  },
+  "clankerInfo": null
+}

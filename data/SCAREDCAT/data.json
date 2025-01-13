@@ -1,0 +1,22 @@
+{
+  "name": "scaredcat",
+  "symbol": "scaredcat",
+  "decimals": 18,
+  "description": "scaredcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=scaredcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "scaredcat",
+  "addresses": {
+    "8453": "0x41a4ebeb6d8cd524db3772179049e65d600bf284"
+  },
+  "tokenInfo": {
+    "originalSymbol": "scaredcat",
+    "sanitizedSymbol": "SCAREDCAT",
+    "created_at": "2024-12-09T01:13:05.945193",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1377365",
+    "lockerAddress": "0xD6FD41Bf38dE4c6BB3c73f277773eE99233cf7F7"
+  },
+  "clankerInfo": null
+}

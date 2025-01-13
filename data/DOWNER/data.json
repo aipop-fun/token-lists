@@ -1,0 +1,22 @@
+{
+  "name": "downer",
+  "symbol": "downer",
+  "decimals": 18,
+  "description": "downer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=downer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "downer",
+  "addresses": {
+    "8453": "0x1a7a9c5d6504ee772f444a4407a57f99c68a2893"
+  },
+  "tokenInfo": {
+    "originalSymbol": "downer",
+    "sanitizedSymbol": "DOWNER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1319735",
+    "lockerAddress": "0xF65Fa0307f3626C51126dC04723bef946E4b0990"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SantaChain",
+  "symbol": "SantaChain",
+  "decimals": 18,
+  "description": "SantaChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaChain",
+  "addresses": {
+    "8453": "0x23333061cf707c37730904961bafba31d773e4f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaChain",
+    "sanitizedSymbol": "SANTACHAIN",
+    "created_at": "2024-12-09T20:55:35.540023",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1391987",
+    "lockerAddress": "0x9427E0F67B980EfA1Bf58c2d4476466690FE8A62"
+  },
+  "clankerInfo": null
+}

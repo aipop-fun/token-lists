@@ -1,0 +1,22 @@
+{
+  "name": "strawhatpirates",
+  "symbol": "strawhatpirates",
+  "decimals": 18,
+  "description": "strawhatpirates is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=strawhatpirates",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "strawhatpirates",
+  "addresses": {
+    "8453": "0x00a18d5c651741347b34beb00e34563ecebbec20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "strawhatpirates",
+    "sanitizedSymbol": "STRAWHATPIRATES",
+    "created_at": "2024-12-09T07:02:20.580045",
+    "deployer": "0x377eFB92E4d0418585Ed9A6d81C90Cd987581625",
+    "lpNftId": "1384233",
+    "lockerAddress": "0x04bEC2e03392C7ef4d01e6117d68301789f8AFBB"
+  },
+  "clankerInfo": null
+}

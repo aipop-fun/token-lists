@@ -1,0 +1,22 @@
+{
+  "name": "Opportunity for Another Client",
+  "symbol": "Opportunity for Another Client",
+  "decimals": 18,
+  "description": "Opportunity for Another Client is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Opportunity%20for%20Another%20Client",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Opportunity for Another Client",
+  "addresses": {
+    "8453": "0x1fd64201c68b36e0e55b028f4c85d8c8dfda4c2c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Opportunity for Another Client",
+    "sanitizedSymbol": "OPPORTUNITY_FOR_ANOTHER_CLIENT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212303",
+    "lockerAddress": "0x33fc437b003fCcEC18542FBe3d4558c40bab5393"
+  },
+  "clankerInfo": null
+}

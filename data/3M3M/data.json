@@ -1,0 +1,22 @@
+{
+  "name": "3M3M",
+  "symbol": "3M3M",
+  "decimals": 18,
+  "description": "3M3M is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=3M3M",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "3M3M",
+  "addresses": {
+    "8453": "0x0210a5db299dfcce338d6425c5d92a48685bc630"
+  },
+  "tokenInfo": {
+    "originalSymbol": "3M3M",
+    "sanitizedSymbol": "3M3M",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1329530",
+    "lockerAddress": "0x36b8C66EE7b82044E32030a3FA2Ae3DAD8e7a21a"
+  },
+  "clankerInfo": null
+}

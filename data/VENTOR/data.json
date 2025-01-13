@@ -1,0 +1,22 @@
+{
+  "name": "ventor",
+  "symbol": "ventor",
+  "decimals": 18,
+  "description": "ventor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ventor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ventor",
+  "addresses": {
+    "8453": "0x2e8d6013c66c559fe0910423e874ec08d3134d80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ventor",
+    "sanitizedSymbol": "VENTOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211056",
+    "lockerAddress": "0xccc96626B35c203292D3e08aB3E4108a070B1D54"
+  },
+  "clankerInfo": null
+}

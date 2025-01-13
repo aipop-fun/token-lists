@@ -1,0 +1,22 @@
+{
+  "name": "Moodeng on Base",
+  "symbol": "Moodeng on Base",
+  "decimals": 18,
+  "description": "Moodeng on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moodeng%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moodeng on Base",
+  "addresses": {
+    "8453": "0x3f45f5ba58f434c647ca495e331135547f075278"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moodeng on Base",
+    "sanitizedSymbol": "MOODENG_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC625494578A00c1dEF1423403d1DEd6dc2A36ad6",
+    "lpNftId": "1310015",
+    "lockerAddress": "0x8Ed159c51a1ed7410CA2c1F52F31873d971124A1"
+  },
+  "clankerInfo": null
+}

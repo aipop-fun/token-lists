@@ -1,0 +1,22 @@
+{
+  "name": "PDIP",
+  "symbol": "PDIP",
+  "decimals": 18,
+  "description": "PDIP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PDIP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PDIP",
+  "addresses": {
+    "8453": "0x31352b18f3f8f95ce14c447a488ebdf2a7ab9880"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PDIP",
+    "sanitizedSymbol": "PDIP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1330048",
+    "lockerAddress": "0x9Ea34308edaD5499528c044B64D07076f6652A51"
+  },
+  "clankerInfo": null
+}

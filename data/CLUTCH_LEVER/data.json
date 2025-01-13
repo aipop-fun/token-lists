@@ -1,0 +1,22 @@
+{
+  "name": "Clutch lever",
+  "symbol": "Clutch lever",
+  "decimals": 18,
+  "description": "Clutch lever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clutch%20lever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clutch lever",
+  "addresses": {
+    "8453": "0x11413e5fb52fed44af6f13415e0c8addd70e31f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clutch lever",
+    "sanitizedSymbol": "CLUTCH_LEVER",
+    "created_at": "2024-12-12T04:19:31.261477",
+    "deployer": "0x98bAE636d6a0edD9E0a14ab573D962B153A15a1B",
+    "lpNftId": "1429133",
+    "lockerAddress": "0x298A047005F92Fc26FD04b2444cA096ab0CA9380"
+  },
+  "clankerInfo": null
+}

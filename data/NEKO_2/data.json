@@ -1,0 +1,22 @@
+{
+  "name": "NEKO",
+  "symbol": "NEKO",
+  "decimals": 18,
+  "description": "NEKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEKO",
+  "addresses": {
+    "8453": "0x2acf98c57d4a8224f96d3e0d21d72aa0a575de9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEKO",
+    "sanitizedSymbol": "NEKO_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x756CA5127e98196f7BE6482b9D4124229A398761",
+    "lpNftId": "1268813",
+    "lockerAddress": "0xBCE61C4a3DdAE5e331cc9D26a6BE2BFfAF3FB3Eb"
+  },
+  "clankerInfo": null
+}

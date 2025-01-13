@@ -1,0 +1,22 @@
+{
+  "name": "Spice Melange",
+  "symbol": "Spice Melange",
+  "decimals": 18,
+  "description": "Spice Melange is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spice%20Melange",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spice Melange",
+  "addresses": {
+    "8453": "0x11e4b5b647587b8ec5d3dbd6665a5661ee7c875c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spice Melange",
+    "sanitizedSymbol": "SPICE_MELANGE_2",
+    "created_at": "2024-12-09T16:20:19.198814",
+    "deployer": "0x430aeb867B81d576ddd4f08bB239A6BA305Bba84",
+    "lpNftId": "1389152",
+    "lockerAddress": "0xf0D9F1DDB240655F1D7CD3aaEC29C0235Ce6920f"
+  },
+  "clankerInfo": null
+}

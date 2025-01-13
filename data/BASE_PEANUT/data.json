@@ -1,0 +1,22 @@
+{
+  "name": "base peanut",
+  "symbol": "base peanut",
+  "decimals": 18,
+  "description": "base peanut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20peanut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base peanut",
+  "addresses": {
+    "8453": "0x1812f71e5fc3b2192dc03e10bcdf1a6305f1f8ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base peanut",
+    "sanitizedSymbol": "BASE_PEANUT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1333097",
+    "lockerAddress": "0xb28E6bA7334a0C99b570aB987395E1f3D5eA14a2"
+  },
+  "clankerInfo": null
+}

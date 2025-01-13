@@ -1,0 +1,22 @@
+{
+  "name": "Based Neiro",
+  "symbol": "Based Neiro",
+  "decimals": 18,
+  "description": "Based Neiro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Neiro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Neiro",
+  "addresses": {
+    "8453": "0x034aaacf20f74e8d6c9d9ac853e205e4b14d2e73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Neiro",
+    "sanitizedSymbol": "BASED_NEIRO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc0DA86Fae8418C44d1D097d15820b656E46c7eC1",
+    "lpNftId": "1360292",
+    "lockerAddress": "0xFaBDaf6BDD57e552a10850E3164D2109E27412F1"
+  },
+  "clankerInfo": null
+}

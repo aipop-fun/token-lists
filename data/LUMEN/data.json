@@ -1,0 +1,22 @@
+{
+  "name": "LUMEN",
+  "symbol": "LUMEN",
+  "decimals": 18,
+  "description": "LUMEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUMEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUMEN",
+  "addresses": {
+    "8453": "0x08a5ff1d36acae74f03bae3088bfcec9f4401205"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUMEN",
+    "sanitizedSymbol": "LUMEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb5e55e5885a59E107168D61AD7dF7541Cb1B9373",
+    "lpNftId": "1292249",
+    "lockerAddress": "0x6374a1791B6FD438C14b64f82f6220215c315e7a"
+  },
+  "clankerInfo": null
+}

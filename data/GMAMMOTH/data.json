@@ -1,0 +1,22 @@
+{
+  "name": "gmammoth",
+  "symbol": "gmammoth",
+  "decimals": 18,
+  "description": "gmammoth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gmammoth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gmammoth",
+  "addresses": {
+    "8453": "0x3dfcc80ece304a3e82abb7193b5d9783860ab9df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gmammoth",
+    "sanitizedSymbol": "GMAMMOTH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1Df518f3442f0442195807b09292A0688c6aD40A",
+    "lpNftId": "1327989",
+    "lockerAddress": "0x6219BB9653D319ab8b9a2c7838a71063BF69E5C8"
+  },
+  "clankerInfo": null
+}

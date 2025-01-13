@@ -1,0 +1,22 @@
+{
+  "name": "hkn",
+  "symbol": "hkn",
+  "decimals": 18,
+  "description": "hkn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hkn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hkn",
+  "addresses": {
+    "8453": "0x0dc0fd7afacd19c28460cbb0a1be64d8c2b929e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hkn",
+    "sanitizedSymbol": "HKN",
+    "created_at": "2024-12-10T13:48:05.505387",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401572",
+    "lockerAddress": "0x98C90C94cc82cab8979fddf1acdD7f9160Ffac40"
+  },
+  "clankerInfo": null
+}

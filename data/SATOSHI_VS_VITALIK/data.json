@@ -1,0 +1,22 @@
+{
+  "name": "Satoshi Vs Vitalik",
+  "symbol": "Satoshi Vs Vitalik",
+  "decimals": 18,
+  "description": "Satoshi Vs Vitalik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Satoshi%20Vs%20Vitalik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Satoshi Vs Vitalik",
+  "addresses": {
+    "8453": "0x025ad6e594cbc838029ab4695ebe9c5e44fac9e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Satoshi Vs Vitalik",
+    "sanitizedSymbol": "SATOSHI_VS_VITALIK",
+    "created_at": "2024-12-12T01:40:15.597458",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1428462",
+    "lockerAddress": "0x3399e355F34C727C27c32BD6c6F8Ae48E47f3774"
+  },
+  "clankerInfo": null
+}

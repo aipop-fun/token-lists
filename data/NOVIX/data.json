@@ -1,0 +1,22 @@
+{
+  "name": "NOVIX",
+  "symbol": "NOVIX",
+  "decimals": 18,
+  "description": "NOVIX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOVIX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOVIX",
+  "addresses": {
+    "8453": "0x3e2f53571d264c938afad32d978727a7bb33b13b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOVIX",
+    "sanitizedSymbol": "NOVIX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x48Abd05c722c6bA90645e2c1236B4d693E769EBB",
+    "lpNftId": "1320169",
+    "lockerAddress": "0xb9995EC58E460E61EBdCb145521dC7D426AeecDe"
+  },
+  "clankerInfo": null
+}

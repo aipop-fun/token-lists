@@ -1,0 +1,22 @@
+{
+  "name": "Icy World",
+  "symbol": "Icy World",
+  "decimals": 18,
+  "description": "Icy World is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Icy%20World",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Icy World",
+  "addresses": {
+    "8453": "0x1757572dacbebf158773f8fc5c0d76808f0430bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Icy World",
+    "sanitizedSymbol": "ICY_WORLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAcaE0F9df590590db9fC6Ed0ae7C8030e02e0E94",
+    "lpNftId": "1314906",
+    "lockerAddress": "0x321B39Bb93788EedE8aB863fCc6C3ef7f5DF37B4"
+  },
+  "clankerInfo": null
+}

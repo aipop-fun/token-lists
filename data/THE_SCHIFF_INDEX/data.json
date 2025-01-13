@@ -1,0 +1,22 @@
+{
+  "name": "The Schiff Index",
+  "symbol": "The Schiff Index",
+  "decimals": 18,
+  "description": "The Schiff Index is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Schiff%20Index",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Schiff Index",
+  "addresses": {
+    "8453": "0x3c23ad4ff0888e4445107092df6d60dd8f0216d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Schiff Index",
+    "sanitizedSymbol": "THE_SCHIFF_INDEX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65",
+    "lpNftId": "1329529",
+    "lockerAddress": "0x2835389cF94fF3e1a5905e44A4f741C061Dd0047"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PROTOWIFE",
+  "symbol": "PROTOWIFE",
+  "decimals": 18,
+  "description": "PROTOWIFE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROTOWIFE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROTOWIFE",
+  "addresses": {
+    "8453": "0x321d34ca4a5a32719efe7e716d1678e86ed79c64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROTOWIFE",
+    "sanitizedSymbol": "PROTOWIFE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x10c070f6690f1fB20dB2470Fba92C1515bF9A44d",
+    "lpNftId": "1323977",
+    "lockerAddress": "0x2d459C2F85B93e9B3C2355F97e152FBA7b812383"
+  },
+  "clankerInfo": null
+}

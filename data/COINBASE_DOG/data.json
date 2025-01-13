@@ -1,0 +1,22 @@
+{
+  "name": "Coinbase Dog",
+  "symbol": "Coinbase Dog",
+  "decimals": 18,
+  "description": "Coinbase Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coinbase%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coinbase Dog",
+  "addresses": {
+    "8453": "0x20b62bc78265bafdb4aa7c43f682d82011199d1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coinbase Dog",
+    "sanitizedSymbol": "COINBASE_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231850",
+    "lockerAddress": "0xFFE1F6378046a7d803D5223F1A52a8dE07378c87"
+  },
+  "clankerInfo": null
+}

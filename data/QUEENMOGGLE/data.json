@@ -1,0 +1,22 @@
+{
+  "name": "QueenMoggle",
+  "symbol": "QueenMoggle",
+  "decimals": 18,
+  "description": "QueenMoggle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QueenMoggle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QueenMoggle",
+  "addresses": {
+    "8453": "0x378a15849d1096e3e27247e2cc0a56ac7eee0bd3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QueenMoggle",
+    "sanitizedSymbol": "QUEENMOGGLE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb113925Ae41893600606AbeF23CfEE92C8574108",
+    "lpNftId": "1252471",
+    "lockerAddress": "0xD280Bc1b5553741Dd40a1e0F66120e28D5dD80b4"
+  },
+  "clankerInfo": null
+}

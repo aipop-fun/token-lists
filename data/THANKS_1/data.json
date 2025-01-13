@@ -1,0 +1,22 @@
+{
+  "name": "THANKS",
+  "symbol": "THANKS",
+  "decimals": 18,
+  "description": "THANKS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THANKS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THANKS",
+  "addresses": {
+    "8453": "0x3650cccfd9b05b96b3027a0ca8e43739bcd7ef3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THANKS",
+    "sanitizedSymbol": "THANKS_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe9ebA220D1b041F839704ba748a0e1C74f5d9C75",
+    "lpNftId": "1285251",
+    "lockerAddress": "0x240B7Ad41653A9226fdca6EcA74B22c3ecfC4255"
+  },
+  "clankerInfo": null
+}

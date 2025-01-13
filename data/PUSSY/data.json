@@ -1,0 +1,22 @@
+{
+  "name": "pussy",
+  "symbol": "pussy",
+  "decimals": 18,
+  "description": "pussy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pussy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pussy",
+  "addresses": {
+    "8453": "0x2265d882f238c34b6a714384d70ee017ed5bf705"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pussy",
+    "sanitizedSymbol": "PUSSY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218539",
+    "lockerAddress": "0xd8bfe655Ab11BFC7556A21a0F597a26886FFeA21"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "EMINEM",
+  "symbol": "EMINEM",
+  "decimals": 18,
+  "description": "EMINEM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EMINEM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EMINEM",
+  "addresses": {
+    "8453": "0x3f980ddf9df9a7fb46fec2b1263c49594e3b300d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EMINEM",
+    "sanitizedSymbol": "EMINEM_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34876F7C9d38C8F2237423CDe23E89b06D02a26E",
+    "lpNftId": "1312458",
+    "lockerAddress": "0x4c477226d1131205D57e150278099201E984b725"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "scrop",
+  "symbol": "scrop",
+  "decimals": 18,
+  "description": "scrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=scrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "scrop",
+  "addresses": {
+    "8453": "0x1ceae62c47737384198665506434c9b7c932eb55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "scrop",
+    "sanitizedSymbol": "SCROP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE1a3ECeC800193cEd135AA0ea04b434e7492EC67",
+    "lpNftId": "1309512",
+    "lockerAddress": "0x8A183fd6944C4Dc1E7badE5E7Ed9D695b3e7eAD3"
+  },
+  "clankerInfo": null
+}

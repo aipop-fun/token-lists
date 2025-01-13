@@ -1,0 +1,22 @@
+{
+  "name": "Baby AstroBot",
+  "symbol": "Baby AstroBot",
+  "decimals": 18,
+  "description": "Baby AstroBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20AstroBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby AstroBot",
+  "addresses": {
+    "8453": "0x25cb79cea690099d53daff9e747f78bd13b06ac3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby AstroBot",
+    "sanitizedSymbol": "BABY_ASTROBOT",
+    "created_at": "2024-12-11T07:45:07.01311",
+    "deployer": "0xb2310EA5d1EA6897C484c6026908bAaA84779456",
+    "lpNftId": "1414200",
+    "lockerAddress": "0x37CE8d436F6d78078c0DFb7005ABbB21cAaD58c1"
+  },
+  "clankerInfo": null
+}

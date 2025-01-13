@@ -1,0 +1,22 @@
+{
+  "name": "When Lamboo",
+  "symbol": "When Lamboo",
+  "decimals": 18,
+  "description": "When Lamboo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=When%20Lamboo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "When Lamboo",
+  "addresses": {
+    "8453": "0x2bce11403c110a3af277e5ef02248274cbb52b2c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "When Lamboo",
+    "sanitizedSymbol": "WHEN_LAMBOO_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84813269551f7B46E319d5393fdbd41ce17b728D",
+    "lpNftId": "1312104",
+    "lockerAddress": "0x8199Ff5Ce80566Fbd454949b4e2503dacFE2a6ea"
+  },
+  "clankerInfo": null
+}

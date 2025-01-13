@@ -1,0 +1,22 @@
+{
+  "name": "ClankerV3",
+  "symbol": "ClankerV3",
+  "decimals": 18,
+  "description": "ClankerV3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerV3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerV3",
+  "addresses": {
+    "8453": "0x083f4b2e9667e63de789dc7d80fad451d660f7b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerV3",
+    "sanitizedSymbol": "CLANKERV3",
+    "created_at": "2024-12-09T15:37:34.330089",
+    "deployer": "0xa4116fc8887491372d020A4be72284eeCfdD9BFB",
+    "lpNftId": "1388624",
+    "lockerAddress": "0xa9CE03d101F23927b3e19e2fc37B68A78128aa40"
+  },
+  "clankerInfo": null
+}

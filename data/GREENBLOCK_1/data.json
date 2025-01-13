@@ -1,0 +1,22 @@
+{
+  "name": "GreenBlock",
+  "symbol": "GreenBlock",
+  "decimals": 18,
+  "description": "GreenBlock is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GreenBlock",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GreenBlock",
+  "addresses": {
+    "8453": "0x0fc846899b56d244e1a68193135bbb0c1bf81e8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GreenBlock",
+    "sanitizedSymbol": "GREENBLOCK_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1eB95Fe1B6c92DB8A154E065Dd88f96cc0915d84",
+    "lpNftId": "1312323",
+    "lockerAddress": "0x20147d7FeCd1e1cACa5e52C09E58De6D4E13Edff"
+  },
+  "clankerInfo": null
+}

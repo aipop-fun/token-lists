@@ -1,0 +1,22 @@
+{
+  "name": "MOFO",
+  "symbol": "MOFO",
+  "decimals": 18,
+  "description": "MOFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOFO",
+  "addresses": {
+    "8453": "0x0ea3b1b64db66b94f3f8a81a938ce97dae81de37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOFO",
+    "sanitizedSymbol": "MOFO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201668",
+    "lockerAddress": "0xeC923037Dca78DcD40e1173202d63815B22B7da8"
+  },
+  "clankerInfo": null
+}

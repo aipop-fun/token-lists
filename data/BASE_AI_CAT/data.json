@@ -1,0 +1,22 @@
+{
+  "name": "Base AI Cat",
+  "symbol": "Base AI Cat",
+  "decimals": 18,
+  "description": "Base AI Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20AI%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base AI Cat",
+  "addresses": {
+    "8453": "0x24b9e954d94a211fd13adfef397662468cc2320e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base AI Cat",
+    "sanitizedSymbol": "BASE_AI_CAT",
+    "created_at": "2024-12-10T06:21:22.02484",
+    "deployer": "0x1198667d6Cc00AFa078dd4333f8328D8870f3C6d",
+    "lpNftId": "1397386",
+    "lockerAddress": "0x761609Ff09db96B6035A79ae0Fb792Ab5A02183a"
+  },
+  "clankerInfo": null
+}

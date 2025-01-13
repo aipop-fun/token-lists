@@ -1,0 +1,22 @@
+{
+  "name": "KUNGFU Kitty",
+  "symbol": "KUNGFU Kitty",
+  "decimals": 18,
+  "description": "KUNGFU Kitty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KUNGFU%20Kitty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KUNGFU Kitty",
+  "addresses": {
+    "8453": "0x2e4b2a62bf1de1e6f1b6d9f02e1ebe44e28191ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KUNGFU Kitty",
+    "sanitizedSymbol": "KUNGFU_KITTY",
+    "created_at": "2024-12-09T04:10:26.040181",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1381158",
+    "lockerAddress": "0x54338c026c2c029586332a308Be862Def6b8C866"
+  },
+  "clankerInfo": null
+}

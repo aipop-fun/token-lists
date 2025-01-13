@@ -1,0 +1,22 @@
+{
+  "name": "dorje",
+  "symbol": "dorje",
+  "decimals": 18,
+  "description": "dorje is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dorje",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dorje",
+  "addresses": {
+    "8453": "0x3ea94c693033fa21310bfff8a432bffabd73d441"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dorje",
+    "sanitizedSymbol": "DORJE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203810",
+    "lockerAddress": "0xbC64acaA3da0EC889F87d713aE1607568A76c5B2"
+  },
+  "clankerInfo": null
+}

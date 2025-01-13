@@ -1,0 +1,22 @@
+{
+  "name": "ReadyClash",
+  "symbol": "ReadyClash",
+  "decimals": 18,
+  "description": "ReadyClash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ReadyClash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ReadyClash",
+  "addresses": {
+    "8453": "0x4045e1f5cc632a09353fdee5ccdff13c9299bfdd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ReadyClash",
+    "sanitizedSymbol": "READYCLASH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237087",
+    "lockerAddress": "0x840037A03F35B8263C7C5d227ECf19782F3fC3f4"
+  },
+  "clankerInfo": null
+}

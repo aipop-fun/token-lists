@@ -1,0 +1,22 @@
+{
+  "name": "CHILLMADS",
+  "symbol": "CHILLMADS",
+  "decimals": 18,
+  "description": "CHILLMADS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILLMADS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILLMADS",
+  "addresses": {
+    "8453": "0x0c25b23276c4a88e8ecc982b8d6207eb10e3da3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILLMADS",
+    "sanitizedSymbol": "CHILLMADS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf08d3A6e8AE82b5E3C2b9eE0e3C14C34B6893200",
+    "lpNftId": "1323506",
+    "lockerAddress": "0xA7cdD802B46D2105D381Fc593D64760DbF0c2240"
+  },
+  "clankerInfo": null
+}

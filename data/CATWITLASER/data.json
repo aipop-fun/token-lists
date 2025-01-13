@@ -1,0 +1,22 @@
+{
+  "name": "catwitlaser",
+  "symbol": "catwitlaser",
+  "decimals": 18,
+  "description": "catwitlaser is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=catwitlaser",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "catwitlaser",
+  "addresses": {
+    "8453": "0x1d18a00d4730b68081b9539649134de83ac5ed14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "catwitlaser",
+    "sanitizedSymbol": "CATWITLASER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230510",
+    "lockerAddress": "0xC636e04883f6e177C8Aec4F43e4a45DaE47A0032"
+  },
+  "clankerInfo": null
+}

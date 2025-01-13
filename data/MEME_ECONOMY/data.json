@@ -1,0 +1,22 @@
+{
+  "name": "Meme Economy",
+  "symbol": "Meme Economy",
+  "decimals": 18,
+  "description": "Meme Economy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Economy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Economy",
+  "addresses": {
+    "8453": "0x3501aa8b172cdde6ba5bc7af4bc624090ca426b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Economy",
+    "sanitizedSymbol": "MEME_ECONOMY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151090",
+    "lockerAddress": "0xe7b7a2a7023Bfa46Fa59155d97DD7bE45aF1E812"
+  },
+  "clankerInfo": null
+}

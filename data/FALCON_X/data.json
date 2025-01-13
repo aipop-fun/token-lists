@@ -1,0 +1,22 @@
+{
+  "name": "Falcon X",
+  "symbol": "Falcon X",
+  "decimals": 18,
+  "description": "Falcon X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Falcon%20X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Falcon X",
+  "addresses": {
+    "8453": "0x11f6ae12ea3cbf2ff5232a9afab34e0607170b3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Falcon X",
+    "sanitizedSymbol": "FALCON_X",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb81B128AdA6C2A61AC68072342a7768d2174CFA9",
+    "lpNftId": "1265356",
+    "lockerAddress": "0x86cCB1f31Ee60b24DBe1AA860dBe1C2e1cB99943"
+  },
+  "clankerInfo": null
+}

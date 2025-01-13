@@ -1,0 +1,22 @@
+{
+  "name": "BLACKBERRY",
+  "symbol": "BLACKBERRY",
+  "decimals": 18,
+  "description": "BLACKBERRY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLACKBERRY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLACKBERRY",
+  "addresses": {
+    "8453": "0x0e1a25e77fad7bac7ec2f9fb1f47bcc89d82e2eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLACKBERRY",
+    "sanitizedSymbol": "BLACKBERRY",
+    "created_at": "2024-12-10T17:57:07.597077",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1405146",
+    "lockerAddress": "0x62CC06f2c13584EBBDe1c83a05D7642b1ffaD573"
+  },
+  "clankerInfo": null
+}

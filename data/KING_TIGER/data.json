@@ -1,0 +1,22 @@
+{
+  "name": "King Tiger",
+  "symbol": "King Tiger",
+  "decimals": 18,
+  "description": "King Tiger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King%20Tiger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King Tiger",
+  "addresses": {
+    "8453": "0x2107425312d2f6d03272a47e3baea82a12c2a8aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King Tiger",
+    "sanitizedSymbol": "KING_TIGER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDbeF70725CC6c8d35d59458AAFFE1834C257a2F1",
+    "lpNftId": "1318311",
+    "lockerAddress": "0x3d332A3ebbB153318e695cC1835c409f5a442A77"
+  },
+  "clankerInfo": null
+}

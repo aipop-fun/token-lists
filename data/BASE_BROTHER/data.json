@@ -1,0 +1,22 @@
+{
+  "name": "Base Brother",
+  "symbol": "Base Brother",
+  "decimals": 18,
+  "description": "Base Brother is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Brother",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Brother",
+  "addresses": {
+    "8453": "0x0878ed8ae833743f454fc8f5457dd59eab07304e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Brother",
+    "sanitizedSymbol": "BASE_BROTHER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128865",
+    "lockerAddress": "0x21243232B06bC506f629f80912e1b4D705Dd15ce"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "onlyone",
+  "symbol": "onlyone",
+  "decimals": 18,
+  "description": "onlyone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onlyone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onlyone",
+  "addresses": {
+    "8453": "0x20623604d1f658e6ebbfca86fd96b49dd958d0ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onlyone",
+    "sanitizedSymbol": "ONLYONE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124217",
+    "lockerAddress": "0xcCe74cbFd4E1EA12d5bE5482bC6D9c581A22f066"
+  },
+  "clankerInfo": null
+}

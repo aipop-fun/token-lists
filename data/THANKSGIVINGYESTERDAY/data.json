@@ -1,0 +1,22 @@
+{
+  "name": "thanksgivingyesterday",
+  "symbol": "thanksgivingyesterday",
+  "decimals": 18,
+  "description": "thanksgivingyesterday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=thanksgivingyesterday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "thanksgivingyesterday",
+  "addresses": {
+    "8453": "0x38f3bfab606d4b6a789f30ba8bdbf0310466e78a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "thanksgivingyesterday",
+    "sanitizedSymbol": "THANKSGIVINGYESTERDAY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1Bd30CBAe55f3A49dd388bb254eC22949AD6Eb44",
+    "lpNftId": "1263773",
+    "lockerAddress": "0x34F104Dc248B0eF344227c713f2ceb4C155Ba5e1"
+  },
+  "clankerInfo": null
+}

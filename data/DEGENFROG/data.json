@@ -1,0 +1,22 @@
+{
+  "name": "DegenFrog",
+  "symbol": "DegenFrog",
+  "decimals": 18,
+  "description": "DegenFrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenFrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenFrog",
+  "addresses": {
+    "8453": "0x2771aac6edb862850fd945f768ee5e25d2ca5670"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenFrog",
+    "sanitizedSymbol": "DEGENFROG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDf951936ca4D4817a67c7B13541a26b35116D21A",
+    "lpNftId": "1330251",
+    "lockerAddress": "0x479fE85EE9D1C49cD73670239d9c691A95a6284D"
+  },
+  "clankerInfo": null
+}

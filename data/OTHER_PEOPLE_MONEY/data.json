@@ -1,0 +1,22 @@
+{
+  "name": "other people money",
+  "symbol": "other people money",
+  "decimals": 18,
+  "description": "other people money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=other%20people%20money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "other people money",
+  "addresses": {
+    "8453": "0x1449f073c57d55f7600d4a5be48b073b7ffda6cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "other people money",
+    "sanitizedSymbol": "OTHER_PEOPLE_MONEY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230128",
+    "lockerAddress": "0x2E51F8d35Ae6cB2Be3eba5730d8734fD2E0B57FF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Busted",
+  "symbol": "Busted",
+  "decimals": 18,
+  "description": "Busted is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Busted",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Busted",
+  "addresses": {
+    "8453": "0x2e2585b4578814d9dcce314d0a2ea827911c71d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Busted",
+    "sanitizedSymbol": "BUSTED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160882",
+    "lockerAddress": "0x74823F84EEcBebd180b03e397c7c2965d134f763"
+  },
+  "clankerInfo": null
+}

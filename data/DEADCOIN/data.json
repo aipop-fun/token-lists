@@ -1,0 +1,22 @@
+{
+  "name": "deadcoin",
+  "symbol": "deadcoin",
+  "decimals": 18,
+  "description": "deadcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=deadcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "deadcoin",
+  "addresses": {
+    "8453": "0x07397d54476b635b39363c31d8160d7ee01bf170"
+  },
+  "tokenInfo": {
+    "originalSymbol": "deadcoin",
+    "sanitizedSymbol": "DEADCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9c96160Dd686C796F96adC089F9bf53ce353fF0F",
+    "lpNftId": "1305496",
+    "lockerAddress": "0xBa8d6814f854348901598C60C1a5675941650f58"
+  },
+  "clankerInfo": null
+}

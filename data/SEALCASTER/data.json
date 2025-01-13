@@ -1,0 +1,22 @@
+{
+  "name": "sealcaster",
+  "symbol": "sealcaster",
+  "decimals": 18,
+  "description": "sealcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sealcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sealcaster",
+  "addresses": {
+    "8453": "0x203a5d32cc18a342efe7457492d3b71b9823bf95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sealcaster",
+    "sanitizedSymbol": "SEALCASTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194668",
+    "lockerAddress": "0xF6F2A60D6B6170C2b5Ec2fCD7a632EC4EF0b2B6D"
+  },
+  "clankerInfo": null
+}

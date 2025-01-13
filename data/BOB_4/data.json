@@ -1,0 +1,22 @@
+{
+  "name": "Bob",
+  "symbol": "Bob",
+  "decimals": 18,
+  "description": "Bob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bob",
+  "addresses": {
+    "8453": "0x27fcab3828174b70a5ef0351f969bf3bbf03429b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bob",
+    "sanitizedSymbol": "BOB_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x55B74d42Ac254e459c1F297a910F9C7Ffd300E00",
+    "lpNftId": "1304761",
+    "lockerAddress": "0x2D5ab0F8E9969b5930A1da0C40E86b03055477b8"
+  },
+  "clankerInfo": null
+}

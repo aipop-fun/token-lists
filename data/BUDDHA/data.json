@@ -1,0 +1,22 @@
+{
+  "name": "BUDDHA",
+  "symbol": "BUDDHA",
+  "decimals": 18,
+  "description": "BUDDHA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUDDHA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUDDHA",
+  "addresses": {
+    "8453": "0x16b028c9fbc0306f81d4d01c19e2ee9767539482"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUDDHA",
+    "sanitizedSymbol": "BUDDHA",
+    "created_at": "2024-12-11T00:13:49.565249",
+    "deployer": "0x6091A224ec0e8BaE16125603d179D9fCE7aaD641",
+    "lpNftId": "1408755",
+    "lockerAddress": "0x74E24Ca7FD9f01942e98E2a7496cC3EDf5a906C5"
+  },
+  "clankerInfo": null
+}

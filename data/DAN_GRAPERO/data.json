@@ -1,0 +1,22 @@
+{
+  "name": "Dan Grapero",
+  "symbol": "Dan Grapero",
+  "decimals": 18,
+  "description": "Dan Grapero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dan%20Grapero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dan Grapero",
+  "addresses": {
+    "8453": "0x0bb8239de51630126339a47b42d73fc2a86090ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dan Grapero",
+    "sanitizedSymbol": "DAN_GRAPERO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235172",
+    "lockerAddress": "0xA336B5C226232d61499cE3730e634a4AC55e0452"
+  },
+  "clankerInfo": null
+}

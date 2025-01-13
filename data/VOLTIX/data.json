@@ -1,0 +1,22 @@
+{
+  "name": "Voltix",
+  "symbol": "Voltix",
+  "decimals": 18,
+  "description": "Voltix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Voltix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Voltix",
+  "addresses": {
+    "8453": "0x3ef343f710dfadd2f5c54d1e1d9716f87ff1de13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Voltix",
+    "sanitizedSymbol": "VOLTIX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x22346C8c099003B3E89Fd60d207824829052FaC8",
+    "lpNftId": "1335392",
+    "lockerAddress": "0x6306bE2468dfb95B53273BAAe60dA6691c9fc1Ad"
+  },
+  "clankerInfo": null
+}

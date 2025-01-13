@@ -1,0 +1,22 @@
+{
+  "name": "EGG ROLL",
+  "symbol": "EGG ROLL",
+  "decimals": 18,
+  "description": "EGG ROLL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EGG%20ROLL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EGG ROLL",
+  "addresses": {
+    "8453": "0x1274cdd10320df6f5ec8fbd066ec57aa4add23e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EGG ROLL",
+    "sanitizedSymbol": "EGG_ROLL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213377",
+    "lockerAddress": "0x4cA77E6d5dd3C2f5F3819aD0C4Ed9BC1154f49bD"
+  },
+  "clankerInfo": null
+}

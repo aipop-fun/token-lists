@@ -1,0 +1,22 @@
+{
+  "name": "0xBTC",
+  "symbol": "0xBTC",
+  "decimals": 18,
+  "description": "0xBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=0xBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "0xBTC",
+  "addresses": {
+    "8453": "0x04faaff5e8bdd09646f44885c2ac5b46833c52b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "0xBTC",
+    "sanitizedSymbol": "0XBTC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1360589",
+    "lockerAddress": "0x990321951A5F56e2Dc262022Af82f7C1bE7B9b8f"
+  },
+  "clankerInfo": null
+}

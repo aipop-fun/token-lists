@@ -1,0 +1,22 @@
+{
+  "name": "godspeed",
+  "symbol": "godspeed",
+  "decimals": 18,
+  "description": "godspeed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=godspeed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "godspeed",
+  "addresses": {
+    "8453": "0x06239fe7a132e0bc249eaa9d1e863907238417b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "godspeed",
+    "sanitizedSymbol": "GODSPEED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4b028D860B60aA817726364C8b8CbEbCDD861499",
+    "lpNftId": "1365862",
+    "lockerAddress": "0xe97d86CE86A3A531583697AA70D089d0bF6Dba83"
+  },
+  "clankerInfo": null
+}

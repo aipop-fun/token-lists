@@ -1,0 +1,22 @@
+{
+  "name": "Tonker",
+  "symbol": "Tonker",
+  "decimals": 18,
+  "description": "Tonker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tonker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tonker",
+  "addresses": {
+    "8453": "0x3b8fdb8ba1fc90a01c98076d8e8aecd3a0bc92cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tonker",
+    "sanitizedSymbol": "TONKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x67EEF0911861eBc1dF7eD07860Aee4B618918461",
+    "lpNftId": "1251896",
+    "lockerAddress": "0xEe05A1a4077FeC81f2112737247bCea1b7C1c03a"
+  },
+  "clankerInfo": null
+}

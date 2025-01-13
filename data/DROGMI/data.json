@@ -1,0 +1,22 @@
+{
+  "name": "DROGMI",
+  "symbol": "DROGMI",
+  "decimals": 18,
+  "description": "DROGMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DROGMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DROGMI",
+  "addresses": {
+    "8453": "0x3db9882942b11491d3354fe5dba3598acc0bef48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DROGMI",
+    "sanitizedSymbol": "DROGMI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223106",
+    "lockerAddress": "0x9516250CC1de2829E0De4FB3C46020f0c2069297"
+  },
+  "clankerInfo": null
+}

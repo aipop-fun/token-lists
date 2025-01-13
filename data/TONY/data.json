@@ -1,0 +1,22 @@
+{
+  "name": "Tony",
+  "symbol": "Tony",
+  "decimals": 18,
+  "description": "Tony is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tony",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tony",
+  "addresses": {
+    "8453": "0x37812a874476efd52f928cb82e90e25c7959a028"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tony",
+    "sanitizedSymbol": "TONY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xE7D8638598AAfab58B630A8A22d8ED140B14cE2f",
+    "lpNftId": "1251121",
+    "lockerAddress": "0xD6E6daF970024C1B78b763692B38421B3466B08D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cp Robot",
+  "symbol": "Cp Robot",
+  "decimals": 18,
+  "description": "Cp Robot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cp%20Robot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cp Robot",
+  "addresses": {
+    "8453": "0x2a477056bac6f65b6785ca0652bd557fd6badb7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cp Robot",
+    "sanitizedSymbol": "CP_ROBOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAd9DEB26b275e89F7EFE055cb6307db57ef3e765",
+    "lpNftId": "1331878",
+    "lockerAddress": "0xf84d77882cc0c7165807b2bC8E68Fc4647268f35"
+  },
+  "clankerInfo": null
+}

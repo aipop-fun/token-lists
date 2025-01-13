@@ -1,0 +1,22 @@
+{
+  "name": "ironmike",
+  "symbol": "ironmike",
+  "decimals": 18,
+  "description": "ironmike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ironmike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ironmike",
+  "addresses": {
+    "8453": "0x0d43c162ef7db4679d24672951ea1704cd57d546"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ironmike",
+    "sanitizedSymbol": "IRONMIKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166363",
+    "lockerAddress": "0xe420845D8310AB91Cec6Af01958798A13f965dbE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GAGS",
+  "symbol": "GAGS",
+  "decimals": 18,
+  "description": "GAGS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAGS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAGS",
+  "addresses": {
+    "8453": "0x2abe7a2dbd0445b4f7559709264371202d732fd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAGS",
+    "sanitizedSymbol": "GAGS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8083A889763D3Dcad1898C2E62D11B9B25E005A1",
+    "lpNftId": "1265917",
+    "lockerAddress": "0x0E8e4F47aBE14EE86E4Bc6916214A9Ecc238C1FE"
+  },
+  "clankerInfo": null
+}

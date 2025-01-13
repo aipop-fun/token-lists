@@ -1,0 +1,22 @@
+{
+  "name": "pump base eth",
+  "symbol": "pump base eth",
+  "decimals": 18,
+  "description": "pump base eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump%20base%20eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump base eth",
+  "addresses": {
+    "8453": "0x16a3b05985d56741225d316d85dc49fc2a3b078c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump base eth",
+    "sanitizedSymbol": "PUMP_BASE_ETH",
+    "created_at": "2024-12-12T15:52:39.081889",
+    "deployer": "0xDe4E0b413c4bA98AcA96D96C20339147694C6609",
+    "lpNftId": "1437600",
+    "lockerAddress": "0xE13Ba4cF23978dDb405Ad466b96fA15996d60E32"
+  },
+  "clankerInfo": null
+}

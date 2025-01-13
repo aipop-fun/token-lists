@@ -1,0 +1,22 @@
+{
+  "name": "Memek",
+  "symbol": "Memek",
+  "decimals": 18,
+  "description": "Memek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Memek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Memek",
+  "addresses": {
+    "8453": "0x324b42b83b7e2afb931db0c32e0cf72116784fc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Memek",
+    "sanitizedSymbol": "MEMEK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160710",
+    "lockerAddress": "0xAEE55D538EA872A7FBa396bbb1bA2767869aBE52"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Benar Cat",
+  "symbol": "Benar Cat",
+  "decimals": 18,
+  "description": "Benar Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Benar%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Benar Cat",
+  "addresses": {
+    "8453": "0x3a9a12d3ca8d5b006247a1b5873f77c259ac47fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Benar Cat",
+    "sanitizedSymbol": "BENAR_CAT",
+    "created_at": "2024-12-09T02:09:56.656908",
+    "deployer": "0x279B034C5e5786baEAdcfb62A79d0e5E5bEd3B3C",
+    "lpNftId": "1377921",
+    "lockerAddress": "0x64adEDfD19c60424D2cb3025A72575b8385E1774"
+  },
+  "clankerInfo": null
+}

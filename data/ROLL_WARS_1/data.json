@@ -1,0 +1,22 @@
+{
+  "name": "Roll wars",
+  "symbol": "Roll wars",
+  "decimals": 18,
+  "description": "Roll wars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Roll%20wars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Roll wars",
+  "addresses": {
+    "8453": "0x1bd5a5656aa155e954ada1da54c0197a7bdbf4e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Roll wars",
+    "sanitizedSymbol": "ROLL_WARS_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x46f3cC6a1c00A5cD8864d2B92f128196CAE07D15",
+    "lpNftId": "1324339",
+    "lockerAddress": "0x158dE75d0F80Fb99C6DC950Adc2774c8663DAF17"
+  },
+  "clankerInfo": null
+}

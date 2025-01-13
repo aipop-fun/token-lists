@@ -1,0 +1,22 @@
+{
+  "name": "sniffer a token",
+  "symbol": "sniffer a token",
+  "decimals": 18,
+  "description": "sniffer a token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sniffer%20a%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sniffer a token",
+  "addresses": {
+    "8453": "0x1043432f70714274e10a329f0bb9b57eaec48728"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sniffer a token",
+    "sanitizedSymbol": "SNIFFER_A_TOKEN",
+    "created_at": "2024-12-12T06:22:00.741595",
+    "deployer": "0x8359dbcAf8aF8d13d83CfEf2778Db00Eb718325D",
+    "lpNftId": "1429556",
+    "lockerAddress": "0x442A3aa9F820a29A692e3CA00357e12A759424e5"
+  },
+  "clankerInfo": null
+}

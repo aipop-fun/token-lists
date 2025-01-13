@@ -1,0 +1,22 @@
+{
+  "name": "$SocratesAI",
+  "symbol": "$SocratesAI",
+  "decimals": 18,
+  "description": "$SocratesAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24SocratesAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$SocratesAI",
+  "addresses": {
+    "8453": "0x159dcb7e640055a22d9fff394a84bbb369dcafa9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$SocratesAI",
+    "sanitizedSymbol": "SOCRATESAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x30eA1D7618c84272C679F2962dD8F7980C999de0",
+    "lpNftId": "1321201",
+    "lockerAddress": "0x4FA967322E6B93f84102B084Ad9B30A9931D603a"
+  },
+  "clankerInfo": null
+}

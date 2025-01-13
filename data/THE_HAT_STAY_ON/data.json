@@ -1,0 +1,22 @@
+{
+  "name": "The Hat Stay On",
+  "symbol": "The Hat Stay On",
+  "decimals": 18,
+  "description": "The Hat Stay On is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Hat%20Stay%20On",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Hat Stay On",
+  "addresses": {
+    "8453": "0x35ad14bf8a8f44b79339141d4fb4f3f680cc89ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Hat Stay On",
+    "sanitizedSymbol": "THE_HAT_STAY_ON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1363481",
+    "lockerAddress": "0x60203903c95c23541eE17D6f6D22eDe8acFAb6Dd"
+  },
+  "clankerInfo": null
+}

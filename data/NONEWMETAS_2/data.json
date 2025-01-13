@@ -1,0 +1,22 @@
+{
+  "name": "NoNewMetas",
+  "symbol": "NoNewMetas",
+  "decimals": 18,
+  "description": "NoNewMetas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NoNewMetas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NoNewMetas",
+  "addresses": {
+    "8453": "0x1c6171e374af4a1af5473c31e42e127ece1a79c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NoNewMetas",
+    "sanitizedSymbol": "NONEWMETAS_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221799",
+    "lockerAddress": "0x12Eee288871CD3CdDa23b9F8909c4944c1CB90B5"
+  },
+  "clankerInfo": null
+}

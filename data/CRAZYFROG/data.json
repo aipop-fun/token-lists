@@ -1,0 +1,22 @@
+{
+  "name": "CrazyFrog",
+  "symbol": "CrazyFrog",
+  "decimals": 18,
+  "description": "CrazyFrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrazyFrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrazyFrog",
+  "addresses": {
+    "8453": "0x0ceee960306f3f4239a803e057e2aaf9b0c0ca9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrazyFrog",
+    "sanitizedSymbol": "CRAZYFROG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x75985055c5aC5b34F1eAF2b95A08E79131DAE595",
+    "lpNftId": "1313664",
+    "lockerAddress": "0x6e9Be6B2c4df6879850CD5Fe6a8d9C53beD07414"
+  },
+  "clankerInfo": null
+}

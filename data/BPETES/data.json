@@ -1,0 +1,22 @@
+{
+  "name": "bpetes",
+  "symbol": "bpetes",
+  "decimals": 18,
+  "description": "bpetes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bpetes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bpetes",
+  "addresses": {
+    "8453": "0x1230720ce24a067d27a872bc12c352f800376910"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bpetes",
+    "sanitizedSymbol": "BPETES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1673169Fe4E06c72f85F1fC88fCdCB34e2aD2Aed",
+    "lpNftId": "1288165",
+    "lockerAddress": "0x18Bc6c141a90648fe4b1008C29Fc775531194DFd"
+  },
+  "clankerInfo": null
+}

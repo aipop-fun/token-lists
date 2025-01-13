@@ -1,0 +1,22 @@
+{
+  "name": "MyFID",
+  "symbol": "MyFID",
+  "decimals": 18,
+  "description": "MyFID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MyFID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MyFID",
+  "addresses": {
+    "8453": "0x362d1dd5d1c2ae759a0bcc225252cdeb934608a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MyFID",
+    "sanitizedSymbol": "MYFID",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128726",
+    "lockerAddress": "0xeA417bb88eD91987B66b08F827Ce3369153Feeb4"
+  },
+  "clankerInfo": null
+}

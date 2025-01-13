@@ -1,0 +1,22 @@
+{
+  "name": "Sunny Cat",
+  "symbol": "Sunny Cat",
+  "decimals": 18,
+  "description": "Sunny Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sunny%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sunny Cat",
+  "addresses": {
+    "8453": "0x0fb3256997a580715f0e9a0645ad7c6ec2803c65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sunny Cat",
+    "sanitizedSymbol": "SUNNY_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x53662ba29fdA36A05532aB3E974c14C23d6A674d",
+    "lpNftId": "1319827",
+    "lockerAddress": "0xa7d1f60c0f65d9A6cDad51106a8e5DB0f7850974"
+  },
+  "clankerInfo": null
+}

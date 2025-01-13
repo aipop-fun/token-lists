@@ -1,0 +1,22 @@
+{
+  "name": "Don't Die",
+  "symbol": "Don't Die",
+  "decimals": 18,
+  "description": "Don't Die is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20Die",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't Die",
+  "addresses": {
+    "8453": "0x23273dfcc0cf65eccc5be6bf006093b6776f5217"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't Die",
+    "sanitizedSymbol": "DON_T_DIE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA9fD03e154e1B3Cbe88F1b515E7EbDAb2d640b60",
+    "lpNftId": "1265402",
+    "lockerAddress": "0x5bD97cbD8c184A9f535dCd799d38bEC0bB61bedA"
+  },
+  "clankerInfo": null
+}

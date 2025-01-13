@@ -1,0 +1,22 @@
+{
+  "name": "Bridge to Base",
+  "symbol": "Bridge to Base",
+  "decimals": 18,
+  "description": "Bridge to Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bridge%20to%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bridge to Base",
+  "addresses": {
+    "8453": "0x063a57ada3c0f2b1b6a49f6035ab3719f761c990"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bridge to Base",
+    "sanitizedSymbol": "BRIDGE_TO_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230719",
+    "lockerAddress": "0x28465f86509C6513FDF4Ba7b4dccf8b452333d7E"
+  },
+  "clankerInfo": null
+}

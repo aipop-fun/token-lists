@@ -1,0 +1,22 @@
+{
+  "name": "Tapwallet",
+  "symbol": "Tapwallet",
+  "decimals": 18,
+  "description": "Tapwallet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tapwallet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tapwallet",
+  "addresses": {
+    "8453": "0x1c23fceacb4124d42d2276f1e6384091fe75cc43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tapwallet",
+    "sanitizedSymbol": "TAPWALLET",
+    "created_at": "2024-12-12T22:13:36.593815",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1444452",
+    "lockerAddress": "0x82408379Bb658638dc0d96b17E491701f3f2d84b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bot dont buy this",
+  "symbol": "bot dont buy this",
+  "decimals": 18,
+  "description": "bot dont buy this is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bot%20dont%20buy%20this",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bot dont buy this",
+  "addresses": {
+    "8453": "0x1bfc7222c39283bd098b77de184d544e64a85611"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bot dont buy this",
+    "sanitizedSymbol": "BOT_DONT_BUY_THIS",
+    "created_at": "2024-12-09T18:15:31.869272",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1390067",
+    "lockerAddress": "0x326c9D5f1E120B70F1618b250dD903dAAa18650B"
+  },
+  "clankerInfo": null
+}

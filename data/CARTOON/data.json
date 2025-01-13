@@ -1,0 +1,22 @@
+{
+  "name": "Cartoon",
+  "symbol": "Cartoon",
+  "decimals": 18,
+  "description": "Cartoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cartoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cartoon",
+  "addresses": {
+    "8453": "0x0916b9e2f343716a16dca58315b1bd1bc2b13f0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cartoon",
+    "sanitizedSymbol": "CARTOON",
+    "created_at": "2024-12-09T16:52:20.047637",
+    "deployer": "0xb044c6e53b0953FE9Aa54AF1502150a7676fdF47",
+    "lpNftId": "1389423",
+    "lockerAddress": "0x7Fb5EA1F82Bc751Bc58f3C2E218205994ff2F003"
+  },
+  "clankerInfo": null
+}

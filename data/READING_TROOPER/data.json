@@ -1,0 +1,22 @@
+{
+  "name": "Reading Trooper",
+  "symbol": "Reading Trooper",
+  "decimals": 18,
+  "description": "Reading Trooper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reading%20Trooper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reading Trooper",
+  "addresses": {
+    "8453": "0x0241a452ef7845c09095b3801b38f9dff20d2148"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reading Trooper",
+    "sanitizedSymbol": "READING_TROOPER",
+    "created_at": "2024-12-12T00:49:31.659594",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1428249",
+    "lockerAddress": "0x3FDF898e10846Ab75fC19F3a39B12880E689Ce0e"
+  },
+  "clankerInfo": null
+}

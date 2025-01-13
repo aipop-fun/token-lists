@@ -1,0 +1,22 @@
+{
+  "name": "FarFuns",
+  "symbol": "FarFuns",
+  "decimals": 18,
+  "description": "FarFuns is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarFuns",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarFuns",
+  "addresses": {
+    "8453": "0x3b04ac742f5b5abcc53c5bdddb345d070603db46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarFuns",
+    "sanitizedSymbol": "FARFUNS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1149992",
+    "lockerAddress": "0xabCcb995979D34433F8e7be6853396bCA8E376dd"
+  },
+  "clankerInfo": null
+}

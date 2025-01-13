@@ -1,0 +1,22 @@
+{
+  "name": "Droplet",
+  "symbol": "Droplet",
+  "decimals": 18,
+  "description": "Droplet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Droplet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Droplet",
+  "addresses": {
+    "8453": "0x3c7fef8c1648775fc645f240a2f24304522e0eb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Droplet",
+    "sanitizedSymbol": "DROPLET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEA47c00F2844b759c577bF8495831562713B667d",
+    "lpNftId": "1311327",
+    "lockerAddress": "0x85fCFF51a47991eee5Fd25ef07fbb8d372402541"
+  },
+  "clankerInfo": null
+}

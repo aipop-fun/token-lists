@@ -1,0 +1,22 @@
+{
+  "name": "XION",
+  "symbol": "XION",
+  "decimals": 18,
+  "description": "XION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XION",
+  "addresses": {
+    "8453": "0x069b689bd150e10035155de9d2f7efa5dd6c9666"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XION",
+    "sanitizedSymbol": "XION_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1331602",
+    "lockerAddress": "0x82587895fBcF42f07E79A0B97b99B19E6B89380B"
+  },
+  "clankerInfo": null
+}

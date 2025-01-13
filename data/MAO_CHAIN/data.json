@@ -1,0 +1,22 @@
+{
+  "name": "MAO CHAIN",
+  "symbol": "MAO CHAIN",
+  "decimals": 18,
+  "description": "MAO CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAO%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAO CHAIN",
+  "addresses": {
+    "8453": "0x04964e23e324a96f3b6a389aac99ed75f4e11380"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAO CHAIN",
+    "sanitizedSymbol": "MAO_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x556965634717e726893a4366664196436447517D",
+    "lpNftId": "1195233",
+    "lockerAddress": "0x5A94d961AEEc371464b608053d4BAc7e68e97Cea"
+  },
+  "clankerInfo": null
+}

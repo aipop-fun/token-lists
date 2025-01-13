@@ -1,0 +1,22 @@
+{
+  "name": "novpatrick",
+  "symbol": "novpatrick",
+  "decimals": 18,
+  "description": "novpatrick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=novpatrick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "novpatrick",
+  "addresses": {
+    "8453": "0x2bc171072953faa067d46c1ed54567d6b63de8c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "novpatrick",
+    "sanitizedSymbol": "NOVPATRICK",
+    "created_at": "2024-12-12T18:30:20.491322",
+    "deployer": "0x131d3c520F6376487f06cd6e7f5A40Cacfab5d73",
+    "lpNftId": "1440755",
+    "lockerAddress": "0xF3BABF527016bdc80370D4F9e98F777128aE7FED"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Based Willie",
+  "symbol": "Based Willie",
+  "decimals": 18,
+  "description": "Based Willie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Willie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Willie",
+  "addresses": {
+    "8453": "0x1c7f96a44dde185ab27edf3e61dabf7e9496f08b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Willie",
+    "sanitizedSymbol": "BASED_WILLIE",
+    "created_at": "2024-12-10T22:11:09.210963",
+    "deployer": "0x1B9AD081E4a94fbB566486F3D86F97a1dA1C94B0",
+    "lpNftId": "1407815",
+    "lockerAddress": "0x94a1CbA6168b8576C2Ea760666CAF7Ed835ecf96"
+  },
+  "clankerInfo": null
+}

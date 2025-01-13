@@ -1,0 +1,22 @@
+{
+  "name": "☕",
+  "symbol": "☕",
+  "decimals": 18,
+  "description": "☕ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E2%98%95",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "☕",
+  "addresses": {
+    "8453": "0x11264682721e515aa4f98e533091d5487953c135"
+  },
+  "tokenInfo": {
+    "originalSymbol": "☕",
+    "sanitizedSymbol": "TOKEN_0a8b4bcd",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235766",
+    "lockerAddress": "0xb5FE120C1117A77E46580284D249B861041315BC"
+  },
+  "clankerInfo": null
+}

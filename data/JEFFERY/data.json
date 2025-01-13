@@ -1,0 +1,22 @@
+{
+  "name": "Jeffery",
+  "symbol": "Jeffery",
+  "decimals": 18,
+  "description": "Jeffery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jeffery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jeffery",
+  "addresses": {
+    "8453": "0x18798d4e918298343445d5f1b08ec9d162e4f3a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jeffery",
+    "sanitizedSymbol": "JEFFERY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222560",
+    "lockerAddress": "0x8710aF3d5D9945ff8B9Ea5511b995F2D7fB5EF1B"
+  },
+  "clankerInfo": null
+}

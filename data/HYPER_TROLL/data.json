@@ -1,0 +1,22 @@
+{
+  "name": "Hyper Troll",
+  "symbol": "Hyper Troll",
+  "decimals": 18,
+  "description": "Hyper Troll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hyper%20Troll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hyper Troll",
+  "addresses": {
+    "8453": "0x15bb9096d4842affcb9a8f580aa46582f2ecfaf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hyper Troll",
+    "sanitizedSymbol": "HYPER_TROLL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x16Ff7282FDC61C6E268Fa03fD562eBd8cA79F7D0",
+    "lpNftId": "1319132",
+    "lockerAddress": "0x25318D540b5eBa4E3973Da773fc85f61667472bF"
+  },
+  "clankerInfo": null
+}

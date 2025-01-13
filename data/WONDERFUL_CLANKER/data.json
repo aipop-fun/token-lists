@@ -1,0 +1,22 @@
+{
+  "name": "Wonderful Clanker",
+  "symbol": "Wonderful Clanker",
+  "decimals": 18,
+  "description": "Wonderful Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wonderful%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wonderful Clanker",
+  "addresses": {
+    "8453": "0x0ed5121da447ee913cb10dabf190ff746b24e0ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wonderful Clanker",
+    "sanitizedSymbol": "WONDERFUL_CLANKER",
+    "created_at": "2024-12-10T02:27:43.588386",
+    "deployer": "0x450bcef5d8Fe5Db30926184dA441708B72994e51",
+    "lpNftId": "1395109",
+    "lockerAddress": "0xEA29C64ACbE6BC72C4cf8F080B4fd6d1595614A7"
+  },
+  "clankerInfo": null
+}

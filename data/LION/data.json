@@ -1,0 +1,22 @@
+{
+  "name": "lion",
+  "symbol": "lion",
+  "decimals": 18,
+  "description": "lion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lion",
+  "addresses": {
+    "8453": "0x18f7775ccecc3a774b77c8659131db89f444d11d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lion",
+    "sanitizedSymbol": "LION",
+    "created_at": "2024-12-10T14:20:35.337303",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401757",
+    "lockerAddress": "0xd42e2e6e24a17102475ED0ca40A74B8C039899B1"
+  },
+  "clankerInfo": null
+}

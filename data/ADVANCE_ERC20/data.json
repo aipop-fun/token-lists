@@ -1,0 +1,22 @@
+{
+  "name": "Advance-ERC20",
+  "symbol": "Advance-ERC20",
+  "decimals": 18,
+  "description": "Advance-ERC20 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Advance-ERC20",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Advance-ERC20",
+  "addresses": {
+    "8453": "0x350098c300301cc488ddafea05c6d23c345abae7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Advance-ERC20",
+    "sanitizedSymbol": "ADVANCE_ERC20",
+    "created_at": "2024-12-12T21:35:06.857592",
+    "deployer": "0x0897Dd24bFc5C1368c3170E153146D8827b0453f",
+    "lpNftId": "1443889",
+    "lockerAddress": "0xE296c6602dF38F89fd3ed3BcFbC969117C9ae479"
+  },
+  "clankerInfo": null
+}

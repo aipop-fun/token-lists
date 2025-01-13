@@ -1,0 +1,22 @@
+{
+  "name": "Pudgypudgy",
+  "symbol": "Pudgypudgy",
+  "decimals": 18,
+  "description": "Pudgypudgy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pudgypudgy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pudgypudgy",
+  "addresses": {
+    "8453": "0x0f45a9faa81339de7a8518bb29a6001293e50fb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pudgypudgy",
+    "sanitizedSymbol": "PUDGYPUDGY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221732",
+    "lockerAddress": "0x48f1A4Ca7e291718e6f4a8ca9988B2A6aa42CCc9"
+  },
+  "clankerInfo": null
+}

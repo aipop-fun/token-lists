@@ -1,0 +1,22 @@
+{
+  "name": "Bad Luck Brian",
+  "symbol": "Bad Luck Brian",
+  "decimals": 18,
+  "description": "Bad Luck Brian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bad%20Luck%20Brian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bad Luck Brian",
+  "addresses": {
+    "8453": "0x30a5e789908ff53216d5311bfe8d2e0452f321cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bad Luck Brian",
+    "sanitizedSymbol": "BAD_LUCK_BRIAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1bAe19AF613BD5Db94bAf043D5817e16a53A4C33",
+    "lpNftId": "1315009",
+    "lockerAddress": "0x248A6bbaB5Ef2792AE9165223C3D7DD1381ec902"
+  },
+  "clankerInfo": null
+}

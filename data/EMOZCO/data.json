@@ -1,0 +1,22 @@
+{
+  "name": "Emozco",
+  "symbol": "Emozco",
+  "decimals": 18,
+  "description": "Emozco is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Emozco",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Emozco",
+  "addresses": {
+    "8453": "0x27cceec02cdeb1e109189d7bb29129e3f29573af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Emozco",
+    "sanitizedSymbol": "EMOZCO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x657604627622A5DFA2d4603A69c4b673BA7986cb",
+    "lpNftId": "1281608",
+    "lockerAddress": "0xA2e71e045a3b4e308F0bfcbe9777fc40b42f1013"
+  },
+  "clankerInfo": null
+}

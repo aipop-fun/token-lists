@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Ride Bull",
+  "symbol": "Pepe Ride Bull",
+  "decimals": 18,
+  "description": "Pepe Ride Bull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Ride%20Bull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Ride Bull",
+  "addresses": {
+    "8453": "0x25e5673e35d589d88e3facbc4fddc3d07b1634fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Ride Bull",
+    "sanitizedSymbol": "PEPE_RIDE_BULL",
+    "created_at": "2024-12-11T15:24:51.744418",
+    "deployer": "0xc895Ac933134D018eaC9d53c2BD1eF2482e1515e",
+    "lpNftId": "1420902",
+    "lockerAddress": "0xeBC2a109fF2f8e18d0CFd2417aA8752ac298579F"
+  },
+  "clankerInfo": null
+}

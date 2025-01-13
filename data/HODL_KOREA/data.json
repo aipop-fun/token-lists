@@ -1,0 +1,22 @@
+{
+  "name": "HODL KOREA",
+  "symbol": "HODL KOREA",
+  "decimals": 18,
+  "description": "HODL KOREA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HODL%20KOREA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HODL KOREA",
+  "addresses": {
+    "8453": "0x3e85c094a2b48656a6f5809c334b05f0ce11c64a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HODL KOREA",
+    "sanitizedSymbol": "HODL_KOREA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x46A19b9a383Dd0670Fa111Fadb981e98fE618009",
+    "lpNftId": "1314215",
+    "lockerAddress": "0x50B40f667aEA77b128fF784021Cf00df1197AC51"
+  },
+  "clankerInfo": null
+}

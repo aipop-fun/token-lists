@@ -1,0 +1,22 @@
+{
+  "name": "WinterIsComing",
+  "symbol": "WinterIsComing",
+  "decimals": 18,
+  "description": "WinterIsComing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WinterIsComing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WinterIsComing",
+  "addresses": {
+    "8453": "0x0fba939bd94de817828b42cd28c89ff29efdb7db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WinterIsComing",
+    "sanitizedSymbol": "WINTERISCOMING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb50505b79D98Fa09502a965f0559924623cBcDf4",
+    "lpNftId": "1318261",
+    "lockerAddress": "0x70a36bCd55212Ea0FC6ba5eFbA590202B6f7757F"
+  },
+  "clankerInfo": null
+}

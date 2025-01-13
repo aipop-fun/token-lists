@@ -1,0 +1,22 @@
+{
+  "name": "Alusista",
+  "symbol": "Alusista",
+  "decimals": 18,
+  "description": "Alusista is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alusista",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alusista",
+  "addresses": {
+    "8453": "0x12a79a709fd13fb81435a33573b3a6043b53b5fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alusista",
+    "sanitizedSymbol": "ALUSISTA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226095",
+    "lockerAddress": "0x0316C729f18A5077f6fEb8dba7850B896e290647"
+  },
+  "clankerInfo": null
+}

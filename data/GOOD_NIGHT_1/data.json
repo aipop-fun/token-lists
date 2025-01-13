@@ -1,0 +1,22 @@
+{
+  "name": "Good night",
+  "symbol": "Good night",
+  "decimals": 18,
+  "description": "Good night is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Good%20night",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Good night",
+  "addresses": {
+    "8453": "0x3660654db40842521060f9e31070ec35e3f7479f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Good night",
+    "sanitizedSymbol": "GOOD_NIGHT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd3d2f7704Fe3836c7cE3B91E45E727368361d911",
+    "lpNftId": "1326198",
+    "lockerAddress": "0x779c69D3EE8943917bAFceBc2b3De6A099d3aFe6"
+  },
+  "clankerInfo": null
+}

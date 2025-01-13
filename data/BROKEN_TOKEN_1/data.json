@@ -1,0 +1,22 @@
+{
+  "name": "Broken Token",
+  "symbol": "Broken Token",
+  "decimals": 18,
+  "description": "Broken Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Broken%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Broken Token",
+  "addresses": {
+    "8453": "0x40f4446d79c2227aa3fff222a6affd4edc4ed2a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Broken Token",
+    "sanitizedSymbol": "BROKEN_TOKEN_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114738",
+    "lockerAddress": "0x12Ba359c0416627f92339E2621700114414b7DB9"
+  },
+  "clankerInfo": null
+}

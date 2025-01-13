@@ -1,0 +1,22 @@
+{
+  "name": "DINOSAUR Generator",
+  "symbol": "DINOSAUR Generator",
+  "decimals": 18,
+  "description": "DINOSAUR Generator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DINOSAUR%20Generator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DINOSAUR Generator",
+  "addresses": {
+    "8453": "0x1dbd0607a0856aaf2c6fde30d64b2bf917ee81e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DINOSAUR Generator",
+    "sanitizedSymbol": "DINOSAUR_GENERATOR",
+    "created_at": "2024-12-12T16:59:55.079761",
+    "deployer": "0x3007fc774Ea3eF2dda722Aac424C77ddF4690CAC",
+    "lpNftId": "1439034",
+    "lockerAddress": "0xeB5D4b3434EE5EB5AA0C42A9F6173327bB9BA72e"
+  },
+  "clankerInfo": null
+}

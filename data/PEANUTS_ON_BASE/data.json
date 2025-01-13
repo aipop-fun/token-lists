@@ -1,0 +1,22 @@
+{
+  "name": "Peanuts On Base",
+  "symbol": "Peanuts On Base",
+  "decimals": 18,
+  "description": "Peanuts On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Peanuts%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Peanuts On Base",
+  "addresses": {
+    "8453": "0x3ef3d44da49002a469827f0a7d72e0e5e46576e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Peanuts On Base",
+    "sanitizedSymbol": "PEANUTS_ON_BASE",
+    "created_at": "2024-12-12T10:10:51.213883",
+    "deployer": "0xC7292c33fa4ED21b7DB0aEF23A98DA01362d4773",
+    "lpNftId": "1432310",
+    "lockerAddress": "0x4e4302dcD9b3362D7EbEda700e27008393702bfc"
+  },
+  "clankerInfo": null
+}

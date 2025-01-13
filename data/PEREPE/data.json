@@ -1,0 +1,22 @@
+{
+  "name": "PEREPE",
+  "symbol": "PEREPE",
+  "decimals": 18,
+  "description": "PEREPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEREPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEREPE",
+  "addresses": {
+    "8453": "0x0b42ba5c7cba44b5b32fb9bee44196a17bb1f9ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEREPE",
+    "sanitizedSymbol": "PEREPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x39fd7088530491Af658A3337B338627C35044E74",
+    "lpNftId": "1267042",
+    "lockerAddress": "0xE3c36fFAf086Bf28a22109Fc1192f9ccDe90fb06"
+  },
+  "clankerInfo": null
+}

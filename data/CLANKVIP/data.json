@@ -1,0 +1,22 @@
+{
+  "name": "ClankVip",
+  "symbol": "ClankVip",
+  "decimals": 18,
+  "description": "ClankVip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankVip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankVip",
+  "addresses": {
+    "8453": "0x05f17bfbe78a2bc2e25c627c39f3ea56d0efe589"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankVip",
+    "sanitizedSymbol": "CLANKVIP",
+    "created_at": "2024-12-10T03:46:13.509992",
+    "deployer": "0xB96D0b8cE3261A04a5645f9909dccd2A352aF7FB",
+    "lpNftId": "1395847",
+    "lockerAddress": "0x6068682beB2a1225B176db4Ba4b4019200b8cF97"
+  },
+  "clankerInfo": null
+}

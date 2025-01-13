@@ -1,0 +1,22 @@
+{
+  "name": "1MORE10000X",
+  "symbol": "1MORE10000X",
+  "decimals": 18,
+  "description": "1MORE10000X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1MORE10000X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1MORE10000X",
+  "addresses": {
+    "8453": "0x4105c0789d26fc85c802f8de1a6ab4d9c21bb7e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1MORE10000X",
+    "sanitizedSymbol": "1MORE10000X",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09Ca6926f0A1fa30dDc04710Db2d89ec0d73b608",
+    "lpNftId": "1312392",
+    "lockerAddress": "0x63f23c0a5eA4FbFbd1B6152A541E6485862E8E98"
+  },
+  "clankerInfo": null
+}

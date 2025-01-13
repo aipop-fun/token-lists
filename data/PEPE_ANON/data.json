@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Anon",
+  "symbol": "Pepe Anon",
+  "decimals": 18,
+  "description": "Pepe Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Anon",
+  "addresses": {
+    "8453": "0x1bc660d92b65822bddeec8dc923553ef6de62837"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Anon",
+    "sanitizedSymbol": "PEPE_ANON",
+    "created_at": "2024-12-11T12:07:23.537427",
+    "deployer": "0xE35F4e993fa02345d9E58f6d9c12272273945D3e",
+    "lpNftId": "1417522",
+    "lockerAddress": "0xaE68Febd129a1Cc4804F8eFe7ac0a1A73437Da57"
+  },
+  "clankerInfo": null
+}

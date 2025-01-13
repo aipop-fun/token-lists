@@ -1,0 +1,22 @@
+{
+  "name": "APPLE Permissionless",
+  "symbol": "APPLE Permissionless",
+  "decimals": 18,
+  "description": "APPLE Permissionless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APPLE%20Permissionless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APPLE Permissionless",
+  "addresses": {
+    "8453": "0x33eba8becfebad5c50fd82f8183c006e541ad570"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APPLE Permissionless",
+    "sanitizedSymbol": "APPLE_PERMISSIONLESS",
+    "created_at": "2024-12-09T09:41:36.327294",
+    "deployer": "0x4CBA863D8350cC96313daCbe06a3F055537929c8",
+    "lpNftId": "1385348",
+    "lockerAddress": "0x1d3E048a89eBEa690c5E3F02E71DB965221Ca518"
+  },
+  "clankerInfo": null
+}

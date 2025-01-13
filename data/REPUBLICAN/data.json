@@ -1,0 +1,22 @@
+{
+  "name": "REPUBLICAN",
+  "symbol": "REPUBLICAN",
+  "decimals": 18,
+  "description": "REPUBLICAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REPUBLICAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REPUBLICAN",
+  "addresses": {
+    "8453": "0x40a0e672c6a9a91093296c884e933759871fa4b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REPUBLICAN",
+    "sanitizedSymbol": "REPUBLICAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x49a9589225cA3371f38E1B8F908715c41D94228c",
+    "lpNftId": "1278971",
+    "lockerAddress": "0x5248b2af3c397847C9116DF15F569715094229DC"
+  },
+  "clankerInfo": null
+}

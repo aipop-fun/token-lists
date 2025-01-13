@@ -1,0 +1,22 @@
+{
+  "name": "Bearjo",
+  "symbol": "Bearjo",
+  "decimals": 18,
+  "description": "Bearjo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bearjo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bearjo",
+  "addresses": {
+    "8453": "0x2d7218b3ec1368b866795d01bea20859887ee136"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bearjo",
+    "sanitizedSymbol": "BEARJO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa1f124B31238Bb1756f63f5599C14a919995f0a6",
+    "lpNftId": "1287642",
+    "lockerAddress": "0xEcdeA7c96CAD49845C65a9Bf19016911c7DAa0a8"
+  },
+  "clankerInfo": null
+}

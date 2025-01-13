@@ -1,0 +1,22 @@
+{
+  "name": "story badge",
+  "symbol": "story badge",
+  "decimals": 18,
+  "description": "story badge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=story%20badge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "story badge",
+  "addresses": {
+    "8453": "0x0efea661bfa51f7de90b589f551443109599e166"
+  },
+  "tokenInfo": {
+    "originalSymbol": "story badge",
+    "sanitizedSymbol": "STORY_BADGE",
+    "created_at": "2024-12-09T09:16:15.468111",
+    "deployer": "0x028aa845de6E6988518615D37c5D00dE29EE58D1",
+    "lpNftId": "1385221",
+    "lockerAddress": "0xcCE7B6534b582dd940E7090A8d6A9EB367D0FdbB"
+  },
+  "clankerInfo": null
+}

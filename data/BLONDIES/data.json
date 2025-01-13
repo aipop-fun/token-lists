@@ -1,0 +1,22 @@
+{
+  "name": "Blondies",
+  "symbol": "Blondies",
+  "decimals": 18,
+  "description": "Blondies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blondies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blondies",
+  "addresses": {
+    "8453": "0x37e6d3cedfd528f5038e430a76b7c736b7940a59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blondies",
+    "sanitizedSymbol": "BLONDIES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1251827",
+    "lockerAddress": "0x591aC8D127576C10A9E446e7fF0F53276cD39820"
+  },
+  "clankerInfo": null
+}

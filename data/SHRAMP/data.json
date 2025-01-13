@@ -1,0 +1,22 @@
+{
+  "name": "SHRAMP",
+  "symbol": "SHRAMP",
+  "decimals": 18,
+  "description": "SHRAMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHRAMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHRAMP",
+  "addresses": {
+    "8453": "0x3ef7775c4a2001160fdb284a5f2daf5221dbf175"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHRAMP",
+    "sanitizedSymbol": "SHRAMP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222915",
+    "lockerAddress": "0x5AA676884ac38969c1718a3cd367E6Af5a366d0E"
+  },
+  "clankerInfo": null
+}

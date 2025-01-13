@@ -1,0 +1,22 @@
+{
+  "name": "abcd2",
+  "symbol": "abcd2",
+  "decimals": 18,
+  "description": "abcd2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=abcd2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "abcd2",
+  "addresses": {
+    "8453": "0x1f2afe5d01fd39890cfd3d14bf60c940e84b2d9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "abcd2",
+    "sanitizedSymbol": "ABCD2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234374",
+    "lockerAddress": "0x93c3738C4C877868ebBd012408194695680d5B1b"
+  },
+  "clankerInfo": null
+}

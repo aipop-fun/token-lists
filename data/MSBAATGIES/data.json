@@ -1,0 +1,22 @@
+{
+  "name": "MsbaAtGies",
+  "symbol": "MsbaAtGies",
+  "decimals": 18,
+  "description": "MsbaAtGies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MsbaAtGies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MsbaAtGies",
+  "addresses": {
+    "8453": "0x22474387c2c0b79180d862e8e49f547d4390d52e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MsbaAtGies",
+    "sanitizedSymbol": "MSBAATGIES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196295",
+    "lockerAddress": "0x1e0bFADF6516EF3D605F6fd3c07D8a175B8e01c2"
+  },
+  "clankerInfo": null
+}

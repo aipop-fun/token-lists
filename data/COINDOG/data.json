@@ -1,0 +1,22 @@
+{
+  "name": "coindog",
+  "symbol": "coindog",
+  "decimals": 18,
+  "description": "coindog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=coindog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "coindog",
+  "addresses": {
+    "8453": "0x2a0885b447148d691e2c2b5f4ef25928e2d15ee8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "coindog",
+    "sanitizedSymbol": "COINDOG",
+    "created_at": "2024-12-10T23:01:01.949382",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408204",
+    "lockerAddress": "0xB87a4e042ea237730B1e7562f6a336cf09E05292"
+  },
+  "clankerInfo": null
+}

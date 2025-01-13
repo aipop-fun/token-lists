@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Coven",
+  "symbol": "Crypto Coven",
+  "decimals": 18,
+  "description": "Crypto Coven is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Coven",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Coven",
+  "addresses": {
+    "8453": "0x2fc2e1ef330a5d0de6e0207911524aca42deaa85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Coven",
+    "sanitizedSymbol": "CRYPTO_COVEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124869",
+    "lockerAddress": "0x9E58EBe8B6FDbd6887710651BF44e77807beCa67"
+  },
+  "clankerInfo": null
+}

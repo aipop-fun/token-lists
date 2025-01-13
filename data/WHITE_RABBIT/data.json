@@ -1,0 +1,22 @@
+{
+  "name": "White Rabbit",
+  "symbol": "White Rabbit",
+  "decimals": 18,
+  "description": "White Rabbit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=White%20Rabbit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "White Rabbit",
+  "addresses": {
+    "8453": "0x04405709e5635c01f8ce02b395862d78bd5f588f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "White Rabbit",
+    "sanitizedSymbol": "WHITE_RABBIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230622",
+    "lockerAddress": "0x0D7cc0708277579a228dD65899555cEa56468193"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "homeless",
+  "symbol": "homeless",
+  "decimals": 18,
+  "description": "homeless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=homeless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "homeless",
+  "addresses": {
+    "8453": "0x02eec04a9593cd84a2c5bca0fae233a75db800dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "homeless",
+    "sanitizedSymbol": "HOMELESS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198344",
+    "lockerAddress": "0x2d83578544E218799C9a20052b390CC4C19639CF"
+  },
+  "clankerInfo": null
+}

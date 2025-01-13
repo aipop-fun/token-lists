@@ -1,0 +1,22 @@
+{
+  "name": "BasePika",
+  "symbol": "BasePika",
+  "decimals": 18,
+  "description": "BasePika is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasePika",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasePika",
+  "addresses": {
+    "8453": "0x08c8befde98c4402e125c5f6c81de1823a331e75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasePika",
+    "sanitizedSymbol": "BASEPIKA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123421",
+    "lockerAddress": "0xF249d34986D0A849353D9D0ba5629ABBbdF4F75a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blessed Mayor",
+  "symbol": "Blessed Mayor",
+  "decimals": 18,
+  "description": "Blessed Mayor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blessed%20Mayor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blessed Mayor",
+  "addresses": {
+    "8453": "0x146fb5e40adc08d2a88809684ffdf4ecf5215f68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blessed Mayor",
+    "sanitizedSymbol": "BLESSED_MAYOR",
+    "created_at": "2024-12-12T11:49:43.84424",
+    "deployer": "0x8950359D3A9f5d29C5D667f823EEa9A6579E7da0",
+    "lpNftId": "1433729",
+    "lockerAddress": "0xEE98b7413A1e536f134FB9a3d5D2739aBd263fF3"
+  },
+  "clankerInfo": null
+}

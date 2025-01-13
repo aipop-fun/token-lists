@@ -1,0 +1,22 @@
+{
+  "name": "SILIT BASE",
+  "symbol": "SILIT BASE",
+  "decimals": 18,
+  "description": "SILIT BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SILIT%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SILIT BASE",
+  "addresses": {
+    "8453": "0x1da07bc26f9578cc8878af0971fe08f1baa3d516"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SILIT BASE",
+    "sanitizedSymbol": "SILIT_BASE",
+    "created_at": "2024-12-10T07:53:43.594791",
+    "deployer": "0x46fA4606FCD4f26b60cDeF1D2C19C3A07b54418F",
+    "lpNftId": "1398378",
+    "lockerAddress": "0x5ebC43AD7f2769D2B53A9b7CEF0402514a6D252a"
+  },
+  "clankerInfo": null
+}

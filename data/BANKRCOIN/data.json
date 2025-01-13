@@ -1,0 +1,22 @@
+{
+  "name": "BankrCoin",
+  "symbol": "BankrCoin",
+  "decimals": 18,
+  "description": "BankrCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BankrCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BankrCoin",
+  "addresses": {
+    "8453": "0x22af33fe49fd1fa80c7149773dde5890d3c76f3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BankrCoin",
+    "sanitizedSymbol": "BANKRCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x128C718152c4Da86454547484A43A09aC4ee6E7b",
+    "lpNftId": "1292087",
+    "lockerAddress": "0x4f975A21d66Dd7006686F4dF44FD675BF0496023"
+  },
+  "clankerInfo": null
+}

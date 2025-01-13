@@ -1,0 +1,22 @@
+{
+  "name": "dogen",
+  "symbol": "dogen",
+  "decimals": 18,
+  "description": "dogen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogen",
+  "addresses": {
+    "8453": "0x0cdd6f31253f5cfe729c874a712fa11e2fac0a7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogen",
+    "sanitizedSymbol": "DOGEN_1",
+    "created_at": "2024-12-12T18:01:39.387931",
+    "deployer": "0xc6c9B9C154D7053f14BeCA7483aB14a9ce279328",
+    "lpNftId": "1440382",
+    "lockerAddress": "0x018bC24890B595B1334e2004859402960a18B625"
+  },
+  "clankerInfo": null
+}

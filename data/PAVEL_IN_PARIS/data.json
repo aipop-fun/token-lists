@@ -1,0 +1,22 @@
+{
+  "name": "Pavel in Paris",
+  "symbol": "Pavel in Paris",
+  "decimals": 18,
+  "description": "Pavel in Paris is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pavel%20in%20Paris",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pavel in Paris",
+  "addresses": {
+    "8453": "0x1d67215b380b46a84b7e235e9eaba3905ece8ef7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pavel in Paris",
+    "sanitizedSymbol": "PAVEL_IN_PARIS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x038dfcaD2f07F1166A2485563B11d22D7291A1BB",
+    "lpNftId": "1253295",
+    "lockerAddress": "0xc452227278aaf31CDC444174f9900B4BFA3d0f62"
+  },
+  "clankerInfo": null
+}

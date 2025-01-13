@@ -1,0 +1,22 @@
+{
+  "name": "Regen",
+  "symbol": "Regen",
+  "decimals": 18,
+  "description": "Regen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Regen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Regen",
+  "addresses": {
+    "8453": "0x017ea11156ef4608c564d42211a9c8dbb6a6706a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Regen",
+    "sanitizedSymbol": "REGEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129730",
+    "lockerAddress": "0x6a1dcB5DC7A2Ca4cC97cf0DBA9AB9cD096379923"
+  },
+  "clankerInfo": null
+}

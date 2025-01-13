@@ -1,0 +1,22 @@
+{
+  "name": "zigong",
+  "symbol": "zigong",
+  "decimals": 18,
+  "description": "zigong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zigong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zigong",
+  "addresses": {
+    "8453": "0x39823071f619c48f4a6e798d7bc5d05fd12aaa18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zigong",
+    "sanitizedSymbol": "ZIGONG",
+    "created_at": "2024-12-12T04:38:52.964515",
+    "deployer": "0x74bA4F0A218B1c7722e6654133dA206C277263Da",
+    "lpNftId": "1429213",
+    "lockerAddress": "0x0590929e37E079Aeb9021ABe1530a7C396Bb9112"
+  },
+  "clankerInfo": null
+}

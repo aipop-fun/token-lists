@@ -1,0 +1,22 @@
+{
+  "name": "GameOn",
+  "symbol": "GameOn",
+  "decimals": 18,
+  "description": "GameOn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GameOn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GameOn",
+  "addresses": {
+    "8453": "0x3e3a1f18aa9eb7851ec84d744b040c55cc816b68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GameOn",
+    "sanitizedSymbol": "GAMEON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6ADF9DDAEb5178510149E92aF66207A8a307F6aB",
+    "lpNftId": "1334607",
+    "lockerAddress": "0x3559D02455AD07EAcDC40107F6deA5Cb2f3dacF7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wife",
+  "symbol": "wife",
+  "decimals": 18,
+  "description": "wife is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wife",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wife",
+  "addresses": {
+    "8453": "0x10b391e77c45985dc9ae1c0de4f00be004020fdd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wife",
+    "sanitizedSymbol": "WIFE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128905",
+    "lockerAddress": "0x57B6Dbaa41aDBCD8fE1941AFE1fe99FAa2299170"
+  },
+  "clankerInfo": null
+}

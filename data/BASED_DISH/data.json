@@ -1,0 +1,22 @@
+{
+  "name": "Based Dish",
+  "symbol": "Based Dish",
+  "decimals": 18,
+  "description": "Based Dish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Dish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Dish",
+  "addresses": {
+    "8453": "0x22acf48acf991eab22a8acd5564634e3bfaa402d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Dish",
+    "sanitizedSymbol": "BASED_DISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1375282",
+    "lockerAddress": "0x42DF0E202D272b3BcBD14096a346c852680C4928"
+  },
+  "clankerInfo": null
+}

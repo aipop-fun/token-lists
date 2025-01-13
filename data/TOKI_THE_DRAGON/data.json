@@ -1,0 +1,22 @@
+{
+  "name": "Toki the dragon",
+  "symbol": "Toki the dragon",
+  "decimals": 18,
+  "description": "Toki the dragon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Toki%20the%20dragon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Toki the dragon",
+  "addresses": {
+    "8453": "0x2541b65d388ca6ac1a5e6d1b7cedf1caf19b8178"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Toki the dragon",
+    "sanitizedSymbol": "TOKI_THE_DRAGON",
+    "created_at": "2024-12-12T01:39:07.987183",
+    "deployer": "0x54eDA6D13B0173Df9BF173694eD96e0afc4c4491",
+    "lpNftId": "1428459",
+    "lockerAddress": "0x08F871A5301315fF5081deE6D435c22Acf456737"
+  },
+  "clankerInfo": null
+}

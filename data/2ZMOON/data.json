@@ -1,0 +1,22 @@
+{
+  "name": "2zmoon",
+  "symbol": "2zmoon",
+  "decimals": 18,
+  "description": "2zmoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2zmoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2zmoon",
+  "addresses": {
+    "8453": "0x06896de00f33faf99eec1f96606110917e7cb7cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2zmoon",
+    "sanitizedSymbol": "2ZMOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x56688a7F8932EFDf7AFaB2a0724a1eEe12147C20",
+    "lpNftId": "1285293",
+    "lockerAddress": "0xFa0b618cD6ad0F38db4cf26f8e5b475E2D2DbD7f"
+  },
+  "clankerInfo": null
+}

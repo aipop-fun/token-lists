@@ -1,0 +1,22 @@
+{
+  "name": "Butter",
+  "symbol": "Butter",
+  "decimals": 18,
+  "description": "Butter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Butter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Butter",
+  "addresses": {
+    "8453": "0x40560477cba74d92708f3a7c6a68c4fc2f0dd98e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Butter",
+    "sanitizedSymbol": "BUTTER_3",
+    "created_at": "2024-12-12T17:54:25.055277",
+    "deployer": "0x1C4fF86df55cfB102AEe3e6Dbd7f1eddF6b64a37",
+    "lpNftId": "1440245",
+    "lockerAddress": "0xFea4322Ffc499C924AB681433d7Ebd9FD1d25217"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "kulba",
+  "symbol": "kulba",
+  "decimals": 18,
+  "description": "kulba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kulba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kulba",
+  "addresses": {
+    "8453": "0x2d88684c856aa452522709747d55931f7839e1d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kulba",
+    "sanitizedSymbol": "KULBA",
+    "created_at": "2024-12-12T17:46:13.405114",
+    "deployer": "0xfCdDC37F72612CEA5f411e92EE0420840F524176",
+    "lpNftId": "1440041",
+    "lockerAddress": "0x7e13908567C2cea0cd68119B538d8eE69Fd61D71"
+  },
+  "clankerInfo": null
+}

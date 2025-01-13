@@ -1,0 +1,22 @@
+{
+  "name": "Mfers",
+  "symbol": "Mfers",
+  "decimals": 18,
+  "description": "Mfers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mfers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mfers",
+  "addresses": {
+    "8453": "0x256ef66c93018e0545990a062120114dd8b67d8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mfers",
+    "sanitizedSymbol": "MFERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236954",
+    "lockerAddress": "0x38cd03Fa7995EC820620d2dc510820530e033BA9"
+  },
+  "clankerInfo": null
+}

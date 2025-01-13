@@ -1,0 +1,22 @@
+{
+  "name": "PAGANINI",
+  "symbol": "PAGANINI",
+  "decimals": 18,
+  "description": "PAGANINI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAGANINI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAGANINI",
+  "addresses": {
+    "8453": "0x369e497b9d341bdbff3125b007c388ca11fa2265"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAGANINI",
+    "sanitizedSymbol": "PAGANINI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204163",
+    "lockerAddress": "0x2bc9B2BE6aa4ec345d64771a7DA4bF92Ce56387F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crown",
+  "symbol": "Crown",
+  "decimals": 18,
+  "description": "Crown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crown",
+  "addresses": {
+    "8453": "0x2903ad1adc23ee5f93973062f3fb931c0bb56b22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crown",
+    "sanitizedSymbol": "CROWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125125",
+    "lockerAddress": "0x5a82279F3781bFCdf125f1F5a535246C6c410912"
+  },
+  "clankerInfo": null
+}

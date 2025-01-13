@@ -1,0 +1,22 @@
+{
+  "name": "STRESS GUY ON BASE",
+  "symbol": "STRESS GUY ON BASE",
+  "decimals": 18,
+  "description": "STRESS GUY ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STRESS%20GUY%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STRESS GUY ON BASE",
+  "addresses": {
+    "8453": "0x3a666e639ebf945bb3b63bece32fbd067df532d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STRESS GUY ON BASE",
+    "sanitizedSymbol": "STRESS_GUY_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5d6334C1eB49De2579A9e02FC3B16C6c3d9635Ce",
+    "lpNftId": "1325036",
+    "lockerAddress": "0x08A954462eCc8b7C619183dE99A5f5739E808fB1"
+  },
+  "clankerInfo": null
+}

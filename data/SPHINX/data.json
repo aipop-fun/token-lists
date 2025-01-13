@@ -1,0 +1,22 @@
+{
+  "name": "Sphinx",
+  "symbol": "Sphinx",
+  "decimals": 18,
+  "description": "Sphinx is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sphinx",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sphinx",
+  "addresses": {
+    "8453": "0x3489140b9a382afb926814221ea9529acc15c190"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sphinx",
+    "sanitizedSymbol": "SPHINX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2d461a79229cf9D45d7d055769d797F6A5e77A17",
+    "lpNftId": "1285711",
+    "lockerAddress": "0x32B64ddF01C88B4D11984F03a545C44EEE922b1e"
+  },
+  "clankerInfo": null
+}

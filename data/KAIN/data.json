@@ -1,0 +1,22 @@
+{
+  "name": "Kain",
+  "symbol": "Kain",
+  "decimals": 18,
+  "description": "Kain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kain",
+  "addresses": {
+    "8453": "0x34973511a5513ef771852bec85b1a9cf15b99bb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kain",
+    "sanitizedSymbol": "KAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1137226",
+    "lockerAddress": "0xF22a6305cD7112E00825C406536D22ae8f65eF17"
+  },
+  "clankerInfo": null
+}

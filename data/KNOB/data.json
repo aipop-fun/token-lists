@@ -1,0 +1,22 @@
+{
+  "name": "Knob!",
+  "symbol": "Knob!",
+  "decimals": 18,
+  "description": "Knob! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Knob!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Knob!",
+  "addresses": {
+    "8453": "0x3de60a771cbf6ca2acd932ea19e756c5f2f56d8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Knob!",
+    "sanitizedSymbol": "KNOB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125061",
+    "lockerAddress": "0x3199C358B85ed50e37B300146E15ad6589Cd9C15"
+  },
+  "clankerInfo": null
+}

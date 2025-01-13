@@ -1,0 +1,22 @@
+{
+  "name": "WIN",
+  "symbol": "WIN",
+  "decimals": 18,
+  "description": "WIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WIN",
+  "addresses": {
+    "8453": "0x09f872595f9ff2ed591dcdef585cf13e7a204b0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WIN",
+    "sanitizedSymbol": "WIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1301865",
+    "lockerAddress": "0x5668F232B328A1623463A0fDc2CEeea689496cCe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin Dog",
+  "symbol": "Bitcoin Dog",
+  "decimals": 18,
+  "description": "Bitcoin Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin Dog",
+  "addresses": {
+    "8453": "0x08201559a6d52cfa9e66833fa902b263d0e1eea9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin Dog",
+    "sanitizedSymbol": "BITCOIN_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x96c9ec696D4a44c1E6221638d0B9A27eF0b4A160",
+    "lpNftId": "1330099",
+    "lockerAddress": "0x9d60A9315b004643C90FC4080A60E570bC46eAf0"
+  },
+  "clankerInfo": null
+}

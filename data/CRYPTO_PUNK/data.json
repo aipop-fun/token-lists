@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTO PUNK",
+  "symbol": "CRYPTO PUNK",
+  "decimals": 18,
+  "description": "CRYPTO PUNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTO%20PUNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTO PUNK",
+  "addresses": {
+    "8453": "0x25cecc81d4a623585774f13fb10e58e677c173bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTO PUNK",
+    "sanitizedSymbol": "CRYPTO_PUNK",
+    "created_at": "2024-12-09T05:20:30.644649",
+    "deployer": "0xEC7A01b1B70f44341a9a173C1d632c7C2CEC195c",
+    "lpNftId": "1383112",
+    "lockerAddress": "0x77060230c9fB7b54eFF87FeD07E0826c5d53ac95"
+  },
+  "clankerInfo": null
+}

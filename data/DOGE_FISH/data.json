@@ -1,0 +1,22 @@
+{
+  "name": "doge&fish",
+  "symbol": "doge&fish",
+  "decimals": 18,
+  "description": "doge&fish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=doge%26fish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "doge&fish",
+  "addresses": {
+    "8453": "0x3ade64859c1b3a5fce182927cf2921a0fb28d3ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "doge&fish",
+    "sanitizedSymbol": "DOGE_FISH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224207",
+    "lockerAddress": "0xBf9D9bb600e449F20e2dE942BeD670e0F558647c"
+  },
+  "clankerInfo": null
+}

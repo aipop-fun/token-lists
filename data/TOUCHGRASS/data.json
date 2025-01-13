@@ -1,0 +1,22 @@
+{
+  "name": "touchgrass",
+  "symbol": "touchgrass",
+  "decimals": 18,
+  "description": "touchgrass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=touchgrass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "touchgrass",
+  "addresses": {
+    "8453": "0x3a2a66cc5641773ee2f5da5d85a431dd6fefa0dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "touchgrass",
+    "sanitizedSymbol": "TOUCHGRASS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFE819920199392CdD911AcDaED84b38f30e27562",
+    "lpNftId": "1338440",
+    "lockerAddress": "0xb4D998dD9bA8b3034c0531029629A3cBa78F2A2b"
+  },
+  "clankerInfo": null
+}

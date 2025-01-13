@@ -1,0 +1,22 @@
+{
+  "name": "stopthebullshit",
+  "symbol": "stopthebullshit",
+  "decimals": 18,
+  "description": "stopthebullshit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stopthebullshit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stopthebullshit",
+  "addresses": {
+    "8453": "0x2edce07d14eaab5161013205d117ae74a9c1689c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stopthebullshit",
+    "sanitizedSymbol": "STOPTHEBULLSHIT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9c9d3EBe107614d5B4f933c4cd1eD74890E8D991",
+    "lpNftId": "1284589",
+    "lockerAddress": "0xa08Be880ebAe7b03b7DC7890636030511301387a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Gen Z green PEPE",
+  "symbol": "Gen Z green PEPE",
+  "decimals": 18,
+  "description": "Gen Z green PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gen%20Z%20green%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gen Z green PEPE",
+  "addresses": {
+    "8453": "0x25439a78cd372f28d8e6931e74edd4f90d37787f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gen Z green PEPE",
+    "sanitizedSymbol": "GEN_Z_GREEN_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1319310",
+    "lockerAddress": "0x1e90d661B2eFedE80326682Da1B0E7f6F0a721E8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ASSETDASSH",
+  "symbol": "ASSETDASSH",
+  "decimals": 18,
+  "description": "ASSETDASSH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ASSETDASSH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ASSETDASSH",
+  "addresses": {
+    "8453": "0x203a4ccd785309dbbdddec8db3d7c45751e38b9a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ASSETDASSH",
+    "sanitizedSymbol": "ASSETDASSH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1306079",
+    "lockerAddress": "0x83936085e0d8aAbAa1e56CFEa58EE015DC6fCf57"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Radiant Glow",
+  "symbol": "Radiant Glow",
+  "decimals": 18,
+  "description": "Radiant Glow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Radiant%20Glow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Radiant Glow",
+  "addresses": {
+    "8453": "0x11f6f8a48d4aa692b6e24d39b910c0fa3e3e008c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Radiant Glow",
+    "sanitizedSymbol": "RADIANT_GLOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152623",
+    "lockerAddress": "0xf686802bCd2aCBed19A9A3fA9c74B01F4911860e"
+  },
+  "clankerInfo": null
+}

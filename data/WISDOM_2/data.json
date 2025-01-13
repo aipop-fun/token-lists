@@ -1,0 +1,22 @@
+{
+  "name": "WISDOM",
+  "symbol": "WISDOM",
+  "decimals": 18,
+  "description": "WISDOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WISDOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WISDOM",
+  "addresses": {
+    "8453": "0x27dede8c012cd925006443af66dbb90267e45805"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WISDOM",
+    "sanitizedSymbol": "WISDOM_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123328",
+    "lockerAddress": "0x1C1021A605AbDD6231Af09050dFD499c51B11f37"
+  },
+  "clankerInfo": null
+}

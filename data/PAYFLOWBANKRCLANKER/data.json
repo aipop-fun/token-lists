@@ -1,0 +1,22 @@
+{
+  "name": "PayflowBankrClanker",
+  "symbol": "PayflowBankrClanker",
+  "decimals": 18,
+  "description": "PayflowBankrClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PayflowBankrClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PayflowBankrClanker",
+  "addresses": {
+    "8453": "0x3c2744e37b3190b13f67474aa5d73fa75cc3df3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PayflowBankrClanker",
+    "sanitizedSymbol": "PAYFLOWBANKRCLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaE1A5e3b9d469b7281455A62CD1F7879ff05c7c1",
+    "lpNftId": "1327247",
+    "lockerAddress": "0xd656723cfc9dc0f8d02ab734a6Cb9948cbFAf1a7"
+  },
+  "clankerInfo": null
+}

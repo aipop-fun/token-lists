@@ -1,0 +1,22 @@
+{
+  "name": "THE GOSTx1",
+  "symbol": "THE GOSTx1",
+  "decimals": 18,
+  "description": "THE GOSTx1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THE%20GOSTx1",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THE GOSTx1",
+  "addresses": {
+    "8453": "0x2826c081d844148171c334745595f3eae6f9185e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THE GOSTx1",
+    "sanitizedSymbol": "THE_GOSTX1",
+    "created_at": "2024-12-10T22:55:44.502655",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1408184",
+    "lockerAddress": "0x3802061989d4cE96Cc851f82e486B0DE65D5314a"
+  },
+  "clankerInfo": null
+}

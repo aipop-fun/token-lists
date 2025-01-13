@@ -1,0 +1,22 @@
+{
+  "name": "BALLS",
+  "symbol": "BALLS",
+  "decimals": 18,
+  "description": "BALLS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BALLS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BALLS",
+  "addresses": {
+    "8453": "0x0e4a5ab2bb600ea293892d731a670d9832642046"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BALLS",
+    "sanitizedSymbol": "BALLS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB22F9BaB1010075aEFc319A69eE2F66eC8a1Cea4",
+    "lpNftId": "1268867",
+    "lockerAddress": "0x17E57f75C90Bd76a0b18484467b28dF995fbCc58"
+  },
+  "clankerInfo": null
+}

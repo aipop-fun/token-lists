@@ -1,0 +1,22 @@
+{
+  "name": "SMOLOKOM",
+  "symbol": "SMOLOKOM",
+  "decimals": 18,
+  "description": "SMOLOKOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SMOLOKOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SMOLOKOM",
+  "addresses": {
+    "8453": "0x09ccc79805f54750523870a0fab5deb823624c85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SMOLOKOM",
+    "sanitizedSymbol": "SMOLOKOM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD4293e608bAb98a7b0F1D5520bc1F27B89226D9b",
+    "lpNftId": "1288877",
+    "lockerAddress": "0x6052bdad27FCD305203D355fB033F3e58397D2Ee"
+  },
+  "clankerInfo": null
+}

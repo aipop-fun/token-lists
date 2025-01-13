@@ -1,0 +1,22 @@
+{
+  "name": "NANO",
+  "symbol": "NANO",
+  "decimals": 18,
+  "description": "NANO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NANO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NANO",
+  "addresses": {
+    "8453": "0x2c38432353e990748cb03f02ce0bac68aa32c5af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NANO",
+    "sanitizedSymbol": "NANO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6dc92d2D11136f93c52cBBE2c0298F1071D54300",
+    "lpNftId": "1275007",
+    "lockerAddress": "0x732183b66f612630578cD6665a1d6687dF5932c3"
+  },
+  "clankerInfo": null
+}

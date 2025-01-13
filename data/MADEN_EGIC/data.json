@@ -1,0 +1,22 @@
+{
+  "name": "Maden Egic",
+  "symbol": "Maden Egic",
+  "decimals": 18,
+  "description": "Maden Egic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maden%20Egic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maden Egic",
+  "addresses": {
+    "8453": "0x321942bfdbb334e878b97dc6565122b3a598dd54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maden Egic",
+    "sanitizedSymbol": "MADEN_EGIC",
+    "created_at": "2024-12-10T17:06:37.767446",
+    "deployer": "0x08F7Fd04e76daC7e4d9e343e0B5510379f5bbA48",
+    "lpNftId": "1404334",
+    "lockerAddress": "0x675558f7447F1544394E2B67Ead5829C2BCC32B8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pay It Forward",
+  "symbol": "Pay It Forward",
+  "decimals": 18,
+  "description": "Pay It Forward is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pay%20It%20Forward",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pay It Forward",
+  "addresses": {
+    "8453": "0x2869ae253d6f9997cf1dbf0587f22a639276a6af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pay It Forward",
+    "sanitizedSymbol": "PAY_IT_FORWARD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1319934",
+    "lockerAddress": "0xD7218cD17468Bc0388c0956D6E65309056a831CA"
+  },
+  "clankerInfo": null
+}

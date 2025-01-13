@@ -1,0 +1,22 @@
+{
+  "name": "CTRL PAD",
+  "symbol": "CTRL PAD",
+  "decimals": 18,
+  "description": "CTRL PAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CTRL%20PAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CTRL PAD",
+  "addresses": {
+    "8453": "0x0f697bf2a6c9c8f971b94245a0cac0f32d4dfbe1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CTRL PAD",
+    "sanitizedSymbol": "CTRL_PAD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x26B92da4c85C1227b1aE407f9A38202C9e923b62",
+    "lpNftId": "1251724",
+    "lockerAddress": "0xfD145cFA5071B321B3Aa6c574cf3e0C8BD9f35AC"
+  },
+  "clankerInfo": null
+}

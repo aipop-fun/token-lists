@@ -1,0 +1,22 @@
+{
+  "name": "Clankerekt",
+  "symbol": "Clankerekt",
+  "decimals": 18,
+  "description": "Clankerekt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankerekt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankerekt",
+  "addresses": {
+    "8453": "0x1a408d4c6a3e85f77d623358a30c96a3d07c0dd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankerekt",
+    "sanitizedSymbol": "CLANKEREKT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x000009209E16dDF2e0abE52Fc2301f0f3c9A7D50",
+    "lpNftId": "1296367",
+    "lockerAddress": "0xF4FB1272F58f52b1F6a037813788F08995865151"
+  },
+  "clankerInfo": null
+}

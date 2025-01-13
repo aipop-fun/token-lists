@@ -1,0 +1,22 @@
+{
+  "name": "Baby Kermit",
+  "symbol": "Baby Kermit",
+  "decimals": 18,
+  "description": "Baby Kermit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Kermit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Kermit",
+  "addresses": {
+    "8453": "0x3822c3ca46274ccf05d1057702f94a5642b917b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Kermit",
+    "sanitizedSymbol": "BABY_KERMIT",
+    "created_at": "2024-12-12T11:12:18.400365",
+    "deployer": "0x1327E45d97169521Ce965Cb5e90fFcF0a83Df54c",
+    "lpNftId": "1433164",
+    "lockerAddress": "0xf8cc6d6d46eD8CAa5E2b78C1e023F2E85F5d6f94"
+  },
+  "clankerInfo": null
+}

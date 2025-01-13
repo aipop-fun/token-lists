@@ -1,0 +1,22 @@
+{
+  "name": "deloydgh",
+  "symbol": "deloydgh",
+  "decimals": 18,
+  "description": "deloydgh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=deloydgh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "deloydgh",
+  "addresses": {
+    "8453": "0x1f90044ff439611c366e25797f1260f3b7fe32cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "deloydgh",
+    "sanitizedSymbol": "DELOYDGH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234354",
+    "lockerAddress": "0xA0C255D1c9ec7f57327e1cC09c89b04021A02D1c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wood Dragon",
+  "symbol": "Wood Dragon",
+  "decimals": 18,
+  "description": "Wood Dragon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wood%20Dragon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wood Dragon",
+  "addresses": {
+    "8453": "0x00844bb357e7d31a08d81f7f5c052cb9e05727c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wood Dragon",
+    "sanitizedSymbol": "WOOD_DRAGON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128829",
+    "lockerAddress": "0xE89f08bb77b492cbd3F828aEb7C32BA0d2daF7bA"
+  },
+  "clankerInfo": null
+}

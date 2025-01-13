@@ -1,0 +1,22 @@
+{
+  "name": "Dharma",
+  "symbol": "Dharma",
+  "decimals": 18,
+  "description": "Dharma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dharma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dharma",
+  "addresses": {
+    "8453": "0x41c5c388895bf3488e3695f676b23a48207db3c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dharma",
+    "sanitizedSymbol": "DHARMA_1",
+    "created_at": "2024-12-11T14:34:24.191101",
+    "deployer": "0x5Cde8631C1863F2771C84699ECDffe62A1e71674",
+    "lpNftId": "1420239",
+    "lockerAddress": "0x8eD1942F180A11a6cB80594985e0B48364c3dD8D"
+  },
+  "clankerInfo": null
+}

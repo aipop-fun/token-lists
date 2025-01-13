@@ -1,0 +1,22 @@
+{
+  "name": "AAA",
+  "symbol": "AAA",
+  "decimals": 18,
+  "description": "AAA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AAA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AAA",
+  "addresses": {
+    "8453": "0x33383b563aa0791d1a74f542594aded601704827"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AAA",
+    "sanitizedSymbol": "AAA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x2F030324AE4Bcead645bbd59dD6847a1657A824C",
+    "lpNftId": "1203709",
+    "lockerAddress": "0x3c9ecf444Ea518A6dF8eA0cAc818c8d6C96bf68c"
+  },
+  "clankerInfo": null
+}

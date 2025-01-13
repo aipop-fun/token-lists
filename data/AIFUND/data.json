@@ -1,0 +1,22 @@
+{
+  "name": "Aifund",
+  "symbol": "Aifund",
+  "decimals": 18,
+  "description": "Aifund is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aifund",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aifund",
+  "addresses": {
+    "8453": "0x2b2d9a7a4959a49386cd7df10b7ad363ba62acfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aifund",
+    "sanitizedSymbol": "AIFUND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84be480Ee32f01E59D60D42Cd6574D53Dc4dC412",
+    "lpNftId": "1313423",
+    "lockerAddress": "0x039DCf08809F28de33F98B28C89284594B8e0f42"
+  },
+  "clankerInfo": null
+}

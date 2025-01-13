@@ -1,0 +1,22 @@
+{
+  "name": "The Termingator",
+  "symbol": "The Termingator",
+  "decimals": 18,
+  "description": "The Termingator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Termingator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Termingator",
+  "addresses": {
+    "8453": "0x1d496914215de101af1eda92472f53c2a47b4fc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Termingator",
+    "sanitizedSymbol": "THE_TERMINGATOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225830",
+    "lockerAddress": "0x290F6F945187cb1ED71B6136153108CC24087d1b"
+  },
+  "clankerInfo": null
+}

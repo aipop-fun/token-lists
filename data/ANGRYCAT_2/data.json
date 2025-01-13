@@ -1,0 +1,22 @@
+{
+  "name": "ANGRYCAT",
+  "symbol": "ANGRYCAT",
+  "decimals": 18,
+  "description": "ANGRYCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANGRYCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANGRYCAT",
+  "addresses": {
+    "8453": "0x037762fc4e351c91a7370be66bf7fd805924d9c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANGRYCAT",
+    "sanitizedSymbol": "ANGRYCAT_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x491c630d4f81f7f6b1e577A5a673583477b94188",
+    "lpNftId": "1326554",
+    "lockerAddress": "0x8Ad5951f1C1Dd457aC6Ee41ACC3af53Fb251210f"
+  },
+  "clankerInfo": null
+}

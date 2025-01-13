@@ -1,0 +1,22 @@
+{
+  "name": "GAB",
+  "symbol": "GAB",
+  "decimals": 18,
+  "description": "GAB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAB",
+  "addresses": {
+    "8453": "0x00c97388dd7f06e3a687cb22c4c257957c4b9a8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAB",
+    "sanitizedSymbol": "GAB",
+    "created_at": "2024-12-10T20:57:59.952025",
+    "deployer": "0xDc2FcE5A7C3978080992529a2AFA741E2a13009E",
+    "lpNftId": "1407152",
+    "lockerAddress": "0x77B8b6227a75f79471cFC9919183504baa7f43A5"
+  },
+  "clankerInfo": null
+}

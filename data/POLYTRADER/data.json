@@ -1,0 +1,22 @@
+{
+  "name": "Polytrader",
+  "symbol": "Polytrader",
+  "decimals": 18,
+  "description": "Polytrader is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Polytrader",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Polytrader",
+  "addresses": {
+    "8453": "0x1ce0caeb59d987059f2baeadd816286b9cb7ee57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Polytrader",
+    "sanitizedSymbol": "POLYTRADER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeB7122BEB895f31aA83871cCd1219306d9e302Be",
+    "lpNftId": "1310332",
+    "lockerAddress": "0x3096Edf56E86401d420e60062227FEB108D64125"
+  },
+  "clankerInfo": null
+}

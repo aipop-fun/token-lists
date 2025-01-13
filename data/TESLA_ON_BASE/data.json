@@ -1,0 +1,22 @@
+{
+  "name": "TESLA on Base",
+  "symbol": "TESLA on Base",
+  "decimals": 18,
+  "description": "TESLA on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESLA%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESLA on Base",
+  "addresses": {
+    "8453": "0x1adab37795b5f2735b3fddd9b7fed99a1cfe9794"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESLA on Base",
+    "sanitizedSymbol": "TESLA_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x548D284Fa71b6fBFa89B914672b20A4b64112D33",
+    "lpNftId": "1322190",
+    "lockerAddress": "0xde4BCE25B4Ff556C5CD7a35c535587a4EeeE557B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Payflow",
+  "symbol": "Payflow",
+  "decimals": 18,
+  "description": "Payflow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Payflow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Payflow",
+  "addresses": {
+    "8453": "0x08426f5e483addfaa38a3837b16d3c311bbabd53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Payflow",
+    "sanitizedSymbol": "PAYFLOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe0Af785Cea1946d8F69315c8Cdcb5dd491ddfb1D",
+    "lpNftId": "1326785",
+    "lockerAddress": "0x0ee5db06709f595afc5f30578Aa4528a2eed2Dd5"
+  },
+  "clankerInfo": null
+}

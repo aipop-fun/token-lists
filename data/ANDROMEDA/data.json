@@ -1,0 +1,22 @@
+{
+  "name": "Andromeda",
+  "symbol": "Andromeda",
+  "decimals": 18,
+  "description": "Andromeda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Andromeda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Andromeda",
+  "addresses": {
+    "8453": "0x1894aa87e16a9db413a324300ea64ae982a1af84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Andromeda",
+    "sanitizedSymbol": "ANDROMEDA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1322223",
+    "lockerAddress": "0xa269eF54D8d1edC0929620AfDf8379D01636de3d"
+  },
+  "clankerInfo": null
+}

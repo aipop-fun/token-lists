@@ -1,0 +1,22 @@
+{
+  "name": "WanWanWanWan",
+  "symbol": "WanWanWanWan",
+  "decimals": 18,
+  "description": "WanWanWanWan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WanWanWanWan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WanWanWanWan",
+  "addresses": {
+    "8453": "0x1f1419a123261d6591de70c697f12c4d68587788"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WanWanWanWan",
+    "sanitizedSymbol": "WANWANWANWAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3D80Cd729f66155Eb4dFb647781F1470cCe47Ee6",
+    "lpNftId": "1285577",
+    "lockerAddress": "0x80306DA5dCDa2793E0A59Bb5EAD75708262b2E38"
+  },
+  "clankerInfo": null
+}

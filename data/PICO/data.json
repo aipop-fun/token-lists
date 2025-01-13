@@ -1,0 +1,22 @@
+{
+  "name": "Pico",
+  "symbol": "Pico",
+  "decimals": 18,
+  "description": "Pico is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pico",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pico",
+  "addresses": {
+    "8453": "0x3b2a6da2fb3d8b2d3173ac55e2e7361a347f56fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pico",
+    "sanitizedSymbol": "PICO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x00fc6bC0F303B5838151Ed4cc110c672A2A2b06D",
+    "lpNftId": "1346908",
+    "lockerAddress": "0x5b9ba7B8FAAaC40ec2B746bb054C0A126938740D"
+  },
+  "clankerInfo": null
+}

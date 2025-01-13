@@ -1,0 +1,22 @@
+{
+  "name": "Dinner Token",
+  "symbol": "Dinner Token",
+  "decimals": 18,
+  "description": "Dinner Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dinner%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dinner Token",
+  "addresses": {
+    "8453": "0x20b7d563ca502724de91ee0a712fadfb7b4badc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dinner Token",
+    "sanitizedSymbol": "DINNER_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120076",
+    "lockerAddress": "0xf41D1Fd19C712067F1211fC10491Cd572Edaf750"
+  },
+  "clankerInfo": null
+}

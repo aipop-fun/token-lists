@@ -1,0 +1,22 @@
+{
+  "name": "microxar",
+  "symbol": "microxar",
+  "decimals": 18,
+  "description": "microxar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=microxar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "microxar",
+  "addresses": {
+    "8453": "0x07958d809729b1f71bc48b6818c6d4d10239b3cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "microxar",
+    "sanitizedSymbol": "MICROXAR",
+    "created_at": "2024-12-10T07:19:59.372199",
+    "deployer": "0x15f23C3fd67be3C04d743694F8Cff3Adf06cE400",
+    "lpNftId": "1397824",
+    "lockerAddress": "0x8c302262D5aDCF3246Ba6dBc2510d4bb07Eb98e4"
+  },
+  "clankerInfo": null
+}

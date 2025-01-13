@@ -1,0 +1,22 @@
+{
+  "name": "PORT ON BASE",
+  "symbol": "PORT ON BASE",
+  "decimals": 18,
+  "description": "PORT ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PORT%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PORT ON BASE",
+  "addresses": {
+    "8453": "0x3b336972fdbda1c47c0b7b929f0e849d782b54b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PORT ON BASE",
+    "sanitizedSymbol": "PORT_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x18365374878caA600886740292eD430ce1761a7D",
+    "lpNftId": "1292531",
+    "lockerAddress": "0x8F8D3528A9282DCE811147cE7e0Ef4b06dFDc7Db"
+  },
+  "clankerInfo": null
+}

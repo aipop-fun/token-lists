@@ -1,0 +1,22 @@
+{
+  "name": "Harry's Snake",
+  "symbol": "Harry's Snake",
+  "decimals": 18,
+  "description": "Harry's Snake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Harry's%20Snake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Harry's Snake",
+  "addresses": {
+    "8453": "0x00ea05101324278446d7dca90e02ec2255419a3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Harry's Snake",
+    "sanitizedSymbol": "HARRY_S_SNAKE",
+    "created_at": "2024-12-09T06:31:20.527678",
+    "deployer": "0xdEABD709B639B70eB2ad9B19B0d9fE86De573C6E",
+    "lpNftId": "1384007",
+    "lockerAddress": "0x984C28E332fFB7fd5Ff38c0EfFC37E51C32D5548"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "2000 Clanker Deploy",
+  "symbol": "2000 Clanker Deploy",
+  "decimals": 18,
+  "description": "2000 Clanker Deploy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2000%20Clanker%20Deploy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2000 Clanker Deploy",
+  "addresses": {
+    "8453": "0x09f5a6a6476a910a876252d813c4373dfc96ad85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2000 Clanker Deploy",
+    "sanitizedSymbol": "2000_CLANKER_DEPLOY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201441",
+    "lockerAddress": "0xa2c106d41E939e12fDB80399b890b15F73b4892f"
+  },
+  "clankerInfo": null
+}

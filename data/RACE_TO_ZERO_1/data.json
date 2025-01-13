@@ -1,0 +1,22 @@
+{
+  "name": "RACE TO ZERO",
+  "symbol": "RACE TO ZERO",
+  "decimals": 18,
+  "description": "RACE TO ZERO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RACE%20TO%20ZERO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RACE TO ZERO",
+  "addresses": {
+    "8453": "0x32db1ae3c9f6ccf558b55f483194b5488a01abfe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RACE TO ZERO",
+    "sanitizedSymbol": "RACE_TO_ZERO_1",
+    "created_at": "2024-12-10T16:24:40.991554",
+    "deployer": "0xF469D247BEA9AF8d885eBEaF8F50b2BD56ba6dDB",
+    "lpNftId": "1403974",
+    "lockerAddress": "0x20F730c6Cf26F2308BfC68879bEb8a79aeAC55Cc"
+  },
+  "clankerInfo": null
+}

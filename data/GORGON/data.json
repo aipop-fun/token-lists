@@ -1,0 +1,22 @@
+{
+  "name": "Gorgon",
+  "symbol": "Gorgon",
+  "decimals": 18,
+  "description": "Gorgon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gorgon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gorgon",
+  "addresses": {
+    "8453": "0x2c68cad9f0e06e25d67e8600c52628e6984bc0fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gorgon",
+    "sanitizedSymbol": "GORGON",
+    "created_at": "2024-12-09T15:17:48.147981",
+    "deployer": "0xebC86D89D5Cd76f4D2C82702509A8ed336Ad1f12",
+    "lpNftId": "1388427",
+    "lockerAddress": "0x9d896A40F6E4323AffCC55999177751042C374AD"
+  },
+  "clankerInfo": null
+}

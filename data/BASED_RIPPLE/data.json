@@ -1,0 +1,22 @@
+{
+  "name": "Based Ripple",
+  "symbol": "Based Ripple",
+  "decimals": 18,
+  "description": "Based Ripple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Ripple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Ripple",
+  "addresses": {
+    "8453": "0x127266b3545a4b2d93aae720e72f399154a62a78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Ripple",
+    "sanitizedSymbol": "BASED_RIPPLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1310383",
+    "lockerAddress": "0x73513D55912096d9071d2f29e48ff61777185591"
+  },
+  "clankerInfo": null
+}

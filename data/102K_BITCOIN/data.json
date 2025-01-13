@@ -1,0 +1,22 @@
+{
+  "name": "102K BITCOIN",
+  "symbol": "102K BITCOIN",
+  "decimals": 18,
+  "description": "102K BITCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=102K%20BITCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "102K BITCOIN",
+  "addresses": {
+    "8453": "0x279522614ce10989302829ba8aa61e719ccd38a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "102K BITCOIN",
+    "sanitizedSymbol": "102K_BITCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5df0f96c5DE9F03d5d1678656dA0B4b5B0647cE1",
+    "lpNftId": "1328729",
+    "lockerAddress": "0xC1B26f3F0430bC59068E075bfE7De8264611E17D"
+  },
+  "clankerInfo": null
+}

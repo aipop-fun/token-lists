@@ -1,0 +1,22 @@
+{
+  "name": "CZ 4 DAY",
+  "symbol": "CZ 4 DAY",
+  "decimals": 18,
+  "description": "CZ 4 DAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CZ%204%20DAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CZ 4 DAY",
+  "addresses": {
+    "8453": "0x2f7e97a2e984c755da1dc363ac780108cbf3f9b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CZ 4 DAY",
+    "sanitizedSymbol": "CZ_4_DAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220132",
+    "lockerAddress": "0xD7C073e7C3135d25380d7230B6F47442d9f934D2"
+  },
+  "clankerInfo": null
+}

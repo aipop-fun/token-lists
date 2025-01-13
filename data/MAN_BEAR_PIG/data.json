@@ -1,0 +1,22 @@
+{
+  "name": "Man Bear Pig",
+  "symbol": "Man Bear Pig",
+  "decimals": 18,
+  "description": "Man Bear Pig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Man%20Bear%20Pig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Man Bear Pig",
+  "addresses": {
+    "8453": "0x01a9a378c9fa131407bd9860b9cb199d20e06c7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Man Bear Pig",
+    "sanitizedSymbol": "MAN_BEAR_PIG",
+    "created_at": "2024-12-12T04:05:01.013449",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1429070",
+    "lockerAddress": "0xfac5c6Df7EB5CBb9Af30b7A54Aa779FEE61F60Ed"
+  },
+  "clankerInfo": null
+}

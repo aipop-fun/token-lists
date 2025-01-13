@@ -1,0 +1,22 @@
+{
+  "name": "Sam baba",
+  "symbol": "Sam baba",
+  "decimals": 18,
+  "description": "Sam baba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sam%20baba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sam baba",
+  "addresses": {
+    "8453": "0x02641d9b94e8a2603dc3311ed9be2b04ded2b1f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sam baba",
+    "sanitizedSymbol": "SAM_BABA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x45d6B88E7496d5C5383Cf611b8c0659d4fb72699",
+    "lpNftId": "1279912",
+    "lockerAddress": "0x5Df3702C933ACaEa92C7065055793338DD34eDE1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HAPPY SANTA",
+  "symbol": "HAPPY SANTA",
+  "decimals": 18,
+  "description": "HAPPY SANTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAPPY%20SANTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAPPY SANTA",
+  "addresses": {
+    "8453": "0x0b58fab9f48c5330a001793a90b86160e47484a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAPPY SANTA",
+    "sanitizedSymbol": "HAPPY_SANTA",
+    "created_at": "2024-12-10T23:45:34.300457",
+    "deployer": "0xa0a2e61BEFd38704D3ED6908F79FAF87b0FB34f2",
+    "lpNftId": "1408560",
+    "lockerAddress": "0x77435c93B81995d300dF80EF1592753f86709f90"
+  },
+  "clankerInfo": null
+}

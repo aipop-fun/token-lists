@@ -1,0 +1,22 @@
+{
+  "name": "AKIRA",
+  "symbol": "AKIRA",
+  "decimals": 18,
+  "description": "AKIRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AKIRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AKIRA",
+  "addresses": {
+    "8453": "0x00257877cc8bae3b05ff59a56c2c96a87c124b4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AKIRA",
+    "sanitizedSymbol": "AKIRA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1124091",
+    "lockerAddress": "0x2d4A724F34a2e63e862ce931a211Dd3f9d02Bf2C"
+  },
+  "clankerInfo": null
+}

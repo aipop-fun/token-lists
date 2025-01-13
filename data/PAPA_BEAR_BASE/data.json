@@ -1,0 +1,22 @@
+{
+  "name": "PAPA BEAR BASE",
+  "symbol": "PAPA BEAR BASE",
+  "decimals": 18,
+  "description": "PAPA BEAR BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAPA%20BEAR%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAPA BEAR BASE",
+  "addresses": {
+    "8453": "0x0fce05b16ef6a5b1e246c0274f0db7393937ab92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAPA BEAR BASE",
+    "sanitizedSymbol": "PAPA_BEAR_BASE",
+    "created_at": "2024-12-12T16:27:33.837536",
+    "deployer": "0x224ae25F9BB2cB9D9F503A5FBfc010d483269a0A",
+    "lpNftId": "1438568",
+    "lockerAddress": "0xA1D893E13cEA91b01a235cb90271879e94FEe70C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DogeSantaHat",
+  "symbol": "DogeSantaHat",
+  "decimals": 18,
+  "description": "DogeSantaHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeSantaHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeSantaHat",
+  "addresses": {
+    "8453": "0x02bcd8949057113ac1741cd615a3db879d3d0442"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeSantaHat",
+    "sanitizedSymbol": "DOGESANTAHAT",
+    "created_at": "2024-12-09T17:25:41.500095",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1389740",
+    "lockerAddress": "0x9d01d53381c6da38F2494e9eF179Aa3db823AD06"
+  },
+  "clankerInfo": null
+}

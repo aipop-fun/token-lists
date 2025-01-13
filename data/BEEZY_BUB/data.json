@@ -1,0 +1,22 @@
+{
+  "name": "Beezy Bub",
+  "symbol": "Beezy Bub",
+  "decimals": 18,
+  "description": "Beezy Bub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beezy%20Bub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beezy Bub",
+  "addresses": {
+    "8453": "0x160f3e5644ee092b074b849bd50780ee7ffc1e16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beezy Bub",
+    "sanitizedSymbol": "BEEZY_BUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x564D29d85cf45D5a1f1c7A45474c67b89F0eb29E",
+    "lpNftId": "1306933",
+    "lockerAddress": "0x81Ea7db5deFdeDC223F7A95dB6695197500a8329"
+  },
+  "clankerInfo": null
+}

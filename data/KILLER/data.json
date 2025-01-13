@@ -1,0 +1,22 @@
+{
+  "name": "KILLER",
+  "symbol": "KILLER",
+  "decimals": 18,
+  "description": "KILLER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KILLER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KILLER",
+  "addresses": {
+    "8453": "0x19933294bf271e09ee2960f131afd9270613cd8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KILLER",
+    "sanitizedSymbol": "KILLER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235088",
+    "lockerAddress": "0xf4D1226496917F723cC74C86893e50F2e687890f"
+  },
+  "clankerInfo": null
+}

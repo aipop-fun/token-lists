@@ -1,0 +1,22 @@
+{
+  "name": "pep",
+  "symbol": "pep",
+  "decimals": 18,
+  "description": "pep is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pep",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pep",
+  "addresses": {
+    "8453": "0x3d56ecc078a3de4ffef957a9ba8bffc83c77b4b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pep",
+    "sanitizedSymbol": "PEP_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf1329f2CD23972F85ff972F0873E987a16f2249E",
+    "lpNftId": "1376402",
+    "lockerAddress": "0x87F6fb53d8fE9852203087e11a14b4f4f40223C1"
+  },
+  "clankerInfo": null
+}

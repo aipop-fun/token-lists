@@ -1,0 +1,22 @@
+{
+  "name": "MOCAT",
+  "symbol": "MOCAT",
+  "decimals": 18,
+  "description": "MOCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOCAT",
+  "addresses": {
+    "8453": "0x395bb1b9d6b494008928e34df3be652ba848ab6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOCAT",
+    "sanitizedSymbol": "MOCAT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x43b2CA1eFb65549e4d6FBBa0E4f6e9C1346E0652",
+    "lpNftId": "1265995",
+    "lockerAddress": "0xA6476B23A542B8426d6A0Fa9c1a838ADb8cBb655"
+  },
+  "clankerInfo": null
+}

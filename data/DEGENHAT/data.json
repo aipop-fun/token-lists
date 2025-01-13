@@ -1,0 +1,22 @@
+{
+  "name": "DegenHat",
+  "symbol": "DegenHat",
+  "decimals": 18,
+  "description": "DegenHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenHat",
+  "addresses": {
+    "8453": "0x12efee89675a108140ffaecf98412fc34700fe9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenHat",
+    "sanitizedSymbol": "DEGENHAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221092",
+    "lockerAddress": "0x3DA769a6c11dF212efac7c19AA44CDdEe04B0A5C"
+  },
+  "clankerInfo": null
+}

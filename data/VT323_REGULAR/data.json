@@ -1,0 +1,22 @@
+{
+  "name": "VT323 Regular",
+  "symbol": "VT323 Regular",
+  "decimals": 18,
+  "description": "VT323 Regular is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VT323%20Regular",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VT323 Regular",
+  "addresses": {
+    "8453": "0x29061f6f20bcdcef6afdc21eb863896e6eec6975"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VT323 Regular",
+    "sanitizedSymbol": "VT323_REGULAR",
+    "created_at": "2024-12-12T20:21:33.144508",
+    "deployer": "0x657143820Ee59B5F0Da0de12BD199674178777cD",
+    "lpNftId": "1442209",
+    "lockerAddress": "0xCcb53f3f05Ea77d7D8AF683420c49E385F4f02D7"
+  },
+  "clankerInfo": null
+}

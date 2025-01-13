@@ -1,0 +1,22 @@
+{
+  "name": "PepeClankerBase",
+  "symbol": "PepeClankerBase",
+  "decimals": 18,
+  "description": "PepeClankerBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PepeClankerBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PepeClankerBase",
+  "addresses": {
+    "8453": "0x0b23e37edc2e1f13faaeb3daced0df7881dd3e8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PepeClankerBase",
+    "sanitizedSymbol": "PEPECLANKERBASE",
+    "created_at": "2024-12-12T05:05:22.72417",
+    "deployer": "0x3194AbBE8F733e9ad492E06d9DAF3d5Bd44D71C9",
+    "lpNftId": "1429300",
+    "lockerAddress": "0x434FB845419A1Ae96b2FC314Ffb78A88c470053a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SugarDaddy",
+  "symbol": "SugarDaddy",
+  "decimals": 18,
+  "description": "SugarDaddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SugarDaddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SugarDaddy",
+  "addresses": {
+    "8453": "0x0b9f24423ae5618f56b00ce8b03fcb0a643688e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SugarDaddy",
+    "sanitizedSymbol": "SUGARDADDY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1335615",
+    "lockerAddress": "0xaF19b6bbD06EDC7E69798CbeE27Adeb062825Ce1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anime",
+  "symbol": "Anime",
+  "decimals": 18,
+  "description": "Anime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anime",
+  "addresses": {
+    "8453": "0x0bd7562a227327431d76718f15053f9a98e78fe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anime",
+    "sanitizedSymbol": "ANIME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153423",
+    "lockerAddress": "0xCa41531a104794FDc3D197e15690dCd4ccaa115c"
+  },
+  "clankerInfo": null
+}

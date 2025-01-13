@@ -1,0 +1,22 @@
+{
+  "name": "Tresses",
+  "symbol": "Tresses",
+  "decimals": 18,
+  "description": "Tresses is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tresses",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tresses",
+  "addresses": {
+    "8453": "0x18c566c815d8b9eea24a9bc71feb74d776a04822"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tresses",
+    "sanitizedSymbol": "TRESSES",
+    "created_at": "2024-12-10T20:00:01.434364",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1406515",
+    "lockerAddress": "0xd87c21b2b6EAf0B0EaE11DCf4723E58CA85B7a38"
+  },
+  "clankerInfo": null
+}

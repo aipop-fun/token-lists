@@ -1,0 +1,22 @@
+{
+  "name": "Tuesday",
+  "symbol": "Tuesday",
+  "decimals": 18,
+  "description": "Tuesday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tuesday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tuesday",
+  "addresses": {
+    "8453": "0x3389b5a8a60dec47ed4e4b5be94a76f745276f06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tuesday",
+    "sanitizedSymbol": "TUESDAY_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6fA77a17DbfC2b2F7e403F2b1C91c75bc592015",
+    "lpNftId": "1291102",
+    "lockerAddress": "0x83f5EbD651530CCab2b6B4388840007Ad670Cc22"
+  },
+  "clankerInfo": null
+}

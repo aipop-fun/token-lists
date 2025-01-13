@@ -1,0 +1,22 @@
+{
+  "name": "ogciniz",
+  "symbol": "ogciniz",
+  "decimals": 18,
+  "description": "ogciniz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ogciniz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ogciniz",
+  "addresses": {
+    "8453": "0x38e247fde7a404e6d4ed288e6562335b71b280c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ogciniz",
+    "sanitizedSymbol": "OGCINIZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1322470",
+    "lockerAddress": "0xe10034D6333733D9266F2Ac578CffCBB3fc07fbC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ALPHA",
+  "symbol": "ALPHA",
+  "decimals": 18,
+  "description": "ALPHA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALPHA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALPHA",
+  "addresses": {
+    "8453": "0x3910488e04a4ab234511a82794261440b283f904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALPHA",
+    "sanitizedSymbol": "ALPHA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198347",
+    "lockerAddress": "0xc887459df4879e8289cE8a5F4aCEb6e3e6b7A07C"
+  },
+  "clankerInfo": null
+}

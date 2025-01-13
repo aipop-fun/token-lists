@@ -1,0 +1,22 @@
+{
+  "name": "lukluk",
+  "symbol": "lukluk",
+  "decimals": 18,
+  "description": "lukluk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lukluk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lukluk",
+  "addresses": {
+    "8453": "0x2c01f7375e22056c01c5eb80a334fa76341232ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lukluk",
+    "sanitizedSymbol": "LUKLUK",
+    "created_at": "2024-12-12T16:09:46.479274",
+    "deployer": "0xb64f11B9832c8981f6a1Edd6AdFbF603bceB2e40",
+    "lpNftId": "1437989",
+    "lockerAddress": "0x09cD60D701A47a2CA338A240a029c693C5786030"
+  },
+  "clankerInfo": null
+}

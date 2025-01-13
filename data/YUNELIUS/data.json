@@ -1,0 +1,22 @@
+{
+  "name": "Yunelius",
+  "symbol": "Yunelius",
+  "decimals": 18,
+  "description": "Yunelius is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yunelius",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yunelius",
+  "addresses": {
+    "8453": "0x232c01b0e6b1b0b45b79d15af35dc4c7065bf426"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yunelius",
+    "sanitizedSymbol": "YUNELIUS",
+    "created_at": "2024-12-12T17:06:11.674473",
+    "deployer": "0x96c542e5CC8C8b675938f5c05f2d22C6EbF74B0F",
+    "lpNftId": "1439099",
+    "lockerAddress": "0x1Db52153BC041Ea9FDc8A8920beD8284B159Be5D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Higher",
+  "symbol": "Clanker Higher",
+  "decimals": 18,
+  "description": "Clanker Higher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Higher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Higher",
+  "addresses": {
+    "8453": "0x304e98a3be494a8cfc83bb4009923f8c5cb5657c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Higher",
+    "sanitizedSymbol": "CLANKER_HIGHER_1",
+    "created_at": "2024-12-11T22:03:58.855995",
+    "deployer": "0xc2843E2504A42781E55638F56747ad15bF5A2369",
+    "lpNftId": "1426834",
+    "lockerAddress": "0x86b08E332ab89Bc8B5Cff8864f7E3EBE0455A254"
+  },
+  "clankerInfo": null
+}

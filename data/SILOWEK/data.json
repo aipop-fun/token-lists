@@ -1,0 +1,22 @@
+{
+  "name": "Silowek",
+  "symbol": "Silowek",
+  "decimals": 18,
+  "description": "Silowek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Silowek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Silowek",
+  "addresses": {
+    "8453": "0x30d9f7c4ba12e16528d51f01b97466ddc2db67ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Silowek",
+    "sanitizedSymbol": "SILOWEK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8ddE615413F33eF5b2c5b9Dd9ebeE15E1279A7C6",
+    "lpNftId": "1335393",
+    "lockerAddress": "0x4F6f8972f80BDDa88319d427b66c3BdF0Bdc093D"
+  },
+  "clankerInfo": null
+}

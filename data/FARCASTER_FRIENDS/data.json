@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Friends",
+  "symbol": "Farcaster Friends",
+  "decimals": 18,
+  "description": "Farcaster Friends is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Friends",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Friends",
+  "addresses": {
+    "8453": "0x13eb2e70af742a698f5ea9820178d838c781dfe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Friends",
+    "sanitizedSymbol": "FARCASTER_FRIENDS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199335",
+    "lockerAddress": "0x02ee542aC0Bc6F56f0c84698de50fD18aaABd123"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KITTEN HAIMER",
+  "symbol": "KITTEN HAIMER",
+  "decimals": 18,
+  "description": "KITTEN HAIMER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KITTEN%20HAIMER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KITTEN HAIMER",
+  "addresses": {
+    "8453": "0x1888966b4ab68f72c1bb7a4e652e7e4a68639a4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KITTEN HAIMER",
+    "sanitizedSymbol": "KITTEN_HAIMER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa8B8787700Bc549d9c717104aAA2C4c1cC0b089f",
+    "lpNftId": "1313137",
+    "lockerAddress": "0x78623D82201DF90B2d96be6f3c37F24d7f35E88C"
+  },
+  "clankerInfo": null
+}

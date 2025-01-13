@@ -1,0 +1,22 @@
+{
+  "name": "InvestorMagnet",
+  "symbol": "InvestorMagnet",
+  "decimals": 18,
+  "description": "InvestorMagnet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=InvestorMagnet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "InvestorMagnet",
+  "addresses": {
+    "8453": "0x36e6a822a5e68486f015ea723c91af2660489641"
+  },
+  "tokenInfo": {
+    "originalSymbol": "InvestorMagnet",
+    "sanitizedSymbol": "INVESTORMAGNET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231629",
+    "lockerAddress": "0x38E0Dfa81eb8c55995875faAe25d4217B860Db3B"
+  },
+  "clankerInfo": null
+}

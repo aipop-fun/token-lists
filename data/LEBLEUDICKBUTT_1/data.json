@@ -1,0 +1,22 @@
+{
+  "name": "lebleudickbutt",
+  "symbol": "lebleudickbutt",
+  "decimals": 18,
+  "description": "lebleudickbutt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lebleudickbutt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lebleudickbutt",
+  "addresses": {
+    "8453": "0x1ff564f0356f4ff4823ba8c4600658f53b876f07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lebleudickbutt",
+    "sanitizedSymbol": "LEBLEUDICKBUTT_1",
+    "created_at": "2024-12-12T03:04:19.276232",
+    "deployer": "0x1634E035eCE2fd6B51FfA10d297a1E11fc1e9D8C",
+    "lpNftId": "1428781",
+    "lockerAddress": "0xaD1330db0eCd52B65a60de6c322f03c250E9Cb8d"
+  },
+  "clankerInfo": null
+}

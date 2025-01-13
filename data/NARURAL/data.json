@@ -1,0 +1,22 @@
+{
+  "name": "NARURAL",
+  "symbol": "NARURAL",
+  "decimals": 18,
+  "description": "NARURAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NARURAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NARURAL",
+  "addresses": {
+    "8453": "0x1b5077f12a0f340e97965d33407a688f4a4fc9cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NARURAL",
+    "sanitizedSymbol": "NARURAL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x880457dC5496f92a7011e9307c249A831B15F9Ef",
+    "lpNftId": "1267610",
+    "lockerAddress": "0xD75695C18192e9aB284a603bb8E9B496511ecF31"
+  },
+  "clankerInfo": null
+}

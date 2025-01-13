@@ -1,0 +1,22 @@
+{
+  "name": "Neo Samurai Pepe",
+  "symbol": "Neo Samurai Pepe",
+  "decimals": 18,
+  "description": "Neo Samurai Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neo%20Samurai%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neo Samurai Pepe",
+  "addresses": {
+    "8453": "0x1b395ace177cde595d8a945263377bfe00c0d1de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neo Samurai Pepe",
+    "sanitizedSymbol": "NEO_SAMURAI_PEPE",
+    "created_at": "2024-12-11T02:02:39.606244",
+    "deployer": "0x8908eBed6796cb4364E6Ce13174bB69a714c82e0",
+    "lpNftId": "1410338",
+    "lockerAddress": "0x51c54bcCfeE692f9857D6ff8788819C5aEFDC352"
+  },
+  "clankerInfo": null
+}

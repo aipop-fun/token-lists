@@ -1,0 +1,22 @@
+{
+  "name": "WORLD",
+  "symbol": "WORLD",
+  "decimals": 18,
+  "description": "WORLD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WORLD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WORLD",
+  "addresses": {
+    "8453": "0x20732b01b3591cb12a384240c3403a23f411cfb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WORLD",
+    "sanitizedSymbol": "WORLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1f317E6C8A7B92CE47A711E66aA5E5D34Fd11317",
+    "lpNftId": "1311885",
+    "lockerAddress": "0xdbc3e4C88D8D95cB0ca13C58274593e3747Bd6c6"
+  },
+  "clankerInfo": null
+}

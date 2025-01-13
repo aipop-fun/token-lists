@@ -1,0 +1,22 @@
+{
+  "name": "Coffeland",
+  "symbol": "Coffeland",
+  "decimals": 18,
+  "description": "Coffeland is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coffeland",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coffeland",
+  "addresses": {
+    "8453": "0x37c59bcf1057b3cbbb93b271e9e97953b08358d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coffeland",
+    "sanitizedSymbol": "COFFELAND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x595c41C83c249310146ad7556cfDC6a6CbEB753A",
+    "lpNftId": "1288432",
+    "lockerAddress": "0x7d1d796D82ad6F8BDCf12c926B24E0881584fC0b"
+  },
+  "clankerInfo": null
+}

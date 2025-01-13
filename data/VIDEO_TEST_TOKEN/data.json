@@ -1,0 +1,22 @@
+{
+  "name": "video test token",
+  "symbol": "video test token",
+  "decimals": 18,
+  "description": "video test token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=video%20test%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "video test token",
+  "addresses": {
+    "8453": "0x214535afb6f037a5da77d3187ca210742d3ea181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "video test token",
+    "sanitizedSymbol": "VIDEO_TEST_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x38B2bAC6431604dFfEc17a1E6Adc649a9Ea0eFba",
+    "lpNftId": "1287244",
+    "lockerAddress": "0xFEE76B184DEBB9abAfb1CB84a0650cAd0E995EDF"
+  },
+  "clankerInfo": null
+}

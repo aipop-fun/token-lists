@@ -1,0 +1,22 @@
+{
+  "name": "bull",
+  "symbol": "bull",
+  "decimals": 18,
+  "description": "bull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bull",
+  "addresses": {
+    "8453": "0x0fd2573fee61ad503a5e2a133d327fafb96f270c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bull",
+    "sanitizedSymbol": "BULL_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe43bd4b74614391C28c21DFB3AC1E91bB03e5047",
+    "lpNftId": "1286562",
+    "lockerAddress": "0x3B03FE4f511D9BD0080a667D5c4470959B9CE138"
+  },
+  "clankerInfo": null
+}

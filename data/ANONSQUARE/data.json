@@ -1,0 +1,22 @@
+{
+  "name": "anonsquare",
+  "symbol": "anonsquare",
+  "decimals": 18,
+  "description": "anonsquare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonsquare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonsquare",
+  "addresses": {
+    "8453": "0x0912e4bf862cf1fec854f9177447802b0a74b66c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonsquare",
+    "sanitizedSymbol": "ANONSQUARE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1317138",
+    "lockerAddress": "0xd862DB2FFF900c3C9D600BCEd2Ab1678F762e295"
+  },
+  "clankerInfo": null
+}

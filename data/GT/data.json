@@ -1,0 +1,22 @@
+{
+  "name": "GT",
+  "symbol": "GT",
+  "decimals": 18,
+  "description": "GT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GT",
+  "addresses": {
+    "8453": "0x3f7576668ce320b5bfbf043cb2c5dd06309794c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GT",
+    "sanitizedSymbol": "GT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1315116",
+    "lockerAddress": "0x9F4e7D02AEB1871bB5D4Aa142159F4F1E6BeCa58"
+  },
+  "clankerInfo": null
+}

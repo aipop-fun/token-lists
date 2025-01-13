@@ -1,0 +1,22 @@
+{
+  "name": "just a weird guy",
+  "symbol": "just a weird guy",
+  "decimals": 18,
+  "description": "just a weird guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20a%20weird%20guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just a weird guy",
+  "addresses": {
+    "8453": "0x391d043fae429f5d5d7d43bf745f0d2d0f858882"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just a weird guy",
+    "sanitizedSymbol": "JUST_A_WEIRD_GUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231169",
+    "lockerAddress": "0xdC8C4Ae6b1f75dE558d7753AA2235735f7027D2d"
+  },
+  "clankerInfo": null
+}

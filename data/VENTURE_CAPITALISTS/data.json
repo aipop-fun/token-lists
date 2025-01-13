@@ -1,0 +1,22 @@
+{
+  "name": "Venture Capitalists",
+  "symbol": "Venture Capitalists",
+  "decimals": 18,
+  "description": "Venture Capitalists is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Venture%20Capitalists",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Venture Capitalists",
+  "addresses": {
+    "8453": "0x206ab1219ad981887331431471f8345decfb5f83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Venture Capitalists",
+    "sanitizedSymbol": "VENTURE_CAPITALISTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD56dBF74457F9382c743D14a4Bb187355075276",
+    "lpNftId": "1327824",
+    "lockerAddress": "0xCBFb1F34C3f9368EdBbC2B2D70B019B44e365BA2"
+  },
+  "clankerInfo": null
+}

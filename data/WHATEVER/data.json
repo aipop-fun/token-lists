@@ -1,0 +1,22 @@
+{
+  "name": "whatever",
+  "symbol": "whatever",
+  "decimals": 18,
+  "description": "whatever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=whatever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "whatever",
+  "addresses": {
+    "8453": "0x37bc1cc5eb10b63420085227615ffeb70e47da6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "whatever",
+    "sanitizedSymbol": "WHATEVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211736",
+    "lockerAddress": "0x4929F4952d49B93500328664a935a7d1afd0dd3b"
+  },
+  "clankerInfo": null
+}

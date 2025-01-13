@@ -1,0 +1,22 @@
+{
+  "name": "PELSE",
+  "symbol": "PELSE",
+  "decimals": 18,
+  "description": "PELSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PELSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PELSE",
+  "addresses": {
+    "8453": "0x331bf229d0fbc613fed69545cfabe184c0b03828"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PELSE",
+    "sanitizedSymbol": "PELSE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFD0C1D0F568B82CacB5646bC157bCDb1D504fd1",
+    "lpNftId": "1285500",
+    "lockerAddress": "0x89EFb75beb942b8C140d89c338F5E1A569d8490e"
+  },
+  "clankerInfo": null
+}

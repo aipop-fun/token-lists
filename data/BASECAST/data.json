@@ -1,0 +1,22 @@
+{
+  "name": "BaseCast",
+  "symbol": "BaseCast",
+  "decimals": 18,
+  "description": "BaseCast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseCast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseCast",
+  "addresses": {
+    "8453": "0x3a6d3d27610273cef11f46e0187a488b5f21b37c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseCast",
+    "sanitizedSymbol": "BASECAST",
+    "created_at": "2024-12-09T20:17:29.715196",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1391530",
+    "lockerAddress": "0x431C12664CB37F87594ffF7C23ee1934286b1A31"
+  },
+  "clankerInfo": null
+}

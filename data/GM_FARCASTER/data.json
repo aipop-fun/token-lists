@@ -1,0 +1,22 @@
+{
+  "name": "GM FARCASTER",
+  "symbol": "GM FARCASTER",
+  "decimals": 18,
+  "description": "GM FARCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GM%20FARCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GM FARCASTER",
+  "addresses": {
+    "8453": "0x08b997ebfac809f303c892b87087cc0599ae579b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GM FARCASTER",
+    "sanitizedSymbol": "GM_FARCASTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224277",
+    "lockerAddress": "0xfb233aB89D246015B30f2030D8a02c698B4218B1"
+  },
+  "clankerInfo": null
+}

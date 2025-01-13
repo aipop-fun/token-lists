@@ -1,0 +1,22 @@
+{
+  "name": "Corner FC",
+  "symbol": "Corner FC",
+  "decimals": 18,
+  "description": "Corner FC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Corner%20FC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Corner FC",
+  "addresses": {
+    "8453": "0x224dcb6bddaec41227af1868d0dffdec9bed8379"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Corner FC",
+    "sanitizedSymbol": "CORNER_FC",
+    "created_at": "2024-12-12T18:47:55.758279",
+    "deployer": "0x6568Add3737bE8CCC3F772C08FF9626b0eE82a1F",
+    "lpNftId": "1440956",
+    "lockerAddress": "0x7F13b4aE52A66Bb9eb8Cd10d944606Fe5FeedC65"
+  },
+  "clankerInfo": null
+}

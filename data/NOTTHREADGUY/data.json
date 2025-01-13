@@ -1,0 +1,22 @@
+{
+  "name": "notthreadguy",
+  "symbol": "notthreadguy",
+  "decimals": 18,
+  "description": "notthreadguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=notthreadguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "notthreadguy",
+  "addresses": {
+    "8453": "0x0ca2bce2c74d7441f8b24a5b85b44cbb00de7f4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "notthreadguy",
+    "sanitizedSymbol": "NOTTHREADGUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235631",
+    "lockerAddress": "0x1225B5cCe28DCf292726C51d635E3618388C57a9"
+  },
+  "clankerInfo": null
+}

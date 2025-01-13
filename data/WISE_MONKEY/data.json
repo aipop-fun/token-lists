@@ -1,0 +1,22 @@
+{
+  "name": "Wise Monkey",
+  "symbol": "Wise Monkey",
+  "decimals": 18,
+  "description": "Wise Monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wise%20Monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wise Monkey",
+  "addresses": {
+    "8453": "0x17b1637cf9b1c1d326ede976fc5c8637278f2b89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wise Monkey",
+    "sanitizedSymbol": "WISE_MONKEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x871c4BC3DC744436f155A9A0773c4d1bF89db26a",
+    "lpNftId": "1252933",
+    "lockerAddress": "0xbA34063D7F6b393E94B864F89902F748622B838B"
+  },
+  "clankerInfo": null
+}

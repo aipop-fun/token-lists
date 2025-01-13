@@ -1,0 +1,22 @@
+{
+  "name": "$deggur",
+  "symbol": "$deggur",
+  "decimals": 18,
+  "description": "$deggur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24deggur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$deggur",
+  "addresses": {
+    "8453": "0x01f0d48b18bf5215eea1be8b159ae618d6fb59b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$deggur",
+    "sanitizedSymbol": "DEGGUR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157753",
+    "lockerAddress": "0x505eBCA66E069387666A93955d701eDE28A4b194"
+  },
+  "clankerInfo": null
+}

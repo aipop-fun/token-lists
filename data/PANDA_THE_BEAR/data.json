@@ -1,0 +1,22 @@
+{
+  "name": "PANDA THE BEAR",
+  "symbol": "PANDA THE BEAR",
+  "decimals": 18,
+  "description": "PANDA THE BEAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PANDA%20THE%20BEAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PANDA THE BEAR",
+  "addresses": {
+    "8453": "0x21dada3bbc3447556ade77e0fde0a0209f4d8624"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PANDA THE BEAR",
+    "sanitizedSymbol": "PANDA_THE_BEAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237708",
+    "lockerAddress": "0x8A2BdDB9c3A73Ba599f73571515E491b5a897779"
+  },
+  "clankerInfo": null
+}

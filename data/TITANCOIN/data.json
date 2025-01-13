@@ -1,0 +1,22 @@
+{
+  "name": "TitanCoin",
+  "symbol": "TitanCoin",
+  "decimals": 18,
+  "description": "TitanCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TitanCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TitanCoin",
+  "addresses": {
+    "8453": "0x118e66fab11be4026c02d586206395ac393b713f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TitanCoin",
+    "sanitizedSymbol": "TITANCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132838",
+    "lockerAddress": "0x2B15bD98043E5C61a7517043144EEad31b317b56"
+  },
+  "clankerInfo": null
+}

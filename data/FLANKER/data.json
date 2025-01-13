@@ -1,0 +1,22 @@
+{
+  "name": "Flanker",
+  "symbol": "Flanker",
+  "decimals": 18,
+  "description": "Flanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flanker",
+  "addresses": {
+    "8453": "0x34796784a85727809161ac3805634a3db369a5bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flanker",
+    "sanitizedSymbol": "FLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235296",
+    "lockerAddress": "0xcb5DA32Ab03EB878fa42D77873eeD8C0Fa906dD6"
+  },
+  "clankerInfo": null
+}

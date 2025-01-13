@@ -1,0 +1,22 @@
+{
+  "name": "FrogChain Mafia",
+  "symbol": "FrogChain Mafia",
+  "decimals": 18,
+  "description": "FrogChain Mafia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrogChain%20Mafia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrogChain Mafia",
+  "addresses": {
+    "8453": "0x30694c5fd37e8ab236eb54879eed5eb261353c67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrogChain Mafia",
+    "sanitizedSymbol": "FROGCHAIN_MAFIA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210970",
+    "lockerAddress": "0x9E8a644a8147C29053412ECa341c5B92B6DAD41F"
+  },
+  "clankerInfo": null
+}

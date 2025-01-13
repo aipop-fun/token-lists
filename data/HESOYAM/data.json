@@ -1,0 +1,22 @@
+{
+  "name": "HESOYAM",
+  "symbol": "HESOYAM",
+  "decimals": 18,
+  "description": "HESOYAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HESOYAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HESOYAM",
+  "addresses": {
+    "8453": "0x1c2d92ab8294762904b5c6ce161b2e396d09b2dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HESOYAM",
+    "sanitizedSymbol": "HESOYAM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219987",
+    "lockerAddress": "0x8C6C52AD85f8A50bC152e039af19766dd24e7350"
+  },
+  "clankerInfo": null
+}

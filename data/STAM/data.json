@@ -1,0 +1,22 @@
+{
+  "name": "stam",
+  "symbol": "stam",
+  "decimals": 18,
+  "description": "stam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stam",
+  "addresses": {
+    "8453": "0x0fc17b1b227a12e7200a9bb9bb4c688755066fab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stam",
+    "sanitizedSymbol": "STAM",
+    "created_at": "2024-12-09T13:52:28.282732",
+    "deployer": "0x744440D74E402c304b758E8589a6454a826CBa0e",
+    "lpNftId": "1387648",
+    "lockerAddress": "0x62323AA528F09FB3cAC00E3EFE1a98f385a85f58"
+  },
+  "clankerInfo": null
+}

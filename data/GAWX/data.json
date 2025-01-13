@@ -1,0 +1,22 @@
+{
+  "name": "GAWX",
+  "symbol": "GAWX",
+  "decimals": 18,
+  "description": "GAWX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAWX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAWX",
+  "addresses": {
+    "8453": "0x3ad4da4b8aeafa920f78873cc119263bcd104e12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAWX",
+    "sanitizedSymbol": "GAWX",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5F4D9690D9973e8ceB099f50707348DE8f73BB09",
+    "lpNftId": "1270911",
+    "lockerAddress": "0x627Fa0C42D906F16cFFbA43c94c01CE83b2E9C01"
+  },
+  "clankerInfo": null
+}

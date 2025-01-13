@@ -1,0 +1,22 @@
+{
+  "name": "bngeks",
+  "symbol": "bngeks",
+  "decimals": 18,
+  "description": "bngeks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bngeks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bngeks",
+  "addresses": {
+    "8453": "0x2019844ac97b4b3b3c6d498dca166b5592b76fd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bngeks",
+    "sanitizedSymbol": "BNGEKS",
+    "created_at": "2024-12-12T17:46:23.101737",
+    "deployer": "0xfCdDC37F72612CEA5f411e92EE0420840F524176",
+    "lpNftId": "1440044",
+    "lockerAddress": "0xaA524f1243dfEe55880c25895493c0692243a825"
+  },
+  "clankerInfo": null
+}

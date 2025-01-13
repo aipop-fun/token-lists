@@ -1,0 +1,22 @@
+{
+  "name": "K-BURGER",
+  "symbol": "K-BURGER",
+  "decimals": 18,
+  "description": "K-BURGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=K-BURGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "K-BURGER",
+  "addresses": {
+    "8453": "0x0b9b23fa330a313bbb3356abbb7f9e9095dd53b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "K-BURGER",
+    "sanitizedSymbol": "K_BURGER",
+    "created_at": "2024-12-12T09:36:41.275955",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1431503",
+    "lockerAddress": "0xdcaCC0Bed00DD22d64c055db4E86eaA0d0941FE3"
+  },
+  "clankerInfo": null
+}

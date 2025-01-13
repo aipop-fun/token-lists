@@ -1,0 +1,22 @@
+{
+  "name": "feliz viernes",
+  "symbol": "feliz viernes",
+  "decimals": 18,
+  "description": "feliz viernes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=feliz%20viernes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "feliz viernes",
+  "addresses": {
+    "8453": "0x3a4b59003e4f598119019b493bcca5d0f59cc6ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "feliz viernes",
+    "sanitizedSymbol": "FELIZ_VIERNES_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119946",
+    "lockerAddress": "0x83ABF2015A7D11FaFcBC6AB53C6502E038B74b77"
+  },
+  "clankerInfo": null
+}

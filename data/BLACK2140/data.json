@@ -1,0 +1,22 @@
+{
+  "name": "Black2140",
+  "symbol": "Black2140",
+  "decimals": 18,
+  "description": "Black2140 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black2140",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black2140",
+  "addresses": {
+    "8453": "0x3444f4d0558131fc4936b43d842c242d1cc223e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black2140",
+    "sanitizedSymbol": "BLACK2140",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195377",
+    "lockerAddress": "0x60545d875De175895F79F80627ABD15756F02728"
+  },
+  "clankerInfo": null
+}

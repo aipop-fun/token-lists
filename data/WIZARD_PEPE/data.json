@@ -1,0 +1,22 @@
+{
+  "name": "Wizard Pepe",
+  "symbol": "Wizard Pepe",
+  "decimals": 18,
+  "description": "Wizard Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wizard%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wizard Pepe",
+  "addresses": {
+    "8453": "0x174143bcde12817b3b437556effab9d2afc17334"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wizard Pepe",
+    "sanitizedSymbol": "WIZARD_PEPE",
+    "created_at": "2024-12-11T13:47:57.26265",
+    "deployer": "0x435828c36Ee509ca99e19e93Dac1e13BD49C1965",
+    "lpNftId": "1419451",
+    "lockerAddress": "0xf0FFd066511Bd7106D41af44C4eAa8D3aAd32B49"
+  },
+  "clankerInfo": null
+}

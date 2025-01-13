@@ -1,0 +1,22 @@
+{
+  "name": "Lion king",
+  "symbol": "Lion king",
+  "decimals": 18,
+  "description": "Lion king is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lion%20king",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lion king",
+  "addresses": {
+    "8453": "0x1900508c1ca2c174ee23697aaa04d1ed460783e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lion king",
+    "sanitizedSymbol": "LION_KING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x409ADBBEF0d920Dc05a90083F1388f2D2c0205D1",
+    "lpNftId": "1319050",
+    "lockerAddress": "0x530Aa8b9e579500C56604BFc45F759BF2dB886D1"
+  },
+  "clankerInfo": null
+}

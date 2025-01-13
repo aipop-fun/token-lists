@@ -1,0 +1,22 @@
+{
+  "name": "Realm Coin",
+  "symbol": "Realm Coin",
+  "decimals": 18,
+  "description": "Realm Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Realm%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Realm Coin",
+  "addresses": {
+    "8453": "0x129451a6227e0d2efa6334af1d26262ec1fee84b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Realm Coin",
+    "sanitizedSymbol": "REALM_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8b2447FE02053d6Bb768Cf6cA4a29a738bAAdE16",
+    "lpNftId": "1325317",
+    "lockerAddress": "0xe232c041aa8794bF0023da8B1b91268475974031"
+  },
+  "clankerInfo": null
+}

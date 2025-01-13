@@ -1,0 +1,22 @@
+{
+  "name": "PostgreSQL",
+  "symbol": "PostgreSQL",
+  "decimals": 18,
+  "description": "PostgreSQL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PostgreSQL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PostgreSQL",
+  "addresses": {
+    "8453": "0x1c597fab676528b5d2dccc2815b0f089a2607fa9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PostgreSQL",
+    "sanitizedSymbol": "POSTGRESQL",
+    "created_at": "2024-12-12T00:04:39.733678",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1428060",
+    "lockerAddress": "0x5758f7aF47FFc7D6220051E1fd83C1B336CFB814"
+  },
+  "clankerInfo": null
+}

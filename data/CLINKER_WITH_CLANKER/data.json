@@ -1,0 +1,22 @@
+{
+  "name": "Clinker with Clanker",
+  "symbol": "Clinker with Clanker",
+  "decimals": 18,
+  "description": "Clinker with Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clinker%20with%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clinker with Clanker",
+  "addresses": {
+    "8453": "0x22cdf74487bf1666396d3df182575d1bfc628712"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clinker with Clanker",
+    "sanitizedSymbol": "CLINKER_WITH_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1370933",
+    "lockerAddress": "0xaD7233450528749965B00C19E62259E08192C35C"
+  },
+  "clankerInfo": null
+}

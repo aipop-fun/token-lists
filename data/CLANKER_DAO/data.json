@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER DAO",
+  "symbol": "CLANKER DAO",
+  "decimals": 18,
+  "description": "CLANKER DAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20DAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER DAO",
+  "addresses": {
+    "8453": "0x29dfbd8051ff91bc91ee99c5944a46af7dc83d82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER DAO",
+    "sanitizedSymbol": "CLANKER_DAO",
+    "created_at": "2024-12-10T23:15:17.398732",
+    "deployer": "0xca36fccC21FfA8E96b4660516B939CCd3Efeab59",
+    "lpNftId": "1408267",
+    "lockerAddress": "0x99936eE90119b36629326D068F66E59968BCA881"
+  },
+  "clankerInfo": null
+}

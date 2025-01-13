@@ -1,0 +1,22 @@
+{
+  "name": "PUMPXTRA",
+  "symbol": "PUMPXTRA",
+  "decimals": 18,
+  "description": "PUMPXTRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMPXTRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMPXTRA",
+  "addresses": {
+    "8453": "0x1bb66776bf9dc06cc2745b595a904753d212f8ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMPXTRA",
+    "sanitizedSymbol": "PUMPXTRA",
+    "created_at": "2024-12-09T17:59:11.323768",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1389981",
+    "lockerAddress": "0xF73cc6b2d7dDD9aB45C216630965a50A37402Ac9"
+  },
+  "clankerInfo": null
+}

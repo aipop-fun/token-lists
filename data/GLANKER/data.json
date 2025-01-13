@@ -1,0 +1,22 @@
+{
+  "name": "Glanker",
+  "symbol": "Glanker",
+  "decimals": 18,
+  "description": "Glanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Glanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Glanker",
+  "addresses": {
+    "8453": "0x0d563bb2f5025499378255688c547a8fc2caf08e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Glanker",
+    "sanitizedSymbol": "GLANKER",
+    "created_at": "2024-12-10T19:31:19.822454",
+    "deployer": "0x3B120B802081585c966e30f1FD116A0941461358",
+    "lpNftId": "1406222",
+    "lockerAddress": "0x74DDb67feF5e142E4ec6c05963842e1C64Ad263b"
+  },
+  "clankerInfo": null
+}

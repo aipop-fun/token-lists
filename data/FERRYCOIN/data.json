@@ -1,0 +1,22 @@
+{
+  "name": "ferrycoin",
+  "symbol": "ferrycoin",
+  "decimals": 18,
+  "description": "ferrycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ferrycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ferrycoin",
+  "addresses": {
+    "8453": "0x372e70630a1c25fa737d1637d268aa357544f68e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ferrycoin",
+    "sanitizedSymbol": "FERRYCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaf2FD097DDD5c0961ffc2b0bAA36f335c075D450",
+    "lpNftId": "1326691",
+    "lockerAddress": "0x1d75f53534062eA4421b60207cC217e3BA0d3963"
+  },
+  "clankerInfo": null
+}

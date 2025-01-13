@@ -1,0 +1,22 @@
+{
+  "name": "glamorous",
+  "symbol": "glamorous",
+  "decimals": 18,
+  "description": "glamorous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=glamorous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "glamorous",
+  "addresses": {
+    "8453": "0x4066d040dc0dd06eb3452471b5fb030605a25fa9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "glamorous",
+    "sanitizedSymbol": "GLAMOROUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xadcdD11D01338507Dea594E194d1c316508a5Fc8",
+    "lpNftId": "1321944",
+    "lockerAddress": "0x7809B64Ec8e95775Ff209c69d76274E51c79D5b7"
+  },
+  "clankerInfo": null
+}

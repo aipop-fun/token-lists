@@ -1,0 +1,22 @@
+{
+  "name": "Capital",
+  "symbol": "Capital",
+  "decimals": 18,
+  "description": "Capital is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Capital",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Capital",
+  "addresses": {
+    "8453": "0x28146bdb9b68e10ca543cfd6843e89bdc8a6ce6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Capital",
+    "sanitizedSymbol": "CAPITAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147474",
+    "lockerAddress": "0xC023e0B0FA92c5BF86468857239C354cd08301d3"
+  },
+  "clankerInfo": null
+}

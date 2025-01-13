@@ -1,0 +1,22 @@
+{
+  "name": "WarpFace",
+  "symbol": "WarpFace",
+  "decimals": 18,
+  "description": "WarpFace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpFace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpFace",
+  "addresses": {
+    "8453": "0x11e43fddc16a6680f1dcacda96d4f1a95b6e6f03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpFace",
+    "sanitizedSymbol": "WARPFACE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1331847",
+    "lockerAddress": "0xE44360dF5CFC90E8fBBB7E703CE16b01D00C9449"
+  },
+  "clankerInfo": null
+}

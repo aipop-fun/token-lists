@@ -1,0 +1,22 @@
+{
+  "name": "SPONSKAR",
+  "symbol": "SPONSKAR",
+  "decimals": 18,
+  "description": "SPONSKAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPONSKAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPONSKAR",
+  "addresses": {
+    "8453": "0x2c42756bef1e5109962f347392a241c5648103ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPONSKAR",
+    "sanitizedSymbol": "SPONSKAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9392ddaE98D3deC483F604EC2AEb597d4F15DA65",
+    "lpNftId": "1301469",
+    "lockerAddress": "0x6909a901C00B6dBf616179e9220B091A00C59B46"
+  },
+  "clankerInfo": null
+}

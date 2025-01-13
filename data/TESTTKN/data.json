@@ -1,0 +1,22 @@
+{
+  "name": "TESTTKN",
+  "symbol": "TESTTKN",
+  "decimals": 18,
+  "description": "TESTTKN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESTTKN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESTTKN",
+  "addresses": {
+    "8453": "0x35e87655ec711f93d902096a50a12be2fb0f08e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESTTKN",
+    "sanitizedSymbol": "TESTTKN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6510cB12a2B6bb49cDbfbd23E6D40ba521f48f35",
+    "lpNftId": "1208338",
+    "lockerAddress": "0xC57588764272dc172f3DC8960B4EF708eBEd5609"
+  },
+  "clankerInfo": null
+}

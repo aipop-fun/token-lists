@@ -1,0 +1,22 @@
+{
+  "name": "Bonefi",
+  "symbol": "Bonefi",
+  "decimals": 18,
+  "description": "Bonefi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bonefi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bonefi",
+  "addresses": {
+    "8453": "0x1e1631b8b03d34b98f572818d0e075e86f147ba0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bonefi",
+    "sanitizedSymbol": "BONEFI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x070111Ac2c83F2905722f259E4a87b24DAa020f2",
+    "lpNftId": "1251618",
+    "lockerAddress": "0x9613541CDdAEBCd558D61FDABfE3785Ce1dB7094"
+  },
+  "clankerInfo": null
+}

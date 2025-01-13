@@ -1,0 +1,22 @@
+{
+  "name": "Holy Cow",
+  "symbol": "Holy Cow",
+  "decimals": 18,
+  "description": "Holy Cow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Holy%20Cow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Holy Cow",
+  "addresses": {
+    "8453": "0x26ca797be5c417fa4fd5bd2221a085e071c7705d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Holy Cow",
+    "sanitizedSymbol": "HOLY_COW",
+    "created_at": "2024-12-12T18:14:45.018873",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1440598",
+    "lockerAddress": "0x6748eaD4f46136eC632F36169d7e7Ad435cF8773"
+  },
+  "clankerInfo": null
+}

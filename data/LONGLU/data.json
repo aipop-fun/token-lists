@@ -1,0 +1,22 @@
+{
+  "name": "longlu",
+  "symbol": "longlu",
+  "decimals": 18,
+  "description": "longlu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=longlu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "longlu",
+  "addresses": {
+    "8453": "0x342282846c693aa2eb7c57374d6c68a1a5a3ba00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "longlu",
+    "sanitizedSymbol": "LONGLU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf2349Ad0EfFf644BC05ee5E89F869C0954AD0383",
+    "lpNftId": "1252198",
+    "lockerAddress": "0x1d6A53F51c426FE84A2B121E99C365115Dd6270f"
+  },
+  "clankerInfo": null
+}

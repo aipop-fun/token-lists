@@ -1,0 +1,22 @@
+{
+  "name": "Sync",
+  "symbol": "Sync",
+  "decimals": 18,
+  "description": "Sync is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sync",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sync",
+  "addresses": {
+    "8453": "0x0d7a71ea155020444f9dcaec2bfaf486777ccbcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sync",
+    "sanitizedSymbol": "SYNC",
+    "created_at": "2024-12-11T07:00:05.650199",
+    "deployer": "0xb39bB9973497647ee1B00ad8ea499A546f3Ff948",
+    "lpNftId": "1413999",
+    "lockerAddress": "0x9dD4B08219fEEcba10a43149cE541F26846bd80e"
+  },
+  "clankerInfo": null
+}

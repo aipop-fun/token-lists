@@ -1,0 +1,22 @@
+{
+  "name": "SLEBIL",
+  "symbol": "SLEBIL",
+  "decimals": 18,
+  "description": "SLEBIL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLEBIL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLEBIL",
+  "addresses": {
+    "8453": "0x2e94acfaca2039fe83d00b8cad5aa2ec17e167df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLEBIL",
+    "sanitizedSymbol": "SLEBIL",
+    "created_at": "2024-12-11T02:36:30.919333",
+    "deployer": "0xf21D9d26b274E530dE4F9BF8CEa2f7952481c046",
+    "lpNftId": "1410883",
+    "lockerAddress": "0x56154D6f4d394B0f3CF34Ca765B58F8CA3178Cc1"
+  },
+  "clankerInfo": null
+}

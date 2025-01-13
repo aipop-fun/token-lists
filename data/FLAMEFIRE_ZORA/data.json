@@ -1,0 +1,22 @@
+{
+  "name": "FlameFire Zora",
+  "symbol": "FlameFire Zora",
+  "decimals": 18,
+  "description": "FlameFire Zora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FlameFire%20Zora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FlameFire Zora",
+  "addresses": {
+    "8453": "0x0434a43281232ef0bd4bac251fcc0ed776098abb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FlameFire Zora",
+    "sanitizedSymbol": "FLAMEFIRE_ZORA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x15Dfc76F80AC2c8d5451E2a43945cD7283567079",
+    "lpNftId": "1251738",
+    "lockerAddress": "0xF433f9c11dBB0967b5DE94806a653e933493BD63"
+  },
+  "clankerInfo": null
+}

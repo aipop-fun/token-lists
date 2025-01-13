@@ -1,0 +1,22 @@
+{
+  "name": "Proxima",
+  "symbol": "Proxima",
+  "decimals": 18,
+  "description": "Proxima is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Proxima",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Proxima",
+  "addresses": {
+    "8453": "0x3945fff46fccfcdfcb64d89fc4ee0d185beffecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Proxima",
+    "sanitizedSymbol": "PROXIMA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215735",
+    "lockerAddress": "0x1b8a87f01a845ae65F3099E41CaC726069377A24"
+  },
+  "clankerInfo": null
+}

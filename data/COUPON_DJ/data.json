@@ -1,0 +1,22 @@
+{
+  "name": "COUPON DJ",
+  "symbol": "COUPON DJ",
+  "decimals": 18,
+  "description": "COUPON DJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COUPON%20DJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COUPON DJ",
+  "addresses": {
+    "8453": "0x37aad3127838333d1660361142e13a166c2cc53b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COUPON DJ",
+    "sanitizedSymbol": "COUPON_DJ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236465",
+    "lockerAddress": "0x51Ef149a1e91f2946E94C08486578C03B1176483"
+  },
+  "clankerInfo": null
+}

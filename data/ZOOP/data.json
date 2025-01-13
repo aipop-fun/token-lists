@@ -1,0 +1,22 @@
+{
+  "name": "Zoop",
+  "symbol": "Zoop",
+  "decimals": 18,
+  "description": "Zoop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zoop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zoop",
+  "addresses": {
+    "8453": "0x1cc8e33e92782a298324dbaa84fefa54e97098a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zoop",
+    "sanitizedSymbol": "ZOOP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF29a53cCA8Be4cCC45a5406a62107BF40ABeEA4E",
+    "lpNftId": "1319154",
+    "lockerAddress": "0xe291B44308835e53fEB2378b842F8d2A11C4bb52"
+  },
+  "clankerInfo": null
+}

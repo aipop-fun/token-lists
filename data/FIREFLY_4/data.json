@@ -1,0 +1,22 @@
+{
+  "name": "firefly",
+  "symbol": "firefly",
+  "decimals": 18,
+  "description": "firefly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=firefly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "firefly",
+  "addresses": {
+    "8453": "0x3387875351e1f6eca03e6d2aa11d1b7ac0ad66d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "firefly",
+    "sanitizedSymbol": "FIREFLY_4",
+    "created_at": "2024-12-12T18:21:21.249043",
+    "deployer": "0x6a2f6c4C10c8AF0f0EeE8eEa8b7859C2a6000902",
+    "lpNftId": "1440699",
+    "lockerAddress": "0x1407b128bE402499Ed4920Dd262Dd8682139B8cb"
+  },
+  "clankerInfo": null
+}

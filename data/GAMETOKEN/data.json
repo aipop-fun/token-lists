@@ -1,0 +1,22 @@
+{
+  "name": "GameToken",
+  "symbol": "GameToken",
+  "decimals": 18,
+  "description": "GameToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GameToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GameToken",
+  "addresses": {
+    "8453": "0x116e73678533329901f30404857f0fc8e95fced2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GameToken",
+    "sanitizedSymbol": "GAMETOKEN",
+    "created_at": "2024-12-11T16:25:03.265759",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1421827",
+    "lockerAddress": "0x06a8DffAe5c71b1ca6E9cb0e5d137a6142696a98"
+  },
+  "clankerInfo": null
+}

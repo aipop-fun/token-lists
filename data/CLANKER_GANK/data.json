@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Gank",
+  "symbol": "Clanker Gank",
+  "decimals": 18,
+  "description": "Clanker Gank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Gank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Gank",
+  "addresses": {
+    "8453": "0x00bd2208f18efedbdb88b599971b7f3a65d12fd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Gank",
+    "sanitizedSymbol": "CLANKER_GANK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf6598681E2d995D82d54B82e8954C36b568dEc61",
+    "lpNftId": "1256043",
+    "lockerAddress": "0xFFb15EDCE7180B1dAbAFE1d34387E6D7654aE900"
+  },
+  "clankerInfo": null
+}

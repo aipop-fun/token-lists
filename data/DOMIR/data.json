@@ -1,0 +1,22 @@
+{
+  "name": "DOMIR",
+  "symbol": "DOMIR",
+  "decimals": 18,
+  "description": "DOMIR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOMIR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOMIR",
+  "addresses": {
+    "8453": "0x37618caa13e964b731f4c7d423e92f266733ff55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOMIR",
+    "sanitizedSymbol": "DOMIR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142896",
+    "lockerAddress": "0xFF604e78f0F765C8567C1EA8B11A0E1dF7c655d0"
+  },
+  "clankerInfo": null
+}

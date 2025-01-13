@@ -1,0 +1,22 @@
+{
+  "name": "Pandaria",
+  "symbol": "Pandaria",
+  "decimals": 18,
+  "description": "Pandaria is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pandaria",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pandaria",
+  "addresses": {
+    "8453": "0x1b03427d1556071db7eacf06c60309401f821502"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pandaria",
+    "sanitizedSymbol": "PANDARIA",
+    "created_at": "2024-12-12T08:50:39.868699",
+    "deployer": "0x2C27ed1FBb67AA76e136513271c1abC148CC5D91",
+    "lpNftId": "1430207",
+    "lockerAddress": "0x2895966dF4291a99dE9878A08062880b6fcDf34B"
+  },
+  "clankerInfo": null
+}

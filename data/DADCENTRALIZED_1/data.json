@@ -1,0 +1,22 @@
+{
+  "name": "Dadcentralized",
+  "symbol": "Dadcentralized",
+  "decimals": 18,
+  "description": "Dadcentralized is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dadcentralized",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dadcentralized",
+  "addresses": {
+    "8453": "0x0902153d22e5e633fce396c3d6419745043eca6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dadcentralized",
+    "sanitizedSymbol": "DADCENTRALIZED_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129096",
+    "lockerAddress": "0xeA8B79EA83d59Bd1D33eCF3bFc3D3AcB7Eef9683"
+  },
+  "clankerInfo": null
+}

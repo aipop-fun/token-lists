@@ -1,0 +1,22 @@
+{
+  "name": "LFGO",
+  "symbol": "LFGO",
+  "decimals": 18,
+  "description": "LFGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LFGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LFGO",
+  "addresses": {
+    "8453": "0x1a0a1fabfdbe4475487e5b3349f218a12462ea8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LFGO",
+    "sanitizedSymbol": "LFGO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2bc66df32fE9774CAeE150A93BC2fCA840927Fb6",
+    "lpNftId": "1308803",
+    "lockerAddress": "0x255ae393D565F3D7C6aEf5ff7A441Dabf0D63855"
+  },
+  "clankerInfo": null
+}

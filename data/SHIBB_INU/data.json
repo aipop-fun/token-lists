@@ -1,0 +1,22 @@
+{
+  "name": "Shibb Inu",
+  "symbol": "Shibb Inu",
+  "decimals": 18,
+  "description": "Shibb Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shibb%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shibb Inu",
+  "addresses": {
+    "8453": "0x3cb0916d1109c3cf6842b238eb89c51d5da55b0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shibb Inu",
+    "sanitizedSymbol": "SHIBB_INU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1310256",
+    "lockerAddress": "0x1F0A0E52C10C9CC7D3c746793Badb213f7459Bd8"
+  },
+  "clankerInfo": null
+}

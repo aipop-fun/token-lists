@@ -1,0 +1,22 @@
+{
+  "name": "fired panda",
+  "symbol": "fired panda",
+  "decimals": 18,
+  "description": "fired panda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fired%20panda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fired panda",
+  "addresses": {
+    "8453": "0x0d7476c849d48a54518afd041ffe1516b2f443a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fired panda",
+    "sanitizedSymbol": "FIRED_PANDA",
+    "created_at": "2024-12-11T06:35:31.623955",
+    "deployer": "0x3fC447E382D9AB8e0537893323eEf8bB05E2f7Cd",
+    "lpNftId": "1413915",
+    "lockerAddress": "0xa72D9a4d44A1b3Fd8eb0043D8ec803f6Ad55eaE1"
+  },
+  "clankerInfo": null
+}

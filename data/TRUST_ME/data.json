@@ -1,0 +1,22 @@
+{
+  "name": "TRUST ME",
+  "symbol": "TRUST ME",
+  "decimals": 18,
+  "description": "TRUST ME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRUST%20ME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRUST ME",
+  "addresses": {
+    "8453": "0x1cf717f6178b380b39a3230eff78e2e55f403e27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRUST ME",
+    "sanitizedSymbol": "TRUST_ME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x48Abd05c722c6bA90645e2c1236B4d693E769EBB",
+    "lpNftId": "1319980",
+    "lockerAddress": "0xc642ad9f2038BE84548Ad31c1Cf26bc5bF72fb38"
+  },
+  "clankerInfo": null
+}

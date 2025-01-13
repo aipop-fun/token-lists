@@ -1,0 +1,22 @@
+{
+  "name": "MaaBaals",
+  "symbol": "MaaBaals",
+  "decimals": 18,
+  "description": "MaaBaals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MaaBaals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MaaBaals",
+  "addresses": {
+    "8453": "0x00d5039168b494e887c731453f9d052d9c743974"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MaaBaals",
+    "sanitizedSymbol": "MAABAALS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+    "lpNftId": "1352055",
+    "lockerAddress": "0xE00DAF9ABE598a16348BA7038Ede2De6bc5d109a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "villain",
+  "symbol": "villain",
+  "decimals": 18,
+  "description": "villain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=villain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "villain",
+  "addresses": {
+    "8453": "0x0d2aac88eadb07e1c5c30eadfdace5815e7a4d80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "villain",
+    "sanitizedSymbol": "VILLAIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219011",
+    "lockerAddress": "0x52Ff971B9734eA4C86b1D9E32A360228667547BE"
+  },
+  "clankerInfo": null
+}

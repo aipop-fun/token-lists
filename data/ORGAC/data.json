@@ -1,0 +1,22 @@
+{
+  "name": "Orgac",
+  "symbol": "Orgac",
+  "decimals": 18,
+  "description": "Orgac is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Orgac",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Orgac",
+  "addresses": {
+    "8453": "0x3cb112c8fece8e2e9d5c6ddfb37a2668d691dae8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Orgac",
+    "sanitizedSymbol": "ORGAC",
+    "created_at": "2024-12-12T17:11:32.086147",
+    "deployer": "0xD230082376EC38bf27d0a838728f874581Bc56F8",
+    "lpNftId": "1439157",
+    "lockerAddress": "0x3F4E19cBB77907713ADCf156f0A47Ab51F288065"
+  },
+  "clankerInfo": null
+}

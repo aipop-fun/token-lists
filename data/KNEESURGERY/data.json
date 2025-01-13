@@ -1,0 +1,22 @@
+{
+  "name": "KneeSurgery",
+  "symbol": "KneeSurgery",
+  "decimals": 18,
+  "description": "KneeSurgery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KneeSurgery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KneeSurgery",
+  "addresses": {
+    "8453": "0x3ce4bf9879224be429b58945a53516ae41d0f4cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KneeSurgery",
+    "sanitizedSymbol": "KNEESURGERY",
+    "created_at": "2024-12-12T02:44:23.156511",
+    "deployer": "0x8917B2BddAa825f885f9a05E2E00D029332fC203",
+    "lpNftId": "1428694",
+    "lockerAddress": "0x20e3F84B433065311A4d84A41059019CC5c67Ce9"
+  },
+  "clankerInfo": null
+}

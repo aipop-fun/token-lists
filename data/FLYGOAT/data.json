@@ -1,0 +1,22 @@
+{
+  "name": "flygoat",
+  "symbol": "flygoat",
+  "decimals": 18,
+  "description": "flygoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=flygoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "flygoat",
+  "addresses": {
+    "8453": "0x41af30ab8a682f195726cecf1214c04f129a4c19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "flygoat",
+    "sanitizedSymbol": "FLYGOAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x82715ec383b5EF8c7e7Fb3F1CA079d52a957Cdab",
+    "lpNftId": "1374794",
+    "lockerAddress": "0x3ca718E24F73312CCC7f208c9E3057edbe8e2a01"
+  },
+  "clankerInfo": null
+}

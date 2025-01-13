@@ -1,0 +1,22 @@
+{
+  "name": "looopy",
+  "symbol": "looopy",
+  "decimals": 18,
+  "description": "looopy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=looopy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "looopy",
+  "addresses": {
+    "8453": "0x2ca7db194a35af1ecb6fb21ede6411b35d4397b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "looopy",
+    "sanitizedSymbol": "LOOOPY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x278fafd821f7111161d541e65Cd3157e165973fb",
+    "lpNftId": "1251949",
+    "lockerAddress": "0x7E16A0Ecd3F209fBb85De3f57304b5EC39f3bB72"
+  },
+  "clankerInfo": null
+}

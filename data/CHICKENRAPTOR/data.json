@@ -1,0 +1,22 @@
+{
+  "name": "CHICKENRAPTOR",
+  "symbol": "CHICKENRAPTOR",
+  "decimals": 18,
+  "description": "CHICKENRAPTOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHICKENRAPTOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHICKENRAPTOR",
+  "addresses": {
+    "8453": "0x1156cc14ca43a40812ce69a038f2a2bf5d391bd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHICKENRAPTOR",
+    "sanitizedSymbol": "CHICKENRAPTOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x8602A9c9c97b3cc76A9800FaBDbb3d2c88402216",
+    "lpNftId": "1250456",
+    "lockerAddress": "0x3960bB1a2e560ef217B61386475E45215f538CbE"
+  },
+  "clankerInfo": null
+}

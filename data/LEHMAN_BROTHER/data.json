@@ -1,0 +1,22 @@
+{
+  "name": "Lehman Brother",
+  "symbol": "Lehman Brother",
+  "decimals": 18,
+  "description": "Lehman Brother is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lehman%20Brother",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lehman Brother",
+  "addresses": {
+    "8453": "0x28e9bfa182c3cdfb3c52ccd3a82dee57b6bef112"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lehman Brother",
+    "sanitizedSymbol": "LEHMAN_BROTHER",
+    "created_at": "2024-12-12T16:25:11.110404",
+    "deployer": "0x448eB535cFd2f6EBDBCB17e36aF5e2B57b474D3e",
+    "lpNftId": "1438539",
+    "lockerAddress": "0x06eC2b0C57D817e78e5B17EEC5Bb54fF1933c377"
+  },
+  "clankerInfo": null
+}

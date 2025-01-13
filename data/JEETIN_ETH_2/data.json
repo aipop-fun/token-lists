@@ -1,0 +1,22 @@
+{
+  "name": "JEETIN.ETH",
+  "symbol": "JEETIN.ETH",
+  "decimals": 18,
+  "description": "JEETIN.ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEETIN.ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEETIN.ETH",
+  "addresses": {
+    "8453": "0x086b2ce02280b1b8e855bb86476d2bb0ea9f2eeb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEETIN.ETH",
+    "sanitizedSymbol": "JEETIN_ETH_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe59778a34d02cFB8f99844620Ba93588BE1e9a4D",
+    "lpNftId": "1322066",
+    "lockerAddress": "0x6e9769Ebb3A6E9016Dd59f3B26649cfe67328095"
+  },
+  "clankerInfo": null
+}

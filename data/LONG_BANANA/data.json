@@ -1,0 +1,22 @@
+{
+  "name": "Long Banana",
+  "symbol": "Long Banana",
+  "decimals": 18,
+  "description": "Long Banana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Long%20Banana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Long Banana",
+  "addresses": {
+    "8453": "0x176085a32c67e1480aff4a43521e636886e0880e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Long Banana",
+    "sanitizedSymbol": "LONG_BANANA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a47F1B48f8aD546Fb977cC89eC759F74C0E492A",
+    "lpNftId": "1327478",
+    "lockerAddress": "0xeC4F14732D0A9A21aadD598606F461A9e7A79692"
+  },
+  "clankerInfo": null
+}

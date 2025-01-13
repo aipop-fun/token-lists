@@ -1,0 +1,22 @@
+{
+  "name": "GATE AI",
+  "symbol": "GATE AI",
+  "decimals": 18,
+  "description": "GATE AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GATE%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GATE AI",
+  "addresses": {
+    "8453": "0x0b04ff8ccd17b37ecfb51fea656d4acca5969c62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GATE AI",
+    "sanitizedSymbol": "GATE_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeC924b50da12043f0fd573d816D31Dfed781e73a",
+    "lpNftId": "1319533",
+    "lockerAddress": "0xFBaaF99681d47B36da3b7d74D39c195C261C3DDA"
+  },
+  "clankerInfo": null
+}

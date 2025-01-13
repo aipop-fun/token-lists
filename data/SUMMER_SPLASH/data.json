@@ -1,0 +1,22 @@
+{
+  "name": "Summer Splash",
+  "symbol": "Summer Splash",
+  "decimals": 18,
+  "description": "Summer Splash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Summer%20Splash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Summer Splash",
+  "addresses": {
+    "8453": "0x2edd3d4af373951ccb6ad1290f1272abefec03e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Summer Splash",
+    "sanitizedSymbol": "SUMMER_SPLASH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb3911B480D9455F4B168B52b2Ad204774fCDB38E",
+    "lpNftId": "1333617",
+    "lockerAddress": "0x3D7d2F655f870385395341A5f9ccfA1c318420AF"
+  },
+  "clankerInfo": null
+}

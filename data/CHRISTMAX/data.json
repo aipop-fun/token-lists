@@ -1,0 +1,22 @@
+{
+  "name": "ChristMax",
+  "symbol": "ChristMax",
+  "decimals": 18,
+  "description": "ChristMax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChristMax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChristMax",
+  "addresses": {
+    "8453": "0x248e9c4ad59ae46d2b78e88f506805d4ad8232bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChristMax",
+    "sanitizedSymbol": "CHRISTMAX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9e10135beE11A553A4d947EfAbCb56892b1eE1C",
+    "lpNftId": "1302607",
+    "lockerAddress": "0xbD7C5660D85F006517B8eA2d6842c646e79b8F71"
+  },
+  "clankerInfo": null
+}

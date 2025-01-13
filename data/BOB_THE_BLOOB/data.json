@@ -1,0 +1,22 @@
+{
+  "name": "BOB THE BLOOB",
+  "symbol": "BOB THE BLOOB",
+  "decimals": 18,
+  "description": "BOB THE BLOOB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOB%20THE%20BLOOB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOB THE BLOOB",
+  "addresses": {
+    "8453": "0x240bb29416335f4bdb5d1cd7c0dd7c2b928276aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOB THE BLOOB",
+    "sanitizedSymbol": "BOB_THE_BLOOB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1293254",
+    "lockerAddress": "0x73D6Ee5A43e4acb2aA652638A7e2687Dfa84B142"
+  },
+  "clankerInfo": null
+}

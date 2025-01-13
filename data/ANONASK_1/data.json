@@ -1,0 +1,22 @@
+{
+  "name": "AnonAsk",
+  "symbol": "AnonAsk",
+  "decimals": 18,
+  "description": "AnonAsk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonAsk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonAsk",
+  "addresses": {
+    "8453": "0x29f04b5258861e133ea047b828f1f281870cb380"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonAsk",
+    "sanitizedSymbol": "ANONASK_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9aeB385fe75f069F4b2af1E115A1f1F731230F62",
+    "lpNftId": "1267841",
+    "lockerAddress": "0x152D29E301a3e3F0de0D21EAD481d9e4a3Cd1430"
+  },
+  "clankerInfo": null
+}

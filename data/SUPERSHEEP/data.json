@@ -1,0 +1,22 @@
+{
+  "name": "SuperSheep",
+  "symbol": "SuperSheep",
+  "decimals": 18,
+  "description": "SuperSheep is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperSheep",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperSheep",
+  "addresses": {
+    "8453": "0x07adbf1d5e4fc0c49c80a0136e7990fa0c7b7055"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperSheep",
+    "sanitizedSymbol": "SUPERSHEEP",
+    "created_at": "2024-12-09T08:07:15.255658",
+    "deployer": "0xc2c4ACBe8651bb56c057ad2b6f4Edf692820Bf77",
+    "lpNftId": "1384582",
+    "lockerAddress": "0xc0E255D3447f42fffbce2a6B1D1416a7d0Df0912"
+  },
+  "clankerInfo": null
+}

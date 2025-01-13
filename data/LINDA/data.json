@@ -1,0 +1,22 @@
+{
+  "name": "LINDA",
+  "symbol": "LINDA",
+  "decimals": 18,
+  "description": "LINDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LINDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LINDA",
+  "addresses": {
+    "8453": "0x0dec77c9d92612eefc6a0b6636a2b47048ee16c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LINDA",
+    "sanitizedSymbol": "LINDA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1308812",
+    "lockerAddress": "0xBd8361C7B7f7c4D06B5E80867c1E66F9fCc01F6f"
+  },
+  "clankerInfo": null
+}

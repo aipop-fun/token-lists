@@ -1,0 +1,22 @@
+{
+  "name": "Taped Dog",
+  "symbol": "Taped Dog",
+  "decimals": 18,
+  "description": "Taped Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Taped%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Taped Dog",
+  "addresses": {
+    "8453": "0x25bdeab45f0368a7c7795bbcd46f3c2c18216105"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Taped Dog",
+    "sanitizedSymbol": "TAPED_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237728",
+    "lockerAddress": "0x5FccdFEA4A3a2295CCF4B7e8cf7904F5Db78a1Dd"
+  },
+  "clankerInfo": null
+}

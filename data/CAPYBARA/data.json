@@ -1,0 +1,22 @@
+{
+  "name": "Capybara",
+  "symbol": "Capybara",
+  "decimals": 18,
+  "description": "Capybara is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Capybara",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Capybara",
+  "addresses": {
+    "8453": "0x2bdd954b2fa5e33633ea632b43a2ab55e40470b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Capybara",
+    "sanitizedSymbol": "CAPYBARA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129395",
+    "lockerAddress": "0xa9b2ed5AF9B56729685470c311339B21f7A3F92c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Jaguar",
+  "symbol": "Jaguar",
+  "decimals": 18,
+  "description": "Jaguar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jaguar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jaguar",
+  "addresses": {
+    "8453": "0x3fd2e44c0ef2dac11cf812268e8866722e5cad69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jaguar",
+    "sanitizedSymbol": "JAGUAR_2",
+    "created_at": "2024-12-11T03:09:28.037033",
+    "deployer": "0x000db64c851614e8518173b1720CAc509177D404",
+    "lpNftId": "1411640",
+    "lockerAddress": "0xF431029C464524DcCd517D06087C992E7046D177"
+  },
+  "clankerInfo": null
+}

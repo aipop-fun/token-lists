@@ -1,0 +1,22 @@
+{
+  "name": "SUBS SQUID",
+  "symbol": "SUBS SQUID",
+  "decimals": 18,
+  "description": "SUBS SQUID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUBS%20SQUID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUBS SQUID",
+  "addresses": {
+    "8453": "0x2a34ffcbac9254d9fcb79a2efd632e08f3848813"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUBS SQUID",
+    "sanitizedSymbol": "SUBS_SQUID",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF6C31e6dA5a1417306df69C5608E59457e9404E9",
+    "lpNftId": "1324671",
+    "lockerAddress": "0x86A3921c4412Cd2d4Ac0E177d6779Ae9612f8E8f"
+  },
+  "clankerInfo": null
+}

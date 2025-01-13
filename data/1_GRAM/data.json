@@ -1,0 +1,22 @@
+{
+  "name": "1 GRAM",
+  "symbol": "1 GRAM",
+  "decimals": 18,
+  "description": "1 GRAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%20GRAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1 GRAM",
+  "addresses": {
+    "8453": "0x02648c18d2a73b835ef6ee3a676d40eb2b9d3718"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1 GRAM",
+    "sanitizedSymbol": "1_GRAM",
+    "created_at": "2024-12-12T16:18:30.45045",
+    "deployer": "0x3a066F5fB2F520695a27D877bFc40BAD81247e88",
+    "lpNftId": "1438237",
+    "lockerAddress": "0x347b796AC9dE3E2187A74Ca227EFfAa6edc2912d"
+  },
+  "clankerInfo": null
+}

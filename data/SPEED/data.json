@@ -1,0 +1,22 @@
+{
+  "name": "Speed",
+  "symbol": "Speed",
+  "decimals": 18,
+  "description": "Speed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Speed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Speed",
+  "addresses": {
+    "8453": "0x19015417f0f86dcb46e2750bd6ea2814e7d17601"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Speed",
+    "sanitizedSymbol": "SPEED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x537d159Ff7c38087e02D1a960d3A7DE5eCC69218",
+    "lpNftId": "1291461",
+    "lockerAddress": "0x4aA0c0a414b6fF831F66Dc09f3A58fb327165f24"
+  },
+  "clankerInfo": null
+}

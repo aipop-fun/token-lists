@@ -1,0 +1,22 @@
+{
+  "name": "Degen Hype Coin Protocol",
+  "symbol": "Degen Hype Coin Protocol",
+  "decimals": 18,
+  "description": "Degen Hype Coin Protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Hype%20Coin%20Protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Hype Coin Protocol",
+  "addresses": {
+    "8453": "0x3f4851a921cd5191f434da560194107daa2cf834"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Hype Coin Protocol",
+    "sanitizedSymbol": "DEGEN_HYPE_COIN_PROTOCOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa119457e7A48419C01EF31C55d40c0F80399E360",
+    "lpNftId": "1322924",
+    "lockerAddress": "0xF39dDFAa79194842bD026Cc8EC25aDc43c8ccE9F"
+  },
+  "clankerInfo": null
+}

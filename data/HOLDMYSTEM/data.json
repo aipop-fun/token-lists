@@ -1,0 +1,22 @@
+{
+  "name": "#HoldMyStem",
+  "symbol": "#HoldMyStem",
+  "decimals": 18,
+  "description": "#HoldMyStem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%23HoldMyStem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "#HoldMyStem",
+  "addresses": {
+    "8453": "0x0f3d36733fb18a10c357a597fbdb7363bd4a5128"
+  },
+  "tokenInfo": {
+    "originalSymbol": "#HoldMyStem",
+    "sanitizedSymbol": "HOLDMYSTEM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF8Fe1cE1aAFC002A40Bb1D1Ce48dccE6975928F2",
+    "lpNftId": "1251317",
+    "lockerAddress": "0x429BB7a95D68A308FE261a78d144ADcEF81b7442"
+  },
+  "clankerInfo": null
+}

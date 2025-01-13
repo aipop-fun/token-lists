@@ -1,0 +1,22 @@
+{
+  "name": "biji ontah",
+  "symbol": "biji ontah",
+  "decimals": 18,
+  "description": "biji ontah is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=biji%20ontah",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "biji ontah",
+  "addresses": {
+    "8453": "0x381f279e3663a2f04df5c60ee00103ce167a8567"
+  },
+  "tokenInfo": {
+    "originalSymbol": "biji ontah",
+    "sanitizedSymbol": "BIJI_ONTAH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0c5De93C3F14bf5CCb5bac48ced7B94FB3ff3199",
+    "lpNftId": "1252875",
+    "lockerAddress": "0x870F555c9803D8c3411F60DF7F2c3239E9bffd13"
+  },
+  "clankerInfo": null
+}

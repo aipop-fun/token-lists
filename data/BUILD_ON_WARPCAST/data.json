@@ -1,0 +1,22 @@
+{
+  "name": "Build On Warpcast",
+  "symbol": "Build On Warpcast",
+  "decimals": 18,
+  "description": "Build On Warpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Build%20On%20Warpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Build On Warpcast",
+  "addresses": {
+    "8453": "0x3bfe4b63d01fe532da6445b4fed2759593061e92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Build On Warpcast",
+    "sanitizedSymbol": "BUILD_ON_WARPCAST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159796",
+    "lockerAddress": "0x82f3305076a50184a593cB2F83eaCC7B19FdBA79"
+  },
+  "clankerInfo": null
+}

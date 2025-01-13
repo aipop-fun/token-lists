@@ -1,0 +1,22 @@
+{
+  "name": "Left",
+  "symbol": "Left",
+  "decimals": 18,
+  "description": "Left is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Left",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Left",
+  "addresses": {
+    "8453": "0x061fc8e4da0f7d83ecdf4aeac95dd9ec252b2587"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Left",
+    "sanitizedSymbol": "LEFT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcBd28aBB72Ea2a4edEbB2bE5D8BcEd06329D83b1",
+    "lpNftId": "1327611",
+    "lockerAddress": "0xbC62315eDF2f66a15e9459B0ea07971a6a847BA0"
+  },
+  "clankerInfo": null
+}

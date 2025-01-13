@@ -1,0 +1,22 @@
+{
+  "name": "shiro neko",
+  "symbol": "shiro neko",
+  "decimals": 18,
+  "description": "shiro neko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shiro%20neko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shiro neko",
+  "addresses": {
+    "8453": "0x3e4242fb61cd9a9a817daca9531dac2c827e98c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shiro neko",
+    "sanitizedSymbol": "SHIRO_NEKO_2",
+    "created_at": "2024-12-10T17:13:34.093635",
+    "deployer": "0x6F1eE3ADF48c47bDd113b68FE39BbFB2a40af850",
+    "lpNftId": "1404375",
+    "lockerAddress": "0xe8a0340a8902E17De7a2E3e267543763357A1727"
+  },
+  "clankerInfo": null
+}

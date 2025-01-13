@@ -1,0 +1,22 @@
+{
+  "name": "Predator",
+  "symbol": "Predator",
+  "decimals": 18,
+  "description": "Predator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Predator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Predator",
+  "addresses": {
+    "8453": "0x0f93ceffcc273d27a30a26632d6ec3f91b5cd239"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Predator",
+    "sanitizedSymbol": "PREDATOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129050",
+    "lockerAddress": "0x5295031841001bF16F3F3E519EbAF33bc19177bE"
+  },
+  "clankerInfo": null
+}

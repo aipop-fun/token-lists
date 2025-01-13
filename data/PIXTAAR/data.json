@@ -1,0 +1,22 @@
+{
+  "name": "pixtaar",
+  "symbol": "pixtaar",
+  "decimals": 18,
+  "description": "pixtaar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pixtaar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pixtaar",
+  "addresses": {
+    "8453": "0x10f3938179120742e492ab93b7c4cb032492f809"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pixtaar",
+    "sanitizedSymbol": "PIXTAAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119895",
+    "lockerAddress": "0x27fFcD0a00C52531d115889508a3529A65BF28b8"
+  },
+  "clankerInfo": null
+}

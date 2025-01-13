@@ -1,0 +1,22 @@
+{
+  "name": "AXECAT",
+  "symbol": "AXECAT",
+  "decimals": 18,
+  "description": "AXECAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AXECAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AXECAT",
+  "addresses": {
+    "8453": "0x0dc64738d6c8e9f00c2fec624d12d2782d829fb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AXECAT",
+    "sanitizedSymbol": "AXECAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3BD31bF3badD4c117D4f269f881b8502F96e5aA4",
+    "lpNftId": "1333306",
+    "lockerAddress": "0xe161C099A688a2EdAD9911c45e735806E1417B8c"
+  },
+  "clankerInfo": null
+}

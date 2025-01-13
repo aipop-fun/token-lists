@@ -1,0 +1,22 @@
+{
+  "name": "Happy dog",
+  "symbol": "Happy dog",
+  "decimals": 18,
+  "description": "Happy dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy dog",
+  "addresses": {
+    "8453": "0x3c84b3ef491afe4c56ff1f0dde5ea1a64cce3b7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy dog",
+    "sanitizedSymbol": "HAPPY_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x543A8d647fA60A94ba5E8D3dEc35C2cBF2B5cCeF",
+    "lpNftId": "1324729",
+    "lockerAddress": "0x7BFd1f3252F2334C31512E26A5680498066db174"
+  },
+  "clankerInfo": null
+}

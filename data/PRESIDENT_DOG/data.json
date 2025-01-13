@@ -1,0 +1,22 @@
+{
+  "name": "President Dog",
+  "symbol": "President Dog",
+  "decimals": 18,
+  "description": "President Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=President%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "President Dog",
+  "addresses": {
+    "8453": "0x2b705b48f4dc91487f61cf8ca299ad3c5feadff6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "President Dog",
+    "sanitizedSymbol": "PRESIDENT_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234796",
+    "lockerAddress": "0xf227E16B5cb5bF6EC82C995137CaF4555Cc2aa25"
+  },
+  "clankerInfo": null
+}

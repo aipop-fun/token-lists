@@ -1,0 +1,22 @@
+{
+  "name": "gobbELON",
+  "symbol": "gobbELON",
+  "decimals": 18,
+  "description": "gobbELON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gobbELON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gobbELON",
+  "addresses": {
+    "8453": "0x138d312e8b99c3c6d6dec1df7336b1ec831eaf03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gobbELON",
+    "sanitizedSymbol": "GOBBELON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x838516D7D832aD1724a30B259dAc34dffD20494B",
+    "lpNftId": "1253141",
+    "lockerAddress": "0xc7E87e1e5a3DE251cfE4Ae1aAF73de4428faf696"
+  },
+  "clankerInfo": null
+}

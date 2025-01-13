@@ -1,0 +1,22 @@
+{
+  "name": "MONCASSO",
+  "symbol": "MONCASSO",
+  "decimals": 18,
+  "description": "MONCASSO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONCASSO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONCASSO",
+  "addresses": {
+    "8453": "0x23c3fb9cadbe40d8ff1c788677c1e9b336a15237"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONCASSO",
+    "sanitizedSymbol": "MONCASSO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x73bCDFc7dF9570C67749D8C22583803F0a5d55CE",
+    "lpNftId": "1252764",
+    "lockerAddress": "0x1A32B7cE55431857eb2cB11abd3EB54c22Cbc460"
+  },
+  "clankerInfo": null
+}

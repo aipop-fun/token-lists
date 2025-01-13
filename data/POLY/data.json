@@ -1,0 +1,22 @@
+{
+  "name": "POLY",
+  "symbol": "POLY",
+  "decimals": 18,
+  "description": "POLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POLY",
+  "addresses": {
+    "8453": "0x3f2f216aa4fade143a523749f9e6788b820234e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POLY",
+    "sanitizedSymbol": "POLY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31411a6A4160ED5B9ac62910BB86C90b0450baE1",
+    "lpNftId": "1289842",
+    "lockerAddress": "0x45837e3d112B8BF760F3cf547f0f91a976267778"
+  },
+  "clankerInfo": null
+}

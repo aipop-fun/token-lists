@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER BOT",
+  "symbol": "CLANKER BOT",
+  "decimals": 18,
+  "description": "CLANKER BOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20BOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER BOT",
+  "addresses": {
+    "8453": "0x2d5a88c6837f903c4db839d1b8c9aa980bab3486"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER BOT",
+    "sanitizedSymbol": "CLANKER_BOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0F5c0b356a7E667a1ca52fABC0dbeCdff2E204F2",
+    "lpNftId": "1289591",
+    "lockerAddress": "0x6cC7ffEf467D5e124C8292914A09d529747aFC05"
+  },
+  "clankerInfo": null
+}

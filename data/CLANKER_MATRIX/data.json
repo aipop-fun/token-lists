@@ -1,0 +1,22 @@
+{
+  "name": "Clanker.Matrix",
+  "symbol": "Clanker.Matrix",
+  "decimals": 18,
+  "description": "Clanker.Matrix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker.Matrix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker.Matrix",
+  "addresses": {
+    "8453": "0x25d69b17ad07a7660dd5c995313b73551738f5a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker.Matrix",
+    "sanitizedSymbol": "CLANKER_MATRIX",
+    "created_at": "2024-12-12T15:24:33.044661",
+    "deployer": "0x556efF7cF7D1653548769431B45c9ca6464af09D",
+    "lpNftId": "1437082",
+    "lockerAddress": "0x054c9633539E366AFEb4aac04EB6c982a499c1b8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Adidas",
+  "symbol": "Adidas",
+  "decimals": 18,
+  "description": "Adidas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Adidas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Adidas",
+  "addresses": {
+    "8453": "0x200dae1565bbe30d29f94681a8708796f91a1697"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Adidas",
+    "sanitizedSymbol": "ADIDAS_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23bD9d34961616FA9f59976278DA6D3E8BA29b77",
+    "lpNftId": "1330601",
+    "lockerAddress": "0x329203B78Ca052C3Cb56359d2a892D1FC8bd0c27"
+  },
+  "clankerInfo": null
+}

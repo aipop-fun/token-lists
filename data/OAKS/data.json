@@ -1,0 +1,22 @@
+{
+  "name": "Oaks",
+  "symbol": "Oaks",
+  "decimals": 18,
+  "description": "Oaks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oaks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oaks",
+  "addresses": {
+    "8453": "0x33d13d537609841ce6c42d6fd775dc33e3833411"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oaks",
+    "sanitizedSymbol": "OAKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192937",
+    "lockerAddress": "0x2506dE75A04475F2298ca1D248cf964Ab9CfCc77"
+  },
+  "clankerInfo": null
+}

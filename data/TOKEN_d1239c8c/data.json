@@ -1,0 +1,22 @@
+{
+  "name": "☰",
+  "symbol": "☰",
+  "decimals": 18,
+  "description": "☰ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E2%98%B0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "☰",
+  "addresses": {
+    "8453": "0x3a405c170105095056aff0b22fef4264012d64b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "☰",
+    "sanitizedSymbol": "TOKEN_d1239c8c",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234912",
+    "lockerAddress": "0xB564ec77FA73ea925274150E4094508DbcDC5B50"
+  },
+  "clankerInfo": null
+}

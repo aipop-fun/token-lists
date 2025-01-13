@@ -1,0 +1,22 @@
+{
+  "name": "Caster Inscription",
+  "symbol": "Caster Inscription",
+  "decimals": 18,
+  "description": "Caster Inscription is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caster%20Inscription",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caster Inscription",
+  "addresses": {
+    "8453": "0x36e75f35e194b7e7ada2b5281c94016ddeb714a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caster Inscription",
+    "sanitizedSymbol": "CASTER_INSCRIPTION",
+    "created_at": "2024-12-12T21:56:42.980154",
+    "deployer": "0x1b3bFfa8825924E5195C6D282c3B8dA524E31214",
+    "lpNftId": "1444237",
+    "lockerAddress": "0xF042D6c6EFb5d569423a80C784ba9553A68174bB"
+  },
+  "clankerInfo": null
+}

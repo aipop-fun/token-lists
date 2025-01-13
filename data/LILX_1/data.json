@@ -1,0 +1,22 @@
+{
+  "name": "LILX",
+  "symbol": "LILX",
+  "decimals": 18,
+  "description": "LILX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LILX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LILX",
+  "addresses": {
+    "8453": "0x0cbe85c1fe009f0d9037082731f4dd3e43a04866"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LILX",
+    "sanitizedSymbol": "LILX_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x17Df392799b896927c34171860FF246cdF18230a",
+    "lpNftId": "1364391",
+    "lockerAddress": "0xa8c69b1aF246f5511271DcDFe6aeEa7D446286dc"
+  },
+  "clankerInfo": null
+}

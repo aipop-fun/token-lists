@@ -1,0 +1,22 @@
+{
+  "name": "Vibrance",
+  "symbol": "Vibrance",
+  "decimals": 18,
+  "description": "Vibrance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vibrance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vibrance",
+  "addresses": {
+    "8453": "0x32b2d8f32b36f75ed16c6afe8cf984ec89a70fe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vibrance",
+    "sanitizedSymbol": "VIBRANCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1320362",
+    "lockerAddress": "0x1df19B9f740Ea53A6eAc063a18Bc197a7b02F050"
+  },
+  "clankerInfo": null
+}

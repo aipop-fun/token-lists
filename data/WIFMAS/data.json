@@ -1,0 +1,22 @@
+{
+  "name": "wifmas",
+  "symbol": "wifmas",
+  "decimals": 18,
+  "description": "wifmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wifmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wifmas",
+  "addresses": {
+    "8453": "0x2d4c849f3e72fbff4cbdab2d2d3452f73734512c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wifmas",
+    "sanitizedSymbol": "WIFMAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1346442",
+    "lockerAddress": "0x737E2b3b6Af79377A73729AC6D88B274A6aE49dB"
+  },
+  "clankerInfo": null
+}

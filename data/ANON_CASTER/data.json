@@ -1,0 +1,22 @@
+{
+  "name": "Anon Caster",
+  "symbol": "Anon Caster",
+  "decimals": 18,
+  "description": "Anon Caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Caster",
+  "addresses": {
+    "8453": "0x35d8e9a775c8817fefbcae15578f5a309d28922f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Caster",
+    "sanitizedSymbol": "ANON_CASTER",
+    "created_at": "2024-12-10T09:35:19.580529",
+    "deployer": "0xB276ACDE7EF0D8c878f25b18c5779EcFBb557799",
+    "lpNftId": "1399277",
+    "lockerAddress": "0xEB5177421d11FF2A6050D8fFf9A58d8EfD49F7E4"
+  },
+  "clankerInfo": null
+}

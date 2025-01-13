@@ -1,0 +1,22 @@
+{
+  "name": "JoinJon",
+  "symbol": "JoinJon",
+  "decimals": 18,
+  "description": "JoinJon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JoinJon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JoinJon",
+  "addresses": {
+    "8453": "0x288fc3eb9e61fc0fa092fc87a48595d3c41fcd61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JoinJon",
+    "sanitizedSymbol": "JOINJON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0de290F9717764641B9694C246338A477Cff9543",
+    "lpNftId": "1327578",
+    "lockerAddress": "0x9f47DCBc1AAB1ACAF466D8c3d56a95142340e988"
+  },
+  "clankerInfo": null
+}

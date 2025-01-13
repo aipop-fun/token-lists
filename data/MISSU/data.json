@@ -1,0 +1,22 @@
+{
+  "name": "Missu",
+  "symbol": "Missu",
+  "decimals": 18,
+  "description": "Missu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Missu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Missu",
+  "addresses": {
+    "8453": "0x0031c40e07578195e3edbf69d968dfd4b7deb873"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Missu",
+    "sanitizedSymbol": "MISSU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa1f124B31238Bb1756f63f5599C14a919995f0a6",
+    "lpNftId": "1277109",
+    "lockerAddress": "0x644763ABECdff7f861E9A984d7d1476d0f36C8DE"
+  },
+  "clankerInfo": null
+}

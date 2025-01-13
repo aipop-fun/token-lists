@@ -1,0 +1,22 @@
+{
+  "name": "NEUROBRO",
+  "symbol": "NEUROBRO",
+  "decimals": 18,
+  "description": "NEUROBRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEUROBRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEUROBRO",
+  "addresses": {
+    "8453": "0x2043130751a6385cc038ba4d4768f491715c1595"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEUROBRO",
+    "sanitizedSymbol": "NEUROBRO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1370683",
+    "lockerAddress": "0xD3dFf0333FE0c9468ae85719380Bf3bd0db57a7A"
+  },
+  "clankerInfo": null
+}

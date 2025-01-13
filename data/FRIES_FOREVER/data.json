@@ -1,0 +1,22 @@
+{
+  "name": "fries forever",
+  "symbol": "fries forever",
+  "decimals": 18,
+  "description": "fries forever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fries%20forever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fries forever",
+  "addresses": {
+    "8453": "0x0dfe6f577f41a4d6248179cf0527b292eab51acc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fries forever",
+    "sanitizedSymbol": "FRIES_FOREVER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x26101F75fe26a527a54c0e103439637F9105Dd64",
+    "lpNftId": "1308959",
+    "lockerAddress": "0x9277Bac53764ce3a3eD005485De52541989dE2f7"
+  },
+  "clankerInfo": null
+}

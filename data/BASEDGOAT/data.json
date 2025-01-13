@@ -1,0 +1,22 @@
+{
+  "name": "basedGoat",
+  "symbol": "basedGoat",
+  "decimals": 18,
+  "description": "basedGoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=basedGoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "basedGoat",
+  "addresses": {
+    "8453": "0x2c678ceaf1f30716f375b1bf55238b6c5df27be9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "basedGoat",
+    "sanitizedSymbol": "BASEDGOAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231761",
+    "lockerAddress": "0x1D0c1E0Bd1A5E633e20335f26CE33F327231D9c7"
+  },
+  "clankerInfo": null
+}

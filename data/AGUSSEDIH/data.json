@@ -1,0 +1,22 @@
+{
+  "name": "AgusSedih",
+  "symbol": "AgusSedih",
+  "decimals": 18,
+  "description": "AgusSedih is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AgusSedih",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AgusSedih",
+  "addresses": {
+    "8453": "0x23636cd8c5cf7c7caf67bdd851da5154b3840dca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AgusSedih",
+    "sanitizedSymbol": "AGUSSEDIH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1309733",
+    "lockerAddress": "0xCd06E9cd9bd00abB62A07BcBaBb7D6382c0fd641"
+  },
+  "clankerInfo": null
+}

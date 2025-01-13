@@ -1,0 +1,22 @@
+{
+  "name": "ZodiacSign",
+  "symbol": "ZodiacSign",
+  "decimals": 18,
+  "description": "ZodiacSign is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZodiacSign",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZodiacSign",
+  "addresses": {
+    "8453": "0x30c3dc8be5a8234983eef4d6ea4cde1ffdedb829"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZodiacSign",
+    "sanitizedSymbol": "ZODIACSIGN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb29006bB01F23fffC36b0dfc5c5b7D23e57cE729",
+    "lpNftId": "1317563",
+    "lockerAddress": "0xb3208c6050CEe07E192f3F73209288A28Eb91b77"
+  },
+  "clankerInfo": null
+}

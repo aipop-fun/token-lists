@@ -1,0 +1,22 @@
+{
+  "name": "TEBS SPARKLING",
+  "symbol": "TEBS SPARKLING",
+  "decimals": 18,
+  "description": "TEBS SPARKLING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEBS%20SPARKLING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEBS SPARKLING",
+  "addresses": {
+    "8453": "0x2914cbc42c298d699389d1184ce688f5f5f80cf8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEBS SPARKLING",
+    "sanitizedSymbol": "TEBS_SPARKLING",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x53A0001E614EB1f8Bfe58FD7c499F6231C0C80b5",
+    "lpNftId": "1327964",
+    "lockerAddress": "0x0C0F85E5679F9Dd59F569C8D884Ef32FF7899CAA"
+  },
+  "clankerInfo": null
+}

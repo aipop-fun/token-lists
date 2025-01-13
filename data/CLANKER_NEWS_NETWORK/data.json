@@ -1,0 +1,22 @@
+{
+  "name": "Clanker News Network",
+  "symbol": "Clanker News Network",
+  "decimals": 18,
+  "description": "Clanker News Network is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20News%20Network",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker News Network",
+  "addresses": {
+    "8453": "0x082a472711f1a50191477a21896e6314393af90a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker News Network",
+    "sanitizedSymbol": "CLANKER_NEWS_NETWORK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5D802e2Fe48392c104Ce0401C7ECa8a4456f1F16",
+    "lpNftId": "1312828",
+    "lockerAddress": "0x0f152dA20ba72bBDbb3E66f39EbEfbD6cf1a59B2"
+  },
+  "clankerInfo": null
+}

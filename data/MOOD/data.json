@@ -1,0 +1,22 @@
+{
+  "name": "mood",
+  "symbol": "mood",
+  "decimals": 18,
+  "description": "mood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mood",
+  "addresses": {
+    "8453": "0x07f99d4abd8fbaf9dc1debaac9440e0e4d79aa9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mood",
+    "sanitizedSymbol": "MOOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70c82896F16fCa8276E4640756AED71CBF636909",
+    "lpNftId": "1329553",
+    "lockerAddress": "0x34B503A99bc1FBfD88A2C80A46d588ad7140294e"
+  },
+  "clankerInfo": null
+}

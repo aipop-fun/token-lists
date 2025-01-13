@@ -1,0 +1,22 @@
+{
+  "name": "Snapped",
+  "symbol": "Snapped",
+  "decimals": 18,
+  "description": "Snapped is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snapped",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snapped",
+  "addresses": {
+    "8453": "0x364d13befe168935f164a7e5487242196a4ad502"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snapped",
+    "sanitizedSymbol": "SNAPPED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219831",
+    "lockerAddress": "0x7ced93A84A4ed7cbE25EB9CE016d21aa148aCBdc"
+  },
+  "clankerInfo": null
+}

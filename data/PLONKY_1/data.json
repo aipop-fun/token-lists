@@ -1,0 +1,22 @@
+{
+  "name": "Plonky",
+  "symbol": "Plonky",
+  "decimals": 18,
+  "description": "Plonky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Plonky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Plonky",
+  "addresses": {
+    "8453": "0x0b50f34ebf315fbc6bc323feb112a26b41c01a89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Plonky",
+    "sanitizedSymbol": "PLONKY_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1352130",
+    "lockerAddress": "0xbF171452Be428EB2B109aC7cDe059ddb9E2ee67e"
+  },
+  "clankerInfo": null
+}

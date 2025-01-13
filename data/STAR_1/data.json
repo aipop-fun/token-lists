@@ -1,0 +1,22 @@
+{
+  "name": "STAR",
+  "symbol": "STAR",
+  "decimals": 18,
+  "description": "STAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STAR",
+  "addresses": {
+    "8453": "0x1784006707bfdd652568dc06b8567200242583e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STAR",
+    "sanitizedSymbol": "STAR_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6F4BE11d63bA2fB47c21760259B7EFBed881BCa0",
+    "lpNftId": "1312700",
+    "lockerAddress": "0xB04442462d3BF412fC5478769D6c301E25CEc8Bc"
+  },
+  "clankerInfo": null
+}

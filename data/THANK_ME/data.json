@@ -1,0 +1,22 @@
+{
+  "name": "Thank Me",
+  "symbol": "Thank Me",
+  "decimals": 18,
+  "description": "Thank Me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Thank%20Me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Thank Me",
+  "addresses": {
+    "8453": "0x23cbd8d1bd13d48ecd70972fdb1764d39943120d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Thank Me",
+    "sanitizedSymbol": "THANK_ME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166676",
+    "lockerAddress": "0x347d6b61A243Fe765602Bf7c100f74e616D970f7"
+  },
+  "clankerInfo": null
+}

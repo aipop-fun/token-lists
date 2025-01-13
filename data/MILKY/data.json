@@ -1,0 +1,22 @@
+{
+  "name": "MILKY",
+  "symbol": "MILKY",
+  "decimals": 18,
+  "description": "MILKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILKY",
+  "addresses": {
+    "8453": "0x39015b3a6f1532815ff07dd03ecfbc46ac52956e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILKY",
+    "sanitizedSymbol": "MILKY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1374150",
+    "lockerAddress": "0x4749422A93a3d4a478417f1364842b5C10b51877"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mage AGI",
+  "symbol": "Mage AGI",
+  "decimals": 18,
+  "description": "Mage AGI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mage%20AGI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mage AGI",
+  "addresses": {
+    "8453": "0x2f684308466536328905fc7b5d336a61b97b5bd9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mage AGI",
+    "sanitizedSymbol": "MAGE_AGI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198396",
+    "lockerAddress": "0x480b1DD7e276266BF61a3cFD7260EAB304058E30"
+  },
+  "clankerInfo": null
+}

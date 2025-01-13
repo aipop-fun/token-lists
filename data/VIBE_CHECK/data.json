@@ -1,0 +1,22 @@
+{
+  "name": "vibe check",
+  "symbol": "vibe check",
+  "decimals": 18,
+  "description": "vibe check is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vibe%20check",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vibe check",
+  "addresses": {
+    "8453": "0x33be66ae05a1e75f37e85c5dd4b4ccfbf01b8305"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vibe check",
+    "sanitizedSymbol": "VIBE_CHECK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158469",
+    "lockerAddress": "0x4ce850A078ea1CDaAa291739A398750f63520e31"
+  },
+  "clankerInfo": null
+}

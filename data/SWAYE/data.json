@@ -1,0 +1,22 @@
+{
+  "name": "Swaye",
+  "symbol": "Swaye",
+  "decimals": 18,
+  "description": "Swaye is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Swaye",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Swaye",
+  "addresses": {
+    "8453": "0x13ec76108e5cd52649181edc855d1ab842c41c5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Swaye",
+    "sanitizedSymbol": "SWAYE",
+    "created_at": "2024-12-12T17:39:03.89522",
+    "deployer": "0x0cCe1bf28B673626F140b926d55d7F3A88AA0615",
+    "lpNftId": "1439767",
+    "lockerAddress": "0x034618Ef257ce952c5c24a5586050063eF23D861"
+  },
+  "clankerInfo": null
+}

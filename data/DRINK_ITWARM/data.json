@@ -1,0 +1,22 @@
+{
+  "name": "Drink ItWarm",
+  "symbol": "Drink ItWarm",
+  "decimals": 18,
+  "description": "Drink ItWarm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drink%20ItWarm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drink ItWarm",
+  "addresses": {
+    "8453": "0x0ef79fe63e095f95532b162f24d88026d0b40031"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drink ItWarm",
+    "sanitizedSymbol": "DRINK_ITWARM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232729",
+    "lockerAddress": "0x0a3a3A4Bd5c6F0011338ba9CCC06522c3781e92f"
+  },
+  "clankerInfo": null
+}

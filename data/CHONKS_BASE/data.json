@@ -1,0 +1,22 @@
+{
+  "name": "CHONKS BASE",
+  "symbol": "CHONKS BASE",
+  "decimals": 18,
+  "description": "CHONKS BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHONKS%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHONKS BASE",
+  "addresses": {
+    "8453": "0x382771436692e64658010c53151e00e2e197dd01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHONKS BASE",
+    "sanitizedSymbol": "CHONKS_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1346730",
+    "lockerAddress": "0x248b335ab7BE977FdC50c9738FE46577B7CeCeD1"
+  },
+  "clankerInfo": null
+}

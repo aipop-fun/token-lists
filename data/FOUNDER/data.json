@@ -1,0 +1,22 @@
+{
+  "name": "FOUNDER",
+  "symbol": "FOUNDER",
+  "decimals": 18,
+  "description": "FOUNDER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOUNDER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOUNDER",
+  "addresses": {
+    "8453": "0x0e6eb349dfeb30f80a53e974fe34ffab5aafacad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOUNDER",
+    "sanitizedSymbol": "FOUNDER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF2A3d3b0D4296969ec3941Ff59236E3F2f5a8879",
+    "lpNftId": "1288050",
+    "lockerAddress": "0x5d09a8dB34Ed845e34626266e060b279A78dDb56"
+  },
+  "clankerInfo": null
+}

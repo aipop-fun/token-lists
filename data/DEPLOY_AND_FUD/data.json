@@ -1,0 +1,22 @@
+{
+  "name": "Deploy and fud",
+  "symbol": "Deploy and fud",
+  "decimals": 18,
+  "description": "Deploy and fud is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deploy%20and%20fud",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deploy and fud",
+  "addresses": {
+    "8453": "0x3c7fc35c4f2cb75e2d4c7c4beba0b449eb2a0b92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deploy and fud",
+    "sanitizedSymbol": "DEPLOY_AND_FUD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237658",
+    "lockerAddress": "0x1DcB336BEDFD84b4577af8C4DCf4650a43a831F6"
+  },
+  "clankerInfo": null
+}

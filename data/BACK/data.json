@@ -1,0 +1,22 @@
+{
+  "name": "back",
+  "symbol": "back",
+  "decimals": 18,
+  "description": "back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "back",
+  "addresses": {
+    "8453": "0x1b66669cad66a8ac793526b3179a6026fa247644"
+  },
+  "tokenInfo": {
+    "originalSymbol": "back",
+    "sanitizedSymbol": "BACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119979",
+    "lockerAddress": "0x56C6Bc78B99C28Ab6e8b9090a2a5A7297383Eb64"
+  },
+  "clankerInfo": null
+}

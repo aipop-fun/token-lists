@@ -1,0 +1,22 @@
+{
+  "name": "FukSniper",
+  "symbol": "FukSniper",
+  "decimals": 18,
+  "description": "FukSniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FukSniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FukSniper",
+  "addresses": {
+    "8453": "0x399d234f1a5aaa339d19a22bc7bec7f9fd5ac716"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FukSniper",
+    "sanitizedSymbol": "FUKSNIPER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x218dA5D0585525fDac5f110a257f2aEa05123C03",
+    "lpNftId": "1264828",
+    "lockerAddress": "0x419b22A8E6a53326880E52A31abDce1D19CD723F"
+  },
+  "clankerInfo": null
+}

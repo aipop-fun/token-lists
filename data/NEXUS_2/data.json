@@ -1,0 +1,22 @@
+{
+  "name": "Nexus",
+  "symbol": "Nexus",
+  "decimals": 18,
+  "description": "Nexus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nexus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nexus",
+  "addresses": {
+    "8453": "0x1c44d5304e6ea96556913723274fecaa9736dc5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nexus",
+    "sanitizedSymbol": "NEXUS_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219893",
+    "lockerAddress": "0x38C382831C55dAD6968234BA5afa2150B6bE990E"
+  },
+  "clankerInfo": null
+}

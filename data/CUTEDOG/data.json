@@ -1,0 +1,22 @@
+{
+  "name": "cutedog",
+  "symbol": "cutedog",
+  "decimals": 18,
+  "description": "cutedog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cutedog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cutedog",
+  "addresses": {
+    "8453": "0x3ad11e7a73dd9319619a273698691d0d6ed8a5f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cutedog",
+    "sanitizedSymbol": "CUTEDOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70142C3cCB891a5E1C00d97254FbAbB83E9b7E81",
+    "lpNftId": "1327863",
+    "lockerAddress": "0x55744bA2d95c82A35269Be613E90A01E1BA45Ff3"
+  },
+  "clankerInfo": null
+}

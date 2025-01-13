@@ -1,0 +1,22 @@
+{
+  "name": "heboy",
+  "symbol": "heboy",
+  "decimals": 18,
+  "description": "heboy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=heboy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "heboy",
+  "addresses": {
+    "8453": "0x107f32e0ce2fa02b9c2d18bcc5fdda01d6372a3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "heboy",
+    "sanitizedSymbol": "HEBOY",
+    "created_at": "2024-12-12T05:44:13.576318",
+    "deployer": "0x07201C14151CEF136304652BfD63838f450c5051",
+    "lpNftId": "1429446",
+    "lockerAddress": "0x4fBE0D65852710548f17B823B667De0156859ecb"
+  },
+  "clankerInfo": null
+}

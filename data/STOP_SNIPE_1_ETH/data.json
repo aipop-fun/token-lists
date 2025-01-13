@@ -1,0 +1,22 @@
+{
+  "name": "STOP SNIPE 1 ETH",
+  "symbol": "STOP SNIPE 1 ETH",
+  "decimals": 18,
+  "description": "STOP SNIPE 1 ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STOP%20SNIPE%201%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STOP SNIPE 1 ETH",
+  "addresses": {
+    "8453": "0x14c7a7a41e15d67b3ffe89ee49d4806e4aff4308"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STOP SNIPE 1 ETH",
+    "sanitizedSymbol": "STOP_SNIPE_1_ETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156867",
+    "lockerAddress": "0x73db3ca315955F77BE7e65D72ade2480732E464f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PAN",
+  "symbol": "PAN",
+  "decimals": 18,
+  "description": "PAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAN",
+  "addresses": {
+    "8453": "0x3b01f690439a6720006735e1981e5b85a4f34d82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAN",
+    "sanitizedSymbol": "PAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236762",
+    "lockerAddress": "0x4fAB2422a413bf7F2F5F3c14F9DDA6EA07F7f903"
+  },
+  "clankerInfo": null
+}

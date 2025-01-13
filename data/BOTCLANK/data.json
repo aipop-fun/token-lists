@@ -1,0 +1,22 @@
+{
+  "name": "BOTCLANK",
+  "symbol": "BOTCLANK",
+  "decimals": 18,
+  "description": "BOTCLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOTCLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOTCLANK",
+  "addresses": {
+    "8453": "0x2835119d4abde29db883b2ce21b9d24da6d16639"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOTCLANK",
+    "sanitizedSymbol": "BOTCLANK",
+    "created_at": "2024-12-10T21:53:23.374693",
+    "deployer": "0xAc8F6A1b7fc376935F4c5c8709d73abFa6b1F0D4",
+    "lpNftId": "1407561",
+    "lockerAddress": "0x9E53303c2586f1b057bC0c08803EEa955fE119A1"
+  },
+  "clankerInfo": null
+}

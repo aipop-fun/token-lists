@@ -1,0 +1,22 @@
+{
+  "name": "Base PETIR",
+  "symbol": "Base PETIR",
+  "decimals": 18,
+  "description": "Base PETIR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20PETIR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base PETIR",
+  "addresses": {
+    "8453": "0x3c0990eaefa333e1f7329500c3d41d997e32f457"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base PETIR",
+    "sanitizedSymbol": "BASE_PETIR",
+    "created_at": "2024-12-10T06:38:21.682367",
+    "deployer": "0x3007fc774Ea3eF2dda722Aac424C77ddF4690CAC",
+    "lpNftId": "1397463",
+    "lockerAddress": "0xCB70AAa4457ca789965f79e71086eb4163afc5e9"
+  },
+  "clankerInfo": null
+}

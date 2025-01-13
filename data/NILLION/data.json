@@ -1,0 +1,22 @@
+{
+  "name": "Nillion",
+  "symbol": "Nillion",
+  "decimals": 18,
+  "description": "Nillion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nillion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nillion",
+  "addresses": {
+    "8453": "0x292e310c4c08f239cc7cd73e319c4274d48fcb72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nillion",
+    "sanitizedSymbol": "NILLION",
+    "created_at": "2024-12-12T03:29:31.888817",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1428901",
+    "lockerAddress": "0x1067b58AfC54309E78A87c5d838fB4d8D017125B"
+  },
+  "clankerInfo": null
+}

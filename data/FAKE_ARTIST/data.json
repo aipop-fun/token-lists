@@ -1,0 +1,22 @@
+{
+  "name": "Fake Artist",
+  "symbol": "Fake Artist",
+  "decimals": 18,
+  "description": "Fake Artist is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fake%20Artist",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fake Artist",
+  "addresses": {
+    "8453": "0x1946c64bc7b8df9030b9799fbee122d687c7fdd3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fake Artist",
+    "sanitizedSymbol": "FAKE_ARTIST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA123b88714B76762EC9E1E35dB6b2637Bc9Aa2a3",
+    "lpNftId": "1375192",
+    "lockerAddress": "0x51f773610aDfDEDFd95A445c62619Ef108AfE9C1"
+  },
+  "clankerInfo": null
+}

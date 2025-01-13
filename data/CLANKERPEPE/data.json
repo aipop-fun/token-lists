@@ -1,0 +1,22 @@
+{
+  "name": "clankerpepe",
+  "symbol": "clankerpepe",
+  "decimals": 18,
+  "description": "clankerpepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerpepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerpepe",
+  "addresses": {
+    "8453": "0x14fdbace70c134ee24952691689c9705e10d21da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerpepe",
+    "sanitizedSymbol": "CLANKERPEPE",
+    "created_at": "2024-12-09T00:21:21.880439",
+    "deployer": "0xf1329f2CD23972F85ff972F0873E987a16f2249E",
+    "lpNftId": "1376883",
+    "lockerAddress": "0x75A8d046e82C9c469d2cCC6bc6fEaD30DF4cD610"
+  },
+  "clankerInfo": null
+}

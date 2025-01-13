@@ -1,0 +1,22 @@
+{
+  "name": "kizaru",
+  "symbol": "kizaru",
+  "decimals": 18,
+  "description": "kizaru is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kizaru",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kizaru",
+  "addresses": {
+    "8453": "0x060b4154d453c7e7e401f58809e46e8b6222773e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kizaru",
+    "sanitizedSymbol": "KIZARU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4D112871f46b543411E1851083116ccD231a527e",
+    "lpNftId": "1281780",
+    "lockerAddress": "0x275BAD3d3F7b686E35d5AFE123448f5023f32c7A"
+  },
+  "clankerInfo": null
+}

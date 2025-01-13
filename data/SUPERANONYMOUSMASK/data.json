@@ -1,0 +1,22 @@
+{
+  "name": "SuperAnonymousMask",
+  "symbol": "SuperAnonymousMask",
+  "decimals": 18,
+  "description": "SuperAnonymousMask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperAnonymousMask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperAnonymousMask",
+  "addresses": {
+    "8453": "0x12aefbf926460837ccaf15aee5b41897452e855a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperAnonymousMask",
+    "sanitizedSymbol": "SUPERANONYMOUSMASK",
+    "created_at": "2024-12-12T16:18:41.211664",
+    "deployer": "0x15eD0860BDe344356D905Aac2441E8B5Cdd182C5",
+    "lpNftId": "1438299",
+    "lockerAddress": "0x8859F338c6542efC0F85f707427516E00985dd04"
+  },
+  "clankerInfo": null
+}

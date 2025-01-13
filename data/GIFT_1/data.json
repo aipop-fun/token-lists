@@ -1,0 +1,22 @@
+{
+  "name": "Gift",
+  "symbol": "Gift",
+  "decimals": 18,
+  "description": "Gift is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gift",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gift",
+  "addresses": {
+    "8453": "0x24795e475b415bfab04539429bca86e212dce10b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gift",
+    "sanitizedSymbol": "GIFT_1",
+    "created_at": "2024-12-09T15:05:01.678932",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1388316",
+    "lockerAddress": "0xB68f95FFDCEd5DE3d0F32E1E54CbDdC34eFBD3Ca"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KULKA",
+  "symbol": "KULKA",
+  "decimals": 18,
+  "description": "KULKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KULKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KULKA",
+  "addresses": {
+    "8453": "0x0220c3d62c0a1be3ec63f21827588473b62c512b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KULKA",
+    "sanitizedSymbol": "KULKA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1327610",
+    "lockerAddress": "0xA2cafDf9EE53CC5F15a14b77b20103C036a12440"
+  },
+  "clankerInfo": null
+}

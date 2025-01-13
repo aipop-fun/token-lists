@@ -1,0 +1,22 @@
+{
+  "name": "Pearl",
+  "symbol": "Pearl",
+  "decimals": 18,
+  "description": "Pearl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pearl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pearl",
+  "addresses": {
+    "8453": "0x399b81e36a9cdb3fbc1e60d7a332f38c819d4270"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pearl",
+    "sanitizedSymbol": "PEARL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xddb91bdCE6e62Fd54f3eC738Ad452Ec22d17325D",
+    "lpNftId": "1341899",
+    "lockerAddress": "0xF6046Ab86CfA6216eDE312fa5b7b10e6498A8e89"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PandaDA",
+  "symbol": "PandaDA",
+  "decimals": 18,
+  "description": "PandaDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PandaDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PandaDA",
+  "addresses": {
+    "8453": "0x3c2bd1957a0b2fef727cef05d9dead0fbb6a438b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PandaDA",
+    "sanitizedSymbol": "PANDADA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x948e399b0ebDE5C56AbF8c9b86D2F2080f2A3310",
+    "lpNftId": "1288184",
+    "lockerAddress": "0xa47a7863A3B0FC2931043cb2AE1c289f5130df7d"
+  },
+  "clankerInfo": null
+}

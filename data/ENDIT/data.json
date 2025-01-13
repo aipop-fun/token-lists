@@ -1,0 +1,22 @@
+{
+  "name": "ENDIT",
+  "symbol": "ENDIT",
+  "decimals": 18,
+  "description": "ENDIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ENDIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ENDIT",
+  "addresses": {
+    "8453": "0x30a82edcba4caefcb6bb1e2b4ba3b62a37a965a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ENDIT",
+    "sanitizedSymbol": "ENDIT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB387175B8B9ec0534407CAfc2919E17aD89260cE",
+    "lpNftId": "1320852",
+    "lockerAddress": "0x1283c12DA0AA0828E225A33cbfA9AE62FB7D5778"
+  },
+  "clankerInfo": null
+}

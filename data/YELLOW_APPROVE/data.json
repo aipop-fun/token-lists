@@ -1,0 +1,22 @@
+{
+  "name": "YELLOW APPROVE",
+  "symbol": "YELLOW APPROVE",
+  "decimals": 18,
+  "description": "YELLOW APPROVE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YELLOW%20APPROVE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YELLOW APPROVE",
+  "addresses": {
+    "8453": "0x29f7c2a3bf3768eccdd4aa7d20c24eef279cea7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YELLOW APPROVE",
+    "sanitizedSymbol": "YELLOW_APPROVE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217029",
+    "lockerAddress": "0x806587667616640DEe18522677aa17b0D78F23B8"
+  },
+  "clankerInfo": null
+}

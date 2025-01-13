@@ -1,0 +1,22 @@
+{
+  "name": "Based Gecko",
+  "symbol": "Based Gecko",
+  "decimals": 18,
+  "description": "Based Gecko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Gecko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Gecko",
+  "addresses": {
+    "8453": "0x267c7932d817b27e36f5632ede03617d5c095a00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Gecko",
+    "sanitizedSymbol": "BASED_GECKO",
+    "created_at": "2024-12-10T20:56:15.293845",
+    "deployer": "0xda80EbEF09C431a19a70a24C8B3342301C5A8735",
+    "lpNftId": "1407135",
+    "lockerAddress": "0xA692eD5E7Eb0f02A8293709ffeB8d8f723962b3C"
+  },
+  "clankerInfo": null
+}

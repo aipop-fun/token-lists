@@ -1,0 +1,22 @@
+{
+  "name": "CristmasMoon",
+  "symbol": "CristmasMoon",
+  "decimals": 18,
+  "description": "CristmasMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CristmasMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CristmasMoon",
+  "addresses": {
+    "8453": "0x0daa6e53527a53fb4114d34b216ef6eacd61f111"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CristmasMoon",
+    "sanitizedSymbol": "CRISTMASMOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1283407",
+    "lockerAddress": "0x6A2486BD91E6C7F9158233F606c1bF556CD4e93B"
+  },
+  "clankerInfo": null
+}

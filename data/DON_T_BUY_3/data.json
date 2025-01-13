@@ -1,0 +1,22 @@
+{
+  "name": "Don't Buy",
+  "symbol": "Don't Buy",
+  "decimals": 18,
+  "description": "Don't Buy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20Buy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't Buy",
+  "addresses": {
+    "8453": "0x2128838fc81365661a1463b12977e95603278745"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't Buy",
+    "sanitizedSymbol": "DON_T_BUY_3",
+    "created_at": "2024-12-11T20:36:42.980821",
+    "deployer": "0xBC836BBa82C9Df8aa17DFf7D923693F416cDC58b",
+    "lpNftId": "1425553",
+    "lockerAddress": "0xF3322c81526474F5D6bB3ee90022b9AC48a433D9"
+  },
+  "clankerInfo": null
+}

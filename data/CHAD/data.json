@@ -1,0 +1,22 @@
+{
+  "name": "CHAD",
+  "symbol": "CHAD",
+  "decimals": 18,
+  "description": "CHAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAD",
+  "addresses": {
+    "8453": "0x0cb36f22374dbf49d7841365fc9c063be06128ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAD",
+    "sanitizedSymbol": "CHAD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143680",
+    "lockerAddress": "0x3B57b9391389B3258b8BA715e9917DE7c66Ba677"
+  },
+  "clankerInfo": null
+}

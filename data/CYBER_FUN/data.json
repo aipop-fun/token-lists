@@ -1,0 +1,22 @@
+{
+  "name": "Cyber Fun",
+  "symbol": "Cyber Fun",
+  "decimals": 18,
+  "description": "Cyber Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cyber%20Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cyber Fun",
+  "addresses": {
+    "8453": "0x092cfa9a2d49c637685618737d6eb5948bcbd63e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cyber Fun",
+    "sanitizedSymbol": "CYBER_FUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201454",
+    "lockerAddress": "0xe527c149ddBe078761c76109570Ba3D0A3Be1FC2"
+  },
+  "clankerInfo": null
+}

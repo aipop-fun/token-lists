@@ -1,0 +1,22 @@
+{
+  "name": "ForgotMyPasswordAgain",
+  "symbol": "ForgotMyPasswordAgain",
+  "decimals": 18,
+  "description": "ForgotMyPasswordAgain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ForgotMyPasswordAgain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ForgotMyPasswordAgain",
+  "addresses": {
+    "8453": "0x3152985890966bb3dd7b4c3f9e43b560e129798b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ForgotMyPasswordAgain",
+    "sanitizedSymbol": "FORGOTMYPASSWORDAGAIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223611",
+    "lockerAddress": "0xC69e971E6DC6679A6D1FbE5767477c8c9909db99"
+  },
+  "clankerInfo": null
+}

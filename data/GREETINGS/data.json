@@ -1,0 +1,22 @@
+{
+  "name": "greetings",
+  "symbol": "greetings",
+  "decimals": 18,
+  "description": "greetings is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=greetings",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "greetings",
+  "addresses": {
+    "8453": "0x40bfb66268795f205157ad9b4d19d9534e6a6a73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "greetings",
+    "sanitizedSymbol": "GREETINGS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161843",
+    "lockerAddress": "0x02C9431b4CC42C9d306513660aC6d1924825CE4F"
+  },
+  "clankerInfo": null
+}

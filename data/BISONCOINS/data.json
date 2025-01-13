@@ -1,0 +1,22 @@
+{
+  "name": "bisoncoins",
+  "symbol": "bisoncoins",
+  "decimals": 18,
+  "description": "bisoncoins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bisoncoins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bisoncoins",
+  "addresses": {
+    "8453": "0x01b9e3bb2e35949e06c5e6577cdd31f85db185c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bisoncoins",
+    "sanitizedSymbol": "BISONCOINS",
+    "created_at": "2024-12-11T12:36:21.718202",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418247",
+    "lockerAddress": "0x2D37BA03439eA72416D5F3984049DfeB39194155"
+  },
+  "clankerInfo": null
+}

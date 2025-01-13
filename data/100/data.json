@@ -1,0 +1,22 @@
+{
+  "name": "100$",
+  "symbol": "100$",
+  "decimals": 18,
+  "description": "100$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100$",
+  "addresses": {
+    "8453": "0x3e38947b404e3327057a4d727067862522d43602"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100$",
+    "sanitizedSymbol": "100",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd5F9Eb9bEa91e0AaD817D8af6d8BcCB2347bFFee",
+    "lpNftId": "1309817",
+    "lockerAddress": "0x1c9169505306F1A915D9eAA5eEf50Cb2224Dc6E1"
+  },
+  "clankerInfo": null
+}

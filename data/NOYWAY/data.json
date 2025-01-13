@@ -1,0 +1,22 @@
+{
+  "name": "noyway",
+  "symbol": "noyway",
+  "decimals": 18,
+  "description": "noyway is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=noyway",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "noyway",
+  "addresses": {
+    "8453": "0x0bb1b95071c37b9b302a7cf4a25b7a1778340ba4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "noyway",
+    "sanitizedSymbol": "NOYWAY",
+    "created_at": "2024-12-11T07:29:48.663749",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1414080",
+    "lockerAddress": "0xeC13461168af6f3bdb9EEc9acE9049B0b20387FE"
+  },
+  "clankerInfo": null
+}

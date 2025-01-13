@@ -1,0 +1,22 @@
+{
+  "name": "ZK COIN",
+  "symbol": "ZK COIN",
+  "decimals": 18,
+  "description": "ZK COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZK%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZK COIN",
+  "addresses": {
+    "8453": "0x08a185ec0269ed386dd7e4bbed39be55a7f1ca11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZK COIN",
+    "sanitizedSymbol": "ZK_COIN",
+    "created_at": "2024-12-10T13:33:27.337517",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1401518",
+    "lockerAddress": "0xe7ae88CDdf7b26454D79cA472D220b753a5a1F0B"
+  },
+  "clankerInfo": null
+}

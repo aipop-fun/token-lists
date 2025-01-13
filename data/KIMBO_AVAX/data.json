@@ -1,0 +1,22 @@
+{
+  "name": "kimbo avax",
+  "symbol": "kimbo avax",
+  "decimals": 18,
+  "description": "kimbo avax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kimbo%20avax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kimbo avax",
+  "addresses": {
+    "8453": "0x356ce15cad3ae21769742685f4662139151e22be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kimbo avax",
+    "sanitizedSymbol": "KIMBO_AVAX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224498",
+    "lockerAddress": "0x15cc9B430Dd28f0b78E48792bfE0aF1E4500e8c2"
+  },
+  "clankerInfo": null
+}

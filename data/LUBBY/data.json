@@ -1,0 +1,22 @@
+{
+  "name": "Lubby",
+  "symbol": "Lubby",
+  "decimals": 18,
+  "description": "Lubby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lubby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lubby",
+  "addresses": {
+    "8453": "0x1dfec84940eba4cfa1c56113da296569c6545e06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lubby",
+    "sanitizedSymbol": "LUBBY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202399",
+    "lockerAddress": "0xe69c3bdD2e39710358542945f6a976C78537b1A2"
+  },
+  "clankerInfo": null
+}

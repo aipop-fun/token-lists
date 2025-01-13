@@ -1,0 +1,22 @@
+{
+  "name": "Wolf Base",
+  "symbol": "Wolf Base",
+  "decimals": 18,
+  "description": "Wolf Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wolf%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wolf Base",
+  "addresses": {
+    "8453": "0x07294b9f2b2da5df163416fe90062375fdfce20b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wolf Base",
+    "sanitizedSymbol": "WOLF_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09A9b7472358b4439B606B651DBe03911f714BE1",
+    "lpNftId": "1316896",
+    "lockerAddress": "0xF4F553EFF7C1A63825a15C201D65A39Feaa4926b"
+  },
+  "clankerInfo": null
+}

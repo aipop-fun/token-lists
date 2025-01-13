@@ -1,0 +1,22 @@
+{
+  "name": "BotMojo",
+  "symbol": "BotMojo",
+  "decimals": 18,
+  "description": "BotMojo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BotMojo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BotMojo",
+  "addresses": {
+    "8453": "0x376d29625dbc6f730111de7659d916d2556f14b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BotMojo",
+    "sanitizedSymbol": "BOTMOJO",
+    "created_at": "2024-12-12T16:41:27.238545",
+    "deployer": "0xB96D0b8cE3261A04a5645f9909dccd2A352aF7FB",
+    "lpNftId": "1438784",
+    "lockerAddress": "0x42F191961aC0BacD73d520a6696E5BE8C90307d4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "milll",
+  "symbol": "milll",
+  "decimals": 18,
+  "description": "milll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=milll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "milll",
+  "addresses": {
+    "8453": "0x098f186f00f35e31eb4c93ad5098b3640b2d3c71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "milll",
+    "sanitizedSymbol": "MILLL",
+    "created_at": "2024-12-12T16:12:15.244191",
+    "deployer": "0xBA7e791678d43C94c6D2eE8f0dc08ceFd67FA6A9",
+    "lpNftId": "1438076",
+    "lockerAddress": "0xeF92f80829B3bcd6b7735b8217F1f2895400ec1e"
+  },
+  "clankerInfo": null
+}

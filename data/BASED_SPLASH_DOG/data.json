@@ -1,0 +1,22 @@
+{
+  "name": "Based Splash Dog",
+  "symbol": "Based Splash Dog",
+  "decimals": 18,
+  "description": "Based Splash Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Splash%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Splash Dog",
+  "addresses": {
+    "8453": "0x35cbcead1686ae0286f5cfa82108eb4b409e8802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Splash Dog",
+    "sanitizedSymbol": "BASED_SPLASH_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231951",
+    "lockerAddress": "0x97da0aE666D2d688300ed39FE3E1Bc016670cea3"
+  },
+  "clankerInfo": null
+}

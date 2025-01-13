@@ -1,0 +1,22 @@
+{
+  "name": "EIMI",
+  "symbol": "EIMI",
+  "decimals": 18,
+  "description": "EIMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EIMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EIMI",
+  "addresses": {
+    "8453": "0x28fad266d02dcbd951b7aa45b7ffd8d8b73bdb4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EIMI",
+    "sanitizedSymbol": "EIMI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8709daeFa1ee994aA97D75772d118f0cd5206237",
+    "lpNftId": "1323550",
+    "lockerAddress": "0xBc5bd06eA1870a7daeB7fC5053e289ed57EE815B"
+  },
+  "clankerInfo": null
+}

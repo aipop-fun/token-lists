@@ -1,0 +1,22 @@
+{
+  "name": "Snowball",
+  "symbol": "Snowball",
+  "decimals": 18,
+  "description": "Snowball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snowball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snowball",
+  "addresses": {
+    "8453": "0x25a3617770c6d82dbf3a8dfc42d48c503cb11c82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snowball",
+    "sanitizedSymbol": "SNOWBALL",
+    "created_at": "2024-12-09T09:38:49.764531",
+    "deployer": "0x69EAF7cB4561B9eC68215DB715F55843a20c1e59",
+    "lpNftId": "1385337",
+    "lockerAddress": "0xE488100B997176789c371315195FD29A8e8112B0"
+  },
+  "clankerInfo": null
+}

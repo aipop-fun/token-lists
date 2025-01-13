@@ -1,0 +1,22 @@
+{
+  "name": "Konichiwa",
+  "symbol": "Konichiwa",
+  "decimals": 18,
+  "description": "Konichiwa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Konichiwa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Konichiwa",
+  "addresses": {
+    "8453": "0x3f1b533a07e4306a294c8ff2f464929cf509720a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Konichiwa",
+    "sanitizedSymbol": "KONICHIWA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xff6bf4315E458f9001882f00415763ff26ae44fe",
+    "lpNftId": "1290252",
+    "lockerAddress": "0x9bd644088BaFdBb53e23Bf09b8997430E6591504"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MASK",
+  "symbol": "MASK",
+  "decimals": 18,
+  "description": "MASK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MASK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MASK",
+  "addresses": {
+    "8453": "0x13d5670f88b79019e0b0879ad67ba6fad0204b6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MASK",
+    "sanitizedSymbol": "MASK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAd9DEB26b275e89F7EFE055cb6307db57ef3e765",
+    "lpNftId": "1308659",
+    "lockerAddress": "0xA08fD5A6cDA31da57d12965a0572877754003d1E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GVNG",
+  "symbol": "GVNG",
+  "decimals": 18,
+  "description": "GVNG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GVNG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GVNG",
+  "addresses": {
+    "8453": "0x1b4587e6c27fa3fd7df909f28574d630fc4b78d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GVNG",
+    "sanitizedSymbol": "GVNG",
+    "created_at": "2024-12-09T16:36:09.059522",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1389250",
+    "lockerAddress": "0xb1D249e03d78C3084F2EbF70Dc3D1174Ee7D09C2"
+  },
+  "clankerInfo": null
+}

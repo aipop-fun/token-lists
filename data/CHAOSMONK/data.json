@@ -1,0 +1,22 @@
+{
+  "name": "Chaosmonk",
+  "symbol": "Chaosmonk",
+  "decimals": 18,
+  "description": "Chaosmonk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chaosmonk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chaosmonk",
+  "addresses": {
+    "8453": "0x081d38f6974a78f2787f2e61849e4bebf2dfa94b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chaosmonk",
+    "sanitizedSymbol": "CHAOSMONK",
+    "created_at": "2024-12-10T03:06:18.96105",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395463",
+    "lockerAddress": "0x2471Fb573c3283E372188dDe9f5a08e3229c2521"
+  },
+  "clankerInfo": null
+}

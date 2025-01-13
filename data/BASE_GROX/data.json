@@ -1,0 +1,22 @@
+{
+  "name": "Base Grox",
+  "symbol": "Base Grox",
+  "decimals": 18,
+  "description": "Base Grox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Grox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Grox",
+  "addresses": {
+    "8453": "0x15395ea3e9c8b6612f0ca710f1c56bd6132a2b2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Grox",
+    "sanitizedSymbol": "BASE_GROX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147659",
+    "lockerAddress": "0x22e7BA65b5CB8106cfF1d1DC63a543EE0F54f014"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GoodDie",
+  "symbol": "GoodDie",
+  "decimals": 18,
+  "description": "GoodDie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoodDie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoodDie",
+  "addresses": {
+    "8453": "0x38715e7bc3679f52ecbd532191501867f16db307"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoodDie",
+    "sanitizedSymbol": "GOODDIE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa2758921Dd7E3cA0C28071cbbE0fCe3291F8d589",
+    "lpNftId": "1328189",
+    "lockerAddress": "0xE31182Da8d0ad280a5AEd7506bDC3bc45aCd7C0d"
+  },
+  "clankerInfo": null
+}

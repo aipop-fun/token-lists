@@ -1,0 +1,22 @@
+{
+  "name": "clown ghost",
+  "symbol": "clown ghost",
+  "decimals": 18,
+  "description": "clown ghost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clown%20ghost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clown ghost",
+  "addresses": {
+    "8453": "0x3a1e06b8d4f28f866f3a8c9fbaf333740a27cd3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clown ghost",
+    "sanitizedSymbol": "CLOWN_GHOST",
+    "created_at": "2024-12-12T19:02:40.793283",
+    "deployer": "0xdE8668a54Fced968c9C2F43d62b1d2E6319a4Afe",
+    "lpNftId": "1441216",
+    "lockerAddress": "0x7D1Cb47e2225f78AD13B40FCEd7f2ed54F1A7eb5"
+  },
+  "clankerInfo": null
+}

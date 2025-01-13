@@ -1,0 +1,22 @@
+{
+  "name": "PrimeX",
+  "symbol": "PrimeX",
+  "decimals": 18,
+  "description": "PrimeX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PrimeX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PrimeX",
+  "addresses": {
+    "8453": "0x153df5ab4f6d6c1f172339743325851a5bec82cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PrimeX",
+    "sanitizedSymbol": "PRIMEX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4953Ac83575e497fb916248e4b0dA4b0C34722DF",
+    "lpNftId": "1319496",
+    "lockerAddress": "0xF711D502E332b40A82988Cc79Ab95A9AfC3A6D2d"
+  },
+  "clankerInfo": null
+}

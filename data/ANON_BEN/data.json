@@ -1,0 +1,22 @@
+{
+  "name": "Anon Ben",
+  "symbol": "Anon Ben",
+  "decimals": 18,
+  "description": "Anon Ben is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Ben",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Ben",
+  "addresses": {
+    "8453": "0x3210bcc492da943613be6d72a61f8c47c137853c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Ben",
+    "sanitizedSymbol": "ANON_BEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1245845",
+    "lockerAddress": "0xD906b4e09eE77739997E81fbAbD40054AEE6cb8e"
+  },
+  "clankerInfo": null
+}

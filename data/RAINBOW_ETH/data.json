@@ -1,0 +1,22 @@
+{
+  "name": "Rainbow eth",
+  "symbol": "Rainbow eth",
+  "decimals": 18,
+  "description": "Rainbow eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rainbow%20eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rainbow eth",
+  "addresses": {
+    "8453": "0x148da74fd8136b71a63ee38572d385d1b64d5ed8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rainbow eth",
+    "sanitizedSymbol": "RAINBOW_ETH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaBe1eb1caB90dcafF58065749f1017080E22A934",
+    "lpNftId": "1314198",
+    "lockerAddress": "0x2D38d01E17e0Bb04681C64a2dCB21c9fb2559161"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Trap Signal",
+  "symbol": "Trap Signal",
+  "decimals": 18,
+  "description": "Trap Signal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trap%20Signal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trap Signal",
+  "addresses": {
+    "8453": "0x052807ae087423cca3df7626f02e45d1c7c8d4b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trap Signal",
+    "sanitizedSymbol": "TRAP_SIGNAL",
+    "created_at": "2024-12-11T08:35:39.731487",
+    "deployer": "0x58604DE4e48b81E2Ef05CB521df59A256667a650",
+    "lpNftId": "1415095",
+    "lockerAddress": "0x80f12E3374c43848bAbef1A643fc6B52FE67182F"
+  },
+  "clankerInfo": null
+}

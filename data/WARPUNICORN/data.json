@@ -1,0 +1,22 @@
+{
+  "name": "WarpUniCorn",
+  "symbol": "WarpUniCorn",
+  "decimals": 18,
+  "description": "WarpUniCorn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpUniCorn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpUniCorn",
+  "addresses": {
+    "8453": "0x3de4b38005b31e073d48b50ed05aa2e50772d200"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpUniCorn",
+    "sanitizedSymbol": "WARPUNICORN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB07ec928f7ce5f2996eBa928c1B64a14eFb0A940",
+    "lpNftId": "1286743",
+    "lockerAddress": "0xA8538dF054594418000B88Ff8A4a415f76a801EF"
+  },
+  "clankerInfo": null
+}

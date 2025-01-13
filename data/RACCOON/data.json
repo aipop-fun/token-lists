@@ -1,0 +1,22 @@
+{
+  "name": "Raccoon",
+  "symbol": "Raccoon",
+  "decimals": 18,
+  "description": "Raccoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Raccoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Raccoon",
+  "addresses": {
+    "8453": "0x1c3a8006260746cd82302475abf58cd666066d0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Raccoon",
+    "sanitizedSymbol": "RACCOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdf4978810384e29c3b7aaB493D33e061d90CD7E6",
+    "lpNftId": "1285661",
+    "lockerAddress": "0xa5099330c829A5AB71974E6Bdd0eC77102b751cA"
+  },
+  "clankerInfo": null
+}

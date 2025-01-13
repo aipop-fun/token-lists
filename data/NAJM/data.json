@@ -1,0 +1,22 @@
+{
+  "name": "Najm",
+  "symbol": "Najm",
+  "decimals": 18,
+  "description": "Najm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Najm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Najm",
+  "addresses": {
+    "8453": "0x40464919b91e90d9663522f1dda4d0abd5e12e99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Najm",
+    "sanitizedSymbol": "NAJM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x409ADBBEF0d920Dc05a90083F1388f2D2c0205D1",
+    "lpNftId": "1292411",
+    "lockerAddress": "0x456E42284Cb3d905a3bCDb3Ed3d7024e0a501a44"
+  },
+  "clankerInfo": null
+}

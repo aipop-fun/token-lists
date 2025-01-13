@@ -1,0 +1,22 @@
+{
+  "name": "LOLYCOIN",
+  "symbol": "LOLYCOIN",
+  "decimals": 18,
+  "description": "LOLYCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOLYCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOLYCOIN",
+  "addresses": {
+    "8453": "0x0ae4e5f70f167265d526a3c763b1966e670c4e75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOLYCOIN",
+    "sanitizedSymbol": "LOLYCOIN",
+    "created_at": "2024-12-09T06:05:56.533817",
+    "deployer": "0x3298A9F4e9C2d67f77046d0a325a6dc28A7312d5",
+    "lpNftId": "1383567",
+    "lockerAddress": "0x3b7408e803e06710DCb892276561637C9477603F"
+  },
+  "clankerInfo": null
+}

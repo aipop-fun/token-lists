@@ -1,0 +1,22 @@
+{
+  "name": "DiamondDues",
+  "symbol": "DiamondDues",
+  "decimals": 18,
+  "description": "DiamondDues is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DiamondDues",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DiamondDues",
+  "addresses": {
+    "8453": "0x2e52eec85921532bfcbfa279e0f79e1a41452b67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DiamondDues",
+    "sanitizedSymbol": "DIAMONDDUES",
+    "created_at": "2024-12-10T03:00:45.859626",
+    "deployer": "0x04A6bF03FFe104d18729B0ab5bAA2894A997945e",
+    "lpNftId": "1395429",
+    "lockerAddress": "0x4e367d2E2eF4C6896fFc50ddDe95d52B0ccfc803"
+  },
+  "clankerInfo": null
+}

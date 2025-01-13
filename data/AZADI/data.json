@@ -1,0 +1,22 @@
+{
+  "name": "azadi",
+  "symbol": "azadi",
+  "decimals": 18,
+  "description": "azadi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=azadi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "azadi",
+  "addresses": {
+    "8453": "0x2cb172ec9a68ac30d2b73c43ce27c54002fd15b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "azadi",
+    "sanitizedSymbol": "AZADI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x81737De19B43BC32508f393d872eed1190DD13A3",
+    "lpNftId": "1264889",
+    "lockerAddress": "0xC976c0FcAfe562d19519B5f44a61F17d95378315"
+  },
+  "clankerInfo": null
+}

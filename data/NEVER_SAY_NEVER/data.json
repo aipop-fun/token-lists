@@ -1,0 +1,22 @@
+{
+  "name": "Never Say Never",
+  "symbol": "Never Say Never",
+  "decimals": 18,
+  "description": "Never Say Never is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Never%20Say%20Never",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Never Say Never",
+  "addresses": {
+    "8453": "0x0285737965b72b28f165032ece20bb28a8e41d93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Never Say Never",
+    "sanitizedSymbol": "NEVER_SAY_NEVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x27e7e7576e650a68BA32714FBCb6569581de0FDf",
+    "lpNftId": "1329905",
+    "lockerAddress": "0xAD68bEf8374Ebdc80FD309FA633B6A0586569AFc"
+  },
+  "clankerInfo": null
+}

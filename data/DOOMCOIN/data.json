@@ -1,0 +1,22 @@
+{
+  "name": "DoomCoin",
+  "symbol": "DoomCoin",
+  "decimals": 18,
+  "description": "DoomCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DoomCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DoomCoin",
+  "addresses": {
+    "8453": "0x30619d3456cf4ae7d163368564651f198544bf72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DoomCoin",
+    "sanitizedSymbol": "DOOMCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213525",
+    "lockerAddress": "0xC6Bda7e4d0A8386f8Ab4BB9bFeEA7952b32cF5da"
+  },
+  "clankerInfo": null
+}

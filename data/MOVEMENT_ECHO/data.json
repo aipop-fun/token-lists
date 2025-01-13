@@ -1,0 +1,22 @@
+{
+  "name": "Movement Echo",
+  "symbol": "Movement Echo",
+  "decimals": 18,
+  "description": "Movement Echo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Movement%20Echo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Movement Echo",
+  "addresses": {
+    "8453": "0x35188ad6f81077df4213a5f867de07bbdcb2f1c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Movement Echo",
+    "sanitizedSymbol": "MOVEMENT_ECHO",
+    "created_at": "2024-12-10T20:58:34.100914",
+    "deployer": "0xB07ec928f7ce5f2996eBa928c1B64a14eFb0A940",
+    "lpNftId": "1407169",
+    "lockerAddress": "0xBc524a934A2A8762ef6190a2369517c73F710f8E"
+  },
+  "clankerInfo": null
+}

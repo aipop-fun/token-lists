@@ -1,0 +1,22 @@
+{
+  "name": "ClankPepe",
+  "symbol": "ClankPepe",
+  "decimals": 18,
+  "description": "ClankPepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankPepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankPepe",
+  "addresses": {
+    "8453": "0x1d8e0285ce620b128fabcf38dc681553c4db5cdf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankPepe",
+    "sanitizedSymbol": "CLANKPEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9CCF767f66812D656B2F2EbE30c1987d61393eCd",
+    "lpNftId": "1330319",
+    "lockerAddress": "0xB55bA0811f37FEA6E212Bd1F7fF26ea0d5AE2C80"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KUNG FU",
+  "symbol": "KUNG FU",
+  "decimals": 18,
+  "description": "KUNG FU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KUNG%20FU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KUNG FU",
+  "addresses": {
+    "8453": "0x32b433c446785867cfde176ad5105f91bc47e677"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KUNG FU",
+    "sanitizedSymbol": "KUNG_FU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB764543aCA7695b0D9ce97fF0e2629a048561cD9",
+    "lpNftId": "1315112",
+    "lockerAddress": "0xc1282BEa2153F5d7021E19adb772DCF9dBf801c1"
+  },
+  "clankerInfo": null
+}

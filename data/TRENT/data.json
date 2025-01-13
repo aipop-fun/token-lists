@@ -1,0 +1,22 @@
+{
+  "name": "Trent",
+  "symbol": "Trent",
+  "decimals": 18,
+  "description": "Trent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trent",
+  "addresses": {
+    "8453": "0x3eaf85a6c136325701a8cfd03c19066c450b63dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trent",
+    "sanitizedSymbol": "TRENT",
+    "created_at": "2024-12-11T15:33:53.465078",
+    "deployer": "0x50a81EbcE6b023e4f4E7e97a9344a2Ff135ac022",
+    "lpNftId": "1421061",
+    "lockerAddress": "0x036F8Bf3bB6Af279c7292D5DEb47ed5d22d92f36"
+  },
+  "clankerInfo": null
+}

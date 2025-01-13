@@ -1,0 +1,22 @@
+{
+  "name": "LIGHTWEIGHT",
+  "symbol": "LIGHTWEIGHT",
+  "decimals": 18,
+  "description": "LIGHTWEIGHT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIGHTWEIGHT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIGHTWEIGHT",
+  "addresses": {
+    "8453": "0x13bd4e5aa29be1a07203845941db1f8ffbb1220f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIGHTWEIGHT",
+    "sanitizedSymbol": "LIGHTWEIGHT_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206499",
+    "lockerAddress": "0xC86CcD8ed65E8F8ca1Bf0A44351D2A801B0B7B7c"
+  },
+  "clankerInfo": null
+}

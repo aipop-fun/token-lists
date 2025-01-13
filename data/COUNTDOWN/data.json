@@ -1,0 +1,22 @@
+{
+  "name": "Countdown",
+  "symbol": "Countdown",
+  "decimals": 18,
+  "description": "Countdown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Countdown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Countdown",
+  "addresses": {
+    "8453": "0x2ae9875e125b58eb518a26a736949c373de3c209"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Countdown",
+    "sanitizedSymbol": "COUNTDOWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205924",
+    "lockerAddress": "0x5ce5229344228aaa2dEEE4c76c362733156eB147"
+  },
+  "clankerInfo": null
+}

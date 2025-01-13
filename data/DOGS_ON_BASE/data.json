@@ -1,0 +1,22 @@
+{
+  "name": "DOGS ON BASE",
+  "symbol": "DOGS ON BASE",
+  "decimals": 18,
+  "description": "DOGS ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGS%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGS ON BASE",
+  "addresses": {
+    "8453": "0x12658eccf3126f940a635c2a67e1bd82e67d84d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGS ON BASE",
+    "sanitizedSymbol": "DOGS_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe1e3d0C2548762d495e0D2564A17E54B155E6fd4",
+    "lpNftId": "1335875",
+    "lockerAddress": "0xDD0D6cAbE7Be74F80d1eaDCa876d8Ee2B5BA4964"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LADYGAGO",
+  "symbol": "LADYGAGO",
+  "decimals": 18,
+  "description": "LADYGAGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LADYGAGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LADYGAGO",
+  "addresses": {
+    "8453": "0x16c2a9f137db4d9b552bc511c999a8870445ce28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LADYGAGO",
+    "sanitizedSymbol": "LADYGAGO",
+    "created_at": "2024-12-10T03:18:15.090582",
+    "deployer": "0x448eB535cFd2f6EBDBCB17e36aF5e2B57b474D3e",
+    "lpNftId": "1395599",
+    "lockerAddress": "0xc476A02c4D2C3A93Eb71Ae0A92518Afc8BfbfeB5"
+  },
+  "clankerInfo": null
+}

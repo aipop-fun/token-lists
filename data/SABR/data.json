@@ -1,0 +1,22 @@
+{
+  "name": "Sabr",
+  "symbol": "Sabr",
+  "decimals": 18,
+  "description": "Sabr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sabr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sabr",
+  "addresses": {
+    "8453": "0x2e9a8639c456cc165fb17e4c3ab918bcf92fe06c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sabr",
+    "sanitizedSymbol": "SABR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6d30a83912Aea1C7193ec7F686e1c2aD8e553a2",
+    "lpNftId": "1286702",
+    "lockerAddress": "0x532348956Ce0199F029f24B6c3F026d26e057739"
+  },
+  "clankerInfo": null
+}

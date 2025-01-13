@@ -1,0 +1,22 @@
+{
+  "name": "MomnBaby",
+  "symbol": "MomnBaby",
+  "decimals": 18,
+  "description": "MomnBaby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MomnBaby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MomnBaby",
+  "addresses": {
+    "8453": "0x05cb0ccc64df5b9a176f1ba4b16979cdf6bc884e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MomnBaby",
+    "sanitizedSymbol": "MOMNBABY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xaFdb1D362f62E09a9489254D7D003D208128B44f",
+    "lpNftId": "1264032",
+    "lockerAddress": "0xb6E817b4a8B7301acDeF60856C8aDF110F033F4f"
+  },
+  "clankerInfo": null
+}

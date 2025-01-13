@@ -1,0 +1,22 @@
+{
+  "name": "Santa Rich",
+  "symbol": "Santa Rich",
+  "decimals": 18,
+  "description": "Santa Rich is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Rich",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Rich",
+  "addresses": {
+    "8453": "0x05b8472a0870b00a6bb45abd660f38a7e1cf5c01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Rich",
+    "sanitizedSymbol": "SANTA_RICH",
+    "created_at": "2024-12-10T18:04:49.420842",
+    "deployer": "0x4e0EA281a5782A3BA15e92194b2f179305764723",
+    "lpNftId": "1405226",
+    "lockerAddress": "0xbC0486ba60c4abad8faEaFE74Dc1a151eeb86909"
+  },
+  "clankerInfo": null
+}

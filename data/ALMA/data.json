@@ -1,0 +1,22 @@
+{
+  "name": "ALMA",
+  "symbol": "ALMA",
+  "decimals": 18,
+  "description": "ALMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALMA",
+  "addresses": {
+    "8453": "0x0efb9bb92f62990cbce3bc006c5032af88bbf334"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALMA",
+    "sanitizedSymbol": "ALMA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBc57373c9B99524f6300664e2602A0427A9ec0db",
+    "lpNftId": "1369867",
+    "lockerAddress": "0x7b019098da49487f16E579a3E932a0e61AC62551"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mermaids",
+  "symbol": "Mermaids",
+  "decimals": 18,
+  "description": "Mermaids is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mermaids",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mermaids",
+  "addresses": {
+    "8453": "0x01a80ee30f6a985bc6ed4fe0aa87d250a399a507"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mermaids",
+    "sanitizedSymbol": "MERMAIDS",
+    "created_at": "2024-12-10T11:44:41.126198",
+    "deployer": "0xef01E68C21C852F7CD8DFab113D071Ea2E617209",
+    "lpNftId": "1400383",
+    "lockerAddress": "0xF543565a2da9133047C6434775814D263894d848"
+  },
+  "clankerInfo": null
+}

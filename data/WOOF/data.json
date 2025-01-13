@@ -1,0 +1,22 @@
+{
+  "name": "WOOF",
+  "symbol": "WOOF",
+  "decimals": 18,
+  "description": "WOOF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WOOF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WOOF",
+  "addresses": {
+    "8453": "0x3ab7ad75df9f70b01083edd38cf6aec3f6d3d551"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WOOF",
+    "sanitizedSymbol": "WOOF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE2c40be13a1A293942b60E210F50b128A55fA402",
+    "lpNftId": "1289771",
+    "lockerAddress": "0xDb3e2243408A4507ea9E7C53e78b21F11347BAD0"
+  },
+  "clankerInfo": null
+}

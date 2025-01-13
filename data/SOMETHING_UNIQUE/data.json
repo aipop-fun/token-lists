@@ -1,0 +1,22 @@
+{
+  "name": "something unique",
+  "symbol": "something unique",
+  "decimals": 18,
+  "description": "something unique is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=something%20unique",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "something unique",
+  "addresses": {
+    "8453": "0x24e8f602a85a6262ff188e79cf003e8bf6186384"
+  },
+  "tokenInfo": {
+    "originalSymbol": "something unique",
+    "sanitizedSymbol": "SOMETHING_UNIQUE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1315367",
+    "lockerAddress": "0x3f892CbB3f22fe171a05718C25844b40246E4653"
+  },
+  "clankerInfo": null
+}

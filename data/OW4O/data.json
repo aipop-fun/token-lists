@@ -1,0 +1,22 @@
+{
+  "name": "ow4o",
+  "symbol": "ow4o",
+  "decimals": 18,
+  "description": "ow4o is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ow4o",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ow4o",
+  "addresses": {
+    "8453": "0x3b3f8ee03ec1aec15920012ca14e6055c7ba2cab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ow4o",
+    "sanitizedSymbol": "OW4O",
+    "created_at": "2024-12-12T10:25:49.967003",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1432668",
+    "lockerAddress": "0x235767B6765943147D6fd4cC7Ec27F927676fAc8"
+  },
+  "clankerInfo": null
+}

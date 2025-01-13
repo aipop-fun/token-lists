@@ -1,0 +1,22 @@
+{
+  "name": "Christmas Tree",
+  "symbol": "Christmas Tree",
+  "decimals": 18,
+  "description": "Christmas Tree is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Christmas%20Tree",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Christmas Tree",
+  "addresses": {
+    "8453": "0x24d3613235ce074cf4fcdabfcefd2f02c8bf46c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Christmas Tree",
+    "sanitizedSymbol": "CHRISTMAS_TREE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C35739128867BfB69fDfC6Df6386Ee6C4c4cceD",
+    "lpNftId": "1287432",
+    "lockerAddress": "0x2efdbE6082C302e0c1f0AC0a21436f372a75285b"
+  },
+  "clankerInfo": null
+}

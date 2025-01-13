@@ -1,0 +1,22 @@
+{
+  "name": "SaturdayNightGossip",
+  "symbol": "SaturdayNightGossip",
+  "decimals": 18,
+  "description": "SaturdayNightGossip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SaturdayNightGossip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SaturdayNightGossip",
+  "addresses": {
+    "8453": "0x1ec33b48d21dd8037bfde2d11c6ba89f95af7e55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SaturdayNightGossip",
+    "sanitizedSymbol": "SATURDAYNIGHTGOSSIP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6ecD0e894F2432A7e4f2f6bFAa24FEb27Cc84750",
+    "lpNftId": "1359740",
+    "lockerAddress": "0xC3A67aEA0eE152D3A13Dd6be01DFEC65E8e9fe09"
+  },
+  "clankerInfo": null
+}

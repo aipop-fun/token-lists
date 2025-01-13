@@ -1,0 +1,22 @@
+{
+  "name": "The Last Memecoin",
+  "symbol": "The Last Memecoin",
+  "decimals": 18,
+  "description": "The Last Memecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Last%20Memecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Last Memecoin",
+  "addresses": {
+    "8453": "0x1a3216bcbf683cb41384e2c06fee0050675628f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Last Memecoin",
+    "sanitizedSymbol": "THE_LAST_MEMECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x02aC33835070D0C90BEf87C273514E67Aea36eF8",
+    "lpNftId": "1311372",
+    "lockerAddress": "0xc0cE528c5870B6f8a397721042E44c635Fe921D7"
+  },
+  "clankerInfo": null
+}

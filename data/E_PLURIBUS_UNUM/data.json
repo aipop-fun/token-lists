@@ -1,0 +1,22 @@
+{
+  "name": "E Pluribus Unum",
+  "symbol": "E Pluribus Unum",
+  "decimals": 18,
+  "description": "E Pluribus Unum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=E%20Pluribus%20Unum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "E Pluribus Unum",
+  "addresses": {
+    "8453": "0x29e862af07e80b85d62113b62875d8350521c6fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "E Pluribus Unum",
+    "sanitizedSymbol": "E_PLURIBUS_UNUM",
+    "created_at": "2024-12-10T14:58:24.125791",
+    "deployer": "0xF834d652A8Ccc2337f5B6E9718cd1725f082aC3F",
+    "lpNftId": "1402287",
+    "lockerAddress": "0x3Ba434CbE58dE344f83428e4c926d044c79a47fa"
+  },
+  "clankerInfo": null
+}

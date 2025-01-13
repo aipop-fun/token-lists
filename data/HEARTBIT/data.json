@@ -1,0 +1,22 @@
+{
+  "name": "Heartbit",
+  "symbol": "Heartbit",
+  "decimals": 18,
+  "description": "Heartbit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Heartbit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Heartbit",
+  "addresses": {
+    "8453": "0x4092df46b562efcaff3698fbbd549f18dacbbfce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Heartbit",
+    "sanitizedSymbol": "HEARTBIT",
+    "created_at": "2024-12-09T20:12:57.113915",
+    "deployer": "0xA9967b931F3c8d162567704eDF7D8EC1268f2b06",
+    "lpNftId": "1391478",
+    "lockerAddress": "0x2202aFBCB5Cb3eBcec1e4371c1BFB9f0B0f9746D"
+  },
+  "clankerInfo": null
+}

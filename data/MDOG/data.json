@@ -1,0 +1,22 @@
+{
+  "name": "MDOG",
+  "symbol": "MDOG",
+  "decimals": 18,
+  "description": "MDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MDOG",
+  "addresses": {
+    "8453": "0x2fc385db4a219cca18f6ed9f136489f92a0141b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MDOG",
+    "sanitizedSymbol": "MDOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0e2AeEAa52752E111FFA3609409Bc6bB55A87cE7",
+    "lpNftId": "1306857",
+    "lockerAddress": "0x3d809Fb0A72639a739A982D3d61Df8793b63252E"
+  },
+  "clankerInfo": null
+}

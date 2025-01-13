@@ -1,0 +1,22 @@
+{
+  "name": "Coconut Drink",
+  "symbol": "Coconut Drink",
+  "decimals": 18,
+  "description": "Coconut Drink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coconut%20Drink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coconut Drink",
+  "addresses": {
+    "8453": "0x32664878c4a4908fd07939c3a31ded86f4b161b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coconut Drink",
+    "sanitizedSymbol": "COCONUT_DRINK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf9427730B4bC47b1849f716E38f0ACD9D8985DF0",
+    "lpNftId": "1329988",
+    "lockerAddress": "0x43E81Ceb4a3356cF8aF35b6110876F6C1aeBb8B6"
+  },
+  "clankerInfo": null
+}

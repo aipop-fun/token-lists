@@ -1,0 +1,22 @@
+{
+  "name": "TRAC",
+  "symbol": "TRAC",
+  "decimals": 18,
+  "description": "TRAC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRAC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRAC",
+  "addresses": {
+    "8453": "0x3806d05a9aebc689cc67aaa72fe6a6adcbc55448"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRAC",
+    "sanitizedSymbol": "TRAC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152161",
+    "lockerAddress": "0xD6D7e8357792789bbe4478e0D4Ec42490e9e4cB1"
+  },
+  "clankerInfo": null
+}

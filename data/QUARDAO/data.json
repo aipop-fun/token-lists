@@ -1,0 +1,22 @@
+{
+  "name": "Quardao",
+  "symbol": "Quardao",
+  "decimals": 18,
+  "description": "Quardao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quardao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quardao",
+  "addresses": {
+    "8453": "0x26075218cf1b5a033f5179d1e56646ac30794281"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quardao",
+    "sanitizedSymbol": "QUARDAO",
+    "created_at": "2024-12-09T17:49:45.305987",
+    "deployer": "0x38553C869d5d28ab4127EDC8Da295f656a3dBA18",
+    "lpNftId": "1389935",
+    "lockerAddress": "0x57578D468fdbF6A2986c8B88888923b085cB14ae"
+  },
+  "clankerInfo": null
+}

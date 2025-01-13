@@ -1,0 +1,22 @@
+{
+  "name": "200W MAXIMUS",
+  "symbol": "200W MAXIMUS",
+  "decimals": 18,
+  "description": "200W MAXIMUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=200W%20MAXIMUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "200W MAXIMUS",
+  "addresses": {
+    "8453": "0x0368660ede322d68d10aa9027e237308cb5d26d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "200W MAXIMUS",
+    "sanitizedSymbol": "200W_MAXIMUS_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222849",
+    "lockerAddress": "0x1B35576d7b11b9a6086238cEd01FFAcC725a093B"
+  },
+  "clankerInfo": null
+}

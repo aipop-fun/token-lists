@@ -1,0 +1,22 @@
+{
+  "name": "MADRID",
+  "symbol": "MADRID",
+  "decimals": 18,
+  "description": "MADRID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MADRID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MADRID",
+  "addresses": {
+    "8453": "0x0096e1d1142842aae99d84d75542b1d9656afb6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MADRID",
+    "sanitizedSymbol": "MADRID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb7A722BA0bE9951C9ab2c47818C27Dfcde679D9D",
+    "lpNftId": "1309384",
+    "lockerAddress": "0x56D81c6FDF3C82b23467907f692Db92a797ee7A2"
+  },
+  "clankerInfo": null
+}

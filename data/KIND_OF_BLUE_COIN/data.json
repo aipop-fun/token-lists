@@ -1,0 +1,22 @@
+{
+  "name": "Kind of Blue Coin",
+  "symbol": "Kind of Blue Coin",
+  "decimals": 18,
+  "description": "Kind of Blue Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kind%20of%20Blue%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kind of Blue Coin",
+  "addresses": {
+    "8453": "0x30585b4ab5238abc56211f90f3ab7ca269d0abf7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kind of Blue Coin",
+    "sanitizedSymbol": "KIND_OF_BLUE_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130380",
+    "lockerAddress": "0x59B00cFFD07df9381090773978B0EFb775eE1cC0"
+  },
+  "clankerInfo": null
+}

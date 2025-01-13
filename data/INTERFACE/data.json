@@ -1,0 +1,22 @@
+{
+  "name": "interface",
+  "symbol": "interface",
+  "decimals": 18,
+  "description": "interface is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=interface",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "interface",
+  "addresses": {
+    "8453": "0x38980094063eb79f62c682897287460a48dc6cc0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "interface",
+    "sanitizedSymbol": "INTERFACE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142856",
+    "lockerAddress": "0xF395e8c82442123058B85334485F19DaC5Ab5AB2"
+  },
+  "clankerInfo": null
+}

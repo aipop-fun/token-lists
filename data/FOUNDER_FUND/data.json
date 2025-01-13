@@ -1,0 +1,22 @@
+{
+  "name": "Founder Fund",
+  "symbol": "Founder Fund",
+  "decimals": 18,
+  "description": "Founder Fund is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Founder%20Fund",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Founder Fund",
+  "addresses": {
+    "8453": "0x39c4bc9bffd61adf71ae9aa2334078de8f8d0ec9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Founder Fund",
+    "sanitizedSymbol": "FOUNDER_FUND",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB276ACDE7EF0D8c878f25b18c5779EcFBb557799",
+    "lpNftId": "1273575",
+    "lockerAddress": "0x9Db0eAc38B6d5CEc157ac6a153d441a9B30d095F"
+  },
+  "clankerInfo": null
+}

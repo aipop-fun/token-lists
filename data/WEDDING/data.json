@@ -1,0 +1,22 @@
+{
+  "name": "wedding",
+  "symbol": "wedding",
+  "decimals": 18,
+  "description": "wedding is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wedding",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wedding",
+  "addresses": {
+    "8453": "0x009a1fedef24f17df2dd26d663e01d64a67fec54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wedding",
+    "sanitizedSymbol": "WEDDING",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1266215",
+    "lockerAddress": "0x54b25580bbe2E223C120D4238b3477BB7D6053a7"
+  },
+  "clankerInfo": null
+}

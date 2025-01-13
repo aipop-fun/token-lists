@@ -1,0 +1,22 @@
+{
+  "name": "Goo0",
+  "symbol": "Goo0",
+  "decimals": 18,
+  "description": "Goo0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goo0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goo0",
+  "addresses": {
+    "8453": "0x0bd8b0d6434df8bfbb5961867f20117cb536f278"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goo0",
+    "sanitizedSymbol": "GOO0",
+    "created_at": "2024-12-09T05:22:20.94391",
+    "deployer": "0x10CfBfe6e2fDF2e7adef48E35A5c325A50782ABF",
+    "lpNftId": "1383152",
+    "lockerAddress": "0x10Aa9088BdD4F97DB979d6c5c07C1d74Ca68349E"
+  },
+  "clankerInfo": null
+}

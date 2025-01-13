@@ -1,0 +1,22 @@
+{
+  "name": "Fuxx",
+  "symbol": "Fuxx",
+  "decimals": 18,
+  "description": "Fuxx is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fuxx",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fuxx",
+  "addresses": {
+    "8453": "0x10a124b541292ffbb6713ea67d692d79aa9f37a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fuxx",
+    "sanitizedSymbol": "FUXX",
+    "created_at": "2024-12-11T06:35:59.467947",
+    "deployer": "0x7F8d77c4FCe195a17C8E763DC05ad097c54Cbc55",
+    "lpNftId": "1413917",
+    "lockerAddress": "0x6F7ee19D1D348db92276EfE1e70DE0959cfd5cDa"
+  },
+  "clankerInfo": null
+}

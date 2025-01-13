@@ -1,0 +1,22 @@
+{
+  "name": "Grinch",
+  "symbol": "Grinch",
+  "decimals": 18,
+  "description": "Grinch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Grinch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Grinch",
+  "addresses": {
+    "8453": "0x25f616799561a4b5d5d4a12aa585186905e25274"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Grinch",
+    "sanitizedSymbol": "GRINCH_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1332116",
+    "lockerAddress": "0xa397AB4cA6126172179C9A652FB721B602b771A3"
+  },
+  "clankerInfo": null
+}

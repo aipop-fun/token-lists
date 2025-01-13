@@ -1,0 +1,22 @@
+{
+  "name": "Jesekom",
+  "symbol": "Jesekom",
+  "decimals": 18,
+  "description": "Jesekom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jesekom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jesekom",
+  "addresses": {
+    "8453": "0x27563712d1b6484b76599fb841bfb71ccc52f31b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jesekom",
+    "sanitizedSymbol": "JESEKOM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1995a53871Ca012459dF157B62dD9a3C29D983cF",
+    "lpNftId": "1253056",
+    "lockerAddress": "0xa6bd3bB0c57C05257d6093CcCF9Ab184817cD3C1"
+  },
+  "clankerInfo": null
+}

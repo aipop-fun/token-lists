@@ -1,0 +1,22 @@
+{
+  "name": "no utility coin",
+  "symbol": "no utility coin",
+  "decimals": 18,
+  "description": "no utility coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=no%20utility%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "no utility coin",
+  "addresses": {
+    "8453": "0x0b3aab1055914c81c4c5d01bd1aaecf79c290744"
+  },
+  "tokenInfo": {
+    "originalSymbol": "no utility coin",
+    "sanitizedSymbol": "NO_UTILITY_COIN",
+    "created_at": "2024-12-09T05:09:18.768052",
+    "deployer": "0x5df0f96c5DE9F03d5d1678656dA0B4b5B0647cE1",
+    "lpNftId": "1382980",
+    "lockerAddress": "0x339Cac4CF44829691ec6De5E4F066e94BCb9535E"
+  },
+  "clankerInfo": null
+}

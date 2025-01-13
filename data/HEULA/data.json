@@ -1,0 +1,22 @@
+{
+  "name": "HEULA",
+  "symbol": "HEULA",
+  "decimals": 18,
+  "description": "HEULA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEULA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEULA",
+  "addresses": {
+    "8453": "0x192782c3e9cdc2cdea5b755e0dd97e4c5a84c1c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEULA",
+    "sanitizedSymbol": "HEULA",
+    "created_at": "2024-12-09T04:46:23.230003",
+    "deployer": "0x31795fDA1b80F9f7727f5cf25D4f0b198C2d6801",
+    "lpNftId": "1382514",
+    "lockerAddress": "0xea98cEf1E437db14882C1DBeb83C4e0D60A869C3"
+  },
+  "clankerInfo": null
+}

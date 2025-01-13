@@ -1,0 +1,22 @@
+{
+  "name": "qdoge quantum doge",
+  "symbol": "qdoge quantum doge",
+  "decimals": 18,
+  "description": "qdoge quantum doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=qdoge%20quantum%20doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "qdoge quantum doge",
+  "addresses": {
+    "8453": "0x3faf2f660878f75ab8bd44c5432d772c919da17c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "qdoge quantum doge",
+    "sanitizedSymbol": "QDOGE_QUANTUM_DOGE",
+    "created_at": "2024-12-09T19:47:19.159415",
+    "deployer": "0x434d3ff681a1e3a68fF5bf2a160De7d8A780337D",
+    "lpNftId": "1391125",
+    "lockerAddress": "0x4DCcb691d80747f3313BB82f738907f149f0AEec"
+  },
+  "clankerInfo": null
+}

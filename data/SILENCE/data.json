@@ -1,0 +1,22 @@
+{
+  "name": "Silence",
+  "symbol": "Silence",
+  "decimals": 18,
+  "description": "Silence is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Silence",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Silence",
+  "addresses": {
+    "8453": "0x32d3fa9f7561f366cf50f337a8db68f6bc8d938c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Silence",
+    "sanitizedSymbol": "SILENCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD41cEF4f79a2cF4b9Ceb670E64029A93a62b8FB6",
+    "lpNftId": "1285970",
+    "lockerAddress": "0xB05EA79834c7A927B26131ff821F72F48246A8e2"
+  },
+  "clankerInfo": null
+}

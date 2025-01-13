@@ -1,0 +1,22 @@
+{
+  "name": "Dbase",
+  "symbol": "Dbase",
+  "decimals": 18,
+  "description": "Dbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dbase",
+  "addresses": {
+    "8453": "0x096909b2dc89468ece047e39afc04d4e10fcd3b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dbase",
+    "sanitizedSymbol": "DBASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb64f11B9832c8981f6a1Edd6AdFbF603bceB2e40",
+    "lpNftId": "1251297",
+    "lockerAddress": "0x9aEB4B73541bBb2f2ad296e93e82Ed94051d6Fcc"
+  },
+  "clankerInfo": null
+}

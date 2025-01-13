@@ -1,0 +1,22 @@
+{
+  "name": "BabyVitalik",
+  "symbol": "BabyVitalik",
+  "decimals": 18,
+  "description": "BabyVitalik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyVitalik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyVitalik",
+  "addresses": {
+    "8453": "0x3fdb71e39d7e43c32191b53c2957e340a10f2aac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyVitalik",
+    "sanitizedSymbol": "BABYVITALIK",
+    "created_at": "2024-12-11T01:22:20.831242",
+    "deployer": "0xF68c3d3003fBeC7682cf240e5395Ec138d731a47",
+    "lpNftId": "1409588",
+    "lockerAddress": "0x6F5E2a2E92133c63Aa17dD3F4c2763c802269e49"
+  },
+  "clankerInfo": null
+}

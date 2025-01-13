@@ -1,0 +1,22 @@
+{
+  "name": "FBI",
+  "symbol": "FBI",
+  "decimals": 18,
+  "description": "FBI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FBI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FBI",
+  "addresses": {
+    "8453": "0x014ffb4aa48742b914f6cf8f436d19069ede0b40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FBI",
+    "sanitizedSymbol": "FBI_1",
+    "created_at": "2024-12-11T20:41:18.214095",
+    "deployer": "0x5c2B8AAb08CA3B262a810a0F394C20698e1389c4",
+    "lpNftId": "1425569",
+    "lockerAddress": "0xFb775628e71E4bca09EfA6A4847Fb8493F4889f7"
+  },
+  "clankerInfo": null
+}

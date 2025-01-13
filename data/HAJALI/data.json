@@ -1,0 +1,22 @@
+{
+  "name": "hajali",
+  "symbol": "hajali",
+  "decimals": 18,
+  "description": "hajali is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hajali",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hajali",
+  "addresses": {
+    "8453": "0x0961d97a34306ae494e1f305095eab90c0f456fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hajali",
+    "sanitizedSymbol": "HAJALI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224447",
+    "lockerAddress": "0x088E35c40df7de5314b4c5083C09D126bCed07a0"
+  },
+  "clankerInfo": null
+}

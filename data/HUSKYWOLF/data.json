@@ -1,0 +1,22 @@
+{
+  "name": "HuskyWolf",
+  "symbol": "HuskyWolf",
+  "decimals": 18,
+  "description": "HuskyWolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HuskyWolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HuskyWolf",
+  "addresses": {
+    "8453": "0x2fd16c356244e2a2b545bdda7fdbaba58b031d72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HuskyWolf",
+    "sanitizedSymbol": "HUSKYWOLF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153671",
+    "lockerAddress": "0x573F657BF64678F127A75cB8d525D1fc2F6422f0"
+  },
+  "clankerInfo": null
+}

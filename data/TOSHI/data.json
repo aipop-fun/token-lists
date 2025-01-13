@@ -1,0 +1,22 @@
+{
+  "name": "TOSHI",
+  "symbol": "TOSHI",
+  "decimals": 18,
+  "description": "TOSHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOSHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOSHI",
+  "addresses": {
+    "8453": "0x248d69f27adbc09cc52e48235827ca6511465334"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOSHI",
+    "sanitizedSymbol": "TOSHI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeB7122BEB895f31aA83871cCd1219306d9e302Be",
+    "lpNftId": "1309962",
+    "lockerAddress": "0x7F3D2C38B3807624491b76eB9D76deA5D5Ec1CC4"
+  },
+  "clankerInfo": null
+}

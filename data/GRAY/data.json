@@ -1,0 +1,22 @@
+{
+  "name": "GRAY",
+  "symbol": "GRAY",
+  "decimals": 18,
+  "description": "GRAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GRAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GRAY",
+  "addresses": {
+    "8453": "0x04dcbf9cc1bf64b04654cc106b652e64e19a25cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GRAY",
+    "sanitizedSymbol": "GRAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232100",
+    "lockerAddress": "0x1BA621bcff555840a1b6dedcD1DEb841acabcB06"
+  },
+  "clankerInfo": null
+}

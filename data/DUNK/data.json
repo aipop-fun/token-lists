@@ -1,0 +1,22 @@
+{
+  "name": "dunk",
+  "symbol": "dunk",
+  "decimals": 18,
+  "description": "dunk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dunk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dunk",
+  "addresses": {
+    "8453": "0x28478b995596061179f74f71aec80ef6d389823d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dunk",
+    "sanitizedSymbol": "DUNK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1324516",
+    "lockerAddress": "0xFCCe92A291588c51839c7ce5F27515696Bb33C6f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "clankerpipi",
+  "symbol": "clankerpipi",
+  "decimals": 18,
+  "description": "clankerpipi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerpipi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerpipi",
+  "addresses": {
+    "8453": "0x027b39d15412d95fdfe5b7d3e1fbfb79737dbd18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerpipi",
+    "sanitizedSymbol": "CLANKERPIPI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9e0Ff23702EC73D6d20c758177A20F867f978665",
+    "lpNftId": "1253123",
+    "lockerAddress": "0x6E93786FB243d16b3aD855687623b895D70CC447"
+  },
+  "clankerInfo": null
+}

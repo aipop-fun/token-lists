@@ -1,0 +1,22 @@
+{
+  "name": "Costum Coin",
+  "symbol": "Costum Coin",
+  "decimals": 18,
+  "description": "Costum Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Costum%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Costum Coin",
+  "addresses": {
+    "8453": "0x1a1ff8bdf3c42a2f126fe2661abfcd983fdf4a05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Costum Coin",
+    "sanitizedSymbol": "COSTUM_COIN",
+    "created_at": "2024-12-11T19:23:39.59789",
+    "deployer": "0xBC69004Ca1b2eda4E1F2b7cC3072bab2BEF324CA",
+    "lpNftId": "1424679",
+    "lockerAddress": "0x602F9209493d7d86406aed2E92faAfBD282D7697"
+  },
+  "clankerInfo": null
+}

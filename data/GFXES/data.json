@@ -1,0 +1,22 @@
+{
+  "name": "GFXES",
+  "symbol": "GFXES",
+  "decimals": 18,
+  "description": "GFXES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GFXES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GFXES",
+  "addresses": {
+    "8453": "0x1dc6cf684e30eb2bf4ca24f8ac7131ad700470a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GFXES",
+    "sanitizedSymbol": "GFXES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5e101f29db1dB07b04faeBc987A9B5D0df36c5B0",
+    "lpNftId": "1265363",
+    "lockerAddress": "0xBD334436CA1C6eCE5E7fa45Cc577f65Fd5A3aE33"
+  },
+  "clankerInfo": null
+}

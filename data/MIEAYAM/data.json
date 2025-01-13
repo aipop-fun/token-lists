@@ -1,0 +1,22 @@
+{
+  "name": "MieAyam",
+  "symbol": "MieAyam",
+  "decimals": 18,
+  "description": "MieAyam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MieAyam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MieAyam",
+  "addresses": {
+    "8453": "0x03e4decabc1cf4ff84861874c224b0cdbd6ad022"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MieAyam",
+    "sanitizedSymbol": "MIEAYAM",
+    "created_at": "2024-12-11T23:50:03.562248",
+    "deployer": "0xF55E3C0617d2217C21d2960e9726a52B931aae94",
+    "lpNftId": "1427995",
+    "lockerAddress": "0xE63B6A7bBbC074F8e7fEF0D8837aEDa0F1196A4C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CAT X",
+  "symbol": "CAT X",
+  "decimals": 18,
+  "description": "CAT X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT%20X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT X",
+  "addresses": {
+    "8453": "0x333a874f293242a5f6b30c69506f78d3f2acdda0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT X",
+    "sanitizedSymbol": "CAT_X",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221340",
+    "lockerAddress": "0x3AF94411c0eD907C0E7DDE2a91be63D00824225D"
+  },
+  "clankerInfo": null
+}

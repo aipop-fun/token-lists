@@ -1,0 +1,22 @@
+{
+  "name": "HatStaysOn",
+  "symbol": "HatStaysOn",
+  "decimals": 18,
+  "description": "HatStaysOn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HatStaysOn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HatStaysOn",
+  "addresses": {
+    "8453": "0x2fc65e79f8ee37758bb8946ac194755f5dfd7ce5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HatStaysOn",
+    "sanitizedSymbol": "HATSTAYSON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120052",
+    "lockerAddress": "0x6399094af7e17f160C221f6A915f3f985b516822"
+  },
+  "clankerInfo": null
+}

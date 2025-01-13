@@ -1,0 +1,22 @@
+{
+  "name": "FOX",
+  "symbol": "FOX",
+  "decimals": 18,
+  "description": "FOX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOX",
+  "addresses": {
+    "8453": "0x064f9e4cf8dbd53ce45f285008f2c13fb870d688"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOX",
+    "sanitizedSymbol": "FOX_1",
+    "created_at": "2024-12-10T06:19:25.365659",
+    "deployer": "0x3007fc774Ea3eF2dda722Aac424C77ddF4690CAC",
+    "lpNftId": "1397379",
+    "lockerAddress": "0x28925a94dF9c43317D62739EA4d342F431dC4C61"
+  },
+  "clankerInfo": null
+}

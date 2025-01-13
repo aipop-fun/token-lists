@@ -1,0 +1,22 @@
+{
+  "name": "Not SafeForWork",
+  "symbol": "Not SafeForWork",
+  "decimals": 18,
+  "description": "Not SafeForWork is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20SafeForWork",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not SafeForWork",
+  "addresses": {
+    "8453": "0x2d714d11438876c40da2c369ff07b3b71550f27d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not SafeForWork",
+    "sanitizedSymbol": "NOT_SAFEFORWORK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7f98b0F3EA04604250D44AFe15152095eb8735cf",
+    "lpNftId": "1292418",
+    "lockerAddress": "0xBbc04Be3707101C0bb4d964d7fc5B24e671Aa176"
+  },
+  "clankerInfo": null
+}

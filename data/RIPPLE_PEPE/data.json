@@ -1,0 +1,22 @@
+{
+  "name": "RIPPLE PEPE",
+  "symbol": "RIPPLE PEPE",
+  "decimals": 18,
+  "description": "RIPPLE PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RIPPLE%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RIPPLE PEPE",
+  "addresses": {
+    "8453": "0x32190601ff5c3ddc1dc13bfe1111e5307c8e2811"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RIPPLE PEPE",
+    "sanitizedSymbol": "RIPPLE_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F10b9a596873db120633169C0701EE3d396CA90",
+    "lpNftId": "1288959",
+    "lockerAddress": "0x585DEbF9233832bDD93cAC341D3be5636862Bf21"
+  },
+  "clankerInfo": null
+}

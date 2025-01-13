@@ -1,0 +1,22 @@
+{
+  "name": "MRS CLANKER",
+  "symbol": "MRS CLANKER",
+  "decimals": 18,
+  "description": "MRS CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MRS%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MRS CLANKER",
+  "addresses": {
+    "8453": "0x1e43ba935697a886fff84f86a452d189f1b1a037"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MRS CLANKER",
+    "sanitizedSymbol": "MRS_CLANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157975",
+    "lockerAddress": "0x2CA6a1Fad9f796F4Fd8A520433876a96983C52Ec"
+  },
+  "clankerInfo": null
+}

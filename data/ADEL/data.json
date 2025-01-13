@@ -1,0 +1,22 @@
+{
+  "name": "Adel",
+  "symbol": "Adel",
+  "decimals": 18,
+  "description": "Adel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Adel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Adel",
+  "addresses": {
+    "8453": "0x3f5356fdc2c4039b6fce7a6e13ea2b28e51c9227"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Adel",
+    "sanitizedSymbol": "ADEL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x46E0ebB66c75743EA7cF223830B6D01d26c9d2E5",
+    "lpNftId": "1305207",
+    "lockerAddress": "0x297236761A3F5a306763c54F11Ecd325299E8FdC"
+  },
+  "clankerInfo": null
+}

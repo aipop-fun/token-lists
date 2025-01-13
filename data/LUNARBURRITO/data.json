@@ -1,0 +1,22 @@
+{
+  "name": "LunarBurrito",
+  "symbol": "LunarBurrito",
+  "decimals": 18,
+  "description": "LunarBurrito is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LunarBurrito",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LunarBurrito",
+  "addresses": {
+    "8453": "0x0d49e99136adc47439f757a8dc3a0041f3cd13ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LunarBurrito",
+    "sanitizedSymbol": "LUNARBURRITO",
+    "created_at": "2024-12-10T19:54:54.965466",
+    "deployer": "0x7064856fcCF7aF18D2FC7D2F279e23BDFFd7Cd34",
+    "lpNftId": "1406420",
+    "lockerAddress": "0x6696330abD12aDE9b0D1Fa2409be673E0200236E"
+  },
+  "clankerInfo": null
+}

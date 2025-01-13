@@ -1,0 +1,22 @@
+{
+  "name": "The joke",
+  "symbol": "The joke",
+  "decimals": 18,
+  "description": "The joke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20joke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The joke",
+  "addresses": {
+    "8453": "0x2ca4b4f3ada95bfdc75870ee0c3a24b4cf77aae9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The joke",
+    "sanitizedSymbol": "THE_JOKE_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x665eABA50fF0C80F318DE79F5c2b7A9fCe409Dc1",
+    "lpNftId": "1354695",
+    "lockerAddress": "0x868Af3b91F5109D77b13c1BB7E380B72C207c30F"
+  },
+  "clankerInfo": null
+}

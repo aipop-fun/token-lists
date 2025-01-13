@@ -1,0 +1,22 @@
+{
+  "name": "anothatest",
+  "symbol": "anothatest",
+  "decimals": 18,
+  "description": "anothatest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anothatest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anothatest",
+  "addresses": {
+    "8453": "0x1d1cb47c92302c3f5f10f7c5baff37c6dc2adffc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anothatest",
+    "sanitizedSymbol": "ANOTHATEST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118811",
+    "lockerAddress": "0x7437eF7b2E2F00B92659506E62F6e2b4317B626f"
+  },
+  "clankerInfo": null
+}

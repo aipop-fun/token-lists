@@ -1,0 +1,22 @@
+{
+  "name": "VTC",
+  "symbol": "VTC",
+  "decimals": 18,
+  "description": "VTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VTC",
+  "addresses": {
+    "8453": "0x12a61fdd64df260b722e7be2d17577f376cf96d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VTC",
+    "sanitizedSymbol": "VTC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234818",
+    "lockerAddress": "0x284fECB9d8E8101d6914151e7FC480034446882E"
+  },
+  "clankerInfo": null
+}

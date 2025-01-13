@@ -1,0 +1,22 @@
+{
+  "name": "STANKA",
+  "symbol": "STANKA",
+  "decimals": 18,
+  "description": "STANKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STANKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STANKA",
+  "addresses": {
+    "8453": "0x26d5f58eee479b599616ebf1148a8d15b76fe43f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STANKA",
+    "sanitizedSymbol": "STANKA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x44f6498D1403321890F3f2917E00F22dBDE3577a",
+    "lpNftId": "1228258",
+    "lockerAddress": "0xD2Cd1DdcbF81D1A4686497e8e2E0AdbCE7cbfDd4"
+  },
+  "clankerInfo": null
+}

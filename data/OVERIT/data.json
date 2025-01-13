@@ -1,0 +1,22 @@
+{
+  "name": "OVERIT",
+  "symbol": "OVERIT",
+  "decimals": 18,
+  "description": "OVERIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OVERIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OVERIT",
+  "addresses": {
+    "8453": "0x33a2eef986e92ebae45bd1f9b7be526dcc3b26e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OVERIT",
+    "sanitizedSymbol": "OVERIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225020",
+    "lockerAddress": "0xAa1fE055bd1E05937dACeb7717640a9975b9f984"
+  },
+  "clankerInfo": null
+}

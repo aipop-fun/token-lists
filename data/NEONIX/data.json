@@ -1,0 +1,22 @@
+{
+  "name": "Neonix",
+  "symbol": "Neonix",
+  "decimals": 18,
+  "description": "Neonix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neonix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neonix",
+  "addresses": {
+    "8453": "0x3efc5c616a11842f39240f06de5ecba077bd32c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neonix",
+    "sanitizedSymbol": "NEONIX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1285389",
+    "lockerAddress": "0x1cA3936942eEb9e78776767D5B75DD13228309eC"
+  },
+  "clankerInfo": null
+}

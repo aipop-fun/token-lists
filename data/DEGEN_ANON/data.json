@@ -1,0 +1,22 @@
+{
+  "name": "Degen ANON",
+  "symbol": "Degen ANON",
+  "decimals": 18,
+  "description": "Degen ANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20ANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen ANON",
+  "addresses": {
+    "8453": "0x2636f31a3712717557ceaedf50f8b933430f4bba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen ANON",
+    "sanitizedSymbol": "DEGEN_ANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xABe46A3a4fBd37e4E0BA92a61FeCd5eaa58C80EA",
+    "lpNftId": "1317275",
+    "lockerAddress": "0x0AC0bC1FC508b0871465dBA38C9D84b0315833a6"
+  },
+  "clankerInfo": null
+}

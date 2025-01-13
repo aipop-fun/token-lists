@@ -1,0 +1,22 @@
+{
+  "name": "rektsol",
+  "symbol": "rektsol",
+  "decimals": 18,
+  "description": "rektsol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rektsol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rektsol",
+  "addresses": {
+    "8453": "0x062a73409ac01bd2c50400a9b6901d0effef15df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rektsol",
+    "sanitizedSymbol": "REKTSOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc38EE99b7a3A9Df97601Be32De37afef7D4B18BF",
+    "lpNftId": "1322086",
+    "lockerAddress": "0xf1135e92AD91aD324295AA6BB2Fb32A48BfA08C1"
+  },
+  "clankerInfo": null
+}

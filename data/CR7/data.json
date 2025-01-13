@@ -1,0 +1,22 @@
+{
+  "name": "cr7",
+  "symbol": "cr7",
+  "decimals": 18,
+  "description": "cr7 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cr7",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cr7",
+  "addresses": {
+    "8453": "0x0cb6b772a8b8fb09ff94183adbffef0ef907ff7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cr7",
+    "sanitizedSymbol": "CR7",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFa8c84c75883f1018DB0A9be3630338dE6D78D9c",
+    "lpNftId": "1291162",
+    "lockerAddress": "0xa18061a328dD876CE3cD24D452288a1068D4E4ef"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SIMONS",
+  "symbol": "SIMONS",
+  "decimals": 18,
+  "description": "SIMONS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SIMONS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SIMONS",
+  "addresses": {
+    "8453": "0x379d1e701def216f110131f436fa9193d7a7c4b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SIMONS",
+    "sanitizedSymbol": "SIMONS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x70d6F920A021151bE1B019958DeE254C3356eFda",
+    "lpNftId": "1279697",
+    "lockerAddress": "0x44B48E700f0391a35D4DacF544c6A7FF37Bb1697"
+  },
+  "clankerInfo": null
+}

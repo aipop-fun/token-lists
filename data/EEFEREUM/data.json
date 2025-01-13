@@ -1,0 +1,22 @@
+{
+  "name": "Eefereum",
+  "symbol": "Eefereum",
+  "decimals": 18,
+  "description": "Eefereum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eefereum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eefereum",
+  "addresses": {
+    "8453": "0x394314554ecfeacca11a26e00c0e6a20c4612476"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eefereum",
+    "sanitizedSymbol": "EEFEREUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA43711F5DCc3559a1E07eC124fd167e26c9BaD43",
+    "lpNftId": "1370209",
+    "lockerAddress": "0xEa8b1a612bD6cB19425fe4BeC6446FE62795B274"
+  },
+  "clankerInfo": null
+}

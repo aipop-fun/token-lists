@@ -1,0 +1,22 @@
+{
+  "name": "Base Up",
+  "symbol": "Base Up",
+  "decimals": 18,
+  "description": "Base Up is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Up",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Up",
+  "addresses": {
+    "8453": "0x00fc5c67e341d9b4fc21d78727d68261fb09d176"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Up",
+    "sanitizedSymbol": "BASE_UP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128783",
+    "lockerAddress": "0x831B8430aD5e441f4b48D26E4A0Bbe14c3DD06D6"
+  },
+  "clankerInfo": null
+}

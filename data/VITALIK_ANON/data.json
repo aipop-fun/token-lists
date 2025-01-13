@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik Anon",
+  "symbol": "Vitalik Anon",
+  "decimals": 18,
+  "description": "Vitalik Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik Anon",
+  "addresses": {
+    "8453": "0x1209b96f25f61bb3d300e2d9d1411a48d4785217"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik Anon",
+    "sanitizedSymbol": "VITALIK_ANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201020",
+    "lockerAddress": "0x55a7c9C33B8f68f914948Ce4721f61747Be158de"
+  },
+  "clankerInfo": null
+}

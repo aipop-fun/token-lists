@@ -1,0 +1,22 @@
+{
+  "name": "Ethereum Republic",
+  "symbol": "Ethereum Republic",
+  "decimals": 18,
+  "description": "Ethereum Republic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ethereum%20Republic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ethereum Republic",
+  "addresses": {
+    "8453": "0x3a20f88648918e406480fccf0b71e3a005ceabe1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ethereum Republic",
+    "sanitizedSymbol": "ETHEREUM_REPUBLIC",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1252963",
+    "lockerAddress": "0x392ef19fAa4eC541cd55f7F5d1cc468623690f67"
+  },
+  "clankerInfo": null
+}

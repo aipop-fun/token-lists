@@ -1,0 +1,22 @@
+{
+  "name": "Bobs and Vegana",
+  "symbol": "Bobs and Vegana",
+  "decimals": 18,
+  "description": "Bobs and Vegana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bobs%20and%20Vegana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bobs and Vegana",
+  "addresses": {
+    "8453": "0x21f0b24625c7dc4ba63f2aae6e35829c122152cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bobs and Vegana",
+    "sanitizedSymbol": "BOBS_AND_VEGANA",
+    "created_at": "2024-12-10T20:37:33.043526",
+    "deployer": "0xf56f9dc96219D1233ADe5F22c5d3C898E739ed7e",
+    "lpNftId": "1406919",
+    "lockerAddress": "0x0F22EA45Ca8986cf69Eaa8Cff050FC3704b5703E"
+  },
+  "clankerInfo": null
+}

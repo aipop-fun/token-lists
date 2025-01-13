@@ -1,0 +1,22 @@
+{
+  "name": "Unpasu",
+  "symbol": "Unpasu",
+  "decimals": 18,
+  "description": "Unpasu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unpasu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unpasu",
+  "addresses": {
+    "8453": "0x2d4155a89e7390f4202cb961cd0162408538cb15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unpasu",
+    "sanitizedSymbol": "UNPASU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159447",
+    "lockerAddress": "0x7C6B4E3D7FE00F28A9686420908481BE56CBc467"
+  },
+  "clankerInfo": null
+}

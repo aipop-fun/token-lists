@@ -1,0 +1,22 @@
+{
+  "name": "Hallucinations",
+  "symbol": "Hallucinations",
+  "decimals": 18,
+  "description": "Hallucinations is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hallucinations",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hallucinations",
+  "addresses": {
+    "8453": "0x0823b78c07a67000b429fc88c7eeeed6092b7842"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hallucinations",
+    "sanitizedSymbol": "HALLUCINATIONS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1332032",
+    "lockerAddress": "0x91EE46f6D0bdFa351Bcb277d684768c4FC90Fb1F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lumina",
+  "symbol": "Lumina",
+  "decimals": 18,
+  "description": "Lumina is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lumina",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lumina",
+  "addresses": {
+    "8453": "0x1ded470b34a86068d8e67e25412eea0ef063705a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lumina",
+    "sanitizedSymbol": "LUMINA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159793",
+    "lockerAddress": "0xc43ffe098Bd7E133a2129Bbd3DE9f651AC9F1924"
+  },
+  "clankerInfo": null
+}

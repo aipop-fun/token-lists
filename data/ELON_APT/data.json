@@ -1,0 +1,22 @@
+{
+  "name": "Elon APT",
+  "symbol": "Elon APT",
+  "decimals": 18,
+  "description": "Elon APT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elon%20APT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elon APT",
+  "addresses": {
+    "8453": "0x045f39e5b0a485670560894e14b8b3cf1d9e7d14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elon APT",
+    "sanitizedSymbol": "ELON_APT",
+    "created_at": "2024-12-11T10:55:12.955071",
+    "deployer": "0xc0A08108668a0AE72d31C9FDF0CeFb3454CC7C7B",
+    "lpNftId": "1416670",
+    "lockerAddress": "0xC4B4227c82FDf6cFf2E1b2Cbe43c1741bB93e087"
+  },
+  "clankerInfo": null
+}

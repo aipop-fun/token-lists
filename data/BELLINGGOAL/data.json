@@ -1,0 +1,22 @@
+{
+  "name": "bellinggoal",
+  "symbol": "bellinggoal",
+  "decimals": 18,
+  "description": "bellinggoal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bellinggoal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bellinggoal",
+  "addresses": {
+    "8453": "0x2accb55cc9a8ee5009afa6361f8209bbf4fe17f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bellinggoal",
+    "sanitizedSymbol": "BELLINGGOAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x345b0A1A50017De69C05a7a104045a36dF4B801e",
+    "lpNftId": "1310891",
+    "lockerAddress": "0xF8d986666a237260DA4f03a2B423d6e1007dc525"
+  },
+  "clankerInfo": null
+}

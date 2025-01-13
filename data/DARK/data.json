@@ -1,0 +1,22 @@
+{
+  "name": "Dark",
+  "symbol": "Dark",
+  "decimals": 18,
+  "description": "Dark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dark",
+  "addresses": {
+    "8453": "0x273496dc7db1cc8790181770b14c6eda4fe985b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dark",
+    "sanitizedSymbol": "DARK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc96139d9699eA671f6d702E23F3b6A7dc7d5efa3",
+    "lpNftId": "1264325",
+    "lockerAddress": "0x5a79970EAa28409927360d3edAb145286ACDdeD4"
+  },
+  "clankerInfo": null
+}

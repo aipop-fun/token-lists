@@ -1,0 +1,22 @@
+{
+  "name": "rise",
+  "symbol": "rise",
+  "decimals": 18,
+  "description": "rise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rise",
+  "addresses": {
+    "8453": "0x272c9baf020794c44dbdbe0ff7653f03bbabe13d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rise",
+    "sanitizedSymbol": "RISE",
+    "created_at": "2024-12-12T08:24:31.494378",
+    "deployer": "0x98F4935dDf355289596E55940D527e7AF232A600",
+    "lpNftId": "1429901",
+    "lockerAddress": "0x617C3158eD224a924057e95cECf9E58BadFBdC39"
+  },
+  "clankerInfo": null
+}

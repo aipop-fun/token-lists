@@ -1,0 +1,22 @@
+{
+  "name": "Shadow",
+  "symbol": "Shadow",
+  "decimals": 18,
+  "description": "Shadow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shadow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shadow",
+  "addresses": {
+    "8453": "0x2051acb09a4c9ad9303f5467cc45808c98873c5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shadow",
+    "sanitizedSymbol": "SHADOW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231124",
+    "lockerAddress": "0x1b043Eb583B6EdefaF24E819397De33b58cC5Ed4"
+  },
+  "clankerInfo": null
+}

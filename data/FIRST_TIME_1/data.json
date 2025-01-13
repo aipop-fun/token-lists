@@ -1,0 +1,22 @@
+{
+  "name": "first time?",
+  "symbol": "first time?",
+  "decimals": 18,
+  "description": "first time? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=first%20time%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "first time?",
+  "addresses": {
+    "8453": "0x38f9090e766609e65efc7bfa8ddd9aaf3155615c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "first time?",
+    "sanitizedSymbol": "FIRST_TIME_1",
+    "created_at": "2024-12-12T14:39:53.633306",
+    "deployer": "0x3Ad226427D6C1d8a53fb1948EfCd7a98890Fe8C1",
+    "lpNftId": "1436107",
+    "lockerAddress": "0x54Ce84419581De005A7a1c1a193e3E6F8108D7eB"
+  },
+  "clankerInfo": null
+}

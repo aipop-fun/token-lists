@@ -1,0 +1,22 @@
+{
+  "name": "CHILL LoL",
+  "symbol": "CHILL LoL",
+  "decimals": 18,
+  "description": "CHILL LoL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILL%20LoL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILL LoL",
+  "addresses": {
+    "8453": "0x2d726627051bf4ae883b91cec48ae9af504ff2d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILL LoL",
+    "sanitizedSymbol": "CHILL_LOL",
+    "created_at": "2024-12-12T08:15:44.936865",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1429884",
+    "lockerAddress": "0x5f6251Fb2bC4E7aD947836b9EF3afb1B5aDdFA27"
+  },
+  "clankerInfo": null
+}

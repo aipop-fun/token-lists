@@ -1,0 +1,22 @@
+{
+  "name": "MassTree",
+  "symbol": "MassTree",
+  "decimals": 18,
+  "description": "MassTree is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MassTree",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MassTree",
+  "addresses": {
+    "8453": "0x360fbc9750abec1056007b8aaf9d254113f1a745"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MassTree",
+    "sanitizedSymbol": "MASSTREE",
+    "created_at": "2024-12-11T10:26:10.613502",
+    "deployer": "0x540958c3Bfce6F5c46f3C576b9217cb53721F44c",
+    "lpNftId": "1416337",
+    "lockerAddress": "0xED8beF7d7Ed57a54CF3f100F2D7E2A2bE670D7B6"
+  },
+  "clankerInfo": null
+}

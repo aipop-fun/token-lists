@@ -1,0 +1,22 @@
+{
+  "name": "LOOPRING",
+  "symbol": "LOOPRING",
+  "decimals": 18,
+  "description": "LOOPRING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOOPRING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOOPRING",
+  "addresses": {
+    "8453": "0x1ea678a99d0aade635d50c22582b8b208c79f3fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOOPRING",
+    "sanitizedSymbol": "LOOPRING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79C4550130cBc66b222e8A9AC8615Cda89F23968",
+    "lpNftId": "1310063",
+    "lockerAddress": "0xa30A362404e98826e122ee3b89e77b18e0B25f9d"
+  },
+  "clankerInfo": null
+}

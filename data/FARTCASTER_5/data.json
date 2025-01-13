@@ -1,0 +1,22 @@
+{
+  "name": "Fartcaster",
+  "symbol": "Fartcaster",
+  "decimals": 18,
+  "description": "Fartcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fartcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fartcaster",
+  "addresses": {
+    "8453": "0x11769d0b169936204bbbc3a0ac0ee4a14bed5b6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fartcaster",
+    "sanitizedSymbol": "FARTCASTER_5",
+    "created_at": "2024-12-12T11:49:55.088884",
+    "deployer": "0xfBcD35E06e936408B87A013f49b83D05eacc2718",
+    "lpNftId": "1433731",
+    "lockerAddress": "0xcB26940AFB7bF25Fc6EFF0bDa2e7234A6A8EA681"
+  },
+  "clankerInfo": null
+}

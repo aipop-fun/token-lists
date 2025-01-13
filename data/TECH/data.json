@@ -1,0 +1,22 @@
+{
+  "name": "TECH",
+  "symbol": "TECH",
+  "decimals": 18,
+  "description": "TECH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TECH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TECH",
+  "addresses": {
+    "8453": "0x03d66fd502f4cb64561c2f534327fb53c51d90d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TECH",
+    "sanitizedSymbol": "TECH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192880",
+    "lockerAddress": "0x25d1a74EB7c2E33173d83c9e5ad7692A04ACF688"
+  },
+  "clankerInfo": null
+}

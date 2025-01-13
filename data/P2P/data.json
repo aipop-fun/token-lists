@@ -1,0 +1,22 @@
+{
+  "name": "P2P",
+  "symbol": "P2P",
+  "decimals": 18,
+  "description": "P2P is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=P2P",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "P2P",
+  "addresses": {
+    "8453": "0x416bac18bc5ba23d90ab4b4b7572ccb93c1ee1c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "P2P",
+    "sanitizedSymbol": "P2P",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE14cA0632C5430abDDd40ba077DA5FBA8821A950",
+    "lpNftId": "1304274",
+    "lockerAddress": "0x039cB64b7E7d910a07d652ED5B2cB46353a2b039"
+  },
+  "clankerInfo": null
+}

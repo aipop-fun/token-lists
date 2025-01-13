@@ -1,0 +1,22 @@
+{
+  "name": "RegAnon",
+  "symbol": "RegAnon",
+  "decimals": 18,
+  "description": "RegAnon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RegAnon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RegAnon",
+  "addresses": {
+    "8453": "0x31637da4549d927a86e66371f0dbda31a08cc4c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RegAnon",
+    "sanitizedSymbol": "REGANON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235899",
+    "lockerAddress": "0x7f375FC62186DAEF968d9d623ECc5E2DA601db38"
+  },
+  "clankerInfo": null
+}

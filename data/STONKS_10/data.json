@@ -1,0 +1,22 @@
+{
+  "name": "Stonks",
+  "symbol": "Stonks",
+  "decimals": 18,
+  "description": "Stonks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stonks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stonks",
+  "addresses": {
+    "8453": "0x124289cedc58d93105d84e26b7c22b7917b69682"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stonks",
+    "sanitizedSymbol": "STONKS_10",
+    "created_at": "2024-12-09T05:29:29.06791",
+    "deployer": "0x0511115527ABd9458E09374c9496c9e7407753c1",
+    "lpNftId": "1383187",
+    "lockerAddress": "0x2DbE5Be8922A98c66E1588C65f225bE695d28be3"
+  },
+  "clankerInfo": null
+}

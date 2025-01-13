@@ -1,0 +1,22 @@
+{
+  "name": "RecehDrop",
+  "symbol": "RecehDrop",
+  "decimals": 18,
+  "description": "RecehDrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RecehDrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RecehDrop",
+  "addresses": {
+    "8453": "0x0c5c415a4b6a3731972da88908807eb369ca61ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RecehDrop",
+    "sanitizedSymbol": "RECEHDROP",
+    "created_at": "2024-12-09T03:59:48.510755",
+    "deployer": "0x041219E2F2343f16A8D04680b45ff494F10Fa45c",
+    "lpNftId": "1380819",
+    "lockerAddress": "0x59b90f6C03F686F2b8eB8Fd9606000492E449B9d"
+  },
+  "clankerInfo": null
+}

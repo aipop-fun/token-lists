@@ -1,0 +1,22 @@
+{
+  "name": "Lollypop On Base",
+  "symbol": "Lollypop On Base",
+  "decimals": 18,
+  "description": "Lollypop On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lollypop%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lollypop On Base",
+  "addresses": {
+    "8453": "0x3b04855eddf07d5de25db1f7a80e6e3eb78dec62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lollypop On Base",
+    "sanitizedSymbol": "LOLLYPOP_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd0fDE8648260105b3C89a6AEA13Bb287E719A759",
+    "lpNftId": "1285607",
+    "lockerAddress": "0x0483d035f8f44436ADFa8f5F71c6528DC61591Ae"
+  },
+  "clankerInfo": null
+}

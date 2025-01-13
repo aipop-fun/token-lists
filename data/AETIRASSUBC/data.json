@@ -1,0 +1,22 @@
+{
+  "name": "aetirassubc",
+  "symbol": "aetirassubc",
+  "decimals": 18,
+  "description": "aetirassubc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aetirassubc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aetirassubc",
+  "addresses": {
+    "8453": "0x26940dd034fe24995b26f98f0060fb6ba466d182"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aetirassubc",
+    "sanitizedSymbol": "AETIRASSUBC",
+    "created_at": "2024-12-10T12:18:09.721018",
+    "deployer": "0x47CD7873634148A6d0d35F5BF44311D34EFe4F7a",
+    "lpNftId": "1400701",
+    "lockerAddress": "0x5E7C77D0E2b38e9Ae6Eb29D21ede0A10c4F1CdbE"
+  },
+  "clankerInfo": null
+}

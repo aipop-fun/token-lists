@@ -1,0 +1,22 @@
+{
+  "name": "RomanEmpire",
+  "symbol": "RomanEmpire",
+  "decimals": 18,
+  "description": "RomanEmpire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RomanEmpire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RomanEmpire",
+  "addresses": {
+    "8453": "0x137b963a4e6eed98d18853dc83e1c2dbe27b772e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RomanEmpire",
+    "sanitizedSymbol": "ROMANEMPIRE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0Cad2D0b33eC5206384A7e68876541211AB007A3",
+    "lpNftId": "1373041",
+    "lockerAddress": "0xB279F39C1CF4ea413329Bbb66b54ac6c1950a884"
+  },
+  "clankerInfo": null
+}

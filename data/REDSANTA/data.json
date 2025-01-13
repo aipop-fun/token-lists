@@ -1,0 +1,22 @@
+{
+  "name": "REDSANTA?",
+  "symbol": "REDSANTA?",
+  "decimals": 18,
+  "description": "REDSANTA? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REDSANTA%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REDSANTA?",
+  "addresses": {
+    "8453": "0x246a89a807d94926b3606dff62cc05924e6d650c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REDSANTA?",
+    "sanitizedSymbol": "REDSANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1320192",
+    "lockerAddress": "0xb4c02642C216cf406f2d076Ab413dC3989933cE5"
+  },
+  "clankerInfo": null
+}

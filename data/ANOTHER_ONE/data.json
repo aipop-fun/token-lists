@@ -1,0 +1,22 @@
+{
+  "name": "another one",
+  "symbol": "another one",
+  "decimals": 18,
+  "description": "another one is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=another%20one",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "another one",
+  "addresses": {
+    "8453": "0x2850ef6e8b454648e412775f9c72f4a90c7292b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "another one",
+    "sanitizedSymbol": "ANOTHER_ONE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212299",
+    "lockerAddress": "0xf4DB02936381663146a8b7d29eaA4E79bCf93e8D"
+  },
+  "clankerInfo": null
+}

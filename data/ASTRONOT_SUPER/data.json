@@ -1,0 +1,22 @@
+{
+  "name": "Astronot Super",
+  "symbol": "Astronot Super",
+  "decimals": 18,
+  "description": "Astronot Super is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Astronot%20Super",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Astronot Super",
+  "addresses": {
+    "8453": "0x0b4e6ff944a5c914c86522d3bb1e2a645af458b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Astronot Super",
+    "sanitizedSymbol": "ASTRONOT_SUPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230553",
+    "lockerAddress": "0xF08Dbb5D3275d58c945A425c57B9F201a901EE56"
+  },
+  "clankerInfo": null
+}

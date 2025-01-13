@@ -1,0 +1,22 @@
+{
+  "name": "clankersusu",
+  "symbol": "clankersusu",
+  "decimals": 18,
+  "description": "clankersusu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankersusu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankersusu",
+  "addresses": {
+    "8453": "0x1fa17bc737d54f87fda0bb4205f21820fcd55888"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankersusu",
+    "sanitizedSymbol": "CLANKERSUSU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x635B61d2F3c4A1102A21469fA6c1255d9CB67C49",
+    "lpNftId": "1253373",
+    "lockerAddress": "0xDF09d6301e704c15935a446818e78C03fA0aA9E2"
+  },
+  "clankerInfo": null
+}

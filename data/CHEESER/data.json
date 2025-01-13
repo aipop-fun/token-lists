@@ -1,0 +1,22 @@
+{
+  "name": "Cheeser",
+  "symbol": "Cheeser",
+  "decimals": 18,
+  "description": "Cheeser is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cheeser",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cheeser",
+  "addresses": {
+    "8453": "0x2cdddc9ccfe60406d44fe0fd27417b0d5c2b4f26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cheeser",
+    "sanitizedSymbol": "CHEESER",
+    "created_at": "2024-12-12T00:20:38.952802",
+    "deployer": "0x7064856fcCF7aF18D2FC7D2F279e23BDFFd7Cd34",
+    "lpNftId": "1428123",
+    "lockerAddress": "0x7FBe356DD87B119E4f20B49bC09E0E106DFf70Ce"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "COIN",
+  "symbol": "COIN",
+  "decimals": 18,
+  "description": "COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COIN",
+  "addresses": {
+    "8453": "0x133417cb7738f8377a50188bcc3f4f98ea7f8d38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COIN",
+    "sanitizedSymbol": "COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173156",
+    "lockerAddress": "0xca8DA0436e2b6Fe3cCa6c7D69e9958e0C2A95627"
+  },
+  "clankerInfo": null
+}

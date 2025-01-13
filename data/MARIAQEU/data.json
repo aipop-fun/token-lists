@@ -1,0 +1,22 @@
+{
+  "name": "Mariaqeu",
+  "symbol": "Mariaqeu",
+  "decimals": 18,
+  "description": "Mariaqeu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mariaqeu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mariaqeu",
+  "addresses": {
+    "8453": "0x3558521e494df21ca1a10f3d675c80912edde707"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mariaqeu",
+    "sanitizedSymbol": "MARIAQEU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x76410047AB9A04DeDe29a77974B572Cf6E964b92",
+    "lpNftId": "1251923",
+    "lockerAddress": "0xB96b1483d5d73085E6e42B9c91255233dbfBF2c6"
+  },
+  "clankerInfo": null
+}

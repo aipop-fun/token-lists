@@ -1,0 +1,22 @@
+{
+  "name": "REALMADRID",
+  "symbol": "REALMADRID",
+  "decimals": 18,
+  "description": "REALMADRID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REALMADRID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REALMADRID",
+  "addresses": {
+    "8453": "0x398dee2845901530ad9f895d59c44f9745834a4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REALMADRID",
+    "sanitizedSymbol": "REALMADRID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7EbCC1Ff65aE1e0aBCe1754dD8ef458dcDb876b7",
+    "lpNftId": "1308874",
+    "lockerAddress": "0x3310DE852ceC062fc208613cb713B4941a45604C"
+  },
+  "clankerInfo": null
+}

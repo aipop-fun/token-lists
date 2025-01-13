@@ -1,0 +1,22 @@
+{
+  "name": "KOL",
+  "symbol": "KOL",
+  "decimals": 18,
+  "description": "KOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KOL",
+  "addresses": {
+    "8453": "0x30c917e3121eef810a343609b7c5f249f52fb7cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KOL",
+    "sanitizedSymbol": "KOL_1",
+    "created_at": "2024-12-09T08:14:19.877094",
+    "deployer": "0x56C09cAF7A77d5d254dAe3438bB843A1FFd06aa2",
+    "lpNftId": "1384627",
+    "lockerAddress": "0x3F0761b545fE70f2aCC932F36D09025C5b1CbE40"
+  },
+  "clankerInfo": null
+}

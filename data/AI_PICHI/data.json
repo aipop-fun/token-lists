@@ -1,0 +1,22 @@
+{
+  "name": "Ai Pichi",
+  "symbol": "Ai Pichi",
+  "decimals": 18,
+  "description": "Ai Pichi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ai%20Pichi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ai Pichi",
+  "addresses": {
+    "8453": "0x2fc67d41de4cab398b2d29e37d1d72af9afc8956"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ai Pichi",
+    "sanitizedSymbol": "AI_PICHI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA67952c04135B371a79d107E46b735799e27931e",
+    "lpNftId": "1330103",
+    "lockerAddress": "0xd5238B5139D7E09250B230748CD2744e15cd2662"
+  },
+  "clankerInfo": null
+}

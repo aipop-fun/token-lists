@@ -1,0 +1,22 @@
+{
+  "name": "Filadelfia",
+  "symbol": "Filadelfia",
+  "decimals": 18,
+  "description": "Filadelfia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Filadelfia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Filadelfia",
+  "addresses": {
+    "8453": "0x3345d4500809e7ce5abbb6ff404bcf6b120bf24b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Filadelfia",
+    "sanitizedSymbol": "FILADELFIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC88eb8c096D2A6bf50f6E738e992d31A27f56299",
+    "lpNftId": "1312672",
+    "lockerAddress": "0xA72C8956c491458951A936093DFB3A5e174Fe4b8"
+  },
+  "clankerInfo": null
+}

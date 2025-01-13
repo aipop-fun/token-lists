@@ -1,0 +1,22 @@
+{
+  "name": "FearOfMissingOut",
+  "symbol": "FearOfMissingOut",
+  "decimals": 18,
+  "description": "FearOfMissingOut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FearOfMissingOut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FearOfMissingOut",
+  "addresses": {
+    "8453": "0x199820c9254ec015e13095deff7e282ec060e074"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FearOfMissingOut",
+    "sanitizedSymbol": "FEAROFMISSINGOUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x29ccC63EdE1a0ad108Be56ECE9aD76BC3d0d64cB",
+    "lpNftId": "1284158",
+    "lockerAddress": "0x79892A01D765fe63E40f33a4ef1ABd4e8C153b58"
+  },
+  "clankerInfo": null
+}

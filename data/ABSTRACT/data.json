@@ -1,0 +1,22 @@
+{
+  "name": "Abstract",
+  "symbol": "Abstract",
+  "decimals": 18,
+  "description": "Abstract is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Abstract",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Abstract",
+  "addresses": {
+    "8453": "0x1d125900eb3f2e69559ddce895e41da403040606"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Abstract",
+    "sanitizedSymbol": "ABSTRACT",
+    "created_at": "2024-12-11T17:51:51.08179",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1422956",
+    "lockerAddress": "0xC632Bdc4B8fEd72953806D2aFa8F1aeF643feFFA"
+  },
+  "clankerInfo": null
+}

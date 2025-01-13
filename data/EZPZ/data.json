@@ -1,0 +1,22 @@
+{
+  "name": "EZPZ",
+  "symbol": "EZPZ",
+  "decimals": 18,
+  "description": "EZPZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EZPZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EZPZ",
+  "addresses": {
+    "8453": "0x0d7f066efa8bcfaf52785fb841e7e72e1d1534a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EZPZ",
+    "sanitizedSymbol": "EZPZ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205405",
+    "lockerAddress": "0x9b3E56A1006192F086b94525aC81907f098f4CD5"
+  },
+  "clankerInfo": null
+}

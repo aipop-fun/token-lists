@@ -1,0 +1,22 @@
+{
+  "name": "SPQR",
+  "symbol": "SPQR",
+  "decimals": 18,
+  "description": "SPQR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPQR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPQR",
+  "addresses": {
+    "8453": "0x0b8bd7e96eafabeb1ef008ab57cd587b5ff1656e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPQR",
+    "sanitizedSymbol": "SPQR_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222910",
+    "lockerAddress": "0x022d18e0ad4ae80aC78F18b2ec593109B108312d"
+  },
+  "clankerInfo": null
+}

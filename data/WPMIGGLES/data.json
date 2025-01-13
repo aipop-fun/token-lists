@@ -1,0 +1,22 @@
+{
+  "name": "WPMIGGLES",
+  "symbol": "WPMIGGLES",
+  "decimals": 18,
+  "description": "WPMIGGLES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WPMIGGLES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WPMIGGLES",
+  "addresses": {
+    "8453": "0x1bce8f2385f6220297edef0e3a9363947d556985"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WPMIGGLES",
+    "sanitizedSymbol": "WPMIGGLES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB0D8e2C13b665ce1C955892bE56fF9c49dB5A413",
+    "lpNftId": "1284100",
+    "lockerAddress": "0x1C5496C5f51FaCe8C417e04c2DEE4d87e08F1255"
+  },
+  "clankerInfo": null
+}

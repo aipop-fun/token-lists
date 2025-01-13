@@ -1,0 +1,22 @@
+{
+  "name": "shitcoin",
+  "symbol": "shitcoin",
+  "decimals": 18,
+  "description": "shitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shitcoin",
+  "addresses": {
+    "8453": "0x1b1980a5ab839be1a93319918afb1ea08b41c3d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shitcoin",
+    "sanitizedSymbol": "SHITCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcFfCFa61970958eAb40adbfaab46a44305c9C444",
+    "lpNftId": "1280066",
+    "lockerAddress": "0x2906e6e52Da87a2B11F36602ac18D768d8420Bc4"
+  },
+  "clankerInfo": null
+}

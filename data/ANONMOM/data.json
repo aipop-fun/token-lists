@@ -1,0 +1,22 @@
+{
+  "name": "AnonMom",
+  "symbol": "AnonMom",
+  "decimals": 18,
+  "description": "AnonMom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonMom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonMom",
+  "addresses": {
+    "8453": "0x3039511fc0d14d20986c5e9ffeec354c317ee2cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonMom",
+    "sanitizedSymbol": "ANONMOM",
+    "created_at": "2024-12-12T04:58:15.378798",
+    "deployer": "0xBa35b5c6FE6f30D2270CCd3849437e7a6620E8DB",
+    "lpNftId": "1429272",
+    "lockerAddress": "0x3b78d9A580248F8CaCF0aF16882ad26fFBa9C0E3"
+  },
+  "clankerInfo": null
+}

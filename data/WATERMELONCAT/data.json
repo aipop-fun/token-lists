@@ -1,0 +1,22 @@
+{
+  "name": "WatermelonCat",
+  "symbol": "WatermelonCat",
+  "decimals": 18,
+  "description": "WatermelonCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WatermelonCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WatermelonCat",
+  "addresses": {
+    "8453": "0x1e37006a0666076292551d911ad7667a7df909b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WatermelonCat",
+    "sanitizedSymbol": "WATERMELONCAT",
+    "created_at": "2024-12-10T09:34:38.482016",
+    "deployer": "0xc31C5Ee8b9da6AD0638A0A5E098050F27ac8677B",
+    "lpNftId": "1399272",
+    "lockerAddress": "0xE86dBf4c78f67Df5967B4cB5555779Ee34a521da"
+  },
+  "clankerInfo": null
+}

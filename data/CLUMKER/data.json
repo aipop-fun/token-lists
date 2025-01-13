@@ -1,0 +1,22 @@
+{
+  "name": "Clumker",
+  "symbol": "Clumker",
+  "decimals": 18,
+  "description": "Clumker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clumker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clumker",
+  "addresses": {
+    "8453": "0x02e89e5710621e780101cdb440c559b045dcfccc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clumker",
+    "sanitizedSymbol": "CLUMKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb3036468a12EE5B12FF9ba529a17D14cB0C56632",
+    "lpNftId": "1251772",
+    "lockerAddress": "0x9284688B4E2578eFcd81f3ac8C340725C9e93db6"
+  },
+  "clankerInfo": null
+}

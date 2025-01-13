@@ -1,0 +1,22 @@
+{
+  "name": "Kast Finance",
+  "symbol": "Kast Finance",
+  "decimals": 18,
+  "description": "Kast Finance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kast%20Finance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kast Finance",
+  "addresses": {
+    "8453": "0x03f222c5f6dbd025237b00c7dce51848018eebae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kast Finance",
+    "sanitizedSymbol": "KAST_FINANCE",
+    "created_at": "2024-12-11T18:35:11.717623",
+    "deployer": "0xB87958F0bFfcd09D19A43e48728849DEd325390B",
+    "lpNftId": "1423892",
+    "lockerAddress": "0x52Cc02CdD5948B2Ff2e8d9dd0174Cc4Aa4042bA7"
+  },
+  "clankerInfo": null
+}

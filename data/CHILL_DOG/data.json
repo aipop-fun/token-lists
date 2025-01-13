@@ -1,0 +1,22 @@
+{
+  "name": "Chill Dog",
+  "symbol": "Chill Dog",
+  "decimals": 18,
+  "description": "Chill Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Dog",
+  "addresses": {
+    "8453": "0x2ad4aca5439d3dd71a00273c8f5607e12489d6a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Dog",
+    "sanitizedSymbol": "CHILL_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219298",
+    "lockerAddress": "0x7fe771ae398491C85bC463A69C1aE591a9a9276B"
+  },
+  "clankerInfo": null
+}

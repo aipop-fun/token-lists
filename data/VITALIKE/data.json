@@ -1,0 +1,22 @@
+{
+  "name": "Vitalike",
+  "symbol": "Vitalike",
+  "decimals": 18,
+  "description": "Vitalike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalike",
+  "addresses": {
+    "8453": "0x3681c0622cc2b422585c8f2b4f717cdc732d8f4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalike",
+    "sanitizedSymbol": "VITALIKE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d2DDcBd17c76cF8c096a80cDF2A946D420E90C6",
+    "lpNftId": "1320600",
+    "lockerAddress": "0xb7523c594D319535efd92FF6e99974e8C7baaf57"
+  },
+  "clankerInfo": null
+}

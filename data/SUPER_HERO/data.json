@@ -1,0 +1,22 @@
+{
+  "name": "Super Hero",
+  "symbol": "Super Hero",
+  "decimals": 18,
+  "description": "Super Hero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Hero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Hero",
+  "addresses": {
+    "8453": "0x065ccd3bc9cc3a81f352beecd43c4be615d0e7e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Hero",
+    "sanitizedSymbol": "SUPER_HERO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0B3004bD9a1D39fA30cb138E7Ac4eF3467B3C029",
+    "lpNftId": "1306778",
+    "lockerAddress": "0xb699dB48E1E70027287532e5bE847aBBa93393df"
+  },
+  "clankerInfo": null
+}

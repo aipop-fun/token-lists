@@ -1,0 +1,22 @@
+{
+  "name": "Ginger Cat",
+  "symbol": "Ginger Cat",
+  "decimals": 18,
+  "description": "Ginger Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ginger%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ginger Cat",
+  "addresses": {
+    "8453": "0x105f7047c69ae128191fa91c77ace6da70870cbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ginger Cat",
+    "sanitizedSymbol": "GINGER_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204118",
+    "lockerAddress": "0x28b551A77D4dC0C99799cc7c59AD02296C3B9f92"
+  },
+  "clankerInfo": null
+}

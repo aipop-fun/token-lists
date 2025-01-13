@@ -1,0 +1,22 @@
+{
+  "name": "Valhalla",
+  "symbol": "Valhalla",
+  "decimals": 18,
+  "description": "Valhalla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Valhalla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Valhalla",
+  "addresses": {
+    "8453": "0x072fd4ada7288c10c191ee1f2342d655077d4369"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Valhalla",
+    "sanitizedSymbol": "VALHALLA",
+    "created_at": "2024-12-11T15:43:38.622008",
+    "deployer": "0xaA45EF11aDAb70e90cc369ff25DEFf64a912B68E",
+    "lpNftId": "1421229",
+    "lockerAddress": "0x31c2457e17CF73B9e1c347BD9f8555d6E68e7B24"
+  },
+  "clankerInfo": null
+}

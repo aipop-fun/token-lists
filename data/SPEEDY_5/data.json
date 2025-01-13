@@ -1,0 +1,22 @@
+{
+  "name": "SPEEDY",
+  "symbol": "SPEEDY",
+  "decimals": 18,
+  "description": "SPEEDY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPEEDY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPEEDY",
+  "addresses": {
+    "8453": "0x1e681878fb5491b099f831cbe493f6ab2271b56a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPEEDY",
+    "sanitizedSymbol": "SPEEDY_5",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5f419500cF1Ed8E766Ca02a42CCaB64e52a3C44E",
+    "lpNftId": "1321472",
+    "lockerAddress": "0xC4679FB3373D1f18047785382981942B346aF1d9"
+  },
+  "clankerInfo": null
+}

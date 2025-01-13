@@ -1,0 +1,22 @@
+{
+  "name": "ClankerPunk",
+  "symbol": "ClankerPunk",
+  "decimals": 18,
+  "description": "ClankerPunk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerPunk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerPunk",
+  "addresses": {
+    "8453": "0x2274cc24560df8bc82bd81b85cb06f4281cda8e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerPunk",
+    "sanitizedSymbol": "CLANKERPUNK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0365B969FC9665A64c29bBEb16afc48CcbB65761",
+    "lpNftId": "1317448",
+    "lockerAddress": "0x0127E497EdCfa917504a2A8de86c981146AebAfF"
+  },
+  "clankerInfo": null
+}

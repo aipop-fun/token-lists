@@ -1,0 +1,22 @@
+{
+  "name": "ankrbot",
+  "symbol": "ankrbot",
+  "decimals": 18,
+  "description": "ankrbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ankrbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ankrbot",
+  "addresses": {
+    "8453": "0x2c09f2dc1fa00ebaf67a27953d01937e7c11b1b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ankrbot",
+    "sanitizedSymbol": "ANKRBOT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb41D149d30ac38911eF6eA444f5897e8F6DCDE36",
+    "lpNftId": "1276973",
+    "lockerAddress": "0x9DF2050B7801951d32816dC7924a95FcaFba8E11"
+  },
+  "clankerInfo": null
+}

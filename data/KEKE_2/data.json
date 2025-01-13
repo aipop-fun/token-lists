@@ -1,0 +1,22 @@
+{
+  "name": "KEKE",
+  "symbol": "KEKE",
+  "decimals": 18,
+  "description": "KEKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KEKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KEKE",
+  "addresses": {
+    "8453": "0x150bf0d323f70938babb4c7160bb100ff56ef631"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KEKE",
+    "sanitizedSymbol": "KEKE_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xccc708F51F27DFB18F24dCe50B3e378C1a49839d",
+    "lpNftId": "1266675",
+    "lockerAddress": "0x216BBb90312dBC6825e6FDE23cCD4249A06F2F0c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "maretusidol",
+  "symbol": "maretusidol",
+  "decimals": 18,
+  "description": "maretusidol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=maretusidol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "maretusidol",
+  "addresses": {
+    "8453": "0x35cf0d7deb814d90aaa23ce3a49efb5bb35bd36e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "maretusidol",
+    "sanitizedSymbol": "MARETUSIDOL",
+    "created_at": "2024-12-09T17:32:35.163098",
+    "deployer": "0x94223efCfEc63247E103FFd4a8F4Ef01dea17AdA",
+    "lpNftId": "1389791",
+    "lockerAddress": "0xB2EaDDA8539A3c357A2A148d585DD2037b2f8FF4"
+  },
+  "clankerInfo": null
+}

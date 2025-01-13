@@ -1,0 +1,22 @@
+{
+  "name": "Font Wars",
+  "symbol": "Font Wars",
+  "decimals": 18,
+  "description": "Font Wars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Font%20Wars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Font Wars",
+  "addresses": {
+    "8453": "0x25111bb71be11c1d2fc6d44ae23022af57f33aac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Font Wars",
+    "sanitizedSymbol": "FONT_WARS",
+    "created_at": "2024-12-10T10:47:52.672066",
+    "deployer": "0x62321E5A55EA63f35944D8BAD9eA4873e6f4c71B",
+    "lpNftId": "1399997",
+    "lockerAddress": "0xBb4a21d20d6B10AC44C5Cc9a461599ba0A90e38E"
+  },
+  "clankerInfo": null
+}

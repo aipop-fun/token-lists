@@ -1,0 +1,22 @@
+{
+  "name": "VIVA LA REVOLUTION",
+  "symbol": "VIVA LA REVOLUTION",
+  "decimals": 18,
+  "description": "VIVA LA REVOLUTION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VIVA%20LA%20REVOLUTION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VIVA LA REVOLUTION",
+  "addresses": {
+    "8453": "0x376e50272004750a37490476a63eac0dffd704bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VIVA LA REVOLUTION",
+    "sanitizedSymbol": "VIVA_LA_REVOLUTION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1348038",
+    "lockerAddress": "0x076a0ebF0430Af19DBAc4107a16900F517683c62"
+  },
+  "clankerInfo": null
+}

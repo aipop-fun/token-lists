@@ -1,0 +1,22 @@
+{
+  "name": "Purple Santa",
+  "symbol": "Purple Santa",
+  "decimals": 18,
+  "description": "Purple Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purple%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purple Santa",
+  "addresses": {
+    "8453": "0x262ea6bead0c8a799a0217018870faa4d85fa3f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purple Santa",
+    "sanitizedSymbol": "PURPLE_SANTA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1324515",
+    "lockerAddress": "0x62a30EB9183Ad2189acaAECe11A0dc1830793a49"
+  },
+  "clankerInfo": null
+}

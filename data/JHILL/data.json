@@ -1,0 +1,22 @@
+{
+  "name": "JHILL",
+  "symbol": "JHILL",
+  "decimals": 18,
+  "description": "JHILL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JHILL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JHILL",
+  "addresses": {
+    "8453": "0x1b8c6dac9b0646293e8e237e85167d30f71603a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JHILL",
+    "sanitizedSymbol": "JHILL",
+    "created_at": "2024-12-12T03:58:13.087325",
+    "deployer": "0x677815c69018cbff0201374Dfd1a61d410049b7f",
+    "lpNftId": "1429035",
+    "lockerAddress": "0xEfCCFC7Ac93B2B9a4405fd7AE4a9773328513827"
+  },
+  "clankerInfo": null
+}

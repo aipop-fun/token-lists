@@ -1,0 +1,22 @@
+{
+  "name": "Blue Bird Bit",
+  "symbol": "Blue Bird Bit",
+  "decimals": 18,
+  "description": "Blue Bird Bit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Bird%20Bit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Bird Bit",
+  "addresses": {
+    "8453": "0x326c9c81d8a563fc38e78d33772f6abcf7734f5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Bird Bit",
+    "sanitizedSymbol": "BLUE_BIRD_BIT",
+    "created_at": "2024-12-11T05:59:07.704427",
+    "deployer": "0xDC7b8F952760C4CBe72ca746afe86AeBCc17D2B7",
+    "lpNftId": "1413697",
+    "lockerAddress": "0x3e495386eD159050a866023132425b335fF108C9"
+  },
+  "clankerInfo": null
+}

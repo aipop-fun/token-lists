@@ -1,0 +1,22 @@
+{
+  "name": "CLANKHUB",
+  "symbol": "CLANKHUB",
+  "decimals": 18,
+  "description": "CLANKHUB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKHUB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKHUB",
+  "addresses": {
+    "8453": "0x24e02d51ecf25e5aa305c2368a0e7d00bfd2f62c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKHUB",
+    "sanitizedSymbol": "CLANKHUB_2",
+    "created_at": "2024-12-10T03:43:21.473991",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1395821",
+    "lockerAddress": "0xB340Ef802F6aFb6a2E04116873668cAA3bDe3736"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BUGAI",
+  "symbol": "BUGAI",
+  "decimals": 18,
+  "description": "BUGAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUGAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUGAI",
+  "addresses": {
+    "8453": "0x348bcaf814b984fb001e6ab6c153c6baa3312d08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUGAI",
+    "sanitizedSymbol": "BUGAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xD547D9E3706c9D8B7142d9718eb21bBa9FF8D821",
+    "lpNftId": "1238379",
+    "lockerAddress": "0x6d10d0a655B9B6138D3bC615b5BaB61DA73E1426"
+  },
+  "clankerInfo": null
+}

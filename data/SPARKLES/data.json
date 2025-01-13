@@ -1,0 +1,22 @@
+{
+  "name": "sparkles",
+  "symbol": "sparkles",
+  "decimals": 18,
+  "description": "sparkles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sparkles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sparkles",
+  "addresses": {
+    "8453": "0x39a20d691a9b0ce5013d99c9fdfe3132d69c953e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sparkles",
+    "sanitizedSymbol": "SPARKLES",
+    "created_at": "2024-12-12T01:42:53.836467",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1428472",
+    "lockerAddress": "0x6BB5Dd863D73DCEc3ddA3C6cf9b306c1C4b85738"
+  },
+  "clankerInfo": null
+}

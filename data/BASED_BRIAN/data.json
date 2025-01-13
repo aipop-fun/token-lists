@@ -1,0 +1,22 @@
+{
+  "name": "Based Brian",
+  "symbol": "Based Brian",
+  "decimals": 18,
+  "description": "Based Brian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Brian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Brian",
+  "addresses": {
+    "8453": "0x068ee099845741a829b73cce96119867005cac39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Brian",
+    "sanitizedSymbol": "BASED_BRIAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236506",
+    "lockerAddress": "0x8D98752Cb7aa3bA6fd642bc9A45B0FD5C29Cc98A"
+  },
+  "clankerInfo": null
+}

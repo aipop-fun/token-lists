@@ -1,0 +1,22 @@
+{
+  "name": "mmask",
+  "symbol": "mmask",
+  "decimals": 18,
+  "description": "mmask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mmask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mmask",
+  "addresses": {
+    "8453": "0x032842ffbd49fb7e325a23cbf76a8e3fef4f3220"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mmask",
+    "sanitizedSymbol": "MMASK",
+    "created_at": "2024-12-11T05:21:43.346343",
+    "deployer": "0x2569A1ae43285804944010C805B9B70023B2A19F",
+    "lpNftId": "1413098",
+    "lockerAddress": "0xdd25F4516bd50D84D37278Cd1c0f5e79f5c233e9"
+  },
+  "clankerInfo": null
+}

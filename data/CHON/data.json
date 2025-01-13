@@ -1,0 +1,22 @@
+{
+  "name": "chon",
+  "symbol": "chon",
+  "decimals": 18,
+  "description": "chon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chon",
+  "addresses": {
+    "8453": "0x26fa3ee414104bf683749cd7e5fbdc809f106f51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chon",
+    "sanitizedSymbol": "CHON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3e6a45901Be8818f454e90a4194a19c885d7EB63",
+    "lpNftId": "1323133",
+    "lockerAddress": "0x5b4840f8616c2b53A7d5d90aD0f247A998290e54"
+  },
+  "clankerInfo": null
+}

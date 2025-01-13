@@ -1,0 +1,22 @@
+{
+  "name": "degen by @clanker",
+  "symbol": "degen by @clanker",
+  "decimals": 18,
+  "description": "degen by @clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degen%20by%20%40clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degen by @clanker",
+  "addresses": {
+    "8453": "0x36a5106899aa0b66a093d911341044c51e393422"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degen by @clanker",
+    "sanitizedSymbol": "DEGEN_BY_CLANKER",
+    "created_at": "2024-12-09T06:13:57.698181",
+    "deployer": "0xC7292c33fa4ED21b7DB0aEF23A98DA01362d4773",
+    "lpNftId": "1383739",
+    "lockerAddress": "0x0e97b03FE72112Fc9c2C1f066B89b6abF2C50558"
+  },
+  "clankerInfo": null
+}

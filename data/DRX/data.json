@@ -1,0 +1,22 @@
+{
+  "name": "DRX",
+  "symbol": "DRX",
+  "decimals": 18,
+  "description": "DRX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRX",
+  "addresses": {
+    "8453": "0x356668ab68d58378f4311c00036d051330c72b3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRX",
+    "sanitizedSymbol": "DRX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x17Df392799b896927c34171860FF246cdF18230a",
+    "lpNftId": "1329854",
+    "lockerAddress": "0xdFe0a9fB6Ccd93042927B98B95e7c5f1730bb298"
+  },
+  "clankerInfo": null
+}

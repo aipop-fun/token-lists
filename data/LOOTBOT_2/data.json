@@ -1,0 +1,22 @@
+{
+  "name": "LootBot",
+  "symbol": "LootBot",
+  "decimals": 18,
+  "description": "LootBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LootBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LootBot",
+  "addresses": {
+    "8453": "0x17db457e51db9c78cae86c568e5e58bd25590b74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LootBot",
+    "sanitizedSymbol": "LOOTBOT_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2F1E10083Ecf6beB73f552c5066C7E36Fc73d0d0",
+    "lpNftId": "1265829",
+    "lockerAddress": "0xE0A0da488159c2163f8A24F2104737263a7a8dd9"
+  },
+  "clankerInfo": null
+}

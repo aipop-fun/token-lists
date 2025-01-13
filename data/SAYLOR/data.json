@@ -1,0 +1,22 @@
+{
+  "name": "Saylor",
+  "symbol": "Saylor",
+  "decimals": 18,
+  "description": "Saylor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Saylor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Saylor",
+  "addresses": {
+    "8453": "0x4083649b68df8a62acc8a7b241f6d4a5dfa3cdc2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Saylor",
+    "sanitizedSymbol": "SAYLOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211491",
+    "lockerAddress": "0x66EC0e5309bea082525c45589Ed05793236AFDdb"
+  },
+  "clankerInfo": null
+}

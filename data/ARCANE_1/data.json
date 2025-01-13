@@ -1,0 +1,22 @@
+{
+  "name": "Arcane",
+  "symbol": "Arcane",
+  "decimals": 18,
+  "description": "Arcane is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Arcane",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Arcane",
+  "addresses": {
+    "8453": "0x00cc468a4019cb32bfbda8b03de10ab6d025b9e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Arcane",
+    "sanitizedSymbol": "ARCANE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229762",
+    "lockerAddress": "0x352f7D63D591D994034e71DD79B82b4401BF99D1"
+  },
+  "clankerInfo": null
+}

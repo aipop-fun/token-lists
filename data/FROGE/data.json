@@ -1,0 +1,22 @@
+{
+  "name": "Froge",
+  "symbol": "Froge",
+  "decimals": 18,
+  "description": "Froge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Froge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Froge",
+  "addresses": {
+    "8453": "0x2e9fbc5b2b1212966c4ff1a506c09d4fd8bd92e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Froge",
+    "sanitizedSymbol": "FROGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199457",
+    "lockerAddress": "0xC2E664C9D889D09D51F8Fe47bC11C74e21d45C53"
+  },
+  "clankerInfo": null
+}

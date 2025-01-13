@@ -1,0 +1,22 @@
+{
+  "name": "ClankerJr",
+  "symbol": "ClankerJr",
+  "decimals": 18,
+  "description": "ClankerJr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerJr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerJr",
+  "addresses": {
+    "8453": "0x3e767d8f182d1e50dbe8e40161993f06925ecef3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerJr",
+    "sanitizedSymbol": "CLANKERJR",
+    "created_at": "2024-12-11T09:22:26.832152",
+    "deployer": "0x24993ccF3B739E992c0851034443D891605CAA96",
+    "lpNftId": "1415502",
+    "lockerAddress": "0x2Bcf6b5CA16b54e5F2c3AB7537296B3fDf3a2629"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Haters",
+  "symbol": "Haters",
+  "decimals": 18,
+  "description": "Haters is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Haters",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Haters",
+  "addresses": {
+    "8453": "0x0797bb892237c35745960ceb0a1dd5c949aef38a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Haters",
+    "sanitizedSymbol": "HATERS",
+    "created_at": "2024-12-12T07:48:49.23897",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1429815",
+    "lockerAddress": "0x0c480e4461309a0bDf094ba46D8BEf3fad4c6f9D"
+  },
+  "clankerInfo": null
+}

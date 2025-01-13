@@ -1,0 +1,22 @@
+{
+  "name": "Inflation",
+  "symbol": "Inflation",
+  "decimals": 18,
+  "description": "Inflation is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inflation",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inflation",
+  "addresses": {
+    "8453": "0x377e05f6dc5f8bc4894d4a4586063374582cbe4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inflation",
+    "sanitizedSymbol": "INFLATION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150970",
+    "lockerAddress": "0x046B67c5e5d422e61B132D6EB331cc8603Ad0c41"
+  },
+  "clankerInfo": null
+}

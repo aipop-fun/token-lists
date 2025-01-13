@@ -1,0 +1,22 @@
+{
+  "name": "Morpho",
+  "symbol": "Morpho",
+  "decimals": 18,
+  "description": "Morpho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Morpho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Morpho",
+  "addresses": {
+    "8453": "0x20f107c6c3a601ea2b7844c7578291ffddcc812b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Morpho",
+    "sanitizedSymbol": "MORPHO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203001",
+    "lockerAddress": "0x7E575BAE6eBEf01cBd61242dF3b2883E2E17e564"
+  },
+  "clankerInfo": null
+}

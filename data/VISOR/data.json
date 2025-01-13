@@ -1,0 +1,22 @@
+{
+  "name": "Visor",
+  "symbol": "Visor",
+  "decimals": 18,
+  "description": "Visor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Visor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Visor",
+  "addresses": {
+    "8453": "0x1ec8e632e80fb19c7d0ddf2dfbcde4d9210b02e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Visor",
+    "sanitizedSymbol": "VISOR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf5208d0e44e1b84A4F310Aeb3a9f41C6D001DAfd",
+    "lpNftId": "1347167",
+    "lockerAddress": "0xb605A5e779f1ADA669559Cf18bd96B2ac1F7B8e3"
+  },
+  "clankerInfo": null
+}

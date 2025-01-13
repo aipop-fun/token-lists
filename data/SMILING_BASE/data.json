@@ -1,0 +1,22 @@
+{
+  "name": "Smiling Base",
+  "symbol": "Smiling Base",
+  "decimals": 18,
+  "description": "Smiling Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Smiling%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Smiling Base",
+  "addresses": {
+    "8453": "0x39c5fa11a5076f9520adc681f43827a3f0ee8401"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Smiling Base",
+    "sanitizedSymbol": "SMILING_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90bD7151c2F0E4000C06254BBf25e6416d527b7d",
+    "lpNftId": "1366864",
+    "lockerAddress": "0xB336794B719F266f12Ee591b3c073Fe7B387F3a5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Birthday Pigeon",
+  "symbol": "Birthday Pigeon",
+  "decimals": 18,
+  "description": "Birthday Pigeon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Birthday%20Pigeon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Birthday Pigeon",
+  "addresses": {
+    "8453": "0x25eaad0ee967776eab3bebfa2e39a7c0d33f9f0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Birthday Pigeon",
+    "sanitizedSymbol": "BIRTHDAY_PIGEON",
+    "created_at": "2024-12-10T15:05:03.103287",
+    "deployer": "0x6e55171b59e11bEE97f9314A0963262aCE34D073",
+    "lpNftId": "1402412",
+    "lockerAddress": "0x06982eF8601f3659e6028B2Db5aae80247d02862"
+  },
+  "clankerInfo": null
+}

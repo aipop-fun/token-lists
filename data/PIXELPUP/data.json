@@ -1,0 +1,22 @@
+{
+  "name": "PixelPup",
+  "symbol": "PixelPup",
+  "decimals": 18,
+  "description": "PixelPup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PixelPup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PixelPup",
+  "addresses": {
+    "8453": "0x32dd7792f6378c8c8df7679dc3fe3056144e8ebe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PixelPup",
+    "sanitizedSymbol": "PIXELPUP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151220",
+    "lockerAddress": "0xCF3f7B9B1772f0cdcCB7a21F7Ed73a28E421d22e"
+  },
+  "clankerInfo": null
+}

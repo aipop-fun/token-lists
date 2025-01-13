@@ -1,0 +1,22 @@
+{
+  "name": "MOONBARK",
+  "symbol": "MOONBARK",
+  "decimals": 18,
+  "description": "MOONBARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONBARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONBARK",
+  "addresses": {
+    "8453": "0x1777d16f6eb92404e6c86a2e8261ac3ea91083f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONBARK",
+    "sanitizedSymbol": "MOONBARK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xaC45e4001977694e9a168e6f33C2cfd463cDcf5b",
+    "lpNftId": "1280901",
+    "lockerAddress": "0xaEd8184cc117C10f2713B48254c4D3131424f671"
+  },
+  "clankerInfo": null
+}

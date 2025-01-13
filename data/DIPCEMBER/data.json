@@ -1,0 +1,22 @@
+{
+  "name": "Dipcember",
+  "symbol": "Dipcember",
+  "decimals": 18,
+  "description": "Dipcember is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dipcember",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dipcember",
+  "addresses": {
+    "8453": "0x2fd09b339f267fd8f39ac201ac5b84107f9ba1b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dipcember",
+    "sanitizedSymbol": "DIPCEMBER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x19A530d78aAddF1e26Fa2faDb4518085655Cb32f",
+    "lpNftId": "1316696",
+    "lockerAddress": "0xb76FA46B517de4b8DA5935b5dD405cc3c3E574A0"
+  },
+  "clankerInfo": null
+}

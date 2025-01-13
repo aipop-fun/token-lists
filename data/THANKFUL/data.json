@@ -1,0 +1,22 @@
+{
+  "name": "Thankful",
+  "symbol": "Thankful",
+  "decimals": 18,
+  "description": "Thankful is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Thankful",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Thankful",
+  "addresses": {
+    "8453": "0x0ba3cc993deaa74c42aba34c4e617a84eedb645e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Thankful",
+    "sanitizedSymbol": "THANKFUL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x76C3DA8d7b6AAd6b3Cc12714237b42Cd4535b860",
+    "lpNftId": "1251455",
+    "lockerAddress": "0x185Cefbc25E7a1833db416Bc3B2123FACC742aE8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "meow cat",
+  "symbol": "meow cat",
+  "decimals": 18,
+  "description": "meow cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=meow%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "meow cat",
+  "addresses": {
+    "8453": "0x34d3fb81ae966e7764d0597c525a996a1b43686e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "meow cat",
+    "sanitizedSymbol": "MEOW_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE02e9dc0Bd28e65b1917b6B6379DE13CD00A5d72",
+    "lpNftId": "1311023",
+    "lockerAddress": "0x0F0e2D05422F902e1E1aD3B6FBA895DA6fFDE125"
+  },
+  "clankerInfo": null
+}

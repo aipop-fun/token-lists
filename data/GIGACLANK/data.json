@@ -1,0 +1,22 @@
+{
+  "name": "GIGACLANK",
+  "symbol": "GIGACLANK",
+  "decimals": 18,
+  "description": "GIGACLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIGACLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIGACLANK",
+  "addresses": {
+    "8453": "0x35320882facfa82ff43d2ea11fd4fe605a759a29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIGACLANK",
+    "sanitizedSymbol": "GIGACLANK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbeb40EAfD717Ae1c6Ac0414ba1631f46e2777795",
+    "lpNftId": "1360313",
+    "lockerAddress": "0x03E58e7651520A2120fF6635d7b693b293DA86ca"
+  },
+  "clankerInfo": null
+}

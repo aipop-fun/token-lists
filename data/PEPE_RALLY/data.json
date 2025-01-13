@@ -1,0 +1,22 @@
+{
+  "name": "PEPE RALLY",
+  "symbol": "PEPE RALLY",
+  "decimals": 18,
+  "description": "PEPE RALLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20RALLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE RALLY",
+  "addresses": {
+    "8453": "0x2fa5a06bb269f9197117ce7ea7754235b1b90976"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE RALLY",
+    "sanitizedSymbol": "PEPE_RALLY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1375801",
+    "lockerAddress": "0x07Af26f6237e28183e6be8C61eA177F4f068E732"
+  },
+  "clankerInfo": null
+}

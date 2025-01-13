@@ -1,0 +1,22 @@
+{
+  "name": "Amazingly Silly Investment",
+  "symbol": "Amazingly Silly Investment",
+  "decimals": 18,
+  "description": "Amazingly Silly Investment is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Amazingly%20Silly%20Investment",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Amazingly Silly Investment",
+  "addresses": {
+    "8453": "0x3e56a3d473ff71600cfa35e2a9032336b3bf6e9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Amazingly Silly Investment",
+    "sanitizedSymbol": "AMAZINGLY_SILLY_INVESTMENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203827",
+    "lockerAddress": "0x71Cc9515fEB865A5480300Ddbf142997B4dAEb4C"
+  },
+  "clankerInfo": null
+}

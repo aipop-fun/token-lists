@@ -1,0 +1,22 @@
+{
+  "name": "FireFlame",
+  "symbol": "FireFlame",
+  "decimals": 18,
+  "description": "FireFlame is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FireFlame",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FireFlame",
+  "addresses": {
+    "8453": "0x34f80eb99280e3ae4b78d0fc0e0c658b36cc3d48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FireFlame",
+    "sanitizedSymbol": "FIREFLAME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220163",
+    "lockerAddress": "0x7580Df9c56eB0e12E104Ab6453fFb2E2e027eCd8"
+  },
+  "clankerInfo": null
+}

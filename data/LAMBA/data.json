@@ -1,0 +1,22 @@
+{
+  "name": "Lamba",
+  "symbol": "Lamba",
+  "decimals": 18,
+  "description": "Lamba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lamba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lamba",
+  "addresses": {
+    "8453": "0x08480c76c37bdc3bda1c32d640f5dbae4f0a380f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lamba",
+    "sanitizedSymbol": "LAMBA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0D4F1241c6854e6f9D99d404807001cd1cc5D0AA",
+    "lpNftId": "1315050",
+    "lockerAddress": "0x8CC2B61Ee1BAeAA5899Eb1F8D5E677d176502d69"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XON",
+  "symbol": "XON",
+  "decimals": 18,
+  "description": "XON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XON",
+  "addresses": {
+    "8453": "0x1b96b814b2f934746778c174ac8fc51f717388f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XON",
+    "sanitizedSymbol": "XON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9330AB62019006A977Fe2aFe844A123aDAAe1287",
+    "lpNftId": "1320961",
+    "lockerAddress": "0xf1C1B1064353222687B31664e231598B0810e3A2"
+  },
+  "clankerInfo": null
+}

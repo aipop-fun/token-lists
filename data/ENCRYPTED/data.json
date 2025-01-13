@@ -1,0 +1,22 @@
+{
+  "name": "Encrypted",
+  "symbol": "Encrypted",
+  "decimals": 18,
+  "description": "Encrypted is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Encrypted",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Encrypted",
+  "addresses": {
+    "8453": "0x1c830489f3511452500012a9cadf2902eb1d2436"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Encrypted",
+    "sanitizedSymbol": "ENCRYPTED",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x34fa27534f9d3B30bcc3A842a3D360B5C7657faA",
+    "lpNftId": "1265575",
+    "lockerAddress": "0x5aC1fd36150F57A3DE0f03Ce9E4ab8552C11Dc2C"
+  },
+  "clankerInfo": null
+}

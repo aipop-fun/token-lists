@@ -1,0 +1,22 @@
+{
+  "name": "Unruly",
+  "symbol": "Unruly",
+  "decimals": 18,
+  "description": "Unruly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unruly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unruly",
+  "addresses": {
+    "8453": "0x30131d5c8330093a0e180faa840a0fc55c3d2b3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unruly",
+    "sanitizedSymbol": "UNRULY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237119",
+    "lockerAddress": "0x7e107AB913f6e284C0A0f071688af39BdB9CdF2a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mid Curve",
+  "symbol": "Mid Curve",
+  "decimals": 18,
+  "description": "Mid Curve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mid%20Curve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mid Curve",
+  "addresses": {
+    "8453": "0x2884efa980598d55dbed55e3fb982df86592461f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mid Curve",
+    "sanitizedSymbol": "MID_CURVE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229239",
+    "lockerAddress": "0xDAcc93E39BDa1C9A12ECE324Ff3497cb0330E446"
+  },
+  "clankerInfo": null
+}

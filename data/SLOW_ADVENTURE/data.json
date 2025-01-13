@@ -1,0 +1,22 @@
+{
+  "name": "slow adventure",
+  "symbol": "slow adventure",
+  "decimals": 18,
+  "description": "slow adventure is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slow%20adventure",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slow adventure",
+  "addresses": {
+    "8453": "0x05609b94861de476e057b34bb1fad52afa04d42e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slow adventure",
+    "sanitizedSymbol": "SLOW_ADVENTURE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x581eBcC79E8956a6921Aeed3626F9D577311e388",
+    "lpNftId": "1252328",
+    "lockerAddress": "0xa6D11F7221915627F177BAc90980cB7891fD0C6b"
+  },
+  "clankerInfo": null
+}

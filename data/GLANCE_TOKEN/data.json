@@ -1,0 +1,22 @@
+{
+  "name": "GLANCE TOKEN",
+  "symbol": "GLANCE TOKEN",
+  "decimals": 18,
+  "description": "GLANCE TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GLANCE%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GLANCE TOKEN",
+  "addresses": {
+    "8453": "0x20618d6778a299ccc90dbce1f73d557d3630b605"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GLANCE TOKEN",
+    "sanitizedSymbol": "GLANCE_TOKEN",
+    "created_at": "2024-12-10T18:13:37.102537",
+    "deployer": "0xc0E46e817daaab13c6B6424BeeB0E053C5f32C3B",
+    "lpNftId": "1405346",
+    "lockerAddress": "0x56C7cc220340059f774aA998DD5144c952534581"
+  },
+  "clankerInfo": null
+}

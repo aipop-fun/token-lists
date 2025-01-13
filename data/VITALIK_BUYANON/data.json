@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik Buyanon",
+  "symbol": "Vitalik Buyanon",
+  "decimals": 18,
+  "description": "Vitalik Buyanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20Buyanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik Buyanon",
+  "addresses": {
+    "8453": "0x1245bc3aab49681a44ba6d37f98ddd41bfdaef46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik Buyanon",
+    "sanitizedSymbol": "VITALIK_BUYANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201423",
+    "lockerAddress": "0x0DA3655763B894C81909580b882cA2163743e818"
+  },
+  "clankerInfo": null
+}

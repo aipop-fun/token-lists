@@ -1,0 +1,22 @@
+{
+  "name": "Clutch Canvas",
+  "symbol": "Clutch Canvas",
+  "decimals": 18,
+  "description": "Clutch Canvas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clutch%20Canvas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clutch Canvas",
+  "addresses": {
+    "8453": "0x092b08bd227ff14560e7963db1ab726ca2e092de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clutch Canvas",
+    "sanitizedSymbol": "CLUTCH_CANVAS",
+    "created_at": "2024-12-12T04:16:12.896942",
+    "deployer": "0x89169e87006c2DC37e38686033F72289a027394e",
+    "lpNftId": "1429121",
+    "lockerAddress": "0xaA9456aA040b16c226156556b2D65D3d4592Fde5"
+  },
+  "clankerInfo": null
+}

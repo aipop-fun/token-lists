@@ -1,0 +1,22 @@
+{
+  "name": "1$ to 1000$",
+  "symbol": "1$ to 1000$",
+  "decimals": 18,
+  "description": "1$ to 1000$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%24%20to%201000%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1$ to 1000$",
+  "addresses": {
+    "8453": "0x0ddbaaffca23a21aa65686bb9c7a26573ee9d7d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1$ to 1000$",
+    "sanitizedSymbol": "1_TO_1000",
+    "created_at": "2024-12-10T12:03:04.900032",
+    "deployer": "0x08924359C71f104C1500cFfdE1C906096E5250E3",
+    "lpNftId": "1400547",
+    "lockerAddress": "0x67368da64E3F10BaE97050d6B576bc621172153b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BARF",
+  "symbol": "BARF",
+  "decimals": 18,
+  "description": "BARF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BARF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BARF",
+  "addresses": {
+    "8453": "0x058ad8840eac80e12aada1896a98d144cd46d35b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BARF",
+    "sanitizedSymbol": "BARF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1323073",
+    "lockerAddress": "0x5443ABC7732C218d765DDcEDFb1021a1D625541C"
+  },
+  "clankerInfo": null
+}

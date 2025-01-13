@@ -1,0 +1,22 @@
+{
+  "name": "den",
+  "symbol": "den",
+  "decimals": 18,
+  "description": "den is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=den",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "den",
+  "addresses": {
+    "8453": "0x13a27f3ffec9bfe401e7f347b59badea5a9c9ee7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "den",
+    "sanitizedSymbol": "DEN",
+    "created_at": "2024-12-12T16:12:35.696138",
+    "deployer": "0xBA7e791678d43C94c6D2eE8f0dc08ceFd67FA6A9",
+    "lpNftId": "1438093",
+    "lockerAddress": "0xF59A7DA56d6e32971e48aa751e5831be0a1ed8Fb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Inverted APU Clanker",
+  "symbol": "Inverted APU Clanker",
+  "decimals": 18,
+  "description": "Inverted APU Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inverted%20APU%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inverted APU Clanker",
+  "addresses": {
+    "8453": "0x17a95095b8fc2e87601e91ddede34cbd285118f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inverted APU Clanker",
+    "sanitizedSymbol": "INVERTED_APU_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1360903",
+    "lockerAddress": "0x03d872676000dd659E8b093eE3E329f1Be7E8390"
+  },
+  "clankerInfo": null
+}

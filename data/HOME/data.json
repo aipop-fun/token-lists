@@ -1,0 +1,22 @@
+{
+  "name": "HOME",
+  "symbol": "HOME",
+  "decimals": 18,
+  "description": "HOME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOME",
+  "addresses": {
+    "8453": "0x2b6de2262fb5dc4a52958c13fd278c36dcfa3d5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOME",
+    "sanitizedSymbol": "HOME",
+    "created_at": "2024-12-11T00:23:46.549877",
+    "deployer": "0x4479cc0559Cb02b6625DE8724Acdd06A7DE765dA",
+    "lpNftId": "1408864",
+    "lockerAddress": "0x15fCB58B4c548294EB1C01a8F13Db6443D5bF889"
+  },
+  "clankerInfo": null
+}

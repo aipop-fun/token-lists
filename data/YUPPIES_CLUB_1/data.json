@@ -1,0 +1,22 @@
+{
+  "name": "Yuppies Club",
+  "symbol": "Yuppies Club",
+  "decimals": 18,
+  "description": "Yuppies Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yuppies%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yuppies Club",
+  "addresses": {
+    "8453": "0x207427cf9b6fc9db62761bc62e474b1f7859ad28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yuppies Club",
+    "sanitizedSymbol": "YUPPIES_CLUB_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa39f3f1001E06eCeD2CA6b82f760814C2E48ea4E",
+    "lpNftId": "1289484",
+    "lockerAddress": "0xD71AC4daA1DdFC0ACD722f9e35eaDcCEE00a5cB1"
+  },
+  "clankerInfo": null
+}

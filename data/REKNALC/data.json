@@ -1,0 +1,22 @@
+{
+  "name": "REKNALC",
+  "symbol": "REKNALC",
+  "decimals": 18,
+  "description": "REKNALC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REKNALC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REKNALC",
+  "addresses": {
+    "8453": "0x246e5a69d6892a6a443300dd888862d694be16ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REKNALC",
+    "sanitizedSymbol": "REKNALC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231745",
+    "lockerAddress": "0x0F1938Da6195b6C05Ad53e1ED89C50d7195D39fA"
+  },
+  "clankerInfo": null
+}

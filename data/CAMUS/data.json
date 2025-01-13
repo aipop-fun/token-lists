@@ -1,0 +1,22 @@
+{
+  "name": "Camus",
+  "symbol": "Camus",
+  "decimals": 18,
+  "description": "Camus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Camus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Camus",
+  "addresses": {
+    "8453": "0x279d0abc67afaff5756c29ef76c123c443a512bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Camus",
+    "sanitizedSymbol": "CAMUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6C2ae452d2b966259d889A26fAa034cC741e3327",
+    "lpNftId": "1327658",
+    "lockerAddress": "0xb13fab12b2babC17b5De6E864C60Ba53f4CaB10b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "1-900-CLANKER",
+  "symbol": "1-900-CLANKER",
+  "decimals": 18,
+  "description": "1-900-CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1-900-CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1-900-CLANKER",
+  "addresses": {
+    "8453": "0x1364503b97cf1bf91973ecddf9795dd02fad81f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1-900-CLANKER",
+    "sanitizedSymbol": "1_900_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1376407",
+    "lockerAddress": "0xa9714F00984ccBD2310A5BA9243A581B78684754"
+  },
+  "clankerInfo": null
+}

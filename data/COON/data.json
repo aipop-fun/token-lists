@@ -1,0 +1,22 @@
+{
+  "name": "Coon",
+  "symbol": "Coon",
+  "decimals": 18,
+  "description": "Coon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coon",
+  "addresses": {
+    "8453": "0x3629e0a970dfc0d4222a06144734aff02849fb5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coon",
+    "sanitizedSymbol": "COON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
+    "lpNftId": "1286462",
+    "lockerAddress": "0xA74C52444ECBD1754b901D0836138a9138E8C2f0"
+  },
+  "clankerInfo": null
+}

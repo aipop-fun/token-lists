@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Bull",
+  "symbol": "Crypto Bull",
+  "decimals": 18,
+  "description": "Crypto Bull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Bull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Bull",
+  "addresses": {
+    "8453": "0x1ea87bb486c2bc142a7c6b912ceea0973952a003"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Bull",
+    "sanitizedSymbol": "CRYPTO_BULL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84813269551f7B46E319d5393fdbd41ce17b728D",
+    "lpNftId": "1311409",
+    "lockerAddress": "0x4f6A688C3e1B3dDC621ffB476Af420A4F8e8B760"
+  },
+  "clankerInfo": null
+}

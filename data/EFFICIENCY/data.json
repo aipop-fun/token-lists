@@ -1,0 +1,22 @@
+{
+  "name": "Efficiency",
+  "symbol": "Efficiency",
+  "decimals": 18,
+  "description": "Efficiency is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Efficiency",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Efficiency",
+  "addresses": {
+    "8453": "0x220624cb1403aa5ded74a33987cdf86d99f375a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Efficiency",
+    "sanitizedSymbol": "EFFICIENCY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221347",
+    "lockerAddress": "0x072466CEee2a63385E49fe0280eCFBF7caCD4294"
+  },
+  "clankerInfo": null
+}

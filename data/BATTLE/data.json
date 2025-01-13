@@ -1,0 +1,22 @@
+{
+  "name": "Battle",
+  "symbol": "Battle",
+  "decimals": 18,
+  "description": "Battle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Battle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Battle",
+  "addresses": {
+    "8453": "0x2226975dde43a18e076c1ff20becd1f10087f70a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Battle",
+    "sanitizedSymbol": "BATTLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3f431f9a3f8117Ff11135FBbADa1177ffb34399B",
+    "lpNftId": "1283739",
+    "lockerAddress": "0xFA791a872BDA931b5cBb90885A29353F8a078F7e"
+  },
+  "clankerInfo": null
+}

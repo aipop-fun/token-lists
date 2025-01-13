@@ -1,0 +1,22 @@
+{
+  "name": "DREAM",
+  "symbol": "DREAM",
+  "decimals": 18,
+  "description": "DREAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DREAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DREAM",
+  "addresses": {
+    "8453": "0x18b1db37666a1effb0b586170597a3eabf848048"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DREAM",
+    "sanitizedSymbol": "DREAM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156763",
+    "lockerAddress": "0xb44dB1EE3C13Ed88665495927c095BCBfa709961"
+  },
+  "clankerInfo": null
+}

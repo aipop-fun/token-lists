@@ -1,0 +1,22 @@
+{
+  "name": "Pengu Pudgy Base",
+  "symbol": "Pengu Pudgy Base",
+  "decimals": 18,
+  "description": "Pengu Pudgy Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pengu%20Pudgy%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pengu Pudgy Base",
+  "addresses": {
+    "8453": "0x3f6692ce488dc2da3362a4a3921639ef9d753f1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pengu Pudgy Base",
+    "sanitizedSymbol": "PENGU_PUDGY_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1353886",
+    "lockerAddress": "0xbA1c3C0eEA7ed6C45965Ac7f7252B79ee5A0a337"
+  },
+  "clankerInfo": null
+}

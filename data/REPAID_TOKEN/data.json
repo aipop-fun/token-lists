@@ -1,0 +1,22 @@
+{
+  "name": "Repaid Token",
+  "symbol": "Repaid Token",
+  "decimals": 18,
+  "description": "Repaid Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Repaid%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Repaid Token",
+  "addresses": {
+    "8453": "0x240097c147ba85c3429e9dd9a3e98ef5094cb156"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Repaid Token",
+    "sanitizedSymbol": "REPAID_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfbe07BCa58d3c78043434D86a0640f7508fD6a03",
+    "lpNftId": "1333047",
+    "lockerAddress": "0xD4dF70e37eB15817e88B3e89Bc80E72f7BAe8530"
+  },
+  "clankerInfo": null
+}

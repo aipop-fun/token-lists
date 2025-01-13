@@ -1,0 +1,22 @@
+{
+  "name": "Celestia",
+  "symbol": "Celestia",
+  "decimals": 18,
+  "description": "Celestia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Celestia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Celestia",
+  "addresses": {
+    "8453": "0x0523c06052032401457150e4e699f152cf811b92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Celestia",
+    "sanitizedSymbol": "CELESTIA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173514",
+    "lockerAddress": "0xf8b304be584ed22215E86060230a67a35ac1Cc04"
+  },
+  "clankerInfo": null
+}

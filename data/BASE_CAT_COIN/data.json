@@ -1,0 +1,22 @@
+{
+  "name": "Base Cat Coin",
+  "symbol": "Base Cat Coin",
+  "decimals": 18,
+  "description": "Base Cat Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Cat%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Cat Coin",
+  "addresses": {
+    "8453": "0x1a77910bccc5d736286453e80647a93a3563b65f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Cat Coin",
+    "sanitizedSymbol": "BASE_CAT_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158646",
+    "lockerAddress": "0x6e8376b16B8a62C4422794822560B38582c9e3bB"
+  },
+  "clankerInfo": null
+}

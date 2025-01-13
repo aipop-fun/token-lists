@@ -1,0 +1,22 @@
+{
+  "name": "CelestialCrown",
+  "symbol": "CelestialCrown",
+  "decimals": 18,
+  "description": "CelestialCrown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CelestialCrown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CelestialCrown",
+  "addresses": {
+    "8453": "0x361db652c50546573cfd580b989e7fe02a6fc09a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CelestialCrown",
+    "sanitizedSymbol": "CELESTIALCROWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128919",
+    "lockerAddress": "0x9e1004BD230eEDE8Cbc26AA4e94f726dbd51893a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Based Flame",
+  "symbol": "Based Flame",
+  "decimals": 18,
+  "description": "Based Flame is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Flame",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Flame",
+  "addresses": {
+    "8453": "0x19d8807cd88b6e304704ce1083dd2737815eda93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Flame",
+    "sanitizedSymbol": "BASED_FLAME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd0fDE8648260105b3C89a6AEA13Bb287E719A759",
+    "lpNftId": "1308807",
+    "lockerAddress": "0x2d1395BbEEC2ae2A2A0a36c30f16b3d65cb8d5a5"
+  },
+  "clankerInfo": null
+}

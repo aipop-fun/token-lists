@@ -1,0 +1,22 @@
+{
+  "name": "MEdick",
+  "symbol": "MEdick",
+  "decimals": 18,
+  "description": "MEdick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEdick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEdick",
+  "addresses": {
+    "8453": "0x2a35cf385239dd0232ef2597f49b60ca57249537"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEdick",
+    "sanitizedSymbol": "MEDICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1286234",
+    "lockerAddress": "0x50A90cc70490e18bb85117dBe8BE15b45BDe8B14"
+  },
+  "clankerInfo": null
+}

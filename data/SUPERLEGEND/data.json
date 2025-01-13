@@ -1,0 +1,22 @@
+{
+  "name": "SuperLegend",
+  "symbol": "SuperLegend",
+  "decimals": 18,
+  "description": "SuperLegend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperLegend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperLegend",
+  "addresses": {
+    "8453": "0x2c8bde6884ddbe85ab5b7f1c72e90d68c2e5a970"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperLegend",
+    "sanitizedSymbol": "SUPERLEGEND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1321499",
+    "lockerAddress": "0x4274e3Fb93331193346488a4e0DE1d2Bb9c347F1"
+  },
+  "clankerInfo": null
+}

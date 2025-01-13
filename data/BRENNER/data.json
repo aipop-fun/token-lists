@@ -1,0 +1,22 @@
+{
+  "name": "Brenner",
+  "symbol": "Brenner",
+  "decimals": 18,
+  "description": "Brenner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brenner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brenner",
+  "addresses": {
+    "8453": "0x1e3363e7758dd6a8bfbf291bc82ad10f96c308d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brenner",
+    "sanitizedSymbol": "BRENNER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164039",
+    "lockerAddress": "0x4EdD20FF321158A6998318312D9aa1689b17b6C3"
+  },
+  "clankerInfo": null
+}

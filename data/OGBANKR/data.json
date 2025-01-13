@@ -1,0 +1,22 @@
+{
+  "name": "OGBankr",
+  "symbol": "OGBankr",
+  "decimals": 18,
+  "description": "OGBankr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OGBankr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OGBankr",
+  "addresses": {
+    "8453": "0x0f633ae9a870e8e01bd9b61cac6b0b7d2237f820"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OGBankr",
+    "sanitizedSymbol": "OGBANKR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB3AE363c083D2fdB4580733Dc805b28f66f29D1f",
+    "lpNftId": "1313271",
+    "lockerAddress": "0x21eb2a4502BBE57e11a6E6B8433f2e5eE1Cfe31E"
+  },
+  "clankerInfo": null
+}

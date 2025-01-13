@@ -1,0 +1,22 @@
+{
+  "name": "Hello",
+  "symbol": "Hello",
+  "decimals": 18,
+  "description": "Hello is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello",
+  "addresses": {
+    "8453": "0x3cca354a6e98e586c0e981c7d4f9f9c89890d4c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello",
+    "sanitizedSymbol": "HELLO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x05Ec339b8401724858DbCF6408fAb221bf54d465",
+    "lpNftId": "1157018",
+    "lockerAddress": "0x9B5C1dF7590E7E7C7ab04a0364a1b43C916E7cEf"
+  },
+  "clankerInfo": null
+}

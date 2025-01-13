@@ -1,0 +1,22 @@
+{
+  "name": "ULTRA DEXS",
+  "symbol": "ULTRA DEXS",
+  "decimals": 18,
+  "description": "ULTRA DEXS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ULTRA%20DEXS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ULTRA DEXS",
+  "addresses": {
+    "8453": "0x1e352f26317e809a0b17d9700ac488e8b1960d91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ULTRA DEXS",
+    "sanitizedSymbol": "ULTRA_DEXS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1189125",
+    "lockerAddress": "0xadca4D3cC27eAABe25E8dA1fD0207A5923267fE1"
+  },
+  "clankerInfo": null
+}

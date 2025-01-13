@@ -1,0 +1,22 @@
+{
+  "name": "CabalTech",
+  "symbol": "CabalTech",
+  "decimals": 18,
+  "description": "CabalTech is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CabalTech",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CabalTech",
+  "addresses": {
+    "8453": "0x1250b1c5c70082d6a68bbcf7148aaeb0f9529b3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CabalTech",
+    "sanitizedSymbol": "CABALTECH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x67a79BADea1C3648C02116bE4357a30e1835A811",
+    "lpNftId": "1333323",
+    "lockerAddress": "0x30bAc32df837c887D8c6bA553a5D55c7Ba3BFCf9"
+  },
+  "clankerInfo": null
+}

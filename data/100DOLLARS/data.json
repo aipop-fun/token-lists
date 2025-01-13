@@ -1,0 +1,22 @@
+{
+  "name": "100Dollars",
+  "symbol": "100Dollars",
+  "decimals": 18,
+  "description": "100Dollars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100Dollars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100Dollars",
+  "addresses": {
+    "8453": "0x03efb7df56ede9eb249dfa383bdb25fa33119372"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100Dollars",
+    "sanitizedSymbol": "100DOLLARS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x66Cd110e1D009dcaF61A4e804DdD6Ae622d7432e",
+    "lpNftId": "1320784",
+    "lockerAddress": "0x0b99B8f5618Cb0B46072630b5E4e5B3da24A514E"
+  },
+  "clankerInfo": null
+}

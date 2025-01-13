@@ -1,0 +1,22 @@
+{
+  "name": "Dickbot",
+  "symbol": "Dickbot",
+  "decimals": 18,
+  "description": "Dickbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dickbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dickbot",
+  "addresses": {
+    "8453": "0x16d7dd01645db92ec69521f621f72a576ebe1ac0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dickbot",
+    "sanitizedSymbol": "DICKBOT",
+    "created_at": "2024-12-10T11:09:25.394813",
+    "deployer": "0xD4Bf6958538f26266eF2a32dB47D296323734B5a",
+    "lpNftId": "1400109",
+    "lockerAddress": "0x6a63896772155F4B0102018B974aeC695f2d5949"
+  },
+  "clankerInfo": null
+}

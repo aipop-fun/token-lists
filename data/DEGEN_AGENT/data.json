@@ -1,0 +1,22 @@
+{
+  "name": "degen agent",
+  "symbol": "degen agent",
+  "decimals": 18,
+  "description": "degen agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degen%20agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degen agent",
+  "addresses": {
+    "8453": "0x0a3a351f28971f2411aab2b6f68a99a028fe36dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degen agent",
+    "sanitizedSymbol": "DEGEN_AGENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E755b7b7b4934648Eeb237C93084726f1442763",
+    "lpNftId": "1319510",
+    "lockerAddress": "0x4d3cdbE07BAc6fdc22E736494105AFe40727E438"
+  },
+  "clankerInfo": null
+}

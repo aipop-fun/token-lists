@@ -1,0 +1,22 @@
+{
+  "name": "Stable Coin",
+  "symbol": "Stable Coin",
+  "decimals": 18,
+  "description": "Stable Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stable%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stable Coin",
+  "addresses": {
+    "8453": "0x3241a417c10ef40ec4f0fa6bdfd0e2832c817883"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stable Coin",
+    "sanitizedSymbol": "STABLE_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119958",
+    "lockerAddress": "0x6cabF428ac7dC9F915086178E3D1Ec539802B32b"
+  },
+  "clankerInfo": null
+}

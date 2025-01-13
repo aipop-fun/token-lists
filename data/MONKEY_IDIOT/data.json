@@ -1,0 +1,22 @@
+{
+  "name": "Monkey idiot",
+  "symbol": "Monkey idiot",
+  "decimals": 18,
+  "description": "Monkey idiot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monkey%20idiot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monkey idiot",
+  "addresses": {
+    "8453": "0x2693d1b0fd33faa2cc0b391487653d35de6343e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monkey idiot",
+    "sanitizedSymbol": "MONKEY_IDIOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229222",
+    "lockerAddress": "0x429D4e05A8C0523BF3aC7388348BaB8a5b651ff2"
+  },
+  "clankerInfo": null
+}

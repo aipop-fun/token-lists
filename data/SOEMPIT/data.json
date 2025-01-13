@@ -1,0 +1,22 @@
+{
+  "name": "soempit",
+  "symbol": "soempit",
+  "decimals": 18,
+  "description": "soempit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=soempit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "soempit",
+  "addresses": {
+    "8453": "0x029b7186eae705f3dda4c77577ba100348224874"
+  },
+  "tokenInfo": {
+    "originalSymbol": "soempit",
+    "sanitizedSymbol": "SOEMPIT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3a01a75c822f755da9018f45E81C9294dB5169a0",
+    "lpNftId": "1284532",
+    "lockerAddress": "0x635e61a6844eA16F2c9772DBdf694f2574a30255"
+  },
+  "clankerInfo": null
+}

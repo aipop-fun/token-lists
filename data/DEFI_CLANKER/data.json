@@ -1,0 +1,22 @@
+{
+  "name": "DeFI Clanker",
+  "symbol": "DeFI Clanker",
+  "decimals": 18,
+  "description": "DeFI Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeFI%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeFI Clanker",
+  "addresses": {
+    "8453": "0x317fdc9e4dc5d7de2ff58b9d25d6a132a9df8b22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeFI Clanker",
+    "sanitizedSymbol": "DEFI_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5Ca2E59DBF88371C1809B2747ad0d0CbCbe7f987",
+    "lpNftId": "1264616",
+    "lockerAddress": "0x99EaC174E123D8e32ab4c8322AF7A6cF60605d6C"
+  },
+  "clankerInfo": null
+}

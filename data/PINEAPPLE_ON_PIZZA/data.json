@@ -1,0 +1,22 @@
+{
+  "name": "Pineapple on Pizza",
+  "symbol": "Pineapple on Pizza",
+  "decimals": 18,
+  "description": "Pineapple on Pizza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pineapple%20on%20Pizza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pineapple on Pizza",
+  "addresses": {
+    "8453": "0x10da5ad0139ccf9e282c05c5c11564ffdb6b5c0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pineapple on Pizza",
+    "sanitizedSymbol": "PINEAPPLE_ON_PIZZA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157226",
+    "lockerAddress": "0x2BD8a16169919Dd3F797D08481a5A7b539Fbf3cF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FOMOSAPIEN",
+  "symbol": "FOMOSAPIEN",
+  "decimals": 18,
+  "description": "FOMOSAPIEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMOSAPIEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMOSAPIEN",
+  "addresses": {
+    "8453": "0x1f2a494194258635068479f02f31feebd17986e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMOSAPIEN",
+    "sanitizedSymbol": "FOMOSAPIEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124801",
+    "lockerAddress": "0x211Bc22F126CeF7cEA94Ad5C8E812cf2265D924F"
+  },
+  "clankerInfo": null
+}

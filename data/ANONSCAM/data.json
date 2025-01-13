@@ -1,0 +1,22 @@
+{
+  "name": "anonscam",
+  "symbol": "anonscam",
+  "decimals": 18,
+  "description": "anonscam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonscam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonscam",
+  "addresses": {
+    "8453": "0x0098096ea502911be7e7be69f17a3b9b80691b5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonscam",
+    "sanitizedSymbol": "ANONSCAM",
+    "created_at": "2024-12-10T08:17:35.262116",
+    "deployer": "0xB87958F0bFfcd09D19A43e48728849DEd325390B",
+    "lpNftId": "1398667",
+    "lockerAddress": "0xD19a1691f2426b74B0dD1A3f6591552772Ac9D79"
+  },
+  "clankerInfo": null
+}

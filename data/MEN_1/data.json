@@ -1,0 +1,22 @@
+{
+  "name": "MEN",
+  "symbol": "MEN",
+  "decimals": 18,
+  "description": "MEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEN",
+  "addresses": {
+    "8453": "0x3f11d6e672e179dd086f3ababb8b9469c31e6b6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEN",
+    "sanitizedSymbol": "MEN_1",
+    "created_at": "2024-12-11T14:49:47.273753",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1420627",
+    "lockerAddress": "0xf5959cCEB4dB5CCD320552F8DdA2582a02Bebd98"
+  },
+  "clankerInfo": null
+}

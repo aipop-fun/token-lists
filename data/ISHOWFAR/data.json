@@ -1,0 +1,22 @@
+{
+  "name": "Ishowfar",
+  "symbol": "Ishowfar",
+  "decimals": 18,
+  "description": "Ishowfar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ishowfar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ishowfar",
+  "addresses": {
+    "8453": "0x286d99b08dae617be9d4040722ef1ddeac3c3e60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ishowfar",
+    "sanitizedSymbol": "ISHOWFAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151338",
+    "lockerAddress": "0xB3f6a42739699efF64B30e3d8C3a1833e81Ce2fc"
+  },
+  "clankerInfo": null
+}

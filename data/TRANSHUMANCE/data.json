@@ -1,0 +1,22 @@
+{
+  "name": "Transhumance",
+  "symbol": "Transhumance",
+  "decimals": 18,
+  "description": "Transhumance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Transhumance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Transhumance",
+  "addresses": {
+    "8453": "0x3029c861aec9748d030a2bfa636d51d19322a9ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Transhumance",
+    "sanitizedSymbol": "TRANSHUMANCE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213997",
+    "lockerAddress": "0x3B4AfbC0356a82FB5519ed197df5D776A9BEF0fE"
+  },
+  "clankerInfo": null
+}

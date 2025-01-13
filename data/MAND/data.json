@@ -1,0 +1,22 @@
+{
+  "name": "mand",
+  "symbol": "mand",
+  "decimals": 18,
+  "description": "mand is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mand",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mand",
+  "addresses": {
+    "8453": "0x0d347f57ddfc0c2b6579d86ce2dbe5b3d0cac24c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mand",
+    "sanitizedSymbol": "MAND",
+    "created_at": "2024-12-11T06:32:31.110607",
+    "deployer": "0xE11e1a29612EEC758f687Cb1F72F900F59198E5C",
+    "lpNftId": "1413909",
+    "lockerAddress": "0x162F6f297775874d5bFa640eDEdCB2be520235e2"
+  },
+  "clankerInfo": null
+}

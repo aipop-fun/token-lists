@@ -1,0 +1,22 @@
+{
+  "name": "Concainit",
+  "symbol": "Concainit",
+  "decimals": 18,
+  "description": "Concainit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Concainit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Concainit",
+  "addresses": {
+    "8453": "0x2f93e624020609988fe7bd8ee566e82bfd25274c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Concainit",
+    "sanitizedSymbol": "CONCAINIT",
+    "created_at": "2024-12-09T10:11:05.313937",
+    "deployer": "0xFD847907d5ee2ce8eA2600B54C5ABf48bb335cD1",
+    "lpNftId": "1385650",
+    "lockerAddress": "0x1B2E5CE3bA951735A9625e73669298E780a39d51"
+  },
+  "clankerInfo": null
+}

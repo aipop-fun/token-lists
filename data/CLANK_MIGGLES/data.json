@@ -1,0 +1,22 @@
+{
+  "name": "Clank Miggles",
+  "symbol": "Clank Miggles",
+  "decimals": 18,
+  "description": "Clank Miggles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Miggles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Miggles",
+  "addresses": {
+    "8453": "0x36bd240e045f25bdbbfb017651531d304aa51980"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Miggles",
+    "sanitizedSymbol": "CLANK_MIGGLES",
+    "created_at": "2024-12-12T16:48:10.21602",
+    "deployer": "0x2051fC25e3cf641a29230dd1464074504D03fB6d",
+    "lpNftId": "1438854",
+    "lockerAddress": "0x4D6D2c9B95bFB7376e5A9fdF81Bb47852d2928aB"
+  },
+  "clankerInfo": null
+}

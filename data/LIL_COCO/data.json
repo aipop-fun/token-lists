@@ -1,0 +1,22 @@
+{
+  "name": "LIL COCO",
+  "symbol": "LIL COCO",
+  "decimals": 18,
+  "description": "LIL COCO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIL%20COCO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIL COCO",
+  "addresses": {
+    "8453": "0x2ddaf0e92eb2a2fea9382d0604cdf2b8f32c6712"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIL COCO",
+    "sanitizedSymbol": "LIL_COCO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34cb45209c986Ff0aC4B6D74ad52339C3D78eAfB",
+    "lpNftId": "1320867",
+    "lockerAddress": "0xC6c64E08c51acEF4dEcc61627d49c93571D2783c"
+  },
+  "clankerInfo": null
+}

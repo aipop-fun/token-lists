@@ -1,0 +1,22 @@
+{
+  "name": "Trinity",
+  "symbol": "Trinity",
+  "decimals": 18,
+  "description": "Trinity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trinity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trinity",
+  "addresses": {
+    "8453": "0x3d51d826a57d2220e8eb49415bbaf631892e1177"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trinity",
+    "sanitizedSymbol": "TRINITY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202763",
+    "lockerAddress": "0xe47B9b00e094B3d6E0c9C03a80a93d739561614e"
+  },
+  "clankerInfo": null
+}

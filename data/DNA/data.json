@@ -1,0 +1,22 @@
+{
+  "name": "DNA",
+  "symbol": "DNA",
+  "decimals": 18,
+  "description": "DNA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DNA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DNA",
+  "addresses": {
+    "8453": "0x1d740daabd11fd7a102ac637013811e61c6bd44d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DNA",
+    "sanitizedSymbol": "DNA",
+    "created_at": "2024-12-10T23:00:25.324341",
+    "deployer": "0xeB4248c119475D83e3c0c2Dc3d9B149b77D5Ccf9",
+    "lpNftId": "1408201",
+    "lockerAddress": "0x14e0b4787336D58F914Ea6147e3B2C671B881c9d"
+  },
+  "clankerInfo": null
+}

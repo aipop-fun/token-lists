@@ -1,0 +1,22 @@
+{
+  "name": "TAKO",
+  "symbol": "TAKO",
+  "decimals": 18,
+  "description": "TAKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAKO",
+  "addresses": {
+    "8453": "0x0c15f81f8b720b036dfd8405abd062263adcee4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAKO",
+    "sanitizedSymbol": "TAKO",
+    "created_at": "2024-12-09T17:15:35.558016",
+    "deployer": "0x02e745C0B7A9a431dbA46327B19f6ED20D45b25c",
+    "lpNftId": "1389602",
+    "lockerAddress": "0x2b9f3C20F11DcdEa2A5C93666b95786e13F3a085"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FASHION",
+  "symbol": "FASHION",
+  "decimals": 18,
+  "description": "FASHION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FASHION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FASHION",
+  "addresses": {
+    "8453": "0x27dbc30feb1b5c938db4af31a80467fead126262"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FASHION",
+    "sanitizedSymbol": "FASHION",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232132",
+    "lockerAddress": "0xFbEA1Bd131adBCFf3E80aB43C580b4613775990f"
+  },
+  "clankerInfo": null
+}

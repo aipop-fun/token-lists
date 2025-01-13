@@ -1,0 +1,22 @@
+{
+  "name": "HEDGE",
+  "symbol": "HEDGE",
+  "decimals": 18,
+  "description": "HEDGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEDGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEDGE",
+  "addresses": {
+    "8453": "0x2cef659fdcd5beffa78aea18e0841928553a3033"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEDGE",
+    "sanitizedSymbol": "HEDGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223576",
+    "lockerAddress": "0xe68A3cc2fFaE2151dB48ce6308a36aB608B9a231"
+  },
+  "clankerInfo": null
+}

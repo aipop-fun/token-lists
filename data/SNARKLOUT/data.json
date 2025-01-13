@@ -1,0 +1,22 @@
+{
+  "name": "Snarklout",
+  "symbol": "Snarklout",
+  "decimals": 18,
+  "description": "Snarklout is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snarklout",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snarklout",
+  "addresses": {
+    "8453": "0x1f5445302f45b1adf0faebf886ea5201db97c4fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snarklout",
+    "sanitizedSymbol": "SNARKLOUT",
+    "created_at": "2024-12-11T22:21:46.98441",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1427274",
+    "lockerAddress": "0x7d14aA0bE1db1234471d63c9c3319867DDcA891e"
+  },
+  "clankerInfo": null
+}

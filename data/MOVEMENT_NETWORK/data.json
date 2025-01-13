@@ -1,0 +1,22 @@
+{
+  "name": "movement network",
+  "symbol": "movement network",
+  "decimals": 18,
+  "description": "movement network is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=movement%20network",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "movement network",
+  "addresses": {
+    "8453": "0x0fcaefc4eac908f0d6274501f9f69d85878987a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "movement network",
+    "sanitizedSymbol": "MOVEMENT_NETWORK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229853",
+    "lockerAddress": "0x30A1eF1F6799FcD750350e37D50686d8BaED0959"
+  },
+  "clankerInfo": null
+}

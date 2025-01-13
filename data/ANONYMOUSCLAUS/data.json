@@ -1,0 +1,22 @@
+{
+  "name": "AnonymousClaus",
+  "symbol": "AnonymousClaus",
+  "decimals": 18,
+  "description": "AnonymousClaus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonymousClaus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonymousClaus",
+  "addresses": {
+    "8453": "0x353f0b84067683bb550831dbf9e7ec2e330110e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonymousClaus",
+    "sanitizedSymbol": "ANONYMOUSCLAUS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa65a5a9Db3ABf1C96f75876eCdc1bc82df86eE6B",
+    "lpNftId": "1268996",
+    "lockerAddress": "0x1564a6814100288c9CD82C08AAe01bd26594a46F"
+  },
+  "clankerInfo": null
+}

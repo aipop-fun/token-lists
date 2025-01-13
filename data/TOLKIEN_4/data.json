@@ -1,0 +1,22 @@
+{
+  "name": "tolkien",
+  "symbol": "tolkien",
+  "decimals": 18,
+  "description": "tolkien is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tolkien",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tolkien",
+  "addresses": {
+    "8453": "0x2c64f566451d4f1269521d2c94237e01ea2ee143"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tolkien",
+    "sanitizedSymbol": "TOLKIEN_4",
+    "created_at": "2024-12-11T17:26:33.453089",
+    "deployer": "0xD37EE843d8a906912543F01E43f13fD7F7753EE2",
+    "lpNftId": "1422481",
+    "lockerAddress": "0x3B94608024f6Cb53f6Ed68879dafddAD0DF8238D"
+  },
+  "clankerInfo": null
+}

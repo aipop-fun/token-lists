@@ -1,0 +1,22 @@
+{
+  "name": "SANTA",
+  "symbol": "SANTA",
+  "decimals": 18,
+  "description": "SANTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA",
+  "addresses": {
+    "8453": "0x16622611768a7dd1448291b3fa2625175aa9ad9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA",
+    "sanitizedSymbol": "SANTA_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb7a78AFF48D312c2ac58EcdbC7FD373A051D3b85",
+    "lpNftId": "1330437",
+    "lockerAddress": "0x4029de70cb32a7e69Ac35d8bf65D4Ac31321B09F"
+  },
+  "clankerInfo": null
+}

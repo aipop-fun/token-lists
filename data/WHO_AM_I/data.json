@@ -1,0 +1,22 @@
+{
+  "name": "Who AM I",
+  "symbol": "Who AM I",
+  "decimals": 18,
+  "description": "Who AM I is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Who%20AM%20I",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Who AM I",
+  "addresses": {
+    "8453": "0x02dafaa765848c5a2a55b33d678ad6daefe67627"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Who AM I",
+    "sanitizedSymbol": "WHO_AM_I",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdd61b860E1CF7A8D613fa4432A1A2c9F0fb27D48",
+    "lpNftId": "1327674",
+    "lockerAddress": "0x790C516E74Df2362f0465A08bE800a6ED860e142"
+  },
+  "clankerInfo": null
+}

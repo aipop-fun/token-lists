@@ -1,0 +1,22 @@
+{
+  "name": "Pinky Dog",
+  "symbol": "Pinky Dog",
+  "decimals": 18,
+  "description": "Pinky Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pinky%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pinky Dog",
+  "addresses": {
+    "8453": "0x3d3c6cf8d8ba18dd12ce4d685fffcb38aa5c384a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pinky Dog",
+    "sanitizedSymbol": "PINKY_DOG",
+    "created_at": "2024-12-09T03:54:43.258296",
+    "deployer": "0x0D3227B7384B80a0616807ec7Ff4e66843CEE426",
+    "lpNftId": "1380697",
+    "lockerAddress": "0x2C31546e3397F04d1dbC8D9b3ECd7592c8E80eF4"
+  },
+  "clankerInfo": null
+}

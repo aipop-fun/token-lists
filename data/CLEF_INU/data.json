@@ -1,0 +1,22 @@
+{
+  "name": "Clef Inu",
+  "symbol": "Clef Inu",
+  "decimals": 18,
+  "description": "Clef Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clef%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clef Inu",
+  "addresses": {
+    "8453": "0x2e1d6c7a280426eb4e2f8f86f6d3096e90a5d240"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clef Inu",
+    "sanitizedSymbol": "CLEF_INU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222313",
+    "lockerAddress": "0x1c9fc1B5377687a605aB90DB79dBf92146A77663"
+  },
+  "clankerInfo": null
+}

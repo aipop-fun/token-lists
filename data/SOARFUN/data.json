@@ -1,0 +1,22 @@
+{
+  "name": "Soarfun",
+  "symbol": "Soarfun",
+  "decimals": 18,
+  "description": "Soarfun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soarfun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soarfun",
+  "addresses": {
+    "8453": "0x33f717088b94835148cc84eb0c800e8a801802dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soarfun",
+    "sanitizedSymbol": "SOARFUN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x66Cd110e1D009dcaF61A4e804DdD6Ae622d7432e",
+    "lpNftId": "1294233",
+    "lockerAddress": "0x5056FD68D49d72912DD8393ce83d7e14dA7f6F30"
+  },
+  "clankerInfo": null
+}

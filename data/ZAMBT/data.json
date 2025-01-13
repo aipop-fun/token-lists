@@ -1,0 +1,22 @@
+{
+  "name": "Zambt",
+  "symbol": "Zambt",
+  "decimals": 18,
+  "description": "Zambt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zambt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zambt",
+  "addresses": {
+    "8453": "0x09141606f5813f6bed003d8a626bf0365e2bdb64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zambt",
+    "sanitizedSymbol": "ZAMBT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe115b7191047b97672641880680069afd7d42D3C",
+    "lpNftId": "1267866",
+    "lockerAddress": "0x9061f0Ae5107Fcf71b8829DCd2Fa19cC07cA2637"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "base is blue",
+  "symbol": "base is blue",
+  "decimals": 18,
+  "description": "base is blue is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20is%20blue",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base is blue",
+  "addresses": {
+    "8453": "0x0acc51bca9a324725f0dd8d2bde104514415dd47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base is blue",
+    "sanitizedSymbol": "BASE_IS_BLUE",
+    "created_at": "2024-12-11T06:42:48.649397",
+    "deployer": "0x50a81EbcE6b023e4f4E7e97a9344a2Ff135ac022",
+    "lpNftId": "1413952",
+    "lockerAddress": "0xed393b1646B152339B881D1BdC29d9a65209B6B3"
+  },
+  "clankerInfo": null
+}

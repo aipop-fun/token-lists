@@ -1,0 +1,22 @@
+{
+  "name": "hard R",
+  "symbol": "hard R",
+  "decimals": 18,
+  "description": "hard R is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hard%20R",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hard R",
+  "addresses": {
+    "8453": "0x0cad29c7bb9d06fce628cc379afd17029a02da6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hard R",
+    "sanitizedSymbol": "HARD_R",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x22D187E0392632386b6Dc542D5C494602E0e67fE",
+    "lpNftId": "1323772",
+    "lockerAddress": "0x80F49C9c2ca4DF0B9ff85bF0f0Af72496c86eEC8"
+  },
+  "clankerInfo": null
+}

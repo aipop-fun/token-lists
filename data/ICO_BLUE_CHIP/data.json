@@ -1,0 +1,22 @@
+{
+  "name": "ICO Blue-Chip",
+  "symbol": "ICO Blue-Chip",
+  "decimals": 18,
+  "description": "ICO Blue-Chip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ICO%20Blue-Chip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ICO Blue-Chip",
+  "addresses": {
+    "8453": "0x34e8f6003cdb8d1c5b2e688d10fdca683be3f656"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ICO Blue-Chip",
+    "sanitizedSymbol": "ICO_BLUE_CHIP",
+    "created_at": "2024-12-11T22:03:58.855995",
+    "deployer": "0x3B120B802081585c966e30f1FD116A0941461358",
+    "lpNftId": "1426822",
+    "lockerAddress": "0x4F133d73FDC05551958E535Ac459c7138ACAD4f4"
+  },
+  "clankerInfo": null
+}

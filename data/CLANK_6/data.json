@@ -1,0 +1,22 @@
+{
+  "name": "Clank",
+  "symbol": "Clank",
+  "decimals": 18,
+  "description": "Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank",
+  "addresses": {
+    "8453": "0x0c2eed044be1e689abd490e30d716e040a99614f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank",
+    "sanitizedSymbol": "CLANK_6",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB8E8d2a9b5D1FF8FEb4EFA686ac1D15Bf960070d",
+    "lpNftId": "1231879",
+    "lockerAddress": "0xeEb4100970e5a69005cD8AB556b73694A84EA562"
+  },
+  "clankerInfo": null
+}

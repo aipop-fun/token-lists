@@ -1,0 +1,22 @@
+{
+  "name": "Chill Brian",
+  "symbol": "Chill Brian",
+  "decimals": 18,
+  "description": "Chill Brian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Brian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Brian",
+  "addresses": {
+    "8453": "0x166f395e9452201c398f119dea4729775312e299"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Brian",
+    "sanitizedSymbol": "CHILL_BRIAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x96cF1C16a7efCD5725b00C889Ad643861A6ad3d8",
+    "lpNftId": "1267279",
+    "lockerAddress": "0x4A7F572Bfdc893632DB98C2cA9931998080657a4"
+  },
+  "clankerInfo": null
+}

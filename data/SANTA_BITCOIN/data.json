@@ -1,0 +1,22 @@
+{
+  "name": "Santa Bitcoin",
+  "symbol": "Santa Bitcoin",
+  "decimals": 18,
+  "description": "Santa Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Bitcoin",
+  "addresses": {
+    "8453": "0x03f8c617b1b6754691e863b2862840e375047e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Bitcoin",
+    "sanitizedSymbol": "SANTA_BITCOIN",
+    "created_at": "2024-12-09T20:32:59.16959",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1391752",
+    "lockerAddress": "0x6741eBE608fb333606977335ebB3B4028becd16B"
+  },
+  "clankerInfo": null
+}

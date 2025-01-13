@@ -1,0 +1,22 @@
+{
+  "name": ":3",
+  "symbol": ":3",
+  "decimals": 18,
+  "description": ":3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%3A3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": ":3",
+  "addresses": {
+    "8453": "0x25bcc251bd4e44973cf93693f50b8c5dd4fba220"
+  },
+  "tokenInfo": {
+    "originalSymbol": ":3",
+    "sanitizedSymbol": "3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1337151",
+    "lockerAddress": "0x9242F8F364Fc30914bAbB9174BE687AC1b5B8738"
+  },
+  "clankerInfo": null
+}

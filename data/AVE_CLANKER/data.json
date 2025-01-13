@@ -1,0 +1,22 @@
+{
+  "name": "ave clanker",
+  "symbol": "ave clanker",
+  "decimals": 18,
+  "description": "ave clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ave%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ave clanker",
+  "addresses": {
+    "8453": "0x2df2c53ed82827a5a2fadd0e56ea8ddb01ec2a52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ave clanker",
+    "sanitizedSymbol": "AVE_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1264029",
+    "lockerAddress": "0xBB215ec2fC82c3E7EDDA64442353F299581Ed5f5"
+  },
+  "clankerInfo": null
+}

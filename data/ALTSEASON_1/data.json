@@ -1,0 +1,22 @@
+{
+  "name": "ALTSEASON",
+  "symbol": "ALTSEASON",
+  "decimals": 18,
+  "description": "ALTSEASON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALTSEASON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALTSEASON",
+  "addresses": {
+    "8453": "0x19fb06f9312caee071e1cd5b77b70ad1cf413743"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALTSEASON",
+    "sanitizedSymbol": "ALTSEASON_1",
+    "created_at": "2024-12-12T01:27:26.27511",
+    "deployer": "0x55D66C97A46D64AAa7Defbf09C078cfaE7aC6939",
+    "lpNftId": "1428424",
+    "lockerAddress": "0x2EB86c20632cBBaE0d10463eA7791f4786AF82E8"
+  },
+  "clankerInfo": null
+}

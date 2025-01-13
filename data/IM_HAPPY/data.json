@@ -1,0 +1,22 @@
+{
+  "name": "IM HAPPY",
+  "symbol": "IM HAPPY",
+  "decimals": 18,
+  "description": "IM HAPPY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IM%20HAPPY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IM HAPPY",
+  "addresses": {
+    "8453": "0x3b4bbc4c866426b0f3905f53035959366ec73472"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IM HAPPY",
+    "sanitizedSymbol": "IM_HAPPY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0d18c17aef629f4ea57C6D1372695a7641204925",
+    "lpNftId": "1311861",
+    "lockerAddress": "0x64a4bf708c09DDdA42c6a1FCF4808EF08B2fc9D0"
+  },
+  "clankerInfo": null
+}

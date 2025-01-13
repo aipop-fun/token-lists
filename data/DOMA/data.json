@@ -1,0 +1,22 @@
+{
+  "name": "doma",
+  "symbol": "doma",
+  "decimals": 18,
+  "description": "doma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=doma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "doma",
+  "addresses": {
+    "8453": "0x124a652d1ec76310b6a4ed27aeca261f141a1179"
+  },
+  "tokenInfo": {
+    "originalSymbol": "doma",
+    "sanitizedSymbol": "DOMA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1309295",
+    "lockerAddress": "0xB35b5bA7987a632B561Ee1eB19116f4bd926C4d4"
+  },
+  "clankerInfo": null
+}

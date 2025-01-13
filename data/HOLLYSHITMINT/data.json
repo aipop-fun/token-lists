@@ -1,0 +1,22 @@
+{
+  "name": "HollyShitMint",
+  "symbol": "HollyShitMint",
+  "decimals": 18,
+  "description": "HollyShitMint is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HollyShitMint",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HollyShitMint",
+  "addresses": {
+    "8453": "0x2af512b673b497fe78bbeb7b2e2f2fe732042dae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HollyShitMint",
+    "sanitizedSymbol": "HOLLYSHITMINT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C5aF5FFE13e7BE9bFeF1862e6F80769c69a9206",
+    "lpNftId": "1320954",
+    "lockerAddress": "0x72Eb0e760E4C628294a951643d093Db4dff9D85E"
+  },
+  "clankerInfo": null
+}

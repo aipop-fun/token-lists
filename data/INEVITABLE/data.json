@@ -1,0 +1,22 @@
+{
+  "name": "INEVITABLE",
+  "symbol": "INEVITABLE",
+  "decimals": 18,
+  "description": "INEVITABLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=INEVITABLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "INEVITABLE",
+  "addresses": {
+    "8453": "0x1696688a7828e227e64953c371ac0b57d5974b55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "INEVITABLE",
+    "sanitizedSymbol": "INEVITABLE",
+    "created_at": "2024-12-12T16:11:35.085623",
+    "deployer": "0x2ae9B5d66D83419dbc33696c9F126ff11De75b99",
+    "lpNftId": "1438054",
+    "lockerAddress": "0x3F4CF4356B7d2B1436317750Eb3133204c9b87BE"
+  },
+  "clankerInfo": null
+}

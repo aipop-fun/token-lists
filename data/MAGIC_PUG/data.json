@@ -1,0 +1,22 @@
+{
+  "name": "Magic Pug",
+  "symbol": "Magic Pug",
+  "decimals": 18,
+  "description": "Magic Pug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Pug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Pug",
+  "addresses": {
+    "8453": "0x22eb8996565888da0b6e4ac6d89d56cb680dc135"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Pug",
+    "sanitizedSymbol": "MAGIC_PUG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcE01e013881f4A2503892996484e7A33d8Aa118d",
+    "lpNftId": "1264159",
+    "lockerAddress": "0x41e9FF19B5d00aD056c2514321216eaf814451D7"
+  },
+  "clankerInfo": null
+}

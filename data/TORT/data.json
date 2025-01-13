@@ -1,0 +1,22 @@
+{
+  "name": "Tort",
+  "symbol": "Tort",
+  "decimals": 18,
+  "description": "Tort is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tort",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tort",
+  "addresses": {
+    "8453": "0x131d8dcda4d86e5abb043acc361ad31abeae8c20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tort",
+    "sanitizedSymbol": "TORT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC88eb8c096D2A6bf50f6E738e992d31A27f56299",
+    "lpNftId": "1322882",
+    "lockerAddress": "0x4056f50Cd1d427c61AED295c785C122bf91fE490"
+  },
+  "clankerInfo": null
+}

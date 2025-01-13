@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Clanker Plus Plus",
+  "symbol": "Pepe Clanker Plus Plus",
+  "decimals": 18,
+  "description": "Pepe Clanker Plus Plus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Clanker%20Plus%20Plus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Clanker Plus Plus",
+  "addresses": {
+    "8453": "0x0b6739ba3cc974515c803649b6d5c030ec3a7283"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Clanker Plus Plus",
+    "sanitizedSymbol": "PEPE_CLANKER_PLUS_PLUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4c6cd3ed22eF70Ba6f10F10a716Fb99AAee73C65",
+    "lpNftId": "1288686",
+    "lockerAddress": "0x5c27E47B58870545c69B46fe58EE01b2AcCb3Aa3"
+  },
+  "clankerInfo": null
+}

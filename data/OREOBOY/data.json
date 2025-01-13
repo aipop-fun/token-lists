@@ -1,0 +1,22 @@
+{
+  "name": "OreoBoy",
+  "symbol": "OreoBoy",
+  "decimals": 18,
+  "description": "OreoBoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OreoBoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OreoBoy",
+  "addresses": {
+    "8453": "0x41508e6f676518b4745604b8efd50496b92932e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OreoBoy",
+    "sanitizedSymbol": "OREOBOY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70142C3cCB891a5E1C00d97254FbAbB83E9b7E81",
+    "lpNftId": "1322959",
+    "lockerAddress": "0x8a6437F0e187d8D76713dFEe0B78BD9818B48e35"
+  },
+  "clankerInfo": null
+}

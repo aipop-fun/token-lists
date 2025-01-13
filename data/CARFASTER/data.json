@@ -1,0 +1,22 @@
+{
+  "name": "Carfaster",
+  "symbol": "Carfaster",
+  "decimals": 18,
+  "description": "Carfaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Carfaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Carfaster",
+  "addresses": {
+    "8453": "0x15c20c9f24f17a884b72baf109f106a8c32c739c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Carfaster",
+    "sanitizedSymbol": "CARFASTER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x92adBAc3Ffe903e002b9aD8B5465bF7Df5b266d2",
+    "lpNftId": "1269586",
+    "lockerAddress": "0x3a56b112B7121D0D3f4Eb1A9406Ab2a255041863"
+  },
+  "clankerInfo": null
+}

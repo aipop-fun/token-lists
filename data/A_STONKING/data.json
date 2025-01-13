@@ -1,0 +1,22 @@
+{
+  "name": "A Stonking",
+  "symbol": "A Stonking",
+  "decimals": 18,
+  "description": "A Stonking is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20Stonking",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A Stonking",
+  "addresses": {
+    "8453": "0x10c9ff2fd53404dadefe25f37fd2d8dcd3490399"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A Stonking",
+    "sanitizedSymbol": "A_STONKING",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa0BCACb0c325dA3042250Bd9935FBeff25e98B5A",
+    "lpNftId": "1251452",
+    "lockerAddress": "0xAa03738b9d6299a07Ec13A2ccCc879399B16be08"
+  },
+  "clankerInfo": null
+}

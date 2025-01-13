@@ -1,0 +1,22 @@
+{
+  "name": "Only Sendit",
+  "symbol": "Only Sendit",
+  "decimals": 18,
+  "description": "Only Sendit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Only%20Sendit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Only Sendit",
+  "addresses": {
+    "8453": "0x23454ada083aa7c0c8ccdc036bfba3e15937848f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Only Sendit",
+    "sanitizedSymbol": "ONLY_SENDIT",
+    "created_at": "2024-12-10T09:59:29.355513",
+    "deployer": "0xb175F210b97FdbddBB947965eCdb8DbDf9dd0165",
+    "lpNftId": "1399423",
+    "lockerAddress": "0xdF320468D7833fc8FD56270bC20488FE0CCd2c8E"
+  },
+  "clankerInfo": null
+}

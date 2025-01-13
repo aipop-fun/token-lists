@@ -1,0 +1,22 @@
+{
+  "name": "BeerTed",
+  "symbol": "BeerTed",
+  "decimals": 18,
+  "description": "BeerTed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BeerTed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BeerTed",
+  "addresses": {
+    "8453": "0x03cff30709c6444207b1f3d0b13e7d32eaed9d6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BeerTed",
+    "sanitizedSymbol": "BEERTED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1297176",
+    "lockerAddress": "0x33cfb33C7908df8ad8033F375359Ed4930dAC5E5"
+  },
+  "clankerInfo": null
+}

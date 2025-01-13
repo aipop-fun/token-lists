@@ -1,0 +1,22 @@
+{
+  "name": "ReClanker",
+  "symbol": "ReClanker",
+  "decimals": 18,
+  "description": "ReClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ReClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ReClanker",
+  "addresses": {
+    "8453": "0x34592d61b255fe8575ada14ccb90364a27f0d3ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ReClanker",
+    "sanitizedSymbol": "RECLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf822C136dffB7724f60E9F32A0D375aaCACeD151",
+    "lpNftId": "1292672",
+    "lockerAddress": "0xA0dAf5236BDc1442d844d2262aB9e94FEbC64f0C"
+  },
+  "clankerInfo": null
+}

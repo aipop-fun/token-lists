@@ -1,0 +1,22 @@
+{
+  "name": "friend.com",
+  "symbol": "friend.com",
+  "decimals": 18,
+  "description": "friend.com is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=friend.com",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "friend.com",
+  "addresses": {
+    "8453": "0x09d8fd6b6cb13f45e68f1749dd149914e99db432"
+  },
+  "tokenInfo": {
+    "originalSymbol": "friend.com",
+    "sanitizedSymbol": "FRIEND_COM",
+    "created_at": "2024-12-11T19:24:44.901355",
+    "deployer": "0x2B83F654B3aA613D91a49fc323EBF8edC5592734",
+    "lpNftId": "1424685",
+    "lockerAddress": "0xC43A253aE1ccB238Aad08C45C5B0D4130E36A8B2"
+  },
+  "clankerInfo": null
+}

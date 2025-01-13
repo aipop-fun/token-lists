@@ -1,0 +1,22 @@
+{
+  "name": "OGcat",
+  "symbol": "OGcat",
+  "decimals": 18,
+  "description": "OGcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OGcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OGcat",
+  "addresses": {
+    "8453": "0x06e63e581cde0b96e1cfb04392a31bbe851ebb00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OGcat",
+    "sanitizedSymbol": "OGCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3DeAD638D4Fc6f6b0C75e5A2E759CE882c4c799e",
+    "lpNftId": "1320937",
+    "lockerAddress": "0x3D9E9d6082cACE018d6b26834A2C648dd8695e10"
+  },
+  "clankerInfo": null
+}

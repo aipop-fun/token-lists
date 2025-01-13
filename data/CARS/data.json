@@ -1,0 +1,22 @@
+{
+  "name": "CARS",
+  "symbol": "CARS",
+  "decimals": 18,
+  "description": "CARS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CARS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CARS",
+  "addresses": {
+    "8453": "0x18448ebcc55fed50f5e3582f607fc03fe1687312"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CARS",
+    "sanitizedSymbol": "CARS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCf45830BE3EC14B4e2169Ba19e909046bE818E33",
+    "lpNftId": "1326267",
+    "lockerAddress": "0x87daf59889ac19551d23aED3ED7800F7deFCEC5c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Soccer Logic",
+  "symbol": "Soccer Logic",
+  "decimals": 18,
+  "description": "Soccer Logic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soccer%20Logic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soccer Logic",
+  "addresses": {
+    "8453": "0x2555aced7620da25fd12cfc14367f7356753a49c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soccer Logic",
+    "sanitizedSymbol": "SOCCER_LOGIC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22B681aaCdAe8725A49109Bf9fD34692A37EFA51",
+    "lpNftId": "1321315",
+    "lockerAddress": "0x12B5D5d5EC59c9BD6F95e2a7603dA32A06be81d3"
+  },
+  "clankerInfo": null
+}

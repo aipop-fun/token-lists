@@ -1,0 +1,22 @@
+{
+  "name": "$phaslanker",
+  "symbol": "$phaslanker",
+  "decimals": 18,
+  "description": "$phaslanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24phaslanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$phaslanker",
+  "addresses": {
+    "8453": "0x0178920d1b1ad831d8a9e5d058a9e572349fe0dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$phaslanker",
+    "sanitizedSymbol": "PHASLANKER",
+    "created_at": "2024-12-09T03:10:49.68069",
+    "deployer": "0xf4D0EEAb4A106163B6A37D39D3cf60399c94d23d",
+    "lpNftId": "1379657",
+    "lockerAddress": "0xf12a8f84C2a9c6B0ba1Ce22be34446D5cD0DF7aB"
+  },
+  "clankerInfo": null
+}

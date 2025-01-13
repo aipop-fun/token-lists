@@ -1,0 +1,22 @@
+{
+  "name": "Orange Cat",
+  "symbol": "Orange Cat",
+  "decimals": 18,
+  "description": "Orange Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Orange%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Orange Cat",
+  "addresses": {
+    "8453": "0x1a8898555903ac984fca24cd9dae0e483e777e98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Orange Cat",
+    "sanitizedSymbol": "ORANGE_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1319535",
+    "lockerAddress": "0x0B8bbc0383424E526d5B4C9500E3E926542Bfe15"
+  },
+  "clankerInfo": null
+}

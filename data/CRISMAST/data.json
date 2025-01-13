@@ -1,0 +1,22 @@
+{
+  "name": "Crismast",
+  "symbol": "Crismast",
+  "decimals": 18,
+  "description": "Crismast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crismast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crismast",
+  "addresses": {
+    "8453": "0x0269878e0e7ca5580cbaf4ffaa3bf6521d01eca2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crismast",
+    "sanitizedSymbol": "CRISMAST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdE7c54DFE1eF6Aca7faC83F41E5cF766B1d2CC13",
+    "lpNftId": "1327367",
+    "lockerAddress": "0x26Dc2667Be16059A7F30F06AD99abF0233eeE05C"
+  },
+  "clankerInfo": null
+}

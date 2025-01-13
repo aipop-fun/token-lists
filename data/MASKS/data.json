@@ -1,0 +1,22 @@
+{
+  "name": "MASKS",
+  "symbol": "MASKS",
+  "decimals": 18,
+  "description": "MASKS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MASKS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MASKS",
+  "addresses": {
+    "8453": "0x024972670b9c390e9350c185332e72e47627c699"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MASKS",
+    "sanitizedSymbol": "MASKS",
+    "created_at": "2024-12-11T13:29:28.000322",
+    "deployer": "0x97Adf81b8Bb3BC76A364134B7DA988668a0A3830",
+    "lpNftId": "1419123",
+    "lockerAddress": "0xA2B37dD1c5F05fc7539Eb58507670C5Bc359e0c3"
+  },
+  "clankerInfo": null
+}

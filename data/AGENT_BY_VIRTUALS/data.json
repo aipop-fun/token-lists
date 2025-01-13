@@ -1,0 +1,22 @@
+{
+  "name": "Agent By Virtuals",
+  "symbol": "Agent By Virtuals",
+  "decimals": 18,
+  "description": "Agent By Virtuals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20By%20Virtuals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent By Virtuals",
+  "addresses": {
+    "8453": "0x0f59406d4cca26cc71b95d6d2642c666a66707d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent By Virtuals",
+    "sanitizedSymbol": "AGENT_BY_VIRTUALS",
+    "created_at": "2024-12-10T11:45:06.385039",
+    "deployer": "0x26bEfbfE356adF98d30523cF57b94951938A0F71",
+    "lpNftId": "1400386",
+    "lockerAddress": "0xc645A57c7c0cd263A6Bc04704E64e256035fE2c5"
+  },
+  "clankerInfo": null
+}

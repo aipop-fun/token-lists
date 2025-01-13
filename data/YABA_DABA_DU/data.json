@@ -1,0 +1,22 @@
+{
+  "name": "yaba daba du",
+  "symbol": "yaba daba du",
+  "decimals": 18,
+  "description": "yaba daba du is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yaba%20daba%20du",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yaba daba du",
+  "addresses": {
+    "8453": "0x25910f9c881631005b9f27c5d17e3dcf0da217fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yaba daba du",
+    "sanitizedSymbol": "YABA_DABA_DU",
+    "created_at": "2024-12-12T22:00:03.358578",
+    "deployer": "0xa65E8fEFc3931DfD5751539EaF5fE5A3AaE2fC48",
+    "lpNftId": "1444257",
+    "lockerAddress": "0xBb92feC638b862efB5a38B10234BC56efdBa8967"
+  },
+  "clankerInfo": null
+}

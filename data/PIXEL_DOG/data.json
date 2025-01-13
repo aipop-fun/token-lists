@@ -1,0 +1,22 @@
+{
+  "name": "Pixel Dog",
+  "symbol": "Pixel Dog",
+  "decimals": 18,
+  "description": "Pixel Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pixel%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pixel Dog",
+  "addresses": {
+    "8453": "0x28a8007f56be436507e2299eef8bd0602d75c99d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pixel Dog",
+    "sanitizedSymbol": "PIXEL_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC8d6170774b61682a89681AA1dEE0B67812c8FFf",
+    "lpNftId": "1323668",
+    "lockerAddress": "0xe9cAA5EEdE1E3bb0E7e99862083CB42E783Bd296"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Converse",
+  "symbol": "Converse",
+  "decimals": 18,
+  "description": "Converse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Converse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Converse",
+  "addresses": {
+    "8453": "0x141d1559a288d3129086aabb277a842a43e5082d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Converse",
+    "sanitizedSymbol": "CONVERSE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x478bda0645A39895Fd7C1C5cF2b7d3fd02cE114d",
+    "lpNftId": "1329853",
+    "lockerAddress": "0x64af15561530ba80A3f681171F1D44C1759c5597"
+  },
+  "clankerInfo": null
+}

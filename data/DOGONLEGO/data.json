@@ -1,0 +1,22 @@
+{
+  "name": "DOGONLEGO",
+  "symbol": "DOGONLEGO",
+  "decimals": 18,
+  "description": "DOGONLEGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGONLEGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGONLEGO",
+  "addresses": {
+    "8453": "0x086b119cd96c570d2563c2e5cdc2e773f3c3ce7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGONLEGO",
+    "sanitizedSymbol": "DOGONLEGO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAAB0F49c35411f2Df213Baea2E533A49fad6C427",
+    "lpNftId": "1316908",
+    "lockerAddress": "0xCb0fc02cD2A949BeC10BA8427b7073D46d79995f"
+  },
+  "clankerInfo": null
+}

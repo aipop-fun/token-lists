@@ -1,0 +1,22 @@
+{
+  "name": "Popeye",
+  "symbol": "Popeye",
+  "decimals": 18,
+  "description": "Popeye is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Popeye",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Popeye",
+  "addresses": {
+    "8453": "0x20d9ebea02c88443bccb300742447b83668cca9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Popeye",
+    "sanitizedSymbol": "POPEYE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdF17Abc58d1AE4acfAf6c990c91442f2C01FFd2D",
+    "lpNftId": "1252919",
+    "lockerAddress": "0x6Edf62774d7E3e8c1F347040Ff504144EC6B0375"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZORT.",
+  "symbol": "ZORT.",
+  "decimals": 18,
+  "description": "ZORT. is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZORT.",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZORT.",
+  "addresses": {
+    "8453": "0x3a76d62c88bd6e14f62234149d413c6a784f8901"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZORT.",
+    "sanitizedSymbol": "ZORT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x491c630d4f81f7f6b1e577A5a673583477b94188",
+    "lpNftId": "1312207",
+    "lockerAddress": "0xf6652D1c2A4715e8ba45bEbbB7509d709129E9Bf"
+  },
+  "clankerInfo": null
+}

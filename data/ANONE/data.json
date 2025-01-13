@@ -1,0 +1,22 @@
+{
+  "name": "anone",
+  "symbol": "anone",
+  "decimals": 18,
+  "description": "anone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anone",
+  "addresses": {
+    "8453": "0x0bf36e1effcc573c27eed827761c2f58271d5a38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anone",
+    "sanitizedSymbol": "ANONE",
+    "created_at": "2024-12-09T02:36:57.923969",
+    "deployer": "0x416a310147eeE7f6bCb6D31A926C60A5E94F2565",
+    "lpNftId": "1378769",
+    "lockerAddress": "0x098E33AAF2a275dDb8D5FB46158c9C40D03B792D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bots!",
+  "symbol": "Bots!",
+  "decimals": 18,
+  "description": "Bots! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bots!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bots!",
+  "addresses": {
+    "8453": "0x185c35148786eed7b40c95e24752ef254f48e6a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bots!",
+    "sanitizedSymbol": "BOTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1354047",
+    "lockerAddress": "0x5734533d7B8bCBA96e30D90007b9190c10903365"
+  },
+  "clankerInfo": null
+}

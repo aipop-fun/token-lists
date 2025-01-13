@@ -1,0 +1,22 @@
+{
+  "name": "No Rest",
+  "symbol": "No Rest",
+  "decimals": 18,
+  "description": "No Rest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Rest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Rest",
+  "addresses": {
+    "8453": "0x3dc43efe044e1efb58b51131408677160758ed39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Rest",
+    "sanitizedSymbol": "NO_REST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173003",
+    "lockerAddress": "0xC16994bea1a0919E779F9476245137162475Fc49"
+  },
+  "clankerInfo": null
+}

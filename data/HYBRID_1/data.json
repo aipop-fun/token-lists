@@ -1,0 +1,22 @@
+{
+  "name": "HYBRID",
+  "symbol": "HYBRID",
+  "decimals": 18,
+  "description": "HYBRID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYBRID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYBRID",
+  "addresses": {
+    "8453": "0x11e2e79373f26990b4abeb7bfedb05500c329ebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYBRID",
+    "sanitizedSymbol": "HYBRID_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x033441cD8061544E1a013723C57A4AfD2E7BAA14",
+    "lpNftId": "1321453",
+    "lockerAddress": "0x189143578e3eaCEF502D993dBe9a2af251f3A15E"
+  },
+  "clankerInfo": null
+}

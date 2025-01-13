@@ -1,0 +1,22 @@
+{
+  "name": "Bottle of beer",
+  "symbol": "Bottle of beer",
+  "decimals": 18,
+  "description": "Bottle of beer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bottle%20of%20beer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bottle of beer",
+  "addresses": {
+    "8453": "0x2e205cae4927b6cacf2c86e05eee031a80c791ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bottle of beer",
+    "sanitizedSymbol": "BOTTLE_OF_BEER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x40b4f2F7c39b7E23d80E4B32DB676557b9756371",
+    "lpNftId": "1265560",
+    "lockerAddress": "0xDcAA0e30F59fFb521e5a0196eAeC15C4159DED54"
+  },
+  "clankerInfo": null
+}

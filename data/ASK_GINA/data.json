@@ -1,0 +1,22 @@
+{
+  "name": "Ask Gina",
+  "symbol": "Ask Gina",
+  "decimals": 18,
+  "description": "Ask Gina is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ask%20Gina",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ask Gina",
+  "addresses": {
+    "8453": "0x07e64235b7b2d1fce4b0c76e46a354997d3158e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ask Gina",
+    "sanitizedSymbol": "ASK_GINA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124917",
+    "lockerAddress": "0x73EF4c58fE5b991992A2C7444a93ec046CAC3c57"
+  },
+  "clankerInfo": null
+}

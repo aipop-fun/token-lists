@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Is Back",
+  "symbol": "Pepe Is Back",
+  "decimals": 18,
+  "description": "Pepe Is Back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Is%20Back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Is Back",
+  "addresses": {
+    "8453": "0x1230084664a7625a835425bf6645499f03dafb68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Is Back",
+    "sanitizedSymbol": "PEPE_IS_BACK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233265",
+    "lockerAddress": "0xD3aF2289bD6536D6dc01E5617F3EDE652dC535a1"
+  },
+  "clankerInfo": null
+}

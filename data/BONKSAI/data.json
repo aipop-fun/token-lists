@@ -1,0 +1,22 @@
+{
+  "name": "BonksAi",
+  "symbol": "BonksAi",
+  "decimals": 18,
+  "description": "BonksAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BonksAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BonksAi",
+  "addresses": {
+    "8453": "0x2f32583cd26866b5f2d7e54bc313ab419516c0d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BonksAi",
+    "sanitizedSymbol": "BONKSAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1326630",
+    "lockerAddress": "0xAE9B8bB1906e5b2Cf186e622a7AEB1dbe69f43C2"
+  },
+  "clankerInfo": null
+}

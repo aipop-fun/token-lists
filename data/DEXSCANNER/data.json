@@ -1,0 +1,22 @@
+{
+  "name": "dexscanner",
+  "symbol": "dexscanner",
+  "decimals": 18,
+  "description": "dexscanner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dexscanner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dexscanner",
+  "addresses": {
+    "8453": "0x2cdb79c99495153316e549e6e51117a31324ad51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dexscanner",
+    "sanitizedSymbol": "DEXSCANNER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD1272A7849D076C549c3ADDB654C9702cec296ca",
+    "lpNftId": "1323515",
+    "lockerAddress": "0x0728ae8dF8BC1519Ea86E6Bd430097157f291C4B"
+  },
+  "clankerInfo": null
+}

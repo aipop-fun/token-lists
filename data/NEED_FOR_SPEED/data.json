@@ -1,0 +1,22 @@
+{
+  "name": "Need for speed",
+  "symbol": "Need for speed",
+  "decimals": 18,
+  "description": "Need for speed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Need%20for%20speed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Need for speed",
+  "addresses": {
+    "8453": "0x29ba67732c070fa1ec717c7706ad1dd956e4c73b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Need for speed",
+    "sanitizedSymbol": "NEED_FOR_SPEED",
+    "created_at": "2024-12-10T07:34:13.497025",
+    "deployer": "0x975C994B4e0E1C8e6A0DFCE52d227939ef7bD96B",
+    "lpNftId": "1398044",
+    "lockerAddress": "0x7937aE44C28A1C173e4A70737821E45808c26973"
+  },
+  "clankerInfo": null
+}

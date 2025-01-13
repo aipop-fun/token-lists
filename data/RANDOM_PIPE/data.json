@@ -1,0 +1,22 @@
+{
+  "name": "Random Pipe",
+  "symbol": "Random Pipe",
+  "decimals": 18,
+  "description": "Random Pipe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Random%20Pipe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Random Pipe",
+  "addresses": {
+    "8453": "0x042e3a23499bfc9c3e31a418548da03f8b222698"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Random Pipe",
+    "sanitizedSymbol": "RANDOM_PIPE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233745",
+    "lockerAddress": "0x2938606C599AE0717aF42596F0a253E5075deb46"
+  },
+  "clankerInfo": null
+}

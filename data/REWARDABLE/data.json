@@ -1,0 +1,22 @@
+{
+  "name": "REWARDABLE",
+  "symbol": "REWARDABLE",
+  "decimals": 18,
+  "description": "REWARDABLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REWARDABLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REWARDABLE",
+  "addresses": {
+    "8453": "0x364f931b2c57a8355e48d319ed685552bb00ec55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REWARDABLE",
+    "sanitizedSymbol": "REWARDABLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6dc92d2D11136f93c52cBBE2c0298F1071D54300",
+    "lpNftId": "1327438",
+    "lockerAddress": "0x215401D83f3B2e566497C846Ffb320D56121AB5D"
+  },
+  "clankerInfo": null
+}

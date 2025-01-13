@@ -1,0 +1,22 @@
+{
+  "name": "Duck Pig On Base",
+  "symbol": "Duck Pig On Base",
+  "decimals": 18,
+  "description": "Duck Pig On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Duck%20Pig%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Duck Pig On Base",
+  "addresses": {
+    "8453": "0x3e6110434ddd041b037f8a419f0eb37aa0cb7e23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Duck Pig On Base",
+    "sanitizedSymbol": "DUCK_PIG_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219788",
+    "lockerAddress": "0x14015a0A55e94Ef24a2C722Ece8cA56b1Da12b63"
+  },
+  "clankerInfo": null
+}

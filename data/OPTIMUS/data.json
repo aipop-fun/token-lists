@@ -1,0 +1,22 @@
+{
+  "name": "Optimus",
+  "symbol": "Optimus",
+  "decimals": 18,
+  "description": "Optimus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Optimus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Optimus",
+  "addresses": {
+    "8453": "0x15478c9e6f73c583f446d865f77fd3008f054835"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Optimus",
+    "sanitizedSymbol": "OPTIMUS",
+    "created_at": "2024-12-11T10:07:15.39611",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1416027",
+    "lockerAddress": "0x405942b0A82E5b5bebd7FD0146af184D18cDfE1a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Crybebi",
+  "symbol": "Crybebi",
+  "decimals": 18,
+  "description": "Crybebi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crybebi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crybebi",
+  "addresses": {
+    "8453": "0x3e2c66b356e47e60ebb382466b7c5991b88cfa27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crybebi",
+    "sanitizedSymbol": "CRYBEBI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1354637",
+    "lockerAddress": "0x300BC62100829B6A5C51e27AE3c7caB50bcDBf23"
+  },
+  "clankerInfo": null
+}

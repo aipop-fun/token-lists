@@ -1,0 +1,22 @@
+{
+  "name": "BEGUGLA",
+  "symbol": "BEGUGLA",
+  "decimals": 18,
+  "description": "BEGUGLA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEGUGLA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEGUGLA",
+  "addresses": {
+    "8453": "0x3faa532aad26ea9fec8cc2535d131735820f5d68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEGUGLA",
+    "sanitizedSymbol": "BEGUGLA",
+    "created_at": "2024-12-12T18:07:13.01728",
+    "deployer": "0x65F1FffeD5896dDafB2B42224164dc7F2f5765ef",
+    "lpNftId": "1440492",
+    "lockerAddress": "0xEd8690DBC78770FB548736f8F540acD6c33AfDDD"
+  },
+  "clankerInfo": null
+}

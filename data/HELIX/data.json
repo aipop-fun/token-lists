@@ -1,0 +1,22 @@
+{
+  "name": "Helix",
+  "symbol": "Helix",
+  "decimals": 18,
+  "description": "Helix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Helix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Helix",
+  "addresses": {
+    "8453": "0x2b8ff834e460f149e3e66e6d2ad961599b096e6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Helix",
+    "sanitizedSymbol": "HELIX",
+    "created_at": "2024-12-10T23:35:24.08707",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408429",
+    "lockerAddress": "0x4cd6cbf6A3e9554869AC79217eE79b63F57e02DB"
+  },
+  "clankerInfo": null
+}

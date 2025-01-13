@@ -1,0 +1,22 @@
+{
+  "name": "Worldd",
+  "symbol": "Worldd",
+  "decimals": 18,
+  "description": "Worldd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Worldd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Worldd",
+  "addresses": {
+    "8453": "0x08df4fbb6bdbfc8bb80e9d5b928b5720a1c6462d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Worldd",
+    "sanitizedSymbol": "WORLDD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4638aeDf9c02EEf5B8288Dcfb6B5f2834fA78718",
+    "lpNftId": "1299147",
+    "lockerAddress": "0x3ba4B1A0258daA958c2f8944e1729366448000c8"
+  },
+  "clankerInfo": null
+}

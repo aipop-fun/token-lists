@@ -1,0 +1,22 @@
+{
+  "name": "xomus",
+  "symbol": "xomus",
+  "decimals": 18,
+  "description": "xomus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xomus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xomus",
+  "addresses": {
+    "8453": "0x1ad8e913e723a8cd065657af769805c22d19d1e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xomus",
+    "sanitizedSymbol": "XOMUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x45d6B88E7496d5C5383Cf611b8c0659d4fb72699",
+    "lpNftId": "1288330",
+    "lockerAddress": "0xe3Be9F9967f77466d6Ce87391570F6E96ae7BCA5"
+  },
+  "clankerInfo": null
+}

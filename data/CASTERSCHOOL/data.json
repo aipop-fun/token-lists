@@ -1,0 +1,22 @@
+{
+  "name": "CasterSchool",
+  "symbol": "CasterSchool",
+  "decimals": 18,
+  "description": "CasterSchool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CasterSchool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CasterSchool",
+  "addresses": {
+    "8453": "0x269f1ce011d09d7e04d291acd96319978ed8a349"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CasterSchool",
+    "sanitizedSymbol": "CASTERSCHOOL",
+    "created_at": "2024-12-10T10:19:22.045704",
+    "deployer": "0x548D284Fa71b6fBFa89B914672b20A4b64112D33",
+    "lpNftId": "1399714",
+    "lockerAddress": "0xbCAA189C9aEbCF40c96Bf44C3A6d10248b096Ab4"
+  },
+  "clankerInfo": null
+}

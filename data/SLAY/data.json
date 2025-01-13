@@ -1,0 +1,22 @@
+{
+  "name": "SLAY",
+  "symbol": "SLAY",
+  "decimals": 18,
+  "description": "SLAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLAY",
+  "addresses": {
+    "8453": "0x32cf404dcbb94e502ccd62f05a5c37d6104ff6e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLAY",
+    "sanitizedSymbol": "SLAY",
+    "created_at": "2024-12-11T10:22:33.214828",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1416222",
+    "lockerAddress": "0x56E6C8000086C18CE24002eB4238A3Ed8237240F"
+  },
+  "clankerInfo": null
+}

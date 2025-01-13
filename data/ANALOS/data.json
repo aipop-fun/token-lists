@@ -1,0 +1,22 @@
+{
+  "name": "ANALOS",
+  "symbol": "ANALOS",
+  "decimals": 18,
+  "description": "ANALOS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANALOS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANALOS",
+  "addresses": {
+    "8453": "0x27f42e3458c13923cba4674ad514a01cc0d418f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANALOS",
+    "sanitizedSymbol": "ANALOS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226332",
+    "lockerAddress": "0x9Ccf0d39658610413845Cb56e37B409C0F16590f"
+  },
+  "clankerInfo": null
+}

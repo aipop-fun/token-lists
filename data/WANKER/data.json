@@ -1,0 +1,22 @@
+{
+  "name": "Wanker",
+  "symbol": "Wanker",
+  "decimals": 18,
+  "description": "Wanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wanker",
+  "addresses": {
+    "8453": "0x20038548d0e0eb345362fd22a323066c4b8e3d26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wanker",
+    "sanitizedSymbol": "WANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202073",
+    "lockerAddress": "0xec54a56B27102cc367F4556bcD4E8e288786049F"
+  },
+  "clankerInfo": null
+}

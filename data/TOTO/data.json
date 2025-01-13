@@ -1,0 +1,22 @@
+{
+  "name": "TOTO",
+  "symbol": "TOTO",
+  "decimals": 18,
+  "description": "TOTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOTO",
+  "addresses": {
+    "8453": "0x2cf2eae39560239c86d2fe0b0b2b3b9c015c2aeb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOTO",
+    "sanitizedSymbol": "TOTO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x602fDe2314DCe7327e12f8763F75fCc72Da45766",
+    "lpNftId": "1305547",
+    "lockerAddress": "0xd0dDc8722f5cA1782129949dca4fed870345282F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "aclakin",
+  "symbol": "aclakin",
+  "decimals": 18,
+  "description": "aclakin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aclakin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aclakin",
+  "addresses": {
+    "8453": "0x146aa8a989d9d772df07479e6ab4802d7f1182df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aclakin",
+    "sanitizedSymbol": "ACLAKIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6B91dd85274033C58A994F9958FeED82dc2DC5b5",
+    "lpNftId": "1252625",
+    "lockerAddress": "0xDB176C31AD899F893c37210a35fbF6dcFA71D701"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chillmfers",
+  "symbol": "chillmfers",
+  "decimals": 18,
+  "description": "chillmfers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillmfers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillmfers",
+  "addresses": {
+    "8453": "0x079616ce45c15e597fc611d636a3f630fc606494"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillmfers",
+    "sanitizedSymbol": "CHILLMFERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA656970460A8911D1758C6bE19367BB4A032f061",
+    "lpNftId": "1311004",
+    "lockerAddress": "0x120B02090969C4BdD636cF2239f935eACd8D00ce"
+  },
+  "clankerInfo": null
+}

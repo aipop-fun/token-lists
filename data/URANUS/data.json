@@ -1,0 +1,22 @@
+{
+  "name": "URANUS",
+  "symbol": "URANUS",
+  "decimals": 18,
+  "description": "URANUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=URANUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "URANUS",
+  "addresses": {
+    "8453": "0x0cd4c91ffa570409afe9f462189ba4f8a8a50823"
+  },
+  "tokenInfo": {
+    "originalSymbol": "URANUS",
+    "sanitizedSymbol": "URANUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219160",
+    "lockerAddress": "0xcdf93d39E7E66a42a632E7ce26359e830ba130CA"
+  },
+  "clankerInfo": null
+}

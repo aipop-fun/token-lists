@@ -1,0 +1,22 @@
+{
+  "name": "GUAC",
+  "symbol": "GUAC",
+  "decimals": 18,
+  "description": "GUAC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GUAC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GUAC",
+  "addresses": {
+    "8453": "0x1dd9e9e6685e1b689c4945662f18edd610dc7c8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GUAC",
+    "sanitizedSymbol": "GUAC",
+    "created_at": "2024-12-11T09:54:07.350946",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1415892",
+    "lockerAddress": "0x4460F9b75D91589Eb0540FD8ee5dc6a4Ddb97c26"
+  },
+  "clankerInfo": null
+}

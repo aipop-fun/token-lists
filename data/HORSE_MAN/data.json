@@ -1,0 +1,22 @@
+{
+  "name": "Horse Man",
+  "symbol": "Horse Man",
+  "decimals": 18,
+  "description": "Horse Man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Horse%20Man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Horse Man",
+  "addresses": {
+    "8453": "0x0c21d8c446f1e8ed612b73a0c5baaa5a744d08bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Horse Man",
+    "sanitizedSymbol": "HORSE_MAN",
+    "created_at": "2024-12-12T03:38:00.61702",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1428947",
+    "lockerAddress": "0xa90854049628d5c1Ca8A006a20a4DC81AF2Ee3c5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sweetie",
+  "symbol": "Sweetie",
+  "decimals": 18,
+  "description": "Sweetie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sweetie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sweetie",
+  "addresses": {
+    "8453": "0x3df9f49b4d70c5f059e4217ad4f27afaacc4072a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sweetie",
+    "sanitizedSymbol": "SWEETIE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1309284",
+    "lockerAddress": "0x8D04b45FB2Ec5d4B46F811e5f71725A598cc5Bc5"
+  },
+  "clankerInfo": null
+}

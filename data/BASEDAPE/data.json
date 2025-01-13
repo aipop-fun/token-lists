@@ -1,0 +1,22 @@
+{
+  "name": "BasedApe",
+  "symbol": "BasedApe",
+  "decimals": 18,
+  "description": "BasedApe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedApe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedApe",
+  "addresses": {
+    "8453": "0x3590b7380c4f7285dcd053ab6ec615492305a458"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedApe",
+    "sanitizedSymbol": "BASEDAPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xE6543e28ee030fF3b12B964030E847798519a024",
+    "lpNftId": "1274047",
+    "lockerAddress": "0xc1D0e25Fe78cCaC40D9a2e447691A1026982B536"
+  },
+  "clankerInfo": null
+}

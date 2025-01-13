@@ -1,0 +1,22 @@
+{
+  "name": "Play Rewind Pause",
+  "symbol": "Play Rewind Pause",
+  "decimals": 18,
+  "description": "Play Rewind Pause is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Play%20Rewind%20Pause",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Play Rewind Pause",
+  "addresses": {
+    "8453": "0x222fc078f79ddd91dac26b4fdc675c1f6ec8d092"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Play Rewind Pause",
+    "sanitizedSymbol": "PLAY_REWIND_PAUSE",
+    "created_at": "2024-12-09T19:32:16.53923",
+    "deployer": "0x13Dc8FD4AC85Be47e643bA782E6753d45FC34C33",
+    "lpNftId": "1390929",
+    "lockerAddress": "0xDC97801a54808E6c9fCA3D07C2327921b2D9F5f2"
+  },
+  "clankerInfo": null
+}

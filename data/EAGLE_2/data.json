@@ -1,0 +1,22 @@
+{
+  "name": "Eagle",
+  "symbol": "Eagle",
+  "decimals": 18,
+  "description": "Eagle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eagle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eagle",
+  "addresses": {
+    "8453": "0x2744d1d36174bde12ce706767943bdac70abea27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eagle",
+    "sanitizedSymbol": "EAGLE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x052b3A2dBa295749Fe6DC8C0A9fAcF7bDB1D55FC",
+    "lpNftId": "1315209",
+    "lockerAddress": "0x014E4b94001A392f81975fC3AcE40228E96fdd60"
+  },
+  "clankerInfo": null
+}

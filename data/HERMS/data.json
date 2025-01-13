@@ -1,0 +1,22 @@
+{
+  "name": "HERMS",
+  "symbol": "HERMS",
+  "decimals": 18,
+  "description": "HERMS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HERMS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HERMS",
+  "addresses": {
+    "8453": "0x2496147ca993cb031275dab8f3d25656b0477604"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HERMS",
+    "sanitizedSymbol": "HERMS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4155fFd04d1cff0617D93eB1172D74F2BB994343",
+    "lpNftId": "1309200",
+    "lockerAddress": "0xFD2d80162Fe53cde56772fBE2d30f4f96171Aa88"
+  },
+  "clankerInfo": null
+}

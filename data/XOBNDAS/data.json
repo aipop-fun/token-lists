@@ -1,0 +1,22 @@
+{
+  "name": "Xobndas",
+  "symbol": "Xobndas",
+  "decimals": 18,
+  "description": "Xobndas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xobndas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xobndas",
+  "addresses": {
+    "8453": "0x0e13c5e3eee6039af637ad4a2ada1b6d751d69d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xobndas",
+    "sanitizedSymbol": "XOBNDAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf4D49945511eadda7b500B87Fdb642a8117625a9",
+    "lpNftId": "1324825",
+    "lockerAddress": "0xBd7e8e73133FdC7B1cC00Bea4167bd9cd3093C45"
+  },
+  "clankerInfo": null
+}

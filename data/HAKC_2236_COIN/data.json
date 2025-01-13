@@ -1,0 +1,22 @@
+{
+  "name": "HAKC-2236 coin",
+  "symbol": "HAKC-2236 coin",
+  "decimals": 18,
+  "description": "HAKC-2236 coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAKC-2236%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAKC-2236 coin",
+  "addresses": {
+    "8453": "0x19dfeefc67b660a3fd75461bb50a3fa1a967d0f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAKC-2236 coin",
+    "sanitizedSymbol": "HAKC_2236_COIN",
+    "created_at": "2024-12-11T08:24:50.276109",
+    "deployer": "0x6B774288b64B089C2A89F01177FD093B3F838b8e",
+    "lpNftId": "1414881",
+    "lockerAddress": "0x0C3b4A6A755C0e75D7F6Aed8D5BE94f92Aa765C9"
+  },
+  "clankerInfo": null
+}

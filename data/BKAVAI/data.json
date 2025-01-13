@@ -1,0 +1,22 @@
+{
+  "name": "BKAVAI",
+  "symbol": "BKAVAI",
+  "decimals": 18,
+  "description": "BKAVAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BKAVAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BKAVAI",
+  "addresses": {
+    "8453": "0x0998e29f47043112b8cda313106a7c13170ecc01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BKAVAI",
+    "sanitizedSymbol": "BKAVAI",
+    "created_at": "2024-12-12T01:37:46.005519",
+    "deployer": "0x8deCEEBFD37B46f13B9FE58B2f2fdb42963f6f87",
+    "lpNftId": "1428455",
+    "lockerAddress": "0xdc5B3F326A826762A5Fb794315eAB922206C6EbA"
+  },
+  "clankerInfo": null
+}

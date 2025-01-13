@@ -1,0 +1,22 @@
+{
+  "name": "Bleu Elefant",
+  "symbol": "Bleu Elefant",
+  "decimals": 18,
+  "description": "Bleu Elefant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bleu%20Elefant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bleu Elefant",
+  "addresses": {
+    "8453": "0x24941a3955fe4370261aad82c4b91651009a1600"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bleu Elefant",
+    "sanitizedSymbol": "BLEU_ELEFANT",
+    "created_at": "2024-12-11T06:14:53.078288",
+    "deployer": "0xFdE7CD43324a71161A1940dE256fcaF5635F0214",
+    "lpNftId": "1413827",
+    "lockerAddress": "0x260fb08d98fba36C8CBEbB9683E508000f36f0D8"
+  },
+  "clankerInfo": null
+}

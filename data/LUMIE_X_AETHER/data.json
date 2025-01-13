@@ -1,0 +1,22 @@
+{
+  "name": "Lumie x Aether",
+  "symbol": "Lumie x Aether",
+  "decimals": 18,
+  "description": "Lumie x Aether is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lumie%20x%20Aether",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lumie x Aether",
+  "addresses": {
+    "8453": "0x2b33784ce6b1f929815db2793d677f2c0dc0e79e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lumie x Aether",
+    "sanitizedSymbol": "LUMIE_X_AETHER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158953",
+    "lockerAddress": "0x63Da6E2E8A55fc1A7f5B683189a477eAaEC7dc3A"
+  },
+  "clankerInfo": null
+}

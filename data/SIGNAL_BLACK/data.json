@@ -1,0 +1,22 @@
+{
+  "name": "SIGNAL BLACK",
+  "symbol": "SIGNAL BLACK",
+  "decimals": 18,
+  "description": "SIGNAL BLACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SIGNAL%20BLACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SIGNAL BLACK",
+  "addresses": {
+    "8453": "0x37a08206694e4b8c0f1051c42b09c8e32f25a7cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SIGNAL BLACK",
+    "sanitizedSymbol": "SIGNAL_BLACK",
+    "created_at": "2024-12-12T22:14:05.166172",
+    "deployer": "0xA9A4a3D388b8C99b75F012a7dc32972188cDC557",
+    "lpNftId": "1444455",
+    "lockerAddress": "0x40265339F6D830E1C5e6D265544Cd377604BAC7f"
+  },
+  "clankerInfo": null
+}

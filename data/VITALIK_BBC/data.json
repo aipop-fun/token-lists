@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik BBC",
+  "symbol": "Vitalik BBC",
+  "decimals": 18,
+  "description": "Vitalik BBC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20BBC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik BBC",
+  "addresses": {
+    "8453": "0x2658e284f42ddbaecc5787eadfe778f7267ed5ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik BBC",
+    "sanitizedSymbol": "VITALIK_BBC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197833",
+    "lockerAddress": "0x44978040D9e6C1ec32b8Cc86A832256bCcd67aa3"
+  },
+  "clankerInfo": null
+}

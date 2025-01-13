@@ -1,0 +1,22 @@
+{
+  "name": "CatFish",
+  "symbol": "CatFish",
+  "decimals": 18,
+  "description": "CatFish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatFish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatFish",
+  "addresses": {
+    "8453": "0x06aac3edbc4eed7ac0aa586629e1c7cb564005ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatFish",
+    "sanitizedSymbol": "CATFISH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x710ce330e997aeBdf895381d5b069d2EA3B2B301",
+    "lpNftId": "1250706",
+    "lockerAddress": "0xb6f8a08922dee67755D2191dBDdDe3D785798c49"
+  },
+  "clankerInfo": null
+}

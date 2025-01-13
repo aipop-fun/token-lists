@@ -1,0 +1,22 @@
+{
+  "name": "pball",
+  "symbol": "pball",
+  "decimals": 18,
+  "description": "pball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pball",
+  "addresses": {
+    "8453": "0x2e4e42efc60fb158e268c0420a3b27e077d509d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pball",
+    "sanitizedSymbol": "PBALL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA5253586d533733d7cCF55C04b2B56DbcC9Db863",
+    "lpNftId": "1265901",
+    "lockerAddress": "0x0b03795a38Db8C6ed74DCB397a56749258d19Ff4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clanker X Pumpsea",
+  "symbol": "Clanker X Pumpsea",
+  "decimals": 18,
+  "description": "Clanker X Pumpsea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20X%20Pumpsea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker X Pumpsea",
+  "addresses": {
+    "8453": "0x1edf4d8b6a3497b616aa77c827a90a11c2f0aabb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker X Pumpsea",
+    "sanitizedSymbol": "CLANKER_X_PUMPSEA",
+    "created_at": "2024-12-12T10:48:39.609456",
+    "deployer": "0x21764097117f01cBb4785F516f2e2347A80b2DDF",
+    "lpNftId": "1432827",
+    "lockerAddress": "0xBF91a8E55047A9C3Ae800e9BdAee7D62e12606AE"
+  },
+  "clankerInfo": null
+}

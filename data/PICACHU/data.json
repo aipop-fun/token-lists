@@ -1,0 +1,22 @@
+{
+  "name": "Picachu",
+  "symbol": "Picachu",
+  "decimals": 18,
+  "description": "Picachu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Picachu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Picachu",
+  "addresses": {
+    "8453": "0x105cc9851a3ddd3e3378744fd876fbf1125117ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Picachu",
+    "sanitizedSymbol": "PICACHU",
+    "created_at": "2024-12-12T13:15:36.558386",
+    "deployer": "0x23bD9d34961616FA9f59976278DA6D3E8BA29b77",
+    "lpNftId": "1434797",
+    "lockerAddress": "0x71F1311CCF635756886647eEBB7a3B9861c334c5"
+  },
+  "clankerInfo": null
+}

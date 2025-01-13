@@ -1,0 +1,22 @@
+{
+  "name": "Ambivert",
+  "symbol": "Ambivert",
+  "decimals": 18,
+  "description": "Ambivert is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ambivert",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ambivert",
+  "addresses": {
+    "8453": "0x14c3959abfd14a29e1e00980016d204a2620fec4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ambivert",
+    "sanitizedSymbol": "AMBIVERT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4F957675Cb5E88fB483788E38161AdCd57Ef8B84",
+    "lpNftId": "1374861",
+    "lockerAddress": "0xBE496Bda2f9c4DA8ac2d9FF98a6b93Dc89562F8D"
+  },
+  "clankerInfo": null
+}

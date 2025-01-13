@@ -1,0 +1,22 @@
+{
+  "name": "$Rogbase",
+  "symbol": "$Rogbase",
+  "decimals": 18,
+  "description": "$Rogbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24Rogbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$Rogbase",
+  "addresses": {
+    "8453": "0x1890206cde5808e7996abfe4dba72f3c71797fa8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$Rogbase",
+    "sanitizedSymbol": "ROGBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129105",
+    "lockerAddress": "0x4864711ED6fB4E0D65953d025AdcE2180458C416"
+  },
+  "clankerInfo": null
+}

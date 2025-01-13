@@ -1,0 +1,22 @@
+{
+  "name": "Dark Zuckerberg",
+  "symbol": "Dark Zuckerberg",
+  "decimals": 18,
+  "description": "Dark Zuckerberg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dark%20Zuckerberg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dark Zuckerberg",
+  "addresses": {
+    "8453": "0x1eb4996b1ea3fd6a2e1a2333ba304f04036c6862"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dark Zuckerberg",
+    "sanitizedSymbol": "DARK_ZUCKERBERG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x435172C1B669839dE487c8A26BeE3124E2f06D78",
+    "lpNftId": "1330976",
+    "lockerAddress": "0xCb6c00C242bF84AefFd0064Cc9d892cBd1600f40"
+  },
+  "clankerInfo": null
+}

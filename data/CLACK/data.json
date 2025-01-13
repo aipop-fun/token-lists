@@ -1,0 +1,22 @@
+{
+  "name": "CLACK",
+  "symbol": "CLACK",
+  "decimals": 18,
+  "description": "CLACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLACK",
+  "addresses": {
+    "8453": "0x20a201f301a865bbed2ecae9b68356198ae24862"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLACK",
+    "sanitizedSymbol": "CLACK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1308976",
+    "lockerAddress": "0x9e94773668acc2BCe9f008358cDC7f95B9189D6E"
+  },
+  "clankerInfo": null
+}

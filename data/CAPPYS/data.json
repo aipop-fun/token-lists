@@ -1,0 +1,22 @@
+{
+  "name": "Cappys",
+  "symbol": "Cappys",
+  "decimals": 18,
+  "description": "Cappys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cappys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cappys",
+  "addresses": {
+    "8453": "0x336abb598cea3c436b5deec3482dca274d3cb11b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cappys",
+    "sanitizedSymbol": "CAPPYS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa39f3f1001E06eCeD2CA6b82f760814C2E48ea4E",
+    "lpNftId": "1265385",
+    "lockerAddress": "0x2FD06B1bf72C9798e33342538957E7D7AeECf2D2"
+  },
+  "clankerInfo": null
+}

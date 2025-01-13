@@ -1,0 +1,22 @@
+{
+  "name": "post",
+  "symbol": "post",
+  "decimals": 18,
+  "description": "post is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=post",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "post",
+  "addresses": {
+    "8453": "0x3c7df7680b90b15d6c73aab74a5819544c577901"
+  },
+  "tokenInfo": {
+    "originalSymbol": "post",
+    "sanitizedSymbol": "POST_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225855",
+    "lockerAddress": "0x4E6d91d96f3B4893b71CDcb4230aDcCD31d94f7B"
+  },
+  "clankerInfo": null
+}

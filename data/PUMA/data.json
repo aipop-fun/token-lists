@@ -1,0 +1,22 @@
+{
+  "name": "PUMA",
+  "symbol": "PUMA",
+  "decimals": 18,
+  "description": "PUMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMA",
+  "addresses": {
+    "8453": "0x40a35be80108c0f6ae1ec85202c1e4e48203cad4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMA",
+    "sanitizedSymbol": "PUMA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8533b0D731bDEaE92f52685856fFfCb8B48eBe96",
+    "lpNftId": "1288015",
+    "lockerAddress": "0xa3f285a3B64777e75522476C36b8DcF97E9ca8Dc"
+  },
+  "clankerInfo": null
+}

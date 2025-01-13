@@ -1,0 +1,22 @@
+{
+  "name": "voll",
+  "symbol": "voll",
+  "decimals": 18,
+  "description": "voll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=voll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "voll",
+  "addresses": {
+    "8453": "0x33389abb66cee581c0e0388cb7f76f873342dfd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "voll",
+    "sanitizedSymbol": "VOLL",
+    "created_at": "2024-12-12T17:42:11.685477",
+    "deployer": "0xB18e5d12B012f390EF2060FE61f95bD0b685D616",
+    "lpNftId": "1439930",
+    "lockerAddress": "0x37d706Ff494Db7b1E83617A56AE5F1A408679EBc"
+  },
+  "clankerInfo": null
+}

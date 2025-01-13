@@ -1,0 +1,22 @@
+{
+  "name": "Quant",
+  "symbol": "Quant",
+  "decimals": 18,
+  "description": "Quant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quant",
+  "addresses": {
+    "8453": "0x29d166aa5734bbcfbf56173100877e823d78a485"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quant",
+    "sanitizedSymbol": "QUANT_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194441",
+    "lockerAddress": "0xfe73E317f8B80382345E674EFd62FD2915dEF88b"
+  },
+  "clankerInfo": null
+}

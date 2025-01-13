@@ -1,0 +1,22 @@
+{
+  "name": "LONELY",
+  "symbol": "LONELY",
+  "decimals": 18,
+  "description": "LONELY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LONELY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LONELY",
+  "addresses": {
+    "8453": "0x0ab1b0b36255d7fdfe782a8e2ff26e52b475e7c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LONELY",
+    "sanitizedSymbol": "LONELY_1",
+    "created_at": "2024-12-12T18:19:01.001383",
+    "deployer": "0x65F1FffeD5896dDafB2B42224164dc7F2f5765ef",
+    "lpNftId": "1440657",
+    "lockerAddress": "0x3b9B839A4545018a85e924cc47b68E9093fbfb87"
+  },
+  "clankerInfo": null
+}

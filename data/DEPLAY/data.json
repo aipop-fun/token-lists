@@ -1,0 +1,22 @@
+{
+  "name": "deplay",
+  "symbol": "deplay",
+  "decimals": 18,
+  "description": "deplay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=deplay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "deplay",
+  "addresses": {
+    "8453": "0x1274f6d00d2b3ba9079a1073d66fef7dd3c1acca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "deplay",
+    "sanitizedSymbol": "DEPLAY",
+    "created_at": "2024-12-12T05:16:35.564934",
+    "deployer": "0x9Ab2D71dD8E75688CDDB32964fE10CB8C75876A7",
+    "lpNftId": "1429342",
+    "lockerAddress": "0x450eb0194B9fdB841764e0dFE7819afCA3Dc612A"
+  },
+  "clankerInfo": null
+}

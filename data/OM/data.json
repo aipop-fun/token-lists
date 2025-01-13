@@ -1,14 +1,22 @@
 {
-  "name": "MANTRA",
+  "name": "OM",
   "symbol": "OM",
   "decimals": 18,
-  "description": "MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements. Built for Institutions and Developers, MANTRA offers a Permissionless Blockchain for Permissioned applications.",
-  "website": "https://www.mantrachain.io/",
-  "twitter": "https://twitter.com/MANTRA_Chain",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1715593020/migrations/qecwk9njslyvuyt8va1j.svg",
+  "description": "OM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
   "opTokenId": "OM",
   "addresses": {
-    "1": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
-    "8453": "0x3992b27da26848c2b19cea6fd25ad5568b68ab98"
-  }
+    "8453": "0x08d045dbe395902e06609a777b5f24d50a172062"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OM",
+    "sanitizedSymbol": "OM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222836",
+    "lockerAddress": "0x7f58881a20C927c34cA87548E10763b1aD0c8B5b"
+  },
+  "clankerInfo": null
 }

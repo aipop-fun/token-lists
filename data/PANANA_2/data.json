@@ -1,0 +1,22 @@
+{
+  "name": "Panana",
+  "symbol": "Panana",
+  "decimals": 18,
+  "description": "Panana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Panana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Panana",
+  "addresses": {
+    "8453": "0x339b82823b20bda325ea8ff16326d6805b6cf803"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Panana",
+    "sanitizedSymbol": "PANANA_2",
+    "created_at": "2024-12-11T13:31:11.765449",
+    "deployer": "0xFF59A105f345606085b412815d1596755bF11Fb4",
+    "lpNftId": "1419142",
+    "lockerAddress": "0xE03bF3fAf493d54B72c667ddFC1429A82eA59eE1"
+  },
+  "clankerInfo": null
+}

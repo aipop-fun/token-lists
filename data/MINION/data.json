@@ -1,0 +1,22 @@
+{
+  "name": "Minion",
+  "symbol": "Minion",
+  "decimals": 18,
+  "description": "Minion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Minion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Minion",
+  "addresses": {
+    "8453": "0x32bc99bb298ca547d1292651fb6efc7802b7c718"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Minion",
+    "sanitizedSymbol": "MINION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6F4BE11d63bA2fB47c21760259B7EFBed881BCa0",
+    "lpNftId": "1288360",
+    "lockerAddress": "0x3B418E682daE9250CFC21A26171049862b131171"
+  },
+  "clankerInfo": null
+}

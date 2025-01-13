@@ -1,0 +1,22 @@
+{
+  "name": "jesseGenius",
+  "symbol": "jesseGenius",
+  "decimals": 18,
+  "description": "jesseGenius is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jesseGenius",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jesseGenius",
+  "addresses": {
+    "8453": "0x19d2c37fdc72d3223db44e053f5bcf23cf823726"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jesseGenius",
+    "sanitizedSymbol": "JESSEGENIUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x667Ac63c76ddA80C59EA6d6d65C6179946e917C7",
+    "lpNftId": "1322206",
+    "lockerAddress": "0x9d43d28370fa5eEB15F04ea715E6d272978262f5"
+  },
+  "clankerInfo": null
+}

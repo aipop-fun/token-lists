@@ -1,0 +1,22 @@
+{
+  "name": "FWOG",
+  "symbol": "FWOG",
+  "decimals": 18,
+  "description": "FWOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FWOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FWOG",
+  "addresses": {
+    "8453": "0x07ef86ba1a7b89f36ba73740825eeb9f9aae5953"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FWOG",
+    "sanitizedSymbol": "FWOG_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x74fA3a7270Ea4D755B88E4e9943616092eD0529C",
+    "lpNftId": "1359464",
+    "lockerAddress": "0x2B53f1D86eF704508eFDC4A7ae6476e501697806"
+  },
+  "clankerInfo": null
+}

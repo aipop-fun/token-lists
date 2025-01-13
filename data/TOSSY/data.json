@@ -1,0 +1,22 @@
+{
+  "name": "TOSSY",
+  "symbol": "TOSSY",
+  "decimals": 18,
+  "description": "TOSSY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOSSY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOSSY",
+  "addresses": {
+    "8453": "0x19f446f2510bb96afa3c598e212d4822d0d8f95d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOSSY",
+    "sanitizedSymbol": "TOSSY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCbc539d55840b986407EFA19dA40e1D6Cb4e0F1a",
+    "lpNftId": "1309493",
+    "lockerAddress": "0xC95A18a85B5be56CB032C3F38C269f2Afd6882f2"
+  },
+  "clankerInfo": null
+}

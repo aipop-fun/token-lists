@@ -1,0 +1,22 @@
+{
+  "name": "Tomorrow Never Dies",
+  "symbol": "Tomorrow Never Dies",
+  "decimals": 18,
+  "description": "Tomorrow Never Dies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tomorrow%20Never%20Dies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tomorrow Never Dies",
+  "addresses": {
+    "8453": "0x029bb08cd8b095504118573cdf1d9f6adfb4d477"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tomorrow Never Dies",
+    "sanitizedSymbol": "TOMORROW_NEVER_DIES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210765",
+    "lockerAddress": "0x0Cf924DA94Fbeb1bB50eD89aE4fd26E7f102C7f6"
+  },
+  "clankerInfo": null
+}

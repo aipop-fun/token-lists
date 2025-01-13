@@ -1,0 +1,22 @@
+{
+  "name": "It's Over",
+  "symbol": "It's Over",
+  "decimals": 18,
+  "description": "It's Over is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=It's%20Over",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "It's Over",
+  "addresses": {
+    "8453": "0x0cb043d88be45ff5679f0a9083959b563f59a6c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "It's Over",
+    "sanitizedSymbol": "IT_S_OVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x571884fBabc7D20914Aa7cC35d6075B0C6878B3D",
+    "lpNftId": "1336930",
+    "lockerAddress": "0xe643466Dd66a116F697D0846305A3e1591daa0d3"
+  },
+  "clankerInfo": null
+}

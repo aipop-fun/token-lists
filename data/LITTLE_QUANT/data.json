@@ -1,0 +1,22 @@
+{
+  "name": "Little Quant",
+  "symbol": "Little Quant",
+  "decimals": 18,
+  "description": "Little Quant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Little%20Quant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Little Quant",
+  "addresses": {
+    "8453": "0x18c236894fa055fb868482daa9cf68ae0adc2077"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Little Quant",
+    "sanitizedSymbol": "LITTLE_QUANT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233885",
+    "lockerAddress": "0x182720f91c105b4c6A0EDD41B7361c555Eb6bcBf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Degen Ape",
+  "symbol": "Degen Ape",
+  "decimals": 18,
+  "description": "Degen Ape is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Ape",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Ape",
+  "addresses": {
+    "8453": "0x14b7c02437989440f29f2678df28e58a97e1f55c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Ape",
+    "sanitizedSymbol": "DEGEN_APE",
+    "created_at": "2024-12-12T13:38:59.728771",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1435245",
+    "lockerAddress": "0x27EC587dD644C20b44BC1DD5EFE27Eb05471C446"
+  },
+  "clankerInfo": null
+}

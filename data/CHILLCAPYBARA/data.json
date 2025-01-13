@@ -1,0 +1,22 @@
+{
+  "name": "ChillCapybara",
+  "symbol": "ChillCapybara",
+  "decimals": 18,
+  "description": "ChillCapybara is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillCapybara",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillCapybara",
+  "addresses": {
+    "8453": "0x0c5aaa26702bde5fa5bb05aff0b84a780a60c9d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillCapybara",
+    "sanitizedSymbol": "CHILLCAPYBARA",
+    "created_at": "2024-12-12T16:59:07.046061",
+    "deployer": "0x80dc27F34321223D4B4EfB07De80894c35189D89",
+    "lpNftId": "1439016",
+    "lockerAddress": "0xE0BA3808f92288037AE9fbfBefC43014D1483C1A"
+  },
+  "clankerInfo": null
+}

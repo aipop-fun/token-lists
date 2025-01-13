@@ -1,0 +1,22 @@
+{
+  "name": "Frazzler",
+  "symbol": "Frazzler",
+  "decimals": 18,
+  "description": "Frazzler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frazzler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frazzler",
+  "addresses": {
+    "8453": "0x258661c859c061b8a7efcf37fb81cbdd6a47a1d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frazzler",
+    "sanitizedSymbol": "FRAZZLER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210986",
+    "lockerAddress": "0x58526D38960894D218D61cD2A2567b189c13abBc"
+  },
+  "clankerInfo": null
+}

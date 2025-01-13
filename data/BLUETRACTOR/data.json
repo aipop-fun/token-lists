@@ -1,0 +1,22 @@
+{
+  "name": "BLUETRACTOR",
+  "symbol": "BLUETRACTOR",
+  "decimals": 18,
+  "description": "BLUETRACTOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLUETRACTOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLUETRACTOR",
+  "addresses": {
+    "8453": "0x2e81d7b50fe4e74bd2326d6bdbbe771bc94d668f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLUETRACTOR",
+    "sanitizedSymbol": "BLUETRACTOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8f96ab72ee30fEdDDCbEC3Eeeb85C12C691Cb79a",
+    "lpNftId": "1285517",
+    "lockerAddress": "0x98522bA7Ab1379fb984A778cC79e57e8D750Ef51"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Meme Template",
+  "symbol": "Meme Template",
+  "decimals": 18,
+  "description": "Meme Template is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Template",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Template",
+  "addresses": {
+    "8453": "0x2da6ec3228002a093f16adc1c646e1bb4ad05e6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Template",
+    "sanitizedSymbol": "MEME_TEMPLATE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2425a22bb273949467aEEF8aBF8c3E24C4Ef1c61",
+    "lpNftId": "1376176",
+    "lockerAddress": "0x90D4e82a66F5cDE912DBF65e0d27023b11566128"
+  },
+  "clankerInfo": null
+}

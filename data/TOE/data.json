@@ -1,0 +1,22 @@
+{
+  "name": "Toe",
+  "symbol": "Toe",
+  "decimals": 18,
+  "description": "Toe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Toe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Toe",
+  "addresses": {
+    "8453": "0x2a861df2ddbe46fc926e7ec69f5547b249912aac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Toe",
+    "sanitizedSymbol": "TOE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xadd446769D566C5fc57E6A045fd325920938c41d",
+    "lpNftId": "1316727",
+    "lockerAddress": "0xE1176D84A5AC7c9716677fc5d9641479B79967c1"
+  },
+  "clankerInfo": null
+}

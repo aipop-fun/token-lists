@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Banana",
+  "symbol": "Clanker Banana",
+  "decimals": 18,
+  "description": "Clanker Banana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Banana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Banana",
+  "addresses": {
+    "8453": "0x040396d3739aaad939d0ff5e91984c416307b57b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Banana",
+    "sanitizedSymbol": "CLANKER_BANANA",
+    "created_at": "2024-12-10T19:19:59.931225",
+    "deployer": "0x8A1e09b542C09b2E26F54356A4d9Ff32Cbc02EA8",
+    "lpNftId": "1406067",
+    "lockerAddress": "0x8C99BCE129dF082ddd413249db2a6c60f390B21c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "saintA.I bot",
+  "symbol": "saintA.I bot",
+  "decimals": 18,
+  "description": "saintA.I bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=saintA.I%20bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "saintA.I bot",
+  "addresses": {
+    "8453": "0x348576cb420606ff0b2d03b4fffc60a970034c40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "saintA.I bot",
+    "sanitizedSymbol": "SAINTA_I_BOT",
+    "created_at": "2024-12-12T19:46:53.144568",
+    "deployer": "0x85843CA21494c93fbB4e134c5ba7b198E10bE556",
+    "lpNftId": "1441875",
+    "lockerAddress": "0x2bf8401c2c7fA0Be3B09224c3D5709632a0C74c1"
+  },
+  "clankerInfo": null
+}

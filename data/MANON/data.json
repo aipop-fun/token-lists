@@ -1,0 +1,22 @@
+{
+  "name": "MANON",
+  "symbol": "MANON",
+  "decimals": 18,
+  "description": "MANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MANON",
+  "addresses": {
+    "8453": "0x0eb490216f18a70fb6b1a4794a41361a59cc3a70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MANON",
+    "sanitizedSymbol": "MANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152196",
+    "lockerAddress": "0x80a23486A75d6E1d0A0bF3C27F2A9a273AfDBB40"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lord",
+  "symbol": "Lord",
+  "decimals": 18,
+  "description": "Lord is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lord",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lord",
+  "addresses": {
+    "8453": "0x11e0333d3072a8e38e268fe10f1a3d26449dab53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lord",
+    "sanitizedSymbol": "LORD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x60245FBaFbe266c0E47bD33D007956425E33C975",
+    "lpNftId": "1251603",
+    "lockerAddress": "0xA0F38B8fcA744Ce254bCD47BA013a9c8f24273b1"
+  },
+  "clankerInfo": null
+}

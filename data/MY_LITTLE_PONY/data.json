@@ -1,0 +1,22 @@
+{
+  "name": "My Little Pony",
+  "symbol": "My Little Pony",
+  "decimals": 18,
+  "description": "My Little Pony is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Little%20Pony",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Little Pony",
+  "addresses": {
+    "8453": "0x3cfcf2798745dd8caa4146f809389317b1be2566"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Little Pony",
+    "sanitizedSymbol": "MY_LITTLE_PONY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1284382",
+    "lockerAddress": "0x071620343E57694Da4C8f8B0FA10496d1da9a4b3"
+  },
+  "clankerInfo": null
+}

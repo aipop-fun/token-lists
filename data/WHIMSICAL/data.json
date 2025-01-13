@@ -1,0 +1,22 @@
+{
+  "name": "Whimsical",
+  "symbol": "Whimsical",
+  "decimals": 18,
+  "description": "Whimsical is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whimsical",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whimsical",
+  "addresses": {
+    "8453": "0x0bbfcaec454a789581a8ca1a74098d612b743b2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whimsical",
+    "sanitizedSymbol": "WHIMSICAL",
+    "created_at": "2024-12-10T18:42:57.773607",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1405671",
+    "lockerAddress": "0x8Db079116a2A9Ed8C516472496e474C6CD536380"
+  },
+  "clankerInfo": null
+}

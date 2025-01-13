@@ -1,0 +1,22 @@
+{
+  "name": "Flatland Token",
+  "symbol": "Flatland Token",
+  "decimals": 18,
+  "description": "Flatland Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flatland%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flatland Token",
+  "addresses": {
+    "8453": "0x2ed4650e79eb7d2468690898d828171d5a623fe5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flatland Token",
+    "sanitizedSymbol": "FLATLAND_TOKEN",
+    "created_at": "2024-12-09T08:38:03.313529",
+    "deployer": "0x0340AC47E18FF26A4Fe6581AD018BcBec146F343",
+    "lpNftId": "1384773",
+    "lockerAddress": "0x647Fc10FA37aa926dcD406E9584aF5f6598A4124"
+  },
+  "clankerInfo": null
+}

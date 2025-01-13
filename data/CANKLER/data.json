@@ -1,0 +1,22 @@
+{
+  "name": "Cankler",
+  "symbol": "Cankler",
+  "decimals": 18,
+  "description": "Cankler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cankler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cankler",
+  "addresses": {
+    "8453": "0x146e10ce7c9c8ccd03e544903ef314d371dcc0d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cankler",
+    "sanitizedSymbol": "CANKLER",
+    "created_at": "2024-12-12T10:03:45.042992",
+    "deployer": "0xec4FB71479dd313feD9e8b6DAB23829b220d16A0",
+    "lpNftId": "1432108",
+    "lockerAddress": "0x0f43E1Fa76c229d8E8769aD4E85da20240425e73"
+  },
+  "clankerInfo": null
+}

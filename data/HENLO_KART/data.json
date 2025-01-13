@@ -1,0 +1,22 @@
+{
+  "name": "Henlo Kart",
+  "symbol": "Henlo Kart",
+  "decimals": 18,
+  "description": "Henlo Kart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Henlo%20Kart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Henlo Kart",
+  "addresses": {
+    "8453": "0x0b3d5dfbd4c57d1f25e9932737f7df4df1c82782"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Henlo Kart",
+    "sanitizedSymbol": "HENLO_KART",
+    "created_at": "2024-12-09T09:34:17.699517",
+    "deployer": "0xffA52D6fF5024E59a2A99F18eB867ce873729bDd",
+    "lpNftId": "1385293",
+    "lockerAddress": "0xbA5d657e4b8B2188DAA91C92dd0BF197056843ba"
+  },
+  "clankerInfo": null
+}

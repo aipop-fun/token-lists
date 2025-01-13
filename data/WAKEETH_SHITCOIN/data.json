@@ -1,0 +1,22 @@
+{
+  "name": "wakeeth shitcoin",
+  "symbol": "wakeeth shitcoin",
+  "decimals": 18,
+  "description": "wakeeth shitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wakeeth%20shitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wakeeth shitcoin",
+  "addresses": {
+    "8453": "0x3ef7a52c8e929a8e2f17ed8bccd18faafe08a8a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wakeeth shitcoin",
+    "sanitizedSymbol": "WAKEETH_SHITCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1310064",
+    "lockerAddress": "0x2908481116669D9B644c42fE5E814D23e823fEFC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Liquor Talk",
+  "symbol": "Liquor Talk",
+  "decimals": 18,
+  "description": "Liquor Talk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liquor%20Talk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liquor Talk",
+  "addresses": {
+    "8453": "0x3e411a3f1bd95d0d9f5f9de94263dbf2be1394fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liquor Talk",
+    "sanitizedSymbol": "LIQUOR_TALK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcEeeC734ECb02377937446d1a38130d076bAAd74",
+    "lpNftId": "1347404",
+    "lockerAddress": "0xECea175CDF5c320FF4cF83a73687d84AE7037633"
+  },
+  "clankerInfo": null
+}

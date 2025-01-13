@@ -1,0 +1,22 @@
+{
+  "name": "just buy $1 worth of bitcoin",
+  "symbol": "just buy $1 worth of bitcoin",
+  "decimals": 18,
+  "description": "just buy $1 worth of bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20buy%20%241%20worth%20of%20bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just buy $1 worth of bitcoin",
+  "addresses": {
+    "8453": "0x3a1cb7c5f5128c6a0b0ba76ad20ae9fdc8769692"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just buy $1 worth of bitcoin",
+    "sanitizedSymbol": "JUST_BUY_1_WORTH_OF_BITCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234808",
+    "lockerAddress": "0x73e73Da1D9b81F14130A70E562a2D2fe9078492a"
+  },
+  "clankerInfo": null
+}

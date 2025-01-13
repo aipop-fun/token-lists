@@ -1,0 +1,22 @@
+{
+  "name": "kendohavi",
+  "symbol": "kendohavi",
+  "decimals": 18,
+  "description": "kendohavi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kendohavi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kendohavi",
+  "addresses": {
+    "8453": "0x22b0de8556209764c88153887e564bccec1aa1ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kendohavi",
+    "sanitizedSymbol": "KENDOHAVI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234640",
+    "lockerAddress": "0x52cb77ef31262C451Ffe0FB7A116cC829B59C87e"
+  },
+  "clankerInfo": null
+}

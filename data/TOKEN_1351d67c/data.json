@@ -1,0 +1,22 @@
+{
+  "name": "猴青",
+  "symbol": "猴青",
+  "decimals": 18,
+  "description": "猴青 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E7%8C%B4%E9%9D%92",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "猴青",
+  "addresses": {
+    "8453": "0x3450fabbdb216ba477a9a3753983abe41fe294e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "猴青",
+    "sanitizedSymbol": "TOKEN_1351d67c",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1eB95Fe1B6c92DB8A154E065Dd88f96cc0915d84",
+    "lpNftId": "1263795",
+    "lockerAddress": "0xFc6003E528AbeB08b02183d855a093d6901DDC82"
+  },
+  "clankerInfo": null
+}

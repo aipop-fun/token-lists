@@ -1,0 +1,22 @@
+{
+  "name": "BASE REMILIO",
+  "symbol": "BASE REMILIO",
+  "decimals": 18,
+  "description": "BASE REMILIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20REMILIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE REMILIO",
+  "addresses": {
+    "8453": "0x0cb6e48d3adb09292aadb21f3355481d625d6f9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE REMILIO",
+    "sanitizedSymbol": "BASE_REMILIO",
+    "created_at": "2024-12-11T18:24:21.446906",
+    "deployer": "0xa3c0c7845779f1433AA336337417d7217eB4F480",
+    "lpNftId": "1423777",
+    "lockerAddress": "0x24a497f3dca41B9870805C279Bd07949f670a3C8"
+  },
+  "clankerInfo": null
+}

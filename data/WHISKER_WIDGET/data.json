@@ -1,0 +1,22 @@
+{
+  "name": "Whisker Widget",
+  "symbol": "Whisker Widget",
+  "decimals": 18,
+  "description": "Whisker Widget is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whisker%20Widget",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whisker Widget",
+  "addresses": {
+    "8453": "0x133ec7c1395a87ce6649bd6679a9e6b6ac17251a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whisker Widget",
+    "sanitizedSymbol": "WHISKER_WIDGET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193139",
+    "lockerAddress": "0xC3931A5e4f8C4f9b3A2E4E11BAC3AeEE34202Bf1"
+  },
+  "clankerInfo": null
+}

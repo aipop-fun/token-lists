@@ -1,0 +1,22 @@
+{
+  "name": "100Bil",
+  "symbol": "100Bil",
+  "decimals": 18,
+  "description": "100Bil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100Bil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100Bil",
+  "addresses": {
+    "8453": "0x3a73c298fa9a7a6211d12646e2aea3dc8b711889"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100Bil",
+    "sanitizedSymbol": "100BIL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234670",
+    "lockerAddress": "0xaB5EBe1cEDd928A6735bf141184b2FDBfdC29C06"
+  },
+  "clankerInfo": null
+}

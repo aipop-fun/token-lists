@@ -1,0 +1,22 @@
+{
+  "name": "Plebchain",
+  "symbol": "Plebchain",
+  "decimals": 18,
+  "description": "Plebchain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Plebchain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Plebchain",
+  "addresses": {
+    "8453": "0x328ec69bbb32438db5fcdd5409f07dedfbe77c5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Plebchain",
+    "sanitizedSymbol": "PLEBCHAIN",
+    "created_at": "2024-12-09T15:40:47.941271",
+    "deployer": "0xEd4bb3E2330859B1780A62Cf214554cBA6Af93d6",
+    "lpNftId": "1388683",
+    "lockerAddress": "0xE8c1B79a96F59Dc2C41313EBBFD1038182a29457"
+  },
+  "clankerInfo": null
+}

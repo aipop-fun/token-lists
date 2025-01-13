@@ -1,0 +1,22 @@
+{
+  "name": "AIBULL",
+  "symbol": "AIBULL",
+  "decimals": 18,
+  "description": "AIBULL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIBULL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIBULL",
+  "addresses": {
+    "8453": "0x0c4c124d7b882c0d43736ef56c94cb2bddc1bce1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIBULL",
+    "sanitizedSymbol": "AIBULL",
+    "created_at": "2024-12-12T14:52:28.768057",
+    "deployer": "0x36de990133D36d7E3DF9a820aA3eDE5a2320De71",
+    "lpNftId": "1436416",
+    "lockerAddress": "0xf9f3baeF13FbE6b011a00d9617a85AF33d38Eb71"
+  },
+  "clankerInfo": null
+}

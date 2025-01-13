@@ -1,0 +1,22 @@
+{
+  "name": "YENKA 84 Trader",
+  "symbol": "YENKA 84 Trader",
+  "decimals": 18,
+  "description": "YENKA 84 Trader is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YENKA%2084%20Trader",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YENKA 84 Trader",
+  "addresses": {
+    "8453": "0x11d14274024cd581daa997a225c539b1b9118add"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YENKA 84 Trader",
+    "sanitizedSymbol": "YENKA_84_TRADER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128861",
+    "lockerAddress": "0x2DcDf6b76c783FdA4F95c6ca576964E767e7e4A8"
+  },
+  "clankerInfo": null
+}

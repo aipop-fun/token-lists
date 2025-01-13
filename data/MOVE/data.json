@@ -1,0 +1,22 @@
+{
+  "name": "MOVE",
+  "symbol": "MOVE",
+  "decimals": 18,
+  "description": "MOVE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOVE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOVE",
+  "addresses": {
+    "8453": "0x1c818ad3f888753ee58df159c32e506468670da5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOVE",
+    "sanitizedSymbol": "MOVE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1328030",
+    "lockerAddress": "0x7C5C8948e9fF83494770F5eDA9DD9D4bEaa5011c"
+  },
+  "clankerInfo": null
+}

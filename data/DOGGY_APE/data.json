@@ -1,0 +1,22 @@
+{
+  "name": "Doggy Ape",
+  "symbol": "Doggy Ape",
+  "decimals": 18,
+  "description": "Doggy Ape is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20Ape",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy Ape",
+  "addresses": {
+    "8453": "0x183bbd922d9433112d2930ded7a3037034d955c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy Ape",
+    "sanitizedSymbol": "DOGGY_APE",
+    "created_at": "2024-12-09T14:00:35.313077",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1387717",
+    "lockerAddress": "0xCb3e636B5FE7e30992298c401f3b4B291E9B82fe"
+  },
+  "clankerInfo": null
+}

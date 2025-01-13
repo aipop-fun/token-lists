@@ -1,0 +1,22 @@
+{
+  "name": "Honeypot",
+  "symbol": "Honeypot",
+  "decimals": 18,
+  "description": "Honeypot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Honeypot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Honeypot",
+  "addresses": {
+    "8453": "0x390aca3f39fa427f31cadb78adba4c4e88f9171f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Honeypot",
+    "sanitizedSymbol": "HONEYPOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157128",
+    "lockerAddress": "0xd4aF704A97C582E1CC422675da87e0a5bf467210"
+  },
+  "clankerInfo": null
+}

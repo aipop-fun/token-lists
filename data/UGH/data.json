@@ -1,0 +1,22 @@
+{
+  "name": "ugh",
+  "symbol": "ugh",
+  "decimals": 18,
+  "description": "ugh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ugh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ugh",
+  "addresses": {
+    "8453": "0x3cc8fac15e65e12c7b41851e1e15d3388d4453a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ugh",
+    "sanitizedSymbol": "UGH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x305eC3f869c719a6821eD8b83A595Fb5dB406df0",
+    "lpNftId": "1364778",
+    "lockerAddress": "0x3B0e4Fd986b6543E0f8bC5744Fa6C11E7e8E6B49"
+  },
+  "clankerInfo": null
+}

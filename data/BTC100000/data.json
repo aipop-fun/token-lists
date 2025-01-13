@@ -1,0 +1,22 @@
+{
+  "name": "BTC100000",
+  "symbol": "BTC100000",
+  "decimals": 18,
+  "description": "BTC100000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC100000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC100000",
+  "addresses": {
+    "8453": "0x12298d0ced73b1debb406be90f5d9866d9beafd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC100000",
+    "sanitizedSymbol": "BTC100000",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1328667",
+    "lockerAddress": "0xe2D2F66711F39185c8236B11D046B7Bd6fc51CCA"
+  },
+  "clankerInfo": null
+}

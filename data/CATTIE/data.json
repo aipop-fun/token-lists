@@ -1,0 +1,22 @@
+{
+  "name": "CATTIE",
+  "symbol": "CATTIE",
+  "decimals": 18,
+  "description": "CATTIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATTIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATTIE",
+  "addresses": {
+    "8453": "0x2801cff5e94527ee48eee2a5817a757ad032a085"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATTIE",
+    "sanitizedSymbol": "CATTIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x612795604982318aFf5bb6F564535791BB73cdB3",
+    "lpNftId": "1283770",
+    "lockerAddress": "0x437BBb25fD10521bE2EAFC449C142e2efA91D699"
+  },
+  "clankerInfo": null
+}

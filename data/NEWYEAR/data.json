@@ -1,0 +1,22 @@
+{
+  "name": "NewYear",
+  "symbol": "NewYear",
+  "decimals": 18,
+  "description": "NewYear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NewYear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NewYear",
+  "addresses": {
+    "8453": "0x02eca0bd8b0ef9d487aa753edd9dbe42b23fc6cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NewYear",
+    "sanitizedSymbol": "NEWYEAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDe6a382888BB122Be6dBF73d96aE2D640Bf250A0",
+    "lpNftId": "1308637",
+    "lockerAddress": "0xc0a9e947e6B0355e6339478993e447E648cdc317"
+  },
+  "clankerInfo": null
+}

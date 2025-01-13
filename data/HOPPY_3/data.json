@@ -1,0 +1,22 @@
+{
+  "name": "HOPPY",
+  "symbol": "HOPPY",
+  "decimals": 18,
+  "description": "HOPPY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOPPY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOPPY",
+  "addresses": {
+    "8453": "0x30cde65db87dbc59787d1ab5a24dffcbf26bb16f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOPPY",
+    "sanitizedSymbol": "HOPPY_3",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x829545355315a14C2b9Ff56eBd84Cd1301720caf",
+    "lpNftId": "1268675",
+    "lockerAddress": "0xdC5EEDcdE5291A192B281f8f39C8BF47f1BDC0F6"
+  },
+  "clankerInfo": null
+}

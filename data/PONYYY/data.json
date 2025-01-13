@@ -1,0 +1,22 @@
+{
+  "name": "Ponyyy",
+  "symbol": "Ponyyy",
+  "decimals": 18,
+  "description": "Ponyyy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ponyyy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ponyyy",
+  "addresses": {
+    "8453": "0x4125b554d8cf56a9a0cf7e3e6740de23bbbc1805"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ponyyy",
+    "sanitizedSymbol": "PONYYY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4005cfA230F4A422D119406f826e9894dAaC19d9",
+    "lpNftId": "1308890",
+    "lockerAddress": "0x65cda46dac203e1d9224f28a577ee195AA7878ab"
+  },
+  "clankerInfo": null
+}

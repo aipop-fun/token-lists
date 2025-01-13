@@ -1,0 +1,22 @@
+{
+  "name": "A minor",
+  "symbol": "A minor",
+  "decimals": 18,
+  "description": "A minor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20minor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A minor",
+  "addresses": {
+    "8453": "0x1be910b298a8fc1aae58aa70d1c9939c677f487d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A minor",
+    "sanitizedSymbol": "A_MINOR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD41cEF4f79a2cF4b9Ceb670E64029A93a62b8FB6",
+    "lpNftId": "1325611",
+    "lockerAddress": "0x41ba812A6b47119f17F832a6fa5612a0C101d2BC"
+  },
+  "clankerInfo": null
+}

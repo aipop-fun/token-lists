@@ -1,0 +1,22 @@
+{
+  "name": "Kaskus",
+  "symbol": "Kaskus",
+  "decimals": 18,
+  "description": "Kaskus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kaskus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kaskus",
+  "addresses": {
+    "8453": "0x20520d10394f1f3e3299f9856a69c3264c853224"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kaskus",
+    "sanitizedSymbol": "KASKUS",
+    "created_at": "2024-12-11T02:05:50.513712",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1410454",
+    "lockerAddress": "0x87D0BC2Db47AE6122872C38bc73235687118Be5D"
+  },
+  "clankerInfo": null
+}

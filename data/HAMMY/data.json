@@ -1,0 +1,22 @@
+{
+  "name": "HAMMY",
+  "symbol": "HAMMY",
+  "decimals": 18,
+  "description": "HAMMY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMMY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMMY",
+  "addresses": {
+    "8453": "0x1695cd8e031b484b0d4ee097c8cf9de0fd97702f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMMY",
+    "sanitizedSymbol": "HAMMY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x571884fBabc7D20914Aa7cC35d6075B0C6878B3D",
+    "lpNftId": "1311243",
+    "lockerAddress": "0x59835e20A1161c0e2275f753068716D0a84b9B63"
+  },
+  "clankerInfo": null
+}

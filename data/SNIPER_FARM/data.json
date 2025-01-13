@@ -1,0 +1,22 @@
+{
+  "name": "Sniper Farm",
+  "symbol": "Sniper Farm",
+  "decimals": 18,
+  "description": "Sniper Farm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sniper%20Farm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sniper Farm",
+  "addresses": {
+    "8453": "0x322f11c817f1a1706fd68fe48d8d1ca73b635c70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sniper Farm",
+    "sanitizedSymbol": "SNIPER_FARM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0a48f06Ed5B8FF49e79cD8242422eE818f8fda3B",
+    "lpNftId": "1264677",
+    "lockerAddress": "0xaF6A78A60166c7a8fce272C8EC3b92ADc8F1a5Bb"
+  },
+  "clankerInfo": null
+}

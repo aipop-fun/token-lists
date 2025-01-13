@@ -1,0 +1,22 @@
+{
+  "name": "socialone",
+  "symbol": "socialone",
+  "decimals": 18,
+  "description": "socialone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=socialone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "socialone",
+  "addresses": {
+    "8453": "0x02ae41d604bfcc3935a14d43ea1db3aa3b888f05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "socialone",
+    "sanitizedSymbol": "SOCIALONE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9fAe2D29DD619c38e6D9B5045738DfA888e6bE57",
+    "lpNftId": "1251871",
+    "lockerAddress": "0xcb1464b03d424BC98a5B5F62B8CB3edeF73FeADF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VIBE",
+  "symbol": "VIBE",
+  "decimals": 18,
+  "description": "VIBE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VIBE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VIBE",
+  "addresses": {
+    "8453": "0x19f3331544e5be6073a8240835135e2dc33ff9a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VIBE",
+    "sanitizedSymbol": "VIBE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156325",
+    "lockerAddress": "0xe37deF5732cf91fff1c91F2A6D9A7b749F49545a"
+  },
+  "clankerInfo": null
+}

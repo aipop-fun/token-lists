@@ -1,0 +1,22 @@
+{
+  "name": "Art of Art",
+  "symbol": "Art of Art",
+  "decimals": 18,
+  "description": "Art of Art is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Art%20of%20Art",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Art of Art",
+  "addresses": {
+    "8453": "0x2e2d8aad94cc45ac3235da89c80066b9046df97d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Art of Art",
+    "sanitizedSymbol": "ART_OF_ART",
+    "created_at": "2024-12-10T14:24:50.550418",
+    "deployer": "0x9A7C60d62ac68136443968De6aBA60bc685840D7",
+    "lpNftId": "1401773",
+    "lockerAddress": "0x00c407385a4CB04D2A92dEb79D3a36E0E7fAcEaA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AIDA",
+  "symbol": "AIDA",
+  "decimals": 18,
+  "description": "AIDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIDA",
+  "addresses": {
+    "8453": "0x11321571e8d77423774e3f620c9d0a17775963f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIDA",
+    "sanitizedSymbol": "AIDA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2a5c0Be72a5903B37b02Ce3A62302d89Ae49dFd1",
+    "lpNftId": "1320500",
+    "lockerAddress": "0x1b37939505A493661d878c927B60Ef8d74c4AaBB"
+  },
+  "clankerInfo": null
+}

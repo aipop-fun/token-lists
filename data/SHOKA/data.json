@@ -1,0 +1,22 @@
+{
+  "name": "SHOKA",
+  "symbol": "SHOKA",
+  "decimals": 18,
+  "description": "SHOKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHOKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHOKA",
+  "addresses": {
+    "8453": "0x08b1f0c60b09ea000e625706ad76edf7c267e557"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHOKA",
+    "sanitizedSymbol": "SHOKA",
+    "created_at": "2024-12-10T05:41:07.91009",
+    "deployer": "0x496505251A17845A2714A0D89e91475Dc1D79b30",
+    "lpNftId": "1397096",
+    "lockerAddress": "0x115396Ad6C11e41Dda78E1d1Fc7f3c787E4f5734"
+  },
+  "clankerInfo": null
+}

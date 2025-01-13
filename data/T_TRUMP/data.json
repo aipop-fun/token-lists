@@ -1,0 +1,22 @@
+{
+  "name": "T Trump",
+  "symbol": "T Trump",
+  "decimals": 18,
+  "description": "T Trump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=T%20Trump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "T Trump",
+  "addresses": {
+    "8453": "0x14d5b7ff47a1ca59090b46ed8d065bae50e58dfb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "T Trump",
+    "sanitizedSymbol": "T_TRUMP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAd9DEB26b275e89F7EFE055cb6307db57ef3e765",
+    "lpNftId": "1308842",
+    "lockerAddress": "0x99ad409c7f2281abA6ca1f2A85420ea349051873"
+  },
+  "clankerInfo": null
+}

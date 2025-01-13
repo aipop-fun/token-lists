@@ -1,0 +1,22 @@
+{
+  "name": "cookingMeet",
+  "symbol": "cookingMeet",
+  "decimals": 18,
+  "description": "cookingMeet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cookingMeet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cookingMeet",
+  "addresses": {
+    "8453": "0x1c43c34d593d83951d514a3707a9b936707abc94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cookingMeet",
+    "sanitizedSymbol": "COOKINGMEET",
+    "created_at": "2024-12-09T09:47:55.168008",
+    "deployer": "0x60b7c265113B1D462692F382159BA943bd7e078b",
+    "lpNftId": "1385391",
+    "lockerAddress": "0x72FDeA0a5a8c8e2C6bb92Bf74CFF881ca2C77aaE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IAMTURKEY",
+  "symbol": "IAMTURKEY",
+  "decimals": 18,
+  "description": "IAMTURKEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IAMTURKEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IAMTURKEY",
+  "addresses": {
+    "8453": "0x395875176a537c0e36d9d2dccb445e20d51efe24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IAMTURKEY",
+    "sanitizedSymbol": "IAMTURKEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe3d23daD1523a6A9b7842405d752b9D6534A24D2",
+    "lpNftId": "1252999",
+    "lockerAddress": "0xd6D356269BEbA5ee97D36d97c860b4CA2020A38B"
+  },
+  "clankerInfo": null
+}

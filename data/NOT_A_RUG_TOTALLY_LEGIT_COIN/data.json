@@ -1,0 +1,22 @@
+{
+  "name": "Not A Rug, Totally Legit Coin",
+  "symbol": "Not A Rug, Totally Legit Coin",
+  "decimals": 18,
+  "description": "Not A Rug, Totally Legit Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20A%20Rug%2C%20Totally%20Legit%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not A Rug, Totally Legit Coin",
+  "addresses": {
+    "8453": "0x3f94ceb951790930428b67166d99bb36f989d990"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not A Rug, Totally Legit Coin",
+    "sanitizedSymbol": "NOT_A_RUG_TOTALLY_LEGIT_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128454",
+    "lockerAddress": "0x822635d223339d04E8E114ba67bfe3f27eFc7716"
+  },
+  "clankerInfo": null
+}

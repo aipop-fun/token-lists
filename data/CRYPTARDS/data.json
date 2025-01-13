@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTARDS",
+  "symbol": "CRYPTARDS",
+  "decimals": 18,
+  "description": "CRYPTARDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTARDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTARDS",
+  "addresses": {
+    "8453": "0x026587da929826270d91f590a357e3bdd7a1e5d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTARDS",
+    "sanitizedSymbol": "CRYPTARDS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218650",
+    "lockerAddress": "0xE0dFcb29376b2e0C434D1B336AF40cB20433039e"
+  },
+  "clankerInfo": null
+}

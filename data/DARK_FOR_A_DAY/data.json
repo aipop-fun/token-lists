@@ -1,0 +1,22 @@
+{
+  "name": "DARK FOR A DAY",
+  "symbol": "DARK FOR A DAY",
+  "decimals": 18,
+  "description": "DARK FOR A DAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DARK%20FOR%20A%20DAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DARK FOR A DAY",
+  "addresses": {
+    "8453": "0x2a2427c21dad01578aca7bb4d5e5849278fca182"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DARK FOR A DAY",
+    "sanitizedSymbol": "DARK_FOR_A_DAY",
+    "created_at": "2024-12-11T05:22:37.646178",
+    "deployer": "0x3E9dECd87842dfa13BC7f1c87a348E7b10ecf1ef",
+    "lpNftId": "1413104",
+    "lockerAddress": "0x1de8AcBC881e894e54a78DFDC4a1EB8706c675F4"
+  },
+  "clankerInfo": null
+}

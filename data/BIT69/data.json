@@ -1,0 +1,22 @@
+{
+  "name": "Bit69",
+  "symbol": "Bit69",
+  "decimals": 18,
+  "description": "Bit69 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bit69",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bit69",
+  "addresses": {
+    "8453": "0x11bce393fe2e09545157c2116d7487d4a072386f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bit69",
+    "sanitizedSymbol": "BIT69",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x788AaBB86F9f4D9caEF2c6121E9d3034ddF06cA5",
+    "lpNftId": "1375779",
+    "lockerAddress": "0x1a9401Fc8da2107b2AcEf45B54213039702fFfBB"
+  },
+  "clankerInfo": null
+}

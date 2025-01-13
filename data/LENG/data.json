@@ -1,0 +1,22 @@
+{
+  "name": "LENG",
+  "symbol": "LENG",
+  "decimals": 18,
+  "description": "LENG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LENG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LENG",
+  "addresses": {
+    "8453": "0x2556b8a2ba34269caeeb9462b4db5ba1ae36a32d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LENG",
+    "sanitizedSymbol": "LENG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231804",
+    "lockerAddress": "0x834B16870f9d72311E9Ff3b2581F4282BaD9Aee7"
+  },
+  "clankerInfo": null
+}

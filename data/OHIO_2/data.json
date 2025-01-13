@@ -1,0 +1,22 @@
+{
+  "name": "ohio",
+  "symbol": "ohio",
+  "decimals": 18,
+  "description": "ohio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ohio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ohio",
+  "addresses": {
+    "8453": "0x1e087322592d2a93c297f04bde9db297fd76a96d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ohio",
+    "sanitizedSymbol": "OHIO_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x02aC33835070D0C90BEf87C273514E67Aea36eF8",
+    "lpNftId": "1353936",
+    "lockerAddress": "0xf1e0d51903398B1Fc113751ed4f99fBFE278d60b"
+  },
+  "clankerInfo": null
+}

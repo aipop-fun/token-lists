@@ -1,0 +1,22 @@
+{
+  "name": "Caspian",
+  "symbol": "Caspian",
+  "decimals": 18,
+  "description": "Caspian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caspian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caspian",
+  "addresses": {
+    "8453": "0x2211981e8a47fdff0ba0122f93ebe928e3615588"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caspian",
+    "sanitizedSymbol": "CASPIAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197239",
+    "lockerAddress": "0x7e64255Fc33557B8ae183121cb3562B430C5Ca66"
+  },
+  "clankerInfo": null
+}

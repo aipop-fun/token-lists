@@ -1,0 +1,22 @@
+{
+  "name": "CRACBOOK",
+  "symbol": "CRACBOOK",
+  "decimals": 18,
+  "description": "CRACBOOK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRACBOOK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRACBOOK",
+  "addresses": {
+    "8453": "0x3b8bd352b7afd26458ecb634bdbbcd9c8e535196"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRACBOOK",
+    "sanitizedSymbol": "CRACBOOK",
+    "created_at": "2024-12-10T18:16:29.755558",
+    "deployer": "0x04333a1788a47068b9102D2d35695c312A0b312F",
+    "lpNftId": "1405375",
+    "lockerAddress": "0xCff20Eec8706b9Cd279f7189D0aAAe286951144B"
+  },
+  "clankerInfo": null
+}

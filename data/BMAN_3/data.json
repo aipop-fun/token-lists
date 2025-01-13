@@ -1,0 +1,22 @@
+{
+  "name": "Bman",
+  "symbol": "Bman",
+  "decimals": 18,
+  "description": "Bman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bman",
+  "addresses": {
+    "8453": "0x2d147e68f6c305413d264a041c0d006dc20f9b8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bman",
+    "sanitizedSymbol": "BMAN_3",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128963",
+    "lockerAddress": "0x9dea76902822F1C3298b789183589d44e46263c7"
+  },
+  "clankerInfo": null
+}

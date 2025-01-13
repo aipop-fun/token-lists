@@ -1,0 +1,22 @@
+{
+  "name": "FunFun Ai",
+  "symbol": "FunFun Ai",
+  "decimals": 18,
+  "description": "FunFun Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FunFun%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FunFun Ai",
+  "addresses": {
+    "8453": "0x312df3645899f2e429daada55895a7cfafb21aa1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FunFun Ai",
+    "sanitizedSymbol": "FUNFUN_AI",
+    "created_at": "2024-12-12T19:56:01.772506",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1441944",
+    "lockerAddress": "0x4dA8BDF36A5471A110aAA8a1e2E99f9Dd5e036F4"
+  },
+  "clankerInfo": null
+}

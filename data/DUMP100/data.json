@@ -1,0 +1,22 @@
+{
+  "name": "dump100%",
+  "symbol": "dump100%",
+  "decimals": 18,
+  "description": "dump100% is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dump100%25",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dump100%",
+  "addresses": {
+    "8453": "0x0a766001488871439bcc2d0195d80c1f712c8b81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dump100%",
+    "sanitizedSymbol": "DUMP100",
+    "created_at": "2024-12-12T05:22:12.126753",
+    "deployer": "0x605b1AEB495E0328f6a36690d698ffd345161F1d",
+    "lpNftId": "1429371",
+    "lockerAddress": "0xf5b245BdA1B5246e720fF53FfBf8cb4bf9e9Fa71"
+  },
+  "clankerInfo": null
+}

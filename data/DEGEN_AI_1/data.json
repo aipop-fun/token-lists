@@ -1,0 +1,22 @@
+{
+  "name": "$DEGEN AI",
+  "symbol": "$DEGEN AI",
+  "decimals": 18,
+  "description": "$DEGEN AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24DEGEN%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$DEGEN AI",
+  "addresses": {
+    "8453": "0x3731efa9f102953bdde0a8053e5566b8551580cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$DEGEN AI",
+    "sanitizedSymbol": "DEGEN_AI_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8532DDe31dC62E65ba539F42D4B60B4b0159f354",
+    "lpNftId": "1330202",
+    "lockerAddress": "0x2D2f50c5FB38c37b07E2BC7B0A461DafD9D19994"
+  },
+  "clankerInfo": null
+}

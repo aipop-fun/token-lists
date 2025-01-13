@@ -1,0 +1,22 @@
+{
+  "name": "Community Base",
+  "symbol": "Community Base",
+  "decimals": 18,
+  "description": "Community Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Community%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Community Base",
+  "addresses": {
+    "8453": "0x125b8c355f882f0ce4973383a801ed6be322be71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Community Base",
+    "sanitizedSymbol": "COMMUNITY_BASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192932",
+    "lockerAddress": "0xc2F1BfA4866894b8EAe7E291aa72D96A0787B9ae"
+  },
+  "clankerInfo": null
+}

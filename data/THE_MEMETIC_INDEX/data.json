@@ -1,0 +1,22 @@
+{
+  "name": "The Memetic Index",
+  "symbol": "The Memetic Index",
+  "decimals": 18,
+  "description": "The Memetic Index is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Memetic%20Index",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Memetic Index",
+  "addresses": {
+    "8453": "0x265c0cd16bd8c4d9cc73eec5f3ee4a6f53c14eda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Memetic Index",
+    "sanitizedSymbol": "THE_MEMETIC_INDEX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224374",
+    "lockerAddress": "0x35B2B30b313fc2F671A78Ecd4F9F5f914Ce4B8BF"
+  },
+  "clankerInfo": null
+}

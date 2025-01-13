@@ -1,0 +1,22 @@
+{
+  "name": "Babbler",
+  "symbol": "Babbler",
+  "decimals": 18,
+  "description": "Babbler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babbler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babbler",
+  "addresses": {
+    "8453": "0x3d41444ce5d8754e351690eb0c7ce51c6c005447"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babbler",
+    "sanitizedSymbol": "BABBLER",
+    "created_at": "2024-12-11T00:52:26.935992",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1409094",
+    "lockerAddress": "0xFBaEEE1155879A99CD168fD419Ede401e47F04d5"
+  },
+  "clankerInfo": null
+}

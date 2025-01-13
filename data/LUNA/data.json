@@ -1,0 +1,22 @@
+{
+  "name": "luna",
+  "symbol": "luna",
+  "decimals": 18,
+  "description": "luna is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=luna",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "luna",
+  "addresses": {
+    "8453": "0x35d38faa2feded8e536bba8db1d97c72b42cd807"
+  },
+  "tokenInfo": {
+    "originalSymbol": "luna",
+    "sanitizedSymbol": "LUNA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84E4A60CE6deF11Eb259F20CD775e27383E51811",
+    "lpNftId": "1308477",
+    "lockerAddress": "0x0858814AC35FE1E4fdf476aC43193Ea591cc21aB"
+  },
+  "clankerInfo": null
+}

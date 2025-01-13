@@ -1,0 +1,22 @@
+{
+  "name": "DWR",
+  "symbol": "DWR",
+  "decimals": 18,
+  "description": "DWR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DWR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DWR",
+  "addresses": {
+    "8453": "0x26f2e8aa43e666a29265977bd883045796423778"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DWR",
+    "sanitizedSymbol": "DWR_4",
+    "created_at": "2024-12-10T14:43:12.935324",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1402062",
+    "lockerAddress": "0xE8BD466b960bAB7aA5b365fc401678ACdae5A6D8"
+  },
+  "clankerInfo": null
+}

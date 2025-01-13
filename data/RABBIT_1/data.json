@@ -1,0 +1,22 @@
+{
+  "name": "$RABBIT",
+  "symbol": "$RABBIT",
+  "decimals": 18,
+  "description": "$RABBIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24RABBIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$RABBIT",
+  "addresses": {
+    "8453": "0x2d05227619c6ba82ce78e4790eeb9c69f15bd9df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$RABBIT",
+    "sanitizedSymbol": "RABBIT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6F4BE11d63bA2fB47c21760259B7EFBed881BCa0",
+    "lpNftId": "1324076",
+    "lockerAddress": "0x194D51eA11E7caF8f1E20aCF6f2949291c3BFAF6"
+  },
+  "clankerInfo": null
+}

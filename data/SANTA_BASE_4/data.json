@@ -1,0 +1,22 @@
+{
+  "name": "Santa Base",
+  "symbol": "Santa Base",
+  "decimals": 18,
+  "description": "Santa Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Base",
+  "addresses": {
+    "8453": "0x2406403fd518d69440dd813c36d8fe47d58d03eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Base",
+    "sanitizedSymbol": "SANTA_BASE_4",
+    "created_at": "2024-12-12T21:54:17.512585",
+    "deployer": "0xA0160b6242FD2820dEB709F834198aCF48bC3AD0",
+    "lpNftId": "1444199",
+    "lockerAddress": "0xeA76C06f83a2a2DF7f564b37a342330eC6d95eA2"
+  },
+  "clankerInfo": null
+}

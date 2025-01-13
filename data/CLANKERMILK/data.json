@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERMILK",
+  "symbol": "CLANKERMILK",
+  "decimals": 18,
+  "description": "CLANKERMILK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERMILK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERMILK",
+  "addresses": {
+    "8453": "0x2090e22d94d4f0b7723d8563e210536c1e076847"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERMILK",
+    "sanitizedSymbol": "CLANKERMILK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1311727",
+    "lockerAddress": "0xf9f1236341F1EF9e17cEaBaA42D38865bA19Cf0A"
+  },
+  "clankerInfo": null
+}

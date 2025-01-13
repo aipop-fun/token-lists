@@ -1,0 +1,22 @@
+{
+  "name": "ClankerAccess",
+  "symbol": "ClankerAccess",
+  "decimals": 18,
+  "description": "ClankerAccess is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerAccess",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerAccess",
+  "addresses": {
+    "8453": "0x1c9e60d25e5702db9b1a28983d31adf20a5c3156"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerAccess",
+    "sanitizedSymbol": "CLANKERACCESS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128697",
+    "lockerAddress": "0x96087CA05939A13E46d6F47e427ff51EE47D6F5B"
+  },
+  "clankerInfo": null
+}

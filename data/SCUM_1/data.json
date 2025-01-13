@@ -1,0 +1,22 @@
+{
+  "name": "SCUM",
+  "symbol": "SCUM",
+  "decimals": 18,
+  "description": "SCUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCUM",
+  "addresses": {
+    "8453": "0x350f4d0525eabee808c7e31819d6f742b89dc7ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCUM",
+    "sanitizedSymbol": "SCUM_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35d0445A9183a6dd55bb4E2ef69E37bFcdDD566B",
+    "lpNftId": "1285158",
+    "lockerAddress": "0xAfD793F0a42D356D65C426560c9C6FeC519317Ac"
+  },
+  "clankerInfo": null
+}

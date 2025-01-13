@@ -1,0 +1,22 @@
+{
+  "name": "not enough interesting token",
+  "symbol": "not enough interesting token",
+  "decimals": 18,
+  "description": "not enough interesting token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=not%20enough%20interesting%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "not enough interesting token",
+  "addresses": {
+    "8453": "0x31e819d2f355d442ac993849bf739948a985711f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "not enough interesting token",
+    "sanitizedSymbol": "NOT_ENOUGH_INTERESTING_TOKEN",
+    "created_at": "2024-12-11T20:20:42.590423",
+    "deployer": "0x971a6DA29c0103D8aD1Bc46b884B8ABfF9d66514",
+    "lpNftId": "1425373",
+    "lockerAddress": "0x6c56f9e16c29103836c8d165d6Cef088d1B3D3a9"
+  },
+  "clankerInfo": null
+}

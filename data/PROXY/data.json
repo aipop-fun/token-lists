@@ -1,0 +1,22 @@
+{
+  "name": "PROXY",
+  "symbol": "PROXY",
+  "decimals": 18,
+  "description": "PROXY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROXY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROXY",
+  "addresses": {
+    "8453": "0x0237fe4209ff003f20ecc2db69e8763482e7699c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROXY",
+    "sanitizedSymbol": "PROXY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB92519Eb7CfB381606df6759578Edbc84109e849",
+    "lpNftId": "1250458",
+    "lockerAddress": "0x1477A95761e342966987bADA1924bF694e824969"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "impeachment coin",
+  "symbol": "impeachment coin",
+  "decimals": 18,
+  "description": "impeachment coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=impeachment%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "impeachment coin",
+  "addresses": {
+    "8453": "0x0784ee6df0b857997d1579d0ff3737c21fea67e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "impeachment coin",
+    "sanitizedSymbol": "IMPEACHMENT_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1309590",
+    "lockerAddress": "0x9FaF7aa6CE9E9a6bE961372A597C513408A3cB48"
+  },
+  "clankerInfo": null
+}

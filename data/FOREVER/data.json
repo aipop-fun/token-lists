@@ -1,0 +1,22 @@
+{
+  "name": "Forever",
+  "symbol": "Forever",
+  "decimals": 18,
+  "description": "Forever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Forever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Forever",
+  "addresses": {
+    "8453": "0x2d53f2fd03b35964699bc01a1fcae8056e8ac3cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Forever",
+    "sanitizedSymbol": "FOREVER",
+    "created_at": "2024-12-10T07:11:17.426115",
+    "deployer": "0xfE5f86F8AEFB83d96c5205C1cCc0b140cFf79E09",
+    "lpNftId": "1397686",
+    "lockerAddress": "0x4104c91d9E506D09Ec276B05060aE31d9d910409"
+  },
+  "clankerInfo": null
+}

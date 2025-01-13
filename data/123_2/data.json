@@ -1,0 +1,22 @@
+{
+  "name": "123",
+  "symbol": "123",
+  "decimals": 18,
+  "description": "123 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=123",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "123",
+  "addresses": {
+    "8453": "0x228411eb8c535eda1ed5c1f5bd5b6ea913020c52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "123",
+    "sanitizedSymbol": "123_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1333297",
+    "lockerAddress": "0x79c447531e636e514968Be31Fe34a56e46fb0FA3"
+  },
+  "clankerInfo": null
+}

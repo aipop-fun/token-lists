@@ -1,0 +1,22 @@
+{
+  "name": "Omega Seamaster",
+  "symbol": "Omega Seamaster",
+  "decimals": 18,
+  "description": "Omega Seamaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Omega%20Seamaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Omega Seamaster",
+  "addresses": {
+    "8453": "0x022d0dfc33d8d5fd09f0001d6f67f12d5cdc3e58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Omega Seamaster",
+    "sanitizedSymbol": "OMEGA_SEAMASTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1354718",
+    "lockerAddress": "0x97775DA24Fa700124C9eE0c2350B83EE68a14fE9"
+  },
+  "clankerInfo": null
+}

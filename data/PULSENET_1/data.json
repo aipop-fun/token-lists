@@ -1,0 +1,22 @@
+{
+  "name": "PulseNet",
+  "symbol": "PulseNet",
+  "decimals": 18,
+  "description": "PulseNet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PulseNet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PulseNet",
+  "addresses": {
+    "8453": "0x2af377e21e84288a3d090558747381d11ba9e3ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PulseNet",
+    "sanitizedSymbol": "PULSENET_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206453",
+    "lockerAddress": "0x34a57230b3c7191CC893df393E58bb752A7fd6dc"
+  },
+  "clankerInfo": null
+}

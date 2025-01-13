@@ -1,0 +1,22 @@
+{
+  "name": "boo",
+  "symbol": "boo",
+  "decimals": 18,
+  "description": "boo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boo",
+  "addresses": {
+    "8453": "0x2705a9b906e9305ccb13674af904e919b88cd3e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boo",
+    "sanitizedSymbol": "BOO_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcf74BbBDDBB7ed5129a715F20d1cC34Fe1124fe4",
+    "lpNftId": "1323993",
+    "lockerAddress": "0xe101F41cE100294F91b41B01D82050a11D56a078"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Merry Mint",
+  "symbol": "Merry Mint",
+  "decimals": 18,
+  "description": "Merry Mint is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Merry%20Mint",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Merry Mint",
+  "addresses": {
+    "8453": "0x20f02d139d35cd1b39666096747d90ed501a05a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Merry Mint",
+    "sanitizedSymbol": "MERRY_MINT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1346777",
+    "lockerAddress": "0x49eE15F5D6B08f9361c1cA1DBa13C5de9b98Ae1B"
+  },
+  "clankerInfo": null
+}

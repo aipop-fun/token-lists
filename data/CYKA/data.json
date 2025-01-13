@@ -1,0 +1,22 @@
+{
+  "name": "CYKA",
+  "symbol": "CYKA",
+  "decimals": 18,
+  "description": "CYKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CYKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CYKA",
+  "addresses": {
+    "8453": "0x236673e4964197a55515fa433f650048070fa313"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CYKA",
+    "sanitizedSymbol": "CYKA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF5E736dCae38Bb65fb4B8814a8127031Ba5d46e9",
+    "lpNftId": "1329587",
+    "lockerAddress": "0x07cd8FE0Bf95895498B601C2A6dA2527399b2f07"
+  },
+  "clankerInfo": null
+}

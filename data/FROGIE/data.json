@@ -1,0 +1,22 @@
+{
+  "name": "Frogie",
+  "symbol": "Frogie",
+  "decimals": 18,
+  "description": "Frogie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frogie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frogie",
+  "addresses": {
+    "8453": "0x243c45d217121c589f3fd7996281c2f9c82a861d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frogie",
+    "sanitizedSymbol": "FROGIE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222863",
+    "lockerAddress": "0xf1d3558594dCAEF36452df95235a577a20715288"
+  },
+  "clankerInfo": null
+}

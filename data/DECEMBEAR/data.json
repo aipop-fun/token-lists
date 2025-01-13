@@ -1,0 +1,22 @@
+{
+  "name": "DECEMBEAR",
+  "symbol": "DECEMBEAR",
+  "decimals": 18,
+  "description": "DECEMBEAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DECEMBEAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DECEMBEAR",
+  "addresses": {
+    "8453": "0x0d8157c9a8130d47062d0fc6aaec07da1e6fc791"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DECEMBEAR",
+    "sanitizedSymbol": "DECEMBEAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF7aB401D4F5b0ab4193863593e8A3d9a34d3382b",
+    "lpNftId": "1288372",
+    "lockerAddress": "0x1c1850D5792C03Ea62EA9290a7DE0bbEf9B3d59e"
+  },
+  "clankerInfo": null
+}

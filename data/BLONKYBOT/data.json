@@ -1,0 +1,22 @@
+{
+  "name": "Blonkybot",
+  "symbol": "Blonkybot",
+  "decimals": 18,
+  "description": "Blonkybot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blonkybot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blonkybot",
+  "addresses": {
+    "8453": "0x22e88cf70b039f5f894bd49f52701841f4b3dd61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blonkybot",
+    "sanitizedSymbol": "BLONKYBOT",
+    "created_at": "2024-12-11T02:53:43.228999",
+    "deployer": "0xa4116fc8887491372d020A4be72284eeCfdD9BFB",
+    "lpNftId": "1411245",
+    "lockerAddress": "0x1C834Fd2bc79552b3aF3F8b7F8c2Fc59d2326BA4"
+  },
+  "clankerInfo": null
+}

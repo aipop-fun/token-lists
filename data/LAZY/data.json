@@ -1,0 +1,22 @@
+{
+  "name": "LAZY",
+  "symbol": "LAZY",
+  "decimals": 18,
+  "description": "LAZY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAZY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAZY",
+  "addresses": {
+    "8453": "0x39ae8a11ecea8d670ff95ea7481c915e7e83dccd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAZY",
+    "sanitizedSymbol": "LAZY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xef4C5dF8289f0Cc50aDda9c7bFC200c548aA14eB",
+    "lpNftId": "1311127",
+    "lockerAddress": "0x8BAc7ffDE6625627F2BC55b9aF983A93ED95BcF2"
+  },
+  "clankerInfo": null
+}

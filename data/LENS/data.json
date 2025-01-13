@@ -1,0 +1,22 @@
+{
+  "name": "Lens",
+  "symbol": "Lens",
+  "decimals": 18,
+  "description": "Lens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lens",
+  "addresses": {
+    "8453": "0x3b9271d3880fe24259d1390f1acd54604cd0201e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lens",
+    "sanitizedSymbol": "LENS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x53Fdd2853d7bB8fbcEe77B0eFF77EF7F180Ad38D",
+    "lpNftId": "1285194",
+    "lockerAddress": "0x24Fd9d1e49aEc1280F5E7825C4b82CbDB772449B"
+  },
+  "clankerInfo": null
+}

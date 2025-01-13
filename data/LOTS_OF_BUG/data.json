@@ -1,0 +1,22 @@
+{
+  "name": "Lots of BUG",
+  "symbol": "Lots of BUG",
+  "decimals": 18,
+  "description": "Lots of BUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lots%20of%20BUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lots of BUG",
+  "addresses": {
+    "8453": "0x1c582b937002d57c87d752a21e1ca704115e5428"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lots of BUG",
+    "sanitizedSymbol": "LOTS_OF_BUG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1242401",
+    "lockerAddress": "0x6d0E9651E9D0E9e7126A0200B47cEE82Ec3BAE28"
+  },
+  "clankerInfo": null
+}

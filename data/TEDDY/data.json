@@ -1,0 +1,22 @@
+{
+  "name": "teddy",
+  "symbol": "teddy",
+  "decimals": 18,
+  "description": "teddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=teddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "teddy",
+  "addresses": {
+    "8453": "0x2d5639967a199e8e7b85af1735444c770b4e2d97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "teddy",
+    "sanitizedSymbol": "TEDDY",
+    "created_at": "2024-12-09T05:50:30.995317",
+    "deployer": "0xA63DFDA1C5CA12cd586e2E4cdb9A48ac73621f53",
+    "lpNftId": "1383386",
+    "lockerAddress": "0x950aEC266bd01746fEfe2643e1319554079A0c5A"
+  },
+  "clankerInfo": null
+}

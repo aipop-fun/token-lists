@@ -1,0 +1,22 @@
+{
+  "name": "Based Pengu",
+  "symbol": "Based Pengu",
+  "decimals": 18,
+  "description": "Based Pengu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Pengu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Pengu",
+  "addresses": {
+    "8453": "0x3dfd70d5b35db9e101cc8514c8e371fa3e0400b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Pengu",
+    "sanitizedSymbol": "BASED_PENGU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x30beC89100F144aaD632153dE93B58a32772CF58",
+    "lpNftId": "1320705",
+    "lockerAddress": "0x01414434786a3cd37cCC85e5CAbdaE42027f06E1"
+  },
+  "clankerInfo": null
+}

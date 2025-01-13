@@ -1,0 +1,22 @@
+{
+  "name": "Bluesky anticrypto",
+  "symbol": "Bluesky anticrypto",
+  "decimals": 18,
+  "description": "Bluesky anticrypto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bluesky%20anticrypto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bluesky anticrypto",
+  "addresses": {
+    "8453": "0x235f60a6eb7dc597e47e55e3d2dc1136d6855878"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bluesky anticrypto",
+    "sanitizedSymbol": "BLUESKY_ANTICRYPTO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x491dC8E39B7001aE3bFC1b5AdC871D238cA8256C",
+    "lpNftId": "1285594",
+    "lockerAddress": "0xa21B5031B2d820bF67fe075C54A6B40A901C6cB7"
+  },
+  "clankerInfo": null
+}

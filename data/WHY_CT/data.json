@@ -1,0 +1,22 @@
+{
+  "name": "Why CT",
+  "symbol": "Why CT",
+  "decimals": 18,
+  "description": "Why CT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Why%20CT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Why CT",
+  "addresses": {
+    "8453": "0x271cd761f29cd66684c3f47bff0c6f743156d43a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Why CT",
+    "sanitizedSymbol": "WHY_CT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234416",
+    "lockerAddress": "0x184E6F4Cd0e7b203606B7c6798ca423fA44213B0"
+  },
+  "clankerInfo": null
+}

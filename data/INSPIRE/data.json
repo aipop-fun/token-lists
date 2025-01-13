@@ -1,0 +1,22 @@
+{
+  "name": "Inspire",
+  "symbol": "Inspire",
+  "decimals": 18,
+  "description": "Inspire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inspire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inspire",
+  "addresses": {
+    "8453": "0x20347bc8e5205a771fd75a202be7145f6b79df52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inspire",
+    "sanitizedSymbol": "INSPIRE",
+    "created_at": "2024-12-11T19:11:52.80431",
+    "deployer": "0x3F5602a8a9664817aBc95bf0280a5a9F621f0287",
+    "lpNftId": "1424600",
+    "lockerAddress": "0xc1c5A97c699A3497adC9a541d8e41aB870A7883b"
+  },
+  "clankerInfo": null
+}

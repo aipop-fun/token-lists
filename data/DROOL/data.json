@@ -1,0 +1,22 @@
+{
+  "name": "Drool",
+  "symbol": "Drool",
+  "decimals": 18,
+  "description": "Drool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drool",
+  "addresses": {
+    "8453": "0x3867da6c5cff766513e63ecc93ea3e30938e339c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drool",
+    "sanitizedSymbol": "DROOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224105",
+    "lockerAddress": "0x6f8496861EcD2c6Ce0f1DE677e3F0f5b7c76Cc80"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BADANON",
+  "symbol": "BADANON",
+  "decimals": 18,
+  "description": "BADANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BADANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BADANON",
+  "addresses": {
+    "8453": "0x09cc5110dce3c07f36fa511042dcd88692f3aa06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BADANON",
+    "sanitizedSymbol": "BADANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198585",
+    "lockerAddress": "0xA363bB03BEb96844f5Dad1691894F5C4A0BDe2B4"
+  },
+  "clankerInfo": null
+}

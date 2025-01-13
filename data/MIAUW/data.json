@@ -1,0 +1,22 @@
+{
+  "name": "Miauw",
+  "symbol": "Miauw",
+  "decimals": 18,
+  "description": "Miauw is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miauw",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miauw",
+  "addresses": {
+    "8453": "0x1617bf3157773a761d64e5b6c9d0dc3b7227c42a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miauw",
+    "sanitizedSymbol": "MIAUW",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235131",
+    "lockerAddress": "0x14c2F446eB125694f547d9769Cd67B2b14691dD3"
+  },
+  "clankerInfo": null
+}

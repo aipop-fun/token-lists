@@ -1,0 +1,22 @@
+{
+  "name": "BaseFarm",
+  "symbol": "BaseFarm",
+  "decimals": 18,
+  "description": "BaseFarm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseFarm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseFarm",
+  "addresses": {
+    "8453": "0x24241b3ae50aa499e8b42c451d339e3f9d178958"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseFarm",
+    "sanitizedSymbol": "BASEFARM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8579F7795d67E0B6019dA77B132D94f04E1aC911",
+    "lpNftId": "1282845",
+    "lockerAddress": "0xAa7183b67102de1043e25C1D306E1D7a973F1B97"
+  },
+  "clankerInfo": null
+}

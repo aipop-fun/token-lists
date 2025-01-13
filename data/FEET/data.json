@@ -1,0 +1,22 @@
+{
+  "name": "Feet",
+  "symbol": "Feet",
+  "decimals": 18,
+  "description": "Feet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Feet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Feet",
+  "addresses": {
+    "8453": "0x0f69cbb4fcc585cc1b8a8a48e5ab474c50aa6b36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Feet",
+    "sanitizedSymbol": "FEET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8a6Ca0f498Ee45b5Bcc2E60EAA68f92f93BeDfAF",
+    "lpNftId": "1315048",
+    "lockerAddress": "0xB9D83Ee07e95d001841cb09fAfbE5539a2C86dCC"
+  },
+  "clankerInfo": null
+}

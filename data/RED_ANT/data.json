@@ -1,0 +1,22 @@
+{
+  "name": "RED ANT",
+  "symbol": "RED ANT",
+  "decimals": 18,
+  "description": "RED ANT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RED%20ANT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RED ANT",
+  "addresses": {
+    "8453": "0x30290a4139ef4ad4243431fcc7ab408af5cf4b2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RED ANT",
+    "sanitizedSymbol": "RED_ANT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4719AB31d9506B71e79cC9EA3441fc4BA20615d7",
+    "lpNftId": "1328962",
+    "lockerAddress": "0x7D72059ec011Ba107d9592E6a83AC8d67fC8e311"
+  },
+  "clankerInfo": null
+}

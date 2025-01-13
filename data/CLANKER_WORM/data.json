@@ -1,0 +1,22 @@
+{
+  "name": "clanker worm",
+  "symbol": "clanker worm",
+  "decimals": 18,
+  "description": "clanker worm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20worm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker worm",
+  "addresses": {
+    "8453": "0x3aff3e9cc8501071bf80807aa521c1531bd767ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker worm",
+    "sanitizedSymbol": "CLANKER_WORM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1362327",
+    "lockerAddress": "0x0BFB9B4D594e114665C94Ca99a3949c19d8dEEEb"
+  },
+  "clankerInfo": null
+}

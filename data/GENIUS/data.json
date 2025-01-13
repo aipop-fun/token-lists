@@ -1,0 +1,22 @@
+{
+  "name": "GENIUS",
+  "symbol": "GENIUS",
+  "decimals": 18,
+  "description": "GENIUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GENIUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GENIUS",
+  "addresses": {
+    "8453": "0x03279114148eeb79c476259c8b61ebcc27d86aa1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GENIUS",
+    "sanitizedSymbol": "GENIUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1321941",
+    "lockerAddress": "0x380584D9d5FD47F62b95ab700faE01C13837aFc5"
+  },
+  "clankerInfo": null
+}

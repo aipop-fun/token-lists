@@ -1,0 +1,22 @@
+{
+  "name": "Based Bitcoin 0.1 mil",
+  "symbol": "Based Bitcoin 0.1 mil",
+  "decimals": 18,
+  "description": "Based Bitcoin 0.1 mil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Bitcoin%200.1%20mil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Bitcoin 0.1 mil",
+  "addresses": {
+    "8453": "0x1091cb6886d7595bbb31dfa4691c74479c160030"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Bitcoin 0.1 mil",
+    "sanitizedSymbol": "BASED_BITCOIN_0_1_MIL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205009",
+    "lockerAddress": "0x2061898A9d9DC4399fab7876C4A859a78A517D7d"
+  },
+  "clankerInfo": null
+}

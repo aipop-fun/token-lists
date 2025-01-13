@@ -1,0 +1,22 @@
+{
+  "name": "Ephemeral Echo",
+  "symbol": "Ephemeral Echo",
+  "decimals": 18,
+  "description": "Ephemeral Echo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ephemeral%20Echo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ephemeral Echo",
+  "addresses": {
+    "8453": "0x255ee3e7c66a1b802a6e3b458a79440a8bf9401c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ephemeral Echo",
+    "sanitizedSymbol": "EPHEMERAL_ECHO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2A23C62EF82930C4b4Fa1a6bb1aC497776E66285",
+    "lpNftId": "1331353",
+    "lockerAddress": "0x173d65821705696Fe6dcA56722f20bE59dbF83Ec"
+  },
+  "clankerInfo": null
+}

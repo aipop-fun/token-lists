@@ -1,0 +1,22 @@
+{
+  "name": "dO_Ob",
+  "symbol": "dO_Ob",
+  "decimals": 18,
+  "description": "dO_Ob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dO_Ob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dO_Ob",
+  "addresses": {
+    "8453": "0x21b8cc07deabc45c5c9a4829b3dd396434541609"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dO_Ob",
+    "sanitizedSymbol": "DO_OB",
+    "created_at": "2024-12-12T16:18:30.45045",
+    "deployer": "0x5D80B14A13F302Dd12e90959452BEe9FcFcf7ffb",
+    "lpNftId": "1438252",
+    "lockerAddress": "0xfc605Af27de1AE3A8EadF2F9f6e900aEE4cf4438"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Drugs Chicken",
+  "symbol": "Drugs Chicken",
+  "decimals": 18,
+  "description": "Drugs Chicken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drugs%20Chicken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drugs Chicken",
+  "addresses": {
+    "8453": "0x34a91e61fceaa3159f8455c09290de7c12a89acc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drugs Chicken",
+    "sanitizedSymbol": "DRUGS_CHICKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1283324",
+    "lockerAddress": "0x72bf7D385A11107E0D776a7BD2750294d8D3B608"
+  },
+  "clankerInfo": null
+}

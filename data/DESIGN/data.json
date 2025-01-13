@@ -1,0 +1,22 @@
+{
+  "name": "DESIGN",
+  "symbol": "DESIGN",
+  "decimals": 18,
+  "description": "DESIGN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DESIGN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DESIGN",
+  "addresses": {
+    "8453": "0x1f5bb84adb3d9e3826054b2743412bc7f0a52038"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DESIGN",
+    "sanitizedSymbol": "DESIGN",
+    "created_at": "2024-12-11T08:11:27.522241",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1414703",
+    "lockerAddress": "0xC910E03D312773861355AAB257262b1CD9008440"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Egg",
+  "symbol": "Egg",
+  "decimals": 18,
+  "description": "Egg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Egg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Egg",
+  "addresses": {
+    "8453": "0x21184c135a614f32974490ec619c46d57f8d47f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Egg",
+    "sanitizedSymbol": "EGG_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9d7A233843932A618d243ff9D166D3b8630cBc24",
+    "lpNftId": "1333401",
+    "lockerAddress": "0x5701940a8356811E5Ec24D4D3a535feAA39A7249"
+  },
+  "clankerInfo": null
+}

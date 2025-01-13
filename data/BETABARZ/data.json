@@ -1,0 +1,22 @@
+{
+  "name": "BETABARZ",
+  "symbol": "BETABARZ",
+  "decimals": 18,
+  "description": "BETABARZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BETABARZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BETABARZ",
+  "addresses": {
+    "8453": "0x1ac7d2699597ffea6ef0f6e7877a5eded0b5d0a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BETABARZ",
+    "sanitizedSymbol": "BETABARZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x49F099C691a2Bf64066ca23d142fe2f3A0DD639a",
+    "lpNftId": "1313167",
+    "lockerAddress": "0x37D3e7fF6829A3b21dc59a980CA8E33B171aD8d0"
+  },
+  "clankerInfo": null
+}

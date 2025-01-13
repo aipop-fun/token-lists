@@ -1,0 +1,22 @@
+{
+  "name": "watch this moon",
+  "symbol": "watch this moon",
+  "decimals": 18,
+  "description": "watch this moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=watch%20this%20moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "watch this moon",
+  "addresses": {
+    "8453": "0x2fc5e9d6965d0bf5f42a3111c99801389e948ccf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "watch this moon",
+    "sanitizedSymbol": "WATCH_THIS_MOON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x16Bd86AAF8647B7B0A8F545Bf41217E011004403",
+    "lpNftId": "1276862",
+    "lockerAddress": "0x7e7e719661CeefEB087f2CF6146AE101E61cBf35"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Philosophers",
+  "symbol": "Philosophers",
+  "decimals": 18,
+  "description": "Philosophers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Philosophers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Philosophers",
+  "addresses": {
+    "8453": "0x1fa0897f3d91b861c2be1cf5c77e86746082a24a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Philosophers",
+    "sanitizedSymbol": "PHILOSOPHERS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157220",
+    "lockerAddress": "0xfAA1c107394C54DE5635f8450CC64a5BAf8D6C36"
+  },
+  "clankerInfo": null
+}

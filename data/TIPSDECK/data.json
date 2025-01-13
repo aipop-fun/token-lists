@@ -1,0 +1,22 @@
+{
+  "name": "tipsdeck",
+  "symbol": "tipsdeck",
+  "decimals": 18,
+  "description": "tipsdeck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tipsdeck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tipsdeck",
+  "addresses": {
+    "8453": "0x1952b6d8a8aa0f26e87228613ac1bc875cb3e44c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tipsdeck",
+    "sanitizedSymbol": "TIPSDECK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76d387388BEa6B60CA6D1e97f446F7E26D39d313",
+    "lpNftId": "1308888",
+    "lockerAddress": "0x2b60b21b3fdBC69c0e8cC58a06b12e4851439188"
+  },
+  "clankerInfo": null
+}

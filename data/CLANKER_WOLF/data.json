@@ -1,0 +1,22 @@
+{
+  "name": "clanker wolf",
+  "symbol": "clanker wolf",
+  "decimals": 18,
+  "description": "clanker wolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20wolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker wolf",
+  "addresses": {
+    "8453": "0x0b0f80b40b3d356fe1309335f65d8cd38d045a80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker wolf",
+    "sanitizedSymbol": "CLANKER_WOLF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1320935",
+    "lockerAddress": "0xa8a95e403575271f9979f8922A9F4c9e279C5eDE"
+  },
+  "clankerInfo": null
+}

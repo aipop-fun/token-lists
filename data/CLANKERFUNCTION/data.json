@@ -1,0 +1,22 @@
+{
+  "name": "ClankerFunction",
+  "symbol": "ClankerFunction",
+  "decimals": 18,
+  "description": "ClankerFunction is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerFunction",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerFunction",
+  "addresses": {
+    "8453": "0x244a9093d12657c71ca49b9a4b21fb589f36f8c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerFunction",
+    "sanitizedSymbol": "CLANKERFUNCTION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124825",
+    "lockerAddress": "0xDB20e920FeEd0AB561Aa128d69f05faD52a96831"
+  },
+  "clankerInfo": null
+}

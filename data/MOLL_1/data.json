@@ -1,0 +1,22 @@
+{
+  "name": "moll",
+  "symbol": "moll",
+  "decimals": 18,
+  "description": "moll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moll",
+  "addresses": {
+    "8453": "0x06803ea39c9c995857a0b17d305d233f3f11be0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moll",
+    "sanitizedSymbol": "MOLL_1",
+    "created_at": "2024-12-12T16:18:35.121101",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1438282",
+    "lockerAddress": "0xc53E13EC901cf2dA332e276F05765DfAA4A852d3"
+  },
+  "clankerInfo": null
+}

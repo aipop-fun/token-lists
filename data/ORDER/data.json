@@ -1,0 +1,22 @@
+{
+  "name": "ORDER",
+  "symbol": "ORDER",
+  "decimals": 18,
+  "description": "ORDER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ORDER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ORDER",
+  "addresses": {
+    "8453": "0x35aee215f94a796accaffe827e5a8ba081d6d690"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ORDER",
+    "sanitizedSymbol": "ORDER",
+    "created_at": "2024-12-09T00:45:37.251065",
+    "deployer": "0x65F9Cc60087fEDC7B8d2245E824535A85d036824",
+    "lpNftId": "1377070",
+    "lockerAddress": "0x74559449fad2BBDF9cd326186A03dFbCDDe80347"
+  },
+  "clankerInfo": null
+}

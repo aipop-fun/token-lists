@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Economy",
+  "symbol": "Farcaster Economy",
+  "decimals": 18,
+  "description": "Farcaster Economy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Economy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Economy",
+  "addresses": {
+    "8453": "0x3ae61b27b0148dcbf364c4a11563a562b5cb24cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Economy",
+    "sanitizedSymbol": "FARCASTER_ECONOMY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbE3C2967098cb72BA828a52540a120C2CD1C5248",
+    "lpNftId": "1321035",
+    "lockerAddress": "0x3727e65e2b09FDf42438245a0BfCd1C946b8450E"
+  },
+  "clankerInfo": null
+}

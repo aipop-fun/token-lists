@@ -1,0 +1,22 @@
+{
+  "name": "ATH",
+  "symbol": "ATH",
+  "decimals": 18,
+  "description": "ATH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ATH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ATH",
+  "addresses": {
+    "8453": "0x3ddad578a19cc00e471df57666c172c19782b9ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ATH",
+    "sanitizedSymbol": "ATH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x53Fdd2853d7bB8fbcEe77B0eFF77EF7F180Ad38D",
+    "lpNftId": "1298912",
+    "lockerAddress": "0xB3E97F0320A754B9Da3a085b71C022B39A7612Ed"
+  },
+  "clankerInfo": null
+}

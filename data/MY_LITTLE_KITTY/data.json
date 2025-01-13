@@ -1,0 +1,22 @@
+{
+  "name": "My little kitty",
+  "symbol": "My little kitty",
+  "decimals": 18,
+  "description": "My little kitty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20little%20kitty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My little kitty",
+  "addresses": {
+    "8453": "0x04b4ec2263a9dbe7489592c599345e0693cfdebd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My little kitty",
+    "sanitizedSymbol": "MY_LITTLE_KITTY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4005cfA230F4A422D119406f826e9894dAaC19d9",
+    "lpNftId": "1265335",
+    "lockerAddress": "0xDDdb02d0C6CEce7D8c6c652Bc8b34075F3c48dE1"
+  },
+  "clankerInfo": null
+}

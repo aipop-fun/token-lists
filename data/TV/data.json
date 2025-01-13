@@ -1,0 +1,22 @@
+{
+  "name": "TV",
+  "symbol": "TV",
+  "decimals": 18,
+  "description": "TV is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TV",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TV",
+  "addresses": {
+    "8453": "0x15fd71f48f64b01d8cba6996fcc0c70e2935624f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TV",
+    "sanitizedSymbol": "TV",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0Fb75c54038130A4bFB753c3AAAa21266625Cc98",
+    "lpNftId": "1314991",
+    "lockerAddress": "0xF8504B3e7AfdEF0f904C8c58F8880860eD9fc827"
+  },
+  "clankerInfo": null
+}

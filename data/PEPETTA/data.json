@@ -1,0 +1,22 @@
+{
+  "name": "Pepetta",
+  "symbol": "Pepetta",
+  "decimals": 18,
+  "description": "Pepetta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepetta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepetta",
+  "addresses": {
+    "8453": "0x367c824a2e781a360412835f1399fb8a6dfce0ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepetta",
+    "sanitizedSymbol": "PEPETTA",
+    "created_at": "2024-12-10T15:17:35.479244",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1402530",
+    "lockerAddress": "0x08588A6f451cAa60016cd04176713F6f4CB36150"
+  },
+  "clankerInfo": null
+}

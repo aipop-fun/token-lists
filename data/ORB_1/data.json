@@ -1,0 +1,22 @@
+{
+  "name": "Orb",
+  "symbol": "Orb",
+  "decimals": 18,
+  "description": "Orb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Orb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Orb",
+  "addresses": {
+    "8453": "0x20f75db008e3022ce7c5ca4ed14a843396896786"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Orb",
+    "sanitizedSymbol": "ORB_1",
+    "created_at": "2024-12-10T17:05:40.763779",
+    "deployer": "0xA8AF2fA40Ed56361a4e7DDe31F89Fe6BD78f798c",
+    "lpNftId": "1404330",
+    "lockerAddress": "0xB81Cd5A58D0Ebbd3BCC8BdD5B0a819B245fD07C4"
+  },
+  "clankerInfo": null
+}

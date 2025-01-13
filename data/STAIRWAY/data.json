@@ -1,0 +1,22 @@
+{
+  "name": "Stairway",
+  "symbol": "Stairway",
+  "decimals": 18,
+  "description": "Stairway is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stairway",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stairway",
+  "addresses": {
+    "8453": "0x3248f1c2e104b003179352d5e1a9f1bed738edf1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stairway",
+    "sanitizedSymbol": "STAIRWAY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123131",
+    "lockerAddress": "0x51268A7688448c2200d9Bfa71486fa15802b374c"
+  },
+  "clankerInfo": null
+}

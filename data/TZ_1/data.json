@@ -1,0 +1,22 @@
+{
+  "name": "TZ",
+  "symbol": "TZ",
+  "decimals": 18,
+  "description": "TZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TZ",
+  "addresses": {
+    "8453": "0x2f3f6c0c3a8b8040966cbe2683741ee14f05612e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TZ",
+    "sanitizedSymbol": "TZ_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233597",
+    "lockerAddress": "0x36Dc89b2191316F8A584a3298faaf5d9d6f9ad6f"
+  },
+  "clankerInfo": null
+}

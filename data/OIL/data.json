@@ -1,0 +1,22 @@
+{
+  "name": "Oil",
+  "symbol": "Oil",
+  "decimals": 18,
+  "description": "Oil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oil",
+  "addresses": {
+    "8453": "0x28f857d4010849426707b465ff9c43cdff163975"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oil",
+    "sanitizedSymbol": "OIL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212392",
+    "lockerAddress": "0x5eF385C10De90244049954a6efF93f0F49f78560"
+  },
+  "clankerInfo": null
+}

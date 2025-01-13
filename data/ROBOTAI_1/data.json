@@ -1,0 +1,22 @@
+{
+  "name": "ROBOTAI",
+  "symbol": "ROBOTAI",
+  "decimals": 18,
+  "description": "ROBOTAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBOTAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBOTAI",
+  "addresses": {
+    "8453": "0x09fbcdf4ac6c4f119eb2083b1ebfb8ccb6ea187d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBOTAI",
+    "sanitizedSymbol": "ROBOTAI_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcA204C8de43549421a3960Cd8675BD78fdeb2AB3",
+    "lpNftId": "1312687",
+    "lockerAddress": "0xd91C8718Fa150d7884c87363fb6C6be4c034b35b"
+  },
+  "clankerInfo": null
+}

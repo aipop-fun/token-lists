@@ -1,0 +1,22 @@
+{
+  "name": "FLOPS",
+  "symbol": "FLOPS",
+  "decimals": 18,
+  "description": "FLOPS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLOPS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLOPS",
+  "addresses": {
+    "8453": "0x1a02de9a74c3e9f43127510c331a3eb99e06242a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLOPS",
+    "sanitizedSymbol": "FLOPS",
+    "created_at": "2024-12-11T19:42:33.58133",
+    "deployer": "0x950E8823EDC6e263fd8830D07C0241fC1f59e286",
+    "lpNftId": "1424914",
+    "lockerAddress": "0x7F26753c1E863E7218e74ad32a0d433FB02d8E9d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Eat, pray, love",
+  "symbol": "Eat, pray, love",
+  "decimals": 18,
+  "description": "Eat, pray, love is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eat%2C%20pray%2C%20love",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eat, pray, love",
+  "addresses": {
+    "8453": "0x2463363638f98b06e68d0504573827293d8a8dd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eat, pray, love",
+    "sanitizedSymbol": "EAT_PRAY_LOVE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x47dEF75e760af22e55DAF96728d757e747997DbE",
+    "lpNftId": "1325266",
+    "lockerAddress": "0x71fD8EA38c73c3168E8a948183EE282Ce971A9D7"
+  },
+  "clankerInfo": null
+}

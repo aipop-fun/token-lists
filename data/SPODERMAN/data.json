@@ -1,0 +1,22 @@
+{
+  "name": "SPODERMAN",
+  "symbol": "SPODERMAN",
+  "decimals": 18,
+  "description": "SPODERMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPODERMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPODERMAN",
+  "addresses": {
+    "8453": "0x3a63929dfc6acf3b6e2f2339b5be1b614c89c9c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPODERMAN",
+    "sanitizedSymbol": "SPODERMAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226453",
+    "lockerAddress": "0x0a183A145DFF8939611Cac6A0de480bddD0E641c"
+  },
+  "clankerInfo": null
+}

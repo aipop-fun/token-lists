@@ -1,0 +1,22 @@
+{
+  "name": "watcher",
+  "symbol": "watcher",
+  "decimals": 18,
+  "description": "watcher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=watcher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "watcher",
+  "addresses": {
+    "8453": "0x0add9c623d4139a8da7af6be53a2c909f2b17c8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "watcher",
+    "sanitizedSymbol": "WATCHER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219339",
+    "lockerAddress": "0xB6731aAb8B6CC85338B9c2434a1e9Aa317076cC7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASIS WORLD",
+  "symbol": "BASIS WORLD",
+  "decimals": 18,
+  "description": "BASIS WORLD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASIS%20WORLD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASIS WORLD",
+  "addresses": {
+    "8453": "0x0ea09f8d8a6b55606eb45f362d79d79d5823edbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASIS WORLD",
+    "sanitizedSymbol": "BASIS_WORLD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219307",
+    "lockerAddress": "0xaE0260442F4f8bCFCd7ac1A2F5d3012B1F0124B9"
+  },
+  "clankerInfo": null
+}

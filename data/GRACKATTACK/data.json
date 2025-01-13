@@ -1,0 +1,22 @@
+{
+  "name": "GRACKATTACK",
+  "symbol": "GRACKATTACK",
+  "decimals": 18,
+  "description": "GRACKATTACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GRACKATTACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GRACKATTACK",
+  "addresses": {
+    "8453": "0x27ba1f33f9ea2b6141ce526e057436218996a3e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GRACKATTACK",
+    "sanitizedSymbol": "GRACKATTACK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222925",
+    "lockerAddress": "0xfbfc20D960C48970C04d3137af5B4040e9b1A23c"
+  },
+  "clankerInfo": null
+}

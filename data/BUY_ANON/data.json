@@ -1,0 +1,22 @@
+{
+  "name": "BUY ANON",
+  "symbol": "BUY ANON",
+  "decimals": 18,
+  "description": "BUY ANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUY%20ANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUY ANON",
+  "addresses": {
+    "8453": "0x010355aac33c8058e763695714a6f5ff8469f543"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUY ANON",
+    "sanitizedSymbol": "BUY_ANON",
+    "created_at": "2024-12-09T02:41:00.075915",
+    "deployer": "0x53411C06A0230c5b057BB76e11DC55B7B3935dd2",
+    "lpNftId": "1378881",
+    "lockerAddress": "0xB9D953c2391Cf295c2A8942511474Af4AF978f8B"
+  },
+  "clankerInfo": null
+}

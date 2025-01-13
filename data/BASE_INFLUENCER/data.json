@@ -1,0 +1,22 @@
+{
+  "name": "Base Influencer",
+  "symbol": "Base Influencer",
+  "decimals": 18,
+  "description": "Base Influencer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Influencer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Influencer",
+  "addresses": {
+    "8453": "0x2d288d44882a30af2d132f9001b7a9d399da8c89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Influencer",
+    "sanitizedSymbol": "BASE_INFLUENCER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1375795",
+    "lockerAddress": "0xB0d5736fBA1947C56F7508811695A96b72373E4B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base Gold",
+  "symbol": "Base Gold",
+  "decimals": 18,
+  "description": "Base Gold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Gold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Gold",
+  "addresses": {
+    "8453": "0x13e739a3a85aa7ae6362ee2d3730729c3c9e14e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Gold",
+    "sanitizedSymbol": "BASE_GOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3540D804e6124757A49B805E944B48d14cb78B74",
+    "lpNftId": "1311729",
+    "lockerAddress": "0x8E6Ef8E8c56EAAc8ef1d32b8715D7Bc3e1a8451A"
+  },
+  "clankerInfo": null
+}

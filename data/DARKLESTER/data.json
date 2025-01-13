@@ -1,0 +1,22 @@
+{
+  "name": "darklester",
+  "symbol": "darklester",
+  "decimals": 18,
+  "description": "darklester is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=darklester",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "darklester",
+  "addresses": {
+    "8453": "0x025af1ec31ecc4b8ca8d68557460eec89afbf083"
+  },
+  "tokenInfo": {
+    "originalSymbol": "darklester",
+    "sanitizedSymbol": "DARKLESTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xa3f2696aA391e3eDef54889B80d2B4aB5C9e57fE",
+    "lpNftId": "1170782",
+    "lockerAddress": "0x6cca2B86Ac96e4E6365E1dCFc6813D1359B81F83"
+  },
+  "clankerInfo": null
+}

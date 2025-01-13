@@ -1,0 +1,22 @@
+{
+  "name": "Cool Jazz",
+  "symbol": "Cool Jazz",
+  "decimals": 18,
+  "description": "Cool Jazz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cool%20Jazz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cool Jazz",
+  "addresses": {
+    "8453": "0x2207752c4ba1b910ae2faf064486257a9a2e87cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cool Jazz",
+    "sanitizedSymbol": "COOL_JAZZ",
+    "created_at": "2024-12-10T02:04:51.898729",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1394691",
+    "lockerAddress": "0xd218BA865C33B0c9c511689724AB587012887ecC"
+  },
+  "clankerInfo": null
+}

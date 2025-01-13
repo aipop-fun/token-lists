@@ -1,0 +1,22 @@
+{
+  "name": "Status Symbol",
+  "symbol": "Status Symbol",
+  "decimals": 18,
+  "description": "Status Symbol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Status%20Symbol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Status Symbol",
+  "addresses": {
+    "8453": "0x3a200e9f00be2f623ac6b1470a70fabb69fb2a7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Status Symbol",
+    "sanitizedSymbol": "STATUS_SYMBOL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf3Bee6b257Dffdb09354b60EEc47FD6A40Ae1245",
+    "lpNftId": "1264179",
+    "lockerAddress": "0xBeA931Af9168E29EDb00b88512107E35744aDceC"
+  },
+  "clankerInfo": null
+}

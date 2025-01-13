@@ -1,0 +1,22 @@
+{
+  "name": "Pig",
+  "symbol": "Pig",
+  "decimals": 18,
+  "description": "Pig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pig",
+  "addresses": {
+    "8453": "0x41e828d86777708865bd56a30f9b4b895f647e88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pig",
+    "sanitizedSymbol": "PIG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5066E4a067A3e4ad984A962Be83075709863B8ad",
+    "lpNftId": "1327485",
+    "lockerAddress": "0xcdC76314dE5f5b617DDcC060EcF1f4d5eeab4B7d"
+  },
+  "clankerInfo": null
+}

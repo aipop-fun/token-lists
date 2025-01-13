@@ -1,0 +1,22 @@
+{
+  "name": "monus",
+  "symbol": "monus",
+  "decimals": 18,
+  "description": "monus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=monus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "monus",
+  "addresses": {
+    "8453": "0x25014f09822fa4e1dbe4790aef80accbb085b4a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "monus",
+    "sanitizedSymbol": "MONUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124181",
+    "lockerAddress": "0xb9d6e5d26140460f81a904c22a9efBE70df24e5a"
+  },
+  "clankerInfo": null
+}

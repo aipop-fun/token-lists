@@ -1,0 +1,22 @@
+{
+  "name": "Dickback",
+  "symbol": "Dickback",
+  "decimals": 18,
+  "description": "Dickback is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dickback",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dickback",
+  "addresses": {
+    "8453": "0x0bf55455489968591642ae3c7d1a86311147cfe9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dickback",
+    "sanitizedSymbol": "DICKBACK",
+    "created_at": "2024-12-10T14:30:57.070762",
+    "deployer": "0x071a09289ae784217e4A6B6795a8e8346f8Bfa28",
+    "lpNftId": "1401795",
+    "lockerAddress": "0xFf42AEb3E485e1C463CA036458e6F9140bE55380"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mama",
+  "symbol": "mama",
+  "decimals": 18,
+  "description": "mama is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mama",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mama",
+  "addresses": {
+    "8453": "0x0114ad1ad73decfba81b395ead8d855484645325"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mama",
+    "sanitizedSymbol": "MAMA",
+    "created_at": "2024-12-11T06:50:23.475325",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1413972",
+    "lockerAddress": "0x60f4B8EDd810936592BfC7CE51d9DdD9B4d4da22"
+  },
+  "clankerInfo": null
+}

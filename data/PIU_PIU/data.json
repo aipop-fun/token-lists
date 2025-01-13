@@ -1,0 +1,22 @@
+{
+  "name": "Piu-Piu",
+  "symbol": "Piu-Piu",
+  "decimals": 18,
+  "description": "Piu-Piu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Piu-Piu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Piu-Piu",
+  "addresses": {
+    "8453": "0x2e139bd954c3e40fd76852c8955cf33b7cad0a90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Piu-Piu",
+    "sanitizedSymbol": "PIU_PIU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1F64D08198991C3c0D794D2fc52c458Ef807787c",
+    "lpNftId": "1286546",
+    "lockerAddress": "0x89EA6Bd0CD284Ef327AABBB8097969DD89B7E114"
+  },
+  "clankerInfo": null
+}

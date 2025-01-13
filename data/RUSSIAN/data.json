@@ -1,0 +1,22 @@
+{
+  "name": "RUSSIAN",
+  "symbol": "RUSSIAN",
+  "decimals": 18,
+  "description": "RUSSIAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUSSIAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUSSIAN",
+  "addresses": {
+    "8453": "0x0336b7a1bfbae32d5d47a4c0c35dffcfdf8234ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUSSIAN",
+    "sanitizedSymbol": "RUSSIAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x34876F7C9d38C8F2237423CDe23E89b06D02a26E",
+    "lpNftId": "1269328",
+    "lockerAddress": "0x4929BeD9b0dB3b95BD08a5b14E1384AcB45DD88B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MIN TING",
+  "symbol": "MIN TING",
+  "decimals": 18,
+  "description": "MIN TING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MIN%20TING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MIN TING",
+  "addresses": {
+    "8453": "0x40f0f46d0113bbc6b72c2745aede762d661cff22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MIN TING",
+    "sanitizedSymbol": "MIN_TING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150363",
+    "lockerAddress": "0x930842520554E43a70dD19725a1B0444Cc7e243b"
+  },
+  "clankerInfo": null
+}

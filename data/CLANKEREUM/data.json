@@ -1,0 +1,22 @@
+{
+  "name": "Clankereum",
+  "symbol": "Clankereum",
+  "decimals": 18,
+  "description": "Clankereum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankereum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankereum",
+  "addresses": {
+    "8453": "0x08b934cf6f2dac899fb87b5939a4440c03957879"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankereum",
+    "sanitizedSymbol": "CLANKEREUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x71B632fd5c0Bb128F4d54724963D775cc177D11f",
+    "lpNftId": "1287916",
+    "lockerAddress": "0xDEB67FDFaE2191B1690Cf9614064ef6991797cd4"
+  },
+  "clankerInfo": null
+}

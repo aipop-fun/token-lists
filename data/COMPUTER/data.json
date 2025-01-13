@@ -1,0 +1,22 @@
+{
+  "name": "Computer",
+  "symbol": "Computer",
+  "decimals": 18,
+  "description": "Computer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Computer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Computer",
+  "addresses": {
+    "8453": "0x3489e9dda3241bb3e0cc388ac9a7bc25d963d459"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Computer",
+    "sanitizedSymbol": "COMPUTER",
+    "created_at": "2024-12-12T01:54:17.413775",
+    "deployer": "0x5c2B8AAb08CA3B262a810a0F394C20698e1389c4",
+    "lpNftId": "1428511",
+    "lockerAddress": "0xF9ea2636C04d1b177A2a8Ab973E77A89926D2b5c"
+  },
+  "clankerInfo": null
+}

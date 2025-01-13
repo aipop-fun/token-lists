@@ -1,0 +1,22 @@
+{
+  "name": "trugly",
+  "symbol": "trugly",
+  "decimals": 18,
+  "description": "trugly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trugly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trugly",
+  "addresses": {
+    "8453": "0x12c5251e2a926c5c547e107a2b4924ac67919051"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trugly",
+    "sanitizedSymbol": "TRUGLY",
+    "created_at": "2024-12-12T16:24:42.998146",
+    "deployer": "0x5d9953c11BA69909939cEDe2f7261E48df777AA5",
+    "lpNftId": "1438521",
+    "lockerAddress": "0xBb873f2A137eBD878389F928FC3307212B893dFC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Webflowers",
+  "symbol": "Webflowers",
+  "decimals": 18,
+  "description": "Webflowers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Webflowers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Webflowers",
+  "addresses": {
+    "8453": "0x08c6cb76963ea0a5bb1b2ad38e36d000f4438706"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Webflowers",
+    "sanitizedSymbol": "WEBFLOWERS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173610",
+    "lockerAddress": "0xF33B1CcDdC48761ab9022e96F2b6D3f7d3FD227B"
+  },
+  "clankerInfo": null
+}

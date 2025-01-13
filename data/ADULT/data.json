@@ -1,0 +1,22 @@
+{
+  "name": "adult",
+  "symbol": "adult",
+  "decimals": 18,
+  "description": "adult is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=adult",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "adult",
+  "addresses": {
+    "8453": "0x036089ae43bcd4f63a2df48380133603fcca2545"
+  },
+  "tokenInfo": {
+    "originalSymbol": "adult",
+    "sanitizedSymbol": "ADULT",
+    "created_at": "2024-12-12T05:43:43.824156",
+    "deployer": "0x07201C14151CEF136304652BfD63838f450c5051",
+    "lpNftId": "1429444",
+    "lockerAddress": "0x55E413689203b44fe665E7DED4696f6080d8B2db"
+  },
+  "clankerInfo": null
+}

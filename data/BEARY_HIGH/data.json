@@ -1,0 +1,22 @@
+{
+  "name": "Beary High",
+  "symbol": "Beary High",
+  "decimals": 18,
+  "description": "Beary High is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beary%20High",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beary High",
+  "addresses": {
+    "8453": "0x370255d5a19294ae6efa33c7ee36e5127b8ccad3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beary High",
+    "sanitizedSymbol": "BEARY_HIGH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEE0a4Eee549311E4dF6E374E0Cff3d84aA263e44",
+    "lpNftId": "1295348",
+    "lockerAddress": "0xBb7b52A16bd2ACE0d03b03490098ae83297766e2"
+  },
+  "clankerInfo": null
+}

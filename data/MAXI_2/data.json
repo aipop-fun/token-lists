@@ -1,0 +1,22 @@
+{
+  "name": "MAXI",
+  "symbol": "MAXI",
+  "decimals": 18,
+  "description": "MAXI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAXI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAXI",
+  "addresses": {
+    "8453": "0x3128f8a1ec50a6561bb95c66d766be2edf8c0e77"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAXI",
+    "sanitizedSymbol": "MAXI_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x80910E11cD00672003EbaCdba8CdED7D47F733F7",
+    "lpNftId": "1320567",
+    "lockerAddress": "0x0c382CDEc9595E48Ed94248f70Af738B54D6735b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TIC-TAC-TOE",
+  "symbol": "TIC-TAC-TOE",
+  "decimals": 18,
+  "description": "TIC-TAC-TOE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TIC-TAC-TOE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TIC-TAC-TOE",
+  "addresses": {
+    "8453": "0x1d6a255cda093927e2f9a74619b04ad6f29569cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TIC-TAC-TOE",
+    "sanitizedSymbol": "TIC_TAC_TOE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1283359",
+    "lockerAddress": "0xF440CEE502482Bb19C9a4f1748C6E92432f04219"
+  },
+  "clankerInfo": null
+}

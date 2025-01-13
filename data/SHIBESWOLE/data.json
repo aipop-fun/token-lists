@@ -1,0 +1,22 @@
+{
+  "name": "ShibeSwole",
+  "symbol": "ShibeSwole",
+  "decimals": 18,
+  "description": "ShibeSwole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShibeSwole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShibeSwole",
+  "addresses": {
+    "8453": "0x0b5c41285371453b92c2f3a6635c160b4cc0b6dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShibeSwole",
+    "sanitizedSymbol": "SHIBESWOLE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa07a7724A9C72ACA9979924E2eb3F4cfeFa7308f",
+    "lpNftId": "1265414",
+    "lockerAddress": "0x2803aA79EA88C0C0E910Aa9bEC0939F79452AAc2"
+  },
+  "clankerInfo": null
+}

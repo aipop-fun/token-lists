@@ -1,0 +1,22 @@
+{
+  "name": "Decentralized Chatter",
+  "symbol": "Decentralized Chatter",
+  "decimals": 18,
+  "description": "Decentralized Chatter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Decentralized%20Chatter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Decentralized Chatter",
+  "addresses": {
+    "8453": "0x1ac7e69a448c4a94a18fa70e136698b091d67188"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Decentralized Chatter",
+    "sanitizedSymbol": "DECENTRALIZED_CHATTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224255",
+    "lockerAddress": "0x34e233676a7AAFDc10C839D75668ea40D26BcF22"
+  },
+  "clankerInfo": null
+}

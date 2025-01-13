@@ -1,0 +1,22 @@
+{
+  "name": "FAT KID",
+  "symbol": "FAT KID",
+  "decimals": 18,
+  "description": "FAT KID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAT%20KID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAT KID",
+  "addresses": {
+    "8453": "0x1e77f76851694e32086c970af8330d54588befc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAT KID",
+    "sanitizedSymbol": "FAT_KID",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0A72C5B93DDEAd270318a4B53e8922d33fc3A313",
+    "lpNftId": "1267249",
+    "lockerAddress": "0x227DdeD7b5Ee145ab6838E1E2ba4aA6E8Fe90758"
+  },
+  "clankerInfo": null
+}

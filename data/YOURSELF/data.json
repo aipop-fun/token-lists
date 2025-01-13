@@ -1,0 +1,22 @@
+{
+  "name": "Yourself",
+  "symbol": "Yourself",
+  "decimals": 18,
+  "description": "Yourself is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yourself",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yourself",
+  "addresses": {
+    "8453": "0x303a33bb1385b3fb5f06e4a2225f7136da977fec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yourself",
+    "sanitizedSymbol": "YOURSELF",
+    "created_at": "2024-12-11T08:52:05.05489",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1415241",
+    "lockerAddress": "0x9911ADC290e3220F037F44881DD040F947ec9D87"
+  },
+  "clankerInfo": null
+}

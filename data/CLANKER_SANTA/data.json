@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Santa",
+  "symbol": "Clanker Santa",
+  "decimals": 18,
+  "description": "Clanker Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Santa",
+  "addresses": {
+    "8453": "0x25c677a60bce3f658154361f40e06612542068cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Santa",
+    "sanitizedSymbol": "CLANKER_SANTA",
+    "created_at": "2024-12-11T18:41:19.094697",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1424030",
+    "lockerAddress": "0x359500247CDd3fAc574c30af806c6196cDD7fb0c"
+  },
+  "clankerInfo": null
+}

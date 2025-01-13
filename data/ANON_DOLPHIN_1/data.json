@@ -1,0 +1,22 @@
+{
+  "name": "anon dolphin",
+  "symbol": "anon dolphin",
+  "decimals": 18,
+  "description": "anon dolphin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anon%20dolphin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anon dolphin",
+  "addresses": {
+    "8453": "0x1937c968f6ff9fb5f2ff5d27de6054afee0c292c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anon dolphin",
+    "sanitizedSymbol": "ANON_DOLPHIN_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223771",
+    "lockerAddress": "0x1dEE85f2451afB02C58e8a5fe00a32eCd31E462c"
+  },
+  "clankerInfo": null
+}

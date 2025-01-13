@@ -1,0 +1,22 @@
+{
+  "name": "Garuda",
+  "symbol": "Garuda",
+  "decimals": 18,
+  "description": "Garuda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Garuda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Garuda",
+  "addresses": {
+    "8453": "0x086a2d1c125d7324a5fea1ff02917f170bd3930a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Garuda",
+    "sanitizedSymbol": "GARUDA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1252669",
+    "lockerAddress": "0x6597161c34FE529875eb44CfceD503e5d8162EcB"
+  },
+  "clankerInfo": null
+}

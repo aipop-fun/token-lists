@@ -1,0 +1,22 @@
+{
+  "name": "$hpadoinkle",
+  "symbol": "$hpadoinkle",
+  "decimals": 18,
+  "description": "$hpadoinkle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24hpadoinkle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$hpadoinkle",
+  "addresses": {
+    "8453": "0x17932ec34e5a1b27cdfecd78168ca9a716bc69cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$hpadoinkle",
+    "sanitizedSymbol": "HPADOINKLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226290",
+    "lockerAddress": "0x005c9D916a47bbc7E513Cb6601c40784f85f6cD4"
+  },
+  "clankerInfo": null
+}

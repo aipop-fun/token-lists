@@ -1,0 +1,22 @@
+{
+  "name": "Purpose Robot",
+  "symbol": "Purpose Robot",
+  "decimals": 18,
+  "description": "Purpose Robot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purpose%20Robot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purpose Robot",
+  "addresses": {
+    "8453": "0x2e1e0ca107a363e08c5831214d8131631c78385b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purpose Robot",
+    "sanitizedSymbol": "PURPOSE_ROBOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233775",
+    "lockerAddress": "0xdBb25e3B0E619f2529c976858d017AB0985333De"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Trench Warrior",
+  "symbol": "Trench Warrior",
+  "decimals": 18,
+  "description": "Trench Warrior is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trench%20Warrior",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trench Warrior",
+  "addresses": {
+    "8453": "0x1337acacdb4932c7d66f6d9e0034edc107da8654"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trench Warrior",
+    "sanitizedSymbol": "TRENCH_WARRIOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234542",
+    "lockerAddress": "0x74B7C92F8437AE54480eAaAbcfdBd1c2c2C88A6C"
+  },
+  "clankerInfo": null
+}

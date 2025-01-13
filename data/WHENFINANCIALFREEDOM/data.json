@@ -1,0 +1,22 @@
+{
+  "name": "WhenFinancialFreedom",
+  "symbol": "WhenFinancialFreedom",
+  "decimals": 18,
+  "description": "WhenFinancialFreedom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WhenFinancialFreedom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WhenFinancialFreedom",
+  "addresses": {
+    "8453": "0x22328ff4cb7bbf1a9d981a9ca318393da939fdc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WhenFinancialFreedom",
+    "sanitizedSymbol": "WHENFINANCIALFREEDOM",
+    "created_at": "2024-12-12T14:29:57.028719",
+    "deployer": "0x657604627622A5DFA2d4603A69c4b673BA7986cb",
+    "lpNftId": "1435888",
+    "lockerAddress": "0x9265FFA3c5AfBD502BC9DC33c749cAAfD34ecb83"
+  },
+  "clankerInfo": null
+}

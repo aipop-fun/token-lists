@@ -1,0 +1,22 @@
+{
+  "name": "jih",
+  "symbol": "jih",
+  "decimals": 18,
+  "description": "jih is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jih",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jih",
+  "addresses": {
+    "8453": "0x1d7278f6efa41b30632efca099c7d51b7830365c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jih",
+    "sanitizedSymbol": "JIH",
+    "created_at": "2024-12-12T16:12:30.167311",
+    "deployer": "0xBA7e791678d43C94c6D2eE8f0dc08ceFd67FA6A9",
+    "lpNftId": "1438081",
+    "lockerAddress": "0x67A9e683f72ADe37B250b2D16B6235502Cc97bC3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ruggedrats",
+  "symbol": "ruggedrats",
+  "decimals": 18,
+  "description": "ruggedrats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ruggedrats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ruggedrats",
+  "addresses": {
+    "8453": "0x09cb4e1b11603e7255d5f419164ef1d90c53f7f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ruggedrats",
+    "sanitizedSymbol": "RUGGEDRATS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193933",
+    "lockerAddress": "0x50DE66deFdAd1297B9e1D130ebaeCa0A34486B67"
+  },
+  "clankerInfo": null
+}

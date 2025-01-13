@@ -1,0 +1,22 @@
+{
+  "name": "Moonfluff",
+  "symbol": "Moonfluff",
+  "decimals": 18,
+  "description": "Moonfluff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moonfluff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moonfluff",
+  "addresses": {
+    "8453": "0x32a4c07cae5911fab44132ae5136d13560f5c276"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moonfluff",
+    "sanitizedSymbol": "MOONFLUFF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226931",
+    "lockerAddress": "0x8B636b46c0Aa8E50a7A204564694e2A7eB6bC206"
+  },
+  "clankerInfo": null
+}

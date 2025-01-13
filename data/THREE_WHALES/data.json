@@ -1,0 +1,22 @@
+{
+  "name": "Three Whales",
+  "symbol": "Three Whales",
+  "decimals": 18,
+  "description": "Three Whales is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Three%20Whales",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Three Whales",
+  "addresses": {
+    "8453": "0x0442a39443690cc5230aa1c2a88731f44ebc554c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Three Whales",
+    "sanitizedSymbol": "THREE_WHALES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156881",
+    "lockerAddress": "0x3c48D46949794eCB9ddCA94D37f833d9fA428d32"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FAT",
+  "symbol": "FAT",
+  "decimals": 18,
+  "description": "FAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAT",
+  "addresses": {
+    "8453": "0x0a13625953f5ca545e1082b52ac76285451b1a04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAT",
+    "sanitizedSymbol": "FAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130540",
+    "lockerAddress": "0x257384c10dcDf9293d62332793BA41CaEcd02F8E"
+  },
+  "clankerInfo": null
+}

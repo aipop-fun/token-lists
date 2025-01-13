@@ -1,0 +1,22 @@
+{
+  "name": "OINK OINk",
+  "symbol": "OINK OINk",
+  "decimals": 18,
+  "description": "OINK OINk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OINK%20OINk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OINK OINk",
+  "addresses": {
+    "8453": "0x36b8a461dcf7724fe10b95bdfb1323fbb5c6b929"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OINK OINk",
+    "sanitizedSymbol": "OINK_OINK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6c9f6808F5EE35D59b9f2a474522C87BA75CFf00",
+    "lpNftId": "1282839",
+    "lockerAddress": "0xfdE5e134E6483f499d0E9a036305e2DC80969B0a"
+  },
+  "clankerInfo": null
+}

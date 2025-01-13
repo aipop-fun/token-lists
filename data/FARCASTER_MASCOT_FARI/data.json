@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Mascot (FARI)",
+  "symbol": "Farcaster Mascot (FARI)",
+  "decimals": 18,
+  "description": "Farcaster Mascot (FARI) is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Mascot%20(FARI)",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Mascot (FARI)",
+  "addresses": {
+    "8453": "0x071da0404621f21e8b0f7a0e86c75aa8268b302e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Mascot (FARI)",
+    "sanitizedSymbol": "FARCASTER_MASCOT_FARI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160198",
+    "lockerAddress": "0x29c372e0DA78728a4f028F232dE7bCF3994551Ff"
+  },
+  "clankerInfo": null
+}

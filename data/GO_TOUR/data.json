@@ -1,0 +1,22 @@
+{
+  "name": "Go Tour",
+  "symbol": "Go Tour",
+  "decimals": 18,
+  "description": "Go Tour is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Go%20Tour",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Go Tour",
+  "addresses": {
+    "8453": "0x39800b592fe618feee996585c5c54759dcfa565f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Go Tour",
+    "sanitizedSymbol": "GO_TOUR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf4a2F8F86c1B88Fc1194836436e83c7d76e28D9C",
+    "lpNftId": "1312302",
+    "lockerAddress": "0x2cD9c4bEdA2e99393Fe9C501f47Cc7A4fc764BB8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "danbux",
+  "symbol": "danbux",
+  "decimals": 18,
+  "description": "danbux is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=danbux",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "danbux",
+  "addresses": {
+    "8453": "0x31751e7c3b9adc10bc79f45622087d5b9c027dae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "danbux",
+    "sanitizedSymbol": "DANBUX_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222278",
+    "lockerAddress": "0xFE61c50905D3D5E40dE781721A66e7DDeA78aBBC"
+  },
+  "clankerInfo": null
+}

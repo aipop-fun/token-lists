@@ -1,0 +1,22 @@
+{
+  "name": "NB574",
+  "symbol": "NB574",
+  "decimals": 18,
+  "description": "NB574 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NB574",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NB574",
+  "addresses": {
+    "8453": "0x1dc677cb90265f4ac803226f9c27e7ea6f7972e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NB574",
+    "sanitizedSymbol": "NB574",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1374176",
+    "lockerAddress": "0xe551ba4Cd97db37dCBa32C9134ccAdE58a61ED40"
+  },
+  "clankerInfo": null
+}

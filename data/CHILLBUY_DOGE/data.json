@@ -1,0 +1,22 @@
+{
+  "name": "ChillBuy DOGE",
+  "symbol": "ChillBuy DOGE",
+  "decimals": 18,
+  "description": "ChillBuy DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillBuy%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillBuy DOGE",
+  "addresses": {
+    "8453": "0x0a990bc84895ba5298e58992693292d06b13354d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillBuy DOGE",
+    "sanitizedSymbol": "CHILLBUY_DOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x463d5e22C3F6E0220c58fD1Ecec44891C32eEd9b",
+    "lpNftId": "1326402",
+    "lockerAddress": "0x65066A665c2385DA85423fC2324570d080e3e89b"
+  },
+  "clankerInfo": null
+}

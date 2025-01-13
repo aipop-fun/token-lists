@@ -1,0 +1,22 @@
+{
+  "name": "Jupp",
+  "symbol": "Jupp",
+  "decimals": 18,
+  "description": "Jupp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jupp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jupp",
+  "addresses": {
+    "8453": "0x2b8f66a954971d89962192e085762e041252329b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jupp",
+    "sanitizedSymbol": "JUPP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70f9e0Db879e6CfB1E1627569919eA45ed004DB8",
+    "lpNftId": "1331044",
+    "lockerAddress": "0x065dE962c3B63DB2D8D8407f49c677deFB40B02b"
+  },
+  "clankerInfo": null
+}

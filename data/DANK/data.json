@@ -1,0 +1,22 @@
+{
+  "name": "DANK",
+  "symbol": "DANK",
+  "decimals": 18,
+  "description": "DANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DANK",
+  "addresses": {
+    "8453": "0x1886d1470cf1f9e4f904e253c4ad70dea5961381"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DANK",
+    "sanitizedSymbol": "DANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x053735C6E364Cd04C9826E8A90dcb363c68AB80A",
+    "lpNftId": "1292451",
+    "lockerAddress": "0x767b7BA694b0405FDe37C5714b765F8895e66B40"
+  },
+  "clankerInfo": null
+}

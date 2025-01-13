@@ -1,0 +1,22 @@
+{
+  "name": "BABYBTC",
+  "symbol": "BABYBTC",
+  "decimals": 18,
+  "description": "BABYBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABYBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABYBTC",
+  "addresses": {
+    "8453": "0x0aeb06416fdf37ac2627f406f57cc63db5943c91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABYBTC",
+    "sanitizedSymbol": "BABYBTC",
+    "created_at": "2024-12-10T18:47:07.147664",
+    "deployer": "0x48a835FD8353e96E87f450e256d4d1C10e4895bA",
+    "lpNftId": "1405702",
+    "lockerAddress": "0xb48eF68e2F48FB369f203E216B5464CFf29B7951"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "winecoin",
+  "symbol": "winecoin",
+  "decimals": 18,
+  "description": "winecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=winecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "winecoin",
+  "addresses": {
+    "8453": "0x1b0fc857f4412c149c41f119285180fd03cf2992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "winecoin",
+    "sanitizedSymbol": "WINECOIN",
+    "created_at": "2024-12-11T02:35:53.059687",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1410879",
+    "lockerAddress": "0xa47bcB602F308Bd4897E2dE9a2510dB7C4Ed453f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cheekilicious",
+  "symbol": "Cheekilicious",
+  "decimals": 18,
+  "description": "Cheekilicious is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cheekilicious",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cheekilicious",
+  "addresses": {
+    "8453": "0x1239c68e137c2f741b086373a62bef16759f69d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cheekilicious",
+    "sanitizedSymbol": "CHEEKILICIOUS",
+    "created_at": "2024-12-11T01:21:55.34588",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1409575",
+    "lockerAddress": "0x1fd0Eb2a474dE55e1d52A738AC546191b5f3749e"
+  },
+  "clankerInfo": null
+}

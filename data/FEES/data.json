@@ -1,0 +1,22 @@
+{
+  "name": "Fees",
+  "symbol": "Fees",
+  "decimals": 18,
+  "description": "Fees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fees",
+  "addresses": {
+    "8453": "0x3cd315d0fc38e5645b6e5581c1a421ee5109b449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fees",
+    "sanitizedSymbol": "FEES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217743",
+    "lockerAddress": "0x388782a651f731777E11DE0225577CaF662403b2"
+  },
+  "clankerInfo": null
+}

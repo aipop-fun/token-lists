@@ -1,0 +1,22 @@
+{
+  "name": "equanimity",
+  "symbol": "equanimity",
+  "decimals": 18,
+  "description": "equanimity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=equanimity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "equanimity",
+  "addresses": {
+    "8453": "0x1e097d7e004e5c3e4e24f4506eb78eb940e29466"
+  },
+  "tokenInfo": {
+    "originalSymbol": "equanimity",
+    "sanitizedSymbol": "EQUANIMITY",
+    "created_at": "2024-12-10T05:03:46.560423",
+    "deployer": "0x3e056F3F58BeE0368cfF587010C3917F01B9E572",
+    "lpNftId": "1396705",
+    "lockerAddress": "0x608c99715B1553D24f6E7608BB3f5b9D0f6FDF01"
+  },
+  "clankerInfo": null
+}

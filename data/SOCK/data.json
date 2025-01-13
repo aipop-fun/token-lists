@@ -1,0 +1,22 @@
+{
+  "name": "sock",
+  "symbol": "sock",
+  "decimals": 18,
+  "description": "sock is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sock",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sock",
+  "addresses": {
+    "8453": "0x07b04d92cb089d131527ef9d904e5244eac96db6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sock",
+    "sanitizedSymbol": "SOCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d7A233843932A618d243ff9D166D3b8630cBc24",
+    "lpNftId": "1300616",
+    "lockerAddress": "0x7850B2B199002693b85682636b34C171662A38Dc"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NIGHTMORE",
+  "symbol": "NIGHTMORE",
+  "decimals": 18,
+  "description": "NIGHTMORE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NIGHTMORE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NIGHTMORE",
+  "addresses": {
+    "8453": "0x3079bcd713b670aae7ed676b1a5ea985d02a1b37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NIGHTMORE",
+    "sanitizedSymbol": "NIGHTMORE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226881",
+    "lockerAddress": "0x02995Dea31CdB1e7Db49aEEb55B5cC541d005448"
+  },
+  "clankerInfo": null
+}

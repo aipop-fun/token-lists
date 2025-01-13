@@ -1,0 +1,22 @@
+{
+  "name": "mayo",
+  "symbol": "mayo",
+  "decimals": 18,
+  "description": "mayo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mayo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mayo",
+  "addresses": {
+    "8453": "0x10a08ead7f8004016633f3654401d634a2795d57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mayo",
+    "sanitizedSymbol": "MAYO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205941",
+    "lockerAddress": "0x5445b82A1d0CDdDa6a658e538Ce5a13C20484D74"
+  },
+  "clankerInfo": null
+}

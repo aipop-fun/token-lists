@@ -1,0 +1,22 @@
+{
+  "name": "This is the way",
+  "symbol": "This is the way",
+  "decimals": 18,
+  "description": "This is the way is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=This%20is%20the%20way",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "This is the way",
+  "addresses": {
+    "8453": "0x02630bdf6e1b4fed210dcd15d7cc1c7af00457b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "This is the way",
+    "sanitizedSymbol": "THIS_IS_THE_WAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x788f6B0226553f7331054438E3BDa08f989Cc007",
+    "lpNftId": "1323655",
+    "lockerAddress": "0xDCBF8dB6E90588BeB54f9480e288ABCcA8959dd3"
+  },
+  "clankerInfo": null
+}

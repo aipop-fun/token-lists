@@ -1,0 +1,22 @@
+{
+  "name": "Screenshot",
+  "symbol": "Screenshot",
+  "decimals": 18,
+  "description": "Screenshot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Screenshot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Screenshot",
+  "addresses": {
+    "8453": "0x0aa918f1365a7b3df7282279fe782f1ca0d7e2ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Screenshot",
+    "sanitizedSymbol": "SCREENSHOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1325537",
+    "lockerAddress": "0x153078E0D616e0a5f38AA175f15B5157DC5D892c"
+  },
+  "clankerInfo": null
+}

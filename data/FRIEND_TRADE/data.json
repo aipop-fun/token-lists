@@ -1,0 +1,22 @@
+{
+  "name": "Friend trade",
+  "symbol": "Friend trade",
+  "decimals": 18,
+  "description": "Friend trade is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Friend%20trade",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Friend trade",
+  "addresses": {
+    "8453": "0x03e9c951c066e92de571a29cf684a38c06ecb0a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Friend trade",
+    "sanitizedSymbol": "FRIEND_TRADE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1333144",
+    "lockerAddress": "0x27ABb18eB1a637da9258BbD36dDb35F2a0112498"
+  },
+  "clankerInfo": null
+}

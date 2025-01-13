@@ -1,0 +1,22 @@
+{
+  "name": "Zenon",
+  "symbol": "Zenon",
+  "decimals": 18,
+  "description": "Zenon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zenon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zenon",
+  "addresses": {
+    "8453": "0x2a68ec46020d371464f6a56dd902775930b8e3c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zenon",
+    "sanitizedSymbol": "ZENON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x870faCCD7F1f0a7D4F2c4e721B1FEf86E56Cb3F7",
+    "lpNftId": "1330497",
+    "lockerAddress": "0xA5Df669630Ee5471044273330496E7aa0bC268C2"
+  },
+  "clankerInfo": null
+}

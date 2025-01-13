@@ -1,0 +1,22 @@
+{
+  "name": "Chair Token",
+  "symbol": "Chair Token",
+  "decimals": 18,
+  "description": "Chair Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chair%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chair Token",
+  "addresses": {
+    "8453": "0x32665d77e1e29bdf0a9ddd4a0d69a23bdc6f1c13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chair Token",
+    "sanitizedSymbol": "CHAIR_TOKEN_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1115008",
+    "lockerAddress": "0x50B599B7dF2BDF7B6a698465c5FD89DEBDBDd9d7"
+  },
+  "clankerInfo": null
+}

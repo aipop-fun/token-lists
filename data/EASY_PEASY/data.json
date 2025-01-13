@@ -1,0 +1,22 @@
+{
+  "name": "easy peasy",
+  "symbol": "easy peasy",
+  "decimals": 18,
+  "description": "easy peasy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=easy%20peasy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "easy peasy",
+  "addresses": {
+    "8453": "0x194435a4c3d57764c47542fc90d07b483a64ab8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "easy peasy",
+    "sanitizedSymbol": "EASY_PEASY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x285860E1f828Bc2f34979B31Cc2a1A1a5E565D66",
+    "lpNftId": "1329588",
+    "lockerAddress": "0x6A4267631F300b05134bB479715Bea3a18804D9c"
+  },
+  "clankerInfo": null
+}

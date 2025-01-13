@@ -1,0 +1,22 @@
+{
+  "name": "1 ETH = 1 ETH",
+  "symbol": "1 ETH = 1 ETH",
+  "decimals": 18,
+  "description": "1 ETH = 1 ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%20ETH%20%3D%201%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1 ETH = 1 ETH",
+  "addresses": {
+    "8453": "0x26dbc9a5e8d5947fb587d2823a2e55787a475dbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1 ETH = 1 ETH",
+    "sanitizedSymbol": "1_ETH_1_ETH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd3dc3f0A36d7F71e61606ed10bdba414be9590eA",
+    "lpNftId": "1313717",
+    "lockerAddress": "0xB7be30d5Cbc9c4FF2F1B7107b0773b0884dC73F7"
+  },
+  "clankerInfo": null
+}

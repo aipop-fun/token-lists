@@ -1,0 +1,22 @@
+{
+  "name": "Wkng",
+  "symbol": "Wkng",
+  "decimals": 18,
+  "description": "Wkng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wkng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wkng",
+  "addresses": {
+    "8453": "0x0a5a51c7051cca707d9a1f53953c4df3e7143e4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wkng",
+    "sanitizedSymbol": "WKNG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76d387388BEa6B60CA6D1e97f446F7E26D39d313",
+    "lpNftId": "1308999",
+    "lockerAddress": "0xD660F505cba8b077Bb532B34C7F1f62b8CCB3CD5"
+  },
+  "clankerInfo": null
+}

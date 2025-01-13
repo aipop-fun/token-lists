@@ -1,0 +1,22 @@
+{
+  "name": "blus",
+  "symbol": "blus",
+  "decimals": 18,
+  "description": "blus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=blus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "blus",
+  "addresses": {
+    "8453": "0x016d09b4c8d49b0382365aea541e83443bc17d3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "blus",
+    "sanitizedSymbol": "BLUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCbc539d55840b986407EFA19dA40e1D6Cb4e0F1a",
+    "lpNftId": "1326721",
+    "lockerAddress": "0xD5f64Dac354e1F71EF3ADBA7f613a5Ddc1f1c4Ff"
+  },
+  "clankerInfo": null
+}

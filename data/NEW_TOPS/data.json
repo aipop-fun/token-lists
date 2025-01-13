@@ -1,0 +1,22 @@
+{
+  "name": "New Tops",
+  "symbol": "New Tops",
+  "decimals": 18,
+  "description": "New Tops is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Tops",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Tops",
+  "addresses": {
+    "8453": "0x3a49c8d770021c66405c47708631d5602aa96fb0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Tops",
+    "sanitizedSymbol": "NEW_TOPS",
+    "created_at": "2024-12-11T03:07:43.454562",
+    "deployer": "0xDd31dB93082a3A71b98D37ba26230f8734Bd63C3",
+    "lpNftId": "1411600",
+    "lockerAddress": "0x05359E4fFa779e86E6f236d50D6d377bf213dC1b"
+  },
+  "clankerInfo": null
+}

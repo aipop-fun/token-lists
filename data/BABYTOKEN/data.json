@@ -1,0 +1,22 @@
+{
+  "name": "BabyToken",
+  "symbol": "BabyToken",
+  "decimals": 18,
+  "description": "BabyToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyToken",
+  "addresses": {
+    "8453": "0x3b095eb177d0990c76293afe3c7419fc37f6cd3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyToken",
+    "sanitizedSymbol": "BABYTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166345",
+    "lockerAddress": "0xe6a05fEb3546f1b04C08C1767581aEF79FEBE2bC"
+  },
+  "clankerInfo": null
+}

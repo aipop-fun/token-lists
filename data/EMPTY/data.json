@@ -1,0 +1,22 @@
+{
+  "name": "EMPTY",
+  "symbol": "EMPTY",
+  "decimals": 18,
+  "description": "EMPTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EMPTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EMPTY",
+  "addresses": {
+    "8453": "0x317e23cade6a7739f35fbf8ac011f0ed29740c32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EMPTY",
+    "sanitizedSymbol": "EMPTY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156244",
+    "lockerAddress": "0x6E446e2E6363CAC06847DF333a34fe20267267b1"
+  },
+  "clankerInfo": null
+}

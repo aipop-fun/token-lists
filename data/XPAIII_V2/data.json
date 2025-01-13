@@ -1,0 +1,22 @@
+{
+  "name": "Xpaiii V2",
+  "symbol": "Xpaiii V2",
+  "decimals": 18,
+  "description": "Xpaiii V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xpaiii%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xpaiii V2",
+  "addresses": {
+    "8453": "0x257483b3e37e34d0794f029ce0f12e26540c83bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xpaiii V2",
+    "sanitizedSymbol": "XPAIII_V2",
+    "created_at": "2024-12-09T06:22:18.86231",
+    "deployer": "0xdde672dFb4D2DEE9246AD440BEbC568f765a70AA",
+    "lpNftId": "1383870",
+    "lockerAddress": "0x98Dc36a1e9D8E3980454e8d30bF6A68dED9189dE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cowandgoat",
+  "symbol": "cowandgoat",
+  "decimals": 18,
+  "description": "cowandgoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cowandgoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cowandgoat",
+  "addresses": {
+    "8453": "0x3625dd8807ba0d554fcc8fc9ee9bbc48996c13f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cowandgoat",
+    "sanitizedSymbol": "COWANDGOAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234519",
+    "lockerAddress": "0x3bBaF8bf11bAC72387c54556Be3ad6F14cAF3fa1"
+  },
+  "clankerInfo": null
+}

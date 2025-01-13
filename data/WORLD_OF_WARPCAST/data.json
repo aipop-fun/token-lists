@@ -1,0 +1,22 @@
+{
+  "name": "World of Warpcast",
+  "symbol": "World of Warpcast",
+  "decimals": 18,
+  "description": "World of Warpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20of%20Warpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World of Warpcast",
+  "addresses": {
+    "8453": "0x23983d4c58cd4aed816cd2e728fadccc554bd241"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World of Warpcast",
+    "sanitizedSymbol": "WORLD_OF_WARPCAST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216469",
+    "lockerAddress": "0x3506cDEeD19B0542e683D8469e41f0b271CC9463"
+  },
+  "clankerInfo": null
+}

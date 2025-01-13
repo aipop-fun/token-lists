@@ -1,0 +1,22 @@
+{
+  "name": "Whitepaper",
+  "symbol": "Whitepaper",
+  "decimals": 18,
+  "description": "Whitepaper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whitepaper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whitepaper",
+  "addresses": {
+    "8453": "0x0f3cb140b737a4dbdce101e7832db3b101662169"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whitepaper",
+    "sanitizedSymbol": "WHITEPAPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232483",
+    "lockerAddress": "0x785803aE8dF91cA8F1272ed0237Dfd483615Ad6d"
+  },
+  "clankerInfo": null
+}

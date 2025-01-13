@@ -1,0 +1,22 @@
+{
+  "name": "Happy Santa Claus",
+  "symbol": "Happy Santa Claus",
+  "decimals": 18,
+  "description": "Happy Santa Claus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Santa%20Claus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Santa Claus",
+  "addresses": {
+    "8453": "0x1b788e50e6c4ba2c7a8eeeb10eef6bbb363cb908"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Santa Claus",
+    "sanitizedSymbol": "HAPPY_SANTA_CLAUS",
+    "created_at": "2024-12-10T13:59:06.358751",
+    "deployer": "0x9bF62b9634223Dec8d4b1c8C99563C2D41cA6920",
+    "lpNftId": "1401643",
+    "lockerAddress": "0xcB3f0686a2bD16Db6A54536B970f2D3172bA8855"
+  },
+  "clankerInfo": null
+}

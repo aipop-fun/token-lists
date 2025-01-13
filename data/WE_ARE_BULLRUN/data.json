@@ -1,0 +1,22 @@
+{
+  "name": "We Are Bullrun",
+  "symbol": "We Are Bullrun",
+  "decimals": 18,
+  "description": "We Are Bullrun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=We%20Are%20Bullrun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "We Are Bullrun",
+  "addresses": {
+    "8453": "0x3f86273c2816035f16b125ce60b48d3f0a3bb199"
+  },
+  "tokenInfo": {
+    "originalSymbol": "We Are Bullrun",
+    "sanitizedSymbol": "WE_ARE_BULLRUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152201",
+    "lockerAddress": "0x2a60Fc310B4953B089bD3584e8239ce7189F341f"
+  },
+  "clankerInfo": null
+}

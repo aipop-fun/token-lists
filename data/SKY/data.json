@@ -1,0 +1,22 @@
+{
+  "name": "sky",
+  "symbol": "sky",
+  "decimals": 18,
+  "description": "sky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sky",
+  "addresses": {
+    "8453": "0x0d053c18756fdc570a3df063133b75492972d488"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sky",
+    "sanitizedSymbol": "SKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230412",
+    "lockerAddress": "0x3032e475A9e2Df2cb86ab734bbc3219398677314"
+  },
+  "clankerInfo": null
+}

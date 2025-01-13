@@ -1,0 +1,22 @@
+{
+  "name": "BaseBoys",
+  "symbol": "BaseBoys",
+  "decimals": 18,
+  "description": "BaseBoys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseBoys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseBoys",
+  "addresses": {
+    "8453": "0x1449b4c59ffb252a60fd7c1cadadadbfe8e89257"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseBoys",
+    "sanitizedSymbol": "BASEBOYS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167330",
+    "lockerAddress": "0x4ebEAeAf5A278D627a7956d8796b84041e9A93F1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anon team",
+  "symbol": "Anon team",
+  "decimals": 18,
+  "description": "Anon team is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20team",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon team",
+  "addresses": {
+    "8453": "0x29522d509f2d9b34cb4093d4a64889d0a2fe3164"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon team",
+    "sanitizedSymbol": "ANON_TEAM",
+    "created_at": "2024-12-10T03:17:40.652674",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1395596",
+    "lockerAddress": "0x8671943d35dAB3eDc95588a2a5dBd886fc992E7e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AGENT",
+  "symbol": "AGENT",
+  "decimals": 18,
+  "description": "AGENT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AGENT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AGENT",
+  "addresses": {
+    "8453": "0x0ebe1afd4b30629b4cbef0843416411f770af9d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AGENT",
+    "sanitizedSymbol": "AGENT_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5D6ea8c76Ab5D7366578F4b36D798Cc37219dC24",
+    "lpNftId": "1274778",
+    "lockerAddress": "0xD51863A0E0EB211A424b0CfDB6bBeE51CfAD1ED4"
+  },
+  "clankerInfo": null
+}

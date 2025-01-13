@@ -1,0 +1,22 @@
+{
+  "name": "Naughty List",
+  "symbol": "Naughty List",
+  "decimals": 18,
+  "description": "Naughty List is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Naughty%20List",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Naughty List",
+  "addresses": {
+    "8453": "0x274df3528446b5708be8368d264ed7e58abcf7e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Naughty List",
+    "sanitizedSymbol": "NAUGHTY_LIST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230464",
+    "lockerAddress": "0x51f7AA44A51272E891dBBaA038f70d2a2E3Af1E7"
+  },
+  "clankerInfo": null
+}

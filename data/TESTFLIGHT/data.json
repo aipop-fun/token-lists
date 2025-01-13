@@ -1,0 +1,22 @@
+{
+  "name": "TestFlight",
+  "symbol": "TestFlight",
+  "decimals": 18,
+  "description": "TestFlight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TestFlight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TestFlight",
+  "addresses": {
+    "8453": "0x1f47298c2eeb2b9dfaa5b8e25e542b06e92556b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TestFlight",
+    "sanitizedSymbol": "TESTFLIGHT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151998",
+    "lockerAddress": "0xc82F7F38028e1cE717b36eAEf834CfCDC211914d"
+  },
+  "clankerInfo": null
+}

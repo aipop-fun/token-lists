@@ -1,0 +1,22 @@
+{
+  "name": "brainly",
+  "symbol": "brainly",
+  "decimals": 18,
+  "description": "brainly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brainly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brainly",
+  "addresses": {
+    "8453": "0x189695c54db656ca7c8ea33a41aa462b51598ad1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brainly",
+    "sanitizedSymbol": "BRAINLY",
+    "created_at": "2024-12-10T18:05:05.342617",
+    "deployer": "0x1600d643Be4B9EcD8cE8AE97D6f0F9a482F78A35",
+    "lpNftId": "1405239",
+    "lockerAddress": "0xB1fD312cdD619deb436bD688779224bC7a1F8BCA"
+  },
+  "clankerInfo": null
+}

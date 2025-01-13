@@ -1,0 +1,22 @@
+{
+  "name": "Warpepe",
+  "symbol": "Warpepe",
+  "decimals": 18,
+  "description": "Warpepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpepe",
+  "addresses": {
+    "8453": "0x07d2f756d1d30a17e11e33f95e33220af49785d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpepe",
+    "sanitizedSymbol": "WARPEPE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205768",
+    "lockerAddress": "0x4660E8624158614cE3Fb661e22a417375DbB360a"
+  },
+  "clankerInfo": null
+}

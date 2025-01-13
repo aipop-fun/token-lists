@@ -1,0 +1,22 @@
+{
+  "name": "DAGAN",
+  "symbol": "DAGAN",
+  "decimals": 18,
+  "description": "DAGAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DAGAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DAGAN",
+  "addresses": {
+    "8453": "0x0bcdac95cc2ea68ba6d68268f6c6758bc8c7a1df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DAGAN",
+    "sanitizedSymbol": "DAGAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xef4C5dF8289f0Cc50aDda9c7bFC200c548aA14eB",
+    "lpNftId": "1335447",
+    "lockerAddress": "0x3E7e7e90Ae41F56AF6e96A6222CC83357483C98A"
+  },
+  "clankerInfo": null
+}

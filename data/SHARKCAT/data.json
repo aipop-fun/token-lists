@@ -1,0 +1,22 @@
+{
+  "name": "sharkcat",
+  "symbol": "sharkcat",
+  "decimals": 18,
+  "description": "sharkcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sharkcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sharkcat",
+  "addresses": {
+    "8453": "0x064741ad11aac3da9629236c433a0f510b1210d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sharkcat",
+    "sanitizedSymbol": "SHARKCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1140f01a6ddeCca7804f00D5C2D63F18b70231e",
+    "lpNftId": "1308669",
+    "lockerAddress": "0x8C78FB52700CB4321B170881fb90D2A70d28a44B"
+  },
+  "clankerInfo": null
+}

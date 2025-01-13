@@ -1,0 +1,22 @@
+{
+  "name": "Dogvitalik",
+  "symbol": "Dogvitalik",
+  "decimals": 18,
+  "description": "Dogvitalik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogvitalik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogvitalik",
+  "addresses": {
+    "8453": "0x23aa1d71f0aa9d4c143206dde3c3611c52f51489"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogvitalik",
+    "sanitizedSymbol": "DOGVITALIK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124961",
+    "lockerAddress": "0x6f9FA36a2E7e65fF73Bee62E1EB2184b85B9B934"
+  },
+  "clankerInfo": null
+}

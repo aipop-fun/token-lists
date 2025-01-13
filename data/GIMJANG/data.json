@@ -1,0 +1,22 @@
+{
+  "name": "gimjang",
+  "symbol": "gimjang",
+  "decimals": 18,
+  "description": "gimjang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gimjang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gimjang",
+  "addresses": {
+    "8453": "0x09689d2af43f6c43ff9961a1b20e755eda312cb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gimjang",
+    "sanitizedSymbol": "GIMJANG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159990",
+    "lockerAddress": "0x1601b6CC908Ce2FAED9DB395E938fF9FaeF1579b"
+  },
+  "clankerInfo": null
+}

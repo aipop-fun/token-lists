@@ -1,0 +1,22 @@
+{
+  "name": "CASTER APP",
+  "symbol": "CASTER APP",
+  "decimals": 18,
+  "description": "CASTER APP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CASTER%20APP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CASTER APP",
+  "addresses": {
+    "8453": "0x15b31c628329efacdb171702b408ad9e17f21b4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CASTER APP",
+    "sanitizedSymbol": "CASTER_APP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x79C4550130cBc66b222e8A9AC8615Cda89F23968",
+    "lpNftId": "1327562",
+    "lockerAddress": "0xa3BeCC48beC367b0A16796C6D70A4D717dD53cAf"
+  },
+  "clankerInfo": null
+}

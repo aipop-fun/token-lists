@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Dog",
+  "symbol": "Onchain Dog",
+  "decimals": 18,
+  "description": "Onchain Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Dog",
+  "addresses": {
+    "8453": "0x33bf2070b46cd6b0ea81cf1bc5a662df953149b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Dog",
+    "sanitizedSymbol": "ONCHAIN_DOG",
+    "created_at": "2024-12-11T15:54:05.355422",
+    "deployer": "0xd9f6cCc5B69FE06A5c6c15E533b681aCC3DBBd65",
+    "lpNftId": "1421312",
+    "lockerAddress": "0x65F86a37E47a2b7f8e8025e35B37Da8204Be19ed"
+  },
+  "clankerInfo": null
+}

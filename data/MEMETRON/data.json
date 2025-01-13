@@ -1,0 +1,22 @@
+{
+  "name": "MEMETRON",
+  "symbol": "MEMETRON",
+  "decimals": 18,
+  "description": "MEMETRON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMETRON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMETRON",
+  "addresses": {
+    "8453": "0x15d4715016593ad91ac1b631af2470027f5ddd97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMETRON",
+    "sanitizedSymbol": "MEMETRON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA26ACABe57e3a3F7111505f35fDCC0346b78ad8A",
+    "lpNftId": "1281240",
+    "lockerAddress": "0x1aA3A83C4a7b217B93F1250499Fdd00d8Ed8e60d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "loogi",
+  "symbol": "loogi",
+  "decimals": 18,
+  "description": "loogi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=loogi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "loogi",
+  "addresses": {
+    "8453": "0x211b347c5ac1d340ac88ea3edc4534dc52d016c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "loogi",
+    "sanitizedSymbol": "LOOGI",
+    "created_at": "2024-12-11T17:25:46.390903",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1422465",
+    "lockerAddress": "0x80AD7192FDD90CFfa512A59B3a48c51a06E4B141"
+  },
+  "clankerInfo": null
+}

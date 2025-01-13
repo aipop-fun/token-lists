@@ -1,0 +1,22 @@
+{
+  "name": "KRAMPUS",
+  "symbol": "KRAMPUS",
+  "decimals": 18,
+  "description": "KRAMPUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KRAMPUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KRAMPUS",
+  "addresses": {
+    "8453": "0x06a5debd8901dba7f46b998207b5df148500443b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KRAMPUS",
+    "sanitizedSymbol": "KRAMPUS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9002704d350BDb056cF9F110ca27028599F85B5C",
+    "lpNftId": "1264859",
+    "lockerAddress": "0x98Dfd7c068f1aC7F3f2E5efadc4B16ea1E4B5CB5"
+  },
+  "clankerInfo": null
+}

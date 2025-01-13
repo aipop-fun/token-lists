@@ -1,0 +1,22 @@
+{
+  "name": "RizzKitty",
+  "symbol": "RizzKitty",
+  "decimals": 18,
+  "description": "RizzKitty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RizzKitty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RizzKitty",
+  "addresses": {
+    "8453": "0x41daaf1ba7053f1808412cf395cef29dd55670cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RizzKitty",
+    "sanitizedSymbol": "RIZZKITTY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5d71165BEf248e1030cBCbfD4c03Bb462E6b7EC0",
+    "lpNftId": "1251331",
+    "lockerAddress": "0xfe6CEc333DbBbf5B7a0E641A87a702c315C8aee7"
+  },
+  "clankerInfo": null
+}

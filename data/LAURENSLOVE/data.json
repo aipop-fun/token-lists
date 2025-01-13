@@ -1,0 +1,22 @@
+{
+  "name": "LaurensLove",
+  "symbol": "LaurensLove",
+  "decimals": 18,
+  "description": "LaurensLove is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LaurensLove",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LaurensLove",
+  "addresses": {
+    "8453": "0x15bd8f15d0c2e572bf93240383f1c0e1084b081b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LaurensLove",
+    "sanitizedSymbol": "LAURENSLOVE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150362",
+    "lockerAddress": "0xe188834301BeC6dc46816b231dE8C24192786300"
+  },
+  "clankerInfo": null
+}

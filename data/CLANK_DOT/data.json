@@ -1,0 +1,22 @@
+{
+  "name": "Clank Dot",
+  "symbol": "Clank Dot",
+  "decimals": 18,
+  "description": "Clank Dot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Dot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Dot",
+  "addresses": {
+    "8453": "0x2a04c117a8ef6f07bfba8cb4496e49ad7b2b50c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Dot",
+    "sanitizedSymbol": "CLANK_DOT",
+    "created_at": "2024-12-11T21:39:57.264778",
+    "deployer": "0x89169e87006c2DC37e38686033F72289a027394e",
+    "lpNftId": "1426416",
+    "lockerAddress": "0x8B4986b746C13ab5d33464B9dEcFf9ffe1B7a4c1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "POPKAT",
+  "symbol": "POPKAT",
+  "decimals": 18,
+  "description": "POPKAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POPKAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POPKAT",
+  "addresses": {
+    "8453": "0x16c34008348749c86477ac10628c42784076ca87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POPKAT",
+    "sanitizedSymbol": "POPKAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5c509B6B77BBEd2d819B1155A0E88481a3C947c0",
+    "lpNftId": "1320710",
+    "lockerAddress": "0xE6FbE0A365060788E0C6b506244F2dE70CfDe175"
+  },
+  "clankerInfo": null
+}

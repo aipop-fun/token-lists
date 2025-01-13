@@ -1,0 +1,22 @@
+{
+  "name": "Trai On Day",
+  "symbol": "Trai On Day",
+  "decimals": 18,
+  "description": "Trai On Day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trai%20On%20Day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trai On Day",
+  "addresses": {
+    "8453": "0x18f26de251e7303d411cf4c6e39cf5ae57e91002"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trai On Day",
+    "sanitizedSymbol": "TRAI_ON_DAY",
+    "created_at": "2024-12-10T09:39:44.785835",
+    "deployer": "0xaB4EB9B3Bb2073Ff1e8c70A17720CB2EDCc13fA6",
+    "lpNftId": "1399290",
+    "lockerAddress": "0xdF816435eCfc40180Ca0b4369e88572D996595b0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fat rat",
+  "symbol": "fat rat",
+  "decimals": 18,
+  "description": "fat rat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fat%20rat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fat rat",
+  "addresses": {
+    "8453": "0x3b1e5a45870a6c54d7b74e5e6b1be23c36fc85c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fat rat",
+    "sanitizedSymbol": "FAT_RAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220700",
+    "lockerAddress": "0xeFe38B944eF2E8b55b88Ab4b7f35469FF5BB4a3F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dolphin",
+  "symbol": "dolphin",
+  "decimals": 18,
+  "description": "dolphin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dolphin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dolphin",
+  "addresses": {
+    "8453": "0x2e6e96a6026a98ceff998068b55756fb0ec5efc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dolphin",
+    "sanitizedSymbol": "DOLPHIN_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5dFc6294FE6E30e8F555998E1601DA99589349F9",
+    "lpNftId": "1311703",
+    "lockerAddress": "0xE4466FB9aF3bf5F1277cB6E981E31677a15d3543"
+  },
+  "clankerInfo": null
+}

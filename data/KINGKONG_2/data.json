@@ -1,0 +1,22 @@
+{
+  "name": "kingkong",
+  "symbol": "kingkong",
+  "decimals": 18,
+  "description": "kingkong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kingkong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kingkong",
+  "addresses": {
+    "8453": "0x055051e38302f7e2205b84d966dd5ef6eae9c84d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kingkong",
+    "sanitizedSymbol": "KINGKONG_2",
+    "created_at": "2024-12-09T04:20:47.651674",
+    "deployer": "0x487ed060bcDE72C636355E62429762B519458a20",
+    "lpNftId": "1381557",
+    "lockerAddress": "0x854e08184f5983317CF0C363b2FAd114AF915EA8"
+  },
+  "clankerInfo": null
+}

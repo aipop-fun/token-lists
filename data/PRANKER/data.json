@@ -1,0 +1,22 @@
+{
+  "name": "Pranker",
+  "symbol": "Pranker",
+  "decimals": 18,
+  "description": "Pranker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pranker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pranker",
+  "addresses": {
+    "8453": "0x22ac559302b819bff96626e93b1c4f43b3b85b32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pranker",
+    "sanitizedSymbol": "PRANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119658",
+    "lockerAddress": "0xa093F5454aCb2836300A11ADaCF5E11E4ef78ae1"
+  },
+  "clankerInfo": null
+}

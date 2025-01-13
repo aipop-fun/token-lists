@@ -1,0 +1,22 @@
+{
+  "name": "Tobie",
+  "symbol": "Tobie",
+  "decimals": 18,
+  "description": "Tobie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tobie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tobie",
+  "addresses": {
+    "8453": "0x0e7150ad0cb5e3a4dca3c0d3e6ff9ba975e64969"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tobie",
+    "sanitizedSymbol": "TOBIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x618715e04a5f3cE5dCfbCbCAd78b0973521D5F1F",
+    "lpNftId": "1286627",
+    "lockerAddress": "0x4D12936533864A0e78f2B38dE75443eB4bF36f97"
+  },
+  "clankerInfo": null
+}

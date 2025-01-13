@@ -1,0 +1,22 @@
+{
+  "name": "sausage",
+  "symbol": "sausage",
+  "decimals": 18,
+  "description": "sausage is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sausage",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sausage",
+  "addresses": {
+    "8453": "0x0fb126e9468dcc22db48b70f4ca197ffd5c6ad9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sausage",
+    "sanitizedSymbol": "SAUSAGE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x19C7b1609D7c1a291C6a4cfcDa2FC102dB066b0F",
+    "lpNftId": "1253350",
+    "lockerAddress": "0xB8976b0829C16590d7CDB1e7D441d945DB33ccfF"
+  },
+  "clankerInfo": null
+}

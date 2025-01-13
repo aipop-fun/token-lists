@@ -1,0 +1,22 @@
+{
+  "name": "NUTS",
+  "symbol": "NUTS",
+  "decimals": 18,
+  "description": "NUTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NUTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NUTS",
+  "addresses": {
+    "8453": "0x20b5f7deba9fe3a9979d706914d23e3b47c66c4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NUTS",
+    "sanitizedSymbol": "NUTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74e2b970218eDC202c2721200D3Fa089c681F25A",
+    "lpNftId": "1318721",
+    "lockerAddress": "0xbC1B866112b2c5E4724802a87F7BcA492F3ab22A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Not Eligible",
+  "symbol": "Not Eligible",
+  "decimals": 18,
+  "description": "Not Eligible is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Eligible",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Eligible",
+  "addresses": {
+    "8453": "0x16f318ecb1a34168c62f963ea3499bec3149b429"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Eligible",
+    "sanitizedSymbol": "NOT_ELIGIBLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x183Ae8774788c92F9824E837689f14a94863be3F",
+    "lpNftId": "1322769",
+    "lockerAddress": "0x0e12020Ef9babdB8856FB29e6FE2594B8207B19b"
+  },
+  "clankerInfo": null
+}

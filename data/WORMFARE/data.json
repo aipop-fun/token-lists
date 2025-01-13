@@ -1,0 +1,22 @@
+{
+  "name": "Wormfare",
+  "symbol": "Wormfare",
+  "decimals": 18,
+  "description": "Wormfare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wormfare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wormfare",
+  "addresses": {
+    "8453": "0x3ef2755a88a9192bfaf36df5938cc76e31a03329"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wormfare",
+    "sanitizedSymbol": "WORMFARE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1323997",
+    "lockerAddress": "0xC63E14d83A68BeE951e05f71FAfC4C71a7990078"
+  },
+  "clankerInfo": null
+}

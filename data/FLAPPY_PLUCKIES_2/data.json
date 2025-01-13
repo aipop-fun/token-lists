@@ -1,0 +1,22 @@
+{
+  "name": "Flappy Pluckies",
+  "symbol": "Flappy Pluckies",
+  "decimals": 18,
+  "description": "Flappy Pluckies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flappy%20Pluckies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flappy Pluckies",
+  "addresses": {
+    "8453": "0x3690d7650f6a1babd2000fbc003537f1c23f8aea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flappy Pluckies",
+    "sanitizedSymbol": "FLAPPY_PLUCKIES_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB1dBeB6Ae12e7e3dd9f762313579fA69F384b6ab",
+    "lpNftId": "1281087",
+    "lockerAddress": "0xf3d7698dE0E51504994658553BD9f72EA0E71967"
+  },
+  "clankerInfo": null
+}

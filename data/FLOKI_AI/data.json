@@ -1,0 +1,22 @@
+{
+  "name": "FLOKI AI",
+  "symbol": "FLOKI AI",
+  "decimals": 18,
+  "description": "FLOKI AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLOKI%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLOKI AI",
+  "addresses": {
+    "8453": "0x14c41c0a62dc127f63140d7c9d37996e7313e3a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLOKI AI",
+    "sanitizedSymbol": "FLOKI_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2a5c0Be72a5903B37b02Ce3A62302d89Ae49dFd1",
+    "lpNftId": "1320501",
+    "lockerAddress": "0xD11aa0b3812c05893e94e82bb55019998E7eCeAd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NERO",
+  "symbol": "NERO",
+  "decimals": 18,
+  "description": "NERO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NERO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NERO",
+  "addresses": {
+    "8453": "0x38bdb71207bf4958611e2cd66b38037530aadf17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NERO",
+    "sanitizedSymbol": "NERO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221743",
+    "lockerAddress": "0xA309607FfBD411A8E9C43a3b7197bB2474Da361f"
+  },
+  "clankerInfo": null
+}

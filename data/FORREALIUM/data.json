@@ -1,0 +1,22 @@
+{
+  "name": "Forrealium",
+  "symbol": "Forrealium",
+  "decimals": 18,
+  "description": "Forrealium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Forrealium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Forrealium",
+  "addresses": {
+    "8453": "0x160f1e9faf1d8d494b321ca41fd0780e4ca9afee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Forrealium",
+    "sanitizedSymbol": "FORREALIUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x126C92Fe02303028842e5f1e705B276de2593300",
+    "lpNftId": "1328989",
+    "lockerAddress": "0x0e1bFE1Fe54e5d32335AcD74A846858906d2b417"
+  },
+  "clankerInfo": null
+}

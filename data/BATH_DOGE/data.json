@@ -1,0 +1,22 @@
+{
+  "name": "Bath Doge",
+  "symbol": "Bath Doge",
+  "decimals": 18,
+  "description": "Bath Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bath%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bath Doge",
+  "addresses": {
+    "8453": "0x3301124968392cbc8387e04a34fd6dde64643aa3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bath Doge",
+    "sanitizedSymbol": "BATH_DOGE",
+    "created_at": "2024-12-11T02:14:25.729917",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1410593",
+    "lockerAddress": "0x3Ed94a26834BDe426C3eAa77019E70F7Afba4872"
+  },
+  "clankerInfo": null
+}

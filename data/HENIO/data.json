@@ -1,0 +1,22 @@
+{
+  "name": "henIo",
+  "symbol": "henIo",
+  "decimals": 18,
+  "description": "henIo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=henIo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "henIo",
+  "addresses": {
+    "8453": "0x41f88873001426feac02a611c57f5e416e4c4f41"
+  },
+  "tokenInfo": {
+    "originalSymbol": "henIo",
+    "sanitizedSymbol": "HENIO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x594bf8496a39C5E5d5f0AB1eC00fD5004923BC31",
+    "lpNftId": "1285150",
+    "lockerAddress": "0xefeE1d3Ec6418193BF576C08C8Ec0732748D863c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Biaoqin",
+  "symbol": "Biaoqin",
+  "decimals": 18,
+  "description": "Biaoqin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Biaoqin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Biaoqin",
+  "addresses": {
+    "8453": "0x218a416dce45bcb684bd048db6fad054dffdbe05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Biaoqin",
+    "sanitizedSymbol": "BIAOQIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1357376",
+    "lockerAddress": "0x68281F1ab310Fe9f4E6527Db4534280Fab384BCf"
+  },
+  "clankerInfo": null
+}

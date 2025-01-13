@@ -1,0 +1,22 @@
+{
+  "name": "DOGS",
+  "symbol": "DOGS",
+  "decimals": 18,
+  "description": "DOGS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGS",
+  "addresses": {
+    "8453": "0x3112a117daffcf98b0c1d27b38548516f3969843"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGS",
+    "sanitizedSymbol": "DOGS_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1346958",
+    "lockerAddress": "0x0F07daa9b42370Dbce84119Da39f3381e351d7a3"
+  },
+  "clankerInfo": null
+}

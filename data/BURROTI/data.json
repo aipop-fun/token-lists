@@ -1,0 +1,22 @@
+{
+  "name": "BURROTI",
+  "symbol": "BURROTI",
+  "decimals": 18,
+  "description": "BURROTI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BURROTI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BURROTI",
+  "addresses": {
+    "8453": "0x097745f2fb83c104543f93e528b455fc3ce392b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BURROTI",
+    "sanitizedSymbol": "BURROTI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119458",
+    "lockerAddress": "0x722bB0433b48817CfF2dbb88e50c81230E10f4Ed"
+  },
+  "clankerInfo": null
+}

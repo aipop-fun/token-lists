@@ -1,0 +1,22 @@
+{
+  "name": "bocil",
+  "symbol": "bocil",
+  "decimals": 18,
+  "description": "bocil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bocil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bocil",
+  "addresses": {
+    "8453": "0x372e987e5504f297411f145a1128a3d9eb9963e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bocil",
+    "sanitizedSymbol": "BOCIL",
+    "created_at": "2024-12-10T07:10:53.972467",
+    "deployer": "0x8391c51D6C7C0b5650A22551D137799a35C9BcC9",
+    "lpNftId": "1397673",
+    "lockerAddress": "0xc328C2825106d16e2137e1444fd73e8aC46b3a53"
+  },
+  "clankerInfo": null
+}

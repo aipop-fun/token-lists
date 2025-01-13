@@ -1,0 +1,22 @@
+{
+  "name": "Fair Social",
+  "symbol": "Fair Social",
+  "decimals": 18,
+  "description": "Fair Social is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fair%20Social",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fair Social",
+  "addresses": {
+    "8453": "0x1f77d9ff19feecd86ac38b9e57c36de87a6584bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fair Social",
+    "sanitizedSymbol": "FAIR_SOCIAL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217379",
+    "lockerAddress": "0xEA6520E9A6497C80A6ea8586d6f2020e12951568"
+  },
+  "clankerInfo": null
+}

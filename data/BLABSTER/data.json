@@ -1,0 +1,22 @@
+{
+  "name": "Blabster",
+  "symbol": "Blabster",
+  "decimals": 18,
+  "description": "Blabster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blabster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blabster",
+  "addresses": {
+    "8453": "0x1bd1476646125e3105906e93f0691fbab73708e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blabster",
+    "sanitizedSymbol": "BLABSTER",
+    "created_at": "2024-12-10T02:44:07.66764",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395312",
+    "lockerAddress": "0x1f2E3B95C38b3b9C87888081951444523e2F2FE5"
+  },
+  "clankerInfo": null
+}

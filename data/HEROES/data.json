@@ -1,0 +1,22 @@
+{
+  "name": "HEROES",
+  "symbol": "HEROES",
+  "decimals": 18,
+  "description": "HEROES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEROES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEROES",
+  "addresses": {
+    "8453": "0x03f8e41d0aacdfd9520d38ca19fb58c7889fbc74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEROES",
+    "sanitizedSymbol": "HEROES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213527",
+    "lockerAddress": "0xBA3018DF61d5bc3a358332eEa224dCbDA5df46B7"
+  },
+  "clankerInfo": null
+}

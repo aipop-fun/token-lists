@@ -1,0 +1,22 @@
+{
+  "name": "BasedFather",
+  "symbol": "BasedFather",
+  "decimals": 18,
+  "description": "BasedFather is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedFather",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedFather",
+  "addresses": {
+    "8453": "0x31f58ff28ed31cb5a7727d3918bdf2fde27f0de5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedFather",
+    "sanitizedSymbol": "BASEDFATHER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1A5F6f16B81627fF22C36614D7ba59A4EFC2E206",
+    "lpNftId": "1309850",
+    "lockerAddress": "0x0f7355Ac29203F3e6a418C2f3F63b656461168da"
+  },
+  "clankerInfo": null
+}

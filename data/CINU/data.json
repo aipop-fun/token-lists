@@ -1,0 +1,22 @@
+{
+  "name": "CINU",
+  "symbol": "CINU",
+  "decimals": 18,
+  "description": "CINU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CINU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CINU",
+  "addresses": {
+    "8453": "0x0f5d7ada6eb3ffbc0e1949941e3c66761c446b40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CINU",
+    "sanitizedSymbol": "CINU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1CbFbF60552E4ce181d8E4A66E26D32F3182d65e",
+    "lpNftId": "1268941",
+    "lockerAddress": "0xB8b44a1bFe222f5C675Acd60169197a9d6932D9E"
+  },
+  "clankerInfo": null
+}

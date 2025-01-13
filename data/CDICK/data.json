@@ -1,0 +1,22 @@
+{
+  "name": "Cdick",
+  "symbol": "Cdick",
+  "decimals": 18,
+  "description": "Cdick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cdick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cdick",
+  "addresses": {
+    "8453": "0x0b1655c14d02178601a6c7d1cfafaa254af3c88b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cdick",
+    "sanitizedSymbol": "CDICK",
+    "created_at": "2024-12-11T23:40:25.50152",
+    "deployer": "0xaD079f5a61DB71F1C3bc7bB38a4dd3f56e1AE1a9",
+    "lpNftId": "1427968",
+    "lockerAddress": "0xCC12933c9a0dC7e3eF408ac081A5708c1a56eb81"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fisrt",
+  "symbol": "fisrt",
+  "decimals": 18,
+  "description": "fisrt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fisrt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fisrt",
+  "addresses": {
+    "8453": "0x087d9e71b4f0c89cd673e1418295b0febd86c00f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fisrt",
+    "sanitizedSymbol": "FISRT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x0000000000D3E01A7e12529c7065F17bE82DFF57",
+    "lpNftId": "1133653",
+    "lockerAddress": "0x8f9e0EFB033DF910FD2A1C0365A5b7D36f9F0b56"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$HIT",
+  "symbol": "$HIT",
+  "decimals": 18,
+  "description": "$HIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24HIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$HIT",
+  "addresses": {
+    "8453": "0x3eab55fba7b26048a5cf4f16a290832814720c83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$HIT",
+    "sanitizedSymbol": "HIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229681",
+    "lockerAddress": "0x1E04Fd8d7527d7c51951aCa1e0710bf422d8b596"
+  },
+  "clankerInfo": null
+}

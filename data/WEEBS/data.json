@@ -1,0 +1,22 @@
+{
+  "name": "Weebs",
+  "symbol": "Weebs",
+  "decimals": 18,
+  "description": "Weebs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weebs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weebs",
+  "addresses": {
+    "8453": "0x02ef67ebb2119bb849b19131d9a3edbd176ee9e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weebs",
+    "sanitizedSymbol": "WEEBS",
+    "created_at": "2024-12-11T13:40:42.217385",
+    "deployer": "0x9738E50610Be09529eDd5AD649FeEF69827d46F4",
+    "lpNftId": "1419339",
+    "lockerAddress": "0x33be466E2B2F50074bC3DF654d17A9C7C16A1b6a"
+  },
+  "clankerInfo": null
+}

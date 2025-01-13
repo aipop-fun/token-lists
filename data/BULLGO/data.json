@@ -1,0 +1,22 @@
+{
+  "name": "BULLGO",
+  "symbol": "BULLGO",
+  "decimals": 18,
+  "description": "BULLGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BULLGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BULLGO",
+  "addresses": {
+    "8453": "0x21b570759b1f5cdfb550c7f0305c91009527917d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BULLGO",
+    "sanitizedSymbol": "BULLGO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa8B8787700Bc549d9c717104aAA2C4c1cC0b089f",
+    "lpNftId": "1312347",
+    "lockerAddress": "0xb81988FCCd5a8b3c57dc2cDccE29C6899909eE04"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SuiSurfer",
+  "symbol": "SuiSurfer",
+  "decimals": 18,
+  "description": "SuiSurfer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuiSurfer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuiSurfer",
+  "addresses": {
+    "8453": "0x3598162f6379eb986083fc082126aeadd2880c42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuiSurfer",
+    "sanitizedSymbol": "SUISURFER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160975",
+    "lockerAddress": "0x69042b5Cc5dD6411aBa2aA463AEB7DEd9D7a2A8a"
+  },
+  "clankerInfo": null
+}

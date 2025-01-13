@@ -1,0 +1,22 @@
+{
+  "name": "Maretus Effect",
+  "symbol": "Maretus Effect",
+  "decimals": 18,
+  "description": "Maretus Effect is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maretus%20Effect",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maretus Effect",
+  "addresses": {
+    "8453": "0x00f69026b3ab4af3802206ca090d209fff26fe11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maretus Effect",
+    "sanitizedSymbol": "MARETUS_EFFECT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8083A889763D3Dcad1898C2E62D11B9B25E005A1",
+    "lpNftId": "1331579",
+    "lockerAddress": "0x9b7D736B1bdB096e2106d115C043EF0B772cc6A5"
+  },
+  "clankerInfo": null
+}

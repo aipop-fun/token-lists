@@ -1,0 +1,22 @@
+{
+  "name": "dinner with candles",
+  "symbol": "dinner with candles",
+  "decimals": 18,
+  "description": "dinner with candles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dinner%20with%20candles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dinner with candles",
+  "addresses": {
+    "8453": "0x0faa96a453909ac71c3a681319805bc50dd2cdc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dinner with candles",
+    "sanitizedSymbol": "DINNER_WITH_CANDLES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x64FbC39586Ed96981b8AF80a89bf7A604ac893a9",
+    "lpNftId": "1282764",
+    "lockerAddress": "0x38290684e173e577656AD7531b98F159a7aCe65D"
+  },
+  "clankerInfo": null
+}

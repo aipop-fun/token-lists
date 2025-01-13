@@ -1,0 +1,22 @@
+{
+  "name": "Kevin's Back",
+  "symbol": "Kevin's Back",
+  "decimals": 18,
+  "description": "Kevin's Back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kevin's%20Back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kevin's Back",
+  "addresses": {
+    "8453": "0x268cb07354386ad6d40a7b5b5f5c7751ad1adaac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kevin's Back",
+    "sanitizedSymbol": "KEVIN_S_BACK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213364",
+    "lockerAddress": "0x810c28Ef05e76ae6C60184ab941211Ee09985C17"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Booba",
+  "symbol": "Booba",
+  "decimals": 18,
+  "description": "Booba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Booba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Booba",
+  "addresses": {
+    "8453": "0x10ed00cfc1a3a957b2851d440523ebb318ae4760"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Booba",
+    "sanitizedSymbol": "BOOBA_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8298F68E2eF119B9Ec80BFf4697BaA4e52be8718",
+    "lpNftId": "1267326",
+    "lockerAddress": "0xe0CCC3535D91bABA8311cAE7124D33090C6038F0"
+  },
+  "clankerInfo": null
+}

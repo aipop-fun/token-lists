@@ -1,0 +1,22 @@
+{
+  "name": "SNIPE",
+  "symbol": "SNIPE",
+  "decimals": 18,
+  "description": "SNIPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SNIPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SNIPE",
+  "addresses": {
+    "8453": "0x273cd72464b918ebf832bff2e890eb63088af2e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SNIPE",
+    "sanitizedSymbol": "SNIPE",
+    "created_at": "2024-12-09T01:18:20.940651",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1377407",
+    "lockerAddress": "0x8E6190670eABbfE89CD42A79881cBD4abFE037a0"
+  },
+  "clankerInfo": null
+}

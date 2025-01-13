@@ -1,0 +1,22 @@
+{
+  "name": "Hunttones",
+  "symbol": "Hunttones",
+  "decimals": 18,
+  "description": "Hunttones is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hunttones",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hunttones",
+  "addresses": {
+    "8453": "0x231554df2904a28837223046bf57a4973dfda4b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hunttones",
+    "sanitizedSymbol": "HUNTTONES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6c55545B2d5546853eeFD67e0917B99DE7b0a52B",
+    "lpNftId": "1332301",
+    "lockerAddress": "0x80115c5893D7dAFF129b58B7B1002578b5027744"
+  },
+  "clankerInfo": null
+}

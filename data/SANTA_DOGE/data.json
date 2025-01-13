@@ -1,0 +1,22 @@
+{
+  "name": "SANTA DOGE",
+  "symbol": "SANTA DOGE",
+  "decimals": 18,
+  "description": "SANTA DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA DOGE",
+  "addresses": {
+    "8453": "0x10dd7e34a8e9a8335494e7a96af909e78f62333e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA DOGE",
+    "sanitizedSymbol": "SANTA_DOGE",
+    "created_at": "2024-12-09T13:09:33.129421",
+    "deployer": "0x09826d669cd824480ef92288Ad8FCEE1Af2C4112",
+    "lpNftId": "1387290",
+    "lockerAddress": "0xD268bc5455E1375e156aA13801640416cCAF4450"
+  },
+  "clankerInfo": null
+}

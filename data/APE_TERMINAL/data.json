@@ -1,0 +1,22 @@
+{
+  "name": "Ape Terminal",
+  "symbol": "Ape Terminal",
+  "decimals": 18,
+  "description": "Ape Terminal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ape%20Terminal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ape Terminal",
+  "addresses": {
+    "8453": "0x138389419e70bc5620fc185273f7e28947fb4fcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ape Terminal",
+    "sanitizedSymbol": "APE_TERMINAL",
+    "created_at": "2024-12-10T13:22:16.928813",
+    "deployer": "0x73D1aA788C87CB2EF0843a8d638D7399b1608A65",
+    "lpNftId": "1401489",
+    "lockerAddress": "0x1477D939610401B8b3ADD4Ba5185181c5206a764"
+  },
+  "clankerInfo": null
+}

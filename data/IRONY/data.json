@@ -1,0 +1,22 @@
+{
+  "name": "Irony",
+  "symbol": "Irony",
+  "decimals": 18,
+  "description": "Irony is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Irony",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Irony",
+  "addresses": {
+    "8453": "0x0150eb0858954f9555b1533c8eee82032381b0b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Irony",
+    "sanitizedSymbol": "IRONY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236653",
+    "lockerAddress": "0x08628704658210dCa53115394D009CBe5f07f8b4"
+  },
+  "clankerInfo": null
+}

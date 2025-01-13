@@ -1,0 +1,22 @@
+{
+  "name": "Anon Emoji",
+  "symbol": "Anon Emoji",
+  "decimals": 18,
+  "description": "Anon Emoji is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Emoji",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Emoji",
+  "addresses": {
+    "8453": "0x270c35883e8573fef6860de66db1673e82f35b2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Emoji",
+    "sanitizedSymbol": "ANON_EMOJI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2a32Bc742d26c315084C2B92Ee74cD9FE9192646",
+    "lpNftId": "1265871",
+    "lockerAddress": "0x442fb11Aad9FfaA4a1d320f4c1be4E7E1C64c2BE"
+  },
+  "clankerInfo": null
+}

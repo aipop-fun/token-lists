@@ -1,0 +1,22 @@
+{
+  "name": "JOJI",
+  "symbol": "JOJI",
+  "decimals": 18,
+  "description": "JOJI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JOJI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JOJI",
+  "addresses": {
+    "8453": "0x1f09f2ecf3af90cd8fff208db73acb617c51b5ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JOJI",
+    "sanitizedSymbol": "JOJI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1123910",
+    "lockerAddress": "0xE087201bD6520998363C365973E5Ec2b1d4B5c88"
+  },
+  "clankerInfo": null
+}

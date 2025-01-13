@@ -1,0 +1,22 @@
+{
+  "name": "BTC New ATH",
+  "symbol": "BTC New ATH",
+  "decimals": 18,
+  "description": "BTC New ATH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC%20New%20ATH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC New ATH",
+  "addresses": {
+    "8453": "0x2ef958c2fc0361f6e7cb159d2174c10066cd9e87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC New ATH",
+    "sanitizedSymbol": "BTC_NEW_ATH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1328510",
+    "lockerAddress": "0x0b620E058Cb1d9D72300dae6a580b9F6a18Bd09b"
+  },
+  "clankerInfo": null
+}

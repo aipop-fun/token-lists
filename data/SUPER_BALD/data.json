@@ -1,0 +1,22 @@
+{
+  "name": "Super Bald",
+  "symbol": "Super Bald",
+  "decimals": 18,
+  "description": "Super Bald is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Bald",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Bald",
+  "addresses": {
+    "8453": "0x129b6352e0503fe81c90baf01f0c0970554af96c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Bald",
+    "sanitizedSymbol": "SUPER_BALD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218416",
+    "lockerAddress": "0x59432371A6f5316bc80bffFcB90C221e00CA7AC2"
+  },
+  "clankerInfo": null
+}

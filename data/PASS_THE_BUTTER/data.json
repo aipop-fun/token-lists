@@ -1,0 +1,22 @@
+{
+  "name": "pass the butter",
+  "symbol": "pass the butter",
+  "decimals": 18,
+  "description": "pass the butter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pass%20the%20butter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pass the butter",
+  "addresses": {
+    "8453": "0x21482a06cf1a284737a8d4085f24a41574b86c9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pass the butter",
+    "sanitizedSymbol": "PASS_THE_BUTTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225004",
+    "lockerAddress": "0xbcBD6E9Fbd16532Aba1940D5F9651dF057686DAf"
+  },
+  "clankerInfo": null
+}

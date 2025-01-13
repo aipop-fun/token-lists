@@ -1,0 +1,22 @@
+{
+  "name": "BANANA FOR SCALE",
+  "symbol": "BANANA FOR SCALE",
+  "decimals": 18,
+  "description": "BANANA FOR SCALE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANANA%20FOR%20SCALE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANANA FOR SCALE",
+  "addresses": {
+    "8453": "0x214e2fb732094209e337fc39ed92d41e8d714dec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANANA FOR SCALE",
+    "sanitizedSymbol": "BANANA_FOR_SCALE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfFBe87856ebcA31143A59b88Db2726E773BE7194",
+    "lpNftId": "1309317",
+    "lockerAddress": "0x7652e8fc1Ab49B0918BAfFc02fe933bb8f53D38B"
+  },
+  "clankerInfo": null
+}

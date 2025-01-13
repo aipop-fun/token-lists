@@ -1,0 +1,22 @@
+{
+  "name": "chillbased",
+  "symbol": "chillbased",
+  "decimals": 18,
+  "description": "chillbased is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillbased",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillbased",
+  "addresses": {
+    "8453": "0x140c345c6bafdee873d0add1c537a5292f4610a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillbased",
+    "sanitizedSymbol": "CHILLBASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA656970460A8911D1758C6bE19367BB4A032f061",
+    "lpNftId": "1291806",
+    "lockerAddress": "0xc23bD67fbEf413bFb9066b2c9bde4c37dFd7dfe5"
+  },
+  "clankerInfo": null
+}

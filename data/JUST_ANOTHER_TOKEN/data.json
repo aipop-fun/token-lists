@@ -1,0 +1,22 @@
+{
+  "name": "Just another token",
+  "symbol": "Just another token",
+  "decimals": 18,
+  "description": "Just another token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20another%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just another token",
+  "addresses": {
+    "8453": "0x3831029c18e2f4d6060ccb32267a6fb2af2b25a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just another token",
+    "sanitizedSymbol": "JUST_ANOTHER_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65",
+    "lpNftId": "1312018",
+    "lockerAddress": "0xd11e413dB374cBcDD6265179450B7938B0ae5AF0"
+  },
+  "clankerInfo": null
+}

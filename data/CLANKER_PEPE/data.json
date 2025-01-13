@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Pepe",
+  "symbol": "Clanker Pepe",
+  "decimals": 18,
+  "description": "Clanker Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Pepe",
+  "addresses": {
+    "8453": "0x2a497866a3fbb235ac74b1bbce138a655de8ee3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Pepe",
+    "sanitizedSymbol": "CLANKER_PEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1336376",
+    "lockerAddress": "0xe6C941D413A6A4CE71FDDe5b826D787a9A499396"
+  },
+  "clankerInfo": null
+}

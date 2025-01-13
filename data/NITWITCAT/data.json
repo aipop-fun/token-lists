@@ -1,0 +1,22 @@
+{
+  "name": "NITWITCAT",
+  "symbol": "NITWITCAT",
+  "decimals": 18,
+  "description": "NITWITCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NITWITCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NITWITCAT",
+  "addresses": {
+    "8453": "0x311c9cfab097897c2c35ec00f4df85606862cb7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NITWITCAT",
+    "sanitizedSymbol": "NITWITCAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206677",
+    "lockerAddress": "0x0482dF222E7041B4F2A6C266c7A37ef5b2604975"
+  },
+  "clankerInfo": null
+}

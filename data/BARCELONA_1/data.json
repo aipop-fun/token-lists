@@ -1,0 +1,22 @@
+{
+  "name": "BARCELONA",
+  "symbol": "BARCELONA",
+  "decimals": 18,
+  "description": "BARCELONA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BARCELONA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BARCELONA",
+  "addresses": {
+    "8453": "0x0bfe93084f14e244c336ef79b13ad5a010affa58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BARCELONA",
+    "sanitizedSymbol": "BARCELONA_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1313022",
+    "lockerAddress": "0xb405aB098D1b486B24664e82346720C4a9658907"
+  },
+  "clankerInfo": null
+}

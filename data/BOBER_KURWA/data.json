@@ -1,0 +1,22 @@
+{
+  "name": "Bober kurwa",
+  "symbol": "Bober kurwa",
+  "decimals": 18,
+  "description": "Bober kurwa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bober%20kurwa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bober kurwa",
+  "addresses": {
+    "8453": "0x305a3f3b3e7e101b422e5432c03ea65bec589181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bober kurwa",
+    "sanitizedSymbol": "BOBER_KURWA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226012",
+    "lockerAddress": "0x570957E6C01eD930B8c1473046810Be58172723a"
+  },
+  "clankerInfo": null
+}

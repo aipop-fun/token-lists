@@ -1,0 +1,22 @@
+{
+  "name": "Tom Clanks",
+  "symbol": "Tom Clanks",
+  "decimals": 18,
+  "description": "Tom Clanks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tom%20Clanks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tom Clanks",
+  "addresses": {
+    "8453": "0x13c75a412e7322614d40a963497869779deca75b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tom Clanks",
+    "sanitizedSymbol": "TOM_CLANKS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216286",
+    "lockerAddress": "0x3e0706CEeFd8BE8Aacf535349aDbAe96B8609Bd0"
+  },
+  "clankerInfo": null
+}

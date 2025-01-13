@@ -1,0 +1,22 @@
+{
+  "name": "Enemy",
+  "symbol": "Enemy",
+  "decimals": 18,
+  "description": "Enemy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Enemy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Enemy",
+  "addresses": {
+    "8453": "0x1dc0ee883ec1db76f397e0dc0383d5c30dc8287d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Enemy",
+    "sanitizedSymbol": "ENEMY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193995",
+    "lockerAddress": "0x66a0D3582863C541ac639Aca54b8efAdA7994bf9"
+  },
+  "clankerInfo": null
+}

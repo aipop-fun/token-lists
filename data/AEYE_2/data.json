@@ -1,0 +1,22 @@
+{
+  "name": "AEYE",
+  "symbol": "AEYE",
+  "decimals": 18,
+  "description": "AEYE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AEYE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AEYE",
+  "addresses": {
+    "8453": "0x3ebf5d0e0a27f77c099ae71894bc4f478749472a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AEYE",
+    "sanitizedSymbol": "AEYE_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229627",
+    "lockerAddress": "0xcb4BDe30A0FC252E870D086ab64C2EFF39A3c9f3"
+  },
+  "clankerInfo": null
+}

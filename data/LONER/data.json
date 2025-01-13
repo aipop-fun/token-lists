@@ -1,0 +1,22 @@
+{
+  "name": "Loner",
+  "symbol": "Loner",
+  "decimals": 18,
+  "description": "Loner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Loner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Loner",
+  "addresses": {
+    "8453": "0x21e5cb7f92c8e6fffdc4a87438b16a3bc5ff3464"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Loner",
+    "sanitizedSymbol": "LONER",
+    "created_at": "2024-12-12T20:53:48.71982",
+    "deployer": "0xfAEe785c6B076052Bf1BAfbbc436AEEbDA69Db20",
+    "lpNftId": "1442828",
+    "lockerAddress": "0x9B022911A894F36a70519075cc8D1Fa269EC1701"
+  },
+  "clankerInfo": null
+}

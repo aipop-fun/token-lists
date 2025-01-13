@@ -1,0 +1,22 @@
+{
+  "name": "ChadFinance",
+  "symbol": "ChadFinance",
+  "decimals": 18,
+  "description": "ChadFinance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChadFinance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChadFinance",
+  "addresses": {
+    "8453": "0x0f5370043455c1dc654f6ef6345dfdad6cd3308b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChadFinance",
+    "sanitizedSymbol": "CHADFINANCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166189",
+    "lockerAddress": "0xe896914b7f735CfeDD9595fD65411c39505F9063"
+  },
+  "clankerInfo": null
+}

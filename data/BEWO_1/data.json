@@ -1,0 +1,22 @@
+{
+  "name": "BEWO",
+  "symbol": "BEWO",
+  "decimals": 18,
+  "description": "BEWO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEWO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEWO",
+  "addresses": {
+    "8453": "0x3563f203829bb287115332dff52be7f92474a923"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEWO",
+    "sanitizedSymbol": "BEWO_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1B81E2d26612f2D7946Bb3A263B1e064F6C288f7",
+    "lpNftId": "1252480",
+    "lockerAddress": "0xE91ea1BeC2FcFD3Ab9fbf4F3658B3301023C0F70"
+  },
+  "clankerInfo": null
+}

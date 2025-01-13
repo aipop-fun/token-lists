@@ -1,0 +1,22 @@
+{
+  "name": "Stank Face Clank",
+  "symbol": "Stank Face Clank",
+  "decimals": 18,
+  "description": "Stank Face Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stank%20Face%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stank Face Clank",
+  "addresses": {
+    "8453": "0x21b03c3ea490de4ed93c68b1217b05006e00a4a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stank Face Clank",
+    "sanitizedSymbol": "STANK_FACE_CLANK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1245933",
+    "lockerAddress": "0xE083cf51bf638DE4ed9D8ef1e97dEB2e0B3f1802"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "pumpkin",
+  "symbol": "pumpkin",
+  "decimals": 18,
+  "description": "pumpkin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pumpkin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pumpkin",
+  "addresses": {
+    "8453": "0x3493749a6b8018f2091da35d4525d7a41555086a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pumpkin",
+    "sanitizedSymbol": "PUMPKIN",
+    "created_at": "2024-12-10T17:31:18.915806",
+    "deployer": "0x1a417383cCB925DBdE3Ad54C0B3F373fAbD15804",
+    "lpNftId": "1404662",
+    "lockerAddress": "0x459e65Ab7CC667663c9a50C2BDF0564308AD9e2a"
+  },
+  "clankerInfo": null
+}

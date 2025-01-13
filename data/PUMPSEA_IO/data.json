@@ -1,0 +1,22 @@
+{
+  "name": "Pumpsea.io",
+  "symbol": "Pumpsea.io",
+  "decimals": 18,
+  "description": "Pumpsea.io is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pumpsea.io",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pumpsea.io",
+  "addresses": {
+    "8453": "0x0af2ff93ab73ebdd663bde5357af960c78212132"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pumpsea.io",
+    "sanitizedSymbol": "PUMPSEA_IO",
+    "created_at": "2024-12-12T06:57:42.318783",
+    "deployer": "0x3F18F3da2a49b493D171d7cAbD358338af9e5B71",
+    "lpNftId": "1429663",
+    "lockerAddress": "0xEaa62DdfF18F1Da8c7DD36FAF876Ed7d9DE24EC2"
+  },
+  "clankerInfo": null
+}

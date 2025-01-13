@@ -1,0 +1,22 @@
+{
+  "name": "InfinityCoin",
+  "symbol": "InfinityCoin",
+  "decimals": 18,
+  "description": "InfinityCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=InfinityCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "InfinityCoin",
+  "addresses": {
+    "8453": "0x242e7b39e362aa630dfcd2c36ffb6c351ff66248"
+  },
+  "tokenInfo": {
+    "originalSymbol": "InfinityCoin",
+    "sanitizedSymbol": "INFINITYCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132451",
+    "lockerAddress": "0x0c593Db0366F4c65b9d498508D9919B20399BeB8"
+  },
+  "clankerInfo": null
+}

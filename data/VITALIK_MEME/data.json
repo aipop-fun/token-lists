@@ -1,0 +1,22 @@
+{
+  "name": "vitalik meme",
+  "symbol": "vitalik meme",
+  "decimals": 18,
+  "description": "vitalik meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vitalik%20meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vitalik meme",
+  "addresses": {
+    "8453": "0x1c0f9ec03d74959a1b9342afd8efd91b92b99303"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vitalik meme",
+    "sanitizedSymbol": "VITALIK_MEME",
+    "created_at": "2024-12-10T11:24:49.070709",
+    "deployer": "0x8391c51D6C7C0b5650A22551D137799a35C9BcC9",
+    "lpNftId": "1400203",
+    "lockerAddress": "0xfa7595F8Eec43d700608FF5d8333d715695FaCC2"
+  },
+  "clankerInfo": null
+}

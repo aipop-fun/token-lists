@@ -1,0 +1,22 @@
+{
+  "name": "OFF",
+  "symbol": "OFF",
+  "decimals": 18,
+  "description": "OFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OFF",
+  "addresses": {
+    "8453": "0x0228e1e4af25baa6b48da6df14bdab4c71e96216"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OFF",
+    "sanitizedSymbol": "OFF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1277983",
+    "lockerAddress": "0x8011f9138E39Ab472E389F9E672Cd7813F055f61"
+  },
+  "clankerInfo": null
+}

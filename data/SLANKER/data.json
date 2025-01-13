@@ -1,0 +1,22 @@
+{
+  "name": "slanker",
+  "symbol": "slanker",
+  "decimals": 18,
+  "description": "slanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slanker",
+  "addresses": {
+    "8453": "0x2d5ca517ab298fd0ba95c76c9265d65791240bac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slanker",
+    "sanitizedSymbol": "SLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x79eDb125f22C4085A11DAACbb5Eaa8507A3759AE",
+    "lpNftId": "1265044",
+    "lockerAddress": "0x42Cb3f99BE02B058a642164d4977beF07a93b0a6"
+  },
+  "clankerInfo": null
+}

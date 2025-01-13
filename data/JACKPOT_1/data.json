@@ -1,0 +1,22 @@
+{
+  "name": "jackpot",
+  "symbol": "jackpot",
+  "decimals": 18,
+  "description": "jackpot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jackpot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jackpot",
+  "addresses": {
+    "8453": "0x0b65840e21c17a24c5ca8ac69cc6346b6c0f9594"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jackpot",
+    "sanitizedSymbol": "JACKPOT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa1f124B31238Bb1756f63f5599C14a919995f0a6",
+    "lpNftId": "1327493",
+    "lockerAddress": "0xd3e45525F98A3578d45fFa7FD735a8EC8F819b3d"
+  },
+  "clankerInfo": null
+}

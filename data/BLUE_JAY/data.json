@@ -1,0 +1,22 @@
+{
+  "name": "Blue Jay",
+  "symbol": "Blue Jay",
+  "decimals": 18,
+  "description": "Blue Jay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Jay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Jay",
+  "addresses": {
+    "8453": "0x3d1fbfe612f6f88f5f9973d30ea7f9d2a18a41ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Jay",
+    "sanitizedSymbol": "BLUE_JAY",
+    "created_at": "2024-12-10T02:38:11.351735",
+    "deployer": "0x2a0609a88B2e2a4B4beC22a67E816814722a1a84",
+    "lpNftId": "1395257",
+    "lockerAddress": "0xEDD14Ccc37d28EC8935082af1fbb859844a55F0B"
+  },
+  "clankerInfo": null
+}

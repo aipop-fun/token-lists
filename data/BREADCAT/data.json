@@ -1,0 +1,22 @@
+{
+  "name": "Breadcat",
+  "symbol": "Breadcat",
+  "decimals": 18,
+  "description": "Breadcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Breadcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Breadcat",
+  "addresses": {
+    "8453": "0x0afcf19341006266bcae92b5b25dd224b29982d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Breadcat",
+    "sanitizedSymbol": "BREADCAT",
+    "created_at": "2024-12-11T01:57:57.013771",
+    "deployer": "0x2a84F7f91B3dCfF97523d16030a2e5BdF5c40eBd",
+    "lpNftId": "1410283",
+    "lockerAddress": "0x3698e59a5c83928F7d06baa8671F86634A819608"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KryptoStar",
+  "symbol": "KryptoStar",
+  "decimals": 18,
+  "description": "KryptoStar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KryptoStar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KryptoStar",
+  "addresses": {
+    "8453": "0x1f0cc1323108e7e2284488bcfaf8731c70f3a104"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KryptoStar",
+    "sanitizedSymbol": "KRYPTOSTAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF957F6d95087142000d72B24482bCd994Ba518D1",
+    "lpNftId": "1364686",
+    "lockerAddress": "0x10783FFe7186B706B612Bf99dc7F34c248D20404"
+  },
+  "clankerInfo": null
+}

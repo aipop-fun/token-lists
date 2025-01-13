@@ -1,0 +1,22 @@
+{
+  "name": "x100",
+  "symbol": "x100",
+  "decimals": 18,
+  "description": "x100 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=x100",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "x100",
+  "addresses": {
+    "8453": "0x16ca6845a5bcea83286130ca36f1c061d0f857bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "x100",
+    "sanitizedSymbol": "X100",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125057",
+    "lockerAddress": "0xf9A88f9cE43d54beDfb975E71e90cF7d008117b8"
+  },
+  "clankerInfo": null
+}

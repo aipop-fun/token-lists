@@ -1,0 +1,22 @@
+{
+  "name": "Evil Olive",
+  "symbol": "Evil Olive",
+  "decimals": 18,
+  "description": "Evil Olive is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Evil%20Olive",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Evil Olive",
+  "addresses": {
+    "8453": "0x3f0f205aadd473d937db4a50904d252a57622999"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Evil Olive",
+    "sanitizedSymbol": "EVIL_OLIVE",
+    "created_at": "2024-12-11T14:13:01.430151",
+    "deployer": "0x3069e7A2f85e7d7874Fa448B1148ee4Abce80A19",
+    "lpNftId": "1420019",
+    "lockerAddress": "0xCe150116c32C495493Ec33A7B7BD01f8c1Cb7148"
+  },
+  "clankerInfo": null
+}

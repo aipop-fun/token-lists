@@ -1,0 +1,22 @@
+{
+  "name": "Diamond Cat",
+  "symbol": "Diamond Cat",
+  "decimals": 18,
+  "description": "Diamond Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diamond%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diamond Cat",
+  "addresses": {
+    "8453": "0x209bf6f31cede4b6da9a5f48a76d29567818826a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diamond Cat",
+    "sanitizedSymbol": "DIAMOND_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210858",
+    "lockerAddress": "0xA8B0484a1358a7C8D3320bC317bc6bC7aF802618"
+  },
+  "clankerInfo": null
+}

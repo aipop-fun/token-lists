@@ -1,0 +1,22 @@
+{
+  "name": "PumpDumpGuru",
+  "symbol": "PumpDumpGuru",
+  "decimals": 18,
+  "description": "PumpDumpGuru is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpDumpGuru",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpDumpGuru",
+  "addresses": {
+    "8453": "0x3740163fc677c27e35a6c1fa905a81ca51a3c0b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpDumpGuru",
+    "sanitizedSymbol": "PUMPDUMPGURU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x27e7e7576e650a68BA32714FBCb6569581de0FDf",
+    "lpNftId": "1323577",
+    "lockerAddress": "0x9CfDf063d5859f60c48a5bEB311D98C2C095E3fd"
+  },
+  "clankerInfo": null
+}

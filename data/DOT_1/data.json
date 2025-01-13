@@ -1,0 +1,22 @@
+{
+  "name": "DOT",
+  "symbol": "DOT",
+  "decimals": 18,
+  "description": "DOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOT",
+  "addresses": {
+    "8453": "0x0956f1fa0a71993945a6827b6d8448b1f31d9648"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOT",
+    "sanitizedSymbol": "DOT_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233406",
+    "lockerAddress": "0xF4636986a4a82743d9244EacBfDa1285518AD20c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clankhat",
+  "symbol": "Clankhat",
+  "decimals": 18,
+  "description": "Clankhat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankhat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankhat",
+  "addresses": {
+    "8453": "0x2c7fb67197b92050bfe4849354432730be34ccd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankhat",
+    "sanitizedSymbol": "CLANKHAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229512",
+    "lockerAddress": "0xC483EaB38e8424b8542CE13AA4087045a5e31234"
+  },
+  "clankerInfo": null
+}

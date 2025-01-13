@@ -1,0 +1,22 @@
+{
+  "name": "youngmastercat",
+  "symbol": "youngmastercat",
+  "decimals": 18,
+  "description": "youngmastercat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=youngmastercat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "youngmastercat",
+  "addresses": {
+    "8453": "0x181a43e6b8c12bff09ea35c1bcf305f94b86ba05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "youngmastercat",
+    "sanitizedSymbol": "YOUNGMASTERCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217213",
+    "lockerAddress": "0x8a2A0eE091bAbCFb76Cf8391140313A9B59Ef5F1"
+  },
+  "clankerInfo": null
+}

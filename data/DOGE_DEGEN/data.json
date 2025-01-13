@@ -1,0 +1,22 @@
+{
+  "name": "DOGE DEGEN",
+  "symbol": "DOGE DEGEN",
+  "decimals": 18,
+  "description": "DOGE DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGE%20DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGE DEGEN",
+  "addresses": {
+    "8453": "0x2999a21810aaac8bea4905c94a41cfb319a2a24e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGE DEGEN",
+    "sanitizedSymbol": "DOGE_DEGEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB276ACDE7EF0D8c878f25b18c5779EcFBb557799",
+    "lpNftId": "1345341",
+    "lockerAddress": "0xfed34552aCA5285B5F1B477ee3858eF05ac3F5D5"
+  },
+  "clankerInfo": null
+}

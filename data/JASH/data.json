@@ -1,0 +1,22 @@
+{
+  "name": "JASH",
+  "symbol": "JASH",
+  "decimals": 18,
+  "description": "JASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JASH",
+  "addresses": {
+    "8453": "0x15d52d19c95712867482b174282eb326cacc4400"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JASH",
+    "sanitizedSymbol": "JASH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA802EedBa8C8C9959cC7cb47CA536a06D485DcfB",
+    "lpNftId": "1309041",
+    "lockerAddress": "0x2BD86e68E76587404850BeB67810CC1A6069C9c9"
+  },
+  "clankerInfo": null
+}

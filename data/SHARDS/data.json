@@ -1,0 +1,22 @@
+{
+  "name": "Shards",
+  "symbol": "Shards",
+  "decimals": 18,
+  "description": "Shards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shards",
+  "addresses": {
+    "8453": "0x0f1eca8207b50ad5ec93b5fdca8d0ed4133f5ce0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shards",
+    "sanitizedSymbol": "SHARDS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224008",
+    "lockerAddress": "0xdCDD3ca5803160A7d11B38964eeAC3739B88772A"
+  },
+  "clankerInfo": null
+}

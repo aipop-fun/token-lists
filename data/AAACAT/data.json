@@ -1,0 +1,22 @@
+{
+  "name": "aaacat",
+  "symbol": "aaacat",
+  "decimals": 18,
+  "description": "aaacat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aaacat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aaacat",
+  "addresses": {
+    "8453": "0x2d00661b422ec483230e92c176aaa8c594484824"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aaacat",
+    "sanitizedSymbol": "AAACAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231840",
+    "lockerAddress": "0x3D977F5EC1e70dFD067bC7E55A8ed2dDa505C56c"
+  },
+  "clankerInfo": null
+}

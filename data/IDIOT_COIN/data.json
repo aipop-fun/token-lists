@@ -1,0 +1,22 @@
+{
+  "name": "Idiot Coin",
+  "symbol": "Idiot Coin",
+  "decimals": 18,
+  "description": "Idiot Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Idiot%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Idiot Coin",
+  "addresses": {
+    "8453": "0x24e2792d121ff0a04d5bf50e26df005100cfeb0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Idiot Coin",
+    "sanitizedSymbol": "IDIOT_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152137",
+    "lockerAddress": "0xBCCb0D519D4093005Bb6E2391A479751d63E5458"
+  },
+  "clankerInfo": null
+}

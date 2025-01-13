@@ -1,0 +1,22 @@
+{
+  "name": "Solarix",
+  "symbol": "Solarix",
+  "decimals": 18,
+  "description": "Solarix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Solarix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Solarix",
+  "addresses": {
+    "8453": "0x17443e0196aa065a0bfd1a3ba8afa08940f88564"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Solarix",
+    "sanitizedSymbol": "SOLARIX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132796",
+    "lockerAddress": "0x4420D411068b0d07b98fB43732F4D4daD649d9f3"
+  },
+  "clankerInfo": null
+}

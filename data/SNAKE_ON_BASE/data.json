@@ -1,0 +1,22 @@
+{
+  "name": "Snake on Base",
+  "symbol": "Snake on Base",
+  "decimals": 18,
+  "description": "Snake on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snake%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snake on Base",
+  "addresses": {
+    "8453": "0x29e01292193181b7c5caf55652fb29b0489a50e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snake on Base",
+    "sanitizedSymbol": "SNAKE_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x21BAcBEfaE26ce58118c8a6061adf170c33D5cDA",
+    "lpNftId": "1320985",
+    "lockerAddress": "0xf8e2D2126eDc50C803Ad7Bd115Ae6BEd2C0d82Cb"
+  },
+  "clankerInfo": null
+}

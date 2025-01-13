@@ -1,0 +1,22 @@
+{
+  "name": "plykoy",
+  "symbol": "plykoy",
+  "decimals": 18,
+  "description": "plykoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=plykoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "plykoy",
+  "addresses": {
+    "8453": "0x136a6c869c7bd45893f1a82c49d93f6f20dbee06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "plykoy",
+    "sanitizedSymbol": "PLYKOY",
+    "created_at": "2024-12-10T14:23:14.861365",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401764",
+    "lockerAddress": "0xA32716a52946B71dA073dC82C51DE5278Cd65fa6"
+  },
+  "clankerInfo": null
+}

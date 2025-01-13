@@ -1,0 +1,22 @@
+{
+  "name": "BADBOY",
+  "symbol": "BADBOY",
+  "decimals": 18,
+  "description": "BADBOY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BADBOY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BADBOY",
+  "addresses": {
+    "8453": "0x003868844015c7ae96e5edc846ef5b6edcda1fe6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BADBOY",
+    "sanitizedSymbol": "BADBOY_1",
+    "created_at": "2024-12-11T12:34:40.99498",
+    "deployer": "0x435828c36Ee509ca99e19e93Dac1e13BD49C1965",
+    "lpNftId": "1418183",
+    "lockerAddress": "0x5573e582532F466024556A16212AE3269a493994"
+  },
+  "clankerInfo": null
+}

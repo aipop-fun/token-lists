@@ -1,0 +1,22 @@
+{
+  "name": "loyaltoken2",
+  "symbol": "loyaltoken2",
+  "decimals": 18,
+  "description": "loyaltoken2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=loyaltoken2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "loyaltoken2",
+  "addresses": {
+    "8453": "0x3b3bc2ab90f4158f5f19e17d4b1ef295199a100c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "loyaltoken2",
+    "sanitizedSymbol": "LOYALTOKEN2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234571",
+    "lockerAddress": "0x5bda4dDD8EA8095126614a528331D29A3Dac7BEA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "STARboy",
+  "symbol": "STARboy",
+  "decimals": 18,
+  "description": "STARboy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STARboy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STARboy",
+  "addresses": {
+    "8453": "0x0a73df8b0984a116f3414a794800cab8c0c61ed0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STARboy",
+    "sanitizedSymbol": "STARBOY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x47d2B6d9C730a36e25B412D206AC696b02c60EA7",
+    "lpNftId": "1251616",
+    "lockerAddress": "0x127051F263DFf270CC617FBbF0148822B8A65603"
+  },
+  "clankerInfo": null
+}

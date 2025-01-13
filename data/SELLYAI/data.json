@@ -1,0 +1,22 @@
+{
+  "name": "SellyAI",
+  "symbol": "SellyAI",
+  "decimals": 18,
+  "description": "SellyAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SellyAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SellyAI",
+  "addresses": {
+    "8453": "0x1a7080ab8d88ec3fa510860e8f4a911bee6b2b12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SellyAI",
+    "sanitizedSymbol": "SELLYAI",
+    "created_at": "2024-12-10T07:55:39.872785",
+    "deployer": "0x981fFACB152ca9a142ee84fb78C35A00660f4106",
+    "lpNftId": "1398396",
+    "lockerAddress": "0x1483aeFbc3a6e0211B768Aa4a97DF219683b0E86"
+  },
+  "clankerInfo": null
+}

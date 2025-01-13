@@ -1,0 +1,22 @@
+{
+  "name": "Humbug",
+  "symbol": "Humbug",
+  "decimals": 18,
+  "description": "Humbug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Humbug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Humbug",
+  "addresses": {
+    "8453": "0x33f26c735e4bfc15864882402dce25002e6c9589"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Humbug",
+    "sanitizedSymbol": "HUMBUG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236904",
+    "lockerAddress": "0x7C9b38a9B1Cd56177bffe0Ae4cFe8928A4bB5dDc"
+  },
+  "clankerInfo": null
+}

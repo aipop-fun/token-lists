@@ -1,0 +1,22 @@
+{
+  "name": "Drunk Cat",
+  "symbol": "Drunk Cat",
+  "decimals": 18,
+  "description": "Drunk Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drunk%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drunk Cat",
+  "addresses": {
+    "8453": "0x2b43f120191c2e3cf7a1e828f56d7824730436ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drunk Cat",
+    "sanitizedSymbol": "DRUNK_CAT",
+    "created_at": "2024-12-09T14:38:00.159724",
+    "deployer": "0x028aa845de6E6988518615D37c5D00dE29EE58D1",
+    "lpNftId": "1388066",
+    "lockerAddress": "0xE9Ad134e11BDCD58DE79d6Ebe0c39Aaa2bd23402"
+  },
+  "clankerInfo": null
+}

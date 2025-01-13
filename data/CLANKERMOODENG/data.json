@@ -1,0 +1,22 @@
+{
+  "name": "clankermoodeng",
+  "symbol": "clankermoodeng",
+  "decimals": 18,
+  "description": "clankermoodeng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankermoodeng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankermoodeng",
+  "addresses": {
+    "8453": "0x238b4f2753742cea2b24b311818e5006252a19ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankermoodeng",
+    "sanitizedSymbol": "CLANKERMOODENG",
+    "created_at": "2024-12-09T01:45:25.083974",
+    "deployer": "0xf4D0EEAb4A106163B6A37D39D3cf60399c94d23d",
+    "lpNftId": "1377602",
+    "lockerAddress": "0x25F6c784680EC983A81c29b305e20C69aA550EC0"
+  },
+  "clankerInfo": null
+}

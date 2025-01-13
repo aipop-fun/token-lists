@@ -1,0 +1,22 @@
+{
+  "name": "BIFF",
+  "symbol": "BIFF",
+  "decimals": 18,
+  "description": "BIFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIFF",
+  "addresses": {
+    "8453": "0x35ad3ecf373cb9d6b0d9769b5c5085e11d9d4ca8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIFF",
+    "sanitizedSymbol": "BIFF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2c236BE4a7B9420156dF76Eee07cD1AD35850038",
+    "lpNftId": "1315377",
+    "lockerAddress": "0x8DDe6dB28eA817986F10C564526ECDc0C9f2aFCc"
+  },
+  "clankerInfo": null
+}

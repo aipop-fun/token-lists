@@ -1,0 +1,22 @@
+{
+  "name": "anglewings",
+  "symbol": "anglewings",
+  "decimals": 18,
+  "description": "anglewings is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anglewings",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anglewings",
+  "addresses": {
+    "8453": "0x1c63d6668c5b6875462d722897a6330832ee724b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anglewings",
+    "sanitizedSymbol": "ANGLEWINGS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x007678a2Fb7EE0E04a6B1ae37ff7fd6CFb22046A",
+    "lpNftId": "1312683",
+    "lockerAddress": "0x43d56532A4eFc79bD9673e681e9482000fd09be4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rich Dog",
+  "symbol": "Rich Dog",
+  "decimals": 18,
+  "description": "Rich Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rich%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rich Dog",
+  "addresses": {
+    "8453": "0x02cc7a22fef7feeffd8a3e2a564ef39e2d5e182e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rich Dog",
+    "sanitizedSymbol": "RICH_DOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173127",
+    "lockerAddress": "0xb3342d7c6785fe76aEbE94C48DD94682B605E12A"
+  },
+  "clankerInfo": null
+}

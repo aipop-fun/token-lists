@@ -1,0 +1,22 @@
+{
+  "name": "noice",
+  "symbol": "noice",
+  "decimals": 18,
+  "description": "noice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=noice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "noice",
+  "addresses": {
+    "8453": "0x2920f5fee0aa2533d568db3a161ef57d10663c10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "noice",
+    "sanitizedSymbol": "NOICE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202141",
+    "lockerAddress": "0xF2CfEa60Ddd7CA57323c8C6D7A5Fb629f1F969db"
+  },
+  "clankerInfo": null
+}

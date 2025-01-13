@@ -1,0 +1,22 @@
+{
+  "name": "HarryMaguire",
+  "symbol": "HarryMaguire",
+  "decimals": 18,
+  "description": "HarryMaguire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HarryMaguire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HarryMaguire",
+  "addresses": {
+    "8453": "0x13e2a23a9c0d1f3afd3c98a5b4b938abbfd25ec8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HarryMaguire",
+    "sanitizedSymbol": "HARRYMAGUIRE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6d30a83912Aea1C7193ec7F686e1c2aD8e553a2",
+    "lpNftId": "1326172",
+    "lockerAddress": "0x0a5F6669F5Fa94A0F3dd55657381374B83376B24"
+  },
+  "clankerInfo": null
+}

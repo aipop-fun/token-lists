@@ -1,0 +1,22 @@
+{
+  "name": "PX",
+  "symbol": "PX",
+  "decimals": 18,
+  "description": "PX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PX",
+  "addresses": {
+    "8453": "0x19216f40ce22cb5e149f584d367803b86f3f4806"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PX",
+    "sanitizedSymbol": "PX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153303",
+    "lockerAddress": "0xF5255EeE169dB5CAb6883F1Da4b7Ea47704FB212"
+  },
+  "clankerInfo": null
+}

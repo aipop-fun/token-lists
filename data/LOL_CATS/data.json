@@ -1,0 +1,22 @@
+{
+  "name": "LOL CATS",
+  "symbol": "LOL CATS",
+  "decimals": 18,
+  "description": "LOL CATS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOL%20CATS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOL CATS",
+  "addresses": {
+    "8453": "0x034b4c2ed3eae11a58d23bef2a57d9bc56c670ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOL CATS",
+    "sanitizedSymbol": "LOL_CATS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234996",
+    "lockerAddress": "0x734EBE6f2705f0b534aE2b83F0AEc7316279D628"
+  },
+  "clankerInfo": null
+}

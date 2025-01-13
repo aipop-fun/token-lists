@@ -1,0 +1,22 @@
+{
+  "name": "SolarRise",
+  "symbol": "SolarRise",
+  "decimals": 18,
+  "description": "SolarRise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SolarRise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SolarRise",
+  "addresses": {
+    "8453": "0x391e5aee1a9ed41c115effcffc34ce9f6fb9a884"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SolarRise",
+    "sanitizedSymbol": "SOLARRISE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x124953DE6b06907E5F75e07343cbD422c3E40089",
+    "lpNftId": "1308293",
+    "lockerAddress": "0xC508d54654443Ed7c3F602f5D1Ac83c7E55a8D24"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sipple on Base",
+  "symbol": "Sipple on Base",
+  "decimals": 18,
+  "description": "Sipple on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sipple%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sipple on Base",
+  "addresses": {
+    "8453": "0x39b021d06fd95d4d827922929c0e7ad9a302a9ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sipple on Base",
+    "sanitizedSymbol": "SIPPLE_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x672435E805d7786Ffb8f0eFb7b5F44f2C6cF4653",
+    "lpNftId": "1324446",
+    "lockerAddress": "0x37E44F2A67dd1eAd5D108d8500288B518AA11Fc2"
+  },
+  "clankerInfo": null
+}

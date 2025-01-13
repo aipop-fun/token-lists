@@ -1,0 +1,22 @@
+{
+  "name": "HOHO",
+  "symbol": "HOHO",
+  "decimals": 18,
+  "description": "HOHO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOHO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOHO",
+  "addresses": {
+    "8453": "0x15ab7ff77da9f5e224c8717cacde6e59bd7c1948"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOHO",
+    "sanitizedSymbol": "HOHO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x53662ba29fdA36A05532aB3E974c14C23d6A674d",
+    "lpNftId": "1292326",
+    "lockerAddress": "0xadB947e4c869D304A527641DC1f722C00B64F6fc"
+  },
+  "clankerInfo": null
+}

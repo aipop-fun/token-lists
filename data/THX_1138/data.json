@@ -1,0 +1,22 @@
+{
+  "name": "THX 1138",
+  "symbol": "THX 1138",
+  "decimals": 18,
+  "description": "THX 1138 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THX%201138",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THX 1138",
+  "addresses": {
+    "8453": "0x3065984ec2d4cdd434b51d1e8e841333c86e57a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THX 1138",
+    "sanitizedSymbol": "THX_1138",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173719",
+    "lockerAddress": "0xC5ac4Aed3ca10b6D2e12503381B0B1Ac79d86FF4"
+  },
+  "clankerInfo": null
+}

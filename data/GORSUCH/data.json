@@ -1,0 +1,22 @@
+{
+  "name": "Gorsuch",
+  "symbol": "Gorsuch",
+  "decimals": 18,
+  "description": "Gorsuch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gorsuch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gorsuch",
+  "addresses": {
+    "8453": "0x15e57427d77cd220c20b6e99ea967cd361ed754a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gorsuch",
+    "sanitizedSymbol": "GORSUCH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164778",
+    "lockerAddress": "0xf7b5fe7DA4Fd8F658188F407AE200B5F10F67F2d"
+  },
+  "clankerInfo": null
+}

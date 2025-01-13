@@ -1,0 +1,22 @@
+{
+  "name": "SeonGeum",
+  "symbol": "SeonGeum",
+  "decimals": 18,
+  "description": "SeonGeum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SeonGeum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SeonGeum",
+  "addresses": {
+    "8453": "0x06d9c10154b48caab89dee2edd5d6089b99ab464"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SeonGeum",
+    "sanitizedSymbol": "SEONGEUM",
+    "created_at": "2024-12-10T07:19:52.820442",
+    "deployer": "0xe0e101C39BC369d3742C0231bE9FD6972BefaB51",
+    "lpNftId": "1397823",
+    "lockerAddress": "0x36607eE00CCB1483007a2B425dB5926C4919899b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Supernova",
+  "symbol": "Supernova",
+  "decimals": 18,
+  "description": "Supernova is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Supernova",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Supernova",
+  "addresses": {
+    "8453": "0x23bddf6a9fc867fb8ad725530fac77990ea68d3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Supernova",
+    "sanitizedSymbol": "SUPERNOVA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201732",
+    "lockerAddress": "0x552f32CDC904473906f47A3dc4D00Cb8f2830626"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HEROINRU",
+  "symbol": "HEROINRU",
+  "decimals": 18,
+  "description": "HEROINRU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEROINRU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEROINRU",
+  "addresses": {
+    "8453": "0x25e31a6a573474764e0d140d059e4aaa63b6b273"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEROINRU",
+    "sanitizedSymbol": "HEROINRU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152149",
+    "lockerAddress": "0x64AccE0e64Fae42c8E815cE5432eBb07f587D237"
+  },
+  "clankerInfo": null
+}

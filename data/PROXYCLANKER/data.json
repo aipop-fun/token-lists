@@ -1,0 +1,22 @@
+{
+  "name": "ProxyClanker",
+  "symbol": "ProxyClanker",
+  "decimals": 18,
+  "description": "ProxyClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ProxyClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ProxyClanker",
+  "addresses": {
+    "8453": "0x1661e9429576c424eead5150412338a7473dc76f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ProxyClanker",
+    "sanitizedSymbol": "PROXYCLANKER",
+    "created_at": "2024-12-11T16:27:31.621317",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1421840",
+    "lockerAddress": "0xC78d161FbCfaa603Bc851b4aB91f60d5F12C882A"
+  },
+  "clankerInfo": null
+}

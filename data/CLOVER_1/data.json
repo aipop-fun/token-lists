@@ -1,0 +1,22 @@
+{
+  "name": "clover",
+  "symbol": "clover",
+  "decimals": 18,
+  "description": "clover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clover",
+  "addresses": {
+    "8453": "0x265a15d9c87039a58d797c1ace1dcdcb32d0630d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clover",
+    "sanitizedSymbol": "CLOVER_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x491dC8E39B7001aE3bFC1b5AdC871D238cA8256C",
+    "lpNftId": "1305250",
+    "lockerAddress": "0x381d095CE30383Df0831693a99b0321a4E149d0f"
+  },
+  "clankerInfo": null
+}

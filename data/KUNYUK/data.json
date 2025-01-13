@@ -1,0 +1,22 @@
+{
+  "name": "kunyuk",
+  "symbol": "kunyuk",
+  "decimals": 18,
+  "description": "kunyuk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kunyuk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kunyuk",
+  "addresses": {
+    "8453": "0x17bab8cb28623442ab61b6ff341026a1436a079a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kunyuk",
+    "sanitizedSymbol": "KUNYUK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcC17c94702315129808F1f64CB3aF3a5dC06E4A8",
+    "lpNftId": "1327569",
+    "lockerAddress": "0xe92909194Fc8c835A87A2E18C60b720f04cC55dd"
+  },
+  "clankerInfo": null
+}

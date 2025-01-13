@@ -1,0 +1,22 @@
+{
+  "name": "YUUKA",
+  "symbol": "YUUKA",
+  "decimals": 18,
+  "description": "YUUKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUUKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUUKA",
+  "addresses": {
+    "8453": "0x392fd71714c4f676d1ae0eb1c5969e675d61f42c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUUKA",
+    "sanitizedSymbol": "YUUKA",
+    "created_at": "2024-12-12T18:12:08.782493",
+    "deployer": "0x65F1FffeD5896dDafB2B42224164dc7F2f5765ef",
+    "lpNftId": "1440574",
+    "lockerAddress": "0xC411b556Ab032Ef18B891Afe3718F73Dbf692cF8"
+  },
+  "clankerInfo": null
+}

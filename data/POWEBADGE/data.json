@@ -1,0 +1,22 @@
+{
+  "name": "PoweBadge",
+  "symbol": "PoweBadge",
+  "decimals": 18,
+  "description": "PoweBadge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PoweBadge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PoweBadge",
+  "addresses": {
+    "8453": "0x067e4b7bd005e0809175e5ad3a95dfab2bcbab84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PoweBadge",
+    "sanitizedSymbol": "POWEBADGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166564",
+    "lockerAddress": "0xF91bc7494ef922F63d000d49c2020B517aeb21eD"
+  },
+  "clankerInfo": null
+}

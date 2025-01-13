@@ -1,0 +1,22 @@
+{
+  "name": "SKI",
+  "symbol": "SKI",
+  "decimals": 18,
+  "description": "SKI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKI",
+  "addresses": {
+    "8453": "0x24c182d0d70c93e3d6d26c5928a5512166f750ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKI",
+    "sanitizedSymbol": "SKI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1323940",
+    "lockerAddress": "0xEf1838BAE9b309A41623DC62211E1D1b84e7CaA2"
+  },
+  "clankerInfo": null
+}

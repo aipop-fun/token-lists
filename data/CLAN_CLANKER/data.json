@@ -1,0 +1,22 @@
+{
+  "name": "CLAN & CLANKER",
+  "symbol": "CLAN & CLANKER",
+  "decimals": 18,
+  "description": "CLAN & CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLAN%20%26%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLAN & CLANKER",
+  "addresses": {
+    "8453": "0x182c41bfcf1d054de9106d71aaee35bbb0da3e20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLAN & CLANKER",
+    "sanitizedSymbol": "CLAN_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1d59CEb0f8f343e0D4e68F93E3003C1494aBe87E",
+    "lpNftId": "1292306",
+    "lockerAddress": "0xbf806bAd451e517a8667C2861F7cc060133371be"
+  },
+  "clankerInfo": null
+}

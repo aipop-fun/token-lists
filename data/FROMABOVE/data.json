@@ -1,0 +1,22 @@
+{
+  "name": "FromAbove",
+  "symbol": "FromAbove",
+  "decimals": 18,
+  "description": "FromAbove is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FromAbove",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FromAbove",
+  "addresses": {
+    "8453": "0x01c39c2d5487c61b0b7c2f76e7b6dff74cdd1597"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FromAbove",
+    "sanitizedSymbol": "FROMABOVE",
+    "created_at": "2024-12-10T22:51:55.202734",
+    "deployer": "0x3aC61447a75149Ba67639100eCc92c76fb20941c",
+    "lpNftId": "1408149",
+    "lockerAddress": "0xD103fdf06F7aB969349920F92b4ef387737758BD"
+  },
+  "clankerInfo": null
+}

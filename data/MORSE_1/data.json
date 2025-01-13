@@ -1,0 +1,22 @@
+{
+  "name": "Morse",
+  "symbol": "Morse",
+  "decimals": 18,
+  "description": "Morse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Morse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Morse",
+  "addresses": {
+    "8453": "0x3a5443eb4c0f0e7612ddaff98a75e7dad4ab04a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Morse",
+    "sanitizedSymbol": "MORSE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232440",
+    "lockerAddress": "0xF316e755cB5Fd0d8aaB7DbF76acA2a4F07cC9F16"
+  },
+  "clankerInfo": null
+}

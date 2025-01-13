@@ -1,0 +1,22 @@
+{
+  "name": "dkni",
+  "symbol": "dkni",
+  "decimals": 18,
+  "description": "dkni is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dkni",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dkni",
+  "addresses": {
+    "8453": "0x2945b0225dc7b05a1fa0ccaa3cd7750ce85d5555"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dkni",
+    "sanitizedSymbol": "DKNI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x368497B2a204a0Dc643B1Ac0258Ef943e23382c5",
+    "lpNftId": "1253238",
+    "lockerAddress": "0xb57dD8252B7FC287BcDD74365310c3100C0DdBbD"
+  },
+  "clankerInfo": null
+}

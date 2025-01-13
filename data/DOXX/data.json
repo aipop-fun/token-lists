@@ -1,0 +1,22 @@
+{
+  "name": "DOXX",
+  "symbol": "DOXX",
+  "decimals": 18,
+  "description": "DOXX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOXX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOXX",
+  "addresses": {
+    "8453": "0x13fe2abc310f43743fe81bbab1f5858b2b1050de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOXX",
+    "sanitizedSymbol": "DOXX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBbfE4aa855AB66A3414904f0D510B083485BcC84",
+    "lpNftId": "1318282",
+    "lockerAddress": "0x135aC3f753eF7d6c0d19B270fba25072ad94a099"
+  },
+  "clankerInfo": null
+}

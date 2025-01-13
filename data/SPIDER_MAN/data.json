@@ -1,0 +1,22 @@
+{
+  "name": "Spider-Man",
+  "symbol": "Spider-Man",
+  "decimals": 18,
+  "description": "Spider-Man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spider-Man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spider-Man",
+  "addresses": {
+    "8453": "0x002cfa6ad5ec3536db7c5ef65a8dc22255450f30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spider-Man",
+    "sanitizedSymbol": "SPIDER_MAN",
+    "created_at": "2024-12-11T18:35:36.455026",
+    "deployer": "0xD9BA60890DbC1c18f6793582Ca50C98de25ab671",
+    "lpNftId": "1423915",
+    "lockerAddress": "0xc9A046773bb0ecd8e7AA96c56E081De63e283881"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PAPAE",
+  "symbol": "PAPAE",
+  "decimals": 18,
+  "description": "PAPAE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAPAE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAPAE",
+  "addresses": {
+    "8453": "0x22cd6a60eda205336c2aac0fdfc466d2c4fd79b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAPAE",
+    "sanitizedSymbol": "PAPAE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153499",
+    "lockerAddress": "0xDd27e1fE07df38Dc3FE8dB1E92f25186e363220a"
+  },
+  "clankerInfo": null
+}

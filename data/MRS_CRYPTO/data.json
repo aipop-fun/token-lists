@@ -1,0 +1,22 @@
+{
+  "name": "Mrs.Crypto",
+  "symbol": "Mrs.Crypto",
+  "decimals": 18,
+  "description": "Mrs.Crypto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mrs.Crypto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mrs.Crypto",
+  "addresses": {
+    "8453": "0x04d388da70c32fc5876981097c536c51c8d3d236"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mrs.Crypto",
+    "sanitizedSymbol": "MRS_CRYPTO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9BA60890DbC1c18f6793582Ca50C98de25ab671",
+    "lpNftId": "1288275",
+    "lockerAddress": "0x39c2f1ad92C1ad4AA90e752582D1419755FEcEB0"
+  },
+  "clankerInfo": null
+}

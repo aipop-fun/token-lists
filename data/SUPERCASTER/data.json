@@ -1,0 +1,22 @@
+{
+  "name": "Supercaster",
+  "symbol": "Supercaster",
+  "decimals": 18,
+  "description": "Supercaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Supercaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Supercaster",
+  "addresses": {
+    "8453": "0x0ce69b9f1032760c18a2cc73e09cd9696a906610"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Supercaster",
+    "sanitizedSymbol": "SUPERCASTER",
+    "created_at": "2024-12-09T11:34:25.453193",
+    "deployer": "0x1327E45d97169521Ce965Cb5e90fFcF0a83Df54c",
+    "lpNftId": "1386524",
+    "lockerAddress": "0xA014397dd57429a31247e7bA5dEAfAc65621d1C3"
+  },
+  "clankerInfo": null
+}

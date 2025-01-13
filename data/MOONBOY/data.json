@@ -1,0 +1,22 @@
+{
+  "name": "MOONBOY",
+  "symbol": "MOONBOY",
+  "decimals": 18,
+  "description": "MOONBOY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONBOY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONBOY",
+  "addresses": {
+    "8453": "0x06a0247c1725debe0dc292a55c62a55c93a014b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONBOY",
+    "sanitizedSymbol": "MOONBOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4EB7270664fE43af587e9a971aCbf562f3E7FC01",
+    "lpNftId": "1283675",
+    "lockerAddress": "0x54891dC66899C3f423B9bf784dDaa4B00c42039F"
+  },
+  "clankerInfo": null
+}

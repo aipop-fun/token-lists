@@ -1,0 +1,22 @@
+{
+  "name": "ClankerHasbulaPepeDogeCoin",
+  "symbol": "ClankerHasbulaPepeDogeCoin",
+  "decimals": 18,
+  "description": "ClankerHasbulaPepeDogeCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerHasbulaPepeDogeCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerHasbulaPepeDogeCoin",
+  "addresses": {
+    "8453": "0x066e04cc7212858576ce5aa72936d4664a20ec4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerHasbulaPepeDogeCoin",
+    "sanitizedSymbol": "CLANKERHASBULAPEPEDOGECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC9F4678af18377D436C787c6e5E8FacC6c99C2a1",
+    "lpNftId": "1285546",
+    "lockerAddress": "0x50EE6614c1a249097a1C844B9a2E71F5628E56f9"
+  },
+  "clankerInfo": null
+}

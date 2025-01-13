@@ -1,0 +1,22 @@
+{
+  "name": "chartgpt",
+  "symbol": "chartgpt",
+  "decimals": 18,
+  "description": "chartgpt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chartgpt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chartgpt",
+  "addresses": {
+    "8453": "0x0c5307b4a2b42124f9d66d905332d490e4dcf7a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chartgpt",
+    "sanitizedSymbol": "CHARTGPT",
+    "created_at": "2024-12-11T05:58:50.346801",
+    "deployer": "0x47f585AC829dE10CB24bA0A90A5A6F2155e2Ce8E",
+    "lpNftId": "1413695",
+    "lockerAddress": "0x23675842a238563243e8E00640cF690bcb3f1B15"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "A BlackHOLE",
+  "symbol": "A BlackHOLE",
+  "decimals": 18,
+  "description": "A BlackHOLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20BlackHOLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A BlackHOLE",
+  "addresses": {
+    "8453": "0x3d5911edf640af37738989242db00ac0a5a8c26d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A BlackHOLE",
+    "sanitizedSymbol": "A_BLACKHOLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234500",
+    "lockerAddress": "0x4FCd6b4b2fb4241Ea5ae03018a190F34098E5C4B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Year of the Snake",
+  "symbol": "Year of the Snake",
+  "decimals": 18,
+  "description": "Year of the Snake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Year%20of%20the%20Snake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Year of the Snake",
+  "addresses": {
+    "8453": "0x2e20a48e4b80165a06c447b7b52a060fbddc3244"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Year of the Snake",
+    "sanitizedSymbol": "YEAR_OF_THE_SNAKE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x964DADfc160AaA79F9d12c51758C5Ef7df802869",
+    "lpNftId": "1306257",
+    "lockerAddress": "0x8DfA2dC3A921c5237aBd15458917d0eB307C0368"
+  },
+  "clankerInfo": null
+}

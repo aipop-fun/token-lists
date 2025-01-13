@@ -1,0 +1,22 @@
+{
+  "name": "Baron Von Whiskers",
+  "symbol": "Baron Von Whiskers",
+  "decimals": 18,
+  "description": "Baron Von Whiskers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baron%20Von%20Whiskers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baron Von Whiskers",
+  "addresses": {
+    "8453": "0x033ee46d334729477f2589197e95089441b31644"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baron Von Whiskers",
+    "sanitizedSymbol": "BARON_VON_WHISKERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb45F9f723c25D4a1f466497e09EA613b0b00f6E2",
+    "lpNftId": "1284075",
+    "lockerAddress": "0x0111AD34e292d726106C56426A7725a33DDa36Fa"
+  },
+  "clankerInfo": null
+}

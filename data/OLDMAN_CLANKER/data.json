@@ -1,0 +1,22 @@
+{
+  "name": "Oldman Clanker",
+  "symbol": "Oldman Clanker",
+  "decimals": 18,
+  "description": "Oldman Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oldman%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oldman Clanker",
+  "addresses": {
+    "8453": "0x3333e99730d01f470a69e26cff80c5985f43cf4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oldman Clanker",
+    "sanitizedSymbol": "OLDMAN_CLANKER",
+    "created_at": "2024-12-11T12:17:15.603053",
+    "deployer": "0xA27B3C18892d2E2Fb9991D01d9179DD06f3200b4",
+    "lpNftId": "1417732",
+    "lockerAddress": "0x3E1f81F538da58caF867b7fa343eA877E6Bc2d9E"
+  },
+  "clankerInfo": null
+}

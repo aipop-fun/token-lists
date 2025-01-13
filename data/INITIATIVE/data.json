@@ -1,0 +1,22 @@
+{
+  "name": "Initiative",
+  "symbol": "Initiative",
+  "decimals": 18,
+  "description": "Initiative is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Initiative",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Initiative",
+  "addresses": {
+    "8453": "0x2f4fc726fe64f546b018643c6324f28440597f8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Initiative",
+    "sanitizedSymbol": "INITIATIVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F5602a8a9664817aBc95bf0280a5a9F621f0287",
+    "lpNftId": "1315464",
+    "lockerAddress": "0x0Fc767C55B3Af812961D3909325d0229551cd9D2"
+  },
+  "clankerInfo": null
+}

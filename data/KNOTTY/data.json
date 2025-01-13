@@ -1,0 +1,22 @@
+{
+  "name": "Knotty",
+  "symbol": "Knotty",
+  "decimals": 18,
+  "description": "Knotty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Knotty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Knotty",
+  "addresses": {
+    "8453": "0x2fab91c92f35a196b4fb2c0ee970ee4bb7346f24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Knotty",
+    "sanitizedSymbol": "KNOTTY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125355",
+    "lockerAddress": "0x372a79eDfAbDdC6F2958FF15C094D48720f27bCe"
+  },
+  "clankerInfo": null
+}

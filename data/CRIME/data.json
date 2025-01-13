@@ -1,0 +1,22 @@
+{
+  "name": "crime",
+  "symbol": "crime",
+  "decimals": 18,
+  "description": "crime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crime",
+  "addresses": {
+    "8453": "0x1e566ea05b0f03a6337e13a83494f2ad5f262dc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crime",
+    "sanitizedSymbol": "CRIME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218855",
+    "lockerAddress": "0xb36E594496171902bc21Ffd485D1A1191Be722d1"
+  },
+  "clankerInfo": null
+}

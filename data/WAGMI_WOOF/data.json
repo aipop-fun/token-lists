@@ -1,0 +1,22 @@
+{
+  "name": "WAGMI WOOF",
+  "symbol": "WAGMI WOOF",
+  "decimals": 18,
+  "description": "WAGMI WOOF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WAGMI%20WOOF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WAGMI WOOF",
+  "addresses": {
+    "8453": "0x1e35c4590d4a7013001e542a1a6e173b0d9e285a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WAGMI WOOF",
+    "sanitizedSymbol": "WAGMI_WOOF",
+    "created_at": "2024-12-12T05:38:18.914992",
+    "deployer": "0x8A5819AEC7Ed6127b80cF5E5A6D9DD74B028E28b",
+    "lpNftId": "1429417",
+    "lockerAddress": "0x2704Fb5d9e324a68bEc65b6c48C37AABf09EF8fE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$JESSEV2",
+  "symbol": "$JESSEV2",
+  "decimals": 18,
+  "description": "$JESSEV2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24JESSEV2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$JESSEV2",
+  "addresses": {
+    "8453": "0x3e8590d3bad14bed0e39654c8aa79c600a8398a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$JESSEV2",
+    "sanitizedSymbol": "JESSEV2",
+    "created_at": "2024-12-09T04:47:37.985428",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1382560",
+    "lockerAddress": "0xA09403b16c8D78D38cf7cd14F5c327FBcB6E805D"
+  },
+  "clankerInfo": null
+}

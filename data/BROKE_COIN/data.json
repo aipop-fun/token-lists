@@ -1,0 +1,22 @@
+{
+  "name": "Broke Coin",
+  "symbol": "Broke Coin",
+  "decimals": 18,
+  "description": "Broke Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Broke%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Broke Coin",
+  "addresses": {
+    "8453": "0x0f450cc3f8c453eee1d032bdbae3a2246d172683"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Broke Coin",
+    "sanitizedSymbol": "BROKE_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x80a5e89694f96162c66e644429C94c5cdCa48033",
+    "lpNftId": "1264645",
+    "lockerAddress": "0x08b6ed75f3A5297A460282cdE7aB5459258Ce0F7"
+  },
+  "clankerInfo": null
+}

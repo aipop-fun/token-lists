@@ -1,0 +1,22 @@
+{
+  "name": "WinterIsHere",
+  "symbol": "WinterIsHere",
+  "decimals": 18,
+  "description": "WinterIsHere is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WinterIsHere",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WinterIsHere",
+  "addresses": {
+    "8453": "0x146b6a18cece19c82696b61484da64219af5b72c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WinterIsHere",
+    "sanitizedSymbol": "WINTERISHERE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb50505b79D98Fa09502a965f0559924623cBcDf4",
+    "lpNftId": "1351948",
+    "lockerAddress": "0x4c6Ce7A8e7e406A51F51766195c84572E4aB999D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FRIGGO CHAIN",
+  "symbol": "FRIGGO CHAIN",
+  "decimals": 18,
+  "description": "FRIGGO CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FRIGGO%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FRIGGO CHAIN",
+  "addresses": {
+    "8453": "0x2e8b540e702b354c62fe68299d03c48ea736b3cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FRIGGO CHAIN",
+    "sanitizedSymbol": "FRIGGO_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x3304000131AB6ae477C9741FEDcFb6Aa93fc94Ef",
+    "lpNftId": "1195157",
+    "lockerAddress": "0x28167f36f00Ce8b1ffDd01eF6e819f43e733B333"
+  },
+  "clankerInfo": null
+}

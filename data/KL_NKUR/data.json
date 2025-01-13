@@ -1,0 +1,22 @@
+{
+  "name": "Klänkur",
+  "symbol": "Klänkur",
+  "decimals": 18,
+  "description": "Klänkur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kl%C3%A4nkur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Klänkur",
+  "addresses": {
+    "8453": "0x22aaa2bbd370f39d2cb729e6b0bad028a877c3f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Klänkur",
+    "sanitizedSymbol": "KL_NKUR",
+    "created_at": "2024-12-10T18:43:47.316751",
+    "deployer": "0xE35F4e993fa02345d9E58f6d9c12272273945D3e",
+    "lpNftId": "1405676",
+    "lockerAddress": "0x9020E4b8e3d89Fc96E9C0C11D7A84D48Cbdfb945"
+  },
+  "clankerInfo": null
+}

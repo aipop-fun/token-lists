@@ -1,0 +1,22 @@
+{
+  "name": "Dark Knight",
+  "symbol": "Dark Knight",
+  "decimals": 18,
+  "description": "Dark Knight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dark%20Knight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dark Knight",
+  "addresses": {
+    "8453": "0x2505ef1dca56c96e306b7bfcbb59b21e1bdb1233"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dark Knight",
+    "sanitizedSymbol": "DARK_KNIGHT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE9d1f30574C4A39b8a5D720Aee2c84CeAbe1c93b",
+    "lpNftId": "1330238",
+    "lockerAddress": "0x8cC92A23FCF6b8bd7B584dc7D18b5FE47eCF8f26"
+  },
+  "clankerInfo": null
+}

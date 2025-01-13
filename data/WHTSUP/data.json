@@ -1,0 +1,22 @@
+{
+  "name": "whtsup",
+  "symbol": "whtsup",
+  "decimals": 18,
+  "description": "whtsup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=whtsup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "whtsup",
+  "addresses": {
+    "8453": "0x32f30faf23928d6f8d1ebd21fdbecea1d9b98335"
+  },
+  "tokenInfo": {
+    "originalSymbol": "whtsup",
+    "sanitizedSymbol": "WHTSUP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB1CCB0070E695D66206731f0F7B034544252AAfA",
+    "lpNftId": "1291554",
+    "lockerAddress": "0x00282a3A8E8bbd999Dc7c1bD61e6d2AD14A87Eff"
+  },
+  "clankerInfo": null
+}

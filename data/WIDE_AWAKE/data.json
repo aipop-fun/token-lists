@@ -1,0 +1,22 @@
+{
+  "name": "Wide Awake",
+  "symbol": "Wide Awake",
+  "decimals": 18,
+  "description": "Wide Awake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wide%20Awake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wide Awake",
+  "addresses": {
+    "8453": "0x3501e57e2febcee9201f229c63c354762b39473f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wide Awake",
+    "sanitizedSymbol": "WIDE_AWAKE",
+    "created_at": "2024-12-09T12:58:15.209575",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1387205",
+    "lockerAddress": "0x3b15739F3c33360Cd14A04f633dD332c53989Ef6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BaseGreatAgain",
+  "symbol": "BaseGreatAgain",
+  "decimals": 18,
+  "description": "BaseGreatAgain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseGreatAgain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseGreatAgain",
+  "addresses": {
+    "8453": "0x3845dafd27bb00a39b6d9e811fd068ce258f4185"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseGreatAgain",
+    "sanitizedSymbol": "BASEGREATAGAIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223694",
+    "lockerAddress": "0xfd91CC1A7591cB089dcF604349D51Ab2478553a8"
+  },
+  "clankerInfo": null
+}

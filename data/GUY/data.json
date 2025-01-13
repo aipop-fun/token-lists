@@ -1,0 +1,22 @@
+{
+  "name": "GUY",
+  "symbol": "GUY",
+  "decimals": 18,
+  "description": "GUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GUY",
+  "addresses": {
+    "8453": "0x1ccd8de363ff9b3070c995d8b67c12c03955c0b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GUY",
+    "sanitizedSymbol": "GUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA0DEC165d9b4441A46e7022f347C191c4e233587",
+    "lpNftId": "1308896",
+    "lockerAddress": "0x56aEe7Cd1Abc49052E8A187f442a8984f7E39c3f"
+  },
+  "clankerInfo": null
+}

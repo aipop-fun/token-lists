@@ -1,0 +1,22 @@
+{
+  "name": "superbaldy",
+  "symbol": "superbaldy",
+  "decimals": 18,
+  "description": "superbaldy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=superbaldy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "superbaldy",
+  "addresses": {
+    "8453": "0x23df7d9b0892ecc8858b756dc5030475618e06b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "superbaldy",
+    "sanitizedSymbol": "SUPERBALDY",
+    "created_at": "2024-12-09T06:17:05.8377",
+    "deployer": "0xC29341d27335B6A3482C9dD01f3B20f4688bb46F",
+    "lpNftId": "1383809",
+    "lockerAddress": "0x426557FF21ab7e38164b5c3657880281c90214fF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik Butterin",
+  "symbol": "Vitalik Butterin",
+  "decimals": 18,
+  "description": "Vitalik Butterin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20Butterin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik Butterin",
+  "addresses": {
+    "8453": "0x11484ad13a36be8c01c12374f33dd035d058e4a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik Butterin",
+    "sanitizedSymbol": "VITALIK_BUTTERIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220646",
+    "lockerAddress": "0xf4146827f0bC658Ad69255e30425D3160d294665"
+  },
+  "clankerInfo": null
+}

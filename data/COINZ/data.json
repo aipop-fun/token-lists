@@ -1,0 +1,22 @@
+{
+  "name": "CoinZ",
+  "symbol": "CoinZ",
+  "decimals": 18,
+  "description": "CoinZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CoinZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CoinZ",
+  "addresses": {
+    "8453": "0x0f85921c47f8f83563507df48756a80af689a3be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CoinZ",
+    "sanitizedSymbol": "COINZ",
+    "created_at": "2024-12-10T12:12:40.252283",
+    "deployer": "0xd9f6cCc5B69FE06A5c6c15E533b681aCC3DBBd65",
+    "lpNftId": "1400650",
+    "lockerAddress": "0x4F25e0E34081CD4bf99a25B899BA9d184f39514d"
+  },
+  "clankerInfo": null
+}

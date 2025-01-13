@@ -1,0 +1,22 @@
+{
+  "name": "Y2K",
+  "symbol": "Y2K",
+  "decimals": 18,
+  "description": "Y2K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Y2K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Y2K",
+  "addresses": {
+    "8453": "0x3cc518d4f25afe2b07fb04769d458a6e75a35efa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Y2K",
+    "sanitizedSymbol": "Y2K",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173288",
+    "lockerAddress": "0xCf43105445385BeA3399A4AB4904c14c4549E498"
+  },
+  "clankerInfo": null
+}

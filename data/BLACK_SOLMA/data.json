@@ -1,0 +1,22 @@
+{
+  "name": "BLACK SOLMA",
+  "symbol": "BLACK SOLMA",
+  "decimals": 18,
+  "description": "BLACK SOLMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLACK%20SOLMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLACK SOLMA",
+  "addresses": {
+    "8453": "0x3b36fb2419ce84c2e64853042d74f21dfc58d77f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLACK SOLMA",
+    "sanitizedSymbol": "BLACK_SOLMA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdF0CBFbF78644336B621215823fABCd115BADFA2",
+    "lpNftId": "1328882",
+    "lockerAddress": "0x86BD9760d5057cA20020fc081D59657486608D78"
+  },
+  "clankerInfo": null
+}

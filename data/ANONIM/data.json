@@ -1,0 +1,22 @@
+{
+  "name": "anonim",
+  "symbol": "anonim",
+  "decimals": 18,
+  "description": "anonim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonim",
+  "addresses": {
+    "8453": "0x35cd51e248ba86521b32a6704de90713898af1b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonim",
+    "sanitizedSymbol": "ANONIM",
+    "created_at": "2024-12-09T08:08:48.778146",
+    "deployer": "0x48a835FD8353e96E87f450e256d4d1C10e4895bA",
+    "lpNftId": "1384589",
+    "lockerAddress": "0x7cC5a5EeB835c0ccE4e1B39c4bF27D8615ba3Fe8"
+  },
+  "clankerInfo": null
+}

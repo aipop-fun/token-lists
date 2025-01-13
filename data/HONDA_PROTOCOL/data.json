@@ -1,0 +1,22 @@
+{
+  "name": "Honda Protocol",
+  "symbol": "Honda Protocol",
+  "decimals": 18,
+  "description": "Honda Protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Honda%20Protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Honda Protocol",
+  "addresses": {
+    "8453": "0x3bffba53a6093f80d8917a2180e01f62a6f7179a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Honda Protocol",
+    "sanitizedSymbol": "HONDA_PROTOCOL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1292071",
+    "lockerAddress": "0x9A7B32b86cF7269F4dC6e18Affb6A054E0fBd865"
+  },
+  "clankerInfo": null
+}

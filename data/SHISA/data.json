@@ -1,0 +1,22 @@
+{
+  "name": "SHISA",
+  "symbol": "SHISA",
+  "decimals": 18,
+  "description": "SHISA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHISA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHISA",
+  "addresses": {
+    "8453": "0x2cc3b7c4cd0d079a6297a936bc79cb7c466de4ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHISA",
+    "sanitizedSymbol": "SHISA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF2A3d3b0D4296969ec3941Ff59236E3F2f5a8879",
+    "lpNftId": "1326323",
+    "lockerAddress": "0x0C9A1a9Ab1EE6E02106ac64866f0D8d88a926008"
+  },
+  "clankerInfo": null
+}

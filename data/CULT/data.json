@@ -1,0 +1,22 @@
+{
+  "name": "CULT",
+  "symbol": "CULT",
+  "decimals": 18,
+  "description": "CULT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CULT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CULT",
+  "addresses": {
+    "8453": "0x25eb3470e807ae017521b1015b0262b71dd95b2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CULT",
+    "sanitizedSymbol": "CULT",
+    "created_at": "2024-12-09T13:02:33.74616",
+    "deployer": "0xD9e10135beE11A553A4d947EfAbCb56892b1eE1C",
+    "lpNftId": "1387236",
+    "lockerAddress": "0xAa553cf627824D9aF1E2a750C92CdE924d7eE469"
+  },
+  "clankerInfo": null
+}

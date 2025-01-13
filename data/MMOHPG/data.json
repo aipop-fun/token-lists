@@ -1,0 +1,22 @@
+{
+  "name": "mmohpg",
+  "symbol": "mmohpg",
+  "decimals": 18,
+  "description": "mmohpg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mmohpg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mmohpg",
+  "addresses": {
+    "8453": "0x347f166c1271b252fcd4b60d1d3ff166b13d333d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mmohpg",
+    "sanitizedSymbol": "MMOHPG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216937",
+    "lockerAddress": "0x5b116830192BA172Df713BF09404b77424816f09"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "miftah",
+  "symbol": "miftah",
+  "decimals": 18,
+  "description": "miftah is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=miftah",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "miftah",
+  "addresses": {
+    "8453": "0x01736e58ffb0f8e0abbda26175695f7a4c5c9b6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "miftah",
+    "sanitizedSymbol": "MIFTAH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x198319fD535A191649568aA60819bf1BC4C2F9fc",
+    "lpNftId": "1330151",
+    "lockerAddress": "0x8e3b296231ed4e4A83D1D4aDdCAAa0a2e9055f71"
+  },
+  "clankerInfo": null
+}

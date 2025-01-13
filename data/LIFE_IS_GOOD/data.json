@@ -1,0 +1,22 @@
+{
+  "name": "Life is good",
+  "symbol": "Life is good",
+  "decimals": 18,
+  "description": "Life is good is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Life%20is%20good",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Life is good",
+  "addresses": {
+    "8453": "0x36e26914ee3a625b62f90d0fcb9c8cb65a96b749"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Life is good",
+    "sanitizedSymbol": "LIFE_IS_GOOD",
+    "created_at": "2024-12-10T09:29:28.969173",
+    "deployer": "0xD323CADF127ddA1cA384A9a819BfB292534d6bBa",
+    "lpNftId": "1399243",
+    "lockerAddress": "0xE1455738Bf12D145BD7Ff5CA4EadB36B1215AFe5"
+  },
+  "clankerInfo": null
+}

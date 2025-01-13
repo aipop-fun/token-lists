@@ -1,0 +1,22 @@
+{
+  "name": "BigB00bs",
+  "symbol": "BigB00bs",
+  "decimals": 18,
+  "description": "BigB00bs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BigB00bs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BigB00bs",
+  "addresses": {
+    "8453": "0x3df27c0ca00c8f1dbccaa5c89207e2ebdb5ddb2c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BigB00bs",
+    "sanitizedSymbol": "BIGB00BS",
+    "created_at": "2024-12-11T00:41:47.386833",
+    "deployer": "0x07201C14151CEF136304652BfD63838f450c5051",
+    "lpNftId": "1409019",
+    "lockerAddress": "0x50aFE271395472c7c5F251Acf0a663A99Ac6791D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pop Cat",
+  "symbol": "Pop Cat",
+  "decimals": 18,
+  "description": "Pop Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pop%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pop Cat",
+  "addresses": {
+    "8453": "0x0140d27933a005ab5ee984b2638acdb49d40fef9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pop Cat",
+    "sanitizedSymbol": "POP_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35A4d8986fE7Cc871FB6983424Bc40adc3DBa01b",
+    "lpNftId": "1311896",
+    "lockerAddress": "0x9599ebf406537567D442457708042F15CbB765B0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CORE",
+  "symbol": "CORE",
+  "decimals": 18,
+  "description": "CORE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CORE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CORE",
+  "addresses": {
+    "8453": "0x242e71afad3f48553b547ac9290b2108e655801b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CORE",
+    "sanitizedSymbol": "CORE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa74FaeBC8cdCA953E2bebF2F6E86927162ACfD13",
+    "lpNftId": "1376039",
+    "lockerAddress": "0x19a36234D26c715a5675997408BA2C66F993a6BB"
+  },
+  "clankerInfo": null
+}

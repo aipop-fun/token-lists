@@ -1,0 +1,22 @@
+{
+  "name": "Deez nuts",
+  "symbol": "Deez nuts",
+  "decimals": 18,
+  "description": "Deez nuts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deez%20nuts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deez nuts",
+  "addresses": {
+    "8453": "0x09a2fdfaa1b0b95ffd6397bbb4d3d875c1296d66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deez nuts",
+    "sanitizedSymbol": "DEEZ_NUTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1310703",
+    "lockerAddress": "0xa9682BA19ed3673E774CbC0270a5323375CEDAB2"
+  },
+  "clankerInfo": null
+}

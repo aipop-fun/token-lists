@@ -1,0 +1,22 @@
+{
+  "name": "Chillsanta",
+  "symbol": "Chillsanta",
+  "decimals": 18,
+  "description": "Chillsanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chillsanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chillsanta",
+  "addresses": {
+    "8453": "0x27823b2f8abd530bf3cc309e09f0e9b66ef29429"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chillsanta",
+    "sanitizedSymbol": "CHILLSANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x577d7699458B9DE7DeAea18A31058Fa77BBbF14a",
+    "lpNftId": "1310080",
+    "lockerAddress": "0x67EdD223D0b5B92DE09367f0b75D632aA94D6B7a"
+  },
+  "clankerInfo": null
+}

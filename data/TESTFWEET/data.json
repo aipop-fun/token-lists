@@ -1,0 +1,22 @@
+{
+  "name": "TestFweet",
+  "symbol": "TestFweet",
+  "decimals": 18,
+  "description": "TestFweet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TestFweet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TestFweet",
+  "addresses": {
+    "8453": "0x022798f22daac074d0c249841f2e625b0a55958d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TestFweet",
+    "sanitizedSymbol": "TESTFWEET",
+    "created_at": "2024-12-11T15:31:45.378815",
+    "deployer": "0x5B656406F695409fB12aaAC20faDB9B2194121B2",
+    "lpNftId": "1420986",
+    "lockerAddress": "0xf3860Ef879F52596d53601a70616bb1C4c783D34"
+  },
+  "clankerInfo": null
+}

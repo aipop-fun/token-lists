@@ -1,0 +1,22 @@
+{
+  "name": "Earth Gravity",
+  "symbol": "Earth Gravity",
+  "decimals": 18,
+  "description": "Earth Gravity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Earth%20Gravity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Earth Gravity",
+  "addresses": {
+    "8453": "0x4085c138d206f579288596dbdd42f8ece1bea135"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Earth Gravity",
+    "sanitizedSymbol": "EARTH_GRAVITY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1324105",
+    "lockerAddress": "0xBcE0d4F177bBd719191557b43938c8719316a269"
+  },
+  "clankerInfo": null
+}

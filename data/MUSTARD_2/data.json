@@ -1,0 +1,22 @@
+{
+  "name": "Mustard",
+  "symbol": "Mustard",
+  "decimals": 18,
+  "description": "Mustard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mustard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mustard",
+  "addresses": {
+    "8453": "0x032d1aabb4416a875a961b39b95abfc1dba5f562"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mustard",
+    "sanitizedSymbol": "MUSTARD_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1324655",
+    "lockerAddress": "0x12471B3B2949386F5e209956191Bed0491336995"
+  },
+  "clankerInfo": null
+}

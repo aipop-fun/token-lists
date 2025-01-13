@@ -1,0 +1,22 @@
+{
+  "name": "Freedom Coin",
+  "symbol": "Freedom Coin",
+  "decimals": 18,
+  "description": "Freedom Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Freedom%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Freedom Coin",
+  "addresses": {
+    "8453": "0x34af9ea51c6eab2ae67f31c7f81a781f30e43e42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Freedom Coin",
+    "sanitizedSymbol": "FREEDOM_COIN_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173717",
+    "lockerAddress": "0x54fF15aDC91A801B4A0D535dccCE687d0eF33218"
+  },
+  "clankerInfo": null
+}

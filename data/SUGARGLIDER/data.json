@@ -1,0 +1,22 @@
+{
+  "name": "SugarGlider",
+  "symbol": "SugarGlider",
+  "decimals": 18,
+  "description": "SugarGlider is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SugarGlider",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SugarGlider",
+  "addresses": {
+    "8453": "0x1fd74355135e007aaf903ca51f208409ab9af425"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SugarGlider",
+    "sanitizedSymbol": "SUGARGLIDER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1549DA3d2f9436e087dB7A312A6b7d082E1E52c8",
+    "lpNftId": "1282778",
+    "lockerAddress": "0xdf981B9F5AD95630E16ddF8D35EfE46C0de0FB98"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MEME WARPCAST",
+  "symbol": "MEME WARPCAST",
+  "decimals": 18,
+  "description": "MEME WARPCAST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20WARPCAST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME WARPCAST",
+  "addresses": {
+    "8453": "0x206a78b79df145756a990b73318cd04c2a880319"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME WARPCAST",
+    "sanitizedSymbol": "MEME_WARPCAST",
+    "created_at": "2024-12-12T13:22:02.927596",
+    "deployer": "0x3937A5A5f2DC66f726ec9a57b70BC01681203aD7",
+    "lpNftId": "1434916",
+    "lockerAddress": "0x2A58111Bb76EBc20a10b33007829E12d03413234"
+  },
+  "clankerInfo": null
+}

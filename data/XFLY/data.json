@@ -1,0 +1,22 @@
+{
+  "name": "XFLY",
+  "symbol": "XFLY",
+  "decimals": 18,
+  "description": "XFLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XFLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XFLY",
+  "addresses": {
+    "8453": "0x3a6b8e738ad0bc548045504885d8cf7f29f17db3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XFLY",
+    "sanitizedSymbol": "XFLY",
+    "created_at": "2024-12-12T17:47:43.212727",
+    "deployer": "0xc717f7aC1550d0Aa2B0319bA3F39499cf2CC618a",
+    "lpNftId": "1440064",
+    "lockerAddress": "0x8B6283383A1FEBb091F9839bF83A4Cd512B877a8"
+  },
+  "clankerInfo": null
+}

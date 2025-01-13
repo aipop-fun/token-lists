@@ -1,0 +1,22 @@
+{
+  "name": "RizzMario",
+  "symbol": "RizzMario",
+  "decimals": 18,
+  "description": "RizzMario is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RizzMario",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RizzMario",
+  "addresses": {
+    "8453": "0x35dc511e6ddd0ebdfbff73baf5c9ed7be68fed95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RizzMario",
+    "sanitizedSymbol": "RIZZMARIO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1E54f65db2c84c16418417C97f4E69A540AC8ded",
+    "lpNftId": "1251186",
+    "lockerAddress": "0xfdc5F45A5D788F7d50396E8423143b3De62f870F"
+  },
+  "clankerInfo": null
+}

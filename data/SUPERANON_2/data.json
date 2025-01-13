@@ -1,0 +1,22 @@
+{
+  "name": "superanon",
+  "symbol": "superanon",
+  "decimals": 18,
+  "description": "superanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=superanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "superanon",
+  "addresses": {
+    "8453": "0x16992c4021013a42108fc1719f40dfb69b7d6715"
+  },
+  "tokenInfo": {
+    "originalSymbol": "superanon",
+    "sanitizedSymbol": "SUPERANON_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x84ce35C1093C366a8f55E9BD5290ae7E32B486De",
+    "lpNftId": "1326672",
+    "lockerAddress": "0x1B6DB055B49CE645267351F091066920552C99d2"
+  },
+  "clankerInfo": null
+}

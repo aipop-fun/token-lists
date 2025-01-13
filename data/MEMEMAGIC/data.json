@@ -1,0 +1,22 @@
+{
+  "name": "memeMagic",
+  "symbol": "memeMagic",
+  "decimals": 18,
+  "description": "memeMagic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=memeMagic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "memeMagic",
+  "addresses": {
+    "8453": "0x11fea0860c40149b4363bb4fe89d6da8b22bad00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "memeMagic",
+    "sanitizedSymbol": "MEMEMAGIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153784",
+    "lockerAddress": "0xCFC68ea1F4132bC8fd645cCd076a4eb714970BEd"
+  },
+  "clankerInfo": null
+}

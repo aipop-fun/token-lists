@@ -1,0 +1,22 @@
+{
+  "name": "suonimul",
+  "symbol": "suonimul",
+  "decimals": 18,
+  "description": "suonimul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=suonimul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "suonimul",
+  "addresses": {
+    "8453": "0x16ad010a9d97b84f4531e542bb955e1c963e0e1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "suonimul",
+    "sanitizedSymbol": "SUONIMUL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219782",
+    "lockerAddress": "0xe260BA3B42aBBCb5F4c4b91d754A0E8af395453d"
+  },
+  "clankerInfo": null
+}

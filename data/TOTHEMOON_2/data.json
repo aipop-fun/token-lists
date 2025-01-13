@@ -1,0 +1,22 @@
+{
+  "name": "TOTHEMOON",
+  "symbol": "TOTHEMOON",
+  "decimals": 18,
+  "description": "TOTHEMOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOTHEMOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOTHEMOON",
+  "addresses": {
+    "8453": "0x1a59c3905abfcda0c3d4cd675e2638ecbef52bf0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOTHEMOON",
+    "sanitizedSymbol": "TOTHEMOON_2",
+    "created_at": "2024-12-10T00:56:45.05907",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1394050",
+    "lockerAddress": "0x8b2F2C53619de6dB1400b4d51E1cA7C81DeBf4B4"
+  },
+  "clankerInfo": null
+}

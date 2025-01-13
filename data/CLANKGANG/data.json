@@ -1,0 +1,22 @@
+{
+  "name": "Clankgang",
+  "symbol": "Clankgang",
+  "decimals": 18,
+  "description": "Clankgang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankgang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankgang",
+  "addresses": {
+    "8453": "0x0a862ebf331f9b1189b2330acfb97dc85dcf5e1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankgang",
+    "sanitizedSymbol": "CLANKGANG",
+    "created_at": "2024-12-10T23:07:19.140401",
+    "deployer": "0x548D284Fa71b6fBFa89B914672b20A4b64112D33",
+    "lpNftId": "1408234",
+    "lockerAddress": "0x66C125175bfA13318Ca378E2059fF882885e4e4a"
+  },
+  "clankerInfo": null
+}

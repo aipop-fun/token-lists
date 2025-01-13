@@ -1,0 +1,22 @@
+{
+  "name": "capslook",
+  "symbol": "capslook",
+  "decimals": 18,
+  "description": "capslook is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=capslook",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "capslook",
+  "addresses": {
+    "8453": "0x15f1f11c6ef3d782c3f7c56c45ff52c2feb40caf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "capslook",
+    "sanitizedSymbol": "CAPSLOOK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC7358a7b3ABd31D5Ee66d8F6e643A6F56aEB2e59",
+    "lpNftId": "1317391",
+    "lockerAddress": "0xFf16c9958D7Bc3A9Fb007E67e587B2c98a2864eA"
+  },
+  "clankerInfo": null
+}

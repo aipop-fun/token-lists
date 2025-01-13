@@ -1,0 +1,22 @@
+{
+  "name": "BawndCoin",
+  "symbol": "BawndCoin",
+  "decimals": 18,
+  "description": "BawndCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BawndCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BawndCoin",
+  "addresses": {
+    "8453": "0x27615f382cfaaf3dccd0da6e5b6f6ed325683b72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BawndCoin",
+    "sanitizedSymbol": "BAWNDCOIN",
+    "created_at": "2024-12-11T16:51:48.87413",
+    "deployer": "0x08f549F45d5e83bFFA7eB44f0960161FD9D8A090",
+    "lpNftId": "1422110",
+    "lockerAddress": "0x9f6a16516e823b4D11437a260006188cc07fe2E6"
+  },
+  "clankerInfo": null
+}

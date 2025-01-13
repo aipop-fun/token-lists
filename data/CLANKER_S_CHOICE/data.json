@@ -1,0 +1,22 @@
+{
+  "name": "Clanker's Choice",
+  "symbol": "Clanker's Choice",
+  "decimals": 18,
+  "description": "Clanker's Choice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker's%20Choice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker's Choice",
+  "addresses": {
+    "8453": "0x30b673a7d5475a970a26f57262ef133daff54d68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker's Choice",
+    "sanitizedSymbol": "CLANKER_S_CHOICE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159146",
+    "lockerAddress": "0xd222A34e2Ff13a85616EE3359206dCE17d81f8f9"
+  },
+  "clankerInfo": null
+}

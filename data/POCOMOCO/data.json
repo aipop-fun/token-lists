@@ -1,0 +1,22 @@
+{
+  "name": "pocomoco",
+  "symbol": "pocomoco",
+  "decimals": 18,
+  "description": "pocomoco is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pocomoco",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pocomoco",
+  "addresses": {
+    "8453": "0x1b62f5f4d9f098201d2edfd240b6bfcefd3f287f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pocomoco",
+    "sanitizedSymbol": "POCOMOCO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x3E755b7b7b4934648Eeb237C93084726f1442763",
+    "lpNftId": "1250719",
+    "lockerAddress": "0xe9af5e53df2328DA30CFd78A48436a7e8406ef3c"
+  },
+  "clankerInfo": null
+}

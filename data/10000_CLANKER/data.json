@@ -1,0 +1,22 @@
+{
+  "name": "10000 clanker",
+  "symbol": "10000 clanker",
+  "decimals": 18,
+  "description": "10000 clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=10000%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "10000 clanker",
+  "addresses": {
+    "8453": "0x316938e4dbf844ee2361944472b663a29bb42372"
+  },
+  "tokenInfo": {
+    "originalSymbol": "10000 clanker",
+    "sanitizedSymbol": "10000_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x506Eda046dEa4175E3445ee66333226d81ad811e",
+    "lpNftId": "1331500",
+    "lockerAddress": "0x4080e6BD5e224162A82CF6f5A7d3262d8a82BfA5"
+  },
+  "clankerInfo": null
+}

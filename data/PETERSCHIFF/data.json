@@ -1,0 +1,22 @@
+{
+  "name": "PeterSchiff",
+  "symbol": "PeterSchiff",
+  "decimals": 18,
+  "description": "PeterSchiff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PeterSchiff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PeterSchiff",
+  "addresses": {
+    "8453": "0x2c9c383b41fe1ae6b97cf5586ba7feb9f74e2d5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PeterSchiff",
+    "sanitizedSymbol": "PETERSCHIFF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6E44C9F85B1C68567a77cD2E1071aC9c78fd37d7",
+    "lpNftId": "1331000",
+    "lockerAddress": "0x0F73C2D238F340b33c54EbB5c5f6CF8583F9E291"
+  },
+  "clankerInfo": null
+}

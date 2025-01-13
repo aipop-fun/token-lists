@@ -1,0 +1,22 @@
+{
+  "name": "CHAOS",
+  "symbol": "CHAOS",
+  "decimals": 18,
+  "description": "CHAOS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAOS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAOS",
+  "addresses": {
+    "8453": "0x20d1287cc658697c65d21bfa99f4b8b9ca15eac6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAOS",
+    "sanitizedSymbol": "CHAOS_4",
+    "created_at": "2024-12-12T14:53:53.982403",
+    "deployer": "0xd519D6eF16aD26b16Fd9485aF53BE503596cf2Ef",
+    "lpNftId": "1436425",
+    "lockerAddress": "0x2ad42d45eDc9Fa56F8b845f806aa57d85296CE43"
+  },
+  "clankerInfo": null
+}

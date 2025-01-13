@@ -1,0 +1,22 @@
+{
+  "name": "DipsyVerse",
+  "symbol": "DipsyVerse",
+  "decimals": 18,
+  "description": "DipsyVerse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DipsyVerse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DipsyVerse",
+  "addresses": {
+    "8453": "0x327303b80a14885f76dc25293e1d3e98bd85d11a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DipsyVerse",
+    "sanitizedSymbol": "DIPSYVERSE",
+    "created_at": "2024-12-09T05:32:20.802654",
+    "deployer": "0x360347b756C94A2241833b1712dF5C265d7c28B3",
+    "lpNftId": "1383208",
+    "lockerAddress": "0x4D8B64aF5Cf8F2019b201358A78F88fb7A504772"
+  },
+  "clankerInfo": null
+}

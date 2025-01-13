@@ -1,0 +1,22 @@
+{
+  "name": "Baby Santa",
+  "symbol": "Baby Santa",
+  "decimals": 18,
+  "description": "Baby Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Santa",
+  "addresses": {
+    "8453": "0x2f50018971ca1ab980e27d9704cf0c0c8ae67d6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Santa",
+    "sanitizedSymbol": "BABY_SANTA",
+    "created_at": "2024-12-10T22:09:05.450356",
+    "deployer": "0xAc8F6A1b7fc376935F4c5c8709d73abFa6b1F0D4",
+    "lpNftId": "1407803",
+    "lockerAddress": "0x67E8AfB96468FCaDA4E23Fc71fFf01343E0aFC38"
+  },
+  "clankerInfo": null
+}

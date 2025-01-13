@@ -1,0 +1,22 @@
+{
+  "name": "Donk",
+  "symbol": "Donk",
+  "decimals": 18,
+  "description": "Donk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Donk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Donk",
+  "addresses": {
+    "8453": "0x318618dbff25d4b1c26c2a962e099793c1a44021"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Donk",
+    "sanitizedSymbol": "DONK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x21Ed0A373d20980092B07D23750E0677bdA68771",
+    "lpNftId": "1319924",
+    "lockerAddress": "0xDc1A88aaDB0a8Ab127847356A480041dE4AbFd7c"
+  },
+  "clankerInfo": null
+}

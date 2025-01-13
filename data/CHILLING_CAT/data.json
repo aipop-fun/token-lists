@@ -1,0 +1,22 @@
+{
+  "name": "chilling cat",
+  "symbol": "chilling cat",
+  "decimals": 18,
+  "description": "chilling cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chilling%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chilling cat",
+  "addresses": {
+    "8453": "0x0a58a597524961d0494ebc3183d5f86049d6f802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chilling cat",
+    "sanitizedSymbol": "CHILLING_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98dc27fA946F1E5911354Bf866eE3302091D976E",
+    "lpNftId": "1306096",
+    "lockerAddress": "0x3Acdb32af9d4d617B6ad2C473D8f4735F5f78431"
+  },
+  "clankerInfo": null
+}

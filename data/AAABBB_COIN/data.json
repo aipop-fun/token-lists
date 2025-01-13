@@ -1,0 +1,22 @@
+{
+  "name": "aaabbb Coin",
+  "symbol": "aaabbb Coin",
+  "decimals": 18,
+  "description": "aaabbb Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aaabbb%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aaabbb Coin",
+  "addresses": {
+    "8453": "0x2731982e32c3cb3ee56312e33f6c49a3da39c593"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aaabbb Coin",
+    "sanitizedSymbol": "AAABBB_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156474",
+    "lockerAddress": "0x381a96C2a363a9a217AAcAd989d0b580203a21a3"
+  },
+  "clankerInfo": null
+}

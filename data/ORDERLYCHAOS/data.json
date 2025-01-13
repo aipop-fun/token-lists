@@ -1,0 +1,22 @@
+{
+  "name": "OrderlyChaos",
+  "symbol": "OrderlyChaos",
+  "decimals": 18,
+  "description": "OrderlyChaos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OrderlyChaos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OrderlyChaos",
+  "addresses": {
+    "8453": "0x09993e0633ab242140c0d9bbd83c3e68bb368464"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OrderlyChaos",
+    "sanitizedSymbol": "ORDERLYCHAOS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156634",
+    "lockerAddress": "0xD9356638CEBC175af30d0E228e60C89b80c75feb"
+  },
+  "clankerInfo": null
+}

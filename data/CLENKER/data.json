@@ -1,0 +1,22 @@
+{
+  "name": "CLENKER",
+  "symbol": "CLENKER",
+  "decimals": 18,
+  "description": "CLENKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLENKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLENKER",
+  "addresses": {
+    "8453": "0x05009e545279f1b7698b6f3c542a8691b64fcc86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLENKER",
+    "sanitizedSymbol": "CLENKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x00dA7eF5808CeBe7B35289A1173D9f1e271BB775",
+    "lpNftId": "1275949",
+    "lockerAddress": "0x046C90e13bcd818e72cA1D35ec19df6AE9aaFa91"
+  },
+  "clankerInfo": null
+}

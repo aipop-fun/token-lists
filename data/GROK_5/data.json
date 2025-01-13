@@ -1,0 +1,22 @@
+{
+  "name": "GROK",
+  "symbol": "GROK",
+  "decimals": 18,
+  "description": "GROK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GROK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GROK",
+  "addresses": {
+    "8453": "0x1c1eb7952a4d01febb1c6ba27fdfa2d5feff70ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GROK",
+    "sanitizedSymbol": "GROK_5",
+    "created_at": "2024-12-12T21:26:13.018226",
+    "deployer": "0xd7C20CC14E9c1aCAa77BEb79585b12b3406d4B30",
+    "lpNftId": "1443620",
+    "lockerAddress": "0xf13fF8ae44Bb2635990d310442dae8d07471729D"
+  },
+  "clankerInfo": null
+}

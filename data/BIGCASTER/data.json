@@ -1,0 +1,22 @@
+{
+  "name": "Bigcaster",
+  "symbol": "Bigcaster",
+  "decimals": 18,
+  "description": "Bigcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bigcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bigcaster",
+  "addresses": {
+    "8453": "0x132c693a3ce6125ef5259b2a81d25fb293495398"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bigcaster",
+    "sanitizedSymbol": "BIGCASTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1376087",
+    "lockerAddress": "0x14292dC1a027FEFBAAD17890372EA4abd06F3c50"
+  },
+  "clankerInfo": null
+}

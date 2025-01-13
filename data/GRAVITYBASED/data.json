@@ -1,0 +1,22 @@
+{
+  "name": "GRAVITYBASED",
+  "symbol": "GRAVITYBASED",
+  "decimals": 18,
+  "description": "GRAVITYBASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GRAVITYBASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GRAVITYBASED",
+  "addresses": {
+    "8453": "0x00454f60fdd7399070f4b04e4fd0fa13f91a6629"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GRAVITYBASED",
+    "sanitizedSymbol": "GRAVITYBASED",
+    "created_at": "2024-12-10T19:13:29.086469",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1406029",
+    "lockerAddress": "0x14bbD0C07985DbB61D158dA9AF28Bd9F2a348C53"
+  },
+  "clankerInfo": null
+}

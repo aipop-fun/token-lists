@@ -1,0 +1,22 @@
+{
+  "name": "botsnip",
+  "symbol": "botsnip",
+  "decimals": 18,
+  "description": "botsnip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=botsnip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "botsnip",
+  "addresses": {
+    "8453": "0x375c8d91b1741d772b16cfd32b3f570bcdcc7621"
+  },
+  "tokenInfo": {
+    "originalSymbol": "botsnip",
+    "sanitizedSymbol": "BOTSNIP",
+    "created_at": "2024-12-10T19:29:49.431114",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1406196",
+    "lockerAddress": "0x8f3B866D1a50e2F81Ac8eb85F087160A9a524f59"
+  },
+  "clankerInfo": null
+}

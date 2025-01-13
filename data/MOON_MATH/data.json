@@ -1,0 +1,22 @@
+{
+  "name": "Moon Math",
+  "symbol": "Moon Math",
+  "decimals": 18,
+  "description": "Moon Math is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moon%20Math",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moon Math",
+  "addresses": {
+    "8453": "0x29b5c83ff56a3aac28ac1a423d44d9d951e4429f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moon Math",
+    "sanitizedSymbol": "MOON_MATH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x971bfc59bbC68641Ca75800fd89a8B11f26C428E",
+    "lpNftId": "1308455",
+    "lockerAddress": "0x37AEc8424a2d8B27590402afF1365033BBf9ef4f"
+  },
+  "clankerInfo": null
+}

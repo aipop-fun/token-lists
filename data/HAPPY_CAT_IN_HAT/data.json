@@ -1,0 +1,22 @@
+{
+  "name": "HAPPY cat in hat",
+  "symbol": "HAPPY cat in hat",
+  "decimals": 18,
+  "description": "HAPPY cat in hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAPPY%20cat%20in%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAPPY cat in hat",
+  "addresses": {
+    "8453": "0x3dc98956615a995fcf4f410aaf7a5cd9dd14015c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAPPY cat in hat",
+    "sanitizedSymbol": "HAPPY_CAT_IN_HAT",
+    "created_at": "2024-12-09T17:16:55.300246",
+    "deployer": "0x0e2AeEAa52752E111FFA3609409Bc6bB55A87cE7",
+    "lpNftId": "1389630",
+    "lockerAddress": "0x38f429886939e97872C9DC4b6e6fdb09b92c831d"
+  },
+  "clankerInfo": null
+}

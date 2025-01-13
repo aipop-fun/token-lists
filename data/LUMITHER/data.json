@@ -1,0 +1,22 @@
+{
+  "name": "Lumither",
+  "symbol": "Lumither",
+  "decimals": 18,
+  "description": "Lumither is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lumither",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lumither",
+  "addresses": {
+    "8453": "0x26de41314adc54fc1d148eb9c607bcc2ba75c559"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lumither",
+    "sanitizedSymbol": "LUMITHER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150770",
+    "lockerAddress": "0x212554D646581e54D8FDb98d503053e23f559a07"
+  },
+  "clankerInfo": null
+}

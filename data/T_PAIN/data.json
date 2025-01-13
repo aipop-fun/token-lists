@@ -1,0 +1,22 @@
+{
+  "name": "T-Pain",
+  "symbol": "T-Pain",
+  "decimals": 18,
+  "description": "T-Pain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=T-Pain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "T-Pain",
+  "addresses": {
+    "8453": "0x2431096502927ee2b58a582ecbef60975739a305"
+  },
+  "tokenInfo": {
+    "originalSymbol": "T-Pain",
+    "sanitizedSymbol": "T_PAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152559",
+    "lockerAddress": "0xe508cbdB05d1348B37b087F2EbF777c65cA7012b"
+  },
+  "clankerInfo": null
+}

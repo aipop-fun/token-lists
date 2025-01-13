@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Dog",
+  "symbol": "Farcaster Dog",
+  "decimals": 18,
+  "description": "Farcaster Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Dog",
+  "addresses": {
+    "8453": "0x14393b5e5acb9372f46426c2ec8ff7dee0145779"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Dog",
+    "sanitizedSymbol": "FARCASTER_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1652c63d51105A9ac631da5138e84Ec849253d2E",
+    "lpNftId": "1322538",
+    "lockerAddress": "0xc43F4c367a2e7210294087C98c0b1DC49D39BAd2"
+  },
+  "clankerInfo": null
+}

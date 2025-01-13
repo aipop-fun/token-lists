@@ -1,0 +1,22 @@
+{
+  "name": "Trash Bear",
+  "symbol": "Trash Bear",
+  "decimals": 18,
+  "description": "Trash Bear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trash%20Bear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trash Bear",
+  "addresses": {
+    "8453": "0x1da08ff4f653691fe2f0b024651edc76b7f8909e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trash Bear",
+    "sanitizedSymbol": "TRASH_BEAR",
+    "created_at": "2024-12-11T16:58:07.232407",
+    "deployer": "0xcf75Bf188c5CA5198eF571aed3D75ECDe3bcD9D9",
+    "lpNftId": "1422153",
+    "lockerAddress": "0x66218a4008F38299303Fba96e93456a943fe32F7"
+  },
+  "clankerInfo": null
+}

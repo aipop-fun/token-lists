@@ -1,0 +1,22 @@
+{
+  "name": "longgg",
+  "symbol": "longgg",
+  "decimals": 18,
+  "description": "longgg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=longgg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "longgg",
+  "addresses": {
+    "8453": "0x3514ec90679f6f337d31ff95d6b7a7f4bbde4b02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "longgg",
+    "sanitizedSymbol": "LONGGG",
+    "created_at": "2024-12-12T05:25:24.351529",
+    "deployer": "0x751814f2fe2Cdf48696621eE133BCad889BB6e8c",
+    "lpNftId": "1429382",
+    "lockerAddress": "0x1815d502C6f7ac3ee3A1e959438322685beA25B7"
+  },
+  "clankerInfo": null
+}

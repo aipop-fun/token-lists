@@ -1,0 +1,22 @@
+{
+  "name": "Let them eat cake",
+  "symbol": "Let them eat cake",
+  "decimals": 18,
+  "description": "Let them eat cake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Let%20them%20eat%20cake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Let them eat cake",
+  "addresses": {
+    "8453": "0x0da0b4963696ff1438ebba15826e706ca30a7351"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Let them eat cake",
+    "sanitizedSymbol": "LET_THEM_EAT_CAKE",
+    "created_at": "2024-12-09T16:04:58.833045",
+    "deployer": "0xd13E8875C8d9b0E6C51dB4B4EE8D0A5223948879",
+    "lpNftId": "1388943",
+    "lockerAddress": "0x02Ec1EB13A419eC972a767d4aF94AF0501D9FfD0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blabbercoin",
+  "symbol": "Blabbercoin",
+  "decimals": 18,
+  "description": "Blabbercoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blabbercoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blabbercoin",
+  "addresses": {
+    "8453": "0x327d90d44cba0f490b62e7d9215ce484800cd6c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blabbercoin",
+    "sanitizedSymbol": "BLABBERCOIN",
+    "created_at": "2024-12-10T05:49:57.361556",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397149",
+    "lockerAddress": "0xaDce8F7a05D38E4B52e0ca2529D5A3a840cFcbAF"
+  },
+  "clankerInfo": null
+}

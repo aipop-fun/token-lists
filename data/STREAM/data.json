@@ -1,0 +1,22 @@
+{
+  "name": "Stream",
+  "symbol": "Stream",
+  "decimals": 18,
+  "description": "Stream is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stream",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stream",
+  "addresses": {
+    "8453": "0x232b1cd7953b1ff0b508e35aa49711dcfb784827"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stream",
+    "sanitizedSymbol": "STREAM",
+    "created_at": "2024-12-11T22:52:29.09526",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1427476",
+    "lockerAddress": "0x18cFa15da4200aE01FE9F60f7eF51AF369172b83"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YOBOY",
+  "symbol": "YOBOY",
+  "decimals": 18,
+  "description": "YOBOY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOBOY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOBOY",
+  "addresses": {
+    "8453": "0x00b1e54fbdb90be9639951750f36f94d225e9d6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOBOY",
+    "sanitizedSymbol": "YOBOY",
+    "created_at": "2024-12-12T04:24:17.36215",
+    "deployer": "0x45Ab0aee013747067D7F1789A23ce7Ca3d249FBb",
+    "lpNftId": "1429143",
+    "lockerAddress": "0xF884B0d617D78104B6cf826E0b1EfA19bc4Ce234"
+  },
+  "clankerInfo": null
+}

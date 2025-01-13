@@ -1,0 +1,22 @@
+{
+  "name": "SOCRATES",
+  "symbol": "SOCRATES",
+  "decimals": 18,
+  "description": "SOCRATES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SOCRATES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SOCRATES",
+  "addresses": {
+    "8453": "0x2b245d2ddcd69cede7bf0c72a606c8d1b9e0c9be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SOCRATES",
+    "sanitizedSymbol": "SOCRATES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1310739",
+    "lockerAddress": "0x32CBE9F6A731FFBeD8854B2e897ccc775855Bf86"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Terand",
+  "symbol": "Terand",
+  "decimals": 18,
+  "description": "Terand is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Terand",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Terand",
+  "addresses": {
+    "8453": "0x002763f5264264e049d538c3a9d09e2bc1be7024"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Terand",
+    "sanitizedSymbol": "TERAND_1",
+    "created_at": "2024-12-09T20:07:32.905138",
+    "deployer": "0x60245FBaFbe266c0E47bD33D007956425E33C975",
+    "lpNftId": "1391409",
+    "lockerAddress": "0xe5cE0e0E88d1D9f6b68bA1aCf206DA44f6F12cD1"
+  },
+  "clankerInfo": null
+}

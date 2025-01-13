@@ -1,0 +1,22 @@
+{
+  "name": "BRAWL",
+  "symbol": "BRAWL",
+  "decimals": 18,
+  "description": "BRAWL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRAWL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRAWL",
+  "addresses": {
+    "8453": "0x2b009ce9274127ad01b07c397c9ad71d75192d5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRAWL",
+    "sanitizedSymbol": "BRAWL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220289",
+    "lockerAddress": "0x7a6555ed39907Ff239d81E6F67b12D2f2986Aa15"
+  },
+  "clankerInfo": null
+}

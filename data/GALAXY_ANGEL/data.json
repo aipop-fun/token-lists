@@ -1,0 +1,22 @@
+{
+  "name": "Galaxy Angel",
+  "symbol": "Galaxy Angel",
+  "decimals": 18,
+  "description": "Galaxy Angel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Galaxy%20Angel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Galaxy Angel",
+  "addresses": {
+    "8453": "0x00d8a832a7635bbc1acdb5db40065c28f91c5130"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Galaxy Angel",
+    "sanitizedSymbol": "GALAXY_ANGEL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1297260",
+    "lockerAddress": "0x05bC2c2C4c181fEe305d1FeB1cE2610A5062736A"
+  },
+  "clankerInfo": null
+}

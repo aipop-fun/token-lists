@@ -1,0 +1,22 @@
+{
+  "name": "Kimchi",
+  "symbol": "Kimchi",
+  "decimals": 18,
+  "description": "Kimchi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kimchi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kimchi",
+  "addresses": {
+    "8453": "0x31ad8b63ed7b65c5d1c38a13376145ea1e0dd59f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kimchi",
+    "sanitizedSymbol": "KIMCHI_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F2f644A37924532d501A00dC4356EE376be2276",
+    "lpNftId": "1309404",
+    "lockerAddress": "0x9b58bfFD3Fcd89f936bb617E5DC8847274958d17"
+  },
+  "clankerInfo": null
+}

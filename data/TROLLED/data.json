@@ -1,0 +1,22 @@
+{
+  "name": "trolled",
+  "symbol": "trolled",
+  "decimals": 18,
+  "description": "trolled is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trolled",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trolled",
+  "addresses": {
+    "8453": "0x165fb37d9d7483038baed8b6b919ed95257efba0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trolled",
+    "sanitizedSymbol": "TROLLED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164064",
+    "lockerAddress": "0x58E018622d5821BE4De7FE0037Ba905cD35Ebd37"
+  },
+  "clankerInfo": null
+}

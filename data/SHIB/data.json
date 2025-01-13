@@ -1,0 +1,22 @@
+{
+  "name": "shib",
+  "symbol": "shib",
+  "decimals": 18,
+  "description": "shib is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shib",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shib",
+  "addresses": {
+    "8453": "0x382ffa4b7edd3ea5b1ebeb5209ea891639028509"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shib",
+    "sanitizedSymbol": "SHIB",
+    "created_at": "2024-12-11T13:08:05.637181",
+    "deployer": "0xD37EE843d8a906912543F01E43f13fD7F7753EE2",
+    "lpNftId": "1418813",
+    "lockerAddress": "0x5815645B1861c9edcbdd4e9694B61a13D8892415"
+  },
+  "clankerInfo": null
+}

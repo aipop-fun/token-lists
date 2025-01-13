@@ -1,0 +1,22 @@
+{
+  "name": "Meme Coin Mania",
+  "symbol": "Meme Coin Mania",
+  "decimals": 18,
+  "description": "Meme Coin Mania is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Coin%20Mania",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Coin Mania",
+  "addresses": {
+    "8453": "0x08110873e7f34296fcacb240daebb38fe5a4b2fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Coin Mania",
+    "sanitizedSymbol": "MEME_COIN_MANIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09A900eB2ff6e9AcA12d4d1a396DdC9bE0307661",
+    "lpNftId": "1312758",
+    "lockerAddress": "0x37cc2E34B20814dbBbb93d6C231cF2B384eEA263"
+  },
+  "clankerInfo": null
+}

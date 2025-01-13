@@ -1,0 +1,22 @@
+{
+  "name": "ClankerDegen",
+  "symbol": "ClankerDegen",
+  "decimals": 18,
+  "description": "ClankerDegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerDegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerDegen",
+  "addresses": {
+    "8453": "0x2a64272aa7b8aa4b597c7066fc6b4bf16b77ba1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerDegen",
+    "sanitizedSymbol": "CLANKERDEGEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB9DCa2BC75C8dC7828831ecBa84Ff3CCbf3daFAf",
+    "lpNftId": "1264215",
+    "lockerAddress": "0xcff4E9899CCeB5413cd8B4886b2C9b1a1fC500F4"
+  },
+  "clankerInfo": null
+}

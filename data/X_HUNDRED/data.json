@@ -1,0 +1,22 @@
+{
+  "name": "X hundred",
+  "symbol": "X hundred",
+  "decimals": 18,
+  "description": "X hundred is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X%20hundred",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X hundred",
+  "addresses": {
+    "8453": "0x1926d1b70f577241022187fffa9c1bc6cfbb17a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X hundred",
+    "sanitizedSymbol": "X_HUNDRED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1364517",
+    "lockerAddress": "0x5814B378D373A130Ed1d38723AdCF2d7E206e282"
+  },
+  "clankerInfo": null
+}

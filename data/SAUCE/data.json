@@ -1,0 +1,22 @@
+{
+  "name": "sauce",
+  "symbol": "sauce",
+  "decimals": 18,
+  "description": "sauce is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sauce",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sauce",
+  "addresses": {
+    "8453": "0x041183dbd75410e055ae2bea6d88bc4e0f30e0a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sauce",
+    "sanitizedSymbol": "SAUCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0d0198c9F9719951a6e1f7f7A4036909aF7Ca31A",
+    "lpNftId": "1308965",
+    "lockerAddress": "0x02618160FFEF467c4eD90839A2cDdCDBF3197cA8"
+  },
+  "clankerInfo": null
+}

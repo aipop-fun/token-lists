@@ -1,0 +1,22 @@
+{
+  "name": "guinre",
+  "symbol": "guinre",
+  "decimals": 18,
+  "description": "guinre is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=guinre",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "guinre",
+  "addresses": {
+    "8453": "0x1a1a75104d13ee42becd012d8c27a14f7c236cba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "guinre",
+    "sanitizedSymbol": "GUINRE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfAB0Cc3200426DF4B484402D70E7868DFc94Cb25",
+    "lpNftId": "1253407",
+    "lockerAddress": "0xfdFFA8Bcaa7AdcBCFb24e667A9878E678ACABB67"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Syihab",
+  "symbol": "Syihab",
+  "decimals": 18,
+  "description": "Syihab is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Syihab",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Syihab",
+  "addresses": {
+    "8453": "0x3477baec7c2df6c6f4783d3194cb5b77d9ea161b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Syihab",
+    "sanitizedSymbol": "SYIHAB",
+    "created_at": "2024-12-09T03:41:53.064173",
+    "deployer": "0x5a9c258d4037f46873b42893F4A7a11288628f9c",
+    "lpNftId": "1380318",
+    "lockerAddress": "0xc7adaEc9428e67ED15a43d60D322060d4554DDCd"
+  },
+  "clankerInfo": null
+}

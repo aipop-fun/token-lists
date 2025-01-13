@@ -1,0 +1,22 @@
+{
+  "name": "CloutCoin",
+  "symbol": "CloutCoin",
+  "decimals": 18,
+  "description": "CloutCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CloutCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CloutCoin",
+  "addresses": {
+    "8453": "0x41a5c8a8bf4c27ff441ab9cce3c7bc19038b614c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CloutCoin",
+    "sanitizedSymbol": "CLOUTCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x25F89C7874A0bb3473aFEE0FA1d822F37AaBc098",
+    "lpNftId": "1375119",
+    "lockerAddress": "0x59C83B015f1a87277C83Aa89dF96D7fA05DEe21E"
+  },
+  "clankerInfo": null
+}

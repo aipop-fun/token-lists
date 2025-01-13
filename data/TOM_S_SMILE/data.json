@@ -1,0 +1,22 @@
+{
+  "name": "Tom's smile",
+  "symbol": "Tom's smile",
+  "decimals": 18,
+  "description": "Tom's smile is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tom's%20smile",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tom's smile",
+  "addresses": {
+    "8453": "0x0770556b1400a2e467c87cade4ea6fc3409366d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tom's smile",
+    "sanitizedSymbol": "TOM_S_SMILE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1310241",
+    "lockerAddress": "0xc69836A40b7DE4F97F12685bE39299d4e6927B4C"
+  },
+  "clankerInfo": null
+}

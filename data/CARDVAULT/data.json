@@ -1,0 +1,22 @@
+{
+  "name": "CardVault",
+  "symbol": "CardVault",
+  "decimals": 18,
+  "description": "CardVault is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CardVault",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CardVault",
+  "addresses": {
+    "8453": "0x0599e56f3b1aaf4a7b5c0c84a440565c5607a34a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CardVault",
+    "sanitizedSymbol": "CARDVAULT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAAB0F49c35411f2Df213Baea2E533A49fad6C427",
+    "lpNftId": "1289465",
+    "lockerAddress": "0x873733ee1E6F93Bf2019a222839f8F776e219Aa4"
+  },
+  "clankerInfo": null
+}

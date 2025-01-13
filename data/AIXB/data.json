@@ -1,0 +1,22 @@
+{
+  "name": "AIXB",
+  "symbol": "AIXB",
+  "decimals": 18,
+  "description": "AIXB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIXB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIXB",
+  "addresses": {
+    "8453": "0x3fd9b7999dcc2d3ed3ea93876d20fb2366b45227"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIXB",
+    "sanitizedSymbol": "AIXB",
+    "created_at": "2024-12-10T04:09:51.506871",
+    "deployer": "0xcA204C8de43549421a3960Cd8675BD78fdeb2AB3",
+    "lpNftId": "1396151",
+    "lockerAddress": "0x3d2efda17601d644Ef63fd3a760f793e3c62a96a"
+  },
+  "clankerInfo": null
+}

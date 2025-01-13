@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Otomotif",
+  "symbol": "Crypto Otomotif",
+  "decimals": 18,
+  "description": "Crypto Otomotif is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Otomotif",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Otomotif",
+  "addresses": {
+    "8453": "0x14e2c04e96ebcb0df713df73bcda77bbe7ff8ac1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Otomotif",
+    "sanitizedSymbol": "CRYPTO_OTOMOTIF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8321e06518C20294b336cCBBA8dEf63E96F8d505",
+    "lpNftId": "1265162",
+    "lockerAddress": "0xd0E9F021B76dB70a60990eE7F9eb681daC4e57d0"
+  },
+  "clankerInfo": null
+}

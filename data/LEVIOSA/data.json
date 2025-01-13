@@ -1,0 +1,22 @@
+{
+  "name": "Leviosa",
+  "symbol": "Leviosa",
+  "decimals": 18,
+  "description": "Leviosa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Leviosa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Leviosa",
+  "addresses": {
+    "8453": "0x2d39e1fbc58f8028ddc25a57d8340af1ffa313c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Leviosa",
+    "sanitizedSymbol": "LEVIOSA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0d0198c9F9719951a6e1f7f7A4036909aF7Ca31A",
+    "lpNftId": "1266761",
+    "lockerAddress": "0x196F6a99220e23168C3C88431A2eC265074926c2"
+  },
+  "clankerInfo": null
+}

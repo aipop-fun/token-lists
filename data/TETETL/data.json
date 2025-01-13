@@ -1,0 +1,22 @@
+{
+  "name": "tetetl",
+  "symbol": "tetetl",
+  "decimals": 18,
+  "description": "tetetl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tetetl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tetetl",
+  "addresses": {
+    "8453": "0x20eb8a0227b7885ef238dc0ff01291948a37af54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tetetl",
+    "sanitizedSymbol": "TETETL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf8ac4c13CEf179014FA977250c6dcC4E2f78aadD",
+    "lpNftId": "1252809",
+    "lockerAddress": "0x2c4753cdDbCe9D5b9A56586d6552d5C1feEd97e4"
+  },
+  "clankerInfo": null
+}

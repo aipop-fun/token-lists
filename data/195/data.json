@@ -1,0 +1,22 @@
+{
+  "name": "$195",
+  "symbol": "$195",
+  "decimals": 18,
+  "description": "$195 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24195",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$195",
+  "addresses": {
+    "8453": "0x013819fcf990cb5425542cafa233adb3a7d194cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$195",
+    "sanitizedSymbol": "195",
+    "created_at": "2024-12-12T05:18:05.58058",
+    "deployer": "0x79eDb125f22C4085A11DAACbb5Eaa8507A3759AE",
+    "lpNftId": "1429350",
+    "lockerAddress": "0xED851270997B9Ca23262feB1C842D62f51F7103C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LMAO",
+  "symbol": "LMAO",
+  "decimals": 18,
+  "description": "LMAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LMAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LMAO",
+  "addresses": {
+    "8453": "0x37b850e67d02982a4b92027f9fee207ae0ec9782"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LMAO",
+    "sanitizedSymbol": "LMAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCE8d9c600a539Bc577c68F82B1f2c05942492395",
+    "lpNftId": "1285543",
+    "lockerAddress": "0xE1465bbB5adC419f77EEaa8b0Baa7b90C56386a5"
+  },
+  "clankerInfo": null
+}

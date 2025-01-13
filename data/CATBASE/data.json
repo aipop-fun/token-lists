@@ -1,0 +1,22 @@
+{
+  "name": "catbase",
+  "symbol": "catbase",
+  "decimals": 18,
+  "description": "catbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=catbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "catbase",
+  "addresses": {
+    "8453": "0x15f1397fa0636dd740bd79561f4340d1f716ec95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "catbase",
+    "sanitizedSymbol": "CATBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7e21862a84cdE077D7b198220110bF323CE0453C",
+    "lpNftId": "1323017",
+    "lockerAddress": "0xB3574958377aAf7C1EbEB731d75Abac3A4CD275f"
+  },
+  "clankerInfo": null
+}

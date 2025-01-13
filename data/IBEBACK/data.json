@@ -1,0 +1,22 @@
+{
+  "name": "IBEBACK",
+  "symbol": "IBEBACK",
+  "decimals": 18,
+  "description": "IBEBACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IBEBACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IBEBACK",
+  "addresses": {
+    "8453": "0x3b1033fea550524e2a34c1fdf115726d07c41426"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IBEBACK",
+    "sanitizedSymbol": "IBEBACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1172992",
+    "lockerAddress": "0x2a24C6AcA380a6Fd23DCC9c42f03A1DDdF8C0b58"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PenizCorn",
+  "symbol": "PenizCorn",
+  "decimals": 18,
+  "description": "PenizCorn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PenizCorn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PenizCorn",
+  "addresses": {
+    "8453": "0x1eb7e19826dd22994a5962328d6778c4482ae221"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PenizCorn",
+    "sanitizedSymbol": "PENIZCORN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x013738Dda211Ae9988CE34a5b0460e64299abcB5",
+    "lpNftId": "1330578",
+    "lockerAddress": "0x6db0D5dF8270b56C5e4765d05f8e6375f93d174a"
+  },
+  "clankerInfo": null
+}

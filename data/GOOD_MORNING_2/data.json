@@ -1,0 +1,22 @@
+{
+  "name": "Good Morning",
+  "symbol": "Good Morning",
+  "decimals": 18,
+  "description": "Good Morning is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Good%20Morning",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Good Morning",
+  "addresses": {
+    "8453": "0x213fde9e892257e34256003a1c1730f43695b902"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Good Morning",
+    "sanitizedSymbol": "GOOD_MORNING_2",
+    "created_at": "2024-12-11T15:15:36.302818",
+    "deployer": "0x5df0f96c5DE9F03d5d1678656dA0B4b5B0647cE1",
+    "lpNftId": "1420861",
+    "lockerAddress": "0x75d7b6aF57a8d744BD367921E223bB810B0b4FE6"
+  },
+  "clankerInfo": null
+}

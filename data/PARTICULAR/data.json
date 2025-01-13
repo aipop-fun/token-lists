@@ -1,0 +1,22 @@
+{
+  "name": "particular",
+  "symbol": "particular",
+  "decimals": 18,
+  "description": "particular is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=particular",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "particular",
+  "addresses": {
+    "8453": "0x18ebce5add4c6171f287c0fbfdfe72dce5bb3ca0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "particular",
+    "sanitizedSymbol": "PARTICULAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162214",
+    "lockerAddress": "0xF144CC246Bc923ECba4e53896196EBC149479eff"
+  },
+  "clankerInfo": null
+}

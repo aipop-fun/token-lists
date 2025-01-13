@@ -1,0 +1,22 @@
+{
+  "name": "Nexon",
+  "symbol": "Nexon",
+  "decimals": 18,
+  "description": "Nexon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nexon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nexon",
+  "addresses": {
+    "8453": "0x19e3ed4df50e97caa19abafb374247f75ed73bd9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nexon",
+    "sanitizedSymbol": "NEXON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22346C8c099003B3E89Fd60d207824829052FaC8",
+    "lpNftId": "1308701",
+    "lockerAddress": "0x0CE28f6B0E61e21b30B7F4A6C42F8950928296c5"
+  },
+  "clankerInfo": null
+}

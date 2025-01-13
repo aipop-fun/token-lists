@@ -1,0 +1,22 @@
+{
+  "name": "Julius",
+  "symbol": "Julius",
+  "decimals": 18,
+  "description": "Julius is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Julius",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Julius",
+  "addresses": {
+    "8453": "0x3aa5f9e83ee9517b7f3f8e31c847b301a87f1d48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Julius",
+    "sanitizedSymbol": "JULIUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231557",
+    "lockerAddress": "0x1Ea9a5de04BFF1657F1Bdb39934D37A1806beab4"
+  },
+  "clankerInfo": null
+}

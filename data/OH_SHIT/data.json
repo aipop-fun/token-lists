@@ -1,0 +1,22 @@
+{
+  "name": "oh shit",
+  "symbol": "oh shit",
+  "decimals": 18,
+  "description": "oh shit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=oh%20shit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "oh shit",
+  "addresses": {
+    "8453": "0x2c030e26015c87e3d6dd70555248dc821db9b33c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "oh shit",
+    "sanitizedSymbol": "OH_SHIT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb96A63281723D3BD770b314f580ABE09538522BE",
+    "lpNftId": "1369004",
+    "lockerAddress": "0xB32539F2315D4a846C1f4bbA82f8956fAaE7c6a4"
+  },
+  "clankerInfo": null
+}

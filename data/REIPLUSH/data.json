@@ -1,0 +1,22 @@
+{
+  "name": "Reiplush",
+  "symbol": "Reiplush",
+  "decimals": 18,
+  "description": "Reiplush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reiplush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reiplush",
+  "addresses": {
+    "8453": "0x3524c315eb1f0ab75eb2ceea0ef63a7290431550"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reiplush",
+    "sanitizedSymbol": "REIPLUSH",
+    "created_at": "2024-12-11T07:35:19.735732",
+    "deployer": "0xf5d3204964B62905D98B70F7d01878027F428B81",
+    "lpNftId": "1414091",
+    "lockerAddress": "0x891e42B47E03066902CA51797744624576463D0e"
+  },
+  "clankerInfo": null
+}

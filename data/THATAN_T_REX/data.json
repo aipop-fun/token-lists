@@ -1,0 +1,22 @@
+{
+  "name": "Thatan T-REX",
+  "symbol": "Thatan T-REX",
+  "decimals": 18,
+  "description": "Thatan T-REX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Thatan%20T-REX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Thatan T-REX",
+  "addresses": {
+    "8453": "0x2a897b2865b268db6169839b88f50af584c6ebe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Thatan T-REX",
+    "sanitizedSymbol": "THATAN_T_REX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb01a8C760AdcfaEc458DB49E613C02De5fb16A11",
+    "lpNftId": "1362114",
+    "lockerAddress": "0xD66a5dD163e73557AA28E96a44414f338c4AEEc7"
+  },
+  "clankerInfo": null
+}

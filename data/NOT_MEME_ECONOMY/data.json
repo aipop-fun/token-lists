@@ -1,0 +1,22 @@
+{
+  "name": "Not Meme Economy",
+  "symbol": "Not Meme Economy",
+  "decimals": 18,
+  "description": "Not Meme Economy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Meme%20Economy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Meme Economy",
+  "addresses": {
+    "8453": "0x1beca143562e2f9c6748d220ad8208e56479d02b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Meme Economy",
+    "sanitizedSymbol": "NOT_MEME_ECONOMY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1346753",
+    "lockerAddress": "0x9A51c581D4f9Ef5B98970cC334291E3CF0D830eb"
+  },
+  "clankerInfo": null
+}

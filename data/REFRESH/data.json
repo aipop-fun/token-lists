@@ -1,0 +1,22 @@
+{
+  "name": "refresh",
+  "symbol": "refresh",
+  "decimals": 18,
+  "description": "refresh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=refresh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "refresh",
+  "addresses": {
+    "8453": "0x1420fdd53bcdfb76fd8439b20cdee5afae3dfefb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "refresh",
+    "sanitizedSymbol": "REFRESH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119908",
+    "lockerAddress": "0x1e930F1AaA50ab78c2A00113D60D4583432369F5"
+  },
+  "clankerInfo": null
+}

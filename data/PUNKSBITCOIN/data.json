@@ -1,0 +1,22 @@
+{
+  "name": "punksbitcoin",
+  "symbol": "punksbitcoin",
+  "decimals": 18,
+  "description": "punksbitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=punksbitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "punksbitcoin",
+  "addresses": {
+    "8453": "0x3be04fc180e9a112daa5745078991d27681e2ce6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "punksbitcoin",
+    "sanitizedSymbol": "PUNKSBITCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0dfE227fd474bA80Fa32Ea59eC9570A66e9aE167",
+    "lpNftId": "1308013",
+    "lockerAddress": "0x6a3011eF258497C933BAb737d07B3227D6D038f3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ask Earth a question",
+  "symbol": "Ask Earth a question",
+  "decimals": 18,
+  "description": "Ask Earth a question is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ask%20Earth%20a%20question",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ask Earth a question",
+  "addresses": {
+    "8453": "0x2c37b552eef3b9ad54494df8dd6a758fab0b6834"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ask Earth a question",
+    "sanitizedSymbol": "ASK_EARTH_A_QUESTION",
+    "created_at": "2024-12-10T13:42:31.2995",
+    "deployer": "0x657143820Ee59B5F0Da0de12BD199674178777cD",
+    "lpNftId": "1401551",
+    "lockerAddress": "0x15eA4b70974Aac7f500844559dC56576843bee5b"
+  },
+  "clankerInfo": null
+}

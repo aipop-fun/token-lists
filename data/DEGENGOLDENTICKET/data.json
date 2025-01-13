@@ -1,0 +1,22 @@
+{
+  "name": "DegenGoldenTicket",
+  "symbol": "DegenGoldenTicket",
+  "decimals": 18,
+  "description": "DegenGoldenTicket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenGoldenTicket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenGoldenTicket",
+  "addresses": {
+    "8453": "0x0775ab1f5a9673997edcb41266888d6e737e537b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenGoldenTicket",
+    "sanitizedSymbol": "DEGENGOLDENTICKET",
+    "created_at": "2024-12-10T22:20:52.631888",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1407924",
+    "lockerAddress": "0xa40Df35e1b87a1899679B888a9C8a1EC9ED5dd06"
+  },
+  "clankerInfo": null
+}

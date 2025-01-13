@@ -1,0 +1,22 @@
+{
+  "name": "Kryptojaeger",
+  "symbol": "Kryptojaeger",
+  "decimals": 18,
+  "description": "Kryptojaeger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kryptojaeger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kryptojaeger",
+  "addresses": {
+    "8453": "0x350da4c42df8466359bdd074cfa99fc2765db37d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kryptojaeger",
+    "sanitizedSymbol": "KRYPTOJAEGER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf967817B892F82da16eE21fdd0667fcF9Cc9caf1",
+    "lpNftId": "1285955",
+    "lockerAddress": "0x539F10FE97670788670f153eD0B6Ee9ae06aCB78"
+  },
+  "clankerInfo": null
+}

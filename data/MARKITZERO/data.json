@@ -1,0 +1,22 @@
+{
+  "name": "$MarkItZero",
+  "symbol": "$MarkItZero",
+  "decimals": 18,
+  "description": "$MarkItZero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24MarkItZero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$MarkItZero",
+  "addresses": {
+    "8453": "0x000c3f639ccc8b21098e575355fef3497e1453f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$MarkItZero",
+    "sanitizedSymbol": "MARKITZERO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211108",
+    "lockerAddress": "0x3032afe0489831EBb5e82954E2C2871D1d8FF338"
+  },
+  "clankerInfo": null
+}

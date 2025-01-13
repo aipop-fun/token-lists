@@ -1,0 +1,22 @@
+{
+  "name": "BEEF",
+  "symbol": "BEEF",
+  "decimals": 18,
+  "description": "BEEF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEEF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEEF",
+  "addresses": {
+    "8453": "0x0e32024267137c2dcf11c63cdb67f014c46274a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEEF",
+    "sanitizedSymbol": "BEEF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1311599",
+    "lockerAddress": "0xE4332115e7640f4AD63de8D0dC12c6d219d040A4"
+  },
+  "clankerInfo": null
+}

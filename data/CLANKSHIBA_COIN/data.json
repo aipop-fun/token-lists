@@ -1,0 +1,22 @@
+{
+  "name": "clankshiba coin",
+  "symbol": "clankshiba coin",
+  "decimals": 18,
+  "description": "clankshiba coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankshiba%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankshiba coin",
+  "addresses": {
+    "8453": "0x3a19ce050c257c6a8312b3bca0e7e992d1750cbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankshiba coin",
+    "sanitizedSymbol": "CLANKSHIBA_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa0BCACb0c325dA3042250Bd9935FBeff25e98B5A",
+    "lpNftId": "1264227",
+    "lockerAddress": "0xb15694098b1391e629DD1a65043e5BECA2119176"
+  },
+  "clankerInfo": null
+}

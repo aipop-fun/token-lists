@@ -1,0 +1,22 @@
+{
+  "name": "Score2Low",
+  "symbol": "Score2Low",
+  "decimals": 18,
+  "description": "Score2Low is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Score2Low",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Score2Low",
+  "addresses": {
+    "8453": "0x097597a516aa7df4a0569d4adac5f72369c51bd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Score2Low",
+    "sanitizedSymbol": "SCORE2LOW",
+    "created_at": "2024-12-10T12:42:46.931636",
+    "deployer": "0xA43711F5DCc3559a1E07eC124fd167e26c9BaD43",
+    "lpNftId": "1401046",
+    "lockerAddress": "0x269649b5788C70139C5586b41A7fee2A6EcD7f2E"
+  },
+  "clankerInfo": null
+}

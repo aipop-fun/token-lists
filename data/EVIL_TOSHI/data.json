@@ -1,0 +1,22 @@
+{
+  "name": "Evil TOSHI",
+  "symbol": "Evil TOSHI",
+  "decimals": 18,
+  "description": "Evil TOSHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Evil%20TOSHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Evil TOSHI",
+  "addresses": {
+    "8453": "0x36a280f981ceea8d699e6fcd41cdb4258f266d5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Evil TOSHI",
+    "sanitizedSymbol": "EVIL_TOSHI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125255",
+    "lockerAddress": "0xAb4a9C8383578dB86954d5aa4F1d4168bb31C40a"
+  },
+  "clankerInfo": null
+}

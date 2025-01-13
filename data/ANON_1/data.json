@@ -1,0 +1,22 @@
+{
+  "name": "Anon 1$",
+  "symbol": "Anon 1$",
+  "decimals": 18,
+  "description": "Anon 1$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%201%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon 1$",
+  "addresses": {
+    "8453": "0x38f56bcab811972581c596529aa33b739f6e4030"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon 1$",
+    "sanitizedSymbol": "ANON_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213799",
+    "lockerAddress": "0x370EA2995328b41f998DB09Df2f6f5a5Ba1B0Fe3"
+  },
+  "clankerInfo": null
+}

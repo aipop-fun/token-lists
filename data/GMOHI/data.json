@@ -1,0 +1,22 @@
+{
+  "name": "GMohi",
+  "symbol": "GMohi",
+  "decimals": 18,
+  "description": "GMohi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GMohi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GMohi",
+  "addresses": {
+    "8453": "0x11c6e513d9e88f04d6c7aae098acf296c11cee2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GMohi",
+    "sanitizedSymbol": "GMOHI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6EB6E110B902C101f9eBef428Fad9A29C89664d8",
+    "lpNftId": "1294626",
+    "lockerAddress": "0x4e5D09F7A093B88A6c288AAF33f3001BC917817c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASICULT",
+  "symbol": "BASICULT",
+  "decimals": 18,
+  "description": "BASICULT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASICULT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASICULT",
+  "addresses": {
+    "8453": "0x2219403939429e02c64b3404c46b7e5efbf872ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASICULT",
+    "sanitizedSymbol": "BASICULT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142396",
+    "lockerAddress": "0xeC9Ae1c8496d39Dd708Eb372DcaFEf99b2efA786"
+  },
+  "clankerInfo": null
+}

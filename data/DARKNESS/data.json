@@ -1,0 +1,22 @@
+{
+  "name": "darkness",
+  "symbol": "darkness",
+  "decimals": 18,
+  "description": "darkness is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=darkness",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "darkness",
+  "addresses": {
+    "8453": "0x21b97a915a8c338d8fc2b5baa69f617496001405"
+  },
+  "tokenInfo": {
+    "originalSymbol": "darkness",
+    "sanitizedSymbol": "DARKNESS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232142",
+    "lockerAddress": "0x9d7c704D0Ad054f34340463eC7179457578c93b6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Dogefather",
+  "symbol": "The Dogefather",
+  "decimals": 18,
+  "description": "The Dogefather is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Dogefather",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Dogefather",
+  "addresses": {
+    "8453": "0x1987fff4ba6e76dcbf30d65b9d1033431b79e263"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Dogefather",
+    "sanitizedSymbol": "THE_DOGEFATHER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x18f28487d441F05B790BABF79c9FCDe40946CB70",
+    "lpNftId": "1320955",
+    "lockerAddress": "0x1fE1A6CDD593c4CB2904022d8E672dBeB7b13BFc"
+  },
+  "clankerInfo": null
+}

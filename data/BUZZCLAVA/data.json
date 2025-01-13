@@ -1,0 +1,22 @@
+{
+  "name": "BUZZCLAVA",
+  "symbol": "BUZZCLAVA",
+  "decimals": 18,
+  "description": "BUZZCLAVA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUZZCLAVA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUZZCLAVA",
+  "addresses": {
+    "8453": "0x121f9458eac27fa9d7d5cd6ffdc2667a47bfa05d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUZZCLAVA",
+    "sanitizedSymbol": "BUZZCLAVA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe1e3d0C2548762d495e0D2564A17E54B155E6fd4",
+    "lpNftId": "1324021",
+    "lockerAddress": "0x2959a2B4374f200f609199f3990fD99C90afb379"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Quantum Meme",
+  "symbol": "Quantum Meme",
+  "decimals": 18,
+  "description": "Quantum Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quantum%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quantum Meme",
+  "addresses": {
+    "8453": "0x29bdbeb3760c01c9c2427ff3176cf5a6615a5843"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quantum Meme",
+    "sanitizedSymbol": "QUANTUM_MEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173348",
+    "lockerAddress": "0x05FE5F5d3a9ec7f3fBED171cdF479987cf38a421"
+  },
+  "clankerInfo": null
+}

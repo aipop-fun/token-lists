@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN FRAME",
+  "symbol": "DEGEN FRAME",
+  "decimals": 18,
+  "description": "DEGEN FRAME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20FRAME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN FRAME",
+  "addresses": {
+    "8453": "0x23866fd87e1c66dfcaf42a66a82e72ce6efebfda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN FRAME",
+    "sanitizedSymbol": "DEGEN_FRAME",
+    "created_at": "2024-12-09T12:56:43.174643",
+    "deployer": "0x7e4CAae00c0122a686d0C7C0BAfc526b4527DA02",
+    "lpNftId": "1387167",
+    "lockerAddress": "0x6EfB3C7ef8c4c1671F82267b096f50D181d82ce2"
+  },
+  "clankerInfo": null
+}

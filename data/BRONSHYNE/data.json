@@ -1,0 +1,22 @@
+{
+  "name": "Bronshyne",
+  "symbol": "Bronshyne",
+  "decimals": 18,
+  "description": "Bronshyne is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bronshyne",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bronshyne",
+  "addresses": {
+    "8453": "0x168533fe313218b031ab16e067e4ab88408e8d6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bronshyne",
+    "sanitizedSymbol": "BRONSHYNE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213446",
+    "lockerAddress": "0xF9398bFa08c55776e9165Cc266cd70FC5B190BFe"
+  },
+  "clankerInfo": null
+}

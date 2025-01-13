@@ -1,0 +1,22 @@
+{
+  "name": "Ecocaster",
+  "symbol": "Ecocaster",
+  "decimals": 18,
+  "description": "Ecocaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ecocaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ecocaster",
+  "addresses": {
+    "8453": "0x2bbb28de815099d2ad57acdf9e2bae7f39b6576d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ecocaster",
+    "sanitizedSymbol": "ECOCASTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119704",
+    "lockerAddress": "0x719653D16Bc499623b1c1B5D985C20874594AF53"
+  },
+  "clankerInfo": null
+}

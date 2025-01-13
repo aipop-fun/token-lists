@@ -1,0 +1,22 @@
+{
+  "name": "Keyboard",
+  "symbol": "Keyboard",
+  "decimals": 18,
+  "description": "Keyboard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Keyboard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Keyboard",
+  "addresses": {
+    "8453": "0x2814c39c4ae38f1e7c3c1a336f3b861e64f747fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Keyboard",
+    "sanitizedSymbol": "KEYBOARD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218090",
+    "lockerAddress": "0x1de2c960c4D4e419fF430e163Bf5f36cccEa9382"
+  },
+  "clankerInfo": null
+}

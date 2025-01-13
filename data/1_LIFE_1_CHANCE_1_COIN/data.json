@@ -1,0 +1,22 @@
+{
+  "name": "1 life 1 chance 1 coin",
+  "symbol": "1 life 1 chance 1 coin",
+  "decimals": 18,
+  "description": "1 life 1 chance 1 coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%20life%201%20chance%201%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1 life 1 chance 1 coin",
+  "addresses": {
+    "8453": "0x1cadf372c0350d72bc2614f18050890e968a8c43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1 life 1 chance 1 coin",
+    "sanitizedSymbol": "1_LIFE_1_CHANCE_1_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217366",
+    "lockerAddress": "0xA597eba2f5ad1226dcb854224C6b8C0E59dBB54C"
+  },
+  "clankerInfo": null
+}

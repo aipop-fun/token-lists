@@ -1,0 +1,22 @@
+{
+  "name": "BERKS",
+  "symbol": "BERKS",
+  "decimals": 18,
+  "description": "BERKS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BERKS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BERKS",
+  "addresses": {
+    "8453": "0x36e016a2d5fa9ad79ad2cc7996abe577137074ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BERKS",
+    "sanitizedSymbol": "BERKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197840",
+    "lockerAddress": "0x23E8115FE0eF3C352b2ff307651Da9D9AE2cFDe7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "blow me",
+  "symbol": "blow me",
+  "decimals": 18,
+  "description": "blow me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=blow%20me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "blow me",
+  "addresses": {
+    "8453": "0x3d76b4c3641e4380a718aa09053eca504358c4a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "blow me",
+    "sanitizedSymbol": "BLOW_ME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C51532Ef51ab720514b5acAf97Fe6C600FbFb54",
+    "lpNftId": "1320610",
+    "lockerAddress": "0xa632b0157780f8AFe0Ea48DB14Fdf61f4b30724F"
+  },
+  "clankerInfo": null
+}

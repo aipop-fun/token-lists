@@ -1,0 +1,22 @@
+{
+  "name": "POCKETHUG",
+  "symbol": "POCKETHUG",
+  "decimals": 18,
+  "description": "POCKETHUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POCKETHUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POCKETHUG",
+  "addresses": {
+    "8453": "0x2a5b2030abdede7f91d12d1a6f90e901e0cdc514"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POCKETHUG",
+    "sanitizedSymbol": "POCKETHUG",
+    "created_at": "2024-12-09T11:21:13.073468",
+    "deployer": "0x04E6186b21f1cE2aCaAf1C597d43fCF48e5Cc6cb",
+    "lpNftId": "1386431",
+    "lockerAddress": "0xC128a07A794E9cB58fFcb04374dC137a29094102"
+  },
+  "clankerInfo": null
+}

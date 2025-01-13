@@ -1,0 +1,22 @@
+{
+  "name": "olo",
+  "symbol": "olo",
+  "decimals": 18,
+  "description": "olo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=olo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "olo",
+  "addresses": {
+    "8453": "0x06563a20a496ba7271ae5c2b9e9a1658b29cd5b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "olo",
+    "sanitizedSymbol": "OLO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1364328",
+    "lockerAddress": "0xfd2CBe7EAffe28EFfCf2c52ba7cbA0a373E37F37"
+  },
+  "clankerInfo": null
+}

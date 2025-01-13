@@ -1,0 +1,22 @@
+{
+  "name": "KEIRO",
+  "symbol": "KEIRO",
+  "decimals": 18,
+  "description": "KEIRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KEIRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KEIRO",
+  "addresses": {
+    "8453": "0x23df99eb278e47671814aeedd79196ae3790f312"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KEIRO",
+    "sanitizedSymbol": "KEIRO_3",
+    "created_at": "2024-12-10T02:40:07.448026",
+    "deployer": "0xCAf57A2e60D706e3aa746DA9F37f03988ed11C35",
+    "lpNftId": "1395263",
+    "lockerAddress": "0x7a1dEecB6195bBf808f5D36Eb7312Dc12743f2A9"
+  },
+  "clankerInfo": null
+}

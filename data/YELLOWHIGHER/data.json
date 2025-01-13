@@ -1,0 +1,22 @@
+{
+  "name": "YellowHigher",
+  "symbol": "YellowHigher",
+  "decimals": 18,
+  "description": "YellowHigher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YellowHigher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YellowHigher",
+  "addresses": {
+    "8453": "0x011c6e26b8c7b83f3bb05778d81da6d5750706f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YellowHigher",
+    "sanitizedSymbol": "YELLOWHIGHER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x56688a7F8932EFDf7AFaB2a0724a1eEe12147C20",
+    "lpNftId": "1265241",
+    "lockerAddress": "0xDF1105EDA4445d38309D71917f29349F0787F155"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SHIKONOKO",
+  "symbol": "SHIKONOKO",
+  "decimals": 18,
+  "description": "SHIKONOKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIKONOKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIKONOKO",
+  "addresses": {
+    "8453": "0x067f3868d8e25bfa19aa1bd4ac3ef3aca1a1426c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIKONOKO",
+    "sanitizedSymbol": "SHIKONOKO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213927",
+    "lockerAddress": "0x099c4c4619A8599B3db3770E0Da7D7C68a025b02"
+  },
+  "clankerInfo": null
+}

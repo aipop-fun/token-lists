@@ -1,0 +1,22 @@
+{
+  "name": "LoadCats",
+  "symbol": "LoadCats",
+  "decimals": 18,
+  "description": "LoadCats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LoadCats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LoadCats",
+  "addresses": {
+    "8453": "0x17f851b2975ad33c4578d6d0b237631767aa7a72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LoadCats",
+    "sanitizedSymbol": "LOADCATS",
+    "created_at": "2024-12-09T09:09:22.901359",
+    "deployer": "0xb54542296845DBC8B2713549b4B0483Bd19652c8",
+    "lpNftId": "1385186",
+    "lockerAddress": "0x294eeCEf3C046c39C45C24042Fc9e038897F6B1E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DERP",
+  "symbol": "DERP",
+  "decimals": 18,
+  "description": "DERP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DERP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DERP",
+  "addresses": {
+    "8453": "0x0bc6a8f8db5ec1ada276e118152105d301feb440"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DERP",
+    "sanitizedSymbol": "DERP",
+    "created_at": "2024-12-11T02:51:03.351265",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411227",
+    "lockerAddress": "0x8a9494Ea50012f15cbf9FbE4f412190AE6AbB681"
+  },
+  "clankerInfo": null
+}

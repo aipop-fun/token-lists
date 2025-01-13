@@ -1,0 +1,22 @@
+{
+  "name": "DEPIN",
+  "symbol": "DEPIN",
+  "decimals": 18,
+  "description": "DEPIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEPIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEPIN",
+  "addresses": {
+    "8453": "0x10ae52acfc7175db755b79e671e6ddab8248a627"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEPIN",
+    "sanitizedSymbol": "DEPIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAa2bDe330a0bA6E1a7D5f954B6bEDaE64ce5F7F4",
+    "lpNftId": "1283356",
+    "lockerAddress": "0xe18E0Cfa893d28aDC066093C443e646853F36f4a"
+  },
+  "clankerInfo": null
+}

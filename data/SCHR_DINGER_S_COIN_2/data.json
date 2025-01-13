@@ -1,0 +1,22 @@
+{
+  "name": "Schrödinger's Coin",
+  "symbol": "Schrödinger's Coin",
+  "decimals": 18,
+  "description": "Schrödinger's Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Schr%C3%B6dinger's%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Schrödinger's Coin",
+  "addresses": {
+    "8453": "0x30deb267a0f6be461397c23601a970b9bcb7d302"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Schrödinger's Coin",
+    "sanitizedSymbol": "SCHR_DINGER_S_COIN_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1326316",
+    "lockerAddress": "0x32C59E2c915E6157d040bb8DADe96746cd3626c1"
+  },
+  "clankerInfo": null
+}

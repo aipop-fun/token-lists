@@ -1,0 +1,22 @@
+{
+  "name": "AIGuy",
+  "symbol": "AIGuy",
+  "decimals": 18,
+  "description": "AIGuy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIGuy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIGuy",
+  "addresses": {
+    "8453": "0x15e4443f1fbaf6fb9d9112fea0c40d526eb173c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIGuy",
+    "sanitizedSymbol": "AIGUY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3142FCc8D4956F68eb885E73152d71f0C2ED9FcD",
+    "lpNftId": "1264096",
+    "lockerAddress": "0x1a3f783A5444ed00ff1cC2a0bd851594F7D71182"
+  },
+  "clankerInfo": null
+}

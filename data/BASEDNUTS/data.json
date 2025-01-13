@@ -1,0 +1,22 @@
+{
+  "name": "BasedNuts",
+  "symbol": "BasedNuts",
+  "decimals": 18,
+  "description": "BasedNuts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedNuts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedNuts",
+  "addresses": {
+    "8453": "0x007b83e289549bca0ad8de7693a7d1b0e5fa17f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedNuts",
+    "sanitizedSymbol": "BASEDNUTS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162822",
+    "lockerAddress": "0xa264B9F829d033c2C87ef88C9B49Be40d7BEe4E4"
+  },
+  "clankerInfo": null
+}

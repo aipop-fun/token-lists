@@ -1,0 +1,22 @@
+{
+  "name": "DWR Love Clanker",
+  "symbol": "DWR Love Clanker",
+  "decimals": 18,
+  "description": "DWR Love Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DWR%20Love%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DWR Love Clanker",
+  "addresses": {
+    "8453": "0x291aaf0120268d0524e0c85a710c21a8102c7e86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DWR Love Clanker",
+    "sanitizedSymbol": "DWR_LOVE_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x61e615d2d68eb253Cb0AD811Db1882b7DFf08582",
+    "lpNftId": "1321648",
+    "lockerAddress": "0x7EaF6c36a3134F34cEB36a1817eACA543749aC4c"
+  },
+  "clankerInfo": null
+}

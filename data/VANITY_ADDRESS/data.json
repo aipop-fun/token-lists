@@ -1,0 +1,22 @@
+{
+  "name": "Vanity Address",
+  "symbol": "Vanity Address",
+  "decimals": 18,
+  "description": "Vanity Address is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vanity%20Address",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vanity Address",
+  "addresses": {
+    "8453": "0x0e708372ec976b20aca7f478d0319d4df58cde42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vanity Address",
+    "sanitizedSymbol": "VANITY_ADDRESS",
+    "created_at": "2024-12-09T08:35:21.574353",
+    "deployer": "0x6C9449a3B7bD604e12e9407460643F1DFBD9Fff7",
+    "lpNftId": "1384757",
+    "lockerAddress": "0x13Be4742Fa4B9713C6083Bf573ed985B15c8e6AA"
+  },
+  "clankerInfo": null
+}

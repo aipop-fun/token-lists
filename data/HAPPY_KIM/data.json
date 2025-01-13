@@ -1,0 +1,22 @@
+{
+  "name": "Happy Kim",
+  "symbol": "Happy Kim",
+  "decimals": 18,
+  "description": "Happy Kim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Kim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Kim",
+  "addresses": {
+    "8453": "0x07c275e4fe19e772047dc13ee10172812f235255"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Kim",
+    "sanitizedSymbol": "HAPPY_KIM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc7bd636735e7F696fC80D91D7bE3C27BD665da61",
+    "lpNftId": "1309387",
+    "lockerAddress": "0xb16BF4Cae11959C04eFdC3E8aF879648e0eb1a1D"
+  },
+  "clankerInfo": null
+}

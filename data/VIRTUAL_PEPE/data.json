@@ -1,0 +1,22 @@
+{
+  "name": "virtual pepe",
+  "symbol": "virtual pepe",
+  "decimals": 18,
+  "description": "virtual pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=virtual%20pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "virtual pepe",
+  "addresses": {
+    "8453": "0x0cdc02587b0d32926803d919c71cabc36e7f4ef3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "virtual pepe",
+    "sanitizedSymbol": "VIRTUAL_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCDe3d2D8D7228f966AC9aEa6d323f044749e7624",
+    "lpNftId": "1319137",
+    "lockerAddress": "0x9EcBFc7386bFe75F34F50ab3585c6A7Ce3710740"
+  },
+  "clankerInfo": null
+}

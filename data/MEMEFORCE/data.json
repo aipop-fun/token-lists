@@ -1,0 +1,22 @@
+{
+  "name": "MemeForce",
+  "symbol": "MemeForce",
+  "decimals": 18,
+  "description": "MemeForce is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemeForce",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemeForce",
+  "addresses": {
+    "8453": "0x38da37104f11c17087388c053fe94fe8d96ec422"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemeForce",
+    "sanitizedSymbol": "MEMEFORCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167997",
+    "lockerAddress": "0xB3603ff8D94F1b9F7E239bDC9f89d68dBCC77C13"
+  },
+  "clankerInfo": null
+}

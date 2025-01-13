@@ -1,0 +1,22 @@
+{
+  "name": "RAINBOW",
+  "symbol": "RAINBOW",
+  "decimals": 18,
+  "description": "RAINBOW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAINBOW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAINBOW",
+  "addresses": {
+    "8453": "0x102cf6c49db2e03dc5f4d9a7f76b33032615cc6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAINBOW",
+    "sanitizedSymbol": "RAINBOW_2",
+    "created_at": "2024-12-10T17:49:44.951957",
+    "deployer": "0xAECf3f82B14261f4DDCcd89b8381F5cB5CB88494",
+    "lpNftId": "1405016",
+    "lockerAddress": "0x3326F10A65cF62131927B8D66f5ca625E408bc72"
+  },
+  "clankerInfo": null
+}

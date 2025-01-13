@@ -1,0 +1,22 @@
+{
+  "name": "DJYUG",
+  "symbol": "DJYUG",
+  "decimals": 18,
+  "description": "DJYUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DJYUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DJYUG",
+  "addresses": {
+    "8453": "0x067edf64d475f2656623fde2f4f3469c01a810a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DJYUG",
+    "sanitizedSymbol": "DJYUG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E3e88E34dEB2B6273c9F939B3e0e3A9890f8D60",
+    "lpNftId": "1285474",
+    "lockerAddress": "0x4B5b43e99fd6ED954C0BCc4d6B82163621A0D730"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Spanker",
+  "symbol": "Spanker",
+  "decimals": 18,
+  "description": "Spanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spanker",
+  "addresses": {
+    "8453": "0x3dec3c95f60525c95c6ab64bf8c233ed60de0850"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spanker",
+    "sanitizedSymbol": "SPANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc7aDE6e2cE3aE0494827e42Ff5422A7b928e779A",
+    "lpNftId": "1329713",
+    "lockerAddress": "0x0BA5cf6e58d4e178719B70d36C392c9c65d9CC3b"
+  },
+  "clankerInfo": null
+}

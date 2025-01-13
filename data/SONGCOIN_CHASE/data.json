@@ -1,0 +1,22 @@
+{
+  "name": "Songcoin Chase",
+  "symbol": "Songcoin Chase",
+  "decimals": 18,
+  "description": "Songcoin Chase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Songcoin%20Chase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Songcoin Chase",
+  "addresses": {
+    "8453": "0x3778bd89c8338acf61106da6200edeb77a79ea54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Songcoin Chase",
+    "sanitizedSymbol": "SONGCOIN_CHASE",
+    "created_at": "2024-12-10T10:00:48.89943",
+    "deployer": "0x77A8Cb257FF7DC52AA6D4a1807b89C907837fFDd",
+    "lpNftId": "1399427",
+    "lockerAddress": "0x7c4f053C9Fe81093bBF2c268C22EfDdde10489bb"
+  },
+  "clankerInfo": null
+}

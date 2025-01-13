@@ -1,0 +1,22 @@
+{
+  "name": "clankai raw bot",
+  "symbol": "clankai raw bot",
+  "decimals": 18,
+  "description": "clankai raw bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankai%20raw%20bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankai raw bot",
+  "addresses": {
+    "8453": "0x2a1d5178c67644d727767803b46ccb3a1e70ecc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankai raw bot",
+    "sanitizedSymbol": "CLANKAI_RAW_BOT",
+    "created_at": "2024-12-12T00:38:57.283729",
+    "deployer": "0x8C8E016130289C3ad1a900d44aDD9645f9A69f3c",
+    "lpNftId": "1428198",
+    "lockerAddress": "0xF8e2a93DDa818ACe40F3578002cc2FA22b9e0200"
+  },
+  "clankerInfo": null
+}

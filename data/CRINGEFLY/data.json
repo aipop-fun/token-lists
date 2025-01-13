@@ -1,0 +1,22 @@
+{
+  "name": "Cringefly",
+  "symbol": "Cringefly",
+  "decimals": 18,
+  "description": "Cringefly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cringefly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cringefly",
+  "addresses": {
+    "8453": "0x0418ab3bb8a40f27c760221b5ab1a5b17272112a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cringefly",
+    "sanitizedSymbol": "CRINGEFLY",
+    "created_at": "2024-12-11T00:25:43.302572",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408904",
+    "lockerAddress": "0xA809f597770EeF849936a8fAFe8B5ec5AFB58ea7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ubiquity",
+  "symbol": "Ubiquity",
+  "decimals": 18,
+  "description": "Ubiquity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ubiquity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ubiquity",
+  "addresses": {
+    "8453": "0x3592e1739469ea63b7ee8756d80bcc75a4792959"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ubiquity",
+    "sanitizedSymbol": "UBIQUITY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43AFf7846368B07507Be88925e19f0d2EF9A914c",
+    "lpNftId": "1368940",
+    "lockerAddress": "0x8C454ac156c09919eb6Bc6bD85C9c076c3367ec6"
+  },
+  "clankerInfo": null
+}

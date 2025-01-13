@@ -1,0 +1,22 @@
+{
+  "name": "LlamaSip",
+  "symbol": "LlamaSip",
+  "decimals": 18,
+  "description": "LlamaSip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LlamaSip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LlamaSip",
+  "addresses": {
+    "8453": "0x32cba68d523f9dcef6f7456ebe4e8014c84a5b85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LlamaSip",
+    "sanitizedSymbol": "LLAMASIP",
+    "created_at": "2024-12-10T08:11:25.63572",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1398606",
+    "lockerAddress": "0x6e9F12067Bb730c8f0498961eEbdeddCEC77522A"
+  },
+  "clankerInfo": null
+}

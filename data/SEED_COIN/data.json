@@ -1,0 +1,22 @@
+{
+  "name": "Seed Coin",
+  "symbol": "Seed Coin",
+  "decimals": 18,
+  "description": "Seed Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Seed%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Seed Coin",
+  "addresses": {
+    "8453": "0x3e907a0669e16606713910d4287b91b931e704b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Seed Coin",
+    "sanitizedSymbol": "SEED_COIN",
+    "created_at": "2024-12-11T19:20:37.393326",
+    "deployer": "0x676C4f2c77F2ed2Cf046F92747AF654A1b40AabE",
+    "lpNftId": "1424656",
+    "lockerAddress": "0x0a814AFca6dbB33Ec7683BF8f53FA78aEffc08Ea"
+  },
+  "clankerInfo": null
+}

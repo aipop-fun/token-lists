@@ -1,0 +1,22 @@
+{
+  "name": "JEFF",
+  "symbol": "JEFF",
+  "decimals": 18,
+  "description": "JEFF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEFF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEFF",
+  "addresses": {
+    "8453": "0x39ce2fab5dc907a5b35aaee5e98aea9fa2fd7e1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEFF",
+    "sanitizedSymbol": "JEFF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x108887066628c7bE8016deb372A79582dd1e21cD",
+    "lpNftId": "1278315",
+    "lockerAddress": "0x19dAeeE82236096Abfe27c6a916CFDff4C7c72dA"
+  },
+  "clankerInfo": null
+}

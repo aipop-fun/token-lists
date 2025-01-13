@@ -1,0 +1,22 @@
+{
+  "name": "Water drop",
+  "symbol": "Water drop",
+  "decimals": 18,
+  "description": "Water drop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Water%20drop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Water drop",
+  "addresses": {
+    "8453": "0x00ec3bea37fb96cddd983187666e51ec088edf94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Water drop",
+    "sanitizedSymbol": "WATER_DROP",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcF52096a825C0f7046211CC322EBf3E354642D18",
+    "lpNftId": "1250815",
+    "lockerAddress": "0x4d2cB6fD366AeF45173be3327A8caC15EcAEce85"
+  },
+  "clankerInfo": null
+}

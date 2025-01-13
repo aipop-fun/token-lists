@@ -1,0 +1,22 @@
+{
+  "name": "XP Based",
+  "symbol": "XP Based",
+  "decimals": 18,
+  "description": "XP Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XP%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XP Based",
+  "addresses": {
+    "8453": "0x0f85ebbbbb76ae53d5177ecb13454ced8e8d3dbe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XP Based",
+    "sanitizedSymbol": "XP_BASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xba4B28C34f32E9353412c8b7b1B81FceE4183879",
+    "lpNftId": "1299612",
+    "lockerAddress": "0x7480785fC205805cEBFd1E39d6bFf1185cfAFa9b"
+  },
+  "clankerInfo": null
+}

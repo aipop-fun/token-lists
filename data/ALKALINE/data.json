@@ -1,0 +1,22 @@
+{
+  "name": "Alkaline",
+  "symbol": "Alkaline",
+  "decimals": 18,
+  "description": "Alkaline is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alkaline",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alkaline",
+  "addresses": {
+    "8453": "0x1913bb7ab4ea86b0841993bcd438e59100eb0ad5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alkaline",
+    "sanitizedSymbol": "ALKALINE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEab804590011d0650FcB6c4Da1870C6e9ca062D1",
+    "lpNftId": "1370555",
+    "lockerAddress": "0x82bacBCE6be7A06600831f01906dA25154a1766C"
+  },
+  "clankerInfo": null
+}

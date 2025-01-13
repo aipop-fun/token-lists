@@ -1,0 +1,22 @@
+{
+  "name": "CHLOE",
+  "symbol": "CHLOE",
+  "decimals": 18,
+  "description": "CHLOE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHLOE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHLOE",
+  "addresses": {
+    "8453": "0x08cd18cb18aebb63e072eb000ad757adca1c300b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHLOE",
+    "sanitizedSymbol": "CHLOE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa3D7c4DCe832d66e983Cc2f5b599332263963F6a",
+    "lpNftId": "1285520",
+    "lockerAddress": "0x93C4efb987FF871a30a59BdB27F06cEd2bA5C8Cb"
+  },
+  "clankerInfo": null
+}

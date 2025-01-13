@@ -1,0 +1,22 @@
+{
+  "name": "bubblegum",
+  "symbol": "bubblegum",
+  "decimals": 18,
+  "description": "bubblegum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bubblegum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bubblegum",
+  "addresses": {
+    "8453": "0x219629ec42763901bf65a61032c0667b5e3cb610"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bubblegum",
+    "sanitizedSymbol": "BUBBLEGUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7fE0de0B4426532Dd8fe37DC271690aF8fDf9a6f",
+    "lpNftId": "1311340",
+    "lockerAddress": "0x3A08db4113B5513b012455567a45438586145443"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wogag",
+  "symbol": "Wogag",
+  "decimals": 18,
+  "description": "Wogag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wogag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wogag",
+  "addresses": {
+    "8453": "0x1c3df58ea8f9b7b76cbad3649df643ec024243de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wogag",
+    "sanitizedSymbol": "WOGAG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35A4d8986fE7Cc871FB6983424Bc40adc3DBa01b",
+    "lpNftId": "1319321",
+    "lockerAddress": "0x5318A9b2B196084EF1D17A0912304B3801B33DF9"
+  },
+  "clankerInfo": null
+}

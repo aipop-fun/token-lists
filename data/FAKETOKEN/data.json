@@ -1,0 +1,22 @@
+{
+  "name": "Faketoken",
+  "symbol": "Faketoken",
+  "decimals": 18,
+  "description": "Faketoken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Faketoken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Faketoken",
+  "addresses": {
+    "8453": "0x024fa3bda6b39fdf5b8c4d5234179e5052454088"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Faketoken",
+    "sanitizedSymbol": "FAKETOKEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa58845e617D703E24E2dc6338d9B584926c546C3",
+    "lpNftId": "1264719",
+    "lockerAddress": "0x8F1e6B9dd3d31280812D3a799a4b2aC8783B96b1"
+  },
+  "clankerInfo": null
+}

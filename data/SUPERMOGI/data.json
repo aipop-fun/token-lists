@@ -1,0 +1,22 @@
+{
+  "name": "Supermogi",
+  "symbol": "Supermogi",
+  "decimals": 18,
+  "description": "Supermogi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Supermogi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Supermogi",
+  "addresses": {
+    "8453": "0x3272b762a01c690e2f176d82f128a70861b91bfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Supermogi",
+    "sanitizedSymbol": "SUPERMOGI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1321017",
+    "lockerAddress": "0x567BA5E69d71983Ae91C5dE22fD7C0769Ac8538C"
+  },
+  "clankerInfo": null
+}

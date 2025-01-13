@@ -1,0 +1,22 @@
+{
+  "name": "crypto psyop",
+  "symbol": "crypto psyop",
+  "decimals": 18,
+  "description": "crypto psyop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=crypto%20psyop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "crypto psyop",
+  "addresses": {
+    "8453": "0x0ec05ac50fcf3af21c5c29d875ccd2f9d6e30951"
+  },
+  "tokenInfo": {
+    "originalSymbol": "crypto psyop",
+    "sanitizedSymbol": "CRYPTO_PSYOP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf65DB13b5ee031CB0ebBa525eF21aa6C586681b3",
+    "lpNftId": "1316584",
+    "lockerAddress": "0x3F5D64Add11d079D6bdbA7489cB91fd253d185a8"
+  },
+  "clankerInfo": null
+}

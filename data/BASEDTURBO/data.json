@@ -1,0 +1,22 @@
+{
+  "name": "BasedTurbo",
+  "symbol": "BasedTurbo",
+  "decimals": 18,
+  "description": "BasedTurbo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedTurbo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedTurbo",
+  "addresses": {
+    "8453": "0x00226918ceaa8e4bc76fe8572675479eb0c9800d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedTurbo",
+    "sanitizedSymbol": "BASEDTURBO",
+    "created_at": "2024-12-12T09:13:15.713894",
+    "deployer": "0x3De20c2e37cB4B6A0fB502220a2d88B851824361",
+    "lpNftId": "1430820",
+    "lockerAddress": "0x84dd7d13C4FA094B087154989bD6a70b6fbCdBb9"
+  },
+  "clankerInfo": null
+}

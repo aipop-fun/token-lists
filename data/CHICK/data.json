@@ -1,0 +1,22 @@
+{
+  "name": "CHICK",
+  "symbol": "CHICK",
+  "decimals": 18,
+  "description": "CHICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHICK",
+  "addresses": {
+    "8453": "0x224f7e61ed105ea79922e3fe559ee844da6878b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHICK",
+    "sanitizedSymbol": "CHICK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf98162Fd059525872a3d28a6f3ca296689f5Dcdc",
+    "lpNftId": "1252834",
+    "lockerAddress": "0x282A3Bb56D64a01bCCC89394396F5152d96f1220"
+  },
+  "clankerInfo": null
+}

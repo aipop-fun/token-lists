@@ -1,0 +1,22 @@
+{
+  "name": "rugme",
+  "symbol": "rugme",
+  "decimals": 18,
+  "description": "rugme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rugme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rugme",
+  "addresses": {
+    "8453": "0x11d2f7c33a71b172ef84f2b554c502d73a073a7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rugme",
+    "sanitizedSymbol": "RUGME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x30C66A291BE2EFd534489accef5A3EEa84d1bB00",
+    "lpNftId": "1294712",
+    "lockerAddress": "0xe580F6f45f6e466AF672FC4495E7BBBa84F0D2c1"
+  },
+  "clankerInfo": null
+}

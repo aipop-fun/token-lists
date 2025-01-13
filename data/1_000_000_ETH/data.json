@@ -1,0 +1,22 @@
+{
+  "name": "1,000,000 ETH",
+  "symbol": "1,000,000 ETH",
+  "decimals": 18,
+  "description": "1,000,000 ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%2C000%2C000%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1,000,000 ETH",
+  "addresses": {
+    "8453": "0x3b5e09e5a0eabaf05de1bddd1c944f1be0479cba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1,000,000 ETH",
+    "sanitizedSymbol": "1_000_000_ETH",
+    "created_at": "2024-12-12T19:17:32.990313",
+    "deployer": "0x8fe119C244EdEf526eFC2739a2b2e56Cd7aaE80d",
+    "lpNftId": "1441512",
+    "lockerAddress": "0x03A6ca5413ae63438f80D8B94D9aCDD8A1E5F7e3"
+  },
+  "clankerInfo": null
+}

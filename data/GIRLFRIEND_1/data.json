@@ -1,0 +1,22 @@
+{
+  "name": "GIRLFRIEND",
+  "symbol": "GIRLFRIEND",
+  "decimals": 18,
+  "description": "GIRLFRIEND is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIRLFRIEND",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIRLFRIEND",
+  "addresses": {
+    "8453": "0x0aa80d5aa5f58249696632eb27ec08ab4c2da4be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIRLFRIEND",
+    "sanitizedSymbol": "GIRLFRIEND_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9F80825a2A234cf3c7484B6042E572F707dCB05a",
+    "lpNftId": "1327503",
+    "lockerAddress": "0x20f42F94945288b78818A2c74335A4FB37EDba14"
+  },
+  "clankerInfo": null
+}

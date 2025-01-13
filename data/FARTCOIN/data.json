@@ -1,0 +1,22 @@
+{
+  "name": "FartCoin",
+  "symbol": "FartCoin",
+  "decimals": 18,
+  "description": "FartCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FartCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FartCoin",
+  "addresses": {
+    "8453": "0x18627785c670f6d1d9414edee16fcdca493e8459"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FartCoin",
+    "sanitizedSymbol": "FARTCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd3Fe541197260211A1b9c90D6b3F9559F6503b06",
+    "lpNftId": "1265196",
+    "lockerAddress": "0xE7A52F9BDf83955D0908efC2f52714c68f2883FA"
+  },
+  "clankerInfo": null
+}

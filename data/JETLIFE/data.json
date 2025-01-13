@@ -1,0 +1,22 @@
+{
+  "name": "Jetlife",
+  "symbol": "Jetlife",
+  "decimals": 18,
+  "description": "Jetlife is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jetlife",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jetlife",
+  "addresses": {
+    "8453": "0x290981f574c130a3e13a32ca61c7aae0f7272f85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jetlife",
+    "sanitizedSymbol": "JETLIFE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203942",
+    "lockerAddress": "0xCa6F3B8655B7471dE731FD18BB331D850C0A108E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "neged",
+  "symbol": "neged",
+  "decimals": 18,
+  "description": "neged is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=neged",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "neged",
+  "addresses": {
+    "8453": "0x177ec116620b1af4f8c76b0aa15dba7e81445151"
+  },
+  "tokenInfo": {
+    "originalSymbol": "neged",
+    "sanitizedSymbol": "NEGED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1309620",
+    "lockerAddress": "0xA5357CA0A018d0E167cCdF7a2E73211423183eFE"
+  },
+  "clankerInfo": null
+}

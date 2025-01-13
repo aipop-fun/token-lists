@@ -1,0 +1,22 @@
+{
+  "name": "new all time high",
+  "symbol": "new all time high",
+  "decimals": 18,
+  "description": "new all time high is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=new%20all%20time%20high",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "new all time high",
+  "addresses": {
+    "8453": "0x04371f3da25fc33efdde8df7edaedd2ebd2273a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "new all time high",
+    "sanitizedSymbol": "NEW_ALL_TIME_HIGH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8fe119C244EdEf526eFC2739a2b2e56Cd7aaE80d",
+    "lpNftId": "1335097",
+    "lockerAddress": "0x799ceea92A32ECBbc74E9F9FE5a69B03edDFE09f"
+  },
+  "clankerInfo": null
+}

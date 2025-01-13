@@ -1,0 +1,22 @@
+{
+  "name": "catiecat",
+  "symbol": "catiecat",
+  "decimals": 18,
+  "description": "catiecat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=catiecat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "catiecat",
+  "addresses": {
+    "8453": "0x029e04268137554cdcd732d5257ce154405f2339"
+  },
+  "tokenInfo": {
+    "originalSymbol": "catiecat",
+    "sanitizedSymbol": "CATIECAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbBEB4A1078A534fDB60e21d0Ab5dc11531e7DaA0",
+    "lpNftId": "1327614",
+    "lockerAddress": "0x2b96e2acbc2a93069b771d17b05A25CA6a2458bE"
+  },
+  "clankerInfo": null
+}

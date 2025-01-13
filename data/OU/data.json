@@ -1,0 +1,22 @@
+{
+  "name": "OU",
+  "symbol": "OU",
+  "decimals": 18,
+  "description": "OU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OU",
+  "addresses": {
+    "8453": "0x38d992ca2bb608dc12c7767e433f0c3140724284"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OU",
+    "sanitizedSymbol": "OU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230385",
+    "lockerAddress": "0x477f54BbA2302a36f88F66851ddB024fDb4eCBEB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GARRYSUN",
+  "symbol": "GARRYSUN",
+  "decimals": 18,
+  "description": "GARRYSUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GARRYSUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GARRYSUN",
+  "addresses": {
+    "8453": "0x3f88539d63ec278f2034796e5e56b5bd73a85f8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GARRYSUN",
+    "sanitizedSymbol": "GARRYSUN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125128",
+    "lockerAddress": "0x2460b33CcAC8509f460d2125114b96e5bfFFD27a"
+  },
+  "clankerInfo": null
+}

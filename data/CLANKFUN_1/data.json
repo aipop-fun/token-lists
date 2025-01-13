@@ -1,0 +1,22 @@
+{
+  "name": "clankfun",
+  "symbol": "clankfun",
+  "decimals": 18,
+  "description": "clankfun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankfun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankfun",
+  "addresses": {
+    "8453": "0x1bef5cdfc33f452220b694a3e42d1dd74c8e88c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankfun",
+    "sanitizedSymbol": "CLANKFUN_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1373472",
+    "lockerAddress": "0x7E44c9E2885d534Ff40e6a2bBC34C328aDeEe6f5"
+  },
+  "clankerInfo": null
+}

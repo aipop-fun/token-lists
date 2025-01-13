@@ -1,0 +1,22 @@
+{
+  "name": "BEAV",
+  "symbol": "BEAV",
+  "decimals": 18,
+  "description": "BEAV is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEAV",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEAV",
+  "addresses": {
+    "8453": "0x241929c44635fcb823c7601c572e8a31ee3428a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEAV",
+    "sanitizedSymbol": "BEAV",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158924",
+    "lockerAddress": "0x09E349736a0588A1AC48C8CcdC9FaeCa9bd3aDd4"
+  },
+  "clankerInfo": null
+}

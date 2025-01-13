@@ -1,0 +1,22 @@
+{
+  "name": "Santa Fe Capybara",
+  "symbol": "Santa Fe Capybara",
+  "decimals": 18,
+  "description": "Santa Fe Capybara is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Fe%20Capybara",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Fe Capybara",
+  "addresses": {
+    "8453": "0x03550adf0767303ced1a1e143e7f8be8d62ad5a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Fe Capybara",
+    "sanitizedSymbol": "SANTA_FE_CAPYBARA",
+    "created_at": "2024-12-10T17:37:19.011402",
+    "deployer": "0x9b77b2cf9368c0b09fA1df5589a914f7417Ce811",
+    "lpNftId": "1404751",
+    "lockerAddress": "0xfcF767F106ebE21382651E4Ce7079080dA4A43C6"
+  },
+  "clankerInfo": null
+}

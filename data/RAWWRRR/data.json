@@ -1,0 +1,22 @@
+{
+  "name": "Rawwrrr",
+  "symbol": "Rawwrrr",
+  "decimals": 18,
+  "description": "Rawwrrr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rawwrrr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rawwrrr",
+  "addresses": {
+    "8453": "0x26ae5145fb16cc7a094edf91e79a5f8b3dfa4697"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rawwrrr",
+    "sanitizedSymbol": "RAWWRRR",
+    "created_at": "2024-12-12T04:28:27.921108",
+    "deployer": "0x45Ab0aee013747067D7F1789A23ce7Ca3d249FBb",
+    "lpNftId": "1429154",
+    "lockerAddress": "0xe5AAc4A51D6B826a1f7C1f86af62B7080e0B0eDd"
+  },
+  "clankerInfo": null
+}

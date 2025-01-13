@@ -1,0 +1,22 @@
+{
+  "name": "based puppets",
+  "symbol": "based puppets",
+  "decimals": 18,
+  "description": "based puppets is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=based%20puppets",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "based puppets",
+  "addresses": {
+    "8453": "0x1cc3c84b24599aca5477cb853c7553041d9a88ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "based puppets",
+    "sanitizedSymbol": "BASED_PUPPETS",
+    "created_at": "2024-12-11T08:59:19.867791",
+    "deployer": "0x8fe119C244EdEf526eFC2739a2b2e56Cd7aaE80d",
+    "lpNftId": "1415305",
+    "lockerAddress": "0x98970BF235Aad634F654Fb969a0E7462CceA3E97"
+  },
+  "clankerInfo": null
+}

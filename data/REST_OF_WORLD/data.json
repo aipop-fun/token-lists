@@ -1,0 +1,22 @@
+{
+  "name": "rest of world",
+  "symbol": "rest of world",
+  "decimals": 18,
+  "description": "rest of world is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rest%20of%20world",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rest of world",
+  "addresses": {
+    "8453": "0x0769b038a7ba15154493ff61b591a46e0e821f13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rest of world",
+    "sanitizedSymbol": "REST_OF_WORLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84037f0D36C6BD21fFD9b6c11f671ba100bc9bCf",
+    "lpNftId": "1309127",
+    "lockerAddress": "0x936905176C8fcb753cd148f0Eb3a441f64A4D5eb"
+  },
+  "clankerInfo": null
+}

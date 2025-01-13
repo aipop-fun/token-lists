@@ -1,0 +1,22 @@
+{
+  "name": "LazyKoala",
+  "symbol": "LazyKoala",
+  "decimals": 18,
+  "description": "LazyKoala is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LazyKoala",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LazyKoala",
+  "addresses": {
+    "8453": "0x19fafc3744c8a3eefb70005578fd178998ec81ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LazyKoala",
+    "sanitizedSymbol": "LAZYKOALA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173361",
+    "lockerAddress": "0xf32e638919F1F29db9a961D9D44dEb399c2C7a4f"
+  },
+  "clankerInfo": null
+}

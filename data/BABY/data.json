@@ -1,0 +1,22 @@
+{
+  "name": "BABY",
+  "symbol": "BABY",
+  "decimals": 18,
+  "description": "BABY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY",
+  "addresses": {
+    "8453": "0x22ba5f052b98052c9c1a2243e291e604c3385ea6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY",
+    "sanitizedSymbol": "BABY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC828e973cF45356A985c58C6F21205ac399B9ca8",
+    "lpNftId": "1312902",
+    "lockerAddress": "0x72fAd3E8d1606ec21a11B0Bf206F337cD23c6132"
+  },
+  "clankerInfo": null
+}

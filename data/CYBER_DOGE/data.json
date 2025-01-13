@@ -1,0 +1,22 @@
+{
+  "name": "CYBER DOGE",
+  "symbol": "CYBER DOGE",
+  "decimals": 18,
+  "description": "CYBER DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CYBER%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CYBER DOGE",
+  "addresses": {
+    "8453": "0x2221ec3cbbe7071a324fbcea9badfede5ae726de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CYBER DOGE",
+    "sanitizedSymbol": "CYBER_DOGE",
+    "created_at": "2024-12-12T05:22:14.314991",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1429372",
+    "lockerAddress": "0x1294fa80926c5c02f97874913C332C38E2AC9448"
+  },
+  "clankerInfo": null
+}

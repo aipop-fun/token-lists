@@ -1,0 +1,22 @@
+{
+  "name": "ABC",
+  "symbol": "ABC",
+  "decimals": 18,
+  "description": "ABC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ABC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ABC",
+  "addresses": {
+    "8453": "0x31efc3da0224ac3692ecd8c3ae88d8dc6c228511"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ABC",
+    "sanitizedSymbol": "ABC_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD68325A04889D26c6e6f5c2dB709E65b78b249A7",
+    "lpNftId": "1327768",
+    "lockerAddress": "0xB0c40DFC69426852C382BA73f5B8DA0EfF9d7713"
+  },
+  "clankerInfo": null
+}

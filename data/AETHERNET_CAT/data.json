@@ -1,0 +1,22 @@
+{
+  "name": "Aethernet CAT",
+  "symbol": "Aethernet CAT",
+  "decimals": 18,
+  "description": "Aethernet CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aethernet%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aethernet CAT",
+  "addresses": {
+    "8453": "0x2dc59b5f96bc7623d9355e263bdcfe7156c97452"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aethernet CAT",
+    "sanitizedSymbol": "AETHERNET_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236630",
+    "lockerAddress": "0x23F1489319395dD9F44EF4Ceea08Ac1CeD8f4ac9"
+  },
+  "clankerInfo": null
+}

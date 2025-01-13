@@ -1,0 +1,22 @@
+{
+  "name": "v_on_vana",
+  "symbol": "v_on_vana",
+  "decimals": 18,
+  "description": "v_on_vana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=v_on_vana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "v_on_vana",
+  "addresses": {
+    "8453": "0x252dd34dadaac5516d23da47c249f651ddc6d31e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "v_on_vana",
+    "sanitizedSymbol": "V_ON_VANA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfFBe87856ebcA31143A59b88Db2726E773BE7194",
+    "lpNftId": "1309753",
+    "lockerAddress": "0xa2A82787A3f37DC1dAB0635Ad47E7895fB9d5e22"
+  },
+  "clankerInfo": null
+}

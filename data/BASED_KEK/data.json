@@ -1,0 +1,22 @@
+{
+  "name": "Based Kek",
+  "symbol": "Based Kek",
+  "decimals": 18,
+  "description": "Based Kek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Kek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Kek",
+  "addresses": {
+    "8453": "0x02a901b3a8c0f5f9303bc00cfb84603a08f715ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Kek",
+    "sanitizedSymbol": "BASED_KEK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4936B305102F442080d4711F14C5F0318E3cAF74",
+    "lpNftId": "1250709",
+    "lockerAddress": "0xd6741861bbe35CcF7Ebc2aDf33d43DA19704823D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BlockyHamster",
+  "symbol": "BlockyHamster",
+  "decimals": 18,
+  "description": "BlockyHamster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlockyHamster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlockyHamster",
+  "addresses": {
+    "8453": "0x363da183b7c71e1477b9e2479780963ca7b0e704"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlockyHamster",
+    "sanitizedSymbol": "BLOCKYHAMSTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164056",
+    "lockerAddress": "0xb907050e48205b6b8f0AC7B21F2a2aC5f09b14CB"
+  },
+  "clankerInfo": null
+}

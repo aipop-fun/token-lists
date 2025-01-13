@@ -1,0 +1,22 @@
+{
+  "name": "Webster",
+  "symbol": "Webster",
+  "decimals": 18,
+  "description": "Webster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Webster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Webster",
+  "addresses": {
+    "8453": "0x3834887c15c21ca73b97037ba69d2881972e6c83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Webster",
+    "sanitizedSymbol": "WEBSTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDc2FcE5A7C3978080992529a2AFA741E2a13009E",
+    "lpNftId": "1333135",
+    "lockerAddress": "0x50b16Cf5e276C81f39470CCD0C0d61Cc05D87EA0"
+  },
+  "clankerInfo": null
+}

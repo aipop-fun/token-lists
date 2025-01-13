@@ -1,0 +1,22 @@
+{
+  "name": "BOKE",
+  "symbol": "BOKE",
+  "decimals": 18,
+  "description": "BOKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOKE",
+  "addresses": {
+    "8453": "0x1af7d5aeccdfbb752d801cf6d0ce01609437576b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOKE",
+    "sanitizedSymbol": "BOKE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc577810dA4e4c2FdcA8D0542415FEaab77c53582",
+    "lpNftId": "1330082",
+    "lockerAddress": "0xe2978a9b729252d6c130894DEE0b7269004ACdfA"
+  },
+  "clankerInfo": null
+}

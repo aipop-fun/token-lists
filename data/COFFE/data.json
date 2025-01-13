@@ -1,0 +1,22 @@
+{
+  "name": "COFFE",
+  "symbol": "COFFE",
+  "decimals": 18,
+  "description": "COFFE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COFFE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COFFE",
+  "addresses": {
+    "8453": "0x3d1f187be1765385f34129cff87480ab7994cb34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COFFE",
+    "sanitizedSymbol": "COFFE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x847C6CaADF97FBe03D93b720488f06D246eDc65E",
+    "lpNftId": "1309459",
+    "lockerAddress": "0x2c09996760B3B7aF444796ac9e476498366BF532"
+  },
+  "clankerInfo": null
+}

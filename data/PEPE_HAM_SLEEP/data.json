@@ -1,0 +1,22 @@
+{
+  "name": "PEPE HAM SLEEP",
+  "symbol": "PEPE HAM SLEEP",
+  "decimals": 18,
+  "description": "PEPE HAM SLEEP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20HAM%20SLEEP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE HAM SLEEP",
+  "addresses": {
+    "8453": "0x23626745b80e6344f55edf17cd8c88c5af01f014"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE HAM SLEEP",
+    "sanitizedSymbol": "PEPE_HAM_SLEEP",
+    "created_at": "2024-12-10T09:27:37.445737",
+    "deployer": "0xe348f6bA3Ed01cBfe129f979700Bd7Dad5aF0075",
+    "lpNftId": "1399223",
+    "lockerAddress": "0xe9Af398172FB93B731Ebaf027d0151847e0D6016"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bearby",
+  "symbol": "Bearby",
+  "decimals": 18,
+  "description": "Bearby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bearby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bearby",
+  "addresses": {
+    "8453": "0x34e9391d20df2d6f7a776964332b1db47e72539c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bearby",
+    "sanitizedSymbol": "BEARBY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x24B08dADe9C0EE2e77Fa9855b1c0A1eAFAF58ae6",
+    "lpNftId": "1329733",
+    "lockerAddress": "0xc31E3Fd2a2997a3b9eE0F4B2045e5c64551A1a01"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "whitecat",
+  "symbol": "whitecat",
+  "decimals": 18,
+  "description": "whitecat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=whitecat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "whitecat",
+  "addresses": {
+    "8453": "0x0c387d7a1cfc9c49bc564b1ff947f84c6b7be2fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "whitecat",
+    "sanitizedSymbol": "WHITECAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1b5B5F524Af8978fc67Bfc2Fbb8Ad94e51e7e9E5",
+    "lpNftId": "1374206",
+    "lockerAddress": "0x6Dad8E9A7a74012AbFafD78Ae3A91bBa7811F0a8"
+  },
+  "clankerInfo": null
+}

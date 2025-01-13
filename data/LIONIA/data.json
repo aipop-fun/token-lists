@@ -1,0 +1,22 @@
+{
+  "name": "Lionia",
+  "symbol": "Lionia",
+  "decimals": 18,
+  "description": "Lionia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lionia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lionia",
+  "addresses": {
+    "8453": "0x143e4d92495838f00266caed5fb8adb77aa26672"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lionia",
+    "sanitizedSymbol": "LIONIA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123556",
+    "lockerAddress": "0xC99907F7633DFf14Ba12E6156B030D465C98BBae"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tiki",
+  "symbol": "Tiki",
+  "decimals": 18,
+  "description": "Tiki is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiki",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiki",
+  "addresses": {
+    "8453": "0x418653278c9d9886fc2b3e7b42b744e878f50069"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiki",
+    "sanitizedSymbol": "TIKI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdE7c54DFE1eF6Aca7faC83F41E5cF766B1d2CC13",
+    "lpNftId": "1309947",
+    "lockerAddress": "0x45d212C08c8a5D601F6fe4b1FFC4E0EF9B5822be"
+  },
+  "clankerInfo": null
+}

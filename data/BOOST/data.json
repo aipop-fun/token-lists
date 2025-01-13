@@ -1,0 +1,22 @@
+{
+  "name": "Boost",
+  "symbol": "Boost",
+  "decimals": 18,
+  "description": "Boost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boost",
+  "addresses": {
+    "8453": "0x13d400a0b552a2a426c20e7c70f2e7f6b66785cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boost",
+    "sanitizedSymbol": "BOOST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe621F722c1E3Ef75Af888f005E7F4b4eCA0E55bb",
+    "lpNftId": "1308690",
+    "lockerAddress": "0x8e28B132B8302b4ab49091170e861C2bc744678E"
+  },
+  "clankerInfo": null
+}

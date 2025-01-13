@@ -1,0 +1,22 @@
+{
+  "name": "Orangutan",
+  "symbol": "Orangutan",
+  "decimals": 18,
+  "description": "Orangutan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Orangutan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Orangutan",
+  "addresses": {
+    "8453": "0x41bdae86a33c1a863c68dd90348171ca4f0536c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Orangutan",
+    "sanitizedSymbol": "ORANGUTAN",
+    "created_at": "2024-12-10T16:19:10.320714",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1403809",
+    "lockerAddress": "0xE195d755E0cb2EF51B126EA59Acb8C82205BB81e"
+  },
+  "clankerInfo": null
+}

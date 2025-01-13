@@ -1,0 +1,22 @@
+{
+  "name": "HardcorePawn",
+  "symbol": "HardcorePawn",
+  "decimals": 18,
+  "description": "HardcorePawn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HardcorePawn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HardcorePawn",
+  "addresses": {
+    "8453": "0x2630c34400a05cf76adfad720f8dc66eb1988acb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HardcorePawn",
+    "sanitizedSymbol": "HARDCOREPAWN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1330950",
+    "lockerAddress": "0x9A3C89680A5fFdF16586AA4E540d5DFC2C3D848B"
+  },
+  "clankerInfo": null
+}

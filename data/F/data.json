@@ -1,13 +1,22 @@
 {
-    "name": "SynFutures",
-    "symbol": "F",
-    "decimals": 18,
-    "website": "https://www.synfutures.com/",
-    "twitter": "https://x.com/SynFuturesDefi",
-    "logoURI": "https://api.synfutures.com/ipfs/icons/f.png",
-    "opTokenId": "F",
-    "addresses": {
-        "1": "0x6e15A54B5EcAc17e58daDedDbe8506a7560252F9",
-        "8453": "0x2C24497D4086490e7EaD87CC12597fb50c2E6eD6"
-    }
+  "name": "F",
+  "symbol": "F",
+  "decimals": 18,
+  "description": "F is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "F",
+  "addresses": {
+    "8453": "0x3293a7e5dc937d7edd9dd92e6b83f7baeae68c51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "F",
+    "sanitizedSymbol": "F",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120099",
+    "lockerAddress": "0x9a6A649922B6C26349Ea0d5571d4b0000512A6Dc"
+  },
+  "clankerInfo": null
 }

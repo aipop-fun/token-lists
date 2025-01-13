@@ -1,0 +1,22 @@
+{
+  "name": "Super Sperm",
+  "symbol": "Super Sperm",
+  "decimals": 18,
+  "description": "Super Sperm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Sperm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Sperm",
+  "addresses": {
+    "8453": "0x28b87d766f657f2c1eafcdebd516e927d2ef67a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Sperm",
+    "sanitizedSymbol": "SUPER_SPERM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1292571",
+    "lockerAddress": "0xC71037AA3943550270669dDa987037b2fb619213"
+  },
+  "clankerInfo": null
+}

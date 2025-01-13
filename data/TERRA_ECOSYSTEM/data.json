@@ -1,0 +1,22 @@
+{
+  "name": "Terra Ecosystem",
+  "symbol": "Terra Ecosystem",
+  "decimals": 18,
+  "description": "Terra Ecosystem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Terra%20Ecosystem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Terra Ecosystem",
+  "addresses": {
+    "8453": "0x3d90e6e89f61507a6cabbfbf472216600bc2b881"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Terra Ecosystem",
+    "sanitizedSymbol": "TERRA_ECOSYSTEM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB97FD7036E9C8a24A3A8C1e541678d27aFE477ce",
+    "lpNftId": "1303530",
+    "lockerAddress": "0x7c94057671ef3042218d4b0B523Ae2258B180b99"
+  },
+  "clankerInfo": null
+}

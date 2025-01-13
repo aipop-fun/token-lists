@@ -1,0 +1,22 @@
+{
+  "name": "Oracle",
+  "symbol": "Oracle",
+  "decimals": 18,
+  "description": "Oracle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oracle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oracle",
+  "addresses": {
+    "8453": "0x275b9a8f25bb7f635c0d0ec21c1d1b1646394e69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oracle",
+    "sanitizedSymbol": "ORACLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173320",
+    "lockerAddress": "0x94A82691DEe46141a9589A39f8D3e71f9aa7A69A"
+  },
+  "clankerInfo": null
+}

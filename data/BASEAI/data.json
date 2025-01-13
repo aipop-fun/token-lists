@@ -1,0 +1,22 @@
+{
+  "name": "BASEAI",
+  "symbol": "BASEAI",
+  "decimals": 18,
+  "description": "BASEAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASEAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASEAI",
+  "addresses": {
+    "8453": "0x2f5c995a24778961f01daabc3df3948321c8588b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASEAI",
+    "sanitizedSymbol": "BASEAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231821",
+    "lockerAddress": "0x1fC247Fc7C62156F174A7d59e73A36999A7d29C0"
+  },
+  "clankerInfo": null
+}

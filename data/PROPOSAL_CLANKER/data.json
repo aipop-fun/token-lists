@@ -1,0 +1,22 @@
+{
+  "name": "PROPOSAL / CLANKER",
+  "symbol": "PROPOSAL / CLANKER",
+  "decimals": 18,
+  "description": "PROPOSAL / CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROPOSAL%20%2F%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROPOSAL / CLANKER",
+  "addresses": {
+    "8453": "0x0af72d623063e1670968f45ff1bbf6a42308ff45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROPOSAL / CLANKER",
+    "sanitizedSymbol": "PROPOSAL_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x220647E6f459119084Af0b446470A7b238fAC378",
+    "lpNftId": "1285323",
+    "lockerAddress": "0x8CDaA35CbF3A9D6477728aE1901D1fe159F5c174"
+  },
+  "clankerInfo": null
+}

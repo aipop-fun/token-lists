@@ -1,0 +1,22 @@
+{
+  "name": "Catch",
+  "symbol": "Catch",
+  "decimals": 18,
+  "description": "Catch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Catch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Catch",
+  "addresses": {
+    "8453": "0x1e6c8a066f019854436d544c14656dab1f46a31e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Catch",
+    "sanitizedSymbol": "CATCH",
+    "created_at": "2024-12-12T09:15:12.657451",
+    "deployer": "0x94e9D0292BF7991B6fc46A99A1AC26C4c1401898",
+    "lpNftId": "1430893",
+    "lockerAddress": "0xBD88cf2d15AC65ae75310cA27342c3091aC67C62"
+  },
+  "clankerInfo": null
+}

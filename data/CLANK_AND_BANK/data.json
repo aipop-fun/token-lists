@@ -1,0 +1,22 @@
+{
+  "name": "Clank and Bank",
+  "symbol": "Clank and Bank",
+  "decimals": 18,
+  "description": "Clank and Bank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20and%20Bank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank and Bank",
+  "addresses": {
+    "8453": "0x31090f544cd7dd2a943c050f77f5a29096842c28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank and Bank",
+    "sanitizedSymbol": "CLANK_AND_BANK",
+    "created_at": "2024-12-10T15:57:39.391747",
+    "deployer": "0x96c542e5CC8C8b675938f5c05f2d22C6EbF74B0F",
+    "lpNftId": "1403233",
+    "lockerAddress": "0x0B8B1e253Cd8FF61A9c6DC12A183255A98e8C4aF"
+  },
+  "clankerInfo": null
+}

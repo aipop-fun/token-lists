@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTOLAMA",
+  "symbol": "CRYPTOLAMA",
+  "decimals": 18,
+  "description": "CRYPTOLAMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTOLAMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTOLAMA",
+  "addresses": {
+    "8453": "0x0a9d67dd16e4cf2f5597943c6c2448ed3212c9ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTOLAMA",
+    "sanitizedSymbol": "CRYPTOLAMA",
+    "created_at": "2024-12-10T14:14:05.66901",
+    "deployer": "0x5F92AbF4C8e4bd24C7fd2d8cDb19d812883F6E69",
+    "lpNftId": "1401733",
+    "lockerAddress": "0x45BB59eb05059517329b685C61051166DDA9a130"
+  },
+  "clankerInfo": null
+}

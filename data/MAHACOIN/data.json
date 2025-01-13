@@ -1,0 +1,22 @@
+{
+  "name": "mahacoin",
+  "symbol": "mahacoin",
+  "decimals": 18,
+  "description": "mahacoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mahacoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mahacoin",
+  "addresses": {
+    "8453": "0x3011f7785bfbcaa68bb9f841e8a9f6f6b8b4eaa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mahacoin",
+    "sanitizedSymbol": "MAHACOIN",
+    "created_at": "2024-12-12T14:54:59.638199",
+    "deployer": "0x897F4e8D3c6ABDdA8E59ffAd6523D90BC43137d7",
+    "lpNftId": "1436454",
+    "lockerAddress": "0x6BbE3695fff0db639bd327E2AbFB52c69cbcf244"
+  },
+  "clankerInfo": null
+}

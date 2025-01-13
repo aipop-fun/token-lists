@@ -1,0 +1,22 @@
+{
+  "name": "Xpepe",
+  "symbol": "Xpepe",
+  "decimals": 18,
+  "description": "Xpepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xpepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xpepe",
+  "addresses": {
+    "8453": "0x41f545cdba753a757585efb6f5892cf1b0f9943a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xpepe",
+    "sanitizedSymbol": "XPEPE_1",
+    "created_at": "2024-12-12T15:54:23.130899",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1437640",
+    "lockerAddress": "0x27Af7032B6959741b07951978ca10e6c57EE4302"
+  },
+  "clankerInfo": null
+}

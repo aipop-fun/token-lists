@@ -1,0 +1,22 @@
+{
+  "name": "Anon By Virtual",
+  "symbol": "Anon By Virtual",
+  "decimals": 18,
+  "description": "Anon By Virtual is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20By%20Virtual",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon By Virtual",
+  "addresses": {
+    "8453": "0x36dc5d408320a00fc32a345b2763fc9899df99e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon By Virtual",
+    "sanitizedSymbol": "ANON_BY_VIRTUAL",
+    "created_at": "2024-12-11T07:24:21.351743",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1414065",
+    "lockerAddress": "0x74ff9829c93ae108762503360d27EE0826D7B075"
+  },
+  "clankerInfo": null
+}

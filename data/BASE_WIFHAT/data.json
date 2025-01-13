@@ -1,0 +1,22 @@
+{
+  "name": "BASE WIFHAT",
+  "symbol": "BASE WIFHAT",
+  "decimals": 18,
+  "description": "BASE WIFHAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20WIFHAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE WIFHAT",
+  "addresses": {
+    "8453": "0x342bbdd8dc1f3cbbf07d03eefdd344cc8ee76675"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE WIFHAT",
+    "sanitizedSymbol": "BASE_WIFHAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219396",
+    "lockerAddress": "0x557Eec63a48184fE1e266301bb2CF3e38b7b6654"
+  },
+  "clankerInfo": null
+}

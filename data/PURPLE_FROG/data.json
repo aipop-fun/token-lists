@@ -1,0 +1,22 @@
+{
+  "name": "Purple Frog",
+  "symbol": "Purple Frog",
+  "decimals": 18,
+  "description": "Purple Frog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Purple%20Frog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Purple Frog",
+  "addresses": {
+    "8453": "0x11093da83c754120a1b97ce2c39ff1b050088b14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Purple Frog",
+    "sanitizedSymbol": "PURPLE_FROG",
+    "created_at": "2024-12-09T04:48:57.437355",
+    "deployer": "0x2D7c99bD362E50a05DC4EdBAB981B7D825CF4AA8",
+    "lpNftId": "1382579",
+    "lockerAddress": "0xE074A905b306E31Fa06B741B12bB642b2Ecc6c53"
+  },
+  "clankerInfo": null
+}

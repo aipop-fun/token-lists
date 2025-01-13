@@ -1,0 +1,22 @@
+{
+  "name": "Fourone",
+  "symbol": "Fourone",
+  "decimals": 18,
+  "description": "Fourone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fourone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fourone",
+  "addresses": {
+    "8453": "0x311f321e9e3fe2f1a3cbeb67c6696263cd12020d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fourone",
+    "sanitizedSymbol": "FOURONE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125452",
+    "lockerAddress": "0xD51d93FEc7cDAC00237E969012b3bc44E7C287A6"
+  },
+  "clankerInfo": null
+}

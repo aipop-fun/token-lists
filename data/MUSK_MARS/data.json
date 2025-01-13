@@ -1,0 +1,22 @@
+{
+  "name": "MUSK MARS",
+  "symbol": "MUSK MARS",
+  "decimals": 18,
+  "description": "MUSK MARS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MUSK%20MARS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MUSK MARS",
+  "addresses": {
+    "8453": "0x012d9c38c4dd1dd7fe3e23f43f5f5f435edf758f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MUSK MARS",
+    "sanitizedSymbol": "MUSK_MARS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe4239E42daBf2B12cB4E2234DE0ecEAbFc25ec66",
+    "lpNftId": "1275152",
+    "lockerAddress": "0x72ed8B5F51CCeBb78B7D3Ec1B108d72c93A94b29"
+  },
+  "clankerInfo": null
+}

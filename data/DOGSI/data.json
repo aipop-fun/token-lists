@@ -1,0 +1,22 @@
+{
+  "name": "Dogsi",
+  "symbol": "Dogsi",
+  "decimals": 18,
+  "description": "Dogsi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogsi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogsi",
+  "addresses": {
+    "8453": "0x274ed423873d6d6779d56b521fcbb9cbe38066e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogsi",
+    "sanitizedSymbol": "DOGSI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9848A20Bb70b1360b48f8131F1FC40aA8Cc19DD9",
+    "lpNftId": "1252990",
+    "lockerAddress": "0xA7AC0B882BAFbFBF68519C53C4be360928802837"
+  },
+  "clankerInfo": null
+}

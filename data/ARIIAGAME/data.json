@@ -1,0 +1,22 @@
+{
+  "name": "Ariiagame",
+  "symbol": "Ariiagame",
+  "decimals": 18,
+  "description": "Ariiagame is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ariiagame",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ariiagame",
+  "addresses": {
+    "8453": "0x05a6a8acb39dd6777fb2def2eb95e5f7e7da753d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ariiagame",
+    "sanitizedSymbol": "ARIIAGAME",
+    "created_at": "2024-12-09T07:47:09.170346",
+    "deployer": "0xB4B1bB74eB40B56bd18325cf5C028C69faDd7Fac",
+    "lpNftId": "1384475",
+    "lockerAddress": "0xdC2d33b7b404C017bC746c588cdF8684917AbBc6"
+  },
+  "clankerInfo": null
+}

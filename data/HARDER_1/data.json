@@ -1,0 +1,22 @@
+{
+  "name": "harder",
+  "symbol": "harder",
+  "decimals": 18,
+  "description": "harder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=harder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "harder",
+  "addresses": {
+    "8453": "0x0828afaf9275d295c31a8a07b8cfcd0d47c2fe49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "harder",
+    "sanitizedSymbol": "HARDER_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1AA9aCE6A350d834dA92c86E3fdAca2e7D492Ae3",
+    "lpNftId": "1374298",
+    "lockerAddress": "0xc2128d35C1a7f99a7EF6c2c5325db19FC521cE8F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DUMPSTER",
+  "symbol": "DUMPSTER",
+  "decimals": 18,
+  "description": "DUMPSTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUMPSTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUMPSTER",
+  "addresses": {
+    "8453": "0x26e691b85356fa23d0ba02fedca30aab3ea5831b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUMPSTER",
+    "sanitizedSymbol": "DUMPSTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119555",
+    "lockerAddress": "0xDADEfa4cf83cF7Ad21700799E1c12EF70bf1c772"
+  },
+  "clankerInfo": null
+}

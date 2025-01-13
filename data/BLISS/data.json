@@ -1,0 +1,22 @@
+{
+  "name": "Bliss",
+  "symbol": "Bliss",
+  "decimals": 18,
+  "description": "Bliss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bliss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bliss",
+  "addresses": {
+    "8453": "0x097f644338efb4a67de4f908877fd90072a7b3c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bliss",
+    "sanitizedSymbol": "BLISS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173363",
+    "lockerAddress": "0x86a4Df830AAea61e2Ca68a0b1A4c5211ded5b369"
+  },
+  "clankerInfo": null
+}

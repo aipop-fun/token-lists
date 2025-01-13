@@ -1,0 +1,22 @@
+{
+  "name": "Phoools",
+  "symbol": "Phoools",
+  "decimals": 18,
+  "description": "Phoools is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phoools",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phoools",
+  "addresses": {
+    "8453": "0x193d7b939ef02245dbecb4a9297d21f87319a49f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phoools",
+    "sanitizedSymbol": "PHOOOLS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232121",
+    "lockerAddress": "0xd6f545FBc8DE8937A7d2311154F1C4Eda4C3dA40"
+  },
+  "clankerInfo": null
+}

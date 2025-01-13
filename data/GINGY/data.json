@@ -1,0 +1,22 @@
+{
+  "name": "GINGY",
+  "symbol": "GINGY",
+  "decimals": 18,
+  "description": "GINGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GINGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GINGY",
+  "addresses": {
+    "8453": "0x213d31d913e7cb12d0dd7390d39fc7709f5fb662"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GINGY",
+    "sanitizedSymbol": "GINGY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x60245FBaFbe266c0E47bD33D007956425E33C975",
+    "lpNftId": "1272917",
+    "lockerAddress": "0x5a552a5aAeCF421CD68260AefDD695270B20A00A"
+  },
+  "clankerInfo": null
+}

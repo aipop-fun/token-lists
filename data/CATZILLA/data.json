@@ -1,0 +1,22 @@
+{
+  "name": "CATZILLA",
+  "symbol": "CATZILLA",
+  "decimals": 18,
+  "description": "CATZILLA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATZILLA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATZILLA",
+  "addresses": {
+    "8453": "0x3961f5fcbd3b9b9facef3ba9fae66ff974e00c0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATZILLA",
+    "sanitizedSymbol": "CATZILLA",
+    "created_at": "2024-12-09T15:12:53.977733",
+    "deployer": "0x3312723a3075306d381E243790f673A753619019",
+    "lpNftId": "1388391",
+    "lockerAddress": "0x51157FD5861Bc36d5Cc75143A413d01A3180E711"
+  },
+  "clankerInfo": null
+}

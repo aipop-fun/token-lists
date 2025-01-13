@@ -1,0 +1,22 @@
+{
+  "name": "ZENOZ PROTOCOL",
+  "symbol": "ZENOZ PROTOCOL",
+  "decimals": 18,
+  "description": "ZENOZ PROTOCOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZENOZ%20PROTOCOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZENOZ PROTOCOL",
+  "addresses": {
+    "8453": "0x1f42f40d59ce91ebd188c386e654f1b82d624ec0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZENOZ PROTOCOL",
+    "sanitizedSymbol": "ZENOZ_PROTOCOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1324187",
+    "lockerAddress": "0x3bBdc3Ca15F11f0273BD96DB9ac67C678aEA454a"
+  },
+  "clankerInfo": null
+}

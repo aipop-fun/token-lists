@@ -1,0 +1,22 @@
+{
+  "name": "Slothmas",
+  "symbol": "Slothmas",
+  "decimals": 18,
+  "description": "Slothmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Slothmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Slothmas",
+  "addresses": {
+    "8453": "0x253feb6d2a3d9ed4deab41cd7bab2c0be8a14278"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Slothmas",
+    "sanitizedSymbol": "SLOTHMAS",
+    "created_at": "2024-12-11T09:20:16.238325",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1415478",
+    "lockerAddress": "0x263C2812cfF4c25e134135c3719e89f590Bf102f"
+  },
+  "clankerInfo": null
+}

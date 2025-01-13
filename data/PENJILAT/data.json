@@ -1,0 +1,22 @@
+{
+  "name": "PENJILAT",
+  "symbol": "PENJILAT",
+  "decimals": 18,
+  "description": "PENJILAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PENJILAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PENJILAT",
+  "addresses": {
+    "8453": "0x25a0b5334a9bd0ee2dff0ba53f0d3f69b01db9f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PENJILAT",
+    "sanitizedSymbol": "PENJILAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB3c0e740e554dD9d2d0F2Dd76Db85E637C064417",
+    "lpNftId": "1286260",
+    "lockerAddress": "0x04191a53dbEe5B154976BdDc3FDbf470c289505F"
+  },
+  "clankerInfo": null
+}

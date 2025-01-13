@@ -1,0 +1,22 @@
+{
+  "name": "gilipollas",
+  "symbol": "gilipollas",
+  "decimals": 18,
+  "description": "gilipollas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gilipollas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gilipollas",
+  "addresses": {
+    "8453": "0x13c78a2f9a8d71f38eb823a501623997a3b59131"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gilipollas",
+    "sanitizedSymbol": "GILIPOLLAS",
+    "created_at": "2024-12-09T20:35:15.953493",
+    "deployer": "0x6942011e1AEc4B3224499fdF8024cb8FD810BaA0",
+    "lpNftId": "1391796",
+    "lockerAddress": "0xcd4609f1f4C3d9Ff7C07FeAADC3e6291E5626387"
+  },
+  "clankerInfo": null
+}

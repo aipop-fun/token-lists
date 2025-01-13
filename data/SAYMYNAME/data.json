@@ -1,0 +1,22 @@
+{
+  "name": "SayMyName",
+  "symbol": "SayMyName",
+  "decimals": 18,
+  "description": "SayMyName is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SayMyName",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SayMyName",
+  "addresses": {
+    "8453": "0x2817aa4e6017fab00fe10aa3d21aeb49b7be1056"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SayMyName",
+    "sanitizedSymbol": "SAYMYNAME",
+    "created_at": "2024-12-10T08:43:49.970999",
+    "deployer": "0x4F77e558F36Da334e86CCc1880F7ebE1c747D8b2",
+    "lpNftId": "1398896",
+    "lockerAddress": "0xd89E1dc58642DBAeFdb6b227a2C774Ae046Bb37E"
+  },
+  "clankerInfo": null
+}

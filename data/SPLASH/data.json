@@ -1,0 +1,22 @@
+{
+  "name": "splash",
+  "symbol": "splash",
+  "decimals": 18,
+  "description": "splash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=splash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "splash",
+  "addresses": {
+    "8453": "0x217e790490b71f0214f6e2e6b49bd651a82b3ece"
+  },
+  "tokenInfo": {
+    "originalSymbol": "splash",
+    "sanitizedSymbol": "SPLASH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224113",
+    "lockerAddress": "0x6d1C96dF5262695cad83167dce6da9B6f344A306"
+  },
+  "clankerInfo": null
+}

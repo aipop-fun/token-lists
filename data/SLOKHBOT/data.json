@@ -1,0 +1,22 @@
+{
+  "name": "slokhbot",
+  "symbol": "slokhbot",
+  "decimals": 18,
+  "description": "slokhbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slokhbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slokhbot",
+  "addresses": {
+    "8453": "0x12e3a73c134b2e1ef3ba3d426d11a52c70deb6d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slokhbot",
+    "sanitizedSymbol": "SLOKHBOT",
+    "created_at": "2024-12-11T06:53:36.598381",
+    "deployer": "0x50a81EbcE6b023e4f4E7e97a9344a2Ff135ac022",
+    "lpNftId": "1413983",
+    "lockerAddress": "0x0bcce9595623Bdb0E0B897ecC6df3A3b2c014eD0"
+  },
+  "clankerInfo": null
+}

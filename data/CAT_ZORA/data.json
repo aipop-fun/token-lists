@@ -1,0 +1,22 @@
+{
+  "name": "Cat Zora",
+  "symbol": "Cat Zora",
+  "decimals": 18,
+  "description": "Cat Zora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Zora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Zora",
+  "addresses": {
+    "8453": "0x3be868471a89301360e81c554d8e83460e2021e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Zora",
+    "sanitizedSymbol": "CAT_ZORA",
+    "created_at": "2024-12-10T01:53:07.385715",
+    "deployer": "0x9250fc79B14D7A111bB7E66291b53F23CC211b33",
+    "lpNftId": "1394512",
+    "lockerAddress": "0x8c64c9Ce5cb342db2C03a11181A4F3cf1B487524"
+  },
+  "clankerInfo": null
+}

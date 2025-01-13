@@ -1,0 +1,22 @@
+{
+  "name": "Super1",
+  "symbol": "Super1",
+  "decimals": 18,
+  "description": "Super1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super1",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super1",
+  "addresses": {
+    "8453": "0x04dc8a1b90fd82b91e33b5ce097d400deb78a54e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super1",
+    "sanitizedSymbol": "SUPER1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD5E3A2bd12f8360f09fD8148565550545fFa9412",
+    "lpNftId": "1305950",
+    "lockerAddress": "0x725CD2304f3B34c1Dd8167C04A0d1bed28716d4c"
+  },
+  "clankerInfo": null
+}

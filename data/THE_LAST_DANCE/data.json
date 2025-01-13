@@ -1,0 +1,22 @@
+{
+  "name": "The last dance",
+  "symbol": "The last dance",
+  "decimals": 18,
+  "description": "The last dance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20last%20dance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The last dance",
+  "addresses": {
+    "8453": "0x10a9ada9e2fd1d03272767dc1875bbb8ed5e702b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The last dance",
+    "sanitizedSymbol": "THE_LAST_DANCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE1a3ECeC800193cEd135AA0ea04b434e7492EC67",
+    "lpNftId": "1313999",
+    "lockerAddress": "0xf2d000fc8A4d73010313F462277747f23893c59c"
+  },
+  "clankerInfo": null
+}

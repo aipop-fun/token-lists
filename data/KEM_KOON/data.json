@@ -1,0 +1,22 @@
+{
+  "name": "kem koon",
+  "symbol": "kem koon",
+  "decimals": 18,
+  "description": "kem koon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kem%20koon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kem koon",
+  "addresses": {
+    "8453": "0x023c49b2b9479982a3869d7e2eec7c2a11c925e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kem koon",
+    "sanitizedSymbol": "KEM_KOON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xADE4FBED97eF37F3BfbaF36B575a1B114DA92155",
+    "lpNftId": "1327490",
+    "lockerAddress": "0x4972a720d4B57a365882556efFd8D4B905a775B8"
+  },
+  "clankerInfo": null
+}

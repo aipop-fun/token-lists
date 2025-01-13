@@ -1,0 +1,22 @@
+{
+  "name": "NotNow",
+  "symbol": "NotNow",
+  "decimals": 18,
+  "description": "NotNow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NotNow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NotNow",
+  "addresses": {
+    "8453": "0x2dfc7f985a031997512383a667c8b3210a797628"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NotNow",
+    "sanitizedSymbol": "NOTNOW",
+    "created_at": "2024-12-11T14:14:41.338235",
+    "deployer": "0x5Cde8631C1863F2771C84699ECDffe62A1e71674",
+    "lpNftId": "1420062",
+    "lockerAddress": "0xc99F2EF28480a0C51c1A257727f8E528De14d9cA"
+  },
+  "clankerInfo": null
+}

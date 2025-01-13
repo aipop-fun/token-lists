@@ -1,0 +1,22 @@
+{
+  "name": "joepich",
+  "symbol": "joepich",
+  "decimals": 18,
+  "description": "joepich is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=joepich",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "joepich",
+  "addresses": {
+    "8453": "0x1759b7757371bf4d5c2ab3e7368414cfc12a3cc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "joepich",
+    "sanitizedSymbol": "JOEPICH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232469",
+    "lockerAddress": "0xd999381f736449DBaf952c1f95E44C2b07424CeA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$YOLOW",
+  "symbol": "$YOLOW",
+  "decimals": 18,
+  "description": "$YOLOW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24YOLOW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$YOLOW",
+  "addresses": {
+    "8453": "0x15775f14ddaaff32f0b818661d1cf33461951606"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$YOLOW",
+    "sanitizedSymbol": "YOLOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128676",
+    "lockerAddress": "0xE9EA45cD7c46EE2FaAB896e47aa114646Da7fD71"
+  },
+  "clankerInfo": null
+}

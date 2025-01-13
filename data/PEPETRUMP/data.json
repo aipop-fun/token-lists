@@ -1,0 +1,22 @@
+{
+  "name": "PEPETRUMP",
+  "symbol": "PEPETRUMP",
+  "decimals": 18,
+  "description": "PEPETRUMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPETRUMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPETRUMP",
+  "addresses": {
+    "8453": "0x1c9e6a4546455e05beb93a19d7f43b23d184c82d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPETRUMP",
+    "sanitizedSymbol": "PEPETRUMP",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x14925c989C18324D53f9CB84e54B9dA1CBD8B98d",
+    "lpNftId": "1253401",
+    "lockerAddress": "0xAD7d1e8855bA01E6058c7C9E81ce163B50D35C76"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Green Line",
+  "symbol": "Green Line",
+  "decimals": 18,
+  "description": "Green Line is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Green%20Line",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Green Line",
+  "addresses": {
+    "8453": "0x224c2f3f790b6714894fdc34827e69c14b86fcee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Green Line",
+    "sanitizedSymbol": "GREEN_LINE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8a96Dbc8fAa42b67A1bE83Bd9a30160527E953Bc",
+    "lpNftId": "1322505",
+    "lockerAddress": "0xA1AF96aEe32aBa42594B635eC2516E410262bDaC"
+  },
+  "clankerInfo": null
+}

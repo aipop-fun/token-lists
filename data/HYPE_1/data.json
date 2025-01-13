@@ -1,0 +1,22 @@
+{
+  "name": "HYPE",
+  "symbol": "HYPE",
+  "decimals": 18,
+  "description": "HYPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPE",
+  "addresses": {
+    "8453": "0x27b106ff29624b956a37143f89e11e82539c3246"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPE",
+    "sanitizedSymbol": "HYPE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x110722065B0c71949A3dd43Ed9E23D3588Fc9799",
+    "lpNftId": "1287369",
+    "lockerAddress": "0x434a54D28DB0Ace4eb81142F1a3DAc6c92aD723B"
+  },
+  "clankerInfo": null
+}

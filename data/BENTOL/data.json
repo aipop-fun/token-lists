@@ -1,0 +1,22 @@
+{
+  "name": "bentol",
+  "symbol": "bentol",
+  "decimals": 18,
+  "description": "bentol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bentol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bentol",
+  "addresses": {
+    "8453": "0x1566de879364ceb9e9146fb3b26e6b987a2e1238"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bentol",
+    "sanitizedSymbol": "BENTOL",
+    "created_at": "2024-12-12T16:01:35.978876",
+    "deployer": "0x3E9C4F2Dcaa79381b723e7FFd38457778A133fE6",
+    "lpNftId": "1437736",
+    "lockerAddress": "0x5127a8A09177FFB953E4352b150f9abd43367Fef"
+  },
+  "clankerInfo": null
+}

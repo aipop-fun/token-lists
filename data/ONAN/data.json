@@ -1,0 +1,22 @@
+{
+  "name": "onan",
+  "symbol": "onan",
+  "decimals": 18,
+  "description": "onan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onan",
+  "addresses": {
+    "8453": "0x1b5557ea59700c6286db12088755c1d8f188c110"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onan",
+    "sanitizedSymbol": "ONAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204369",
+    "lockerAddress": "0x65d18b982B978b9ca9DBB065eE1e51177e48E169"
+  },
+  "clankerInfo": null
+}

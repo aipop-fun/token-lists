@@ -1,0 +1,22 @@
+{
+  "name": "Whales Entry",
+  "symbol": "Whales Entry",
+  "decimals": 18,
+  "description": "Whales Entry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whales%20Entry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whales Entry",
+  "addresses": {
+    "8453": "0x3d03d13e70fc9d2c557254f494453b5de05276c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whales Entry",
+    "sanitizedSymbol": "WHALES_ENTRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x79C4550130cBc66b222e8A9AC8615Cda89F23968",
+    "lpNftId": "1329011",
+    "lockerAddress": "0x670daa2D5cC4bb2dd493C760dcC211e75Dc2e986"
+  },
+  "clankerInfo": null
+}

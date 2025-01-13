@@ -1,0 +1,22 @@
+{
+  "name": "Gmgn",
+  "symbol": "Gmgn",
+  "decimals": 18,
+  "description": "Gmgn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gmgn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gmgn",
+  "addresses": {
+    "8453": "0x206a5a9495dbc945b11250bc714e26ae501123a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gmgn",
+    "sanitizedSymbol": "GMGN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x11849573966d4a16C2196D32e79164087b23E202",
+    "lpNftId": "1267810",
+    "lockerAddress": "0x34b9cC04ee7A1035a6689d6600f426891Cc52cE3"
+  },
+  "clankerInfo": null
+}

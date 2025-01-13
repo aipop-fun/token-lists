@@ -1,0 +1,22 @@
+{
+  "name": "Tenebris",
+  "symbol": "Tenebris",
+  "decimals": 18,
+  "description": "Tenebris is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tenebris",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tenebris",
+  "addresses": {
+    "8453": "0x3d66bccd816a298c0917b5eff56c37d704a98c1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tenebris",
+    "sanitizedSymbol": "TENEBRIS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120103",
+    "lockerAddress": "0xEee743A741A74eab82c367C64C763625F1FfA02e"
+  },
+  "clankerInfo": null
+}

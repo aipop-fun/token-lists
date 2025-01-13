@@ -1,0 +1,22 @@
+{
+  "name": "TRY IT OR NOTHING",
+  "symbol": "TRY IT OR NOTHING",
+  "decimals": 18,
+  "description": "TRY IT OR NOTHING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRY%20IT%20OR%20NOTHING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRY IT OR NOTHING",
+  "addresses": {
+    "8453": "0x006f66ccec798db1b63d6e7586730b4a9ea95620"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRY IT OR NOTHING",
+    "sanitizedSymbol": "TRY_IT_OR_NOTHING",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x851f5a2ae1113c287F8483b22934Bc144357Ed9A",
+    "lpNftId": "1332465",
+    "lockerAddress": "0x56ac82ce303DEF9e30885c515DAE220B9C77A61F"
+  },
+  "clankerInfo": null
+}

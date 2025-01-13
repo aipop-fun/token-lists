@@ -1,0 +1,22 @@
+{
+  "name": "ELF CHAPLIN",
+  "symbol": "ELF CHAPLIN",
+  "decimals": 18,
+  "description": "ELF CHAPLIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELF%20CHAPLIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELF CHAPLIN",
+  "addresses": {
+    "8453": "0x0d973925fa9e03c4dd2a71f3f2fa2e5e39be5abc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELF CHAPLIN",
+    "sanitizedSymbol": "ELF_CHAPLIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73D3a571A5cDFf6b6d8B6C5421f7C9812DBad4a3",
+    "lpNftId": "1310045",
+    "lockerAddress": "0x2eD055b21146eA03247115C765480769655A07e7"
+  },
+  "clankerInfo": null
+}

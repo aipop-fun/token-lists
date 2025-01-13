@@ -1,0 +1,22 @@
+{
+  "name": "NEBULACOIN",
+  "symbol": "NEBULACOIN",
+  "decimals": 18,
+  "description": "NEBULACOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEBULACOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEBULACOIN",
+  "addresses": {
+    "8453": "0x3180a2495af9fd9a1890ad9bc5665b56c67738f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEBULACOIN",
+    "sanitizedSymbol": "NEBULACOIN",
+    "created_at": "2024-12-11T04:36:18.681171",
+    "deployer": "0xab8149790b9dcAA9B706321Dbf04c9849E827A05",
+    "lpNftId": "1412617",
+    "lockerAddress": "0x61428AbBc9E1d6bEDf256C12bBDFC6a08d015637"
+  },
+  "clankerInfo": null
+}

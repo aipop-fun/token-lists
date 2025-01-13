@@ -1,0 +1,22 @@
+{
+  "name": "Session",
+  "symbol": "Session",
+  "decimals": 18,
+  "description": "Session is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Session",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Session",
+  "addresses": {
+    "8453": "0x3a013c45babdf883469fb593561c87b2c510b8e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Session",
+    "sanitizedSymbol": "SESSION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x33882dfEa013D9e1b94173b60E5b1D88876181d0",
+    "lpNftId": "1287469",
+    "lockerAddress": "0x1f1246f8744F60CbFFFD2b506c2A00Bf3828826d"
+  },
+  "clankerInfo": null
+}

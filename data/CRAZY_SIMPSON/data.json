@@ -1,0 +1,22 @@
+{
+  "name": "Crazy Simpson",
+  "symbol": "Crazy Simpson",
+  "decimals": 18,
+  "description": "Crazy Simpson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crazy%20Simpson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crazy Simpson",
+  "addresses": {
+    "8453": "0x04ff239d2b43d64097d5ef3cb0a288b2f911f009"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crazy Simpson",
+    "sanitizedSymbol": "CRAZY_SIMPSON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1303448",
+    "lockerAddress": "0x462bF18dAB60243Ad0ca2E01F4cfc17AD56e3C0A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "blueforg",
+  "symbol": "blueforg",
+  "decimals": 18,
+  "description": "blueforg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=blueforg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "blueforg",
+  "addresses": {
+    "8453": "0x090f1103b0726f19f7b84e82e05b49c9f7eb772a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "blueforg",
+    "sanitizedSymbol": "BLUEFORG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6f8ce26fD34e21E428fC2Cf6Cd8ca5Ca1520a2BA",
+    "lpNftId": "1351465",
+    "lockerAddress": "0x4b7Cc4e81146a9fF5D543Ef85A8273FAD7483329"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SF PRO",
+  "symbol": "SF PRO",
+  "decimals": 18,
+  "description": "SF PRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SF%20PRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SF PRO",
+  "addresses": {
+    "8453": "0x363bddbb1da0362b800d360c2afb3dbea145e453"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SF PRO",
+    "sanitizedSymbol": "SF_PRO",
+    "created_at": "2024-12-09T19:47:38.437254",
+    "deployer": "0x05E869D7897D0b8b8847CC5024787706b5BE05f7",
+    "lpNftId": "1391138",
+    "lockerAddress": "0x0D1E1A1f2df434793b0D6aB815829911fC38A04c"
+  },
+  "clankerInfo": null
+}

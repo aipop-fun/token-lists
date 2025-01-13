@@ -1,0 +1,22 @@
+{
+  "name": "justin",
+  "symbol": "justin",
+  "decimals": 18,
+  "description": "justin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=justin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "justin",
+  "addresses": {
+    "8453": "0x0487049c66391ce778e80bb63c29aea8e032c71b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "justin",
+    "sanitizedSymbol": "JUSTIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x387a161C6b25aA854100aBaED39274e51aaffffd",
+    "lpNftId": "1285463",
+    "lockerAddress": "0xFdE3E68258a5Bbba139294046Ab63107D869Bd44"
+  },
+  "clankerInfo": null
+}

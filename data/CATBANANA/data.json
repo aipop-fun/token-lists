@@ -1,0 +1,22 @@
+{
+  "name": "CATBANANA",
+  "symbol": "CATBANANA",
+  "decimals": 18,
+  "description": "CATBANANA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATBANANA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATBANANA",
+  "addresses": {
+    "8453": "0x250310f16d21e989f7060eb29b965101bbdd0ac3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATBANANA",
+    "sanitizedSymbol": "CATBANANA",
+    "created_at": "2024-12-11T12:09:27.27797",
+    "deployer": "0xC0338cC8307B2309c2A7f5bC020BB5477A629e6C",
+    "lpNftId": "1417584",
+    "lockerAddress": "0xc84A8d5F99c9B48Ca03bb1Db69671EE527Fc4A04"
+  },
+  "clankerInfo": null
+}

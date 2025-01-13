@@ -1,0 +1,22 @@
+{
+  "name": "MS QUEEN",
+  "symbol": "MS QUEEN",
+  "decimals": 18,
+  "description": "MS QUEEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MS%20QUEEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MS QUEEN",
+  "addresses": {
+    "8453": "0x364a38d9c82b23a6119339b48a6e59c4822f532e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MS QUEEN",
+    "sanitizedSymbol": "MS_QUEEN",
+    "created_at": "2024-12-09T06:18:03.049011",
+    "deployer": "0x6f54427F3672f4a4BE793d755D98045EF7b0CC8B",
+    "lpNftId": "1383825",
+    "lockerAddress": "0x05761EfC5B09fF51248A4cba2E5Ce3576165bc5b"
+  },
+  "clankerInfo": null
+}

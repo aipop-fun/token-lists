@@ -1,0 +1,22 @@
+{
+  "name": "NovaSphere",
+  "symbol": "NovaSphere",
+  "decimals": 18,
+  "description": "NovaSphere is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NovaSphere",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NovaSphere",
+  "addresses": {
+    "8453": "0x2fffaa69ba557e788a020fd4ecc982ee9d88dbab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NovaSphere",
+    "sanitizedSymbol": "NOVASPHERE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1298996",
+    "lockerAddress": "0xE02e2942A57F3B36E721a4fF6d6A7e65048ec5f1"
+  },
+  "clankerInfo": null
+}

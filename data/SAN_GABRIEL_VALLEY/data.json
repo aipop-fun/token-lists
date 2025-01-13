@@ -1,0 +1,22 @@
+{
+  "name": "San Gabriel Valley",
+  "symbol": "San Gabriel Valley",
+  "decimals": 18,
+  "description": "San Gabriel Valley is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=San%20Gabriel%20Valley",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "San Gabriel Valley",
+  "addresses": {
+    "8453": "0x263aa0f0515d564532b3528746cac28b82df6ab3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "San Gabriel Valley",
+    "sanitizedSymbol": "SAN_GABRIEL_VALLEY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5CBf3c93E1f3Af4c476D395D7457B61A18e349e9",
+    "lpNftId": "1312097",
+    "lockerAddress": "0x1bBDca6e1BA15698F3D0f2816F569F01Bab777ed"
+  },
+  "clankerInfo": null
+}

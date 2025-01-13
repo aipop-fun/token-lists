@@ -1,0 +1,22 @@
+{
+  "name": "Try Again Until Success",
+  "symbol": "Try Again Until Success",
+  "decimals": 18,
+  "description": "Try Again Until Success is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Try%20Again%20Until%20Success",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Try Again Until Success",
+  "addresses": {
+    "8453": "0x336939bc4d9331a4c89426f1e46425cbcdb6abf8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Try Again Until Success",
+    "sanitizedSymbol": "TRY_AGAIN_UNTIL_SUCCESS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1245107",
+    "lockerAddress": "0x33aAdbA1B63fa6c4Ba81a7b6744fffD162dBBf33"
+  },
+  "clankerInfo": null
+}

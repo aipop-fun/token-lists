@@ -1,0 +1,22 @@
+{
+  "name": "Masked Cat",
+  "symbol": "Masked Cat",
+  "decimals": 18,
+  "description": "Masked Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Masked%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Masked Cat",
+  "addresses": {
+    "8453": "0x2f33db8080f823c54f27fade0f1dc6c45550e989"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Masked Cat",
+    "sanitizedSymbol": "MASKED_CAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x02aC33835070D0C90BEf87C273514E67Aea36eF8",
+    "lpNftId": "1344885",
+    "lockerAddress": "0xc2AC6817d421F5B9a6Aac968bdff7126A6DEEA6B"
+  },
+  "clankerInfo": null
+}

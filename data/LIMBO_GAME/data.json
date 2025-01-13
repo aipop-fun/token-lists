@@ -1,0 +1,22 @@
+{
+  "name": "LIMBO GAME",
+  "symbol": "LIMBO GAME",
+  "decimals": 18,
+  "description": "LIMBO GAME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIMBO%20GAME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIMBO GAME",
+  "addresses": {
+    "8453": "0x3d7ebeb64ed54ead73f1e47adb87f6de24cbc478"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIMBO GAME",
+    "sanitizedSymbol": "LIMBO_GAME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0772f0ad91F024031769EF0338316f7Ee8B86F0F",
+    "lpNftId": "1309052",
+    "lockerAddress": "0x51BA15F87c4346D029076A43f222812cA5412c18"
+  },
+  "clankerInfo": null
+}

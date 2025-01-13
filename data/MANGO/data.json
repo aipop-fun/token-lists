@@ -1,0 +1,22 @@
+{
+  "name": "mango",
+  "symbol": "mango",
+  "decimals": 18,
+  "description": "mango is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mango",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mango",
+  "addresses": {
+    "8453": "0x3d2db2eefd40df044622b9224da01b99869b8870"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mango",
+    "sanitizedSymbol": "MANGO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x04A6bF03FFe104d18729B0ab5bAA2894A997945e",
+    "lpNftId": "1327489",
+    "lockerAddress": "0x83B92612ACdC785c4Ece95129A009Dde931Feb0F"
+  },
+  "clankerInfo": null
+}

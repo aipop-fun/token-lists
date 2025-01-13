@@ -1,0 +1,22 @@
+{
+  "name": "aaaae",
+  "symbol": "aaaae",
+  "decimals": 18,
+  "description": "aaaae is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aaaae",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aaaae",
+  "addresses": {
+    "8453": "0x30ff8e68f8e366bcf4a6c1458cb57ebda878783e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aaaae",
+    "sanitizedSymbol": "AAAAE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x656BF59560D90c270344c0dAD0381C282D27a46e",
+    "lpNftId": "1250778",
+    "lockerAddress": "0x74482DD3b2B2056283243f4C0880113846A3F7bA"
+  },
+  "clankerInfo": null
+}

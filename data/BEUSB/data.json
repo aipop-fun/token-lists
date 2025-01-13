@@ -1,0 +1,22 @@
+{
+  "name": "beusb",
+  "symbol": "beusb",
+  "decimals": 18,
+  "description": "beusb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=beusb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "beusb",
+  "addresses": {
+    "8453": "0x406e2689eaa831e7fedc338528991ca6278b26e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "beusb",
+    "sanitizedSymbol": "BEUSB",
+    "created_at": "2024-12-11T05:20:27.147192",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1413078",
+    "lockerAddress": "0xBdBB5E46c0946AF4423619738249dc33cfa65B3F"
+  },
+  "clankerInfo": null
+}

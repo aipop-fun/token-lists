@@ -1,0 +1,22 @@
+{
+  "name": "NGMI",
+  "symbol": "NGMI",
+  "decimals": 18,
+  "description": "NGMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NGMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NGMI",
+  "addresses": {
+    "8453": "0x3d18fe35e4e63477e44dd65c4c9994691750b365"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NGMI",
+    "sanitizedSymbol": "NGMI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165398",
+    "lockerAddress": "0x8b8ddBae8107AfF87714D3579aF98F5aF1166FA9"
+  },
+  "clankerInfo": null
+}

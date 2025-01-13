@@ -1,0 +1,22 @@
+{
+  "name": "kaitokid",
+  "symbol": "kaitokid",
+  "decimals": 18,
+  "description": "kaitokid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kaitokid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kaitokid",
+  "addresses": {
+    "8453": "0x066c7418eebb6a57b0e2416ae3ad2671abdb27e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kaitokid",
+    "sanitizedSymbol": "KAITOKID",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234599",
+    "lockerAddress": "0x3A52C092e569C210DA473D463F2d9517eC049e9B"
+  },
+  "clankerInfo": null
+}

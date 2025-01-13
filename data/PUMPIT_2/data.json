@@ -1,0 +1,22 @@
+{
+  "name": "PUMPIT",
+  "symbol": "PUMPIT",
+  "decimals": 18,
+  "description": "PUMPIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMPIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMPIT",
+  "addresses": {
+    "8453": "0x13bfb547bb407f7a9bbd62614524046f6ee0c660"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMPIT",
+    "sanitizedSymbol": "PUMPIT_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB62d4945476B14Dbef5CaF9E31Bf1A00F5517c49",
+    "lpNftId": "1312402",
+    "lockerAddress": "0xEbB2CA5A3dF25584D63e4eA8660E70b83D77f880"
+  },
+  "clankerInfo": null
+}

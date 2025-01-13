@@ -1,0 +1,22 @@
+{
+  "name": "WINTER",
+  "symbol": "WINTER",
+  "decimals": 18,
+  "description": "WINTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WINTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WINTER",
+  "addresses": {
+    "8453": "0x4041956bfa3bda3022fcb897c747ac9df006f679"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WINTER",
+    "sanitizedSymbol": "WINTER_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1285368",
+    "lockerAddress": "0xc20a93F8184342731F629C3Ba1863f6f8370E072"
+  },
+  "clankerInfo": null
+}

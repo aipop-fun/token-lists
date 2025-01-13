@@ -1,0 +1,22 @@
+{
+  "name": "Anarchy",
+  "symbol": "Anarchy",
+  "decimals": 18,
+  "description": "Anarchy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anarchy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anarchy",
+  "addresses": {
+    "8453": "0x0c2bd795a7de5104284b22e5e907616b145a1568"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anarchy",
+    "sanitizedSymbol": "ANARCHY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224314",
+    "lockerAddress": "0xB399295f323436590f83266FAF33E6966d59A4f0"
+  },
+  "clankerInfo": null
+}

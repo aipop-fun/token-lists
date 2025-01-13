@@ -1,0 +1,22 @@
+{
+  "name": "AetherAI",
+  "symbol": "AetherAI",
+  "decimals": 18,
+  "description": "AetherAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AetherAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AetherAI",
+  "addresses": {
+    "8453": "0x0e7c832c5994c29da1c5f0c76649e1e2cc552146"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AetherAI",
+    "sanitizedSymbol": "AETHERAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166751",
+    "lockerAddress": "0xfe277c35bDF5dFe8c428a88912000c1a4007b388"
+  },
+  "clankerInfo": null
+}

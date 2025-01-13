@@ -1,0 +1,22 @@
+{
+  "name": "Lemonade Stand Duck",
+  "symbol": "Lemonade Stand Duck",
+  "decimals": 18,
+  "description": "Lemonade Stand Duck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lemonade%20Stand%20Duck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lemonade Stand Duck",
+  "addresses": {
+    "8453": "0x284d0443769347111acf83159fc6df075f9c5399"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lemonade Stand Duck",
+    "sanitizedSymbol": "LEMONADE_STAND_DUCK_1",
+    "created_at": "2024-12-12T18:29:39.397519",
+    "deployer": "0xC889A9275341Cc1eD5cf719adbf09F7d23f99fB2",
+    "lpNftId": "1440751",
+    "lockerAddress": "0x6eab2da801e0797BA5a7A492c40dBAcD57d75047"
+  },
+  "clankerInfo": null
+}

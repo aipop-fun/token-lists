@@ -1,0 +1,22 @@
+{
+  "name": "Wompwomp",
+  "symbol": "Wompwomp",
+  "decimals": 18,
+  "description": "Wompwomp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wompwomp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wompwomp",
+  "addresses": {
+    "8453": "0x0f3b45bffc46ee84d0f64e7e417db292cb118995"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wompwomp",
+    "sanitizedSymbol": "WOMPWOMP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb3A2943d6D58229162C8b6BEB9bd6e7191599b2a",
+    "lpNftId": "1323852",
+    "lockerAddress": "0x51c0c1bbE0943839fFD8470a574b0dB1EB9b73A6"
+  },
+  "clankerInfo": null
+}

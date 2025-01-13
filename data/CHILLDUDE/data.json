@@ -1,0 +1,22 @@
+{
+  "name": "CHILLDUDE",
+  "symbol": "CHILLDUDE",
+  "decimals": 18,
+  "description": "CHILLDUDE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILLDUDE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILLDUDE",
+  "addresses": {
+    "8453": "0x05cf803bdfd583c6acaee530e1e90b74882f6fe6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILLDUDE",
+    "sanitizedSymbol": "CHILLDUDE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1251598",
+    "lockerAddress": "0x0FBCf0dFa1b47F24Bd79E68577b8d69AFB5475B3"
+  },
+  "clankerInfo": null
+}

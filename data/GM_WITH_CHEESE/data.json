@@ -1,0 +1,22 @@
+{
+  "name": "GM with Cheese",
+  "symbol": "GM with Cheese",
+  "decimals": 18,
+  "description": "GM with Cheese is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GM%20with%20Cheese",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GM with Cheese",
+  "addresses": {
+    "8453": "0x1a041eda2b34e94099189bb0e19984f97ff3299d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GM with Cheese",
+    "sanitizedSymbol": "GM_WITH_CHEESE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x792da2048AdC0DD828f10582dc6f6dA34c2B47C0",
+    "lpNftId": "1294692",
+    "lockerAddress": "0xFffeB13C86093482Fb9585184817a8aDeAEEFfAd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ewretg",
+  "symbol": "ewretg",
+  "decimals": 18,
+  "description": "ewretg is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ewretg",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ewretg",
+  "addresses": {
+    "8453": "0x0b070c5096a3654fb846e0f66b2f5ac2550d0997"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ewretg",
+    "sanitizedSymbol": "EWRETG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234283",
+    "lockerAddress": "0xa3aB0EC7A92410C3b29Ecae2b9E9ec4D9D54Cb58"
+  },
+  "clankerInfo": null
+}

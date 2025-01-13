@@ -1,0 +1,22 @@
+{
+  "name": "CITY3",
+  "symbol": "CITY3",
+  "decimals": 18,
+  "description": "CITY3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CITY3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CITY3",
+  "addresses": {
+    "8453": "0x1d5b09a82e4ea1baa3356dc13724fa8f44bb6fa5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CITY3",
+    "sanitizedSymbol": "CITY3",
+    "created_at": "2024-12-10T13:59:19.458319",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1401645",
+    "lockerAddress": "0x9003118c6De2F8D76c9F01aaeA3C9a2fE0059B34"
+  },
+  "clankerInfo": null
+}

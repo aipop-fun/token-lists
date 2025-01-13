@@ -1,0 +1,22 @@
+{
+  "name": "JinglePay",
+  "symbol": "JinglePay",
+  "decimals": 18,
+  "description": "JinglePay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JinglePay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JinglePay",
+  "addresses": {
+    "8453": "0x300c7b9af887ba7d12b72ee2bf8abe3742e4a272"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JinglePay",
+    "sanitizedSymbol": "JINGLEPAY",
+    "created_at": "2024-12-09T19:44:14.399109",
+    "deployer": "0x6131490b17149512Dcb96672a70bB1FBC049D501",
+    "lpNftId": "1391086",
+    "lockerAddress": "0x2b4093Ea2d7b74B5550C68b88F36Ad142AbDC03d"
+  },
+  "clankerInfo": null
+}

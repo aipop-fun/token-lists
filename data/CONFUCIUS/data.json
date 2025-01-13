@@ -1,0 +1,22 @@
+{
+  "name": "Confucius",
+  "symbol": "Confucius",
+  "decimals": 18,
+  "description": "Confucius is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Confucius",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Confucius",
+  "addresses": {
+    "8453": "0x0815329377577f0e500a3b25a6c5131168d85418"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Confucius",
+    "sanitizedSymbol": "CONFUCIUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224297",
+    "lockerAddress": "0x158ab653Da9eBBC68caDE1ace14731146BE34C04"
+  },
+  "clankerInfo": null
+}

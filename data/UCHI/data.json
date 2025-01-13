@@ -1,0 +1,22 @@
+{
+  "name": "UCHI",
+  "symbol": "UCHI",
+  "decimals": 18,
+  "description": "UCHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UCHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UCHI",
+  "addresses": {
+    "8453": "0x26c5ae2f2e271354e26f27e686ed817c527a4996"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UCHI",
+    "sanitizedSymbol": "UCHI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219405",
+    "lockerAddress": "0x3c2016c1A63f1a5cCB1Ced3EF101Dd887fFfb1C5"
+  },
+  "clankerInfo": null
+}

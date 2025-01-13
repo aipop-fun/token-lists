@@ -1,0 +1,22 @@
+{
+  "name": "Unknown",
+  "symbol": "Unknown",
+  "decimals": 18,
+  "description": "Unknown is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unknown",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unknown",
+  "addresses": {
+    "8453": "0x1cb0abc126c905e1dedd4a4c70cce5546e507989"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unknown",
+    "sanitizedSymbol": "UNKNOWN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193881",
+    "lockerAddress": "0x477c07F1e573C356765350334c0940840b18B9Ad"
+  },
+  "clankerInfo": null
+}

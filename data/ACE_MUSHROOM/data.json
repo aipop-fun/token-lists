@@ -1,0 +1,22 @@
+{
+  "name": "Ace Mushroom",
+  "symbol": "Ace Mushroom",
+  "decimals": 18,
+  "description": "Ace Mushroom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ace%20Mushroom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ace Mushroom",
+  "addresses": {
+    "8453": "0x02d9730d156801ada77c3a7eb942a691b25ffb05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ace Mushroom",
+    "sanitizedSymbol": "ACE_MUSHROOM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1332035",
+    "lockerAddress": "0x01cEDd1d289A797d757C73fF8e08703056641170"
+  },
+  "clankerInfo": null
+}

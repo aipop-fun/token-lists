@@ -1,0 +1,22 @@
+{
+  "name": "Bombie",
+  "symbol": "Bombie",
+  "decimals": 18,
+  "description": "Bombie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bombie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bombie",
+  "addresses": {
+    "8453": "0x2bd6bcc73bc4fc04a9ef708e23596603d272601d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bombie",
+    "sanitizedSymbol": "BOMBIE_3",
+    "created_at": "2024-12-11T08:13:55.371766",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1414723",
+    "lockerAddress": "0xe222A1FE9cE9211C5e9474335Ec920b8c2412917"
+  },
+  "clankerInfo": null
+}

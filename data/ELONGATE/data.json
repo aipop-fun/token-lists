@@ -1,0 +1,22 @@
+{
+  "name": "ELONGATE",
+  "symbol": "ELONGATE",
+  "decimals": 18,
+  "description": "ELONGATE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELONGATE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELONGATE",
+  "addresses": {
+    "8453": "0x37f67356a8c41ee30e0f98d2bb6fd18d6774ebf0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELONGATE",
+    "sanitizedSymbol": "ELONGATE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1123882",
+    "lockerAddress": "0xe1a9529E1B55D0c86EfBB8E57b9F4Bf8F8686419"
+  },
+  "clankerInfo": null
+}

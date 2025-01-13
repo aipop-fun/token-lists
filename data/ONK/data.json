@@ -1,0 +1,22 @@
+{
+  "name": "Onk",
+  "symbol": "Onk",
+  "decimals": 18,
+  "description": "Onk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onk",
+  "addresses": {
+    "8453": "0x409464db22b65c5cdab25c84556db5527ab830c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onk",
+    "sanitizedSymbol": "ONK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb5e55e5885a59E107168D61AD7dF7541Cb1B9373",
+    "lpNftId": "1283762",
+    "lockerAddress": "0xa32eA4F444f24D227624A615245614Fa25b0AaD7"
+  },
+  "clankerInfo": null
+}

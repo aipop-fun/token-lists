@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin",
+  "symbol": "Bitcoin",
+  "decimals": 18,
+  "description": "Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin",
+  "addresses": {
+    "8453": "0x36b2f5c07ed4fbb7b1aeea30535f0afb70cdb0c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin",
+    "sanitizedSymbol": "BITCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119592",
+    "lockerAddress": "0x33Fd8b9E99c1952F69412f5970A85A0cf6c10492"
+  },
+  "clankerInfo": null
+}

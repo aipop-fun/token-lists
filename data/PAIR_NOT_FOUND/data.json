@@ -1,0 +1,22 @@
+{
+  "name": "Pair Not Found",
+  "symbol": "Pair Not Found",
+  "decimals": 18,
+  "description": "Pair Not Found is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pair%20Not%20Found",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pair Not Found",
+  "addresses": {
+    "8453": "0x393e7877bf1e5e5053bbfb2c3c1d04284a0aa1a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pair Not Found",
+    "sanitizedSymbol": "PAIR_NOT_FOUND",
+    "created_at": "2024-12-11T09:57:56.795331",
+    "deployer": "0xF834d652A8Ccc2337f5B6E9718cd1725f082aC3F",
+    "lpNftId": "1415930",
+    "lockerAddress": "0xB5AB928Eb0BF5d8F55C82608e0a93eb4dF8B1B3A"
+  },
+  "clankerInfo": null
+}

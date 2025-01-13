@@ -1,0 +1,22 @@
+{
+  "name": "Gentle Reminder",
+  "symbol": "Gentle Reminder",
+  "decimals": 18,
+  "description": "Gentle Reminder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gentle%20Reminder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gentle Reminder",
+  "addresses": {
+    "8453": "0x3f5a5dd953df391776cf58451473e2447da55bb0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gentle Reminder",
+    "sanitizedSymbol": "GENTLE_REMINDER",
+    "created_at": "2024-12-11T19:58:19.416027",
+    "deployer": "0x433f51a06F556f6ABBFCa19a684647A38F21493E",
+    "lpNftId": "1425063",
+    "lockerAddress": "0x3Ca36d3Ae9a7F67723cB302Ebf8DD2121547D854"
+  },
+  "clankerInfo": null
+}

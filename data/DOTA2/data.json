@@ -1,0 +1,22 @@
+{
+  "name": "Dota2",
+  "symbol": "Dota2",
+  "decimals": 18,
+  "description": "Dota2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dota2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dota2",
+  "addresses": {
+    "8453": "0x183ebfa4c147e3ff92798c2023e23134163f9f1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dota2",
+    "sanitizedSymbol": "DOTA2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201681",
+    "lockerAddress": "0x9E475d18bDAd3e52D573074CC8FCE7B4a963C888"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MILKIT",
+  "symbol": "MILKIT",
+  "decimals": 18,
+  "description": "MILKIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILKIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILKIT",
+  "addresses": {
+    "8453": "0x41b4bb5f22030f14e1494835d5d4304ccd94d450"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILKIT",
+    "sanitizedSymbol": "MILKIT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1326265",
+    "lockerAddress": "0x651CC80754353570Fcd5C0C8C7537EeD5be71a9E"
+  },
+  "clankerInfo": null
+}

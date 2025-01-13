@@ -1,0 +1,22 @@
+{
+  "name": "NyanChain",
+  "symbol": "NyanChain",
+  "decimals": 18,
+  "description": "NyanChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NyanChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NyanChain",
+  "addresses": {
+    "8453": "0x310a0eff0d27fc681dc2b59f6a4ff0d687e85f6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NyanChain",
+    "sanitizedSymbol": "NYANCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165933",
+    "lockerAddress": "0x38C747770094312D3B35Bc15b28D81Ba375ae79F"
+  },
+  "clankerInfo": null
+}

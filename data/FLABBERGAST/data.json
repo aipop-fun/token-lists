@@ -1,0 +1,22 @@
+{
+  "name": "Flabbergast",
+  "symbol": "Flabbergast",
+  "decimals": 18,
+  "description": "Flabbergast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flabbergast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flabbergast",
+  "addresses": {
+    "8453": "0x21161bfd410ef7893f500f31da9f78be58988d55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flabbergast",
+    "sanitizedSymbol": "FLABBERGAST",
+    "created_at": "2024-12-10T02:53:57.931085",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395383",
+    "lockerAddress": "0x4a8b62Afab2A398b010A1b142b078a873742e0e0"
+  },
+  "clankerInfo": null
+}

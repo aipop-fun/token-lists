@@ -1,0 +1,22 @@
+{
+  "name": "BlondeFi",
+  "symbol": "BlondeFi",
+  "decimals": 18,
+  "description": "BlondeFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlondeFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlondeFi",
+  "addresses": {
+    "8453": "0x36d8693ba185abc76ea43a5266638464f551eaed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlondeFi",
+    "sanitizedSymbol": "BLONDEFI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d27D13CA1B52AaFFA7e41f055A7Ac046b2372CC",
+    "lpNftId": "1287518",
+    "lockerAddress": "0xf4C257189101476C854C501dd0253b0A94066874"
+  },
+  "clankerInfo": null
+}

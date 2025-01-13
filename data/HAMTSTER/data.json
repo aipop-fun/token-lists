@@ -1,0 +1,22 @@
+{
+  "name": "HAMTSTER",
+  "symbol": "HAMTSTER",
+  "decimals": 18,
+  "description": "HAMTSTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMTSTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMTSTER",
+  "addresses": {
+    "8453": "0x24b41cb8ddba9269d4d75de31ebff9f0387db291"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMTSTER",
+    "sanitizedSymbol": "HAMTSTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158148",
+    "lockerAddress": "0x450AAa7648448227d5a791c88381e30456b83696"
+  },
+  "clankerInfo": null
+}

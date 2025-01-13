@@ -1,0 +1,22 @@
+{
+  "name": "CATBALL",
+  "symbol": "CATBALL",
+  "decimals": 18,
+  "description": "CATBALL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATBALL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATBALL",
+  "addresses": {
+    "8453": "0x214cec3733e414c79a45d8529a86013e9f7d4122"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATBALL",
+    "sanitizedSymbol": "CATBALL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x661c0cED2B7Ade3cbD041F3dd974FFe1Dd75cB6D",
+    "lpNftId": "1309032",
+    "lockerAddress": "0x4Ea526EB11A0c1620430d66165F0f90320B8dF41"
+  },
+  "clankerInfo": null
+}

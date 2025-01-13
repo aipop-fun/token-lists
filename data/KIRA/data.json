@@ -1,0 +1,22 @@
+{
+  "name": "KIRA",
+  "symbol": "KIRA",
+  "decimals": 18,
+  "description": "KIRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KIRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KIRA",
+  "addresses": {
+    "8453": "0x324a3614678c6c27c493c69ea29d33ad2578ffa8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KIRA",
+    "sanitizedSymbol": "KIRA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x70d6F920A021151bE1B019958DeE254C3356eFda",
+    "lpNftId": "1252670",
+    "lockerAddress": "0x97B0828a3cfFD27a4b69Bb399C2cE575Fffbf16B"
+  },
+  "clankerInfo": null
+}

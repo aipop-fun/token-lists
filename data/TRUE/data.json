@@ -1,0 +1,22 @@
+{
+  "name": "$true",
+  "symbol": "$true",
+  "decimals": 18,
+  "description": "$true is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24true",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$true",
+  "addresses": {
+    "8453": "0x05f5964f7654cf1f5379e7e2104262202845cb9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$true",
+    "sanitizedSymbol": "TRUE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198416",
+    "lockerAddress": "0xE38457733C78EB3ccc81661aA68cD0Cd0DEf8EB8"
+  },
+  "clankerInfo": null
+}

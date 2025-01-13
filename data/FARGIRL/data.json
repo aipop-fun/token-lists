@@ -1,0 +1,22 @@
+{
+  "name": "FarGirl",
+  "symbol": "FarGirl",
+  "decimals": 18,
+  "description": "FarGirl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarGirl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarGirl",
+  "addresses": {
+    "8453": "0x2bf9f2a19f5ad1bb3e3e3111539c5e1e4ac7877b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarGirl",
+    "sanitizedSymbol": "FARGIRL",
+    "created_at": "2024-12-12T08:18:39.643761",
+    "deployer": "0xCe7B956df38594414340e151C38b74486C891214",
+    "lpNftId": "1429889",
+    "lockerAddress": "0x3784953DCD404b4Cbd24c10654eD4c187b9FE2C2"
+  },
+  "clankerInfo": null
+}

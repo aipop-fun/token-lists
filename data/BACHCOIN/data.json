@@ -1,0 +1,22 @@
+{
+  "name": "Bachcoin",
+  "symbol": "Bachcoin",
+  "decimals": 18,
+  "description": "Bachcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bachcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bachcoin",
+  "addresses": {
+    "8453": "0x3cf1e8ba63180e795e18cb02e2dc5727fb88087a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bachcoin",
+    "sanitizedSymbol": "BACHCOIN",
+    "created_at": "2024-12-10T06:54:08.689698",
+    "deployer": "0xc746B0f5A2Dc527Bc018A1996A00704EE84AdAb3",
+    "lpNftId": "1397499",
+    "lockerAddress": "0x29adE7e68dC002C53a2812E35451f8be70FbEecF"
+  },
+  "clankerInfo": null
+}

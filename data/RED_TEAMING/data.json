@@ -1,0 +1,22 @@
+{
+  "name": "Red Teaming",
+  "symbol": "Red Teaming",
+  "decimals": 18,
+  "description": "Red Teaming is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Teaming",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Teaming",
+  "addresses": {
+    "8453": "0x04f36e5effeaebfa8a36475e91cce3bf2c75b1c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Teaming",
+    "sanitizedSymbol": "RED_TEAMING",
+    "created_at": "2024-12-12T03:50:37.496979",
+    "deployer": "0x76963eE4C482fA4F9E125ea3C9Cc2Ea81fe8e8C6",
+    "lpNftId": "1429002",
+    "lockerAddress": "0x38eD999C428d9686305A571F6d363c07b570D2BF"
+  },
+  "clankerInfo": null
+}

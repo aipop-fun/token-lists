@@ -1,0 +1,22 @@
+{
+  "name": "jetts",
+  "symbol": "jetts",
+  "decimals": 18,
+  "description": "jetts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jetts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jetts",
+  "addresses": {
+    "8453": "0x34b84ab40ef6974bd2e2e6c28cfeba290b147732"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jetts",
+    "sanitizedSymbol": "JETTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1334962",
+    "lockerAddress": "0x3e4b827982b2DaeEbE0519065B470C0F12BDc47B"
+  },
+  "clankerInfo": null
+}

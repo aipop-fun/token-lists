@@ -1,0 +1,22 @@
+{
+  "name": "colapuff",
+  "symbol": "colapuff",
+  "decimals": 18,
+  "description": "colapuff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=colapuff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "colapuff",
+  "addresses": {
+    "8453": "0x1a744ee2d44d7648cfcd5647e305d8e088635aa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "colapuff",
+    "sanitizedSymbol": "COLAPUFF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x91f24dC6feed1461B5A17360bf118C5c21147939",
+    "lpNftId": "1241491",
+    "lockerAddress": "0x004C49f9cAbA667B719D99a39Cec607947B333b3"
+  },
+  "clankerInfo": null
+}

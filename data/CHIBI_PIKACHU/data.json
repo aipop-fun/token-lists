@@ -1,0 +1,22 @@
+{
+  "name": "Chibi Pikachu",
+  "symbol": "Chibi Pikachu",
+  "decimals": 18,
+  "description": "Chibi Pikachu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chibi%20Pikachu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chibi Pikachu",
+  "addresses": {
+    "8453": "0x280f7a8c6334d202aeea3c84d32e07e762a61572"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chibi Pikachu",
+    "sanitizedSymbol": "CHIBI_PIKACHU",
+    "created_at": "2024-12-12T15:20:58.981951",
+    "deployer": "0x91C8D6d0C38B31085fc61404Da41cC3811F188ae",
+    "lpNftId": "1437036",
+    "lockerAddress": "0x51883FA5b8d8537b172E83A755b0FDFE1DD2196F"
+  },
+  "clankerInfo": null
+}

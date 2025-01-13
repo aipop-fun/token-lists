@@ -1,0 +1,22 @@
+{
+  "name": "Popcoin",
+  "symbol": "Popcoin",
+  "decimals": 18,
+  "description": "Popcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Popcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Popcoin",
+  "addresses": {
+    "8453": "0x02c94e9075f29156ff9461de8b91fa51c7de22f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Popcoin",
+    "sanitizedSymbol": "POPCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfA63ACA138164cEd380EC59BC7f2D6345bbE628f",
+    "lpNftId": "1304713",
+    "lockerAddress": "0x89E6E9a7fbA9b7DDB2b45B6F9c4f6331Db8a6D15"
+  },
+  "clankerInfo": null
+}

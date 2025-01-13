@@ -1,11 +1,22 @@
 {
-    "name": "Uniswap",
-    "symbol": "UNI",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/cdf02065fa51dd7c934ba857f5a1746513fe8e7f/data/UNI/logo.png",
-    "opTokenId": "UNI",
-    "addresses": {
-        "1": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-        "8453": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83"
-    }
+  "name": "Uni",
+  "symbol": "Uni",
+  "decimals": 18,
+  "description": "Uni is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uni",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uni",
+  "addresses": {
+    "8453": "0x0f8205113e525c9a1600234603208c21e77b7757"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uni",
+    "sanitizedSymbol": "UNI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199499",
+    "lockerAddress": "0x506eb4939C378D3Af6A1834b1F930B8398D9c1c0"
+  },
+  "clankerInfo": null
 }

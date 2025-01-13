@@ -1,0 +1,22 @@
+{
+  "name": "FROSTY FIAT",
+  "symbol": "FROSTY FIAT",
+  "decimals": 18,
+  "description": "FROSTY FIAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FROSTY%20FIAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FROSTY FIAT",
+  "addresses": {
+    "8453": "0x35572384ee3f4e3785bfe69739deafc16816afb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FROSTY FIAT",
+    "sanitizedSymbol": "FROSTY_FIAT",
+    "created_at": "2024-12-12T18:09:22.330892",
+    "deployer": "0x87B79fF081fB94E6dF83653120D039eB5914C423",
+    "lpNftId": "1440522",
+    "lockerAddress": "0xF277Bd0C29587Aa39AeC4d667619d25b35e8b216"
+  },
+  "clankerInfo": null
+}

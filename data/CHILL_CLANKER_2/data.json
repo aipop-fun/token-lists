@@ -1,0 +1,22 @@
+{
+  "name": "Chill Clanker",
+  "symbol": "Chill Clanker",
+  "decimals": 18,
+  "description": "Chill Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Clanker",
+  "addresses": {
+    "8453": "0x1e221bb703f950a07a53fe0a0f42d583c664bc5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Clanker",
+    "sanitizedSymbol": "CHILL_CLANKER_2",
+    "created_at": "2024-12-10T08:32:51.985306",
+    "deployer": "0x0511115527ABd9458E09374c9496c9e7407753c1",
+    "lpNftId": "1398836",
+    "lockerAddress": "0x105d66770c8259dDD9889296e2665F41f9315682"
+  },
+  "clankerInfo": null
+}

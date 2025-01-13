@@ -1,0 +1,22 @@
+{
+  "name": "Suspicius",
+  "symbol": "Suspicius",
+  "decimals": 18,
+  "description": "Suspicius is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Suspicius",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Suspicius",
+  "addresses": {
+    "8453": "0x220866e6fa1479105139a138b8bb0087decb3a27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Suspicius",
+    "sanitizedSymbol": "SUSPICIUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219428",
+    "lockerAddress": "0x9a8D6DdafE471981057069A5acbC886afBa6a6FC"
+  },
+  "clankerInfo": null
+}

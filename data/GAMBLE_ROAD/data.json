@@ -1,0 +1,22 @@
+{
+  "name": "gamble road",
+  "symbol": "gamble road",
+  "decimals": 18,
+  "description": "gamble road is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gamble%20road",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gamble road",
+  "addresses": {
+    "8453": "0x32499a0abe749c8a5f55608ccbe92317d324ee25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gamble road",
+    "sanitizedSymbol": "GAMBLE_ROAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236501",
+    "lockerAddress": "0x0520fC34aDa3cF9540b9A802F05F0bf6cb8a5bb7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wally Beaver",
+  "symbol": "Wally Beaver",
+  "decimals": 18,
+  "description": "Wally Beaver is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wally%20Beaver",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wally Beaver",
+  "addresses": {
+    "8453": "0x2ffbf22ec65488e3cd41442b24591dbb0fe947c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wally Beaver",
+    "sanitizedSymbol": "WALLY_BEAVER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165708",
+    "lockerAddress": "0xA615e827f521df57F219F7f2d97cb722F177f64a"
+  },
+  "clankerInfo": null
+}

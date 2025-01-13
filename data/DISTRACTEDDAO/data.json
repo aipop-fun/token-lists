@@ -1,0 +1,22 @@
+{
+  "name": "DistractedDAO",
+  "symbol": "DistractedDAO",
+  "decimals": 18,
+  "description": "DistractedDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DistractedDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DistractedDAO",
+  "addresses": {
+    "8453": "0x238f04900f1af7996924c7bb2d40b5cfce6c4e32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DistractedDAO",
+    "sanitizedSymbol": "DISTRACTEDDAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166026",
+    "lockerAddress": "0xE8fe163b64BF218134570CdA3F7bC4D4BaAdFBF2"
+  },
+  "clankerInfo": null
+}

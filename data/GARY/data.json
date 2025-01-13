@@ -1,0 +1,22 @@
+{
+  "name": "GARY",
+  "symbol": "GARY",
+  "decimals": 18,
+  "description": "GARY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GARY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GARY",
+  "addresses": {
+    "8453": "0x126241d11cb35307d24f24bdb5994c65df5a0ec3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GARY",
+    "sanitizedSymbol": "GARY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205057",
+    "lockerAddress": "0x46976274A193447f585f1a1142bE743a0fe757A8"
+  },
+  "clankerInfo": null
+}

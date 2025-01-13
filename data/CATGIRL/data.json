@@ -1,0 +1,22 @@
+{
+  "name": "Catgirl",
+  "symbol": "Catgirl",
+  "decimals": 18,
+  "description": "Catgirl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Catgirl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Catgirl",
+  "addresses": {
+    "8453": "0x2d24e8e1a4c3b51abd0f507d9300629dc2618dbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Catgirl",
+    "sanitizedSymbol": "CATGIRL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5066E4a067A3e4ad984A962Be83075709863B8ad",
+    "lpNftId": "1287714",
+    "lockerAddress": "0xED464A1928eE66fBee50730af1150Be7714460Ae"
+  },
+  "clankerInfo": null
+}

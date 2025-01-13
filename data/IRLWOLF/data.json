@@ -1,0 +1,22 @@
+{
+  "name": "IRLWOLF",
+  "symbol": "IRLWOLF",
+  "decimals": 18,
+  "description": "IRLWOLF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IRLWOLF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IRLWOLF",
+  "addresses": {
+    "8453": "0x16db0a06ce0f057004e3954f2632426a665156b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IRLWOLF",
+    "sanitizedSymbol": "IRLWOLF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB9DCa2BC75C8dC7828831ecBa84Ff3CCbf3daFAf",
+    "lpNftId": "1276322",
+    "lockerAddress": "0xAECcd6B516ECfA125D3F37EFcCBe367A6548160f"
+  },
+  "clankerInfo": null
+}

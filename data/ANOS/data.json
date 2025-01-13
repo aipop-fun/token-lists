@@ -1,0 +1,22 @@
+{
+  "name": "Anos",
+  "symbol": "Anos",
+  "decimals": 18,
+  "description": "Anos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anos",
+  "addresses": {
+    "8453": "0x00f4d44d7efa4527a58a9cdfd6910c9c90351981"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anos",
+    "sanitizedSymbol": "ANOS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0c66b22d4E64c9643fB4658466B8026B4d040151",
+    "lpNftId": "1250821",
+    "lockerAddress": "0x106E35b3DE644c0Af0b8D19449bD40eF05EF2578"
+  },
+  "clankerInfo": null
+}

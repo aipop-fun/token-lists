@@ -1,0 +1,22 @@
+{
+  "name": "DOPE",
+  "symbol": "DOPE",
+  "decimals": 18,
+  "description": "DOPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOPE",
+  "addresses": {
+    "8453": "0x276c056ff9df587b27c419dbda0f02654d528ff0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOPE",
+    "sanitizedSymbol": "DOPE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163758",
+    "lockerAddress": "0x59954eD37ab5f11037Bbe47EDdc5eeF5d138C300"
+  },
+  "clankerInfo": null
+}

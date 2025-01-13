@@ -1,0 +1,22 @@
+{
+  "name": "SuperGold",
+  "symbol": "SuperGold",
+  "decimals": 18,
+  "description": "SuperGold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperGold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperGold",
+  "addresses": {
+    "8453": "0x241c23940fcd0a0e687df7cc18547a5bee222edd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperGold",
+    "sanitizedSymbol": "SUPERGOLD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1373090",
+    "lockerAddress": "0xb04a8c1c7e7586c2B6ff1c3cbb7c4D1a377e4F4c"
+  },
+  "clankerInfo": null
+}

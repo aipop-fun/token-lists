@@ -1,0 +1,22 @@
+{
+  "name": "Red Art",
+  "symbol": "Red Art",
+  "decimals": 18,
+  "description": "Red Art is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Art",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Art",
+  "addresses": {
+    "8453": "0x020a141d95b403ba9c30f43ef945c19d53ebb0d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Art",
+    "sanitizedSymbol": "RED_ART",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2bc66df32fE9774CAeE150A93BC2fCA840927Fb6",
+    "lpNftId": "1309904",
+    "lockerAddress": "0x3A4C32aa672Da21857ffA22ebAdB8361F62659D5"
+  },
+  "clankerInfo": null
+}

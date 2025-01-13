@@ -1,0 +1,22 @@
+{
+  "name": "K1",
+  "symbol": "K1",
+  "decimals": 18,
+  "description": "K1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=K1",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "K1",
+  "addresses": {
+    "8453": "0x0cd96197a38972d66d998fa33a83ee942f542772"
+  },
+  "tokenInfo": {
+    "originalSymbol": "K1",
+    "sanitizedSymbol": "K1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xc3162063bB90838B4E19350a0C972dd7Fb567781",
+    "lpNftId": "1213307",
+    "lockerAddress": "0xd344224C09362b1B53E4e2234Cb8D39c5d0DCe6c"
+  },
+  "clankerInfo": null
+}

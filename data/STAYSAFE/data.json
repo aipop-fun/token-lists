@@ -1,0 +1,22 @@
+{
+  "name": "Staysafe",
+  "symbol": "Staysafe",
+  "decimals": 18,
+  "description": "Staysafe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Staysafe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Staysafe",
+  "addresses": {
+    "8453": "0x38c8c58d592f031d9936659aa301ec9eef759fd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Staysafe",
+    "sanitizedSymbol": "STAYSAFE",
+    "created_at": "2024-12-10T19:02:27.135414",
+    "deployer": "0xAF1C1E541Ad85a1Ebc726817808DFFF87DAd114D",
+    "lpNftId": "1405925",
+    "lockerAddress": "0x867aBe3b0D6cdA608C8fde02aDbeE6a22Ef7Db54"
+  },
+  "clankerInfo": null
+}

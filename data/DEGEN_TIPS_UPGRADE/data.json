@@ -1,0 +1,22 @@
+{
+  "name": "degen tips upgrade",
+  "symbol": "degen tips upgrade",
+  "decimals": 18,
+  "description": "degen tips upgrade is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degen%20tips%20upgrade",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degen tips upgrade",
+  "addresses": {
+    "8453": "0x006ec48e901a46e7e2e8c5935f5666b17e0697f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degen tips upgrade",
+    "sanitizedSymbol": "DEGEN_TIPS_UPGRADE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1331942",
+    "lockerAddress": "0xce0c0A977567690FC7D2d8AB619568d77499557B"
+  },
+  "clankerInfo": null
+}

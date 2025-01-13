@@ -1,0 +1,22 @@
+{
+  "name": "Fyrelon",
+  "symbol": "Fyrelon",
+  "decimals": 18,
+  "description": "Fyrelon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fyrelon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fyrelon",
+  "addresses": {
+    "8453": "0x3c8094b5c511904befd6d6652b630939d0f46324"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fyrelon",
+    "sanitizedSymbol": "FYRELON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132938",
+    "lockerAddress": "0xe119b71bb0151d525c03305acc7D89cFd2223872"
+  },
+  "clankerInfo": null
+}

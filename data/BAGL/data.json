@@ -1,0 +1,22 @@
+{
+  "name": "bagl",
+  "symbol": "bagl",
+  "decimals": 18,
+  "description": "bagl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bagl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bagl",
+  "addresses": {
+    "8453": "0x12f5baca72317b82ee87de23c4310a174f412393"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bagl",
+    "sanitizedSymbol": "BAGL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x29cc4C61590d09B692C051Bac8a6b98c86cb50E3",
+    "lpNftId": "1251711",
+    "lockerAddress": "0x7093097ce30a1553bfe56A83b7e6A30b7A25104c"
+  },
+  "clankerInfo": null
+}

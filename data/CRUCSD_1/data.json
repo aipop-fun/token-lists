@@ -1,0 +1,22 @@
+{
+  "name": "CrUcsd",
+  "symbol": "CrUcsd",
+  "decimals": 18,
+  "description": "CrUcsd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrUcsd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrUcsd",
+  "addresses": {
+    "8453": "0x2ea2bc444bef6acab1b1535ea445abe3db7a6b01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrUcsd",
+    "sanitizedSymbol": "CRUCSD_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1318092",
+    "lockerAddress": "0x5C3D2BfCcAcFe9013876e036fA15e08d8C6dD568"
+  },
+  "clankerInfo": null
+}

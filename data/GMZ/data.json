@@ -1,0 +1,22 @@
+{
+  "name": "GMZ",
+  "symbol": "GMZ",
+  "decimals": 18,
+  "description": "GMZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GMZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GMZ",
+  "addresses": {
+    "8453": "0x0f529268de94f9554b488158be41b5a87a0987a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GMZ",
+    "sanitizedSymbol": "GMZ",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5c8018AF8063eD5dA3ce2AE275A78b38e13AA720",
+    "lpNftId": "1265667",
+    "lockerAddress": "0xF331f533439f7DDa547d767D0A906EEF6b1209E8"
+  },
+  "clankerInfo": null
+}

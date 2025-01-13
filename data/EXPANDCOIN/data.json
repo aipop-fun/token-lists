@@ -1,0 +1,22 @@
+{
+  "name": "ExpandCoin",
+  "symbol": "ExpandCoin",
+  "decimals": 18,
+  "description": "ExpandCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ExpandCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ExpandCoin",
+  "addresses": {
+    "8453": "0x02838aab3951d887082329ac345d172bbf3231e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ExpandCoin",
+    "sanitizedSymbol": "EXPANDCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166158",
+    "lockerAddress": "0x4E88322c5dc9B8CcE6623FeFB15dF021150F838f"
+  },
+  "clankerInfo": null
+}

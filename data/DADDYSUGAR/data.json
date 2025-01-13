@@ -1,0 +1,22 @@
+{
+  "name": "daddysugar",
+  "symbol": "daddysugar",
+  "decimals": 18,
+  "description": "daddysugar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=daddysugar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "daddysugar",
+  "addresses": {
+    "8453": "0x2d7222090e616e932ec2148f30ad444e564d750c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "daddysugar",
+    "sanitizedSymbol": "DADDYSUGAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1335620",
+    "lockerAddress": "0xDeB462B3Cb018f060D1A5e85B2f358c20e2a75ff"
+  },
+  "clankerInfo": null
+}

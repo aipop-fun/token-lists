@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin to $100K",
+  "symbol": "Bitcoin to $100K",
+  "decimals": 18,
+  "description": "Bitcoin to $100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20to%20%24100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin to $100K",
+  "addresses": {
+    "8453": "0x39b49ae0186128bdbd86e137f6ab6c65521dc052"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin to $100K",
+    "sanitizedSymbol": "BITCOIN_TO_100K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEbdB4F871ffF3ADD1afeE782077B9359a8CE8060",
+    "lpNftId": "1328384",
+    "lockerAddress": "0x058eBB53C96BF93b568D14f1C5da806DFf30289C"
+  },
+  "clankerInfo": null
+}

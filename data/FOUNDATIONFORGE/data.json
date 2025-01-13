@@ -1,0 +1,22 @@
+{
+  "name": "FoundationForge",
+  "symbol": "FoundationForge",
+  "decimals": 18,
+  "description": "FoundationForge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FoundationForge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FoundationForge",
+  "addresses": {
+    "8453": "0x15bd25a99bacc1907b1434b3f63590026fbe5794"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FoundationForge",
+    "sanitizedSymbol": "FOUNDATIONFORGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124952",
+    "lockerAddress": "0x98B3F9F554e5569bb6b9881F4f3136F37164fd21"
+  },
+  "clankerInfo": null
+}

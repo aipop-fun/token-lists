@@ -1,0 +1,22 @@
+{
+  "name": "RAURUS",
+  "symbol": "RAURUS",
+  "decimals": 18,
+  "description": "RAURUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAURUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAURUS",
+  "addresses": {
+    "8453": "0x1e74af74d2af06753a1e8502dac923ba29994313"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAURUS",
+    "sanitizedSymbol": "RAURUS",
+    "created_at": "2024-12-10T20:45:06.802603",
+    "deployer": "0x8aAa69aEc19f8812fe548424bE12259B6DC3576d",
+    "lpNftId": "1407008",
+    "lockerAddress": "0xd4b5bf03b35f64473E6CBf64044F29E63fCa9314"
+  },
+  "clankerInfo": null
+}

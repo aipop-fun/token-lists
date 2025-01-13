@@ -1,0 +1,22 @@
+{
+  "name": "DOT WARP",
+  "symbol": "DOT WARP",
+  "decimals": 18,
+  "description": "DOT WARP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOT%20WARP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOT WARP",
+  "addresses": {
+    "8453": "0x262e44132f6fb5b1a6085e9035faf2ca6ff2d646"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOT WARP",
+    "sanitizedSymbol": "DOT_WARP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219157",
+    "lockerAddress": "0xC264C68ecb1bfD62C23BDd1b40ad6894005Db331"
+  },
+  "clankerInfo": null
+}

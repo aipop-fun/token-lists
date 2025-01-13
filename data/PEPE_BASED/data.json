@@ -1,0 +1,22 @@
+{
+  "name": "PEPE BASED",
+  "symbol": "PEPE BASED",
+  "decimals": 18,
+  "description": "PEPE BASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20BASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE BASED",
+  "addresses": {
+    "8453": "0x39ac104dc22c578ddc1733209f1f021f6dd8df37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE BASED",
+    "sanitizedSymbol": "PEPE_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1371544",
+    "lockerAddress": "0x737DFDFA28E1e21AF20E67528bCe8DFA0B61cF05"
+  },
+  "clankerInfo": null
+}

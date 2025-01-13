@@ -1,0 +1,22 @@
+{
+  "name": "Ningi",
+  "symbol": "Ningi",
+  "decimals": 18,
+  "description": "Ningi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ningi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ningi",
+  "addresses": {
+    "8453": "0x00690861de2a21514f643a33bee6161003017f7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ningi",
+    "sanitizedSymbol": "NINGI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226585",
+    "lockerAddress": "0x9DA734d30b91C5dC6bcfa78a5cCD39B3DfEBe3f9"
+  },
+  "clankerInfo": null
+}

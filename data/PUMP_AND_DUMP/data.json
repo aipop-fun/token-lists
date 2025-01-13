@@ -1,0 +1,22 @@
+{
+  "name": "pump and dump",
+  "symbol": "pump and dump",
+  "decimals": 18,
+  "description": "pump and dump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump%20and%20dump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump and dump",
+  "addresses": {
+    "8453": "0x24faf3c8648d0897b80b98fe81e63ac48b5d4e07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump and dump",
+    "sanitizedSymbol": "PUMP_AND_DUMP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd3d2f7704Fe3836c7cE3B91E45E727368361d911",
+    "lpNftId": "1287439",
+    "lockerAddress": "0x24CdBED1F9878B1Ac0CE38212F5D5B72E86c4233"
+  },
+  "clankerInfo": null
+}

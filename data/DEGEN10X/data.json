@@ -1,0 +1,22 @@
+{
+  "name": "Degen10x",
+  "symbol": "Degen10x",
+  "decimals": 18,
+  "description": "Degen10x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen10x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen10x",
+  "addresses": {
+    "8453": "0x340403d2a0e1d600514a1d8c17ccbd9100395e97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen10x",
+    "sanitizedSymbol": "DEGEN10X",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x22EcF9234F94f0D8bFCD16e75Fb5aBB5719606B0",
+    "lpNftId": "1321746",
+    "lockerAddress": "0xe8d7dc6a92FD5dD98d7Dd1d108AbA286657fDfF4"
+  },
+  "clankerInfo": null
+}

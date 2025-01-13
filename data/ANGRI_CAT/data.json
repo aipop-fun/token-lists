@@ -1,0 +1,22 @@
+{
+  "name": "Angri Cat",
+  "symbol": "Angri Cat",
+  "decimals": 18,
+  "description": "Angri Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Angri%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Angri Cat",
+  "addresses": {
+    "8453": "0x0a31d0914dbc5e01b52f20486f2445e596987618"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Angri Cat",
+    "sanitizedSymbol": "ANGRI_CAT",
+    "created_at": "2024-12-09T15:15:21.234582",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1388416",
+    "lockerAddress": "0x1dA0e3CCee0410E1cd691e13ddcf399C5dE062dd"
+  },
+  "clankerInfo": null
+}

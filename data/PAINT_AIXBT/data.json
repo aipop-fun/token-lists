@@ -1,0 +1,22 @@
+{
+  "name": "PAINT AIXBT",
+  "symbol": "PAINT AIXBT",
+  "decimals": 18,
+  "description": "PAINT AIXBT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAINT%20AIXBT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAINT AIXBT",
+  "addresses": {
+    "8453": "0x12faa1a74d88dc97d57ef6cce2c75533fbcee180"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAINT AIXBT",
+    "sanitizedSymbol": "PAINT_AIXBT",
+    "created_at": "2024-12-10T17:44:25.825602",
+    "deployer": "0xad545f97E34E094b54cb78B94Cb662e6139f88f7",
+    "lpNftId": "1404892",
+    "lockerAddress": "0x9AA5Be2992fEDE6090dEde2FD5c752dFa77359ec"
+  },
+  "clankerInfo": null
+}

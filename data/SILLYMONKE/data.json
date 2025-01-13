@@ -1,0 +1,22 @@
+{
+  "name": "SILLYMONKE",
+  "symbol": "SILLYMONKE",
+  "decimals": 18,
+  "description": "SILLYMONKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SILLYMONKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SILLYMONKE",
+  "addresses": {
+    "8453": "0x17a49021add0fb1b0abf90502ed47a000604cff1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SILLYMONKE",
+    "sanitizedSymbol": "SILLYMONKE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230353",
+    "lockerAddress": "0x69DbA16098af0344AFA0cB8a1C982FEECe8EBD88"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Meatbag",
+  "symbol": "Meatbag",
+  "decimals": 18,
+  "description": "Meatbag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meatbag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meatbag",
+  "addresses": {
+    "8453": "0x09131714e3543154732bb1467334ff06b7f28655"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meatbag",
+    "sanitizedSymbol": "MEATBAG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142395",
+    "lockerAddress": "0x164dB0190a06743fE34d657fa3E3dFDB94Bda488"
+  },
+  "clankerInfo": null
+}

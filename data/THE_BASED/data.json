@@ -1,0 +1,22 @@
+{
+  "name": "The Based",
+  "symbol": "The Based",
+  "decimals": 18,
+  "description": "The Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Based",
+  "addresses": {
+    "8453": "0x41c08a031d9a25e0a3a003cf90d176968cd1b3ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Based",
+    "sanitizedSymbol": "THE_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1327565",
+    "lockerAddress": "0x41C922DF448513C3Bae188aE68B278743787e42a"
+  },
+  "clankerInfo": null
+}

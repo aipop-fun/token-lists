@@ -1,0 +1,22 @@
+{
+  "name": "hiatus",
+  "symbol": "hiatus",
+  "decimals": 18,
+  "description": "hiatus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hiatus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hiatus",
+  "addresses": {
+    "8453": "0x06fc385e6f205907202ccf38e5dbad1afe21033d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hiatus",
+    "sanitizedSymbol": "HIATUS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x466b576C6E05ECB92bf5a38FC795D2aFea32db60",
+    "lpNftId": "1267526",
+    "lockerAddress": "0xa27be036bA36772aB18593B9839cB500e6D972d7"
+  },
+  "clankerInfo": null
+}

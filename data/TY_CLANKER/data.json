@@ -1,0 +1,22 @@
+{
+  "name": "Ty Clanker",
+  "symbol": "Ty Clanker",
+  "decimals": 18,
+  "description": "Ty Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ty%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ty Clanker",
+  "addresses": {
+    "8453": "0x3bdf04c9899e53da9cb435187845ed03ec02eb62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ty Clanker",
+    "sanitizedSymbol": "TY_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1b5F439aE6D8BF0e5DeEf19874f1eAffDe7CDD73",
+    "lpNftId": "1327408",
+    "lockerAddress": "0xb912A5a505903eeAab839a4C72E1987152d701D4"
+  },
+  "clankerInfo": null
+}

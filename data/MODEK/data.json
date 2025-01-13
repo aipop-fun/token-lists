@@ -1,0 +1,22 @@
+{
+  "name": "MODEK",
+  "symbol": "MODEK",
+  "decimals": 18,
+  "description": "MODEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MODEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MODEK",
+  "addresses": {
+    "8453": "0x0f28a719f45d0eebbda63b80c8fef276cdd7ffd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MODEK",
+    "sanitizedSymbol": "MODEK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE9d1f30574C4A39b8a5D720Aee2c84CeAbe1c93b",
+    "lpNftId": "1330290",
+    "lockerAddress": "0xc6380d1AB0FC394a24453636D7d46EC0cFEc9234"
+  },
+  "clankerInfo": null
+}

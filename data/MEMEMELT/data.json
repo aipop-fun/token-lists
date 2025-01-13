@@ -1,0 +1,22 @@
+{
+  "name": "MEMEMELT",
+  "symbol": "MEMEMELT",
+  "decimals": 18,
+  "description": "MEMEMELT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMEMELT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMEMELT",
+  "addresses": {
+    "8453": "0x08ffea885512341721a6c264c9c872b11603ae82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMEMELT",
+    "sanitizedSymbol": "MEMEMELT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2a9ACBDADFaC5D2e69f6d54D477adc8BbA3dB4f3",
+    "lpNftId": "1281514",
+    "lockerAddress": "0x26D29F42C3De43916f90cE19d69A551e701B2a32"
+  },
+  "clankerInfo": null
+}

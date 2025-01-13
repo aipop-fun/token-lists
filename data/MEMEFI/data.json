@@ -1,0 +1,22 @@
+{
+  "name": "memefi",
+  "symbol": "memefi",
+  "decimals": 18,
+  "description": "memefi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=memefi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "memefi",
+  "addresses": {
+    "8453": "0x38a5dde68ed950dd842bffe3eca4281cfa73c57c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "memefi",
+    "sanitizedSymbol": "MEMEFI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6a2f6c4C10c8AF0f0EeE8eEa8b7859C2a6000902",
+    "lpNftId": "1251638",
+    "lockerAddress": "0xF909C821BA0e8B84bF931fA23cAf2172FD176BA7"
+  },
+  "clankerInfo": null
+}

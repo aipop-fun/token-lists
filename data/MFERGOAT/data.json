@@ -1,0 +1,22 @@
+{
+  "name": "mfergoat",
+  "symbol": "mfergoat",
+  "decimals": 18,
+  "description": "mfergoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mfergoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mfergoat",
+  "addresses": {
+    "8453": "0x1a32e7db644f9c7c79cae5293672d0f6e70c986a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mfergoat",
+    "sanitizedSymbol": "MFERGOAT",
+    "created_at": "2024-12-11T10:48:48.846717",
+    "deployer": "0xF8e015478Cd23f8c591DEb4c8e8213Ed1011bea2",
+    "lpNftId": "1416630",
+    "lockerAddress": "0x22490b009a9A15092a323Ba8E56D8e9b841eD7a7"
+  },
+  "clankerInfo": null
+}

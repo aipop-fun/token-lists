@@ -1,0 +1,22 @@
+{
+  "name": "NeoTechAi",
+  "symbol": "NeoTechAi",
+  "decimals": 18,
+  "description": "NeoTechAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NeoTechAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NeoTechAi",
+  "addresses": {
+    "8453": "0x376c1578377b2e6ea9a7b3a973044447537371d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NeoTechAi",
+    "sanitizedSymbol": "NEOTECHAI",
+    "created_at": "2024-12-11T13:37:16.288552",
+    "deployer": "0x9CB86794dcC6F029B5E1718088C6d9Ff6117df73",
+    "lpNftId": "1419269",
+    "lockerAddress": "0x97D0c2d47fF7dB3b90530Fc59aa25271519C21e1"
+  },
+  "clankerInfo": null
+}

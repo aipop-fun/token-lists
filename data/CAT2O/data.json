@@ -1,0 +1,22 @@
+{
+  "name": "Cat2O",
+  "symbol": "Cat2O",
+  "decimals": 18,
+  "description": "Cat2O is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat2O",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat2O",
+  "addresses": {
+    "8453": "0x2e8ac032a4eab71111a87177bfce134106237680"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat2O",
+    "sanitizedSymbol": "CAT2O",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125066",
+    "lockerAddress": "0x413Fca818f4FDAE9256e48C2c0Ab5A4172325a5c"
+  },
+  "clankerInfo": null
+}

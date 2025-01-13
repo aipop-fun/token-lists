@@ -1,0 +1,22 @@
+{
+  "name": "Sonic",
+  "symbol": "Sonic",
+  "decimals": 18,
+  "description": "Sonic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sonic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sonic",
+  "addresses": {
+    "8453": "0x3b7ced29f1fec68c351f048731f6d6091d247024"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sonic",
+    "sanitizedSymbol": "SONIC_2",
+    "created_at": "2024-12-11T17:43:24.84188",
+    "deployer": "0xEFEE404D58aD7614E894E55DF4E0434Eea985CFA",
+    "lpNftId": "1422768",
+    "lockerAddress": "0xf2589136769040EE6133d7E308991f9bC613E0A1"
+  },
+  "clankerInfo": null
+}

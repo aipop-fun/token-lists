@@ -1,0 +1,22 @@
+{
+  "name": "AmorCoin",
+  "symbol": "AmorCoin",
+  "decimals": 18,
+  "description": "AmorCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AmorCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AmorCoin",
+  "addresses": {
+    "8453": "0x08b13f23f718bf42814f97406b1e9bc09eaf6ae8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AmorCoin",
+    "sanitizedSymbol": "AMORCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158336",
+    "lockerAddress": "0xF4E10BfE9e5f7d90E4E88bf14454AbD4fcD9F797"
+  },
+  "clankerInfo": null
+}

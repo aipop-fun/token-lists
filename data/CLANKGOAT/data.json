@@ -1,0 +1,22 @@
+{
+  "name": "CLANKGOAT",
+  "symbol": "CLANKGOAT",
+  "decimals": 18,
+  "description": "CLANKGOAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKGOAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKGOAT",
+  "addresses": {
+    "8453": "0x325801e0c83e1af23b293b3890eaf044a380eddd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKGOAT",
+    "sanitizedSymbol": "CLANKGOAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161030",
+    "lockerAddress": "0xe85E0fD1b9B647667244bc5149ECCC49D274786D"
+  },
+  "clankerInfo": null
+}

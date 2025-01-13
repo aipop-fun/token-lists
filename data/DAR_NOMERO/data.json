@@ -1,0 +1,22 @@
+{
+  "name": "Dar nomero",
+  "symbol": "Dar nomero",
+  "decimals": 18,
+  "description": "Dar nomero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dar%20nomero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dar nomero",
+  "addresses": {
+    "8453": "0x33c88aa69df4fe93853d723a99886c7e15b87624"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dar nomero",
+    "sanitizedSymbol": "DAR_NOMERO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143761",
+    "lockerAddress": "0x61f7a759051f4D38C51F98E5C5De9d4D78e79b5a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ClankV4",
+  "symbol": "ClankV4",
+  "decimals": 18,
+  "description": "ClankV4 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankV4",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankV4",
+  "addresses": {
+    "8453": "0x14054a825178552e7d168a96cfd5aaf151b6e266"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankV4",
+    "sanitizedSymbol": "CLANKV4",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB8E8d2a9b5D1FF8FEb4EFA686ac1D15Bf960070d",
+    "lpNftId": "1227915",
+    "lockerAddress": "0xECE14F8273dC1D4454a4f35859Ddf4Bc29F0D6bD"
+  },
+  "clankerInfo": null
+}

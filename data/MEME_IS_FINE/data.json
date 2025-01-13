@@ -1,0 +1,22 @@
+{
+  "name": "Meme is Fine",
+  "symbol": "Meme is Fine",
+  "decimals": 18,
+  "description": "Meme is Fine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20is%20Fine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme is Fine",
+  "addresses": {
+    "8453": "0x249cae22fcaf542f895e562a02d45413bc9b0d88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme is Fine",
+    "sanitizedSymbol": "MEME_IS_FINE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1277039",
+    "lockerAddress": "0x0E27980c7924c5a296c64E6812dc4Dc4e1749149"
+  },
+  "clankerInfo": null
+}

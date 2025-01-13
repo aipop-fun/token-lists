@@ -1,0 +1,22 @@
+{
+  "name": "Rabbler",
+  "symbol": "Rabbler",
+  "decimals": 18,
+  "description": "Rabbler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rabbler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rabbler",
+  "addresses": {
+    "8453": "0x0ac8120377b6c1efe1f9006bba0c31502d6cb1c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rabbler",
+    "sanitizedSymbol": "RABBLER",
+    "created_at": "2024-12-10T11:02:20.866918",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1400090",
+    "lockerAddress": "0xd5aFae46BF007ABB7f617D74C5e68Ca5243834Ac"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bitty",
+  "symbol": "Bitty",
+  "decimals": 18,
+  "description": "Bitty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitty",
+  "addresses": {
+    "8453": "0x3cb195e0f16f93583e13f1badd6b8ae6d92bbefa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitty",
+    "sanitizedSymbol": "BITTY",
+    "created_at": "2024-12-09T01:16:59.084247",
+    "deployer": "0xa74FaeBC8cdCA953E2bebF2F6E86927162ACfD13",
+    "lpNftId": "1377381",
+    "lockerAddress": "0xDEf6d3DBab7191C7A08053155A3c1b583D479d1d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "X Virtuals",
+  "symbol": "X Virtuals",
+  "decimals": 18,
+  "description": "X Virtuals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X%20Virtuals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X Virtuals",
+  "addresses": {
+    "8453": "0x351183950e63e282f15b942f6a5616b811d6b121"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X Virtuals",
+    "sanitizedSymbol": "X_VIRTUALS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1285556",
+    "lockerAddress": "0x8622175948E8F4E6ec381B952802e2557A1C9544"
+  },
+  "clankerInfo": null
+}

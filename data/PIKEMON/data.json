@@ -1,0 +1,22 @@
+{
+  "name": "Pikemon",
+  "symbol": "Pikemon",
+  "decimals": 18,
+  "description": "Pikemon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pikemon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pikemon",
+  "addresses": {
+    "8453": "0x090a8ce4642300609fa745944941d846b8a1b0c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pikemon",
+    "sanitizedSymbol": "PIKEMON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128683",
+    "lockerAddress": "0x5aC31028F8c59DEe832c321DE6b88352C2f9e998"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tahrah",
+  "symbol": "Tahrah",
+  "decimals": 18,
+  "description": "Tahrah is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tahrah",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tahrah",
+  "addresses": {
+    "8453": "0x220e2f4532b8077e03d97c56b7590fb3b259cb52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tahrah",
+    "sanitizedSymbol": "TAHRAH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc530B959D38f5A8b806A64Df436cfd335007B9aE",
+    "lpNftId": "1285237",
+    "lockerAddress": "0x42d2c992aF66036387f372546493444FC3B24ac0"
+  },
+  "clankerInfo": null
+}

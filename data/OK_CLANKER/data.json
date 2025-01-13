@@ -1,0 +1,22 @@
+{
+  "name": "OK CLANKER",
+  "symbol": "OK CLANKER",
+  "decimals": 18,
+  "description": "OK CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OK%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OK CLANKER",
+  "addresses": {
+    "8453": "0x13e0589be654ce194b12728887381a69047f24f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OK CLANKER",
+    "sanitizedSymbol": "OK_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219049",
+    "lockerAddress": "0xB5fb6fad4a67b6D2475D6C8Ba85FaFB09A0175A6"
+  },
+  "clankerInfo": null
+}

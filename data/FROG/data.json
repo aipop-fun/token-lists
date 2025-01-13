@@ -1,0 +1,22 @@
+{
+  "name": "FROG",
+  "symbol": "FROG",
+  "decimals": 18,
+  "description": "FROG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FROG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FROG",
+  "addresses": {
+    "8453": "0x393d83dc065a1f0c611b8610bfebebe952f2b515"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FROG",
+    "sanitizedSymbol": "FROG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226594",
+    "lockerAddress": "0x3550f8dB87472b56c179B674277B115C9398Bb6b"
+  },
+  "clankerInfo": null
+}

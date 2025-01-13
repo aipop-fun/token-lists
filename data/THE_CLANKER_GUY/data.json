@@ -1,0 +1,22 @@
+{
+  "name": "the clanker guy",
+  "symbol": "the clanker guy",
+  "decimals": 18,
+  "description": "the clanker guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20clanker%20guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the clanker guy",
+  "addresses": {
+    "8453": "0x246f1d5c93b747f808b795489e949588635caf45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the clanker guy",
+    "sanitizedSymbol": "THE_CLANKER_GUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa65E8fEFc3931DfD5751539EaF5fE5A3AaE2fC48",
+    "lpNftId": "1308655",
+    "lockerAddress": "0x07A6ac0E8cd232E56B3D6ceA9cCB4B81636Ee68D"
+  },
+  "clankerInfo": null
+}

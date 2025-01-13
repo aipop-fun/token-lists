@@ -1,0 +1,22 @@
+{
+  "name": "Hugger",
+  "symbol": "Hugger",
+  "decimals": 18,
+  "description": "Hugger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hugger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hugger",
+  "addresses": {
+    "8453": "0x1109d2f0c8a750493a8caf2e522eb0b30acf5aca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hugger",
+    "sanitizedSymbol": "HUGGER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd1e1E83fCC095a45770354AE20E35Dd9309a01ea",
+    "lpNftId": "1328689",
+    "lockerAddress": "0xC5BCfaDf8C3322d1370eFA091cB75eb70dB04Edd"
+  },
+  "clankerInfo": null
+}

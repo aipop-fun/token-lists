@@ -1,0 +1,22 @@
+{
+  "name": "What is the ticker?",
+  "symbol": "What is the ticker?",
+  "decimals": 18,
+  "description": "What is the ticker? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=What%20is%20the%20ticker%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "What is the ticker?",
+  "addresses": {
+    "8453": "0x0f1df3eb9a09bbb95734c346c861807c19d860fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "What is the ticker?",
+    "sanitizedSymbol": "WHAT_IS_THE_TICKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8E2FD8Df3fA9454E390887A86919bb7B86Cc1141",
+    "lpNftId": "1370996",
+    "lockerAddress": "0x776A1B471662c7748c80b8701FD3a0384F486907"
+  },
+  "clankerInfo": null
+}

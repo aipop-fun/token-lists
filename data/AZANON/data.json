@@ -1,0 +1,22 @@
+{
+  "name": "AzAnon",
+  "symbol": "AzAnon",
+  "decimals": 18,
+  "description": "AzAnon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AzAnon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AzAnon",
+  "addresses": {
+    "8453": "0x136df8921acaf1bb07b8eceb9b5c6b62d4a1114e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AzAnon",
+    "sanitizedSymbol": "AZANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1317798",
+    "lockerAddress": "0x9d936342C6c9D0F107444176116e88BA41B5D608"
+  },
+  "clankerInfo": null
+}

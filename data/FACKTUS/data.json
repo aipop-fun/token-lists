@@ -1,0 +1,22 @@
+{
+  "name": "Facktus",
+  "symbol": "Facktus",
+  "decimals": 18,
+  "description": "Facktus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Facktus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Facktus",
+  "addresses": {
+    "8453": "0x38f52fb126e20ddc60e4c920c30f20c99b3fce63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Facktus",
+    "sanitizedSymbol": "FACKTUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1365026",
+    "lockerAddress": "0xE802b0C554DC6dB6d458793E1E80435913d5ec7b"
+  },
+  "clankerInfo": null
+}

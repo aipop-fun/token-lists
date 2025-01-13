@@ -1,0 +1,22 @@
+{
+  "name": "Shelter",
+  "symbol": "Shelter",
+  "decimals": 18,
+  "description": "Shelter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shelter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shelter",
+  "addresses": {
+    "8453": "0x2643842c334124fb4922ad71ff1f432db05c7a18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shelter",
+    "sanitizedSymbol": "SHELTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199213",
+    "lockerAddress": "0x25B17Ab07B6160f14f69423289fC1fCAfdC62d25"
+  },
+  "clankerInfo": null
+}

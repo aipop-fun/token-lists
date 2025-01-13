@@ -1,0 +1,22 @@
+{
+  "name": "Netflix",
+  "symbol": "Netflix",
+  "decimals": 18,
+  "description": "Netflix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Netflix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Netflix",
+  "addresses": {
+    "8453": "0x39f426a3c66dc3841315ff58aeff582f1dc368a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Netflix",
+    "sanitizedSymbol": "NETFLIX_1",
+    "created_at": "2024-12-12T14:32:56.301283",
+    "deployer": "0x5f48328FebD2130658fFaBbDB7A98a9019e3c089",
+    "lpNftId": "1435925",
+    "lockerAddress": "0x3ca189CCFBBF7F621b11f6b565C657b85062eA60"
+  },
+  "clankerInfo": null
+}

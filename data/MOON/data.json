@@ -1,0 +1,22 @@
+{
+  "name": "moon",
+  "symbol": "moon",
+  "decimals": 18,
+  "description": "moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moon",
+  "addresses": {
+    "8453": "0x01f56c12ca050bb388806e2401c73a71999dd528"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moon",
+    "sanitizedSymbol": "MOON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156821",
+    "lockerAddress": "0x3c6DDB3cD9F125eDf6E032ab69875F07255E0277"
+  },
+  "clankerInfo": null
+}

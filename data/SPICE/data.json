@@ -1,0 +1,22 @@
+{
+  "name": "Spice",
+  "symbol": "Spice",
+  "decimals": 18,
+  "description": "Spice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spice",
+  "addresses": {
+    "8453": "0x27b628f5520e5c8187357659f74ed6f429d59c22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spice",
+    "sanitizedSymbol": "SPICE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219795",
+    "lockerAddress": "0xfee1A4aaB8a4747125cF7E8Cdc058307D7E76039"
+  },
+  "clankerInfo": null
+}

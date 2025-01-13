@@ -1,0 +1,22 @@
+{
+  "name": "BuddahCoin",
+  "symbol": "BuddahCoin",
+  "decimals": 18,
+  "description": "BuddahCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BuddahCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BuddahCoin",
+  "addresses": {
+    "8453": "0x116c79de3fa4781cc4ad60d76c8d06579b1b3e4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BuddahCoin",
+    "sanitizedSymbol": "BUDDAHCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4C265b66cAACffba6Ef1A01a007f1dd5C7e2Dbd0",
+    "lpNftId": "1312590",
+    "lockerAddress": "0xC6928F06121B7f621057059ec94363d26b0d92d1"
+  },
+  "clankerInfo": null
+}

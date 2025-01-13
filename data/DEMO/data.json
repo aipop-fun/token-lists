@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "symbol": "demo",
+  "decimals": 18,
+  "description": "demo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=demo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "demo",
+  "addresses": {
+    "8453": "0x0ed37646ac59817ddb98b0104d376b17dbdebae5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "demo",
+    "sanitizedSymbol": "DEMO",
+    "created_at": "2024-12-11T05:51:20.260817",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1413656",
+    "lockerAddress": "0x1515fAF805E8d5559a42Fe5a29669C7563489637"
+  },
+  "clankerInfo": null
+}

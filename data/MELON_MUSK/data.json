@@ -1,0 +1,22 @@
+{
+  "name": "Melon Musk",
+  "symbol": "Melon Musk",
+  "decimals": 18,
+  "description": "Melon Musk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Melon%20Musk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Melon Musk",
+  "addresses": {
+    "8453": "0x02c4adbd99acff8f235bd010c91567912131acd8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Melon Musk",
+    "sanitizedSymbol": "MELON_MUSK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234779",
+    "lockerAddress": "0x3C4f5D780243e1Ae322BFD97697063ad3664Ebf0"
+  },
+  "clankerInfo": null
+}

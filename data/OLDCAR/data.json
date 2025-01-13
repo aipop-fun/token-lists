@@ -1,0 +1,22 @@
+{
+  "name": "OldCar",
+  "symbol": "OldCar",
+  "decimals": 18,
+  "description": "OldCar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OldCar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OldCar",
+  "addresses": {
+    "8453": "0x0de6ceb68808429da124e63f545a2d38ca42cc0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OldCar",
+    "sanitizedSymbol": "OLDCAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x70c82896F16fCa8276E4640756AED71CBF636909",
+    "lpNftId": "1285813",
+    "lockerAddress": "0x20D24c424eB3a5268714F3e6310C0424c04aEa58"
+  },
+  "clankerInfo": null
+}

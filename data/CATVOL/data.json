@@ -1,0 +1,22 @@
+{
+  "name": "CATVOL",
+  "symbol": "CATVOL",
+  "decimals": 18,
+  "description": "CATVOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATVOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATVOL",
+  "addresses": {
+    "8453": "0x381ba31df1ebaa0ede24006f6159284e0d55605b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATVOL",
+    "sanitizedSymbol": "CATVOL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x657604627622A5DFA2d4603A69c4b673BA7986cb",
+    "lpNftId": "1292220",
+    "lockerAddress": "0x34de607bE530e269FA904887D5A6714425352c62"
+  },
+  "clankerInfo": null
+}

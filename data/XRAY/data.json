@@ -1,0 +1,22 @@
+{
+  "name": "xRay",
+  "symbol": "xRay",
+  "decimals": 18,
+  "description": "xRay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xRay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xRay",
+  "addresses": {
+    "8453": "0x2d3fe60b8dd80955624174b60b5932d2dd2393d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xRay",
+    "sanitizedSymbol": "XRAY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0150C608A25176C08d9bc8B43d0dC64e4C9f4a58",
+    "lpNftId": "1285951",
+    "lockerAddress": "0xBa2689736Dd010A9818d4844e394ECaFa594d886"
+  },
+  "clankerInfo": null
+}

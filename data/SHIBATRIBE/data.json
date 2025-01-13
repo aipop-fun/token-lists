@@ -1,0 +1,22 @@
+{
+  "name": "ShibaTribe",
+  "symbol": "ShibaTribe",
+  "decimals": 18,
+  "description": "ShibaTribe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShibaTribe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShibaTribe",
+  "addresses": {
+    "8453": "0x1ab1bac59447f2ad27ed99e5838a46a06673b3f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShibaTribe",
+    "sanitizedSymbol": "SHIBATRIBE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165972",
+    "lockerAddress": "0x0De0E76490CbeBDD9A26A8596c9DE6c35a36B9f2"
+  },
+  "clankerInfo": null
+}

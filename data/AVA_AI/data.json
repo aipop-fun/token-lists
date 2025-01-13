@@ -1,0 +1,22 @@
+{
+  "name": "Ava AI",
+  "symbol": "Ava AI",
+  "decimals": 18,
+  "description": "Ava AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ava%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ava AI",
+  "addresses": {
+    "8453": "0x266a79db556aef0164951a615e7f7f19cc493d05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ava AI",
+    "sanitizedSymbol": "AVA_AI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173167",
+    "lockerAddress": "0x0E53B51BD74EC8B17383A13aF046cdA3A78cF4B5"
+  },
+  "clankerInfo": null
+}

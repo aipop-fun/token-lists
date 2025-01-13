@@ -1,0 +1,22 @@
+{
+  "name": "Everything",
+  "symbol": "Everything",
+  "decimals": 18,
+  "description": "Everything is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Everything",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Everything",
+  "addresses": {
+    "8453": "0x298485dab285658d35a56ca63f6fc6f61b50184b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Everything",
+    "sanitizedSymbol": "EVERYTHING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210596",
+    "lockerAddress": "0x3D097a7b195406a59c0eB1D9BFD39933E893299b"
+  },
+  "clankerInfo": null
+}

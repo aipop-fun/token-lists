@@ -1,0 +1,22 @@
+{
+  "name": "MJB",
+  "symbol": "MJB",
+  "decimals": 18,
+  "description": "MJB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MJB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MJB",
+  "addresses": {
+    "8453": "0x36b1785ed9c6b40f41db488e914f910da654076f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MJB",
+    "sanitizedSymbol": "MJB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225599",
+    "lockerAddress": "0x04e87c0d912acAF893ab0b6F757E38E0952111c4"
+  },
+  "clankerInfo": null
+}

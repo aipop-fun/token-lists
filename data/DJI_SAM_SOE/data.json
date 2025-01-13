@@ -1,0 +1,22 @@
+{
+  "name": "dji sam soe",
+  "symbol": "dji sam soe",
+  "decimals": 18,
+  "description": "dji sam soe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dji%20sam%20soe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dji sam soe",
+  "addresses": {
+    "8453": "0x1686900455d72c4b6f56e2c6d374ee98365fb4e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dji sam soe",
+    "sanitizedSymbol": "DJI_SAM_SOE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1318348",
+    "lockerAddress": "0xF11b2A0d61Da6a94F7b03D405A57f033dAf2D90F"
+  },
+  "clankerInfo": null
+}

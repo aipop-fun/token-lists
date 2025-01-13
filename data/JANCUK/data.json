@@ -1,0 +1,22 @@
+{
+  "name": "Jancuk",
+  "symbol": "Jancuk",
+  "decimals": 18,
+  "description": "Jancuk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jancuk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jancuk",
+  "addresses": {
+    "8453": "0x35556ea2b4ab3e7f14b023f458ea859514cebbe9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jancuk",
+    "sanitizedSymbol": "JANCUK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9Fe760fea9EA6970C74CE91a36aC1e8F15d45A32",
+    "lpNftId": "1251015",
+    "lockerAddress": "0x51b818cD1E269F8095460b63a74C5ACCb82957e3"
+  },
+  "clankerInfo": null
+}

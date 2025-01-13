@@ -1,0 +1,22 @@
+{
+  "name": "Mountain River",
+  "symbol": "Mountain River",
+  "decimals": 18,
+  "description": "Mountain River is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mountain%20River",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mountain River",
+  "addresses": {
+    "8453": "0x2b3a94145450bb940f87f2624e15920ec3a05764"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mountain River",
+    "sanitizedSymbol": "MOUNTAIN_RIVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9392ddaE98D3deC483F604EC2AEb597d4F15DA65",
+    "lpNftId": "1334282",
+    "lockerAddress": "0x452C9032335F4B3318DFfB5D8ac6c098F3ccaF59"
+  },
+  "clankerInfo": null
+}

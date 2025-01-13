@@ -1,0 +1,22 @@
+{
+  "name": "Crimson Pepe",
+  "symbol": "Crimson Pepe",
+  "decimals": 18,
+  "description": "Crimson Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crimson%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crimson Pepe",
+  "addresses": {
+    "8453": "0x279f7c32d764b20d9fa0858f0f3813aa2be56cee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crimson Pepe",
+    "sanitizedSymbol": "CRIMSON_PEPE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223968",
+    "lockerAddress": "0xDA5745de1641c182dDc2bB2C8e07686FB34022A2"
+  },
+  "clankerInfo": null
+}

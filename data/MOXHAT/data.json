@@ -1,0 +1,22 @@
+{
+  "name": "MoxHat",
+  "symbol": "MoxHat",
+  "decimals": 18,
+  "description": "MoxHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoxHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoxHat",
+  "addresses": {
+    "8453": "0x3f89dd5c84228c66c74ca8f8207d63d10f11d991"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoxHat",
+    "sanitizedSymbol": "MOXHAT",
+    "created_at": "2024-12-09T04:38:58.975775",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1382243",
+    "lockerAddress": "0xa2618BFD6E89A4dEeD12D5E475CAF82572B52633"
+  },
+  "clankerInfo": null
+}

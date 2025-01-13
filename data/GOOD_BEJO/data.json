@@ -1,0 +1,22 @@
+{
+  "name": "Good Bejo",
+  "symbol": "Good Bejo",
+  "decimals": 18,
+  "description": "Good Bejo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Good%20Bejo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Good Bejo",
+  "addresses": {
+    "8453": "0x0d4bf02ea67a4d6edb7c8554e2594124ac2e5146"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Good Bejo",
+    "sanitizedSymbol": "GOOD_BEJO",
+    "created_at": "2024-12-12T16:15:04.005084",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1438134",
+    "lockerAddress": "0x3d8352DE7Dd6EE9Af771f2951A043626B4CfB05D"
+  },
+  "clankerInfo": null
+}

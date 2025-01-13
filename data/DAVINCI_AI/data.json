@@ -1,0 +1,22 @@
+{
+  "name": "DaVinci AI",
+  "symbol": "DaVinci AI",
+  "decimals": 18,
+  "description": "DaVinci AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DaVinci%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DaVinci AI",
+  "addresses": {
+    "8453": "0x252441be501b9be1faea49b881826994ac7d7e0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DaVinci AI",
+    "sanitizedSymbol": "DAVINCI_AI",
+    "created_at": "2024-12-10T00:54:49.43707",
+    "deployer": "0xc7aDE6e2cE3aE0494827e42Ff5422A7b928e779A",
+    "lpNftId": "1394033",
+    "lockerAddress": "0x97993c822e8ab6a5425DC7Fd2BeE3CBa0c34F93d"
+  },
+  "clankerInfo": null
+}

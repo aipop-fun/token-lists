@@ -1,0 +1,22 @@
+{
+  "name": "BYC",
+  "symbol": "BYC",
+  "decimals": 18,
+  "description": "BYC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BYC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BYC",
+  "addresses": {
+    "8453": "0x0cfbefe03d39e3d9ae4977b421e39c61175a522d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BYC",
+    "sanitizedSymbol": "BYC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1330440",
+    "lockerAddress": "0x9a9Ed858bcf50863163Ba21F4AEBf0772737Ea7d"
+  },
+  "clankerInfo": null
+}

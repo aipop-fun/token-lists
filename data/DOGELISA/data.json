@@ -1,0 +1,22 @@
+{
+  "name": "DogeLisa",
+  "symbol": "DogeLisa",
+  "decimals": 18,
+  "description": "DogeLisa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeLisa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeLisa",
+  "addresses": {
+    "8453": "0x3f8fd41abff14121e295313ee4f88c35d4acfbce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeLisa",
+    "sanitizedSymbol": "DOGELISA",
+    "created_at": "2024-12-09T11:23:15.174652",
+    "deployer": "0x3151a94D377018d5713c849D7c0b6BfCdE068593",
+    "lpNftId": "1386436",
+    "lockerAddress": "0xB61C678ded77705767E60D650c9993815FFbBea1"
+  },
+  "clankerInfo": null
+}

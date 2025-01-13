@@ -1,0 +1,22 @@
+{
+  "name": "Asian Liquidity",
+  "symbol": "Asian Liquidity",
+  "decimals": 18,
+  "description": "Asian Liquidity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Asian%20Liquidity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Asian Liquidity",
+  "addresses": {
+    "8453": "0x0068aa1b07250be7b5de56f758de8ef2875198c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Asian Liquidity",
+    "sanitizedSymbol": "ASIAN_LIQUIDITY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC866239b76ED47f9547FDB202155191b1A452118",
+    "lpNftId": "1264715",
+    "lockerAddress": "0x8CA2123AD2adc3727c79DDadCd42271B63ffD0A5"
+  },
+  "clankerInfo": null
+}

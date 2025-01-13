@@ -1,0 +1,22 @@
+{
+  "name": "fren",
+  "symbol": "fren",
+  "decimals": 18,
+  "description": "fren is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fren",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fren",
+  "addresses": {
+    "8453": "0x18519c129f84be4dbc5934213881e3d63f9297e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fren",
+    "sanitizedSymbol": "FREN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1311002",
+    "lockerAddress": "0xAb2686320968ea48a744F80687F98D2Ea008071E"
+  },
+  "clankerInfo": null
+}

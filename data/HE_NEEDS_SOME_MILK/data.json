@@ -1,0 +1,22 @@
+{
+  "name": "He needs some milk",
+  "symbol": "He needs some milk",
+  "decimals": 18,
+  "description": "He needs some milk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=He%20needs%20some%20milk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "He needs some milk",
+  "addresses": {
+    "8453": "0x0f8ec9aec2d88703047a391d74d723802ff36dad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "He needs some milk",
+    "sanitizedSymbol": "HE_NEEDS_SOME_MILK",
+    "created_at": "2024-12-11T07:21:31.303698",
+    "deployer": "0xcBd28aBB72Ea2a4edEbB2bE5D8BcEd06329D83b1",
+    "lpNftId": "1414052",
+    "lockerAddress": "0xF9B7472569e98352d1E7eb38b9972dFc11d19B8a"
+  },
+  "clankerInfo": null
+}

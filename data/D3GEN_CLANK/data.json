@@ -1,0 +1,22 @@
+{
+  "name": "D3gen.Clank",
+  "symbol": "D3gen.Clank",
+  "decimals": 18,
+  "description": "D3gen.Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=D3gen.Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "D3gen.Clank",
+  "addresses": {
+    "8453": "0x0d3a8e7242bbe8fe56b99159613197072af6e24f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "D3gen.Clank",
+    "sanitizedSymbol": "D3GEN_CLANK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1324601",
+    "lockerAddress": "0x2510444F4C70fAf2430de6f017476A788A36074E"
+  },
+  "clankerInfo": null
+}

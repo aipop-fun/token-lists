@@ -1,0 +1,22 @@
+{
+  "name": "VERSE",
+  "symbol": "VERSE",
+  "decimals": 18,
+  "description": "VERSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VERSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VERSE",
+  "addresses": {
+    "8453": "0x08c68452cc9f83c65ac7c915ca4ef551a91c4e2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VERSE",
+    "sanitizedSymbol": "VERSE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b57f8A7553931d29Db1c7966BEf8B2E00367278",
+    "lpNftId": "1310919",
+    "lockerAddress": "0x4055Cf720dF8e24b04A8f16CE8fBB8Eae370f346"
+  },
+  "clankerInfo": null
+}

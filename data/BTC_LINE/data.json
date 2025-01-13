@@ -1,0 +1,22 @@
+{
+  "name": "BTC Line",
+  "symbol": "BTC Line",
+  "decimals": 18,
+  "description": "BTC Line is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC%20Line",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC Line",
+  "addresses": {
+    "8453": "0x2c7b27a94f367b0f0ed418b68ff6dd347e96c324"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC Line",
+    "sanitizedSymbol": "BTC_LINE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xBDfe845ABEfF30A9a08282f6AB49B0dF7454B433",
+    "lpNftId": "1250501",
+    "lockerAddress": "0x56F88C9B6eE91450D8B8916306b6718f1Bce89A5"
+  },
+  "clankerInfo": null
+}

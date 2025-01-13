@@ -1,0 +1,22 @@
+{
+  "name": "AtlasVision",
+  "symbol": "AtlasVision",
+  "decimals": 18,
+  "description": "AtlasVision is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AtlasVision",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AtlasVision",
+  "addresses": {
+    "8453": "0x14880762b9c5d181270d9b38b8752fbcc98a146c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AtlasVision",
+    "sanitizedSymbol": "ATLASVISION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142364",
+    "lockerAddress": "0xBA758bbB622a2aE84A724cBF0fC5a3ef36Feb4f3"
+  },
+  "clankerInfo": null
+}

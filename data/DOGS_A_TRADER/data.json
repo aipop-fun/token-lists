@@ -1,0 +1,22 @@
+{
+  "name": "Dogs A Trader",
+  "symbol": "Dogs A Trader",
+  "decimals": 18,
+  "description": "Dogs A Trader is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogs%20A%20Trader",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogs A Trader",
+  "addresses": {
+    "8453": "0x155033c57c1551f0e124ec30f2977e9688a5f097"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogs A Trader",
+    "sanitizedSymbol": "DOGS_A_TRADER",
+    "created_at": "2024-12-11T12:31:55.508293",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1418068",
+    "lockerAddress": "0x62a98E972482Af4a6232afcD1CFed20249e2c537"
+  },
+  "clankerInfo": null
+}

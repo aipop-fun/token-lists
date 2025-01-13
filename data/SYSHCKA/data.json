@@ -1,0 +1,22 @@
+{
+  "name": "Syshcka",
+  "symbol": "Syshcka",
+  "decimals": 18,
+  "description": "Syshcka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Syshcka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Syshcka",
+  "addresses": {
+    "8453": "0x0aaa88213072d470b8f317ae2a2c482df705e39a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Syshcka",
+    "sanitizedSymbol": "SYSHCKA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x562e1236AD1BD5BE28CB78bB8d6ADF9b0524d4b0",
+    "lpNftId": "1285246",
+    "lockerAddress": "0x95259ADa7810C0385CF0113B734f64eb68de39E2"
+  },
+  "clankerInfo": null
+}

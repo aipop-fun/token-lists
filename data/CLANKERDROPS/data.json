@@ -1,0 +1,22 @@
+{
+  "name": "Clankerdrops",
+  "symbol": "Clankerdrops",
+  "decimals": 18,
+  "description": "Clankerdrops is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankerdrops",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankerdrops",
+  "addresses": {
+    "8453": "0x2b909fed5e6cd1914997148e03790c9dbebc74fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankerdrops",
+    "sanitizedSymbol": "CLANKERDROPS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192911",
+    "lockerAddress": "0x2ECb4CeE11a8F5D58DE658b2249E8c6b2bdBEE92"
+  },
+  "clankerInfo": null
+}

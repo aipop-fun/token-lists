@@ -1,0 +1,22 @@
+{
+  "name": "PumpkinHeads",
+  "symbol": "PumpkinHeads",
+  "decimals": 18,
+  "description": "PumpkinHeads is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpkinHeads",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpkinHeads",
+  "addresses": {
+    "8453": "0x4115ac5ad49f3ba70426dd582c8d64f3332abd89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpkinHeads",
+    "sanitizedSymbol": "PUMPKINHEADS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7A60077a6Eca60Dec72d7D00A1f2818CD77b40E9",
+    "lpNftId": "1365105",
+    "lockerAddress": "0x9CFd862eAa3dC050943fdbb59670DF4e207c9013"
+  },
+  "clankerInfo": null
+}

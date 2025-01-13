@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster BASE Strength",
+  "symbol": "Farcaster BASE Strength",
+  "decimals": 18,
+  "description": "Farcaster BASE Strength is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20BASE%20Strength",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster BASE Strength",
+  "addresses": {
+    "8453": "0x22272010ea367d9c0d5bb139eb2214f3de088ef3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster BASE Strength",
+    "sanitizedSymbol": "FARCASTER_BASE_STRENGTH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225518",
+    "lockerAddress": "0xd0aaC54ee07c17AB80148C841EC1DFCC1428fe4a"
+  },
+  "clankerInfo": null
+}

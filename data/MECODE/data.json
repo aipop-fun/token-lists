@@ -1,0 +1,22 @@
+{
+  "name": "Mecode",
+  "symbol": "Mecode",
+  "decimals": 18,
+  "description": "Mecode is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mecode",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mecode",
+  "addresses": {
+    "8453": "0x0883b1a69ce42ebbe72199916d9455438e6c0eab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mecode",
+    "sanitizedSymbol": "MECODE",
+    "created_at": "2024-12-12T02:03:44.625999",
+    "deployer": "0x18a372f4BCC952f205549837c116f61a43C59e1d",
+    "lpNftId": "1428556",
+    "lockerAddress": "0x09537a717badd4F3907078B6f4CfB446430190Ac"
+  },
+  "clankerInfo": null
+}

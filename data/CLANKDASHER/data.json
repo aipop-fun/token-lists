@@ -1,0 +1,22 @@
+{
+  "name": "ClankDasher",
+  "symbol": "ClankDasher",
+  "decimals": 18,
+  "description": "ClankDasher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankDasher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankDasher",
+  "addresses": {
+    "8453": "0x3dd3837d6303ddbef96ca1297f4b22e33c9359ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankDasher",
+    "sanitizedSymbol": "CLANKDASHER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229644",
+    "lockerAddress": "0xeC5FF4820FD546C20C8ACAF0a6AD791363F2082B"
+  },
+  "clankerInfo": null
+}

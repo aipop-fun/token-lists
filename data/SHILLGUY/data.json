@@ -1,0 +1,22 @@
+{
+  "name": "SHILLGUY",
+  "symbol": "SHILLGUY",
+  "decimals": 18,
+  "description": "SHILLGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHILLGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHILLGUY",
+  "addresses": {
+    "8453": "0x1053ea193fba2888fbe69c33226e97059f6296f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHILLGUY",
+    "sanitizedSymbol": "SHILLGUY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2F1E10083Ecf6beB73f552c5066C7E36Fc73d0d0",
+    "lpNftId": "1252924",
+    "lockerAddress": "0x6d7b060c3487fD0Ae975B7D6F9203019Dfe12520"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lil Bitcoin",
+  "symbol": "Lil Bitcoin",
+  "decimals": 18,
+  "description": "Lil Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lil%20Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lil Bitcoin",
+  "addresses": {
+    "8453": "0x0afab53a65533d80603818ce99d41a0976fcff50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lil Bitcoin",
+    "sanitizedSymbol": "LIL_BITCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235251",
+    "lockerAddress": "0x762EdCC4958CF1B583b300542066dF8a5a0c4313"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bonkbase",
+  "symbol": "bonkbase",
+  "decimals": 18,
+  "description": "bonkbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bonkbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bonkbase",
+  "addresses": {
+    "8453": "0x2787dd0b46a84c863021d2941773a94fc06779b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bonkbase",
+    "sanitizedSymbol": "BONKBASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x20933Bdd37994dE1a48E0325D395A3f328572120",
+    "lpNftId": "1252856",
+    "lockerAddress": "0x8E3e98f35F9D7d565040F418A459740d78B8bCF9"
+  },
+  "clankerInfo": null
+}

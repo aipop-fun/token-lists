@@ -1,0 +1,22 @@
+{
+  "name": "$anta",
+  "symbol": "$anta",
+  "decimals": 18,
+  "description": "$anta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24anta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$anta",
+  "addresses": {
+    "8453": "0x0f7dad02e6ca73f3c6f5ae2d6e9ca9d4dc463699"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$anta",
+    "sanitizedSymbol": "ANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9412976973BEa57d61278cf9D5fA8084071179c6",
+    "lpNftId": "1302584",
+    "lockerAddress": "0xC43E052F0321a52d845328Beeb5fDBc462a61Cb9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PondHub",
+  "symbol": "PondHub",
+  "decimals": 18,
+  "description": "PondHub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PondHub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PondHub",
+  "addresses": {
+    "8453": "0x0446aa46cd7d3548ca70769e3990fe39d7b18d5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PondHub",
+    "sanitizedSymbol": "PONDHUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40c15967C2367f1910cbb80e261d0d5eC31e3430",
+    "lpNftId": "1286115",
+    "lockerAddress": "0x6d2596b58deA623321c66153f9e290BE77B4dc49"
+  },
+  "clankerInfo": null
+}

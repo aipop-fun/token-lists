@@ -1,0 +1,22 @@
+{
+  "name": "wers",
+  "symbol": "wers",
+  "decimals": 18,
+  "description": "wers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wers",
+  "addresses": {
+    "8453": "0x1661207a04fc819fff0b1ce91352d1c583a4c0a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wers",
+    "sanitizedSymbol": "WERS",
+    "created_at": "2024-12-12T16:34:59.296812",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1438664",
+    "lockerAddress": "0x4c17e2D81e670C5ef634f0cC5aaA76E4Bfc4d7dC"
+  },
+  "clankerInfo": null
+}

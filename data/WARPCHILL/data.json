@@ -1,0 +1,22 @@
+{
+  "name": "Warpchill",
+  "symbol": "Warpchill",
+  "decimals": 18,
+  "description": "Warpchill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpchill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpchill",
+  "addresses": {
+    "8453": "0x3cb86d0fbfb87b413c765393dbae4a08eb2e3121"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpchill",
+    "sanitizedSymbol": "WARPCHILL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBdca844aD4ec4AEfB7CA5b167194E227A208Db8B",
+    "lpNftId": "1311981",
+    "lockerAddress": "0x90cCc76e1657705D9E2991b4E3420126e550C650"
+  },
+  "clankerInfo": null
+}

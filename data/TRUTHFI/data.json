@@ -1,0 +1,22 @@
+{
+  "name": "TruthFi",
+  "symbol": "TruthFi",
+  "decimals": 18,
+  "description": "TruthFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TruthFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TruthFi",
+  "addresses": {
+    "8453": "0x37049f9e28d77f695282af06923edc5661c0ab1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TruthFi",
+    "sanitizedSymbol": "TRUTHFI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220185",
+    "lockerAddress": "0xAF375107e61Dc9Ae8E0D0A6E10E1B7231fE744D9"
+  },
+  "clankerInfo": null
+}

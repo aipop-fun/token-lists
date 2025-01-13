@@ -1,0 +1,22 @@
+{
+  "name": "BabyLULU",
+  "symbol": "BabyLULU",
+  "decimals": 18,
+  "description": "BabyLULU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyLULU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyLULU",
+  "addresses": {
+    "8453": "0x18ec95b2c4692ba9997f68ac0a268fb11e91644f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyLULU",
+    "sanitizedSymbol": "BABYLULU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeeA90Ac8C06C1d1B76C4332C12CeAe927aad2E69",
+    "lpNftId": "1311992",
+    "lockerAddress": "0x19Acaea78424648B5dfdFEC9Bb54484134AaCF83"
+  },
+  "clankerInfo": null
+}

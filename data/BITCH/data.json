@@ -1,0 +1,22 @@
+{
+  "name": "BITCH",
+  "symbol": "BITCH",
+  "decimals": 18,
+  "description": "BITCH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITCH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITCH",
+  "addresses": {
+    "8453": "0x2f7dba0629a5888bd300ceece680de1df6f6ec3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITCH",
+    "sanitizedSymbol": "BITCH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1310526",
+    "lockerAddress": "0x917cA0a8d8D3c5a2044A1605002518c9F716B599"
+  },
+  "clankerInfo": null
+}

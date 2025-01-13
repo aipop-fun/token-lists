@@ -1,0 +1,22 @@
+{
+  "name": "Instrument",
+  "symbol": "Instrument",
+  "decimals": 18,
+  "description": "Instrument is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Instrument",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Instrument",
+  "addresses": {
+    "8453": "0x241b6c2712a0079e17de12f46d474045ef128e6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Instrument",
+    "sanitizedSymbol": "INSTRUMENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22b77EC0f86E7C4Aa6ee81a935c5df261c4a5Ff1",
+    "lpNftId": "1316630",
+    "lockerAddress": "0x195c808c745FcDC6FAc1b708Ea7B09261527636f"
+  },
+  "clankerInfo": null
+}

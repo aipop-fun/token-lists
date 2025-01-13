@@ -1,0 +1,22 @@
+{
+  "name": "America",
+  "symbol": "America",
+  "decimals": 18,
+  "description": "America is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=America",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "America",
+  "addresses": {
+    "8453": "0x0b10b107d4dc1d512f5f181bc7278530b1f95538"
+  },
+  "tokenInfo": {
+    "originalSymbol": "America",
+    "sanitizedSymbol": "AMERICA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217896",
+    "lockerAddress": "0x592ae1e264018369ddaE278f46CbF93d7874Ad15"
+  },
+  "clankerInfo": null
+}

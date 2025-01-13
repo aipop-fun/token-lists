@@ -1,0 +1,22 @@
+{
+  "name": "upton",
+  "symbol": "upton",
+  "decimals": 18,
+  "description": "upton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=upton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "upton",
+  "addresses": {
+    "8453": "0x3dbd4c759c4f3e1bf6cfa785443a3a7a22088605"
+  },
+  "tokenInfo": {
+    "originalSymbol": "upton",
+    "sanitizedSymbol": "UPTON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173291",
+    "lockerAddress": "0x46366A456b271C2D7F5a32e90149b2bb8F42fd2c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DOGGY",
+  "symbol": "DOGGY",
+  "decimals": 18,
+  "description": "DOGGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGGY",
+  "addresses": {
+    "8453": "0x24788bb29dfc1bf4d2376030326b0dae054832cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGGY",
+    "sanitizedSymbol": "DOGGY_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd6f50977F20fb5fDeC731396e53B099924087Aa1",
+    "lpNftId": "1266140",
+    "lockerAddress": "0x07865e326Bcde620a9b07e3d6515797b12e41236"
+  },
+  "clankerInfo": null
+}

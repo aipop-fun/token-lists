@@ -1,0 +1,22 @@
+{
+  "name": "CryptoChuckle",
+  "symbol": "CryptoChuckle",
+  "decimals": 18,
+  "description": "CryptoChuckle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoChuckle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoChuckle",
+  "addresses": {
+    "8453": "0x08ad5bdaa8faf4f41a28535457c39a92d388a583"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoChuckle",
+    "sanitizedSymbol": "CRYPTOCHUCKLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173305",
+    "lockerAddress": "0x04eC6086bD498f4340566fD5AB32F9fE5eDBaa20"
+  },
+  "clankerInfo": null
+}

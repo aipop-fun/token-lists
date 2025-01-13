@@ -1,0 +1,22 @@
+{
+  "name": "First Token 2",
+  "symbol": "First Token 2",
+  "decimals": 18,
+  "description": "First Token 2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=First%20Token%202",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "First Token 2",
+  "addresses": {
+    "8453": "0x0cf50d8791f06a5b61ba97663f83d983b057f468"
+  },
+  "tokenInfo": {
+    "originalSymbol": "First Token 2",
+    "sanitizedSymbol": "FIRST_TOKEN_2",
+    "created_at": "2024-12-12T08:22:05.422424",
+    "deployer": "0x75D55671feFA366BaC1728400dEF90426e5fc1aB",
+    "lpNftId": "1429897",
+    "lockerAddress": "0x41daF0eBCc283E6F579CF09EC33103AfE61C9B39"
+  },
+  "clankerInfo": null
+}

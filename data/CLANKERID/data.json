@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERID",
+  "symbol": "CLANKERID",
+  "decimals": 18,
+  "description": "CLANKERID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERID",
+  "addresses": {
+    "8453": "0x18442815534e6168f367fa6d8fa756a460996d16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERID",
+    "sanitizedSymbol": "CLANKERID",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x825504eAD38043C7543331A14b6738B7Ae499c36",
+    "lpNftId": "1268546",
+    "lockerAddress": "0x7e3A9138423939752653E07ab3DEec1FaA2b15E8"
+  },
+  "clankerInfo": null
+}

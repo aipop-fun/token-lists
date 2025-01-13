@@ -1,0 +1,22 @@
+{
+  "name": "Lamborghini Doge",
+  "symbol": "Lamborghini Doge",
+  "decimals": 18,
+  "description": "Lamborghini Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lamborghini%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lamborghini Doge",
+  "addresses": {
+    "8453": "0x1b5e9353c7207858eff1ab7874f20637584d51f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lamborghini Doge",
+    "sanitizedSymbol": "LAMBORGHINI_DOGE",
+    "created_at": "2024-12-09T09:37:19.663427",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1385330",
+    "lockerAddress": "0x282eE5051a23CFa96B8f96D7a7CF9423d6C7eFF1"
+  },
+  "clankerInfo": null
+}

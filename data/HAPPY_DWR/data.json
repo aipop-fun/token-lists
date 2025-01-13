@@ -1,0 +1,22 @@
+{
+  "name": "Happy DWR",
+  "symbol": "Happy DWR",
+  "decimals": 18,
+  "description": "Happy DWR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20DWR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy DWR",
+  "addresses": {
+    "8453": "0x0b1897508e512536a0e7ea38698afb5330af0e13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy DWR",
+    "sanitizedSymbol": "HAPPY_DWR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0bbB97f7Cb38030921F3ac0fbF8E91F7F18BFD7F",
+    "lpNftId": "1310066",
+    "lockerAddress": "0x6A7d6Ae45B13bD4c591fa502Fd7eD2B1faA5A788"
+  },
+  "clankerInfo": null
+}

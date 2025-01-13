@@ -1,0 +1,22 @@
+{
+  "name": "Based Fwog",
+  "symbol": "Based Fwog",
+  "decimals": 18,
+  "description": "Based Fwog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Fwog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Fwog",
+  "addresses": {
+    "8453": "0x2be29c2bdf88aa8120835e56f4c58d39806fb0ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Fwog",
+    "sanitizedSymbol": "BASED_FWOG_1",
+    "created_at": "2024-12-11T19:44:07.380917",
+    "deployer": "0x38553C869d5d28ab4127EDC8Da295f656a3dBA18",
+    "lpNftId": "1424923",
+    "lockerAddress": "0xcC1C6C2603Ae7f42199328Fea7009Cf5839e915D"
+  },
+  "clankerInfo": null
+}

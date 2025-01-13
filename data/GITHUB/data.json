@@ -1,0 +1,22 @@
+{
+  "name": "github",
+  "symbol": "github",
+  "decimals": 18,
+  "description": "github is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=github",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "github",
+  "addresses": {
+    "8453": "0x1494f02ed2f940c763daf991c427b5f96ca3dc8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "github",
+    "sanitizedSymbol": "GITHUB",
+    "created_at": "2024-12-09T09:50:01.244379",
+    "deployer": "0x75B1199974Da8446Ec381A9Bd80f9F93c697858D",
+    "lpNftId": "1385407",
+    "lockerAddress": "0x24e16Af7Ea0F6c349CFB3864dEeAfBE5D7fB4C29"
+  },
+  "clankerInfo": null
+}

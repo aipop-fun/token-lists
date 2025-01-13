@@ -1,0 +1,22 @@
+{
+  "name": "DOUG",
+  "symbol": "DOUG",
+  "decimals": 18,
+  "description": "DOUG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOUG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOUG",
+  "addresses": {
+    "8453": "0x23ca36a46a7fe4951c2bd694c6dba95d23104379"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOUG",
+    "sanitizedSymbol": "DOUG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x39288b2fDE888720BE5C3bd2E59Ab865e62E3B96",
+    "lpNftId": "1265155",
+    "lockerAddress": "0x9BAFc2f88016e046834d3F73175048589a4E0462"
+  },
+  "clankerInfo": null
+}

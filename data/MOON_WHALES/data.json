@@ -1,0 +1,22 @@
+{
+  "name": "Moon Whales",
+  "symbol": "Moon Whales",
+  "decimals": 18,
+  "description": "Moon Whales is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moon%20Whales",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moon Whales",
+  "addresses": {
+    "8453": "0x35b3d743837e8039d4cd399a9a9372dd68ca87d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moon Whales",
+    "sanitizedSymbol": "MOON_WHALES",
+    "created_at": "2024-12-09T08:20:09.515783",
+    "deployer": "0xac7146182aBCb40cf6E5DAda776F59Bfd0AFeA00",
+    "lpNftId": "1384657",
+    "lockerAddress": "0x9273F334704bF07bB3FDD74f2E4Ae20a03A25Bd0"
+  },
+  "clankerInfo": null
+}

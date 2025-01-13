@@ -1,0 +1,22 @@
+{
+  "name": "Thanks Larry",
+  "symbol": "Thanks Larry",
+  "decimals": 18,
+  "description": "Thanks Larry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Thanks%20Larry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Thanks Larry",
+  "addresses": {
+    "8453": "0x157bfb7b097467340d6b7f6d9549278687dc282d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Thanks Larry",
+    "sanitizedSymbol": "THANKS_LARRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5048BF41eA4612F6c68b7d1337570F6193B4Ba6E",
+    "lpNftId": "1331291",
+    "lockerAddress": "0x87eb172C50e108522CadF586953D9F08f83Ca35b"
+  },
+  "clankerInfo": null
+}

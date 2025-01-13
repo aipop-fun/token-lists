@@ -1,0 +1,22 @@
+{
+  "name": "Based Blue Bull",
+  "symbol": "Based Blue Bull",
+  "decimals": 18,
+  "description": "Based Blue Bull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Blue%20Bull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Blue Bull",
+  "addresses": {
+    "8453": "0x32774eddb313768de1268a2435c6c93473f786e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Blue Bull",
+    "sanitizedSymbol": "BASED_BLUE_BULL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233002",
+    "lockerAddress": "0x9483E567621A486119DE28C8c74a899001736C11"
+  },
+  "clankerInfo": null
+}

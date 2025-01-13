@@ -1,0 +1,22 @@
+{
+  "name": "AnonFans",
+  "symbol": "AnonFans",
+  "decimals": 18,
+  "description": "AnonFans is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonFans",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonFans",
+  "addresses": {
+    "8453": "0x350db0a8013e44e4186fabecafcc38cc6dff6cfc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonFans",
+    "sanitizedSymbol": "ANONFANS_1",
+    "created_at": "2024-12-09T18:17:25.537601",
+    "deployer": "0x3E6857A05Ab3F11F1d56bcd83a658498038A771C",
+    "lpNftId": "1390087",
+    "lockerAddress": "0xbcE32D5e4e06ebA11C8C4f5d97A1B14C8eb6E5a6"
+  },
+  "clankerInfo": null
+}

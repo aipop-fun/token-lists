@@ -1,0 +1,22 @@
+{
+  "name": "Pondok Meja",
+  "symbol": "Pondok Meja",
+  "decimals": 18,
+  "description": "Pondok Meja is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pondok%20Meja",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pondok Meja",
+  "addresses": {
+    "8453": "0x2b2f22fcce5c48fd326167187d2048c2175be9a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pondok Meja",
+    "sanitizedSymbol": "PONDOK_MEJA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213650",
+    "lockerAddress": "0x3513A63C5964Ab0c6656A38a2d6D2Ed2849C2aE6"
+  },
+  "clankerInfo": null
+}

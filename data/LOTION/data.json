@@ -1,0 +1,22 @@
+{
+  "name": "Lotion",
+  "symbol": "Lotion",
+  "decimals": 18,
+  "description": "Lotion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lotion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lotion",
+  "addresses": {
+    "8453": "0x32469c9178477ad1fa61ca0905acff7d4a1ea5fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lotion",
+    "sanitizedSymbol": "LOTION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1316950",
+    "lockerAddress": "0x762FA2DD57513C316188b09b98e1D06098C8893D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XANAX",
+  "symbol": "XANAX",
+  "decimals": 18,
+  "description": "XANAX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XANAX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XANAX",
+  "addresses": {
+    "8453": "0x066109b8e66620fcd190e9b56ff87b7b40605f4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XANAX",
+    "sanitizedSymbol": "XANAX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156651",
+    "lockerAddress": "0xabc20b59b3166eaa9Db4A7b9B6d811a97b7EC050"
+  },
+  "clankerInfo": null
+}

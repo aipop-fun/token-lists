@@ -1,0 +1,22 @@
+{
+  "name": "Spongebob",
+  "symbol": "Spongebob",
+  "decimals": 18,
+  "description": "Spongebob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spongebob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spongebob",
+  "addresses": {
+    "8453": "0x314383f98c2fccb84475086cae6d3aa978a8cb56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spongebob",
+    "sanitizedSymbol": "SPONGEBOB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213352",
+    "lockerAddress": "0x17a8A44596735d3b556F079107F04B5892D5d3bB"
+  },
+  "clankerInfo": null
+}

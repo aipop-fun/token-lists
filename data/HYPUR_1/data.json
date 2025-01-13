@@ -1,0 +1,22 @@
+{
+  "name": "HYPUR",
+  "symbol": "HYPUR",
+  "decimals": 18,
+  "description": "HYPUR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPUR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPUR",
+  "addresses": {
+    "8453": "0x0fb6a6ff42d88adef8750b7324438054832bcc92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPUR",
+    "sanitizedSymbol": "HYPUR_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x39288b2fDE888720BE5C3bd2E59Ab865e62E3B96",
+    "lpNftId": "1265154",
+    "lockerAddress": "0x1C8bFF6d7b40d68BD079A87Eb62750C254081743"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CLOWNCOIN",
+  "symbol": "CLOWNCOIN",
+  "decimals": 18,
+  "description": "CLOWNCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLOWNCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLOWNCOIN",
+  "addresses": {
+    "8453": "0x2bc65404cb55e6f3440ad2292b166681eeb13583"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLOWNCOIN",
+    "sanitizedSymbol": "CLOWNCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0dA53864f41F702892cbed60482431feE7d5B522",
+    "lpNftId": "1281304",
+    "lockerAddress": "0x04053c2F39a734B5354763ac5c83227d77151961"
+  },
+  "clankerInfo": null
+}

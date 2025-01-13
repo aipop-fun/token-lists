@@ -1,0 +1,22 @@
+{
+  "name": "Bamboo",
+  "symbol": "Bamboo",
+  "decimals": 18,
+  "description": "Bamboo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bamboo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bamboo",
+  "addresses": {
+    "8453": "0x2a22539d4fe3e8c5e8341a473900d16d823f0b61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bamboo",
+    "sanitizedSymbol": "BAMBOO_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x948e399b0ebDE5C56AbF8c9b86D2F2080f2A3310",
+    "lpNftId": "1311644",
+    "lockerAddress": "0x39A24cc9Fe88A72bCD5A3Df2F9710b6330CFcaB6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mewtwo",
+  "symbol": "Mewtwo",
+  "decimals": 18,
+  "description": "Mewtwo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mewtwo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mewtwo",
+  "addresses": {
+    "8453": "0x2729da993a8f5b1aedbad93871cd86a4c6c6e6b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mewtwo",
+    "sanitizedSymbol": "MEWTWO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdE92f70C81437662d17eb046C617Cd2A47c38BC2",
+    "lpNftId": "1346253",
+    "lockerAddress": "0x0AC67C466E76Dbc2d551E40eA4B7173E1C3683eD"
+  },
+  "clankerInfo": null
+}

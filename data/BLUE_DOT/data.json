@@ -1,0 +1,22 @@
+{
+  "name": "Blue dot",
+  "symbol": "Blue dot",
+  "decimals": 18,
+  "description": "Blue dot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20dot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue dot",
+  "addresses": {
+    "8453": "0x2e30ab603760fdc8cd7c9c27242b9881f735f661"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue dot",
+    "sanitizedSymbol": "BLUE_DOT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1322447",
+    "lockerAddress": "0xD3Ff2ABfdcc5dD73805D66bfCd7836994944D30d"
+  },
+  "clankerInfo": null
+}

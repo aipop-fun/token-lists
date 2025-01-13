@@ -1,0 +1,22 @@
+{
+  "name": "Dumbass Capital LLC",
+  "symbol": "Dumbass Capital LLC",
+  "decimals": 18,
+  "description": "Dumbass Capital LLC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dumbass%20Capital%20LLC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dumbass Capital LLC",
+  "addresses": {
+    "8453": "0x19705fcdd360a3915f03c5ee4add4dccf3a2d7aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dumbass Capital LLC",
+    "sanitizedSymbol": "DUMBASS_CAPITAL_LLC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229197",
+    "lockerAddress": "0x40529b632308a15Eaf41b39842Ca4B33a5A90348"
+  },
+  "clankerInfo": null
+}

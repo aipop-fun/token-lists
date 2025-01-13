@@ -1,0 +1,22 @@
+{
+  "name": "Yoink the Flag",
+  "symbol": "Yoink the Flag",
+  "decimals": 18,
+  "description": "Yoink the Flag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yoink%20the%20Flag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yoink the Flag",
+  "addresses": {
+    "8453": "0x0dd435f6eb35c181c1eb0902b2690661d408fe25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yoink the Flag",
+    "sanitizedSymbol": "YOINK_THE_FLAG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x29C33ac6Db1D16fdebe471c652585190905DfD04",
+    "lpNftId": "1348177",
+    "lockerAddress": "0x4dFbd39A6F8fAeaF0FA7753f6429643e6b988aCA"
+  },
+  "clankerInfo": null
+}

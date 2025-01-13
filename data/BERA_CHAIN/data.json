@@ -1,0 +1,22 @@
+{
+  "name": "Bera Chain",
+  "symbol": "Bera Chain",
+  "decimals": 18,
+  "description": "Bera Chain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bera%20Chain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bera Chain",
+  "addresses": {
+    "8453": "0x1aaa02445e4c572fa5a0dbf3a6c09678d93897e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bera Chain",
+    "sanitizedSymbol": "BERA_CHAIN",
+    "created_at": "2024-12-10T05:50:31.684743",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1397152",
+    "lockerAddress": "0x0D2057ca827261093d749cdbE878c5A21c3632A1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tulbo Loppe",
+  "symbol": "Tulbo Loppe",
+  "decimals": 18,
+  "description": "Tulbo Loppe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tulbo%20Loppe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tulbo Loppe",
+  "addresses": {
+    "8453": "0x2aed7a11fe457fc90ee73e5ded6164c5205c4923"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tulbo Loppe",
+    "sanitizedSymbol": "TULBO_LOPPE",
+    "created_at": "2024-12-12T20:34:20.747693",
+    "deployer": "0xaA45EF11aDAb70e90cc369ff25DEFf64a912B68E",
+    "lpNftId": "1442415",
+    "lockerAddress": "0x06aa3D42Bc03eEa47C5f08C64d857661685f1fBd"
+  },
+  "clankerInfo": null
+}

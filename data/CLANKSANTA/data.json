@@ -1,0 +1,22 @@
+{
+  "name": "ClankSanta",
+  "symbol": "ClankSanta",
+  "decimals": 18,
+  "description": "ClankSanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankSanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankSanta",
+  "addresses": {
+    "8453": "0x0cc534bf48943ffed6c648cee6ed75ccb783c272"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankSanta",
+    "sanitizedSymbol": "CLANKSANTA",
+    "created_at": "2024-12-10T04:57:19.421692",
+    "deployer": "0xDE25d943bC656d0eD18535A51BbA4e31024254Da",
+    "lpNftId": "1396646",
+    "lockerAddress": "0x13D5C0A2aCBDD6C2E6429a83166869C6d45Da8C3"
+  },
+  "clankerInfo": null
+}

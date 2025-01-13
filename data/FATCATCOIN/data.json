@@ -1,0 +1,22 @@
+{
+  "name": "FatCatCoin",
+  "symbol": "FatCatCoin",
+  "decimals": 18,
+  "description": "FatCatCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FatCatCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FatCatCoin",
+  "addresses": {
+    "8453": "0x26444334b0b5a18fa9876c3e0616694236667545"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FatCatCoin",
+    "sanitizedSymbol": "FATCATCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1365930",
+    "lockerAddress": "0x62BF9D867D1983D46e9865830e1AC99Bf4C05941"
+  },
+  "clankerInfo": null
+}

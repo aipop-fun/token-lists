@@ -1,0 +1,22 @@
+{
+  "name": "DELTA TOKEN",
+  "symbol": "DELTA TOKEN",
+  "decimals": 18,
+  "description": "DELTA TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DELTA%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DELTA TOKEN",
+  "addresses": {
+    "8453": "0x0084ad3de57fdaf518311ad7462747db8011a7b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DELTA TOKEN",
+    "sanitizedSymbol": "DELTA_TOKEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1265509",
+    "lockerAddress": "0x214875C61AB4CF9A9fd52B039447016455e0BF08"
+  },
+  "clankerInfo": null
+}

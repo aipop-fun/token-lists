@@ -1,0 +1,22 @@
+{
+  "name": "BlackCatWukongBase",
+  "symbol": "BlackCatWukongBase",
+  "decimals": 18,
+  "description": "BlackCatWukongBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlackCatWukongBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlackCatWukongBase",
+  "addresses": {
+    "8453": "0x177e5a490e0bec85e6e06f8ed8eb54417e41ab02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlackCatWukongBase",
+    "sanitizedSymbol": "BLACKCATWUKONGBASE",
+    "created_at": "2024-12-11T17:22:21.928027",
+    "deployer": "0xDd0AEFF4D04094EB5D50E605d83983ca9EacFA97",
+    "lpNftId": "1422424",
+    "lockerAddress": "0xf17fD66658313E2A550baE38B70eBb377f86Dcc3"
+  },
+  "clankerInfo": null
+}

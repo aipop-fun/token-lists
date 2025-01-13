@@ -1,0 +1,22 @@
+{
+  "name": "MediocreToken",
+  "symbol": "MediocreToken",
+  "decimals": 18,
+  "description": "MediocreToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MediocreToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MediocreToken",
+  "addresses": {
+    "8453": "0x24ec9faaf37e0388860682ef4c637851d9b49743"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MediocreToken",
+    "sanitizedSymbol": "MEDIOCRETOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235493",
+    "lockerAddress": "0x5Aa696f439643041eEb2feD393566C96389d791a"
+  },
+  "clankerInfo": null
+}

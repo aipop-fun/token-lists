@@ -1,0 +1,22 @@
+{
+  "name": "FLUX",
+  "symbol": "FLUX",
+  "decimals": 18,
+  "description": "FLUX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLUX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLUX",
+  "addresses": {
+    "8453": "0x0073e1abfc3187bbd1fcbb61dcec9f9dcaab05e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLUX",
+    "sanitizedSymbol": "FLUX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeB7122BEB895f31aA83871cCd1219306d9e302Be",
+    "lpNftId": "1285212",
+    "lockerAddress": "0x89C821139c5862Fb0984c50001d7c53576cDEB76"
+  },
+  "clankerInfo": null
+}

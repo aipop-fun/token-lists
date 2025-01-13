@@ -1,0 +1,22 @@
+{
+  "name": "RektReis",
+  "symbol": "RektReis",
+  "decimals": 18,
+  "description": "RektReis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RektReis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RektReis",
+  "addresses": {
+    "8453": "0x350cb7b8c57c5e00c847747b5f9d47a34423c69d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RektReis",
+    "sanitizedSymbol": "REKTREIS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159943",
+    "lockerAddress": "0x3aA9724aB8eA307dED0bFDA18fA47921D7Be7Ffe"
+  },
+  "clankerInfo": null
+}

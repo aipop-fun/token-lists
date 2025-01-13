@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Poop",
+  "symbol": "Clanker Poop",
+  "decimals": 18,
+  "description": "Clanker Poop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Poop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Poop",
+  "addresses": {
+    "8453": "0x1c175b0efa2e7f11b15c2f56344e1f3a29460f6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Poop",
+    "sanitizedSymbol": "CLANKER_POOP",
+    "created_at": "2024-12-09T04:53:20.606002",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1382633",
+    "lockerAddress": "0x507e77b0daEBb67f2a6b2287eb7aFF0C603A1AD8"
+  },
+  "clankerInfo": null
+}

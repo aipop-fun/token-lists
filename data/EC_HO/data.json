@@ -1,0 +1,22 @@
+{
+  "name": "EC_HO",
+  "symbol": "EC_HO",
+  "decimals": 18,
+  "description": "EC_HO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EC_HO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EC_HO",
+  "addresses": {
+    "8453": "0x317dfd8d4dedce7a8de4bde75dd1bea43d1ed6c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EC_HO",
+    "sanitizedSymbol": "EC_HO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210735",
+    "lockerAddress": "0x1ec3016BF8A64036F8755192E435a5Dfa53B9D9b"
+  },
+  "clankerInfo": null
+}

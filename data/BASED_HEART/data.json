@@ -1,0 +1,22 @@
+{
+  "name": "Based Heart",
+  "symbol": "Based Heart",
+  "decimals": 18,
+  "description": "Based Heart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Heart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Heart",
+  "addresses": {
+    "8453": "0x32233f9c40e4ed96299f139397a10a62d402aee1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Heart",
+    "sanitizedSymbol": "BASED_HEART",
+    "created_at": "2024-12-12T15:09:41.066989",
+    "deployer": "0xced325d7A10E8a2Abe8436a71a2c858292f851df",
+    "lpNftId": "1436770",
+    "lockerAddress": "0x57374D5DA0647e311CBe6BDc4b94e2c7605b47AB"
+  },
+  "clankerInfo": null
+}

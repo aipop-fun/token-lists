@@ -1,0 +1,22 @@
+{
+  "name": "Ghost Santa",
+  "symbol": "Ghost Santa",
+  "decimals": 18,
+  "description": "Ghost Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ghost%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ghost Santa",
+  "addresses": {
+    "8453": "0x1a1cf446a77a5b10c39c983614ddca77c966bbce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ghost Santa",
+    "sanitizedSymbol": "GHOST_SANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe0e06288d1B87EE96BB44AF6619e1A80283c49c9",
+    "lpNftId": "1318430",
+    "lockerAddress": "0x6854D8035F32e6Bb49956EeCe98bbd7B84E42fFD"
+  },
+  "clankerInfo": null
+}

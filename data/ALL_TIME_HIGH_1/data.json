@@ -1,0 +1,22 @@
+{
+  "name": "All Time High",
+  "symbol": "All Time High",
+  "decimals": 18,
+  "description": "All Time High is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=All%20Time%20High",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "All Time High",
+  "addresses": {
+    "8453": "0x1f9a0e914c5e45cdf61e936e67cfb029c7796477"
+  },
+  "tokenInfo": {
+    "originalSymbol": "All Time High",
+    "sanitizedSymbol": "ALL_TIME_HIGH_1",
+    "created_at": "2024-12-10T22:22:19.694782",
+    "deployer": "0xf528a20d5D7267e3b32035Ea7D213c1bb38eDeBc",
+    "lpNftId": "1407930",
+    "lockerAddress": "0xEDCbB0b5C008739AEfe85763f711cf8638d86DCd"
+  },
+  "clankerInfo": null
+}

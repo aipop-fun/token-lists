@@ -1,0 +1,22 @@
+{
+  "name": "ROBOCOT",
+  "symbol": "ROBOCOT",
+  "decimals": 18,
+  "description": "ROBOCOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBOCOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBOCOT",
+  "addresses": {
+    "8453": "0x39e02b948d497e463dfa1c0806bfbb4e38d11ea1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBOCOT",
+    "sanitizedSymbol": "ROBOCOT",
+    "created_at": "2024-12-12T15:41:06.872105",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1437258",
+    "lockerAddress": "0xb0adbaf8ab27fAbDe64f913597Bf847627318fd9"
+  },
+  "clankerInfo": null
+}

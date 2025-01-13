@@ -1,0 +1,22 @@
+{
+  "name": "Clanker No Halls",
+  "symbol": "Clanker No Halls",
+  "decimals": 18,
+  "description": "Clanker No Halls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20No%20Halls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker No Halls",
+  "addresses": {
+    "8453": "0x0859aea334620b505c52cc8d6c4566dbd800a97f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker No Halls",
+    "sanitizedSymbol": "CLANKER_NO_HALLS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8672b419874bD0A47badde404371Fc1aE0dc1ba0",
+    "lpNftId": "1283772",
+    "lockerAddress": "0x44FE9D099800eC15120983431df46D4a2D44e89B"
+  },
+  "clankerInfo": null
+}

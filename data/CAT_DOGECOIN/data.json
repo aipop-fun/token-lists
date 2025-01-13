@@ -1,0 +1,22 @@
+{
+  "name": "CAT&DOGEcoin",
+  "symbol": "CAT&DOGEcoin",
+  "decimals": 18,
+  "description": "CAT&DOGEcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT%26DOGEcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT&DOGEcoin",
+  "addresses": {
+    "8453": "0x38c2d6cd3531fcb55d2e4572da987374b875a469"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT&DOGEcoin",
+    "sanitizedSymbol": "CAT_DOGECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34B09CAAdFf3500De1aA060Fc424286aB55d6640",
+    "lpNftId": "1320978",
+    "lockerAddress": "0xF5071084B15f0154A9d8b1BF4F02dEf7f4de8E30"
+  },
+  "clankerInfo": null
+}

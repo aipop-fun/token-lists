@@ -1,0 +1,22 @@
+{
+  "name": "Base Octopus",
+  "symbol": "Base Octopus",
+  "decimals": 18,
+  "description": "Base Octopus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Octopus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Octopus",
+  "addresses": {
+    "8453": "0x10e4a1f1d15f1e4deabe8b58805312e65bdb919a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Octopus",
+    "sanitizedSymbol": "BASE_OCTOPUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x469F7fAb9343857e0ACE8BE9a5169ac24B24e396",
+    "lpNftId": "1292091",
+    "lockerAddress": "0x07D8BedE4926fc612ef11d9baA2e8E49a22782A1"
+  },
+  "clankerInfo": null
+}

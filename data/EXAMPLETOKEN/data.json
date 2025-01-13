@@ -1,0 +1,22 @@
+{
+  "name": "ExampleToken",
+  "symbol": "ExampleToken",
+  "decimals": 18,
+  "description": "ExampleToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ExampleToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ExampleToken",
+  "addresses": {
+    "8453": "0x0ae4e82bbfe18dd232eb6c56d323854766aeddd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ExampleToken",
+    "sanitizedSymbol": "EXAMPLETOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237472",
+    "lockerAddress": "0xa945Fe7Bc076977c0489fa2111C5cC89919969c7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "M3M3",
+  "symbol": "M3M3",
+  "decimals": 18,
+  "description": "M3M3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=M3M3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "M3M3",
+  "addresses": {
+    "8453": "0x39c7f09c6b6c47fcd20f73e1569438a35bd6120f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "M3M3",
+    "sanitizedSymbol": "M3M3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfe2eF67DFd47636F64d7903e4B1c2513aee963dF",
+    "lpNftId": "1289968",
+    "lockerAddress": "0xCF83a7D16c97cee18D9e7F99d6eC21b6beACE48d"
+  },
+  "clankerInfo": null
+}

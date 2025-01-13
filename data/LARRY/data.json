@@ -1,0 +1,22 @@
+{
+  "name": "Larry",
+  "symbol": "Larry",
+  "decimals": 18,
+  "description": "Larry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Larry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Larry",
+  "addresses": {
+    "8453": "0x2eb80e71af67c723e370b5419cd5c389a4a2b5f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Larry",
+    "sanitizedSymbol": "LARRY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1283800",
+    "lockerAddress": "0x4EECe310c622D53da8f85911dc5b7A0c0Ea61059"
+  },
+  "clankerInfo": null
+}

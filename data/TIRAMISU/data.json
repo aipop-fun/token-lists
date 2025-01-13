@@ -1,0 +1,22 @@
+{
+  "name": "tiramisu",
+  "symbol": "tiramisu",
+  "decimals": 18,
+  "description": "tiramisu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tiramisu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tiramisu",
+  "addresses": {
+    "8453": "0x296368ee4f3cd29b2f241445091730a114899188"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tiramisu",
+    "sanitizedSymbol": "TIRAMISU",
+    "created_at": "2024-12-09T15:46:43.622139",
+    "deployer": "0x74Ed4b81890739185a04634Ef037C4B3b4Bf53ba",
+    "lpNftId": "1388761",
+    "lockerAddress": "0x8bde3dF2c04073761BC1Fe8DBA91177153588699"
+  },
+  "clankerInfo": null
+}

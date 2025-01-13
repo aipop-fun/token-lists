@@ -1,0 +1,22 @@
+{
+  "name": "punksquare",
+  "symbol": "punksquare",
+  "decimals": 18,
+  "description": "punksquare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=punksquare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "punksquare",
+  "addresses": {
+    "8453": "0x2ef209ab9228c4104e107411b1ff048a8213549f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "punksquare",
+    "sanitizedSymbol": "PUNKSQUARE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1309565",
+    "lockerAddress": "0x7a2d73eA4FA77d988dA762Cdd81b0331CACd6EF9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "I'll be back",
+  "symbol": "I'll be back",
+  "decimals": 18,
+  "description": "I'll be back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I'll%20be%20back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I'll be back",
+  "addresses": {
+    "8453": "0x343c6fcee67671c6f389197e0e7962eef4c3f644"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I'll be back",
+    "sanitizedSymbol": "I_LL_BE_BACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130699",
+    "lockerAddress": "0x62179762051A38163241992019FFa49f4B23900a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Skynet",
+  "symbol": "Skynet",
+  "decimals": 18,
+  "description": "Skynet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skynet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skynet",
+  "addresses": {
+    "8453": "0x299c1bcb46c21a3146b4af3f6b4560e7035ef75a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skynet",
+    "sanitizedSymbol": "SKYNET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229699",
+    "lockerAddress": "0x0a10Bfe187181e43fc28AB36421488AF31F11C0e"
+  },
+  "clankerInfo": null
+}

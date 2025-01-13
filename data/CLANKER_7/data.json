@@ -1,0 +1,22 @@
+{
+  "name": "Clanker",
+  "symbol": "Clanker",
+  "decimals": 18,
+  "description": "Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker",
+  "addresses": {
+    "8453": "0x382fdf181fa43063fa41fa5f285aaec3bd5aac83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker",
+    "sanitizedSymbol": "CLANKER_7",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205508",
+    "lockerAddress": "0x8f3b782E94F00266e016A9B38724A615fbF6A717"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TSUNAMI",
+  "symbol": "TSUNAMI",
+  "decimals": 18,
+  "description": "TSUNAMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TSUNAMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TSUNAMI",
+  "addresses": {
+    "8453": "0x3a2db573ee6d8537205844ae9119de7192a5cce7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TSUNAMI",
+    "sanitizedSymbol": "TSUNAMI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x108887066628c7bE8016deb372A79582dd1e21cD",
+    "lpNftId": "1335981",
+    "lockerAddress": "0x8f63bf037125F0bbdF95f034e66F8D017d17d5e0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eth.fi",
+  "symbol": "eth.fi",
+  "decimals": 18,
+  "description": "eth.fi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eth.fi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eth.fi",
+  "addresses": {
+    "8453": "0x3d7a519e8d5ded77b8ae3d716e83f3693bcaf288"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eth.fi",
+    "sanitizedSymbol": "ETH_FI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x498b57F6296fe88a2c080F6799439fe834E37A4F",
+    "lpNftId": "1293959",
+    "lockerAddress": "0x1c18D96da492fB57AdE41da386afeAF4EE5404Ed"
+  },
+  "clankerInfo": null
+}

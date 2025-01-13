@@ -1,0 +1,22 @@
+{
+  "name": "NON BRIDGE",
+  "symbol": "NON BRIDGE",
+  "decimals": 18,
+  "description": "NON BRIDGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NON%20BRIDGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NON BRIDGE",
+  "addresses": {
+    "8453": "0x1a12484f3a8cc4ab31c4bc260863e2a1dc51063f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NON BRIDGE",
+    "sanitizedSymbol": "NON_BRIDGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1233260",
+    "lockerAddress": "0x8E25dc4Db1F621A1ed4347A52eebb8b256A30Fd3"
+  },
+  "clankerInfo": null
+}

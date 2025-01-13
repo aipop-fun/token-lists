@@ -1,0 +1,22 @@
+{
+  "name": "PT Caster",
+  "symbol": "PT Caster",
+  "decimals": 18,
+  "description": "PT Caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PT%20Caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PT Caster",
+  "addresses": {
+    "8453": "0x1d1cbafb252436a99155f18892c5fd84ef355c32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PT Caster",
+    "sanitizedSymbol": "PT_CASTER",
+    "created_at": "2024-12-11T08:01:49.135138",
+    "deployer": "0x4208C9f1fcebD37bdA2d21eA783E5dc7E0A2978a",
+    "lpNftId": "1414529",
+    "lockerAddress": "0x66fe8A1068b6E213FBA5275E3E79334a37e91FB0"
+  },
+  "clankerInfo": null
+}

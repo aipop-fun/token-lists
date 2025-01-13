@@ -1,0 +1,22 @@
+{
+  "name": "SOLTO",
+  "symbol": "SOLTO",
+  "decimals": 18,
+  "description": "SOLTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SOLTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SOLTO",
+  "addresses": {
+    "8453": "0x01d5d7957a6fb3574d36205ed9be9abd48a0399f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SOLTO",
+    "sanitizedSymbol": "SOLTO",
+    "created_at": "2024-12-11T16:15:11.411218",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1421594",
+    "lockerAddress": "0xD88f35E767519502A8Ef8DE19aDbE785b85B739B"
+  },
+  "clankerInfo": null
+}

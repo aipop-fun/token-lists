@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin Purple",
+  "symbol": "Bitcoin Purple",
+  "decimals": 18,
+  "description": "Bitcoin Purple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20Purple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin Purple",
+  "addresses": {
+    "8453": "0x411d9bb76b0419ab92f69e834fdb0f8a7b9a85a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin Purple",
+    "sanitizedSymbol": "BITCOIN_PURPLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5259dAf51a4311637216Ece9c005e6f551114A4B",
+    "lpNftId": "1333733",
+    "lockerAddress": "0x32633E4dC425B6873aC99129533F6f93959Ce80f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERSEEDS",
+  "symbol": "CLANKERSEEDS",
+  "decimals": 18,
+  "description": "CLANKERSEEDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERSEEDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERSEEDS",
+  "addresses": {
+    "8453": "0x3d1df90e19f45df77e7a157385bdc1a1366af3bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERSEEDS",
+    "sanitizedSymbol": "CLANKERSEEDS",
+    "created_at": "2024-12-12T03:29:59.341075",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1428904",
+    "lockerAddress": "0xCd497E7a13B7dE47810af9C39EFeD7F30AbBeA77"
+  },
+  "clankerInfo": null
+}

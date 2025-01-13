@@ -1,0 +1,22 @@
+{
+  "name": "Chill Degen",
+  "symbol": "Chill Degen",
+  "decimals": 18,
+  "description": "Chill Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Degen",
+  "addresses": {
+    "8453": "0x19e47c99d4e9fa8fc50f9847dbc434a743b08e4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Degen",
+    "sanitizedSymbol": "CHILL_DEGEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229200",
+    "lockerAddress": "0xCad406d61f1b03FD4B792854f4F1097F664FAc68"
+  },
+  "clankerInfo": null
+}

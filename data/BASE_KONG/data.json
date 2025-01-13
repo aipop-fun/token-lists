@@ -1,0 +1,22 @@
+{
+  "name": "Base kong",
+  "symbol": "Base kong",
+  "decimals": 18,
+  "description": "Base kong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20kong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base kong",
+  "addresses": {
+    "8453": "0x27de0bd51586627e8fcebd887860e382eda77d78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base kong",
+    "sanitizedSymbol": "BASE_KONG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE1a3ECeC800193cEd135AA0ea04b434e7492EC67",
+    "lpNftId": "1327620",
+    "lockerAddress": "0xE38Cd03263d2ce5576c0591C94C68edFf8d3315C"
+  },
+  "clankerInfo": null
+}

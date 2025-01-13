@@ -1,0 +1,22 @@
+{
+  "name": "BabyMOVE",
+  "symbol": "BabyMOVE",
+  "decimals": 18,
+  "description": "BabyMOVE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyMOVE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyMOVE",
+  "addresses": {
+    "8453": "0x1fdc9a8618c1e27ff589dbb041b78446e6da4216"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyMOVE",
+    "sanitizedSymbol": "BABYMOVE_1",
+    "created_at": "2024-12-10T11:43:50.990154",
+    "deployer": "0x1De2ec94246BEe507e4EA2723e7166049e90D1Df",
+    "lpNftId": "1400367",
+    "lockerAddress": "0xFdb91A806631e1056180aE08554BeD5E013Fad4E"
+  },
+  "clankerInfo": null
+}

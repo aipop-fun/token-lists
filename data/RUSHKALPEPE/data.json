@@ -1,0 +1,22 @@
+{
+  "name": "rushkalpepe",
+  "symbol": "rushkalpepe",
+  "decimals": 18,
+  "description": "rushkalpepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rushkalpepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rushkalpepe",
+  "addresses": {
+    "8453": "0x21bf7640d587107e26b77465127d92017e16ddfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rushkalpepe",
+    "sanitizedSymbol": "RUSHKALPEPE",
+    "created_at": "2024-12-12T16:51:01.816347",
+    "deployer": "0x98067E6Ded266BAaA2F4d393B00dC3caA3b34A2D",
+    "lpNftId": "1438892",
+    "lockerAddress": "0x58768094677dEDE7f55ce81C8CBeD01046cf2Ed8"
+  },
+  "clankerInfo": null
+}

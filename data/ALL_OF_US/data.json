@@ -1,0 +1,22 @@
+{
+  "name": "ALL OF US",
+  "symbol": "ALL OF US",
+  "decimals": 18,
+  "description": "ALL OF US is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALL%20OF%20US",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALL OF US",
+  "addresses": {
+    "8453": "0x30b1276333088e06ec26d56af3ae2aa4dcace4a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALL OF US",
+    "sanitizedSymbol": "ALL_OF_US",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0d18c17aef629f4ea57C6D1372695a7641204925",
+    "lpNftId": "1325074",
+    "lockerAddress": "0x2b87e700EDa19fd8D7Ea65C1742f423F8AAF85DF"
+  },
+  "clankerInfo": null
+}

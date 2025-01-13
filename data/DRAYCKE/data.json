@@ -1,0 +1,22 @@
+{
+  "name": "Draycke",
+  "symbol": "Draycke",
+  "decimals": 18,
+  "description": "Draycke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Draycke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Draycke",
+  "addresses": {
+    "8453": "0x2aeb818eac000b760307eb6fd84ac88c6e0e7bde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Draycke",
+    "sanitizedSymbol": "DRAYCKE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3eE75b599c076193b81885Ca1838e560d268aAD1",
+    "lpNftId": "1323153",
+    "lockerAddress": "0x028bdAF31cA8E2b2E7fCabC303C6C2EEbB8cb763"
+  },
+  "clankerInfo": null
+}

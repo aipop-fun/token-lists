@@ -1,0 +1,22 @@
+{
+  "name": "Anon interface",
+  "symbol": "Anon interface",
+  "decimals": 18,
+  "description": "Anon interface is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20interface",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon interface",
+  "addresses": {
+    "8453": "0x0f66384454e8d1489830427db18554b315ba5c81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon interface",
+    "sanitizedSymbol": "ANON_INTERFACE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAD4c9F10a8d85c18D2B23379a27B0154fdDFeF42",
+    "lpNftId": "1330063",
+    "lockerAddress": "0xBF2DDA938fD841d7861cDfd3Ac25bd6838CEF015"
+  },
+  "clankerInfo": null
+}

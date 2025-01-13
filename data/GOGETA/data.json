@@ -1,0 +1,22 @@
+{
+  "name": "GoGeTa",
+  "symbol": "GoGeTa",
+  "decimals": 18,
+  "description": "GoGeTa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoGeTa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoGeTa",
+  "addresses": {
+    "8453": "0x37065371c632ed1718fef402a08499b23c12df4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoGeTa",
+    "sanitizedSymbol": "GOGETA",
+    "created_at": "2024-12-11T22:04:43.594509",
+    "deployer": "0xDE25d943bC656d0eD18535A51BbA4e31024254Da",
+    "lpNftId": "1426854",
+    "lockerAddress": "0x50372497645D5B08b8d91BC7C065e14512b658d9"
+  },
+  "clankerInfo": null
+}

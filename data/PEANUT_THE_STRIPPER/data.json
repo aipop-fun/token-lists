@@ -1,0 +1,22 @@
+{
+  "name": "Peanut the Stripper",
+  "symbol": "Peanut the Stripper",
+  "decimals": 18,
+  "description": "Peanut the Stripper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Peanut%20the%20Stripper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Peanut the Stripper",
+  "addresses": {
+    "8453": "0x40b54e8500d6b1b6af7eab6667ec87b7f00a7fb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Peanut the Stripper",
+    "sanitizedSymbol": "PEANUT_THE_STRIPPER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7C4002ff8f3292F7A4F43B0776d0ED7EE9d4f2b8",
+    "lpNftId": "1306110",
+    "lockerAddress": "0x7ED5d4C6CF0c1Ee5e57B4068DAeD0dD7548e7458"
+  },
+  "clankerInfo": null
+}

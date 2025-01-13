@@ -1,0 +1,22 @@
+{
+  "name": "shield protect",
+  "symbol": "shield protect",
+  "decimals": 18,
+  "description": "shield protect is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shield%20protect",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shield protect",
+  "addresses": {
+    "8453": "0x1062aabcaf6f79c551ee3d63a917576f99bf75d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shield protect",
+    "sanitizedSymbol": "SHIELD_PROTECT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1326617",
+    "lockerAddress": "0xe3dd0267fF716fA4a52b2BDaCBBe5CCd40Dd8A6D"
+  },
+  "clankerInfo": null
+}

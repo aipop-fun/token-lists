@@ -1,0 +1,22 @@
+{
+  "name": "Astralis",
+  "symbol": "Astralis",
+  "decimals": 18,
+  "description": "Astralis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Astralis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Astralis",
+  "addresses": {
+    "8453": "0x0dc7bc4ef2785470e30c12359fa4e90e8b6fe294"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Astralis",
+    "sanitizedSymbol": "ASTRALIS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173075",
+    "lockerAddress": "0x52da4B9384ec136befff5a05686570330b7124E2"
+  },
+  "clankerInfo": null
+}

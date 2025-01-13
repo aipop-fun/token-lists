@@ -1,0 +1,22 @@
+{
+  "name": "Kooky",
+  "symbol": "Kooky",
+  "decimals": 18,
+  "description": "Kooky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kooky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kooky",
+  "addresses": {
+    "8453": "0x3f6a4749acb50672aad81afdc2e0d330ac02137a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kooky",
+    "sanitizedSymbol": "KOOKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217945",
+    "lockerAddress": "0x56A80CA0fc1283D3d8b7DdD314416AB31830165f"
+  },
+  "clankerInfo": null
+}

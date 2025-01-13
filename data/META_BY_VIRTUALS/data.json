@@ -1,0 +1,22 @@
+{
+  "name": "META by Virtuals",
+  "symbol": "META by Virtuals",
+  "decimals": 18,
+  "description": "META by Virtuals is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=META%20by%20Virtuals",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "META by Virtuals",
+  "addresses": {
+    "8453": "0x13a81c1d633d6cc9546fbd9307dbb2eb983f1fc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "META by Virtuals",
+    "sanitizedSymbol": "META_BY_VIRTUALS",
+    "created_at": "2024-12-10T16:24:38.9126",
+    "deployer": "0xF88fA5DD818A5eb84BACB370e844688215f9F607",
+    "lpNftId": "1403957",
+    "lockerAddress": "0xcDB01927A4144f6aeabBbbfDa2aBE049c0474B01"
+  },
+  "clankerInfo": null
+}

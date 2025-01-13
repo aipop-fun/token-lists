@@ -1,0 +1,22 @@
+{
+  "name": "Rain Maker",
+  "symbol": "Rain Maker",
+  "decimals": 18,
+  "description": "Rain Maker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rain%20Maker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rain Maker",
+  "addresses": {
+    "8453": "0x15a9b897ed98187107999c60b2da832b32843486"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rain Maker",
+    "sanitizedSymbol": "RAIN_MAKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3402AcA642DdB9C322872Dd84a3d4e2F1C17eFF2",
+    "lpNftId": "1330195",
+    "lockerAddress": "0x01AEAfB43922321840c5CE2D701781056403Abb3"
+  },
+  "clankerInfo": null
+}

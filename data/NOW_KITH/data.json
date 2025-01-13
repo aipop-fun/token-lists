@@ -1,0 +1,22 @@
+{
+  "name": "Now Kith",
+  "symbol": "Now Kith",
+  "decimals": 18,
+  "description": "Now Kith is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Now%20Kith",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Now Kith",
+  "addresses": {
+    "8453": "0x19c68945c4406be166f75b1c258a6c07d0a3dd4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Now Kith",
+    "sanitizedSymbol": "NOW_KITH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159414",
+    "lockerAddress": "0xe0060a5010bF4bc2D4E49Fac7aF79C8bdd1FD3D1"
+  },
+  "clankerInfo": null
+}

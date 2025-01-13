@@ -1,0 +1,22 @@
+{
+  "name": "BasedBlizten",
+  "symbol": "BasedBlizten",
+  "decimals": 18,
+  "description": "BasedBlizten is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedBlizten",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedBlizten",
+  "addresses": {
+    "8453": "0x234d1df1cdd722938baa20de9b791ef0741dd4bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedBlizten",
+    "sanitizedSymbol": "BASEDBLIZTEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x299bbD0E4d32abD34CB4c8fB2Fd9458b496aC4c7",
+    "lpNftId": "1264776",
+    "lockerAddress": "0xD2147Aa4dF9ba1A7f9A535169FCF4471676A4279"
+  },
+  "clankerInfo": null
+}

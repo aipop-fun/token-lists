@@ -1,0 +1,22 @@
+{
+  "name": "Mega Anon",
+  "symbol": "Mega Anon",
+  "decimals": 18,
+  "description": "Mega Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mega%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mega Anon",
+  "addresses": {
+    "8453": "0x185714e512e7cda6ec7db5f91b6a3a12b58b97ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mega Anon",
+    "sanitizedSymbol": "MEGA_ANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152093",
+    "lockerAddress": "0x42be2DaBF537E5E6AA35F39813c57db06fB16F7D"
+  },
+  "clankerInfo": null
+}

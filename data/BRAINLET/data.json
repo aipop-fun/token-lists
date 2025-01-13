@@ -1,0 +1,22 @@
+{
+  "name": "BRAINLET",
+  "symbol": "BRAINLET",
+  "decimals": 18,
+  "description": "BRAINLET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRAINLET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRAINLET",
+  "addresses": {
+    "8453": "0x0e43a1385568add4d97a320aca482f82bd55f3db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRAINLET",
+    "sanitizedSymbol": "BRAINLET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1308863",
+    "lockerAddress": "0x9beF0d8E2946360cbD24d5593eF22822314709f0"
+  },
+  "clankerInfo": null
+}

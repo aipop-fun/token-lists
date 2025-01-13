@@ -1,0 +1,22 @@
+{
+  "name": "CLANKERUP",
+  "symbol": "CLANKERUP",
+  "decimals": 18,
+  "description": "CLANKERUP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKERUP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKERUP",
+  "addresses": {
+    "8453": "0x30361105f0d8efd7ec4bbc477640c0a9fae4cba8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKERUP",
+    "sanitizedSymbol": "CLANKERUP",
+    "created_at": "2024-12-12T12:46:11.952662",
+    "deployer": "0x74bA4F0A218B1c7722e6654133dA206C277263Da",
+    "lpNftId": "1434225",
+    "lockerAddress": "0x53ED45CE157d4683f7d5C735167C7A6702ea3eEE"
+  },
+  "clankerInfo": null
+}

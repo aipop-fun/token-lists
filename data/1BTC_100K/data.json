@@ -1,0 +1,22 @@
+{
+  "name": "1BTC=100K",
+  "symbol": "1BTC=100K",
+  "decimals": 18,
+  "description": "1BTC=100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1BTC%3D100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1BTC=100K",
+  "addresses": {
+    "8453": "0x34be70b90d6e6f86f3142d5c9f1749dc0d19d03e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1BTC=100K",
+    "sanitizedSymbol": "1BTC_100K",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147630",
+    "lockerAddress": "0x6ebCE584bfED7e1904948134e4c8C3e6c11b2df8"
+  },
+  "clankerInfo": null
+}

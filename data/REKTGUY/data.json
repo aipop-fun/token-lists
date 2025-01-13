@@ -1,0 +1,22 @@
+{
+  "name": "REKTGUY",
+  "symbol": "REKTGUY",
+  "decimals": 18,
+  "description": "REKTGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REKTGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REKTGUY",
+  "addresses": {
+    "8453": "0x1f0a67ff999a493e89e3278b8dfe6e017d1dc869"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REKTGUY",
+    "sanitizedSymbol": "REKTGUY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfe8cC72D95633e3a40CF3D221a609ef0C4807745",
+    "lpNftId": "1251066",
+    "lockerAddress": "0x74D3a6b998BE39dAd805b5CbA2D2AC0Da4F7708a"
+  },
+  "clankerInfo": null
+}

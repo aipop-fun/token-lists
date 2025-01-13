@@ -1,0 +1,22 @@
+{
+  "name": "nawashi",
+  "symbol": "nawashi",
+  "decimals": 18,
+  "description": "nawashi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nawashi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nawashi",
+  "addresses": {
+    "8453": "0x133130105cec5f826886d44b05db4c09643cbd34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nawashi",
+    "sanitizedSymbol": "NAWASHI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9f4e281202d019A8Ab8A444713C9571A62474Da4",
+    "lpNftId": "1268986",
+    "lockerAddress": "0x7C7c0F08494D13746d5A1c3cD5A8A0019280Da11"
+  },
+  "clankerInfo": null
+}

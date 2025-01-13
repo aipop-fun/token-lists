@@ -1,0 +1,22 @@
+{
+  "name": "Blue pill",
+  "symbol": "Blue pill",
+  "decimals": 18,
+  "description": "Blue pill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20pill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue pill",
+  "addresses": {
+    "8453": "0x048d3baf451c65d5bb4638fe9efad6b19c631832"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue pill",
+    "sanitizedSymbol": "BLUE_PILL",
+    "created_at": "2024-12-12T18:01:53.826704",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1440383",
+    "lockerAddress": "0x3CA7dE17604D389acb493A539f865822B480A56B"
+  },
+  "clankerInfo": null
+}

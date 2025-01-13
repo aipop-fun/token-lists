@@ -1,0 +1,22 @@
+{
+  "name": "Hail Mary",
+  "symbol": "Hail Mary",
+  "decimals": 18,
+  "description": "Hail Mary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hail%20Mary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hail Mary",
+  "addresses": {
+    "8453": "0x09226ecbb52e7aa703a9d1229ef5e9f52de5c203"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hail Mary",
+    "sanitizedSymbol": "HAIL_MARY",
+    "created_at": "2024-12-10T07:33:41.460904",
+    "deployer": "0x6a5F80593f6F5B5dae2df882a78A57756B6Ce616",
+    "lpNftId": "1398042",
+    "lockerAddress": "0x80a45896Fa2AA0309e60B88566958193b44CF7Fa"
+  },
+  "clankerInfo": null
+}

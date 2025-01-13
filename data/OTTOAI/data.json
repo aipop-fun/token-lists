@@ -1,0 +1,22 @@
+{
+  "name": "OTTOAI",
+  "symbol": "OTTOAI",
+  "decimals": 18,
+  "description": "OTTOAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OTTOAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OTTOAI",
+  "addresses": {
+    "8453": "0x3e3482a6bf9cbc97b96131c10dcd67e763e7161a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OTTOAI",
+    "sanitizedSymbol": "OTTOAI",
+    "created_at": "2024-12-10T13:48:59.024256",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1401576",
+    "lockerAddress": "0x50B10e69BFD2444C481DCf303f42437C2f688685"
+  },
+  "clankerInfo": null
+}

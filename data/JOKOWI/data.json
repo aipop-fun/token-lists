@@ -1,0 +1,22 @@
+{
+  "name": "jokowi",
+  "symbol": "jokowi",
+  "decimals": 18,
+  "description": "jokowi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jokowi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jokowi",
+  "addresses": {
+    "8453": "0x33a88d381b20c492c9fe61336c45acd49f0ec11a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jokowi",
+    "sanitizedSymbol": "JOKOWI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE9d1f30574C4A39b8a5D720Aee2c84CeAbe1c93b",
+    "lpNftId": "1330828",
+    "lockerAddress": "0xE2274311f93E26AD895B1C21ab700544E8D52c06"
+  },
+  "clankerInfo": null
+}

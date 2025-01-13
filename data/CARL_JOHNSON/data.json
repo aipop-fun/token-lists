@@ -1,0 +1,22 @@
+{
+  "name": "Carl Johnson",
+  "symbol": "Carl Johnson",
+  "decimals": 18,
+  "description": "Carl Johnson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Carl%20Johnson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Carl Johnson",
+  "addresses": {
+    "8453": "0x1e5a83b42c0f2e0725646d5fa0b5fb52247a7c8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Carl Johnson",
+    "sanitizedSymbol": "CARL_JOHNSON",
+    "created_at": "2024-12-10T17:29:56.460162",
+    "deployer": "0x0cCe1bf28B673626F140b926d55d7F3A88AA0615",
+    "lpNftId": "1404644",
+    "lockerAddress": "0xce73FDC8d51d0Dbe105C770865b118f7423F1B30"
+  },
+  "clankerInfo": null
+}

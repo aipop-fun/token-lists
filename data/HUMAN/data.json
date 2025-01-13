@@ -1,0 +1,22 @@
+{
+  "name": "Human",
+  "symbol": "Human",
+  "decimals": 18,
+  "description": "Human is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Human",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Human",
+  "addresses": {
+    "8453": "0x28e2d3aadec6d5b084a8d562d1507b17f9b4ed90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Human",
+    "sanitizedSymbol": "HUMAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43d9A5Cb3c0299E3De882E10036eE9DE0497f234",
+    "lpNftId": "1360432",
+    "lockerAddress": "0x11A3033d002C69Eb8AF0B846BBc494D51efbbAe4"
+  },
+  "clankerInfo": null
+}

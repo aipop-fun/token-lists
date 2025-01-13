@@ -1,0 +1,22 @@
+{
+  "name": "420",
+  "symbol": "420",
+  "decimals": 18,
+  "description": "420 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=420",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "420",
+  "addresses": {
+    "8453": "0x3ce19dc7f30911d516a1da310a92760d5eae63f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "420",
+    "sanitizedSymbol": "420_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1268380",
+    "lockerAddress": "0x7EF29A25556659B75ac413A1ccFDe7147fB736F3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MusicNOUNS",
+  "symbol": "MusicNOUNS",
+  "decimals": 18,
+  "description": "MusicNOUNS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MusicNOUNS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MusicNOUNS",
+  "addresses": {
+    "8453": "0x0555568f6d3c72721a1b70311d6aafec9a62ec50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MusicNOUNS",
+    "sanitizedSymbol": "MUSICNOUNS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x90bD7151c2F0E4000C06254BBf25e6416d527b7d",
+    "lpNftId": "1302322",
+    "lockerAddress": "0x5E9C829409E8B79eB913f8B85A1eBFCa0841600D"
+  },
+  "clankerInfo": null
+}

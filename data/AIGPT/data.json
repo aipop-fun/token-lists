@@ -1,0 +1,22 @@
+{
+  "name": "AIGPT",
+  "symbol": "AIGPT",
+  "decimals": 18,
+  "description": "AIGPT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIGPT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIGPT",
+  "addresses": {
+    "8453": "0x0b54ea917c2251009511459cdd1c4f573ed0d59e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIGPT",
+    "sanitizedSymbol": "AIGPT",
+    "created_at": "2024-12-09T08:30:54.095763",
+    "deployer": "0xA4967b442da05EF70A26736bD5c5215299dB3feD",
+    "lpNftId": "1384707",
+    "lockerAddress": "0xBc067Eb6FeA12e68084A30204571c148E866cD20"
+  },
+  "clankerInfo": null
+}

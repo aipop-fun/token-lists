@@ -1,0 +1,22 @@
+{
+  "name": "Victim",
+  "symbol": "Victim",
+  "decimals": 18,
+  "description": "Victim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Victim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Victim",
+  "addresses": {
+    "8453": "0x2d3d872804b3bd01e2a86d9806a88737a839800a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Victim",
+    "sanitizedSymbol": "VICTIM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230007",
+    "lockerAddress": "0xd91dc5F3e8428478263B217a514939721803f0E1"
+  },
+  "clankerInfo": null
+}

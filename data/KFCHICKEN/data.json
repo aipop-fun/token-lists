@@ -1,0 +1,22 @@
+{
+  "name": "KFChicken",
+  "symbol": "KFChicken",
+  "decimals": 18,
+  "description": "KFChicken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KFChicken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KFChicken",
+  "addresses": {
+    "8453": "0x34b96c71f128d8041909756ed335f2dc79e651fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KFChicken",
+    "sanitizedSymbol": "KFCHICKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1323604",
+    "lockerAddress": "0x4B0d2AAfffaA8946436f58F4e912E54ff2090E9B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GDUPIMAN",
+  "symbol": "GDUPIMAN",
+  "decimals": 18,
+  "description": "GDUPIMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GDUPIMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GDUPIMAN",
+  "addresses": {
+    "8453": "0x047840986adc39ec1aa70521012475edf7da928e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GDUPIMAN",
+    "sanitizedSymbol": "GDUPIMAN",
+    "created_at": "2024-12-12T04:34:30.097061",
+    "deployer": "0x80dc27F34321223D4B4EfB07De80894c35189D89",
+    "lpNftId": "1429187",
+    "lockerAddress": "0x785452903Ee001EE37212e0028838C5F054C19d8"
+  },
+  "clankerInfo": null
+}

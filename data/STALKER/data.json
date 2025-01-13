@@ -1,0 +1,22 @@
+{
+  "name": "stalker",
+  "symbol": "stalker",
+  "decimals": 18,
+  "description": "stalker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stalker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stalker",
+  "addresses": {
+    "8453": "0x143443893a76eb790505f0a51c2ead2c66586480"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stalker",
+    "sanitizedSymbol": "STALKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x25441a8254AF607947c939eDa43364d55725125c",
+    "lpNftId": "1314731",
+    "lockerAddress": "0xEa6D79f3EdB1d947D5c15822a883f7ccF277c5B7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SparkToken",
+  "symbol": "SparkToken",
+  "decimals": 18,
+  "description": "SparkToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SparkToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SparkToken",
+  "addresses": {
+    "8453": "0x3e7fe90bea60027036d2f1d6ad947875071ebe0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SparkToken",
+    "sanitizedSymbol": "SPARKTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132808",
+    "lockerAddress": "0xF9B68C925C244572E34dC06870566056c3f3FF7a"
+  },
+  "clankerInfo": null
+}

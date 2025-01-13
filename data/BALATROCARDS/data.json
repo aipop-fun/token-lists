@@ -1,0 +1,22 @@
+{
+  "name": "BalatroCards",
+  "symbol": "BalatroCards",
+  "decimals": 18,
+  "description": "BalatroCards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BalatroCards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BalatroCards",
+  "addresses": {
+    "8453": "0x1bc9608fefd854bdefaa3740b13e1b47c0a5d5bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BalatroCards",
+    "sanitizedSymbol": "BALATROCARDS",
+    "created_at": "2024-12-12T10:42:47.083453",
+    "deployer": "0x5739a67b78aB3DD2B038fD198260055CE441db19",
+    "lpNftId": "1432773",
+    "lockerAddress": "0x2ed222164cD3389dB36D4e3035FedDa4F7e55ac8"
+  },
+  "clankerInfo": null
+}

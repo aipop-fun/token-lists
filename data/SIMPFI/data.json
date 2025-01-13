@@ -1,0 +1,22 @@
+{
+  "name": "SimpFi",
+  "symbol": "SimpFi",
+  "decimals": 18,
+  "description": "SimpFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SimpFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SimpFi",
+  "addresses": {
+    "8453": "0x3dd47edfc28cda43297c26739ed39c133aa733e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SimpFi",
+    "sanitizedSymbol": "SIMPFI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230944",
+    "lockerAddress": "0x3a240Ba690BAd9849AaFa1B1E8cD9586320a0C1F"
+  },
+  "clankerInfo": null
+}

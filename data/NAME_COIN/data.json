@@ -1,0 +1,22 @@
+{
+  "name": "NAME COIN",
+  "symbol": "NAME COIN",
+  "decimals": 18,
+  "description": "NAME COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NAME%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NAME COIN",
+  "addresses": {
+    "8453": "0x3f9836006e6ffbd99cb695309132cc5efa49e95a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NAME COIN",
+    "sanitizedSymbol": "NAME_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1189081",
+    "lockerAddress": "0x4C6E074F74ccb0913E56499f6Bec1eD4d695a329"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Beard Stays On",
+  "symbol": "Beard Stays On",
+  "decimals": 18,
+  "description": "Beard Stays On is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beard%20Stays%20On",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beard Stays On",
+  "addresses": {
+    "8453": "0x1e209d3cd0895bd2e713684a765319149745e704"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beard Stays On",
+    "sanitizedSymbol": "BEARD_STAYS_ON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9E1B1a9D5DCc1869beaC6712959C2b88473C0EC",
+    "lpNftId": "1286036",
+    "lockerAddress": "0x067Aeb82812a8B884E03E7cA3e6994497470a563"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wu Tang Clank",
+  "symbol": "Wu Tang Clank",
+  "decimals": 18,
+  "description": "Wu Tang Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wu%20Tang%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wu Tang Clank",
+  "addresses": {
+    "8453": "0x3209c6c837ba0b8962d1387127adf063c4dbae9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wu Tang Clank",
+    "sanitizedSymbol": "WU_TANG_CLANK",
+    "created_at": "2024-12-12T20:54:31.075677",
+    "deployer": "0x2539D003e19298e4deCa89CCAD37d00Df3D60A14",
+    "lpNftId": "1442855",
+    "lockerAddress": "0xC287aBBa87C7b459a48376bC28795b5a570a51D1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "000",
+  "symbol": "000",
+  "decimals": 18,
+  "description": "000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "000",
+  "addresses": {
+    "8453": "0x0a332e1a59a3425026a28c1a68bed1940829919d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "000",
+    "sanitizedSymbol": "000",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162165",
+    "lockerAddress": "0xD763C26dc9eF7b93CB4D0ea4D736f7632fA25A1C"
+  },
+  "clankerInfo": null
+}

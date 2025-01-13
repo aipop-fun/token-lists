@@ -1,0 +1,22 @@
+{
+  "name": "FARHUB",
+  "symbol": "FARHUB",
+  "decimals": 18,
+  "description": "FARHUB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARHUB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARHUB",
+  "addresses": {
+    "8453": "0x16c1d67a2f34434b8d05a4836364f878f537f7c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARHUB",
+    "sanitizedSymbol": "FARHUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf3785b271835C2193e8f7f906f64507Fd47538F8",
+    "lpNftId": "1306618",
+    "lockerAddress": "0x6b8455D7bBdda9b9d05cB86aDfa7006B4CeBD08A"
+  },
+  "clankerInfo": null
+}

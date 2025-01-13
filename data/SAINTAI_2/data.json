@@ -1,0 +1,22 @@
+{
+  "name": "saintAI",
+  "symbol": "saintAI",
+  "decimals": 18,
+  "description": "saintAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=saintAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "saintAI",
+  "addresses": {
+    "8453": "0x3fefaace5c4e17983497bb8222950879904ac881"
+  },
+  "tokenInfo": {
+    "originalSymbol": "saintAI",
+    "sanitizedSymbol": "SAINTAI_2",
+    "created_at": "2024-12-11T14:12:22.903838",
+    "deployer": "0x85843CA21494c93fbB4e134c5ba7b198E10bE556",
+    "lpNftId": "1419990",
+    "lockerAddress": "0x882614FF352d0c8ED311f7EB3EdFD90d5cfffb2a"
+  },
+  "clankerInfo": null
+}

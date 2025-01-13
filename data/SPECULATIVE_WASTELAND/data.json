@@ -1,0 +1,22 @@
+{
+  "name": "speculative wasteland",
+  "symbol": "speculative wasteland",
+  "decimals": 18,
+  "description": "speculative wasteland is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=speculative%20wasteland",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "speculative wasteland",
+  "addresses": {
+    "8453": "0x05310cd951c105a67ee7bc945ce5de04c0d90c8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "speculative wasteland",
+    "sanitizedSymbol": "SPECULATIVE_WASTELAND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3F869D5824aD9D5F8BC1A9C1800f46Fca1B0cF7c",
+    "lpNftId": "1324222",
+    "lockerAddress": "0x5141777d41a2dA566634C9BfFB69A12b989A9Aa0"
+  },
+  "clankerInfo": null
+}

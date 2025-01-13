@@ -1,0 +1,22 @@
+{
+  "name": "MagaMas",
+  "symbol": "MagaMas",
+  "decimals": 18,
+  "description": "MagaMas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MagaMas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MagaMas",
+  "addresses": {
+    "8453": "0x3ff75943140cbac96fe0ce01e729cf625209a5a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MagaMas",
+    "sanitizedSymbol": "MAGAMAS",
+    "created_at": "2024-12-09T15:53:05.434196",
+    "deployer": "0x38553C869d5d28ab4127EDC8Da295f656a3dBA18",
+    "lpNftId": "1388856",
+    "lockerAddress": "0x95B7F997ed3E7f389260CE764940a87368f53536"
+  },
+  "clankerInfo": null
+}

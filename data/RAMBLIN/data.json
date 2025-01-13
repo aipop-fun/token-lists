@@ -1,0 +1,22 @@
+{
+  "name": "Ramblin",
+  "symbol": "Ramblin",
+  "decimals": 18,
+  "description": "Ramblin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ramblin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ramblin",
+  "addresses": {
+    "8453": "0x03bc7908fb725996e731b84e55d7dd1b662f07e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ramblin",
+    "sanitizedSymbol": "RAMBLIN",
+    "created_at": "2024-12-10T06:56:05.059102",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397504",
+    "lockerAddress": "0xCc477a03Cdaac5E1c25525566aC3D45e1d710539"
+  },
+  "clankerInfo": null
+}

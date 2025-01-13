@@ -1,0 +1,22 @@
+{
+  "name": "Nexus Cipher",
+  "symbol": "Nexus Cipher",
+  "decimals": 18,
+  "description": "Nexus Cipher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nexus%20Cipher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nexus Cipher",
+  "addresses": {
+    "8453": "0x35a280a5858b37b35627e75bda600741aba39e30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nexus Cipher",
+    "sanitizedSymbol": "NEXUS_CIPHER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221773",
+    "lockerAddress": "0x61BF182F866aF2F0f36207E29239F40A6856AFfD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SWAPSWAP",
+  "symbol": "SWAPSWAP",
+  "decimals": 18,
+  "description": "SWAPSWAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SWAPSWAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SWAPSWAP",
+  "addresses": {
+    "8453": "0x250ae48a5cb06bea189203e3eca3b528b712bac2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SWAPSWAP",
+    "sanitizedSymbol": "SWAPSWAP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1322014",
+    "lockerAddress": "0x894e34C484C55a9E4B45D0aA9F0Ea39099658bb0"
+  },
+  "clankerInfo": null
+}

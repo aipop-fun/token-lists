@@ -1,0 +1,22 @@
+{
+  "name": "Deadpool",
+  "symbol": "Deadpool",
+  "decimals": 18,
+  "description": "Deadpool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deadpool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deadpool",
+  "addresses": {
+    "8453": "0x039b345b7781eaf3f07ceb9d43b15e03a6d32904"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deadpool",
+    "sanitizedSymbol": "DEADPOOL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125166",
+    "lockerAddress": "0x766B0464299C52FE43Da5D52E43d93dD71b82a67"
+  },
+  "clankerInfo": null
+}

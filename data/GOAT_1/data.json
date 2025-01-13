@@ -1,0 +1,22 @@
+{
+  "name": "Goat",
+  "symbol": "Goat",
+  "decimals": 18,
+  "description": "Goat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goat",
+  "addresses": {
+    "8453": "0x353b73d340857f1ed553c92c3af64c762d5d0824"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goat",
+    "sanitizedSymbol": "GOAT_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225279",
+    "lockerAddress": "0x756783d01678F914960E7362c7318217E83c3b79"
+  },
+  "clankerInfo": null
+}

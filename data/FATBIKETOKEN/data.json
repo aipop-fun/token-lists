@@ -1,0 +1,22 @@
+{
+  "name": "FatBikeToken",
+  "symbol": "FatBikeToken",
+  "decimals": 18,
+  "description": "FatBikeToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FatBikeToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FatBikeToken",
+  "addresses": {
+    "8453": "0x089dcfec794ffe1f837a9c7a5c19173e1d0749d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FatBikeToken",
+    "sanitizedSymbol": "FATBIKETOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB6FbA009c0Dc55f4aD3b2109000f64862db293aB",
+    "lpNftId": "1317510",
+    "lockerAddress": "0xD706C94764776a8878e7561BcB35b13332a543Fd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cheery",
+  "symbol": "Cheery",
+  "decimals": 18,
+  "description": "Cheery is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cheery",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cheery",
+  "addresses": {
+    "8453": "0x37b8501e9858b3394c7e7c3f2d21caa25d15f03d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cheery",
+    "sanitizedSymbol": "CHEERY",
+    "created_at": "2024-12-12T08:15:24.563876",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1429882",
+    "lockerAddress": "0xCE5C2f03a81BFB4bFd6F9866a92Fc1b47a90afb4"
+  },
+  "clankerInfo": null
+}

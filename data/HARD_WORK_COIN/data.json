@@ -1,0 +1,22 @@
+{
+  "name": "Hard Work Coin",
+  "symbol": "Hard Work Coin",
+  "decimals": 18,
+  "description": "Hard Work Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hard%20Work%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hard Work Coin",
+  "addresses": {
+    "8453": "0x108fa399221e22388dd5fc874c0ea13a7a7fcf48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hard Work Coin",
+    "sanitizedSymbol": "HARD_WORK_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x12f8026072fa10a5796deffE7d54b9Ea42Ff9ccD",
+    "lpNftId": "1318256",
+    "lockerAddress": "0x438b08Ca937FEA199c013f80502882BF45b0D110"
+  },
+  "clankerInfo": null
+}

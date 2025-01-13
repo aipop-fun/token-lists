@@ -1,0 +1,22 @@
+{
+  "name": "smilegoat",
+  "symbol": "smilegoat",
+  "decimals": 18,
+  "description": "smilegoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smilegoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smilegoat",
+  "addresses": {
+    "8453": "0x3f8396d218f5088b53898571d2b57f892569b679"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smilegoat",
+    "sanitizedSymbol": "SMILEGOAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf6B2c339304B4e3f37a73B5E0CAbA126958AC46E",
+    "lpNftId": "1374360",
+    "lockerAddress": "0x6130738955E6414b83a62289B09AB3A9093a8966"
+  },
+  "clankerInfo": null
+}

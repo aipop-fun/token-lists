@@ -1,0 +1,22 @@
+{
+  "name": "Builder's Celebration",
+  "symbol": "Builder's Celebration",
+  "decimals": 18,
+  "description": "Builder's Celebration is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Builder's%20Celebration",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Builder's Celebration",
+  "addresses": {
+    "8453": "0x18be1a532f91c70bf6a27f77fe396982800427cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Builder's Celebration",
+    "sanitizedSymbol": "BUILDER_S_CELEBRATION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124955",
+    "lockerAddress": "0x36c2e78BC64Ac2A6a20f592e659956f0E9f1Ff55"
+  },
+  "clankerInfo": null
+}

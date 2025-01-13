@@ -1,0 +1,22 @@
+{
+  "name": "Royal",
+  "symbol": "Royal",
+  "decimals": 18,
+  "description": "Royal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Royal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Royal",
+  "addresses": {
+    "8453": "0x187ecd1ec50131559ec135dd7aeade3567242822"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Royal",
+    "sanitizedSymbol": "ROYAL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9358c44D71FdA6aFd60675553Af16df63E27BcBc",
+    "lpNftId": "1321940",
+    "lockerAddress": "0x52054C65b8E14Fd2CBec96dC48E141FB7A1f23Be"
+  },
+  "clankerInfo": null
+}

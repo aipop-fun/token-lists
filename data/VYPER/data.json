@@ -1,0 +1,22 @@
+{
+  "name": "VYPER",
+  "symbol": "VYPER",
+  "decimals": 18,
+  "description": "VYPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VYPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VYPER",
+  "addresses": {
+    "8453": "0x39c7f5dc923f7b67898152f3c7915d87e001de82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VYPER",
+    "sanitizedSymbol": "VYPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129028",
+    "lockerAddress": "0x17daCC765bd0C49490337e20aD7064fed48529a2"
+  },
+  "clankerInfo": null
+}

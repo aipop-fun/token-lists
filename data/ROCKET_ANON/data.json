@@ -1,0 +1,22 @@
+{
+  "name": "Rocket Anon",
+  "symbol": "Rocket Anon",
+  "decimals": 18,
+  "description": "Rocket Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rocket%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rocket Anon",
+  "addresses": {
+    "8453": "0x08ba8cbaaac0f5354f49351d7c7dcd2910bc105b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rocket Anon",
+    "sanitizedSymbol": "ROCKET_ANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152323",
+    "lockerAddress": "0x42FDDA35cf210B65E43f20d74237229840756cd9"
+  },
+  "clankerInfo": null
+}

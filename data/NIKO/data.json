@@ -1,0 +1,22 @@
+{
+  "name": "NIKO",
+  "symbol": "NIKO",
+  "decimals": 18,
+  "description": "NIKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NIKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NIKO",
+  "addresses": {
+    "8453": "0x09f11546d957d26dbc46ae00f92a6e3fc9773a79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NIKO",
+    "sanitizedSymbol": "NIKO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204635",
+    "lockerAddress": "0x8AF49D9D2d5AC937b3B1A3dadCf9E24C32d073BE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HAQ",
+  "symbol": "HAQ",
+  "decimals": 18,
+  "description": "HAQ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAQ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAQ",
+  "addresses": {
+    "8453": "0x1c77f57740b2c2784682f22517dcd6048834a081"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAQ",
+    "sanitizedSymbol": "HAQ",
+    "created_at": "2024-12-09T15:45:47.64315",
+    "deployer": "0x409ADBBEF0d920Dc05a90083F1388f2D2c0205D1",
+    "lpNftId": "1388746",
+    "lockerAddress": "0xFa90E9678916e427846838562690447E718F95DC"
+  },
+  "clankerInfo": null
+}

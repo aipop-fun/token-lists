@@ -1,0 +1,22 @@
+{
+  "name": "NEYRO",
+  "symbol": "NEYRO",
+  "decimals": 18,
+  "description": "NEYRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEYRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEYRO",
+  "addresses": {
+    "8453": "0x404e9924671b54d717a6c1257ae04144d4c30246"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEYRO",
+    "sanitizedSymbol": "NEYRO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1235476",
+    "lockerAddress": "0x6B5fcACC42bd9a9571265Ec1241d3e4Ad0554797"
+  },
+  "clankerInfo": null
+}

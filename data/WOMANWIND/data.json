@@ -1,0 +1,22 @@
+{
+  "name": "WomanWind",
+  "symbol": "WomanWind",
+  "decimals": 18,
+  "description": "WomanWind is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WomanWind",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WomanWind",
+  "addresses": {
+    "8453": "0x2bafcca7de6df0967ea8ac606239c91e4df1ef17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WomanWind",
+    "sanitizedSymbol": "WOMANWIND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6684E0C8F79d37e173f85A6a9DF792a133809f49",
+    "lpNftId": "1287448",
+    "lockerAddress": "0xE700Ee120Bb640E54dA5aaF0af48987677F372eE"
+  },
+  "clankerInfo": null
+}

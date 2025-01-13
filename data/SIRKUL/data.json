@@ -1,0 +1,22 @@
+{
+  "name": "Sirkul",
+  "symbol": "Sirkul",
+  "decimals": 18,
+  "description": "Sirkul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sirkul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sirkul",
+  "addresses": {
+    "8453": "0x3b50ee85573a5f6f9d0e1a94d5df03e7845f7b13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sirkul",
+    "sanitizedSymbol": "SIRKUL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaE1A5e3b9d469b7281455A62CD1F7879ff05c7c1",
+    "lpNftId": "1310541",
+    "lockerAddress": "0x2136b2a217EA0214d3045FF30446C2f93b362418"
+  },
+  "clankerInfo": null
+}

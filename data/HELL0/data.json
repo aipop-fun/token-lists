@@ -1,0 +1,22 @@
+{
+  "name": "hELL0",
+  "symbol": "hELL0",
+  "decimals": 18,
+  "description": "hELL0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hELL0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hELL0",
+  "addresses": {
+    "8453": "0x14a737fcd319b15f270c9dce7d2023194cbf4a3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hELL0",
+    "sanitizedSymbol": "HELL0",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x614ab6edb88FEC7E6CD5E9ba83Ffc6d5a88D975F",
+    "lpNftId": "1266346",
+    "lockerAddress": "0x687e6509c64f41004F8E936660fF37963f32305A"
+  },
+  "clankerInfo": null
+}

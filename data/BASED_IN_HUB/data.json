@@ -1,0 +1,22 @@
+{
+  "name": "Based In Hub",
+  "symbol": "Based In Hub",
+  "decimals": 18,
+  "description": "Based In Hub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20In%20Hub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based In Hub",
+  "addresses": {
+    "8453": "0x0b2075babc0fb0ab7e786ad1888f1cadf9dc22d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based In Hub",
+    "sanitizedSymbol": "BASED_IN_HUB",
+    "created_at": "2024-12-09T11:30:31.46494",
+    "deployer": "0x4CCa3f44208bEe3C363868471956Af0c1E2FFf05",
+    "lpNftId": "1386483",
+    "lockerAddress": "0x789132Ff39c24dF988Ab52c90FF4153057e1cB6d"
+  },
+  "clankerInfo": null
+}

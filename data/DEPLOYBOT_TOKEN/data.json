@@ -1,0 +1,22 @@
+{
+  "name": "DeployBot Token",
+  "symbol": "DeployBot Token",
+  "decimals": 18,
+  "description": "DeployBot Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeployBot%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeployBot Token",
+  "addresses": {
+    "8453": "0x2cba8f463fbe70fc6ee639f393cb5f1b1f36eb70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeployBot Token",
+    "sanitizedSymbol": "DEPLOYBOT_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217557",
+    "lockerAddress": "0x0d190D3098642D31c0FbA61b25E6C0c0F2a1D781"
+  },
+  "clankerInfo": null
+}

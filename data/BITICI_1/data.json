@@ -1,0 +1,22 @@
+{
+  "name": "BITICI",
+  "symbol": "BITICI",
+  "decimals": 18,
+  "description": "BITICI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITICI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITICI",
+  "addresses": {
+    "8453": "0x1573fed6823fcae42cb33c32afcf92d845fd5c35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITICI",
+    "sanitizedSymbol": "BITICI_1",
+    "created_at": "2024-12-12T01:52:21.518812",
+    "deployer": "0x55D66C97A46D64AAa7Defbf09C078cfaE7aC6939",
+    "lpNftId": "1428499",
+    "lockerAddress": "0x9aa0ae4994cc2F4Af2b5b908BC25745a1F1F2ABa"
+  },
+  "clankerInfo": null
+}

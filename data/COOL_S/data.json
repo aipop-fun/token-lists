@@ -1,0 +1,22 @@
+{
+  "name": "Cool S",
+  "symbol": "Cool S",
+  "decimals": 18,
+  "description": "Cool S is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cool%20S",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cool S",
+  "addresses": {
+    "8453": "0x3a95c86086e2fbde7627ea9b5f2da7241f6a7ca8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cool S",
+    "sanitizedSymbol": "COOL_S",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222976",
+    "lockerAddress": "0xB098a309a836D9CfE7F39550b85AE5E66fD4CaE2"
+  },
+  "clankerInfo": null
+}

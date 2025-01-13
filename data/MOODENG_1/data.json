@@ -1,0 +1,22 @@
+{
+  "name": "MOODENG",
+  "symbol": "MOODENG",
+  "decimals": 18,
+  "description": "MOODENG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOODENG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOODENG",
+  "addresses": {
+    "8453": "0x235dff927007ae1824d52b134c5593e146a8cba5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOODENG",
+    "sanitizedSymbol": "MOODENG_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x44126464dCd05933b9D2945E488B84dfCaC5Da67",
+    "lpNftId": "1264904",
+    "lockerAddress": "0x4b7A87B76fDAe3bB04D69E7a3Dc0c2e37d87022f"
+  },
+  "clankerInfo": null
+}

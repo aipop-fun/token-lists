@@ -1,0 +1,22 @@
+{
+  "name": "QERY",
+  "symbol": "QERY",
+  "decimals": 18,
+  "description": "QERY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QERY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QERY",
+  "addresses": {
+    "8453": "0x0d2e72332049b65b31af282268b2192e71d061ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QERY",
+    "sanitizedSymbol": "QERY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1317337",
+    "lockerAddress": "0xaa3B4E6dD6F581577b876B505C1cB7976dED67EA"
+  },
+  "clankerInfo": null
+}

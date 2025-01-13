@@ -1,0 +1,22 @@
+{
+  "name": "TINY",
+  "symbol": "TINY",
+  "decimals": 18,
+  "description": "TINY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TINY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TINY",
+  "addresses": {
+    "8453": "0x2e5f09e99c2abbafa4737d05f93eafd9c94d4fc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TINY",
+    "sanitizedSymbol": "TINY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6a2Ad8d914b57E5E71580F73F00Fdbfc122F6F3C",
+    "lpNftId": "1320606",
+    "lockerAddress": "0xFEE21C566A29444DDE497bB5Ae1311A6BfAf4599"
+  },
+  "clankerInfo": null
+}

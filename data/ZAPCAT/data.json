@@ -1,0 +1,22 @@
+{
+  "name": "ZapCat",
+  "symbol": "ZapCat",
+  "decimals": 18,
+  "description": "ZapCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZapCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZapCat",
+  "addresses": {
+    "8453": "0x0716eea870fcf13dafd463347e27cac86927b3d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZapCat",
+    "sanitizedSymbol": "ZAPCAT",
+    "created_at": "2024-12-10T20:06:54.685666",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1406588",
+    "lockerAddress": "0x18dA687777556B0B556b28fc5EF5f7BE072B88f2"
+  },
+  "clankerInfo": null
+}

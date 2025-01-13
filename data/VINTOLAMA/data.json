@@ -1,0 +1,22 @@
+{
+  "name": "Vintolama",
+  "symbol": "Vintolama",
+  "decimals": 18,
+  "description": "Vintolama is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vintolama",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vintolama",
+  "addresses": {
+    "8453": "0x07b3595144827dc966f1cdf7419f12b8c9e9138a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vintolama",
+    "sanitizedSymbol": "VINTOLAMA",
+    "created_at": "2024-12-12T05:12:45.509955",
+    "deployer": "0x368497B2a204a0Dc643B1Ac0258Ef943e23382c5",
+    "lpNftId": "1429327",
+    "lockerAddress": "0xa75FB632cfb371d0347e0131430FD25c3209E571"
+  },
+  "clankerInfo": null
+}

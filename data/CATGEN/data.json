@@ -1,0 +1,22 @@
+{
+  "name": "CatGen",
+  "symbol": "CatGen",
+  "decimals": 18,
+  "description": "CatGen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatGen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatGen",
+  "addresses": {
+    "8453": "0x227db69852c9d6e359f46dcfe94713948c4bd17e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatGen",
+    "sanitizedSymbol": "CATGEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1138630",
+    "lockerAddress": "0xEa512a72E9342b953e757265D1e45a943a7F54B7"
+  },
+  "clankerInfo": null
+}

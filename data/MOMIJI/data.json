@@ -1,0 +1,22 @@
+{
+  "name": "MOMIJI",
+  "symbol": "MOMIJI",
+  "decimals": 18,
+  "description": "MOMIJI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOMIJI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOMIJI",
+  "addresses": {
+    "8453": "0x17e7fc680bd984184ae24f4c1382cabf8a239d41"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOMIJI",
+    "sanitizedSymbol": "MOMIJI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x772125F73A9660f296f1D1A0ad33c1010E0aE38C",
+    "lpNftId": "1286662",
+    "lockerAddress": "0x07Df0BAb81387C6d76f7Ca8594Db7a430F66dFd8"
+  },
+  "clankerInfo": null
+}

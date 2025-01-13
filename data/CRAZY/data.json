@@ -1,0 +1,22 @@
+{
+  "name": "Crazy",
+  "symbol": "Crazy",
+  "decimals": 18,
+  "description": "Crazy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crazy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crazy",
+  "addresses": {
+    "8453": "0x1a6ef9cb2034e93b8d33584089d08b684d5799ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crazy",
+    "sanitizedSymbol": "CRAZY",
+    "created_at": "2024-12-09T07:17:13.748801",
+    "deployer": "0x0Aa58b63F2cf1747C28F0E7CC4327ab0Cf6077E0",
+    "lpNftId": "1384312",
+    "lockerAddress": "0x4AF827241a11DB01Fd840864ea3D1b6f1a5A5a00"
+  },
+  "clankerInfo": null
+}

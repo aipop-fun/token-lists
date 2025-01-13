@@ -1,0 +1,22 @@
+{
+  "name": "BadDay",
+  "symbol": "BadDay",
+  "decimals": 18,
+  "description": "BadDay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BadDay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BadDay",
+  "addresses": {
+    "8453": "0x200eb6657e91fba65b9c0dced8a05b85c18a65ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BadDay",
+    "sanitizedSymbol": "BADDAY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x710ce330e997aeBdf895381d5b069d2EA3B2B301",
+    "lpNftId": "1282091",
+    "lockerAddress": "0xF134356Fbc6cF92DEF784082eFcc48c5B8A313e6"
+  },
+  "clankerInfo": null
+}

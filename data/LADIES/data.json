@@ -1,0 +1,22 @@
+{
+  "name": "Ladies",
+  "symbol": "Ladies",
+  "decimals": 18,
+  "description": "Ladies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ladies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ladies",
+  "addresses": {
+    "8453": "0x3d56d901c7a77bcc651d53cbc97cdea62fbc17ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ladies",
+    "sanitizedSymbol": "LADIES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb9B00Bf4129E36377193F6401B0563EAc6ae3153",
+    "lpNftId": "1325465",
+    "lockerAddress": "0xEAc18427b23763E24977DbE729b096223594c01E"
+  },
+  "clankerInfo": null
+}

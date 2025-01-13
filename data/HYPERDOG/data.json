@@ -1,0 +1,22 @@
+{
+  "name": "HYPERDOG",
+  "symbol": "HYPERDOG",
+  "decimals": 18,
+  "description": "HYPERDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HYPERDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HYPERDOG",
+  "addresses": {
+    "8453": "0x1f6d43d7963be8342fc9c628a5c4ab2819b19a3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HYPERDOG",
+    "sanitizedSymbol": "HYPERDOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0f44e85777C3e78a1a5e7e5c9B50e867C0e8A55e",
+    "lpNftId": "1313209",
+    "lockerAddress": "0x250aF96945a79ac2dCe9b99deD88D85022a8AC9d"
+  },
+  "clankerInfo": null
+}

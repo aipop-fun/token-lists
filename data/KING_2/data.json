@@ -1,0 +1,22 @@
+{
+  "name": "King",
+  "symbol": "King",
+  "decimals": 18,
+  "description": "King is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King",
+  "addresses": {
+    "8453": "0x01163a6b1298ba1ecee26ad9f0ac8fa3cca04eaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King",
+    "sanitizedSymbol": "KING_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6AC0Af642Aa275aaB48Dc2A45752C6dEF884a4D4",
+    "lpNftId": "1321199",
+    "lockerAddress": "0xd7006993E2312D1D73803423357b72aE8c249d5d"
+  },
+  "clankerInfo": null
+}

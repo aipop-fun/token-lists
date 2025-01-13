@@ -1,0 +1,22 @@
+{
+  "name": "Base Stars",
+  "symbol": "Base Stars",
+  "decimals": 18,
+  "description": "Base Stars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Stars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Stars",
+  "addresses": {
+    "8453": "0x3cec015a949af6bdb643abf073940984fb1bcf28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Stars",
+    "sanitizedSymbol": "BASE_STARS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199155",
+    "lockerAddress": "0xb203a0724F1cFB5DAf2185bfD776b5897b6aB439"
+  },
+  "clankerInfo": null
+}

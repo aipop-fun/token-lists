@@ -1,0 +1,22 @@
+{
+  "name": "Bankrbot",
+  "symbol": "Bankrbot",
+  "decimals": 18,
+  "description": "Bankrbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bankrbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bankrbot",
+  "addresses": {
+    "8453": "0x23d5799a4812d945e67cacb6b8839b3970706f31"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bankrbot",
+    "sanitizedSymbol": "BANKRBOT_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x33eEff4c681E195d395a9d98E7ed2d7F750eE3e6",
+    "lpNftId": "1285954",
+    "lockerAddress": "0x73611fB1DFd2Ebb5A2CDFe97b30965F96ae8a78b"
+  },
+  "clankerInfo": null
+}

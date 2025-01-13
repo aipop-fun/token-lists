@@ -1,0 +1,22 @@
+{
+  "name": "god base",
+  "symbol": "god base",
+  "decimals": 18,
+  "description": "god base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=god%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "god base",
+  "addresses": {
+    "8453": "0x2024bb4803685ac7a4c29bb5f2a99658a418d0a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "god base",
+    "sanitizedSymbol": "GOD_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6C2ae452d2b966259d889A26fAa034cC741e3327",
+    "lpNftId": "1321262",
+    "lockerAddress": "0x354873eda86A371Eb6a79F25971AA947A1FA3B63"
+  },
+  "clankerInfo": null
+}

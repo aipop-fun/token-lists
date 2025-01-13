@@ -1,0 +1,22 @@
+{
+  "name": "Duck Lover Coin",
+  "symbol": "Duck Lover Coin",
+  "decimals": 18,
+  "description": "Duck Lover Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Duck%20Lover%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Duck Lover Coin",
+  "addresses": {
+    "8453": "0x001cc631037ea1aaa0cafa6a58327280c43d9505"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Duck Lover Coin",
+    "sanitizedSymbol": "DUCK_LOVER_COIN",
+    "created_at": "2024-12-12T03:30:59.553294",
+    "deployer": "0x8C83b739A72Cdf0E562cFba9089b072683BcAD88",
+    "lpNftId": "1428912",
+    "lockerAddress": "0x2fb9234919eDff5d7A58C2E1996171dbe31b1d25"
+  },
+  "clankerInfo": null
+}

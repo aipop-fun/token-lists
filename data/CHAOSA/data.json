@@ -1,0 +1,22 @@
+{
+  "name": "CHAOSA",
+  "symbol": "CHAOSA",
+  "decimals": 18,
+  "description": "CHAOSA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAOSA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAOSA",
+  "addresses": {
+    "8453": "0x36b318a60ad453b8a957cce04e6259b6c3235543"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAOSA",
+    "sanitizedSymbol": "CHAOSA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE1a3ECeC800193cEd135AA0ea04b434e7492EC67",
+    "lpNftId": "1326827",
+    "lockerAddress": "0x4Da1DA3aE6bde708678E352a7a06FBD9C88D586f"
+  },
+  "clankerInfo": null
+}

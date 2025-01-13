@@ -1,0 +1,22 @@
+{
+  "name": "cornbig",
+  "symbol": "cornbig",
+  "decimals": 18,
+  "description": "cornbig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cornbig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cornbig",
+  "addresses": {
+    "8453": "0x3f68eb5dec3a01bbfb6f846839e21cf6f1952678"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cornbig",
+    "sanitizedSymbol": "CORNBIG",
+    "created_at": "2024-12-11T11:15:05.517566",
+    "deployer": "0x0e43b2f09BCB18C65EAE18B7F7c0b5D04088Ea7F",
+    "lpNftId": "1416786",
+    "lockerAddress": "0xb2F3611301dfC32Aa4122aB4c5C7Ad5b1fbb0B09"
+  },
+  "clankerInfo": null
+}

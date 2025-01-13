@@ -1,0 +1,22 @@
+{
+  "name": "10101",
+  "symbol": "10101",
+  "decimals": 18,
+  "description": "10101 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=10101",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "10101",
+  "addresses": {
+    "8453": "0x3a50264143a19cffcda8ff53d93c81322546e818"
+  },
+  "tokenInfo": {
+    "originalSymbol": "10101",
+    "sanitizedSymbol": "10101",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234183",
+    "lockerAddress": "0x253E15a6d05af35a2b47E29904d82a02f523b2D3"
+  },
+  "clankerInfo": null
+}

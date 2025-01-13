@@ -1,0 +1,22 @@
+{
+  "name": "clankerwind",
+  "symbol": "clankerwind",
+  "decimals": 18,
+  "description": "clankerwind is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerwind",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerwind",
+  "addresses": {
+    "8453": "0x36c9698b37791c95154b2b9544a1a57a74f58664"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerwind",
+    "sanitizedSymbol": "CLANKERWIND",
+    "created_at": "2024-12-11T20:47:05.654854",
+    "deployer": "0xf2d366d228770E91F4Db456D5dBB0305e123EC2b",
+    "lpNftId": "1425632",
+    "lockerAddress": "0x13e834D031f5A4f24a5AD9CEE91b4d3A18Fca05E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Don't cheat",
+  "symbol": "Don't cheat",
+  "decimals": 18,
+  "description": "Don't cheat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20cheat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't cheat",
+  "addresses": {
+    "8453": "0x1ce85d53dd94d99e029d5fd4e79df6970e70845a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't cheat",
+    "sanitizedSymbol": "DON_T_CHEAT",
+    "created_at": "2024-12-12T18:47:48.908165",
+    "deployer": "0xadfCF2c53787a4F3bc90B4A8E3B571730f586999",
+    "lpNftId": "1440943",
+    "lockerAddress": "0x01196BbfaF70D184B1edd613C4Da037053E014C4"
+  },
+  "clankerInfo": null
+}

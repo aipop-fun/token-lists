@@ -1,0 +1,22 @@
+{
+  "name": "Soul",
+  "symbol": "Soul",
+  "decimals": 18,
+  "description": "Soul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soul",
+  "addresses": {
+    "8453": "0x0c55b998014db00c46926d77332adddfe6e30896"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soul",
+    "sanitizedSymbol": "SOUL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151916",
+    "lockerAddress": "0x7cc9BDdE052A8C6e2384C51c99383DbEFc96a0d6"
+  },
+  "clankerInfo": null
+}

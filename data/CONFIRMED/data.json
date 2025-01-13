@@ -1,0 +1,22 @@
+{
+  "name": "Confirmed",
+  "symbol": "Confirmed",
+  "decimals": 18,
+  "description": "Confirmed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Confirmed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Confirmed",
+  "addresses": {
+    "8453": "0x106234a6118cee9a4ca486924d8b66cf2061c2e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Confirmed",
+    "sanitizedSymbol": "CONFIRMED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152513",
+    "lockerAddress": "0x9Df290f77E0447D121664aE33C8eDBB9A12b8ACB"
+  },
+  "clankerInfo": null
+}

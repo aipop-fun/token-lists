@@ -1,0 +1,22 @@
+{
+  "name": "tolakss",
+  "symbol": "tolakss",
+  "decimals": 18,
+  "description": "tolakss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tolakss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tolakss",
+  "addresses": {
+    "8453": "0x383594814ff79f6f0cdd6fd5c9814f336258caa3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tolakss",
+    "sanitizedSymbol": "TOLAKSS",
+    "created_at": "2024-12-12T16:27:23.181256",
+    "deployer": "0xE11e1a29612EEC758f687Cb1F72F900F59198E5C",
+    "lpNftId": "1438567",
+    "lockerAddress": "0xDd44001703F09b1E4DB6d79633be1B5f8BCD0Cb6"
+  },
+  "clankerInfo": null
+}

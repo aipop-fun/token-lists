@@ -1,0 +1,22 @@
+{
+  "name": "APU",
+  "symbol": "APU",
+  "decimals": 18,
+  "description": "APU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APU",
+  "addresses": {
+    "8453": "0x2323901fd2258b2951b3d106d73e00fb2d8f3f14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APU",
+    "sanitizedSymbol": "APU_4",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC5228f85B1761d24AEf7841Be5aC6C31dF121401",
+    "lpNftId": "1280694",
+    "lockerAddress": "0x19373F35859B89605ceAA2f03D754B3ec82f3cA2"
+  },
+  "clankerInfo": null
+}

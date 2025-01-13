@@ -1,0 +1,22 @@
+{
+  "name": "Degen Trenches",
+  "symbol": "Degen Trenches",
+  "decimals": 18,
+  "description": "Degen Trenches is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Trenches",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Trenches",
+  "addresses": {
+    "8453": "0x2d50055f81f3dab35f609ac78bc4788dc76efc76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Trenches",
+    "sanitizedSymbol": "DEGEN_TRENCHES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119492",
+    "lockerAddress": "0xbE4D528941d07E16faf969BE5D05f0e5e3b24095"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "S&P501",
+  "symbol": "S&P501",
+  "decimals": 18,
+  "description": "S&P501 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=S%26P501",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "S&P501",
+  "addresses": {
+    "8453": "0x0e405548a119857902734792803ae53da357552c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "S&P501",
+    "sanitizedSymbol": "S_P501",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x10CfBfe6e2fDF2e7adef48E35A5c325A50782ABF",
+    "lpNftId": "1300090",
+    "lockerAddress": "0xd0981F7b9B3147cb2322E0A62904DF6aB6a22F1A"
+  },
+  "clankerInfo": null
+}

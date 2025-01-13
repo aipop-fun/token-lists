@@ -1,0 +1,22 @@
+{
+  "name": "Times New Roman",
+  "symbol": "Times New Roman",
+  "decimals": 18,
+  "description": "Times New Roman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Times%20New%20Roman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Times New Roman",
+  "addresses": {
+    "8453": "0x151ca8797a42e95da0b9d06b466ce60fd1a6f1ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Times New Roman",
+    "sanitizedSymbol": "TIMES_NEW_ROMAN_2",
+    "created_at": "2024-12-10T21:41:59.154335",
+    "deployer": "0xb96A63281723D3BD770b314f580ABE09538522BE",
+    "lpNftId": "1407427",
+    "lockerAddress": "0x279014D0b19518B2434A952be4b83bBE105f989E"
+  },
+  "clankerInfo": null
+}

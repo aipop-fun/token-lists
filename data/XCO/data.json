@@ -1,0 +1,22 @@
+{
+  "name": "Xco",
+  "symbol": "Xco",
+  "decimals": 18,
+  "description": "Xco is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xco",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xco",
+  "addresses": {
+    "8453": "0x22581c81aab2a98317d5f89681871672f98ca8c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xco",
+    "sanitizedSymbol": "XCO",
+    "created_at": "2024-12-10T02:31:16.78097",
+    "deployer": "0xCAf57A2e60D706e3aa746DA9F37f03988ed11C35",
+    "lpNftId": "1395154",
+    "lockerAddress": "0xe92360dD7B41ecf07CF20f91239C44646Edef403"
+  },
+  "clankerInfo": null
+}

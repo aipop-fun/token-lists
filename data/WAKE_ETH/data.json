@@ -1,0 +1,22 @@
+{
+  "name": "Wake.eth",
+  "symbol": "Wake.eth",
+  "decimals": 18,
+  "description": "Wake.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wake.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wake.eth",
+  "addresses": {
+    "8453": "0x20201b326e20733ddfaf8853262ec5f3f4c90b16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wake.eth",
+    "sanitizedSymbol": "WAKE_ETH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x183Ae8774788c92F9824E837689f14a94863be3F",
+    "lpNftId": "1333532",
+    "lockerAddress": "0xF344Aa1ACE89dcb3804e903b50027845c8dAAc67"
+  },
+  "clankerInfo": null
+}

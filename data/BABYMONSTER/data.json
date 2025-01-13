@@ -1,0 +1,22 @@
+{
+  "name": "BABYMONSTER",
+  "symbol": "BABYMONSTER",
+  "decimals": 18,
+  "description": "BABYMONSTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABYMONSTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABYMONSTER",
+  "addresses": {
+    "8453": "0x17ff534e6dfa4277f1feb131d2b08b4e7bc735b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABYMONSTER",
+    "sanitizedSymbol": "BABYMONSTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220882",
+    "lockerAddress": "0xB4d192E15E1a2c869069b25F2907c7B8E79eF8f1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEACAT",
+  "symbol": "PEACAT",
+  "decimals": 18,
+  "description": "PEACAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEACAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEACAT",
+  "addresses": {
+    "8453": "0x3b14df085caae0cf78d38502d8894105abf0ac04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEACAT",
+    "sanitizedSymbol": "PEACAT",
+    "created_at": "2024-12-12T00:39:21.22317",
+    "deployer": "0x448eB535cFd2f6EBDBCB17e36aF5e2B57b474D3e",
+    "lpNftId": "1428202",
+    "lockerAddress": "0x1a343DA8fe90ccc308C43d03E6728b564143a291"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "New Doge",
+  "symbol": "New Doge",
+  "decimals": 18,
+  "description": "New Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Doge",
+  "addresses": {
+    "8453": "0x0b4deffc4851addd3b4e37a558ab0cfdd58a86c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Doge",
+    "sanitizedSymbol": "NEW_DOGE",
+    "created_at": "2024-12-11T07:05:03.37494",
+    "deployer": "0x9DB4e263fC4DBeFBB0c54C889B61C1c99f76e21F",
+    "lpNftId": "1414009",
+    "lockerAddress": "0x2fe6206CEe252E714c6a0DD1dddf06C486bFc2ee"
+  },
+  "clankerInfo": null
+}

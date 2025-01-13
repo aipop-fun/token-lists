@@ -1,0 +1,22 @@
+{
+  "name": "Dreamer",
+  "symbol": "Dreamer",
+  "decimals": 18,
+  "description": "Dreamer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dreamer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dreamer",
+  "addresses": {
+    "8453": "0x0d9ea4f2843a8cb2a942a4d00c8dc87d6f812786"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dreamer",
+    "sanitizedSymbol": "DREAMER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206534",
+    "lockerAddress": "0x573aC8D461C25E99cD952070e31405076b680A1c"
+  },
+  "clankerInfo": null
+}

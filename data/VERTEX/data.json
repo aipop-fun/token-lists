@@ -1,0 +1,22 @@
+{
+  "name": "Vertex",
+  "symbol": "Vertex",
+  "decimals": 18,
+  "description": "Vertex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vertex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vertex",
+  "addresses": {
+    "8453": "0x02a565b540617b2ad41ee486b6a5d026c0206822"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vertex",
+    "sanitizedSymbol": "VERTEX",
+    "created_at": "2024-12-12T17:11:45.63577",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1439159",
+    "lockerAddress": "0x743E9C1D2768199Eb94C58B528d1a464E0a65EB8"
+  },
+  "clankerInfo": null
+}

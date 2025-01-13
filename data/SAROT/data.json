@@ -1,0 +1,22 @@
+{
+  "name": "SAROT",
+  "symbol": "SAROT",
+  "decimals": 18,
+  "description": "SAROT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAROT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAROT",
+  "addresses": {
+    "8453": "0x228e25fb74e277cba5d1546e2dfd9267b63b2d3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAROT",
+    "sanitizedSymbol": "SAROT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1293280",
+    "lockerAddress": "0x0DA16C4e0bFB13133F4A9DAEedd6Dd5dc0a5a66A"
+  },
+  "clankerInfo": null
+}

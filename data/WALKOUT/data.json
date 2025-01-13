@@ -1,0 +1,22 @@
+{
+  "name": "Walkout",
+  "symbol": "Walkout",
+  "decimals": 18,
+  "description": "Walkout is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Walkout",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Walkout",
+  "addresses": {
+    "8453": "0x1551a815c69f07e1046ce0851f9ab5c8a43a6515"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Walkout",
+    "sanitizedSymbol": "WALKOUT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0d41C4A1aB9E27143DAfc7bAE56F777CaCBbba32",
+    "lpNftId": "1329981",
+    "lockerAddress": "0xCe55704A56a374E68eaa149a540BA5AFD510154C"
+  },
+  "clankerInfo": null
+}

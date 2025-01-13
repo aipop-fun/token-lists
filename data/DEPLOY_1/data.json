@@ -1,0 +1,22 @@
+{
+  "name": "Deploy",
+  "symbol": "Deploy",
+  "decimals": 18,
+  "description": "Deploy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deploy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deploy",
+  "addresses": {
+    "8453": "0x1e29c0dd3409212f3b1e31e2100bffff80f779b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deploy",
+    "sanitizedSymbol": "DEPLOY_1",
+    "created_at": "2024-12-11T06:53:41.079446",
+    "deployer": "0x415B0d6545690c9A06E9B461E3cF1d699826a9e7",
+    "lpNftId": "1413984",
+    "lockerAddress": "0x7688b53630eed41C91B50B5F3A3F4B8401D40D5B"
+  },
+  "clankerInfo": null
+}

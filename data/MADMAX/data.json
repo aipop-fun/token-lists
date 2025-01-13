@@ -1,0 +1,22 @@
+{
+  "name": "MadMax",
+  "symbol": "MadMax",
+  "decimals": 18,
+  "description": "MadMax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MadMax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MadMax",
+  "addresses": {
+    "8453": "0x15bedc28c752bd3c47c34d49f6a49707f15a06d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MadMax",
+    "sanitizedSymbol": "MADMAX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9e10135beE11A553A4d947EfAbCb56892b1eE1C",
+    "lpNftId": "1285172",
+    "lockerAddress": "0x5a82F4DF80b36828685c3dd9751985cF812B7073"
+  },
+  "clankerInfo": null
+}

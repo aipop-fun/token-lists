@@ -1,0 +1,22 @@
+{
+  "name": "brojol",
+  "symbol": "brojol",
+  "decimals": 18,
+  "description": "brojol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brojol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brojol",
+  "addresses": {
+    "8453": "0x1effc1d8cdd5b4326cea0c9988d3792e3e26cee5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brojol",
+    "sanitizedSymbol": "BROJOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7776396af56AcA4b4eFA7Dc84ae4AADE52b99213",
+    "lpNftId": "1329997",
+    "lockerAddress": "0x74099df6493b73898A7dC9dCfD3bC8645331b24F"
+  },
+  "clankerInfo": null
+}

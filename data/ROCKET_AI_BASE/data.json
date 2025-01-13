@@ -1,0 +1,22 @@
+{
+  "name": "Rocket AI Base",
+  "symbol": "Rocket AI Base",
+  "decimals": 18,
+  "description": "Rocket AI Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rocket%20AI%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rocket AI Base",
+  "addresses": {
+    "8453": "0x193345444e20d627f3442c2574233ac1f2eb5021"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rocket AI Base",
+    "sanitizedSymbol": "ROCKET_AI_BASE",
+    "created_at": "2024-12-10T16:28:22.43924",
+    "deployer": "0x09A9b7472358b4439B606B651DBe03911f714BE1",
+    "lpNftId": "1404035",
+    "lockerAddress": "0xe073617Ec293158935a3a78b13193CF99CBFd236"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Baby Whale",
+  "symbol": "Baby Whale",
+  "decimals": 18,
+  "description": "Baby Whale is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Whale",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Whale",
+  "addresses": {
+    "8453": "0x03556244ce4c110d13c409050875ae9d4f67912b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Whale",
+    "sanitizedSymbol": "BABY_WHALE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22B681aaCdAe8725A49109Bf9fD34692A37EFA51",
+    "lpNftId": "1321125",
+    "lockerAddress": "0x3dbfFD5eA5E3251Ed6f76DE7209B101B97AEd426"
+  },
+  "clankerInfo": null
+}

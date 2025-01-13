@@ -1,0 +1,22 @@
+{
+  "name": "Kanyeeet",
+  "symbol": "Kanyeeet",
+  "decimals": 18,
+  "description": "Kanyeeet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kanyeeet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kanyeeet",
+  "addresses": {
+    "8453": "0x3130c274edb3a5f30e612a40c4e4fe96ffea53c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kanyeeet",
+    "sanitizedSymbol": "KANYEEET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F2f644A37924532d501A00dC4356EE376be2276",
+    "lpNftId": "1308983",
+    "lockerAddress": "0x530E15c287A3Bdc3e606e517bA3C41A46e5747d1"
+  },
+  "clankerInfo": null
+}

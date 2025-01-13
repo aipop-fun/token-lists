@@ -1,0 +1,22 @@
+{
+  "name": "BLOOB TOKEN",
+  "symbol": "BLOOB TOKEN",
+  "decimals": 18,
+  "description": "BLOOB TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLOOB%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLOOB TOKEN",
+  "addresses": {
+    "8453": "0x1d3a661c74292f598067513c27c6cee41cf67fed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLOOB TOKEN",
+    "sanitizedSymbol": "BLOOB_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x49F099C691a2Bf64066ca23d142fe2f3A0DD639a",
+    "lpNftId": "1291465",
+    "lockerAddress": "0x6Be8Eb415c5ed0F5D84b0dec77816C7268d6daf2"
+  },
+  "clankerInfo": null
+}

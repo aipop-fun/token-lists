@@ -1,0 +1,22 @@
+{
+  "name": "CAT GEMS",
+  "symbol": "CAT GEMS",
+  "decimals": 18,
+  "description": "CAT GEMS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT%20GEMS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT GEMS",
+  "addresses": {
+    "8453": "0x3b68aac2cef1fa81330e43bc54e575f55856785a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT GEMS",
+    "sanitizedSymbol": "CAT_GEMS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1326700",
+    "lockerAddress": "0x9937802fb750A7D8f75EEfB8325DF02228721605"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XSANTA BASE",
+  "symbol": "XSANTA BASE",
+  "decimals": 18,
+  "description": "XSANTA BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XSANTA%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XSANTA BASE",
+  "addresses": {
+    "8453": "0x1748974463442d2067dee777f62f232ca100cf98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XSANTA BASE",
+    "sanitizedSymbol": "XSANTA_BASE",
+    "created_at": "2024-12-10T08:46:02.9138",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1398907",
+    "lockerAddress": "0x13987813fBDBDa051443bc3Cabc03085f90Bf26F"
+  },
+  "clankerInfo": null
+}

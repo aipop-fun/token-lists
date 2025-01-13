@@ -1,0 +1,22 @@
+{
+  "name": "Etheric",
+  "symbol": "Etheric",
+  "decimals": 18,
+  "description": "Etheric is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Etheric",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Etheric",
+  "addresses": {
+    "8453": "0x236929546313c54368c963aa712b3f60f8b3e9ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Etheric",
+    "sanitizedSymbol": "ETHERIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132484",
+    "lockerAddress": "0xBfB5DB82EEBB1a5266cb623d3815Cb0737F4679E"
+  },
+  "clankerInfo": null
+}

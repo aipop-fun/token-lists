@@ -1,0 +1,22 @@
+{
+  "name": "TIME",
+  "symbol": "TIME",
+  "decimals": 18,
+  "description": "TIME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TIME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TIME",
+  "addresses": {
+    "8453": "0x22358d6448a82bd128f4be2004b06bc4e57bbecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TIME",
+    "sanitizedSymbol": "TIME_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0FbEd01e79f701BaAfF9E6AD07782Fe06f669416",
+    "lpNftId": "1322195",
+    "lockerAddress": "0xD6B0C5402cd3e4aaa2688A0ab03a700451500949"
+  },
+  "clankerInfo": null
+}

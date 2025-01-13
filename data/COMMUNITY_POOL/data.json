@@ -1,0 +1,22 @@
+{
+  "name": "Community Pool",
+  "symbol": "Community Pool",
+  "decimals": 18,
+  "description": "Community Pool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Community%20Pool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Community Pool",
+  "addresses": {
+    "8453": "0x409c07686d386a954973d3c72a8508a773135487"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Community Pool",
+    "sanitizedSymbol": "COMMUNITY_POOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220856",
+    "lockerAddress": "0x8f37BE1E597D9d24f6a1E699aA5db9377418E307"
+  },
+  "clankerInfo": null
+}

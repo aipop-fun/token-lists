@@ -1,0 +1,22 @@
+{
+  "name": "FreePanda",
+  "symbol": "FreePanda",
+  "decimals": 18,
+  "description": "FreePanda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FreePanda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FreePanda",
+  "addresses": {
+    "8453": "0x14d6601135f5411c18a4563f3a41fc880ec20586"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FreePanda",
+    "sanitizedSymbol": "FREEPANDA",
+    "created_at": "2024-12-11T07:32:35.097225",
+    "deployer": "0x7c0bf00161c21c85732bCF7F3A10165Ba084664b",
+    "lpNftId": "1414083",
+    "lockerAddress": "0x35617585FC03C36157257CEBe615E2c93f3ACcb4"
+  },
+  "clankerInfo": null
+}

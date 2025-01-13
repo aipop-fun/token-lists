@@ -1,0 +1,22 @@
+{
+  "name": "hifive",
+  "symbol": "hifive",
+  "decimals": 18,
+  "description": "hifive is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hifive",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hifive",
+  "addresses": {
+    "8453": "0x11f192887b6d0470a2374097579c5c63940eeff7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hifive",
+    "sanitizedSymbol": "HIFIVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB6956bF421730e5b619ccA3fbc6c5f3868F3b51E",
+    "lpNftId": "1318298",
+    "lockerAddress": "0x59fD3460926E6813d4A3FfBb31d348fdcb3B9460"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Howzit Cuz",
+  "symbol": "Howzit Cuz",
+  "decimals": 18,
+  "description": "Howzit Cuz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Howzit%20Cuz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Howzit Cuz",
+  "addresses": {
+    "8453": "0x03fc3cdef3db461ae8c85c3c6e42393ae08ad643"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Howzit Cuz",
+    "sanitizedSymbol": "HOWZIT_CUZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFfc562a0e78bd515a2c5896E30A8303F7b944972",
+    "lpNftId": "1293419",
+    "lockerAddress": "0xd600ea6267aFa8C21B404D3243fE5B1b361C3938"
+  },
+  "clankerInfo": null
+}

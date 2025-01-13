@@ -1,0 +1,22 @@
+{
+  "name": "HUTAGALUNG",
+  "symbol": "HUTAGALUNG",
+  "decimals": 18,
+  "description": "HUTAGALUNG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HUTAGALUNG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HUTAGALUNG",
+  "addresses": {
+    "8453": "0x23c18eac79e1dbf2a40250ce3537a9d17568e3b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HUTAGALUNG",
+    "sanitizedSymbol": "HUTAGALUNG",
+    "created_at": "2024-12-10T19:14:41.189422",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1406037",
+    "lockerAddress": "0xE2CfE9Ed1cB3bFD9515ad3CD5Bd6483791Dd0818"
+  },
+  "clankerInfo": null
+}

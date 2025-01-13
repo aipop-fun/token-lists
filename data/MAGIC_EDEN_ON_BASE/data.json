@@ -1,0 +1,22 @@
+{
+  "name": "MAGIC EDEN ON BASE",
+  "symbol": "MAGIC EDEN ON BASE",
+  "decimals": 18,
+  "description": "MAGIC EDEN ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAGIC%20EDEN%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAGIC EDEN ON BASE",
+  "addresses": {
+    "8453": "0x10b61ea8a3d414954697f227cfce58e11f753e5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAGIC EDEN ON BASE",
+    "sanitizedSymbol": "MAGIC_EDEN_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA656970460A8911D1758C6bE19367BB4A032f061",
+    "lpNftId": "1326674",
+    "lockerAddress": "0x991923b9278C91d9a4F0b9132f7cF8EBF038932F"
+  },
+  "clankerInfo": null
+}

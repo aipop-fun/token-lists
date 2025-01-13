@@ -1,0 +1,22 @@
+{
+  "name": "VOLUME",
+  "symbol": "VOLUME",
+  "decimals": 18,
+  "description": "VOLUME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VOLUME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VOLUME",
+  "addresses": {
+    "8453": "0x237abd1474a88653ed96adf14ca85976ee12ae0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VOLUME",
+    "sanitizedSymbol": "VOLUME",
+    "created_at": "2024-12-10T01:10:06.86579",
+    "deployer": "0x1bAe19AF613BD5Db94bAf043D5817e16a53A4C33",
+    "lpNftId": "1394174",
+    "lockerAddress": "0x172b1554B69f76bBF84f1Bb5F435838D0137E9e9"
+  },
+  "clankerInfo": null
+}

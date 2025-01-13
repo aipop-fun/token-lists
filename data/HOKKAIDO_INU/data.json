@@ -1,0 +1,22 @@
+{
+  "name": "Hokkaido Inu",
+  "symbol": "Hokkaido Inu",
+  "decimals": 18,
+  "description": "Hokkaido Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hokkaido%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hokkaido Inu",
+  "addresses": {
+    "8453": "0x32ab8327b1f2148d9b751f798a0f75b56db8c0b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hokkaido Inu",
+    "sanitizedSymbol": "HOKKAIDO_INU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1327754",
+    "lockerAddress": "0xf009214a476F00a2568D504a02a72880b3593FF1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Apocalypse",
+  "symbol": "Apocalypse",
+  "decimals": 18,
+  "description": "Apocalypse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apocalypse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apocalypse",
+  "addresses": {
+    "8453": "0x37610c5abe31bd083b444895807f94162fd456d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apocalypse",
+    "sanitizedSymbol": "APOCALYPSE",
+    "created_at": "2024-12-12T11:32:23.528386",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1433478",
+    "lockerAddress": "0x45995c24F28E530534f1aA53b3D310eD9afc1FAe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SIGMA",
+  "symbol": "SIGMA",
+  "decimals": 18,
+  "description": "SIGMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SIGMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SIGMA",
+  "addresses": {
+    "8453": "0x206377b0f0785f2ca2842c0d3ef35d1039cc44c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SIGMA",
+    "sanitizedSymbol": "SIGMA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192914",
+    "lockerAddress": "0xe8d9438E3D4a7f3C772c240b8E4CF23568e51955"
+  },
+  "clankerInfo": null
+}

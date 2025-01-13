@@ -1,0 +1,22 @@
+{
+  "name": "AutoFlux Infinity",
+  "symbol": "AutoFlux Infinity",
+  "decimals": 18,
+  "description": "AutoFlux Infinity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AutoFlux%20Infinity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AutoFlux Infinity",
+  "addresses": {
+    "8453": "0x41ab3ce373d345a229b1b1fa091ac19fb331fd16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AutoFlux Infinity",
+    "sanitizedSymbol": "AUTOFLUX_INFINITY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xd1a8Dd23e356B9fAE27dF5DeF9ea025A602EC81e",
+    "lpNftId": "1228762",
+    "lockerAddress": "0x4c1726C5dC951bE30D06b42CdF44aF6AF88Abb8B"
+  },
+  "clankerInfo": null
+}

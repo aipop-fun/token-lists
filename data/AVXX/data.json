@@ -1,0 +1,22 @@
+{
+  "name": "AVXX",
+  "symbol": "AVXX",
+  "decimals": 18,
+  "description": "AVXX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AVXX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AVXX",
+  "addresses": {
+    "8453": "0x3533f926a6d7b8b93ace2881d032c312ffc87527"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AVXX",
+    "sanitizedSymbol": "AVXX",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x40D27d2fc73C67Ae1cC47629E5B3430479328dBc",
+    "lpNftId": "1265910",
+    "lockerAddress": "0x5F02f2990D1BEfF3938Eb38ba470BB243806E125"
+  },
+  "clankerInfo": null
+}

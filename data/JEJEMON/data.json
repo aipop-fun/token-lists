@@ -1,0 +1,22 @@
+{
+  "name": "JEJEMON",
+  "symbol": "JEJEMON",
+  "decimals": 18,
+  "description": "JEJEMON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEJEMON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEJEMON",
+  "addresses": {
+    "8453": "0x0f38dc5e28b6bca53c7df3e8d4c9054450f876bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEJEMON",
+    "sanitizedSymbol": "JEJEMON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x305eC3f869c719a6821eD8b83A595Fb5dB406df0",
+    "lpNftId": "1320313",
+    "lockerAddress": "0x6650ad60f976Db82eEd48F0cBdC3f91e7E393c55"
+  },
+  "clankerInfo": null
+}

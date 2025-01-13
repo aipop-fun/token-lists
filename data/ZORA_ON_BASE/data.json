@@ -1,0 +1,22 @@
+{
+  "name": "Zora on Base",
+  "symbol": "Zora on Base",
+  "decimals": 18,
+  "description": "Zora on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zora%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zora on Base",
+  "addresses": {
+    "8453": "0x35b5a5215a6536a4f4de499e4d0c8f3eb3042352"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zora on Base",
+    "sanitizedSymbol": "ZORA_ON_BASE",
+    "created_at": "2024-12-09T05:30:39.564144",
+    "deployer": "0xB6A56166d6901A685baE8bcAD8fa173D847055BC",
+    "lpNftId": "1383201",
+    "lockerAddress": "0x61f132ad58fAf45b7c8dDfB07FaC2f04d1Cf5403"
+  },
+  "clankerInfo": null
+}

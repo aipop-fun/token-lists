@@ -1,0 +1,22 @@
+{
+  "name": "FlummoX",
+  "symbol": "FlummoX",
+  "decimals": 18,
+  "description": "FlummoX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FlummoX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FlummoX",
+  "addresses": {
+    "8453": "0x024ffb7a3e5c1facdfca42b749e6ff146cfd0be7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FlummoX",
+    "sanitizedSymbol": "FLUMMOX",
+    "created_at": "2024-12-10T17:21:03.656993",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1404511",
+    "lockerAddress": "0x246384347a6e533BCBe5e84C5cC16E4D1BF39542"
+  },
+  "clankerInfo": null
+}

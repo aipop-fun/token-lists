@@ -1,0 +1,22 @@
+{
+  "name": "peti",
+  "symbol": "peti",
+  "decimals": 18,
+  "description": "peti is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=peti",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "peti",
+  "addresses": {
+    "8453": "0x0c91ec08aa72e0bacaca8a5301b5cbf2a3abcc7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "peti",
+    "sanitizedSymbol": "PETI",
+    "created_at": "2024-12-11T23:33:11.565472",
+    "deployer": "0x75B1199974Da8446Ec381A9Bd80f9F93c697858D",
+    "lpNftId": "1427939",
+    "lockerAddress": "0xC51acB5A2C7B477F1294d0a571B523edc0D8E36F"
+  },
+  "clankerInfo": null
+}

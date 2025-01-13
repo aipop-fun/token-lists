@@ -1,0 +1,22 @@
+{
+  "name": "DEV IS CLANKER",
+  "symbol": "DEV IS CLANKER",
+  "decimals": 18,
+  "description": "DEV IS CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEV%20IS%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEV IS CLANKER",
+  "addresses": {
+    "8453": "0x35def2c217b22b211b31bfc5daab297ffe695610"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEV IS CLANKER",
+    "sanitizedSymbol": "DEV_IS_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6C5054771F7b601a816396c96354cC179171eE2",
+    "lpNftId": "1328453",
+    "lockerAddress": "0x4a139c94610259F08b2FeEc10E55012e3A83aD62"
+  },
+  "clankerInfo": null
+}

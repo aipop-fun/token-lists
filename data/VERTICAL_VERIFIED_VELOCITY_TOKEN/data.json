@@ -1,0 +1,22 @@
+{
+  "name": "Vertical Verified Velocity Token",
+  "symbol": "Vertical Verified Velocity Token",
+  "decimals": 18,
+  "description": "Vertical Verified Velocity Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vertical%20Verified%20Velocity%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vertical Verified Velocity Token",
+  "addresses": {
+    "8453": "0x1393878064916fd05572fb77a4a45e6a70f3f45f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vertical Verified Velocity Token",
+    "sanitizedSymbol": "VERTICAL_VERIFIED_VELOCITY_TOKEN",
+    "created_at": "2024-12-10T23:35:24.08707",
+    "deployer": "0x4a324171B064D2A0618289Dc4708c34Ff82D68A1",
+    "lpNftId": "1408428",
+    "lockerAddress": "0xFE0F7f8db41299e2aF2d281E7AB481FD4c5C990e"
+  },
+  "clankerInfo": null
+}

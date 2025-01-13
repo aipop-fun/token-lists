@@ -1,0 +1,22 @@
+{
+  "name": "DeadBull by Clanker",
+  "symbol": "DeadBull by Clanker",
+  "decimals": 18,
+  "description": "DeadBull by Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeadBull%20by%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeadBull by Clanker",
+  "addresses": {
+    "8453": "0x12089b63e894ee206623a369b70f0793790607a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeadBull by Clanker",
+    "sanitizedSymbol": "DEADBULL_BY_CLANKER",
+    "created_at": "2024-12-10T15:47:09.986984",
+    "deployer": "0x9939c32a29fa019988fF1Fe3f12eA571007c6A36",
+    "lpNftId": "1402977",
+    "lockerAddress": "0x59615ed23B6d19FBaa0e6C617e837da79B914C95"
+  },
+  "clankerInfo": null
+}

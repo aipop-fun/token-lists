@@ -1,0 +1,22 @@
+{
+  "name": "zoopcoin",
+  "symbol": "zoopcoin",
+  "decimals": 18,
+  "description": "zoopcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zoopcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zoopcoin",
+  "addresses": {
+    "8453": "0x3936710be8662709f8caf22644aec428154da9f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zoopcoin",
+    "sanitizedSymbol": "ZOOPCOIN",
+    "created_at": "2024-12-11T05:17:41.393261",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1413024",
+    "lockerAddress": "0x80B5f8d566A3682c1691dAd03e96010Eaaec07E2"
+  },
+  "clankerInfo": null
+}

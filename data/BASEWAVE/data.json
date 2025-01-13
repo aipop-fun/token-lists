@@ -1,0 +1,22 @@
+{
+  "name": "BaseWave",
+  "symbol": "BaseWave",
+  "decimals": 18,
+  "description": "BaseWave is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseWave",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseWave",
+  "addresses": {
+    "8453": "0x2eef92faf78a893ab865df05361f0933cd632e6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseWave",
+    "sanitizedSymbol": "BASEWAVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1318666",
+    "lockerAddress": "0x6798e2eb20cBAaa1754BD4d8fF2190d0005Da4bb"
+  },
+  "clankerInfo": null
+}

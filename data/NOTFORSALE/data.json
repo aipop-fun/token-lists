@@ -1,0 +1,22 @@
+{
+  "name": "NOTFORSALE",
+  "symbol": "NOTFORSALE",
+  "decimals": 18,
+  "description": "NOTFORSALE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOTFORSALE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOTFORSALE",
+  "addresses": {
+    "8453": "0x3a0dd2cf818bf8783f667c70d220a55f566389bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOTFORSALE",
+    "sanitizedSymbol": "NOTFORSALE",
+    "created_at": "2024-12-12T17:39:41.325769",
+    "deployer": "0x7A71504A0B717a406B6B5c7c4F5E518eAb102366",
+    "lpNftId": "1439813",
+    "lockerAddress": "0x8940770Eb3E93dFf75Eba8a93248E92507e49C4c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Potato",
+  "symbol": "Potato",
+  "decimals": 18,
+  "description": "Potato is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Potato",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Potato",
+  "addresses": {
+    "8453": "0x053c5493c3195b058079ad0adff96a36202b24e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Potato",
+    "sanitizedSymbol": "POTATO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB72eD8401892466Ea8aF528C1af1d0524bc5e105",
+    "lpNftId": "1263589",
+    "lockerAddress": "0xfeA7408c9311428075EDF157eE46B03361e7f112"
+  },
+  "clankerInfo": null
+}

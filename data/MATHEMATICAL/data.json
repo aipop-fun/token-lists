@@ -1,0 +1,22 @@
+{
+  "name": "Mathematical",
+  "symbol": "Mathematical",
+  "decimals": 18,
+  "description": "Mathematical is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mathematical",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mathematical",
+  "addresses": {
+    "8453": "0x11e18b0d982683972fc7e58298cde094cb0dbcdf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mathematical",
+    "sanitizedSymbol": "MATHEMATICAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4181A729F7A8a6bD9B286118A785672e9532750D",
+    "lpNftId": "1284481",
+    "lockerAddress": "0x0DC3c8906E9B6eD8Fb322F627032b73F9aD93d83"
+  },
+  "clankerInfo": null
+}

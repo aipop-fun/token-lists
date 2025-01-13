@@ -1,0 +1,22 @@
+{
+  "name": "FLYWHEEL",
+  "symbol": "FLYWHEEL",
+  "decimals": 18,
+  "description": "FLYWHEEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLYWHEEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLYWHEEL",
+  "addresses": {
+    "8453": "0x175e86300929d39f37d1fea420e26e5269e7dbd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLYWHEEL",
+    "sanitizedSymbol": "FLYWHEEL_2",
+    "created_at": "2024-12-12T11:59:33.35525",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1433796",
+    "lockerAddress": "0x91910a0B8854DD139E9356D8996860A885Be737e"
+  },
+  "clankerInfo": null
+}

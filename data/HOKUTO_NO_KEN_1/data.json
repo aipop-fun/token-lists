@@ -1,0 +1,22 @@
+{
+  "name": "Hokuto No Ken",
+  "symbol": "Hokuto No Ken",
+  "decimals": 18,
+  "description": "Hokuto No Ken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hokuto%20No%20Ken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hokuto No Ken",
+  "addresses": {
+    "8453": "0x1e3b7874e22e3daf2a57ec477606c7706cdd28a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hokuto No Ken",
+    "sanitizedSymbol": "HOKUTO_NO_KEN_1",
+    "created_at": "2024-12-09T14:21:45.392329",
+    "deployer": "0x0498f21D035372eb03a284C28767F7ff94890f4E",
+    "lpNftId": "1387909",
+    "lockerAddress": "0xfA46E052976cF9d44ed7b2726968F2e1060d79F2"
+  },
+  "clankerInfo": null
+}

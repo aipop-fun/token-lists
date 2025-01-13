@@ -1,0 +1,22 @@
+{
+  "name": "GEMS",
+  "symbol": "GEMS",
+  "decimals": 18,
+  "description": "GEMS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GEMS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GEMS",
+  "addresses": {
+    "8453": "0x3a5bbcbcba392697c0a45e33e12da4dbde55fc6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GEMS",
+    "sanitizedSymbol": "GEMS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1285518",
+    "lockerAddress": "0xa140BA5f8080f30fC1f7ad579504482A609ab3fD"
+  },
+  "clankerInfo": null
+}

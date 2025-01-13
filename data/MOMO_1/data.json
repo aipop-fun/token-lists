@@ -1,0 +1,22 @@
+{
+  "name": "MOMO",
+  "symbol": "MOMO",
+  "decimals": 18,
+  "description": "MOMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOMO",
+  "addresses": {
+    "8453": "0x0507b7cbb5184eeabc0bb059b915b65dd3512936"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOMO",
+    "sanitizedSymbol": "MOMO_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3Cf7D788960A44c3da4E25fBEA530D78E61e3853",
+    "lpNftId": "1331752",
+    "lockerAddress": "0xB308799C8E3E1be567ea31AF54763fE1a7DAccB5"
+  },
+  "clankerInfo": null
+}

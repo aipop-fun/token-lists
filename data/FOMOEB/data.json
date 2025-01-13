@@ -1,0 +1,22 @@
+{
+  "name": "FOMOEB",
+  "symbol": "FOMOEB",
+  "decimals": 18,
+  "description": "FOMOEB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMOEB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMOEB",
+  "addresses": {
+    "8453": "0x18a92f5473eca2e3ba71144640719ea388cd39de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMOEB",
+    "sanitizedSymbol": "FOMOEB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xddb91bdCE6e62Fd54f3eC738Ad452Ec22d17325D",
+    "lpNftId": "1296819",
+    "lockerAddress": "0x0599F59b49cE3b8a1eC2902383eE75785CE4CB26"
+  },
+  "clankerInfo": null
+}

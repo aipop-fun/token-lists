@@ -1,0 +1,22 @@
+{
+  "name": "ROBBIT",
+  "symbol": "ROBBIT",
+  "decimals": 18,
+  "description": "ROBBIT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBBIT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBBIT",
+  "addresses": {
+    "8453": "0x1ff9e9888a591f4e26567ed7359591e11689f979"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBBIT",
+    "sanitizedSymbol": "ROBBIT",
+    "created_at": "2024-12-11T00:17:21.230977",
+    "deployer": "0x7309FD10e0838f779ec026090356CB791c68DBA4",
+    "lpNftId": "1408801",
+    "lockerAddress": "0x3f5c3Dac08A6479da0De79A81c5bdAbAE01C030c"
+  },
+  "clankerInfo": null
+}

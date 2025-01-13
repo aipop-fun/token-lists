@@ -1,14 +1,22 @@
 {
-  "name": "bitcoin",
+  "name": "btc",
   "symbol": "btc",
-  "decimals": 8,
-  "description": "A meme coin almost as old as Ethereum itself.\r\n\r\nDeployed November 2015.",
-  "website": "https://www.btconeth.com/",
-  "twitter": "https://twitter.com/btc_on_eth",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1718978473/migrations/z0tqw3wnc57rnhbdh8xf.svg",
+  "decimals": 18,
+  "description": "btc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=btc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
   "opTokenId": "btc",
   "addresses": {
-    "1": "0xc0bc84e95864bdfdcd1ccfb8a3aa522e79ca1410",
-    "8453": "0xcea0be764485f3e22aa843dfff3d189f5af6a361"
-  }
+    "8453": "0x0b51cf6174d7251326880ee1a6e027b885be2fdd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "btc",
+    "sanitizedSymbol": "BTC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173722",
+    "lockerAddress": "0xEAA26a0fA30595B3b123eeaFa87Ece7819a58371"
+  },
+  "clankerInfo": null
 }

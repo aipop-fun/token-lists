@@ -1,0 +1,22 @@
+{
+  "name": "Bitcheck",
+  "symbol": "Bitcheck",
+  "decimals": 18,
+  "description": "Bitcheck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcheck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcheck",
+  "addresses": {
+    "8453": "0x218e574c1ab9efea052875277df2ef956181593f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcheck",
+    "sanitizedSymbol": "BITCHECK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234239",
+    "lockerAddress": "0x761957Ac958E36B19860065fB92E18DA34B72360"
+  },
+  "clankerInfo": null
+}

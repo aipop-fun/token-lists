@@ -1,0 +1,22 @@
+{
+  "name": "PINGUIN",
+  "symbol": "PINGUIN",
+  "decimals": 18,
+  "description": "PINGUIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PINGUIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PINGUIN",
+  "addresses": {
+    "8453": "0x36082d9cb47ab9ef13f53162aea67536440d61fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PINGUIN",
+    "sanitizedSymbol": "PINGUIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1324509",
+    "lockerAddress": "0x9e8B9bBf7F32542FBDe98b5c38ED855B57fFc853"
+  },
+  "clankerInfo": null
+}

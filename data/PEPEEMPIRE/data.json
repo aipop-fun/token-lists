@@ -1,0 +1,22 @@
+{
+  "name": "PepeEmpire",
+  "symbol": "PepeEmpire",
+  "decimals": 18,
+  "description": "PepeEmpire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PepeEmpire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PepeEmpire",
+  "addresses": {
+    "8453": "0x074b4ee995c21bd0405ac16cdf967628b0f18250"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PepeEmpire",
+    "sanitizedSymbol": "PEPEEMPIRE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165983",
+    "lockerAddress": "0x61802bAc3372CE971a4CA967764F84850a92D92D"
+  },
+  "clankerInfo": null
+}

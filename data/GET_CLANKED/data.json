@@ -1,0 +1,22 @@
+{
+  "name": "GET CLANKED",
+  "symbol": "GET CLANKED",
+  "decimals": 18,
+  "description": "GET CLANKED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GET%20CLANKED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GET CLANKED",
+  "addresses": {
+    "8453": "0x0cd3c7b87fabf14fb769a36979f587114d807abb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GET CLANKED",
+    "sanitizedSymbol": "GET_CLANKED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237542",
+    "lockerAddress": "0x714b477FAAccf7C6053129abB08c437bd499c58A"
+  },
+  "clankerInfo": null
+}

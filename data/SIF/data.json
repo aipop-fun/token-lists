@@ -1,0 +1,22 @@
+{
+  "name": "Sif",
+  "symbol": "Sif",
+  "decimals": 18,
+  "description": "Sif is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sif",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sif",
+  "addresses": {
+    "8453": "0x3f06752ea97ac0254dfdf01d27391116a948e83a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sif",
+    "sanitizedSymbol": "SIF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x610dCe6C9CB8E035cA7eBb3f7E3dF1674C1572AD",
+    "lpNftId": "1320392",
+    "lockerAddress": "0x2e4d512A38900f8aFe9D096743eF6137Ddb7af87"
+  },
+  "clankerInfo": null
+}

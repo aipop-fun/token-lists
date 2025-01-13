@@ -1,0 +1,22 @@
+{
+  "name": "Clankor Token",
+  "symbol": "Clankor Token",
+  "decimals": 18,
+  "description": "Clankor Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankor%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankor Token",
+  "addresses": {
+    "8453": "0x07d3b872d49c673d3125ca8e7397c8c0597d94c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankor Token",
+    "sanitizedSymbol": "CLANKOR_TOKEN",
+    "created_at": "2024-12-12T19:38:25.449989",
+    "deployer": "0xcFb3f48b37fC30f79ED49b31A5dD4A35aFA289a5",
+    "lpNftId": "1441754",
+    "lockerAddress": "0xFCDb707a655E9d25377B4b5CAe8b05dd5969772b"
+  },
+  "clankerInfo": null
+}

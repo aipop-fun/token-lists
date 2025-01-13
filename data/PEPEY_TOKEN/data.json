@@ -1,0 +1,22 @@
+{
+  "name": "Pepey Token",
+  "symbol": "Pepey Token",
+  "decimals": 18,
+  "description": "Pepey Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepey%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepey Token",
+  "addresses": {
+    "8453": "0x169f76bbaaf83affa67ffb1ea41de9594825505b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepey Token",
+    "sanitizedSymbol": "PEPEY_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130168",
+    "lockerAddress": "0x070AcC423626bF67a75a71C696f6ef480A9323D8"
+  },
+  "clankerInfo": null
+}

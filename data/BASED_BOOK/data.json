@@ -1,0 +1,22 @@
+{
+  "name": "based book",
+  "symbol": "based book",
+  "decimals": 18,
+  "description": "based book is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=based%20book",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "based book",
+  "addresses": {
+    "8453": "0x242aaf7b53ec4fedbdae49b26f60890f3873aa10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "based book",
+    "sanitizedSymbol": "BASED_BOOK",
+    "created_at": "2024-12-10T16:41:53.976598",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1404144",
+    "lockerAddress": "0x40A3a0d68B072Ef146410614b49e2B0Eb5b09702"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "kitty",
+  "symbol": "kitty",
+  "decimals": 18,
+  "description": "kitty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kitty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kitty",
+  "addresses": {
+    "8453": "0x1e991144e009dce94bde49e038995b99c8b8cf14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kitty",
+    "sanitizedSymbol": "KITTY_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf7714634c8b226e664AcE3468b907a9F4D2d0EEf",
+    "lpNftId": "1326702",
+    "lockerAddress": "0x089b9b106F4a2Ae461cD5f2012487eB18a929E40"
+  },
+  "clankerInfo": null
+}

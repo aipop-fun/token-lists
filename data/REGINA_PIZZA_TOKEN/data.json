@@ -1,0 +1,22 @@
+{
+  "name": "Regina Pizza Token",
+  "symbol": "Regina Pizza Token",
+  "decimals": 18,
+  "description": "Regina Pizza Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Regina%20Pizza%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Regina Pizza Token",
+  "addresses": {
+    "8453": "0x111185d7c007c3cd437cdbd850e35b305f56fb8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Regina Pizza Token",
+    "sanitizedSymbol": "REGINA_PIZZA_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1115293",
+    "lockerAddress": "0x6D5AAf52869a31037Dc54b9B42c7F24860be49DC"
+  },
+  "clankerInfo": null
+}

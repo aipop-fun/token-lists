@@ -1,0 +1,22 @@
+{
+  "name": "CrUd",
+  "symbol": "CrUd",
+  "decimals": 18,
+  "description": "CrUd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrUd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrUd",
+  "addresses": {
+    "8453": "0x196b1383a9c906fc581d58b7332714cd8bf3b3e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrUd",
+    "sanitizedSymbol": "CRUD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1318096",
+    "lockerAddress": "0x1804700451332532282ADcBa36b1B9B073C2DF42"
+  },
+  "clankerInfo": null
+}

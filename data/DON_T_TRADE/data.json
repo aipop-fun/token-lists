@@ -1,0 +1,22 @@
+{
+  "name": "DON'T TRADE",
+  "symbol": "DON'T TRADE",
+  "decimals": 18,
+  "description": "DON'T TRADE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DON'T%20TRADE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DON'T TRADE",
+  "addresses": {
+    "8453": "0x075db71caf9985f62c994fa66eec8e95e52c589a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DON'T TRADE",
+    "sanitizedSymbol": "DON_T_TRADE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221633",
+    "lockerAddress": "0xA4168542C6Bf5A5543d77861eaFD52cB2a451577"
+  },
+  "clankerInfo": null
+}

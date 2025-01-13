@@ -1,0 +1,22 @@
+{
+  "name": "chillyAI",
+  "symbol": "chillyAI",
+  "decimals": 18,
+  "description": "chillyAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillyAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillyAI",
+  "addresses": {
+    "8453": "0x15178e21583880be7eb19a323331a72e9f3e9612"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillyAI",
+    "sanitizedSymbol": "CHILLYAI_1",
+    "created_at": "2024-12-11T22:55:35.217667",
+    "deployer": "0x64624350Bf76f7075966fF0343055ab4db555b35",
+    "lpNftId": "1427528",
+    "lockerAddress": "0x3532A9dA7047dC573CB8090eE23FD1f8b40f60eC"
+  },
+  "clankerInfo": null
+}

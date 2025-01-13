@@ -1,0 +1,22 @@
+{
+  "name": "HexGolf",
+  "symbol": "HexGolf",
+  "decimals": 18,
+  "description": "HexGolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HexGolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HexGolf",
+  "addresses": {
+    "8453": "0x1234d11bc999e29ee879065d7ab7f1fae949c7b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HexGolf",
+    "sanitizedSymbol": "HEXGOLF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFE3A509F8E8eb59209CC8c9b90f7b352781E96f4",
+    "lpNftId": "1311227",
+    "lockerAddress": "0x88A384c788F7083b3640ce4913f29Fe57edE7715"
+  },
+  "clankerInfo": null
+}

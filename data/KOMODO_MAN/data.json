@@ -1,0 +1,22 @@
+{
+  "name": "Komodo MAN",
+  "symbol": "Komodo MAN",
+  "decimals": 18,
+  "description": "Komodo MAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Komodo%20MAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Komodo MAN",
+  "addresses": {
+    "8453": "0x4052fc98fe3d58467a35b669439c75829f0e1f62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Komodo MAN",
+    "sanitizedSymbol": "KOMODO_MAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1300967",
+    "lockerAddress": "0x109Ff3099F9BAB6Aa136625A6741aEB8dCCA8fB1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LiFk",
+  "symbol": "LiFk",
+  "decimals": 18,
+  "description": "LiFk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LiFk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LiFk",
+  "addresses": {
+    "8453": "0x12a6fa95b5af3112876ed85bdc853d1d2d287c72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LiFk",
+    "sanitizedSymbol": "LIFK",
+    "created_at": "2024-12-11T07:24:57.230234",
+    "deployer": "0x7412d816887029175C45a85b1bCcE564c1B0A28f",
+    "lpNftId": "1414068",
+    "lockerAddress": "0x16eA95B2dE69f74bcF0e382cEdD93202b560f0eC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin by Clanker",
+  "symbol": "Bitcoin by Clanker",
+  "decimals": 18,
+  "description": "Bitcoin by Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20by%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin by Clanker",
+  "addresses": {
+    "8453": "0x32d7cfe3fcd1c0123eb28ea3b3d71545004a85aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin by Clanker",
+    "sanitizedSymbol": "BITCOIN_BY_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1158B5393c839a9ce2fC1af75E85c3162E0Db3F0",
+    "lpNftId": "1269131",
+    "lockerAddress": "0xE8893fD398a02b55a5D5fe531B61fed771Bb19e3"
+  },
+  "clankerInfo": null
+}

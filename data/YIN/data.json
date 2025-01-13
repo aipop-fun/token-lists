@@ -1,0 +1,22 @@
+{
+  "name": "Yin",
+  "symbol": "Yin",
+  "decimals": 18,
+  "description": "Yin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yin",
+  "addresses": {
+    "8453": "0x10c47fdd6cdbe8b3bb8b86216144de958941bfce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yin",
+    "sanitizedSymbol": "YIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230915",
+    "lockerAddress": "0xDdeFD7B1BaAaD7Ee265cE7bc3649c3204Ac71555"
+  },
+  "clankerInfo": null
+}

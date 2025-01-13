@@ -1,0 +1,22 @@
+{
+  "name": "Cat wif hat",
+  "symbol": "Cat wif hat",
+  "decimals": 18,
+  "description": "Cat wif hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20wif%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat wif hat",
+  "addresses": {
+    "8453": "0x3b3de718d1961edca4ffd71362424f24da247118"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat wif hat",
+    "sanitizedSymbol": "CAT_WIF_HAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231197",
+    "lockerAddress": "0xC7D64D1B302193003147FcDeA25B730A3516b89B"
+  },
+  "clankerInfo": null
+}

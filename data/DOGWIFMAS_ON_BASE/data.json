@@ -1,0 +1,22 @@
+{
+  "name": "Dogwifmas on base",
+  "symbol": "Dogwifmas on base",
+  "decimals": 18,
+  "description": "Dogwifmas on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogwifmas%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogwifmas on base",
+  "addresses": {
+    "8453": "0x330d8fb699d722057187adb496cbf6b80df78008"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogwifmas on base",
+    "sanitizedSymbol": "DOGWIFMAS_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1327E45d97169521Ce965Cb5e90fFcF0a83Df54c",
+    "lpNftId": "1368924",
+    "lockerAddress": "0x5FEeB6Db845B557b92c53F4c989fb39Fa21C5EBE"
+  },
+  "clankerInfo": null
+}

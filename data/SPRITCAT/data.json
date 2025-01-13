@@ -1,0 +1,22 @@
+{
+  "name": "SpritCat",
+  "symbol": "SpritCat",
+  "decimals": 18,
+  "description": "SpritCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpritCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpritCat",
+  "addresses": {
+    "8453": "0x08b9af493c93bc5b198a5a84e63a5e1f6cd82b4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpritCat",
+    "sanitizedSymbol": "SPRITCAT",
+    "created_at": "2024-12-11T21:08:07.051439",
+    "deployer": "0xad545f97E34E094b54cb78B94Cb662e6139f88f7",
+    "lpNftId": "1425867",
+    "lockerAddress": "0xde29d007e7E63A1C17F6337B3413cE9dF5Bad106"
+  },
+  "clankerInfo": null
+}

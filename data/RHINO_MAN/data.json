@@ -1,0 +1,22 @@
+{
+  "name": "Rhino Man",
+  "symbol": "Rhino Man",
+  "decimals": 18,
+  "description": "Rhino Man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rhino%20Man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rhino Man",
+  "addresses": {
+    "8453": "0x33feec183a9b6da89694f73df30dc71180507b8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rhino Man",
+    "sanitizedSymbol": "RHINO_MAN",
+    "created_at": "2024-12-12T03:16:05.507766",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1428836",
+    "lockerAddress": "0x4757852Ec9b222c34dAaed4633795aCDbE52f6c6"
+  },
+  "clankerInfo": null
+}

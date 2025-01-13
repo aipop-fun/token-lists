@@ -1,0 +1,22 @@
+{
+  "name": "MONKIL",
+  "symbol": "MONKIL",
+  "decimals": 18,
+  "description": "MONKIL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONKIL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONKIL",
+  "addresses": {
+    "8453": "0x2a59db252dca7d9750bd67007fbdcb4d32dcd2c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONKIL",
+    "sanitizedSymbol": "MONKIL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4A4E38De548F3bC69cDdb003E5c42C6bca147539",
+    "lpNftId": "1327703",
+    "lockerAddress": "0xE5e76463A96204c0ebeCDdf7d804C189E4b7AaeF"
+  },
+  "clankerInfo": null
+}

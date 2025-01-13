@@ -1,0 +1,22 @@
+{
+  "name": "ewclairdrops",
+  "symbol": "ewclairdrops",
+  "decimals": 18,
+  "description": "ewclairdrops is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ewclairdrops",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ewclairdrops",
+  "addresses": {
+    "8453": "0x1c49aa1072ab3bd285ecbbf3b19ea64ef15db46a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ewclairdrops",
+    "sanitizedSymbol": "EWCLAIRDROPS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129906",
+    "lockerAddress": "0xFBcf8dc139619D3293CEFB24Dc9B92723b5735CB"
+  },
+  "clankerInfo": null
+}

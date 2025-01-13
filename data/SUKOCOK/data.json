@@ -1,0 +1,22 @@
+{
+  "name": "Sukocok",
+  "symbol": "Sukocok",
+  "decimals": 18,
+  "description": "Sukocok is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sukocok",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sukocok",
+  "addresses": {
+    "8453": "0x07dd5a48fe89a844c338f949d2158c01abda4ce7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sukocok",
+    "sanitizedSymbol": "SUKOCOK",
+    "created_at": "2024-12-11T07:42:06.41223",
+    "deployer": "0x7321bdE7749D3E5729e8D60C8fC0C16a7C2029f8",
+    "lpNftId": "1414140",
+    "lockerAddress": "0x2F3B876CE9D79451ecE370010D107072A61e9C95"
+  },
+  "clankerInfo": null
+}

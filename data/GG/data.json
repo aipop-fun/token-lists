@@ -1,0 +1,22 @@
+{
+  "name": "GG",
+  "symbol": "GG",
+  "decimals": 18,
+  "description": "GG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GG",
+  "addresses": {
+    "8453": "0x095a7647637b0c351ac2fbcc011a9b02174fc54a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GG",
+    "sanitizedSymbol": "GG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1250361",
+    "lockerAddress": "0x223689F133E2616eACb4459973DC9430CFACa452"
+  },
+  "clankerInfo": null
+}

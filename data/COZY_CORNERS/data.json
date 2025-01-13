@@ -1,0 +1,22 @@
+{
+  "name": "Cozy Corners",
+  "symbol": "Cozy Corners",
+  "decimals": 18,
+  "description": "Cozy Corners is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cozy%20Corners",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cozy Corners",
+  "addresses": {
+    "8453": "0x1cc92c6cece20d3aef195f9b626ad3e0aa1ae69d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cozy Corners",
+    "sanitizedSymbol": "COZY_CORNERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222341",
+    "lockerAddress": "0x233c508D5a9F9B84E62Fc4BDe5C4bDCB78C7Ae06"
+  },
+  "clankerInfo": null
+}

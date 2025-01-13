@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Gold",
+  "symbol": "Clanker Gold",
+  "decimals": 18,
+  "description": "Clanker Gold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Gold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Gold",
+  "addresses": {
+    "8453": "0x05a1ab5978a87a11db9b42527d67a094ce952031"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Gold",
+    "sanitizedSymbol": "CLANKER_GOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9AD01751f515952b2d0508D3E444Bc5575b964b7",
+    "lpNftId": "1311934",
+    "lockerAddress": "0x526Fdfe6bd8233C8F41498437ca789B6cc411338"
+  },
+  "clankerInfo": null
+}

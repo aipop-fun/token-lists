@@ -1,0 +1,22 @@
+{
+  "name": "BORED Agent",
+  "symbol": "BORED Agent",
+  "decimals": 18,
+  "description": "BORED Agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BORED%20Agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BORED Agent",
+  "addresses": {
+    "8453": "0x313d84cd169c70960821d2dd2ef6b0531f6f4be0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BORED Agent",
+    "sanitizedSymbol": "BORED_AGENT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xBa114b038323dC8eF0b68a5835349d7f4D3f7B3a",
+    "lpNftId": "1264329",
+    "lockerAddress": "0x4C9573c1094C6621A1141BE410D66609a6De68B4"
+  },
+  "clankerInfo": null
+}

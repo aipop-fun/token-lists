@@ -1,0 +1,22 @@
+{
+  "name": "Based Fugu",
+  "symbol": "Based Fugu",
+  "decimals": 18,
+  "description": "Based Fugu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Fugu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Fugu",
+  "addresses": {
+    "8453": "0x38baa98c0b79a7adde4af2f7b8f1a8ca5e0a0c85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Fugu",
+    "sanitizedSymbol": "BASED_FUGU",
+    "created_at": "2024-12-12T12:30:42.335371",
+    "deployer": "0xF834d652A8Ccc2337f5B6E9718cd1725f082aC3F",
+    "lpNftId": "1434119",
+    "lockerAddress": "0x189A22F962A2568881fB7e6CcC8c4FCF18B4Eba0"
+  },
+  "clankerInfo": null
+}

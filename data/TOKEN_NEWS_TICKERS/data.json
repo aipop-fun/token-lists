@@ -1,0 +1,22 @@
+{
+  "name": "Token News Tickers",
+  "symbol": "Token News Tickers",
+  "decimals": 18,
+  "description": "Token News Tickers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20News%20Tickers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token News Tickers",
+  "addresses": {
+    "8453": "0x0a3608668b6a6ed2cdb3257049e2aa4cda12fe8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token News Tickers",
+    "sanitizedSymbol": "TOKEN_NEWS_TICKERS",
+    "created_at": "2024-12-12T02:38:11.833614",
+    "deployer": "0x5F47E54006B79f179e20De7Cd7692136688B5e96",
+    "lpNftId": "1428676",
+    "lockerAddress": "0x90143D6Be08ea14EEB7DB4c7cA163bfAcc60E06c"
+  },
+  "clankerInfo": null
+}

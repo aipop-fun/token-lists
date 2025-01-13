@@ -1,0 +1,22 @@
+{
+  "name": "Beer Me",
+  "symbol": "Beer Me",
+  "decimals": 18,
+  "description": "Beer Me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Beer%20Me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Beer Me",
+  "addresses": {
+    "8453": "0x1683aaaf484480613ed71cbb668f571b7e384301"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Beer Me",
+    "sanitizedSymbol": "BEER_ME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xC6B7973D3B4501e24Fa8768B048C3e838c45023a",
+    "lpNftId": "1250536",
+    "lockerAddress": "0x7c5762b8c9D283085471A31b5aC1f37E905e6105"
+  },
+  "clankerInfo": null
+}

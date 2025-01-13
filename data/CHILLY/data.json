@@ -1,0 +1,22 @@
+{
+  "name": "chilly",
+  "symbol": "chilly",
+  "decimals": 18,
+  "description": "chilly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chilly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chilly",
+  "addresses": {
+    "8453": "0x113ed3f3d9d59b51e49acff5dcbd5ec4e810318e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chilly",
+    "sanitizedSymbol": "CHILLY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70f9e0Db879e6CfB1E1627569919eA45ed004DB8",
+    "lpNftId": "1331049",
+    "lockerAddress": "0x12ce393c64bc198f41D228729DF6dfd408d3e50F"
+  },
+  "clankerInfo": null
+}

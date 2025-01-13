@@ -1,0 +1,22 @@
+{
+  "name": "leohenkels",
+  "symbol": "leohenkels",
+  "decimals": 18,
+  "description": "leohenkels is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=leohenkels",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "leohenkels",
+  "addresses": {
+    "8453": "0x23e1e5bae4582cbfcce7a983f39153a9af251fdb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "leohenkels",
+    "sanitizedSymbol": "LEOHENKELS",
+    "created_at": "2024-12-11T07:13:41.098394",
+    "deployer": "0x3D41d55eb141c5249136654D59284Da06DD26034",
+    "lpNftId": "1414031",
+    "lockerAddress": "0x353B8A5753679851daEFA8595A48eAbCBfd0F64a"
+  },
+  "clankerInfo": null
+}

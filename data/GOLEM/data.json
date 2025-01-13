@@ -1,0 +1,22 @@
+{
+  "name": "golem",
+  "symbol": "golem",
+  "decimals": 18,
+  "description": "golem is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=golem",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "golem",
+  "addresses": {
+    "8453": "0x37927ad6fdfe8d408649195e75d9c4c7acdcbdad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "golem",
+    "sanitizedSymbol": "GOLEM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3507F841fC0D67b73053f1B26DfcDbb0b5EC7Bbb",
+    "lpNftId": "1252002",
+    "lockerAddress": "0x43E54bE662dFe7A4D83344fc816cF466Ea2Ecae3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DADBODZ",
+  "symbol": "DADBODZ",
+  "decimals": 18,
+  "description": "DADBODZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DADBODZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DADBODZ",
+  "addresses": {
+    "8453": "0x1247ecb7774b51b368a15ae2c3821bdb152877e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DADBODZ",
+    "sanitizedSymbol": "DADBODZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0F737Bb605755f06063D47d987629E5198c707ff",
+    "lpNftId": "1324900",
+    "lockerAddress": "0xc13dcd683B290f69A56ccb3424C500D2b0A1F480"
+  },
+  "clankerInfo": null
+}

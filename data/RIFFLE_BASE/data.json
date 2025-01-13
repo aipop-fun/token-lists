@@ -1,0 +1,22 @@
+{
+  "name": "Riffle Base",
+  "symbol": "Riffle Base",
+  "decimals": 18,
+  "description": "Riffle Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Riffle%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Riffle Base",
+  "addresses": {
+    "8453": "0x3154fe01171452c9a6c0f0a7da9d8572819d21fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Riffle Base",
+    "sanitizedSymbol": "RIFFLE_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xae908da09E25F27b6c8Bb2b25fF1712bC4cE2fdD",
+    "lpNftId": "1313130",
+    "lockerAddress": "0xf9473914ffF0233448A0842D81172f58FdA9867b"
+  },
+  "clankerInfo": null
+}

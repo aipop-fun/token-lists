@@ -1,0 +1,22 @@
+{
+  "name": "SKITTEN",
+  "symbol": "SKITTEN",
+  "decimals": 18,
+  "description": "SKITTEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKITTEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKITTEN",
+  "addresses": {
+    "8453": "0x014b24c586d4eb146839de027950520ce140bf00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKITTEN",
+    "sanitizedSymbol": "SKITTEN",
+    "created_at": "2024-12-11T16:37:41.354498",
+    "deployer": "0x3Ec928a64f8D10063884AdD5436401d03E7F03ad",
+    "lpNftId": "1421947",
+    "lockerAddress": "0x2AEB4d51604a3BF4bf54C1991b3159CffF6bb3B4"
+  },
+  "clankerInfo": null
+}

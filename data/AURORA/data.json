@@ -1,0 +1,22 @@
+{
+  "name": "AURORA",
+  "symbol": "AURORA",
+  "decimals": 18,
+  "description": "AURORA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AURORA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AURORA",
+  "addresses": {
+    "8453": "0x332eb48ca146a8aa02abb37d1c39439b9c614d6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AURORA",
+    "sanitizedSymbol": "AURORA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4EB7270664fE43af587e9a971aCbf562f3E7FC01",
+    "lpNftId": "1305947",
+    "lockerAddress": "0x1a8900F77C617Ff313d55435d9816e228fA95941"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ALCHEMY",
+  "symbol": "ALCHEMY",
+  "decimals": 18,
+  "description": "ALCHEMY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALCHEMY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALCHEMY",
+  "addresses": {
+    "8453": "0x38eaf98a95602298c360e351cff7a1a180c7ed85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALCHEMY",
+    "sanitizedSymbol": "ALCHEMY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x851f5a2ae1113c287F8483b22934Bc144357Ed9A",
+    "lpNftId": "1291819",
+    "lockerAddress": "0x30642EbC6C1d2fd5202C1D26d8Bc4b71B1E8B644"
+  },
+  "clankerInfo": null
+}

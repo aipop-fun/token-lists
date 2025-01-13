@@ -1,0 +1,22 @@
+{
+  "name": "YETIS",
+  "symbol": "YETIS",
+  "decimals": 18,
+  "description": "YETIS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YETIS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YETIS",
+  "addresses": {
+    "8453": "0x38541528e8ef74958ef17ab78693a0dcf4f567a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YETIS",
+    "sanitizedSymbol": "YETIS_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x861D6c2cE06CCAD847288d0B3BAC2C024F36629f",
+    "lpNftId": "1265590",
+    "lockerAddress": "0x98e177286cE907C687bCFd21006f3675ac8F696D"
+  },
+  "clankerInfo": null
+}

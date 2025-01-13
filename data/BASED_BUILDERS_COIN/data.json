@@ -1,0 +1,22 @@
+{
+  "name": "Based Builders Coin",
+  "symbol": "Based Builders Coin",
+  "decimals": 18,
+  "description": "Based Builders Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Builders%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Builders Coin",
+  "addresses": {
+    "8453": "0x26125aa6796fdeed82516cdf7f8f2c9be3b77395"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Builders Coin",
+    "sanitizedSymbol": "BASED_BUILDERS_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a17db0D8D7430BA12A0FC9293438F2A581c9e87",
+    "lpNftId": "1345372",
+    "lockerAddress": "0xad4ffACd24765596531Fdd3C91B0DE7b63018C40"
+  },
+  "clankerInfo": null
+}

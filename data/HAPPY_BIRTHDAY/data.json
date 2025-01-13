@@ -1,0 +1,22 @@
+{
+  "name": "Happy Birthday",
+  "symbol": "Happy Birthday",
+  "decimals": 18,
+  "description": "Happy Birthday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Birthday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Birthday",
+  "addresses": {
+    "8453": "0x00d6158ce055e04d4d51cbb1e71c45b4b2c37126"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Birthday",
+    "sanitizedSymbol": "HAPPY_BIRTHDAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0eABa1b83c3A54002B51dB725f5F48E523c5C6F1",
+    "lpNftId": "1324024",
+    "lockerAddress": "0x917E6B0c6eCE071a030a82F6554fE68c92aEeBA7"
+  },
+  "clankerInfo": null
+}

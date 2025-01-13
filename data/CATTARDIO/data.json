@@ -1,0 +1,22 @@
+{
+  "name": "Cattardio",
+  "symbol": "Cattardio",
+  "decimals": 18,
+  "description": "Cattardio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cattardio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cattardio",
+  "addresses": {
+    "8453": "0x2c7f0814c0728c04d1bf2c107a4103831c06a761"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cattardio",
+    "sanitizedSymbol": "CATTARDIO",
+    "created_at": "2024-12-10T20:45:43.671204",
+    "deployer": "0x4dCEcF9b084B30214b61788696e10520b436871E",
+    "lpNftId": "1407009",
+    "lockerAddress": "0xBEAAB3118635f66CFcc860Ed91225d0b9AD6D496"
+  },
+  "clankerInfo": null
+}

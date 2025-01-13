@@ -1,0 +1,22 @@
+{
+  "name": "Whale",
+  "symbol": "Whale",
+  "decimals": 18,
+  "description": "Whale is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whale",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whale",
+  "addresses": {
+    "8453": "0x320be4ac4b990ae634bb745107eab72900772c73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whale",
+    "sanitizedSymbol": "WHALE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x626bfbac7135B235669f8Dbe8BD9Ce2B40991073",
+    "lpNftId": "1310331",
+    "lockerAddress": "0xc9B7436fee1E32FB9e60381D837278F9a7DBCCC2"
+  },
+  "clankerInfo": null
+}

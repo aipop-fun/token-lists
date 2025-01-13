@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Car",
+  "symbol": "Clanker Car",
+  "decimals": 18,
+  "description": "Clanker Car is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Car",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Car",
+  "addresses": {
+    "8453": "0x2134f3b1f5d7ae651d46c2dac6dd1ea2c5a2a47f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Car",
+    "sanitizedSymbol": "CLANKER_CAR",
+    "created_at": "2024-12-10T20:51:41.255847",
+    "deployer": "0xCA1D2dBc3Bb2B19895459f8a82642821DD227365",
+    "lpNftId": "1407065",
+    "lockerAddress": "0x5715ba3bbd3eFb1c5a2947deE4AC9a35C8B2fC76"
+  },
+  "clankerInfo": null
+}

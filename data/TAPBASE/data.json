@@ -1,0 +1,22 @@
+{
+  "name": "TAPBASE",
+  "symbol": "TAPBASE",
+  "decimals": 18,
+  "description": "TAPBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAPBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAPBASE",
+  "addresses": {
+    "8453": "0x00a7a78065b6f27868712a51751f37a50fee0aac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAPBASE",
+    "sanitizedSymbol": "TAPBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1309386",
+    "lockerAddress": "0xebF8fC00b10375220CED8EB0FCD1C059D806396b"
+  },
+  "clankerInfo": null
+}

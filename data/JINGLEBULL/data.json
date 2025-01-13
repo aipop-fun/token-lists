@@ -1,0 +1,22 @@
+{
+  "name": "JingleBull",
+  "symbol": "JingleBull",
+  "decimals": 18,
+  "description": "JingleBull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JingleBull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JingleBull",
+  "addresses": {
+    "8453": "0x31c5ccfc7cbd29e910e6f75cd98a602c979711e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JingleBull",
+    "sanitizedSymbol": "JINGLEBULL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x92bA98347C909e1F599E3B6d254f6aeee5FA2b15",
+    "lpNftId": "1326592",
+    "lockerAddress": "0x5f952dBcd063F5C7483B2b95b13c65a4626a78ea"
+  },
+  "clankerInfo": null
+}

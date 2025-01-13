@@ -1,0 +1,22 @@
+{
+  "name": "Ganyu",
+  "symbol": "Ganyu",
+  "decimals": 18,
+  "description": "Ganyu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ganyu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ganyu",
+  "addresses": {
+    "8453": "0x1ed2021611f53ab1eda913d3b0ec788233ae3020"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ganyu",
+    "sanitizedSymbol": "GANYU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204142",
+    "lockerAddress": "0x0979713de9ba3A15a34F72E5F18b2037862FEC1C"
+  },
+  "clankerInfo": null
+}

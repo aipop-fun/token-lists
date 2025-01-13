@@ -1,0 +1,22 @@
+{
+  "name": "AURA",
+  "symbol": "AURA",
+  "decimals": 18,
+  "description": "AURA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AURA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AURA",
+  "addresses": {
+    "8453": "0x174ea0a06e50faebf2f5856c9e95ec028a28c51b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AURA",
+    "sanitizedSymbol": "AURA_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1280124",
+    "lockerAddress": "0x9B14Af925Efc94C80242Cb102eF819785c2103Db"
+  },
+  "clankerInfo": null
+}

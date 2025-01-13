@@ -1,0 +1,22 @@
+{
+  "name": "FIRER IN HERE",
+  "symbol": "FIRER IN HERE",
+  "decimals": 18,
+  "description": "FIRER IN HERE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FIRER%20IN%20HERE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FIRER IN HERE",
+  "addresses": {
+    "8453": "0x2c4b13ea45955b194d4375fd056c5db48eea7fb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FIRER IN HERE",
+    "sanitizedSymbol": "FIRER_IN_HERE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234515",
+    "lockerAddress": "0x08bd896350C3ee901b8E2b33aA86c42028AFa69a"
+  },
+  "clankerInfo": null
+}

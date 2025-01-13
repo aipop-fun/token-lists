@@ -1,0 +1,22 @@
+{
+  "name": "XUXU BOI",
+  "symbol": "XUXU BOI",
+  "decimals": 18,
+  "description": "XUXU BOI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XUXU%20BOI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XUXU BOI",
+  "addresses": {
+    "8453": "0x0a3bc4ae3514b88c762f984f2b62ec96c8f6c2b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XUXU BOI",
+    "sanitizedSymbol": "XUXU_BOI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x09dB4167fce02A676c05C204075e6f37c4CD2BB0",
+    "lpNftId": "1269235",
+    "lockerAddress": "0x9F081e1D90BE970A4f75aB27CaE8c5041DB5ceD6"
+  },
+  "clankerInfo": null
+}

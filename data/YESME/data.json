@@ -1,0 +1,22 @@
+{
+  "name": "yesme",
+  "symbol": "yesme",
+  "decimals": 18,
+  "description": "yesme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yesme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yesme",
+  "addresses": {
+    "8453": "0x23304814deb30476e8ed6625b6420b8bef7412f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yesme",
+    "sanitizedSymbol": "YESME",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1252375",
+    "lockerAddress": "0x681331469ca4d750604f94f2217F77A57EcD5d46"
+  },
+  "clankerInfo": null
+}

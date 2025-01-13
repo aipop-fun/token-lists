@@ -1,0 +1,22 @@
+{
+  "name": "Assad Out",
+  "symbol": "Assad Out",
+  "decimals": 18,
+  "description": "Assad Out is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Assad%20Out",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Assad Out",
+  "addresses": {
+    "8453": "0x0c8c5ef3cb1ce870536f1676ec24bc5d48ef64cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Assad Out",
+    "sanitizedSymbol": "ASSAD_OUT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4501457c36aE0647Cd43a1a81EA4e9E69604215f",
+    "lpNftId": "1368965",
+    "lockerAddress": "0xA7763DcDFA3B13bEb928c628fc7C5232Ec9b2724"
+  },
+  "clankerInfo": null
+}

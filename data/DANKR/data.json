@@ -1,0 +1,22 @@
+{
+  "name": "dankr",
+  "symbol": "dankr",
+  "decimals": 18,
+  "description": "dankr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dankr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dankr",
+  "addresses": {
+    "8453": "0x0bb16d33cba563b8335a5c91a4fd070f79d2f71e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dankr",
+    "sanitizedSymbol": "DANKR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1274469",
+    "lockerAddress": "0x3D91C85DD62BA51E1a0959687Ab500F3d8133614"
+  },
+  "clankerInfo": null
+}

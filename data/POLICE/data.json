@@ -1,0 +1,22 @@
+{
+  "name": "Police",
+  "symbol": "Police",
+  "decimals": 18,
+  "description": "Police is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Police",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Police",
+  "addresses": {
+    "8453": "0x32e4da8a0864ca3982e60fef55f8c764f23e2a56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Police",
+    "sanitizedSymbol": "POLICE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1290412",
+    "lockerAddress": "0x6DEEd66879430A24f4e912599429b88e19504fdE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Right",
+  "symbol": "Right",
+  "decimals": 18,
+  "description": "Right is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Right",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Right",
+  "addresses": {
+    "8453": "0x1f871bafec8542af9cc20532464129b41fb89af1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Right",
+    "sanitizedSymbol": "RIGHT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcBd28aBB72Ea2a4edEbB2bE5D8BcEd06329D83b1",
+    "lpNftId": "1327618",
+    "lockerAddress": "0x030579F6bD6b6A19d90c9C43a03fF8f753a349AB"
+  },
+  "clankerInfo": null
+}

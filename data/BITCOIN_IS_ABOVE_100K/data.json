@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin is above 100k",
+  "symbol": "Bitcoin is above 100k",
+  "decimals": 18,
+  "description": "Bitcoin is above 100k is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20is%20above%20100k",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin is above 100k",
+  "addresses": {
+    "8453": "0x27decd7ed1df8dde7d5b5e4f1eb1c1c8a7e0e25b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin is above 100k",
+    "sanitizedSymbol": "BITCOIN_IS_ABOVE_100K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbf32e2D95A019F5EeEaE6b2EDfEb9a824640ef8B",
+    "lpNftId": "1332604",
+    "lockerAddress": "0x48DFa6Ead8497f3308e27f220b0844FF228e95a5"
+  },
+  "clankerInfo": null
+}

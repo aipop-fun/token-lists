@@ -1,0 +1,22 @@
+{
+  "name": "receipt",
+  "symbol": "receipt",
+  "decimals": 18,
+  "description": "receipt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=receipt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "receipt",
+  "addresses": {
+    "8453": "0x17a3fcb4a820b584ccc6318044efccb94aca6d77"
+  },
+  "tokenInfo": {
+    "originalSymbol": "receipt",
+    "sanitizedSymbol": "RECEIPT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0De39C5a09802D4c9578230D1EB87F2e7d1908d9",
+    "lpNftId": "1299986",
+    "lockerAddress": "0x38f5fb9EC1dd2BF3851272B2DBD6a45E882372e5"
+  },
+  "clankerInfo": null
+}

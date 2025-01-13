@@ -1,0 +1,22 @@
+{
+  "name": "CLANKIN",
+  "symbol": "CLANKIN",
+  "decimals": 18,
+  "description": "CLANKIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKIN",
+  "addresses": {
+    "8453": "0x1a324aea839d2a5aacb801719d4ac9e389b1b43a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKIN",
+    "sanitizedSymbol": "CLANKIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226299",
+    "lockerAddress": "0x0D90938371128364a832d2aA62B42612C37221Cf"
+  },
+  "clankerInfo": null
+}

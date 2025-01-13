@@ -1,0 +1,22 @@
+{
+  "name": "hybe",
+  "symbol": "hybe",
+  "decimals": 18,
+  "description": "hybe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hybe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hybe",
+  "addresses": {
+    "8453": "0x09937e0faa312ccc4ce6633f0887fdfc029c405a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hybe",
+    "sanitizedSymbol": "HYBE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc0A08108668a0AE72d31C9FDF0CeFb3454CC7C7B",
+    "lpNftId": "1265093",
+    "lockerAddress": "0xB2E301C3Ee5881974FAa1A96DE41607488d5Ef1b"
+  },
+  "clankerInfo": null
+}

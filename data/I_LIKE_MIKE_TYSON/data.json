@@ -1,0 +1,22 @@
+{
+  "name": "i like mike tyson",
+  "symbol": "i like mike tyson",
+  "decimals": 18,
+  "description": "i like mike tyson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=i%20like%20mike%20tyson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "i like mike tyson",
+  "addresses": {
+    "8453": "0x0fd97f03dea8c59d485d5fd4ecee7cb049fce2bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "i like mike tyson",
+    "sanitizedSymbol": "I_LIKE_MIKE_TYSON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE3883B5d2013b772D0F92d41eCC3e92C3F2EB924",
+    "lpNftId": "1330400",
+    "lockerAddress": "0x3490d8D16385Fcc6524237F379c68C6F65A5750F"
+  },
+  "clankerInfo": null
+}

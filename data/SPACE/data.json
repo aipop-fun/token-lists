@@ -1,0 +1,22 @@
+{
+  "name": "Space",
+  "symbol": "Space",
+  "decimals": 18,
+  "description": "Space is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Space",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Space",
+  "addresses": {
+    "8453": "0x3373bacae0abfceb84abad20468830c3ff4356d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Space",
+    "sanitizedSymbol": "SPACE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223219",
+    "lockerAddress": "0xAa53C0b6B913470ef8404107D5b3a31B5A1cD79b"
+  },
+  "clankerInfo": null
+}

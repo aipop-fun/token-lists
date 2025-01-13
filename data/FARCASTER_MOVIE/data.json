@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Movie",
+  "symbol": "Farcaster Movie",
+  "decimals": 18,
+  "description": "Farcaster Movie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Movie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Movie",
+  "addresses": {
+    "8453": "0x26fbeb730ee177fc18d91c7bf3fb1b2c9186d6be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Movie",
+    "sanitizedSymbol": "FARCASTER_MOVIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1317736",
+    "lockerAddress": "0xA303716573C18721271D5f7B27a638F731902Bd8"
+  },
+  "clankerInfo": null
+}

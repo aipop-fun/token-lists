@@ -1,0 +1,22 @@
+{
+  "name": "Shoe",
+  "symbol": "Shoe",
+  "decimals": 18,
+  "description": "Shoe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shoe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shoe",
+  "addresses": {
+    "8453": "0x05b7db3b668f042117a44e7ebf12cc77bb852127"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shoe",
+    "sanitizedSymbol": "SHOE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231186",
+    "lockerAddress": "0xb95eb8485034eA72582538AF1c167f5CCfd9EBf1"
+  },
+  "clankerInfo": null
+}

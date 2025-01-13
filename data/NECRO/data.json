@@ -1,0 +1,22 @@
+{
+  "name": "necro",
+  "symbol": "necro",
+  "decimals": 18,
+  "description": "necro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=necro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "necro",
+  "addresses": {
+    "8453": "0x1add3e3b202d1a961d3c224f56657f6336a63fcc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "necro",
+    "sanitizedSymbol": "NECRO",
+    "created_at": "2024-12-09T00:31:30.984377",
+    "deployer": "0x948e399b0ebDE5C56AbF8c9b86D2F2080f2A3310",
+    "lpNftId": "1376953",
+    "lockerAddress": "0x9513AA9ed7bEf8242dc8Cd4b87E850FB36BfCC45"
+  },
+  "clankerInfo": null
+}

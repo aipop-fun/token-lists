@@ -1,0 +1,22 @@
+{
+  "name": "leerfei",
+  "symbol": "leerfei",
+  "decimals": 18,
+  "description": "leerfei is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=leerfei",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "leerfei",
+  "addresses": {
+    "8453": "0x177d6cce002b2d1639cbef9cd713a4ba67da28af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "leerfei",
+    "sanitizedSymbol": "LEERFEI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x12ce79966bC522569104d26db9037C9751aeCa80",
+    "lpNftId": "1124565",
+    "lockerAddress": "0x44f9e7Ca1709a4D76703EDBf3fe1B5C3Ba953216"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Babypig",
+  "symbol": "Babypig",
+  "decimals": 18,
+  "description": "Babypig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babypig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babypig",
+  "addresses": {
+    "8453": "0x0ad5c17de12f86267c12229f503f00f84116c85f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babypig",
+    "sanitizedSymbol": "BABYPIG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222450",
+    "lockerAddress": "0x63ecB92Ab03f79B37D9A37Cc73d365F407c0e547"
+  },
+  "clankerInfo": null
+}

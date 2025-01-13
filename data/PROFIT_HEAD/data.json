@@ -1,0 +1,22 @@
+{
+  "name": "PROFIT HEAD",
+  "symbol": "PROFIT HEAD",
+  "decimals": 18,
+  "description": "PROFIT HEAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROFIT%20HEAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROFIT HEAD",
+  "addresses": {
+    "8453": "0x217a25e63bf0bba411b0ad85ce04b70b025cda3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROFIT HEAD",
+    "sanitizedSymbol": "PROFIT_HEAD",
+    "created_at": "2024-12-10T01:42:45.647944",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1394401",
+    "lockerAddress": "0xF3e0d02bD5F0589871cfa042BDFAa28F33D65223"
+  },
+  "clankerInfo": null
+}

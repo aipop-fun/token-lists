@@ -1,0 +1,22 @@
+{
+  "name": "Frog Sailor",
+  "symbol": "Frog Sailor",
+  "decimals": 18,
+  "description": "Frog Sailor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frog%20Sailor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frog Sailor",
+  "addresses": {
+    "8453": "0x14ed5a99aa68c18432f5829e22538e30c0ffee3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frog Sailor",
+    "sanitizedSymbol": "FROG_SAILOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217688",
+    "lockerAddress": "0x62F41d806270e69D4bd97D1cDd6be3b1a749B684"
+  },
+  "clankerInfo": null
+}

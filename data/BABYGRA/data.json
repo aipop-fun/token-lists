@@ -1,0 +1,22 @@
+{
+  "name": "BabyGra",
+  "symbol": "BabyGra",
+  "decimals": 18,
+  "description": "BabyGra is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyGra",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyGra",
+  "addresses": {
+    "8453": "0x02fe3d221147b581acbfdd4358d50ec71d28a3fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyGra",
+    "sanitizedSymbol": "BABYGRA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x64d13992c30dC9863F5747dDa069CfC38424DE8C",
+    "lpNftId": "1329221",
+    "lockerAddress": "0x6EE181F29aC641cc71B4238B8CEc57a648d0cA77"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FARDOG",
+  "symbol": "FARDOG",
+  "decimals": 18,
+  "description": "FARDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARDOG",
+  "addresses": {
+    "8453": "0x14453131c35193b997a1f2537e0330d520b3f32b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARDOG",
+    "sanitizedSymbol": "FARDOG_1",
+    "created_at": "2024-12-12T16:18:38.547719",
+    "deployer": "0xcA204C8de43549421a3960Cd8675BD78fdeb2AB3",
+    "lpNftId": "1438298",
+    "lockerAddress": "0xb3952F2bE1bfEE484adDe54835B78c5Ba7a3897E"
+  },
+  "clankerInfo": null
+}

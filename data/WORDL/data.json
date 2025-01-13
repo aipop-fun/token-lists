@@ -1,0 +1,22 @@
+{
+  "name": "WORDL",
+  "symbol": "WORDL",
+  "decimals": 18,
+  "description": "WORDL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WORDL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WORDL",
+  "addresses": {
+    "8453": "0x2719c211c8b384e09236d832637fe92a6c9e127c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WORDL",
+    "sanitizedSymbol": "WORDL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3008087707330e3b85D61B6972934121aEd8E6E1",
+    "lpNftId": "1328654",
+    "lockerAddress": "0x0a99292321E947F2757c73eb306A00Ec068DfE49"
+  },
+  "clankerInfo": null
+}

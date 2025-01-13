@@ -1,0 +1,22 @@
+{
+  "name": "SIMMI TOKEN",
+  "symbol": "SIMMI TOKEN",
+  "decimals": 18,
+  "description": "SIMMI TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SIMMI%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SIMMI TOKEN",
+  "addresses": {
+    "8453": "0x03ed235543048d8f9ce2b320c19a2ad74fafffff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SIMMI TOKEN",
+    "sanitizedSymbol": "SIMMI_TOKEN",
+    "created_at": "2024-12-09T02:54:17.234766",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1379208",
+    "lockerAddress": "0xbB348347E8382f35784A9A7C9f8e156A1F152ef1"
+  },
+  "clankerInfo": null
+}

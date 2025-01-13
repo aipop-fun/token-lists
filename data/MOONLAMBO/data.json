@@ -1,0 +1,22 @@
+{
+  "name": "MoonLambo",
+  "symbol": "MoonLambo",
+  "decimals": 18,
+  "description": "MoonLambo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonLambo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonLambo",
+  "addresses": {
+    "8453": "0x1ddac7973f907f4724402d042f11ecc603afd3a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonLambo",
+    "sanitizedSymbol": "MOONLAMBO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166698",
+    "lockerAddress": "0x1BCcd83C7f1c01de570e4Cf684Cf155f0711105f"
+  },
+  "clankerInfo": null
+}

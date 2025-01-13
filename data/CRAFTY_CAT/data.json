@@ -1,0 +1,22 @@
+{
+  "name": "CRAFTY CAT",
+  "symbol": "CRAFTY CAT",
+  "decimals": 18,
+  "description": "CRAFTY CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRAFTY%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRAFTY CAT",
+  "addresses": {
+    "8453": "0x2811e9698ec190f7c495cbddc3b224536a5ee73b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRAFTY CAT",
+    "sanitizedSymbol": "CRAFTY_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd0b811b909afFd5B7F3e1201D450DA173796B7fB",
+    "lpNftId": "1286937",
+    "lockerAddress": "0xd39591D75299060ADC08e854e007711FcF9A2205"
+  },
+  "clankerInfo": null
+}

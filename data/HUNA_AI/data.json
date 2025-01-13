@@ -1,0 +1,22 @@
+{
+  "name": "HUNA AI",
+  "symbol": "HUNA AI",
+  "decimals": 18,
+  "description": "HUNA AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HUNA%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HUNA AI",
+  "addresses": {
+    "8453": "0x17f06f4d2073aa5f7a456cd39f6a01f8429a7bd1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HUNA AI",
+    "sanitizedSymbol": "HUNA_AI",
+    "created_at": "2024-12-11T18:31:38.980719",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1423838",
+    "lockerAddress": "0xb11c20f663b15e60F566a51baB25bC5ba34CEFD7"
+  },
+  "clankerInfo": null
+}

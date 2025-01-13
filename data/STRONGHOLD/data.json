@@ -1,0 +1,22 @@
+{
+  "name": "Stronghold",
+  "symbol": "Stronghold",
+  "decimals": 18,
+  "description": "Stronghold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stronghold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stronghold",
+  "addresses": {
+    "8453": "0x21fc79127c3493237fa5f2eda3b916ddff33e413"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stronghold",
+    "sanitizedSymbol": "STRONGHOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7F771401f247de9504a307cE27d74B7c39AC6f18",
+    "lpNftId": "1309191",
+    "lockerAddress": "0xf7AA7A9E37109e2425b4ceC07601Ff2020aB686C"
+  },
+  "clankerInfo": null
+}

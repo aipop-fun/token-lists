@@ -1,0 +1,22 @@
+{
+  "name": "MR. SPARKLE",
+  "symbol": "MR. SPARKLE",
+  "decimals": 18,
+  "description": "MR. SPARKLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MR.%20SPARKLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MR. SPARKLE",
+  "addresses": {
+    "8453": "0x373e57880308175c112ccd76941833e9a21f6592"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MR. SPARKLE",
+    "sanitizedSymbol": "MR_SPARKLE",
+    "created_at": "2024-12-11T01:01:55.386843",
+    "deployer": "0xd4c1F5F3D12373dcd9fd52dea6abA0D8461A3245",
+    "lpNftId": "1409195",
+    "lockerAddress": "0x41E41A2C77f249d3F959a9075194201B6099Ce1f"
+  },
+  "clankerInfo": null
+}

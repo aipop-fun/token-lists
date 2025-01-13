@@ -1,0 +1,22 @@
+{
+  "name": "FOKUS",
+  "symbol": "FOKUS",
+  "decimals": 18,
+  "description": "FOKUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOKUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOKUS",
+  "addresses": {
+    "8453": "0x239837a297e336cc2a12f7821d0cb5976d03a803"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOKUS",
+    "sanitizedSymbol": "FOKUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b7e3Cc6f43f0bC3417801D284D9df74367Ac5F9",
+    "lpNftId": "1287601",
+    "lockerAddress": "0x9a2EED2d2362680966f51Dd5bAb1b02b87a76693"
+  },
+  "clankerInfo": null
+}

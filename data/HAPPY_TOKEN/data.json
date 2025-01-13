@@ -1,0 +1,22 @@
+{
+  "name": "Happy Token",
+  "symbol": "Happy Token",
+  "decimals": 18,
+  "description": "Happy Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Token",
+  "addresses": {
+    "8453": "0x284063de97e5a9615862cd75ee5ac25e2ecfde0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Token",
+    "sanitizedSymbol": "HAPPY_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159827",
+    "lockerAddress": "0xc91AfB0A0F25471E74ae916E5476831869926923"
+  },
+  "clankerInfo": null
+}

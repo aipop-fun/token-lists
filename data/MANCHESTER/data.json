@@ -1,0 +1,22 @@
+{
+  "name": "Manchester",
+  "symbol": "Manchester",
+  "decimals": 18,
+  "description": "Manchester is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Manchester",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Manchester",
+  "addresses": {
+    "8453": "0x0a2c8fea529fa34796a736dd28125d5a96fc4a92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Manchester",
+    "sanitizedSymbol": "MANCHESTER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3A77FEff0b475ab67a451565B82A04d9F000A2E5",
+    "lpNftId": "1288506",
+    "lockerAddress": "0x7469B26F31Ae35e6c0A4adEc479C877b9003D8B0"
+  },
+  "clankerInfo": null
+}

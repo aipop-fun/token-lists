@@ -1,0 +1,22 @@
+{
+  "name": "bean",
+  "symbol": "bean",
+  "decimals": 18,
+  "description": "bean is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bean",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bean",
+  "addresses": {
+    "8453": "0x32c9a192782145adc1bf33edb9aba3ddff2d5979"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bean",
+    "sanitizedSymbol": "BEAN",
+    "created_at": "2024-12-12T21:41:17.240397",
+    "deployer": "0x42157ea24019ea5615735b45AF10ebB0352b5E28",
+    "lpNftId": "1444026",
+    "lockerAddress": "0x2ece4B93A4ed30b378F81CC7530b1dCA6C173ff6"
+  },
+  "clankerInfo": null
+}

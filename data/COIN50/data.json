@@ -1,0 +1,22 @@
+{
+  "name": "COIN50",
+  "symbol": "COIN50",
+  "decimals": 18,
+  "description": "COIN50 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COIN50",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COIN50",
+  "addresses": {
+    "8453": "0x167c6495d99e61d05832ec05f47ef7bd982cb6e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COIN50",
+    "sanitizedSymbol": "COIN50",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159400",
+    "lockerAddress": "0x938bF689613d5ad73ffC87b45240245EE5dD164A"
+  },
+  "clankerInfo": null
+}

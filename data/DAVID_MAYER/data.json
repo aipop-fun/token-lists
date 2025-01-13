@@ -1,0 +1,22 @@
+{
+  "name": "David Mayer",
+  "symbol": "David Mayer",
+  "decimals": 18,
+  "description": "David Mayer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=David%20Mayer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "David Mayer",
+  "addresses": {
+    "8453": "0x2ddd5363e1d931d3ba1e7d1f64f71a5c4fbb844d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "David Mayer",
+    "sanitizedSymbol": "DAVID_MAYER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB0CCf43adA6CBaA26dcf4907117b496d49f74242",
+    "lpNftId": "1270655",
+    "lockerAddress": "0xcc3F4ef82c3E675f4ab1c8DE6B5E289F977A70a1"
+  },
+  "clankerInfo": null
+}

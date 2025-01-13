@@ -1,0 +1,22 @@
+{
+  "name": "EL PUMP",
+  "symbol": "EL PUMP",
+  "decimals": 18,
+  "description": "EL PUMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EL%20PUMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EL PUMP",
+  "addresses": {
+    "8453": "0x347c6115728c3bbe4897760f6de4ab57685b8bc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EL PUMP",
+    "sanitizedSymbol": "EL_PUMP_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3937A5A5f2DC66f726ec9a57b70BC01681203aD7",
+    "lpNftId": "1280420",
+    "lockerAddress": "0x6Fc63c7475B06f4c8F5e5993Fa0f044087FD0548"
+  },
+  "clankerInfo": null
+}

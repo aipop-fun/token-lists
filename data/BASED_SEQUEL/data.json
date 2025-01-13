@@ -1,0 +1,22 @@
+{
+  "name": "Based Sequel",
+  "symbol": "Based Sequel",
+  "decimals": 18,
+  "description": "Based Sequel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Sequel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Sequel",
+  "addresses": {
+    "8453": "0x30062306a3b85a66d5ed0405a03af8b6eeb15281"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Sequel",
+    "sanitizedSymbol": "BASED_SEQUEL",
+    "created_at": "2024-12-12T16:15:07.325489",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1438136",
+    "lockerAddress": "0x44C42c039116c6b8Ee97086A56123Cd9007B9c24"
+  },
+  "clankerInfo": null
+}

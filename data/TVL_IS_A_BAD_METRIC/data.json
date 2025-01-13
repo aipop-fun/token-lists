@@ -1,0 +1,22 @@
+{
+  "name": "TVL is a bad metric",
+  "symbol": "TVL is a bad metric",
+  "decimals": 18,
+  "description": "TVL is a bad metric is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TVL%20is%20a%20bad%20metric",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TVL is a bad metric",
+  "addresses": {
+    "8453": "0x216368479a75c4b7c3493985b1243631ffef46f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TVL is a bad metric",
+    "sanitizedSymbol": "TVL_IS_A_BAD_METRIC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5F47E54006B79f179e20De7Cd7692136688B5e96",
+    "lpNftId": "1312350",
+    "lockerAddress": "0xaf6216F36901a3a04c9e8F74543153Aea4Bb29B4"
+  },
+  "clankerInfo": null
+}

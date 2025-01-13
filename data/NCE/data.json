@@ -1,0 +1,22 @@
+{
+  "name": "NCE",
+  "symbol": "NCE",
+  "decimals": 18,
+  "description": "NCE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NCE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NCE",
+  "addresses": {
+    "8453": "0x350bf5376b29532afee2b74b40877854e177aa9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NCE",
+    "sanitizedSymbol": "NCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdE7c54DFE1eF6Aca7faC83F41E5cF766B1d2CC13",
+    "lpNftId": "1310280",
+    "lockerAddress": "0x210c88487fcC0867e86b8AC88450F6c4D97ffb09"
+  },
+  "clankerInfo": null
+}

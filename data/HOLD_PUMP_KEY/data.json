@@ -1,0 +1,22 @@
+{
+  "name": "Hold Pump Key",
+  "symbol": "Hold Pump Key",
+  "decimals": 18,
+  "description": "Hold Pump Key is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hold%20Pump%20Key",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hold Pump Key",
+  "addresses": {
+    "8453": "0x37249ce05d2dde858e0446b64afe069f50da2797"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hold Pump Key",
+    "sanitizedSymbol": "HOLD_PUMP_KEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1277892",
+    "lockerAddress": "0x4930d9E6fdf1Dedba0eb532f45376f822553389E"
+  },
+  "clankerInfo": null
+}

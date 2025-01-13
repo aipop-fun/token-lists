@@ -1,0 +1,22 @@
+{
+  "name": "buy4airdrop",
+  "symbol": "buy4airdrop",
+  "decimals": 18,
+  "description": "buy4airdrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=buy4airdrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "buy4airdrop",
+  "addresses": {
+    "8453": "0x3e214814d76d3fff8485a6b0fa51c0de4d0a5c41"
+  },
+  "tokenInfo": {
+    "originalSymbol": "buy4airdrop",
+    "sanitizedSymbol": "BUY4AIRDROP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219302",
+    "lockerAddress": "0xc1be82FbC4c9b6721447c292b1Af3b62Be6a8a64"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$TINTIN",
+  "symbol": "$TINTIN",
+  "decimals": 18,
+  "description": "$TINTIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24TINTIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$TINTIN",
+  "addresses": {
+    "8453": "0x0cd76ee9b52c49b3844fc7e40353bb635faf5e15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$TINTIN",
+    "sanitizedSymbol": "TINTIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199706",
+    "lockerAddress": "0x3941ae76Ee555D777287b21Fc8906A04cecE91CD"
+  },
+  "clankerInfo": null
+}

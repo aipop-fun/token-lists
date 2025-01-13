@@ -1,0 +1,22 @@
+{
+  "name": "$100M CLANKER",
+  "symbol": "$100M CLANKER",
+  "decimals": 18,
+  "description": "$100M CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24100M%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$100M CLANKER",
+  "addresses": {
+    "8453": "0x3820b19dfb38518820c0828e805ff314eeb86d09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$100M CLANKER",
+    "sanitizedSymbol": "100M_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223830",
+    "lockerAddress": "0x3a6B2A4655382b58F12F52Bd638fE6FC8986fE57"
+  },
+  "clankerInfo": null
+}

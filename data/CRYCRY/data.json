@@ -1,0 +1,22 @@
+{
+  "name": "CRYCRY",
+  "symbol": "CRYCRY",
+  "decimals": 18,
+  "description": "CRYCRY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYCRY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYCRY",
+  "addresses": {
+    "8453": "0x16570ff7fb4e942b790d1dd736e8146b21af4e56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYCRY",
+    "sanitizedSymbol": "CRYCRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x884e04811e27eD661908C319a9044A9f387eb1a8",
+    "lpNftId": "1330983",
+    "lockerAddress": "0xd474B78322EdBACbFa6aEFbfdEB6457CEBf82117"
+  },
+  "clankerInfo": null
+}

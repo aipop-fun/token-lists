@@ -1,0 +1,22 @@
+{
+  "name": "WAT Stack",
+  "symbol": "WAT Stack",
+  "decimals": 18,
+  "description": "WAT Stack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WAT%20Stack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WAT Stack",
+  "addresses": {
+    "8453": "0x2cab93caa0c319c7d36d895004927b6aea26788a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WAT Stack",
+    "sanitizedSymbol": "WAT_STACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193212",
+    "lockerAddress": "0x173822Ee2acaac5D6330241E73278782870FB6d2"
+  },
+  "clankerInfo": null
+}

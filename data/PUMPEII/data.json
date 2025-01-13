@@ -1,0 +1,22 @@
+{
+  "name": "PUMPEII",
+  "symbol": "PUMPEII",
+  "decimals": 18,
+  "description": "PUMPEII is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMPEII",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMPEII",
+  "addresses": {
+    "8453": "0x139454011dfc9bddb9b222c122f2b0b23d2af3e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMPEII",
+    "sanitizedSymbol": "PUMPEII",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237561",
+    "lockerAddress": "0x225740494d99D9C4C664Cf51D5A2ab42fdAd2A39"
+  },
+  "clankerInfo": null
+}

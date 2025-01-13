@@ -1,0 +1,22 @@
+{
+  "name": "Pumsea",
+  "symbol": "Pumsea",
+  "decimals": 18,
+  "description": "Pumsea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pumsea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pumsea",
+  "addresses": {
+    "8453": "0x2e9402304e8ea3170bd0772535acbbbb9f1b6ba1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pumsea",
+    "sanitizedSymbol": "PUMSEA",
+    "created_at": "2024-12-12T09:13:29.494248",
+    "deployer": "0x2a84F7f91B3dCfF97523d16030a2e5BdF5c40eBd",
+    "lpNftId": "1430833",
+    "lockerAddress": "0x80b357BC7Bb66c98A18fdC94394D5Cc05B3E15E3"
+  },
+  "clankerInfo": null
+}

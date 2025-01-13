@@ -1,0 +1,22 @@
+{
+  "name": "SHARKY",
+  "symbol": "SHARKY",
+  "decimals": 18,
+  "description": "SHARKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHARKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHARKY",
+  "addresses": {
+    "8453": "0x259a6756d780e7c49d3dc3f469832b11add4fa7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHARKY",
+    "sanitizedSymbol": "SHARKY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2a5c0Be72a5903B37b02Ce3A62302d89Ae49dFd1",
+    "lpNftId": "1320499",
+    "lockerAddress": "0xe88C822D63C09FA7f1d37a6c4982C6F879331D52"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Kill Sniper",
+  "symbol": "Kill Sniper",
+  "decimals": 18,
+  "description": "Kill Sniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kill%20Sniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kill Sniper",
+  "addresses": {
+    "8453": "0x1fc44a1e47ca34bf7bbb1b9759206338a422beac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kill Sniper",
+    "sanitizedSymbol": "KILL_SNIPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x0Dd29A896E1f200efDF2f6DF76D27E23df04413d",
+    "lpNftId": "1168186",
+    "lockerAddress": "0xfc246cBFD57f3b87A276679433f572c4A1b07Cd4"
+  },
+  "clankerInfo": null
+}

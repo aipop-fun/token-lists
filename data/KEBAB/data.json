@@ -1,0 +1,22 @@
+{
+  "name": "Kebab",
+  "symbol": "Kebab",
+  "decimals": 18,
+  "description": "Kebab is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kebab",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kebab",
+  "addresses": {
+    "8453": "0x0071250c4cd6f486b17c5cddd4964a4d0ab43251"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kebab",
+    "sanitizedSymbol": "KEBAB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198098",
+    "lockerAddress": "0xE18786223C9665f4B4ACf16AF017aC8318b19D40"
+  },
+  "clankerInfo": null
+}

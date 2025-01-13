@@ -1,0 +1,22 @@
+{
+  "name": "Paisa Power",
+  "symbol": "Paisa Power",
+  "decimals": 18,
+  "description": "Paisa Power is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Paisa%20Power",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Paisa Power",
+  "addresses": {
+    "8453": "0x39d5b5752c23e5ffd5de7e49b21410143a8f65f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Paisa Power",
+    "sanitizedSymbol": "PAISA_POWER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1330070",
+    "lockerAddress": "0xb59007938d70a6e1777BB314a1ACd9BD68db6cc7"
+  },
+  "clankerInfo": null
+}

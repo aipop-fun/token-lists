@@ -1,0 +1,22 @@
+{
+  "name": "KITA INU CAT",
+  "symbol": "KITA INU CAT",
+  "decimals": 18,
+  "description": "KITA INU CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KITA%20INU%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KITA INU CAT",
+  "addresses": {
+    "8453": "0x2d10d3468f85a71bd9d97fd066d5c613f18ac26c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KITA INU CAT",
+    "sanitizedSymbol": "KITA_INU_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1317070",
+    "lockerAddress": "0x64eC64456aAb91eB738f44664C3f4Dfb94b83d19"
+  },
+  "clankerInfo": null
+}

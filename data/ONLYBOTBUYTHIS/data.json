@@ -1,0 +1,22 @@
+{
+  "name": "onlybotbuythis",
+  "symbol": "onlybotbuythis",
+  "decimals": 18,
+  "description": "onlybotbuythis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onlybotbuythis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onlybotbuythis",
+  "addresses": {
+    "8453": "0x2ddc53cb0431795ddd665f6149bc92cd264cac4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onlybotbuythis",
+    "sanitizedSymbol": "ONLYBOTBUYTHIS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237123",
+    "lockerAddress": "0x59D53be8BafC05617574E1aD7dF423d10f8E8152"
+  },
+  "clankerInfo": null
+}

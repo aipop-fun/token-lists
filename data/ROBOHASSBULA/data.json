@@ -1,0 +1,22 @@
+{
+  "name": "RoboHassbula",
+  "symbol": "RoboHassbula",
+  "decimals": 18,
+  "description": "RoboHassbula is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RoboHassbula",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RoboHassbula",
+  "addresses": {
+    "8453": "0x21e3b53e7f30e4872d45490dd72757770415f225"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RoboHassbula",
+    "sanitizedSymbol": "ROBOHASSBULA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0c66b22d4E64c9643fB4658466B8026B4d040151",
+    "lpNftId": "1294683",
+    "lockerAddress": "0x38303D5D99d2DF8b9A70bf4Dab72E5E3e5eC335A"
+  },
+  "clankerInfo": null
+}

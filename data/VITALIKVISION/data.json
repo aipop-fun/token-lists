@@ -1,0 +1,22 @@
+{
+  "name": "VitalikVision",
+  "symbol": "VitalikVision",
+  "decimals": 18,
+  "description": "VitalikVision is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VitalikVision",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VitalikVision",
+  "addresses": {
+    "8453": "0x39c225fb037340e61927b66fceeeb363e673ff0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VitalikVision",
+    "sanitizedSymbol": "VITALIKVISION",
+    "created_at": "2024-12-11T15:24:07.128455",
+    "deployer": "0x5B656406F695409fB12aaAC20faDB9B2194121B2",
+    "lpNftId": "1420898",
+    "lockerAddress": "0x72602e82d8bc88e8B440530FCd98CFE7F2743180"
+  },
+  "clankerInfo": null
+}

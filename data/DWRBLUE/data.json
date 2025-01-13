@@ -1,0 +1,22 @@
+{
+  "name": "DwrBlue",
+  "symbol": "DwrBlue",
+  "decimals": 18,
+  "description": "DwrBlue is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DwrBlue",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DwrBlue",
+  "addresses": {
+    "8453": "0x3c87108c2e244f96b28938c69911836a399fbd52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DwrBlue",
+    "sanitizedSymbol": "DWRBLUE",
+    "created_at": "2024-12-11T23:45:19.83393",
+    "deployer": "0xaD079f5a61DB71F1C3bc7bB38a4dd3f56e1AE1a9",
+    "lpNftId": "1427984",
+    "lockerAddress": "0xb337a2a53fB74d65DF5dC3EcafcDDB986237E142"
+  },
+  "clankerInfo": null
+}

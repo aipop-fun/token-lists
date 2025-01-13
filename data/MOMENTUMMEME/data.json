@@ -1,0 +1,22 @@
+{
+  "name": "MomentumMeme",
+  "symbol": "MomentumMeme",
+  "decimals": 18,
+  "description": "MomentumMeme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MomentumMeme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MomentumMeme",
+  "addresses": {
+    "8453": "0x02a6fd760c667b6598d82184e9a7dcc727ba5aa3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MomentumMeme",
+    "sanitizedSymbol": "MOMENTUMMEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164603",
+    "lockerAddress": "0x72956575849B11f02B358BB814FB36399153e794"
+  },
+  "clankerInfo": null
+}

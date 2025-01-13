@@ -1,0 +1,22 @@
+{
+  "name": "The Clanker Index",
+  "symbol": "The Clanker Index",
+  "decimals": 18,
+  "description": "The Clanker Index is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Clanker%20Index",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Clanker Index",
+  "addresses": {
+    "8453": "0x0a6a945f1a110e4bae0480d277c000f3594605a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Clanker Index",
+    "sanitizedSymbol": "THE_CLANKER_INDEX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231455",
+    "lockerAddress": "0xaE13B177184B02F40842f488B3F02CD0Ae4b47c5"
+  },
+  "clankerInfo": null
+}

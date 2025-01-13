@@ -1,0 +1,22 @@
+{
+  "name": "$LNK",
+  "symbol": "$LNK",
+  "decimals": 18,
+  "description": "$LNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24LNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$LNK",
+  "addresses": {
+    "8453": "0x04c6c73fd020cf1f0341282b3f987cefd5b40a4e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$LNK",
+    "sanitizedSymbol": "LNK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x70f9e0Db879e6CfB1E1627569919eA45ed004DB8",
+    "lpNftId": "1311458",
+    "lockerAddress": "0xd59881Ffa784F1ae95cD71EFC766ae95b00e29Fb"
+  },
+  "clankerInfo": null
+}

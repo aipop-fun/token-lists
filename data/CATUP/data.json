@@ -1,0 +1,22 @@
+{
+  "name": "CatUp",
+  "symbol": "CatUp",
+  "decimals": 18,
+  "description": "CatUp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatUp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatUp",
+  "addresses": {
+    "8453": "0x3ad1c580967991b558cb279f928098dfc0e97238"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatUp",
+    "sanitizedSymbol": "CATUP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234894",
+    "lockerAddress": "0x8AaFAA9242eCe7092d9E5959245fC0a82CE52B38"
+  },
+  "clankerInfo": null
+}

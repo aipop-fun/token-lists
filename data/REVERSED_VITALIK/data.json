@@ -1,0 +1,22 @@
+{
+  "name": "reversed Vitalik",
+  "symbol": "reversed Vitalik",
+  "decimals": 18,
+  "description": "reversed Vitalik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=reversed%20Vitalik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "reversed Vitalik",
+  "addresses": {
+    "8453": "0x1427af572fc89f478ff45b36da0d652ffb7c9eca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "reversed Vitalik",
+    "sanitizedSymbol": "REVERSED_VITALIK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x230012787c7e1EA9FE7FD44304269C5Ff3DeA5E5",
+    "lpNftId": "1289620",
+    "lockerAddress": "0x252FC0d9127fD0e0c07a0dA6b322ae94B39e9972"
+  },
+  "clankerInfo": null
+}

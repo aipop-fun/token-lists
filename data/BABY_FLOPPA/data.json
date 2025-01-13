@@ -1,0 +1,22 @@
+{
+  "name": "Baby Floppa",
+  "symbol": "Baby Floppa",
+  "decimals": 18,
+  "description": "Baby Floppa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Floppa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Floppa",
+  "addresses": {
+    "8453": "0x2e385969f82c48977b397b70061481ab90acc2d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Floppa",
+    "sanitizedSymbol": "BABY_FLOPPA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF7013d593927c1daC4b0Df8167A889dcaF49C521",
+    "lpNftId": "1251473",
+    "lockerAddress": "0x37F457944D4F9D6e20FAe4A6a886e840fEdbd083"
+  },
+  "clankerInfo": null
+}

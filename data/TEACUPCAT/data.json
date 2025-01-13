@@ -1,0 +1,22 @@
+{
+  "name": "TeaCupCat",
+  "symbol": "TeaCupCat",
+  "decimals": 18,
+  "description": "TeaCupCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TeaCupCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TeaCupCat",
+  "addresses": {
+    "8453": "0x0388719bab2975d931409864f22f161df1d5d267"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TeaCupCat",
+    "sanitizedSymbol": "TEACUPCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213006",
+    "lockerAddress": "0x10784Cd4583A5b11c490B38BA0057B86FeB49405"
+  },
+  "clankerInfo": null
+}

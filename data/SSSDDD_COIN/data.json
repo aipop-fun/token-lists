@@ -1,0 +1,22 @@
+{
+  "name": "sssddd Coin",
+  "symbol": "sssddd Coin",
+  "decimals": 18,
+  "description": "sssddd Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sssddd%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sssddd Coin",
+  "addresses": {
+    "8453": "0x06413dd69b310e2ac0fad83da8f2fc5f2e94bc5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sssddd Coin",
+    "sanitizedSymbol": "SSSDDD_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156459",
+    "lockerAddress": "0x8dbA84413Fba210C1d3623907e1f92E6ED88B6D9"
+  },
+  "clankerInfo": null
+}

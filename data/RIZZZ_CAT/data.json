@@ -1,0 +1,22 @@
+{
+  "name": "rizzz cat",
+  "symbol": "rizzz cat",
+  "decimals": 18,
+  "description": "rizzz cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rizzz%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rizzz cat",
+  "addresses": {
+    "8453": "0x2b1575d10d9bc3946bae7906bcac4670775fd22b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rizzz cat",
+    "sanitizedSymbol": "RIZZZ_CAT",
+    "created_at": "2024-12-12T04:04:03.436375",
+    "deployer": "0x22AD69060ccc43E94caa27F1cC298937A428D51E",
+    "lpNftId": "1429065",
+    "lockerAddress": "0xB1cFbDd6FFfEB637e768C362B1bD2A1b37dE8fB9"
+  },
+  "clankerInfo": null
+}

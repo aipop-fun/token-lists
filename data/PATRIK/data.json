@@ -1,0 +1,22 @@
+{
+  "name": "patrik",
+  "symbol": "patrik",
+  "decimals": 18,
+  "description": "patrik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=patrik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "patrik",
+  "addresses": {
+    "8453": "0x2b32d7fe00015154102c08bf07939a93505eade9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "patrik",
+    "sanitizedSymbol": "PATRIK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3FaEB948b3300AaCe019F10989A59BF199D2B40c",
+    "lpNftId": "1324709",
+    "lockerAddress": "0xDca1402cEBaf9A9133AFe3FD3157dcD20664Dcbf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bandrex Figurine Token",
+  "symbol": "Bandrex Figurine Token",
+  "decimals": 18,
+  "description": "Bandrex Figurine Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bandrex%20Figurine%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bandrex Figurine Token",
+  "addresses": {
+    "8453": "0x2bf0f2835d5620f73f99d25947ff143311938de2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bandrex Figurine Token",
+    "sanitizedSymbol": "BANDREX_FIGURINE_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218018",
+    "lockerAddress": "0xE5DfB488750b79e5300ea6Ce03c73b35803Cebdb"
+  },
+  "clankerInfo": null
+}

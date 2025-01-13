@@ -1,0 +1,22 @@
+{
+  "name": "Lazy Cat",
+  "symbol": "Lazy Cat",
+  "decimals": 18,
+  "description": "Lazy Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lazy%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lazy Cat",
+  "addresses": {
+    "8453": "0x10398042670b973302092563df8a243b019460d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lazy Cat",
+    "sanitizedSymbol": "LAZY_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1312937",
+    "lockerAddress": "0xE6d1CDa646d46C0e6AB471b8d01Fa0c9fc58B9d1"
+  },
+  "clankerInfo": null
+}

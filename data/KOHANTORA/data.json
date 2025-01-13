@@ -1,0 +1,22 @@
+{
+  "name": "Kohantora",
+  "symbol": "Kohantora",
+  "decimals": 18,
+  "description": "Kohantora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kohantora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kohantora",
+  "addresses": {
+    "8453": "0x17141df38c75feb396dee92cf633eca18b44bea6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kohantora",
+    "sanitizedSymbol": "KOHANTORA",
+    "created_at": "2024-12-12T05:17:36.946708",
+    "deployer": "0x697C132b7f7231a0e35Bd0237150854Fd2C65361",
+    "lpNftId": "1429347",
+    "lockerAddress": "0x1a5D92F83A9D23AA5E0fb8Fdb47C16b7d5a4F2ef"
+  },
+  "clankerInfo": null
+}

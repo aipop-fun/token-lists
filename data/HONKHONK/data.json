@@ -1,0 +1,22 @@
+{
+  "name": "HonkHonk",
+  "symbol": "HonkHonk",
+  "decimals": 18,
+  "description": "HonkHonk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HonkHonk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HonkHonk",
+  "addresses": {
+    "8453": "0x3f87752f2ddeeae624c97b87dcbbde9035d45c4f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HonkHonk",
+    "sanitizedSymbol": "HONKHONK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc0BA9c69c9E28007b7d5E899Cb09495d59EF9696",
+    "lpNftId": "1319202",
+    "lockerAddress": "0x4790D924Be355b57CFeE49194c9Cf839Ffbf61F6"
+  },
+  "clankerInfo": null
+}

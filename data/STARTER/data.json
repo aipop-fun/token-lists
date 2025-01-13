@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "symbol": "starter",
+  "decimals": 18,
+  "description": "starter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=starter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "starter",
+  "addresses": {
+    "8453": "0x0312990198eb5cf1ae3eacadacf31d1f44b40df5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "starter",
+    "sanitizedSymbol": "STARTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119648",
+    "lockerAddress": "0x55aa2A54FceAf5BBc5013b900E3D148E72eE9D18"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bye Clank",
+  "symbol": "Bye Clank",
+  "decimals": 18,
+  "description": "Bye Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bye%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bye Clank",
+  "addresses": {
+    "8453": "0x2fa38033af18030428e015d8df5ee405b97afb9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bye Clank",
+    "sanitizedSymbol": "BYE_CLANK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB8E8d2a9b5D1FF8FEb4EFA686ac1D15Bf960070d",
+    "lpNftId": "1227977",
+    "lockerAddress": "0xE97b51263F6F88378016518FCF21AEfde9108341"
+  },
+  "clankerInfo": null
+}

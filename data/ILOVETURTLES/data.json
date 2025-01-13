@@ -1,0 +1,22 @@
+{
+  "name": "iloveturtles",
+  "symbol": "iloveturtles",
+  "decimals": 18,
+  "description": "iloveturtles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=iloveturtles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "iloveturtles",
+  "addresses": {
+    "8453": "0x1487540282fa43d7717002163b9ca2230b3cb991"
+  },
+  "tokenInfo": {
+    "originalSymbol": "iloveturtles",
+    "sanitizedSymbol": "ILOVETURTLES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221142",
+    "lockerAddress": "0xaafB99D2d4a3Faa579741D0EB458Cbf826004C65"
+  },
+  "clankerInfo": null
+}

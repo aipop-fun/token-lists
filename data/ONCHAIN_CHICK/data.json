@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Chick",
+  "symbol": "Onchain Chick",
+  "decimals": 18,
+  "description": "Onchain Chick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Chick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Chick",
+  "addresses": {
+    "8453": "0x16a2d5e7e4b7d37370d9bc885a7dcdee7efbb0b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Chick",
+    "sanitizedSymbol": "ONCHAIN_CHICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6C7D0eE04194e8c0bE559Fc0d9eE4240CF66B0C6",
+    "lpNftId": "1313366",
+    "lockerAddress": "0x0b1F24Fa3d3FB2006319b7CB5757DEd0C5078b91"
+  },
+  "clankerInfo": null
+}

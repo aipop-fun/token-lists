@@ -1,0 +1,22 @@
+{
+  "name": "LuckySheep",
+  "symbol": "LuckySheep",
+  "decimals": 18,
+  "description": "LuckySheep is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LuckySheep",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LuckySheep",
+  "addresses": {
+    "8453": "0x0699952e90bc7c60045e3caf35d27ad2fa06e6a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LuckySheep",
+    "sanitizedSymbol": "LUCKYSHEEP",
+    "created_at": "2024-12-09T10:48:27.955211",
+    "deployer": "0xc5BaD3FC9d9f93cDcBb840D7255CdB0C7bdBfEd8",
+    "lpNftId": "1386068",
+    "lockerAddress": "0x0B5aa89a84674658C04eeD1a581f914C5f8116fA"
+  },
+  "clankerInfo": null
+}

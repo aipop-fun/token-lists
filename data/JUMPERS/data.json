@@ -1,0 +1,22 @@
+{
+  "name": "jumpers",
+  "symbol": "jumpers",
+  "decimals": 18,
+  "description": "jumpers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jumpers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jumpers",
+  "addresses": {
+    "8453": "0x3152805c06029a4be49953d4cf24ac5a19bf8493"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jumpers",
+    "sanitizedSymbol": "JUMPERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216629",
+    "lockerAddress": "0xB097d86C97E4665600412aEDe546886e766Afe45"
+  },
+  "clankerInfo": null
+}

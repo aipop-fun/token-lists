@@ -1,0 +1,22 @@
+{
+  "name": "CHILL DOGE",
+  "symbol": "CHILL DOGE",
+  "decimals": 18,
+  "description": "CHILL DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILL%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILL DOGE",
+  "addresses": {
+    "8453": "0x3bb75c383e764b4273b2aab13c8dd6cadc5c5568"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILL DOGE",
+    "sanitizedSymbol": "CHILL_DOGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233105",
+    "lockerAddress": "0xFb523F53e2c1A17B60b59c4C13734fc3a9fFcD3E"
+  },
+  "clankerInfo": null
+}

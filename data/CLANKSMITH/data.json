@@ -1,0 +1,22 @@
+{
+  "name": "Clanksmith",
+  "symbol": "Clanksmith",
+  "decimals": 18,
+  "description": "Clanksmith is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanksmith",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanksmith",
+  "addresses": {
+    "8453": "0x320d4f6aae18e7874b12f2543d17bf7822bd49ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanksmith",
+    "sanitizedSymbol": "CLANKSMITH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1310591",
+    "lockerAddress": "0x2997137e541A6cbc462fe4Fc72802e4b716fa5Ea"
+  },
+  "clankerInfo": null
+}

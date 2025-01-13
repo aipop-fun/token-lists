@@ -1,0 +1,22 @@
+{
+  "name": "Mischiefcoin",
+  "symbol": "Mischiefcoin",
+  "decimals": 18,
+  "description": "Mischiefcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mischiefcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mischiefcoin",
+  "addresses": {
+    "8453": "0x05a2dd64ca960ccfe2d5cda276a1a8453dabcfeb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mischiefcoin",
+    "sanitizedSymbol": "MISCHIEFCOIN",
+    "created_at": "2024-12-10T06:19:08.439929",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397367",
+    "lockerAddress": "0xB2ECCA94025B965e457316b15bB8B47E46C2Ff57"
+  },
+  "clankerInfo": null
+}

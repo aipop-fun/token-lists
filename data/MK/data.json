@@ -1,0 +1,22 @@
+{
+  "name": "MK",
+  "symbol": "MK",
+  "decimals": 18,
+  "description": "MK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MK",
+  "addresses": {
+    "8453": "0x241f74af3361b731e0cad0ce3979171945585067"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MK",
+    "sanitizedSymbol": "MK",
+    "created_at": "2024-12-11T10:19:43.115518",
+    "deployer": "0xe585Dd48796111e772B2768Fa004e31111B0BF73",
+    "lpNftId": "1416135",
+    "lockerAddress": "0x8ac00F569cF40C57566bc193C5519aDA6F6E50b6"
+  },
+  "clankerInfo": null
+}

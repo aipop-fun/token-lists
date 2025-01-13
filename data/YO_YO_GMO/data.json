@@ -1,0 +1,22 @@
+{
+  "name": "Yo Yo GMO",
+  "symbol": "Yo Yo GMO",
+  "decimals": 18,
+  "description": "Yo Yo GMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yo%20Yo%20GMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yo Yo GMO",
+  "addresses": {
+    "8453": "0x368e4b56ae137adab7317b883360690a3dff5152"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yo Yo GMO",
+    "sanitizedSymbol": "YO_YO_GMO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226634",
+    "lockerAddress": "0x14FC1E86A38D80dBDfDA69AaC80414a6bAB4a15A"
+  },
+  "clankerInfo": null
+}

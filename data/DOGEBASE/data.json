@@ -1,0 +1,22 @@
+{
+  "name": "DOGEBASE",
+  "symbol": "DOGEBASE",
+  "decimals": 18,
+  "description": "DOGEBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGEBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGEBASE",
+  "addresses": {
+    "8453": "0x137dc75bf1eb6f543689b6b630420dedf85dae81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGEBASE",
+    "sanitizedSymbol": "DOGEBASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9E6661B666842373684464F61B1B4b18254a3909",
+    "lpNftId": "1267348",
+    "lockerAddress": "0x88c3A23cE4EBd49c5E1b0D49d5ef851C4614ED3D"
+  },
+  "clankerInfo": null
+}

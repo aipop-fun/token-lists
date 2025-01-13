@@ -1,0 +1,22 @@
+{
+  "name": "Bavaria",
+  "symbol": "Bavaria",
+  "decimals": 18,
+  "description": "Bavaria is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bavaria",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bavaria",
+  "addresses": {
+    "8453": "0x417db65d00354334066222b47e38303a78a3b925"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bavaria",
+    "sanitizedSymbol": "BAVARIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6E24620a462De981953AE9bfBe4F47732FB4419C",
+    "lpNftId": "1288638",
+    "lockerAddress": "0x3020a8186a2be6A5466dCF9aeE8325Bfe2C2c8B3"
+  },
+  "clankerInfo": null
+}

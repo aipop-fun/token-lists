@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin Century",
+  "symbol": "Bitcoin Century",
+  "decimals": 18,
+  "description": "Bitcoin Century is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20Century",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin Century",
+  "addresses": {
+    "8453": "0x4162e3df4bc7d40ae1d36fab7fe71f08c91358c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin Century",
+    "sanitizedSymbol": "BITCOIN_CENTURY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0052b052857dff72fecD83e22edb191e6F65d992",
+    "lpNftId": "1331897",
+    "lockerAddress": "0xb31eCC9Cfd1E141d3BEaFef22cD5220B3aFD4913"
+  },
+  "clankerInfo": null
+}

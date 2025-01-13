@@ -1,0 +1,22 @@
+{
+  "name": "RainDrop",
+  "symbol": "RainDrop",
+  "decimals": 18,
+  "description": "RainDrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RainDrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RainDrop",
+  "addresses": {
+    "8453": "0x151134c7aed4140f3a1fed5f1e4d42379e3cbec6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RainDrop",
+    "sanitizedSymbol": "RAINDROP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x675D882d6CDcDd8b2eAEA95F21Fbfc6916aF89f8",
+    "lpNftId": "1344250",
+    "lockerAddress": "0xeb8B22da499E503a111b45f8AD048fCF8eB6e033"
+  },
+  "clankerInfo": null
+}

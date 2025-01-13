@@ -1,0 +1,22 @@
+{
+  "name": "WENDICK",
+  "symbol": "WENDICK",
+  "decimals": 18,
+  "description": "WENDICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WENDICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WENDICK",
+  "addresses": {
+    "8453": "0x0719cdbcb3e120350fd00c2172dfe73ac0af1cbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WENDICK",
+    "sanitizedSymbol": "WENDICK",
+    "created_at": "2024-12-11T18:41:57.258271",
+    "deployer": "0xA2635d4Bcaa0FF8e3f4e004419399Cdd2bB26551",
+    "lpNftId": "1424056",
+    "lockerAddress": "0x805290d20B9A122e25a5D223E08b19E44A8DECaF"
+  },
+  "clankerInfo": null
+}

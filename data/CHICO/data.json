@@ -1,0 +1,22 @@
+{
+  "name": "ChiCo",
+  "symbol": "ChiCo",
+  "decimals": 18,
+  "description": "ChiCo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChiCo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChiCo",
+  "addresses": {
+    "8453": "0x3653cbd3c927a42b5406d7af66e75dd96f2ee25a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChiCo",
+    "sanitizedSymbol": "CHICO",
+    "created_at": "2024-12-12T09:24:49.328683",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1431184",
+    "lockerAddress": "0x7857C6b833B911f8b846A0ACFD2Db006E59C8083"
+  },
+  "clankerInfo": null
+}

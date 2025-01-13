@@ -1,0 +1,22 @@
+{
+  "name": "Attention",
+  "symbol": "Attention",
+  "decimals": 18,
+  "description": "Attention is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Attention",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Attention",
+  "addresses": {
+    "8453": "0x3c948ce43b2a7b87e9e41c25898761322f50e556"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Attention",
+    "sanitizedSymbol": "ATTENTION_1",
+    "created_at": "2024-12-11T14:35:49.663239",
+    "deployer": "0x9fb08748c3858Ca6a39357D6D70D1Eeb9586026E",
+    "lpNftId": "1420277",
+    "lockerAddress": "0x7Ca0D114D25F659086D02978222C8D78686696eF"
+  },
+  "clankerInfo": null
+}

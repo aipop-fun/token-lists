@@ -1,0 +1,22 @@
+{
+  "name": "MONDO",
+  "symbol": "MONDO",
+  "decimals": 18,
+  "description": "MONDO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONDO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONDO",
+  "addresses": {
+    "8453": "0x1b0dbe41df3ab649f3ad0bf8379165fac0fce18c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONDO",
+    "sanitizedSymbol": "MONDO_4",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x055CBf38ce4682ee0242d35Da65cc15C272d6dB4",
+    "lpNftId": "1266608",
+    "lockerAddress": "0xdf0433AbBA6D2365e55484E5D03917ecCF7F95FE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FistToken",
+  "symbol": "FistToken",
+  "decimals": 18,
+  "description": "FistToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FistToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FistToken",
+  "addresses": {
+    "8453": "0x04d9befaa34e2ffa131f88500b0541fb152e89d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FistToken",
+    "sanitizedSymbol": "FISTTOKEN",
+    "created_at": "2024-12-10T18:52:14.034218",
+    "deployer": "0x8571ab69c0A882bc93CbFf277a5797C2d86F8a6f",
+    "lpNftId": "1405791",
+    "lockerAddress": "0xf92d9d950078a705175f47E28a1e187360082b73"
+  },
+  "clankerInfo": null
+}

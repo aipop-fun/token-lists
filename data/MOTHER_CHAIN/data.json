@@ -1,0 +1,22 @@
+{
+  "name": "MOTHER CHAIN",
+  "symbol": "MOTHER CHAIN",
+  "decimals": 18,
+  "description": "MOTHER CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOTHER%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOTHER CHAIN",
+  "addresses": {
+    "8453": "0x0e00bd18772b066f2b96885fb7dadb4f034096e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOTHER CHAIN",
+    "sanitizedSymbol": "MOTHER_CHAIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x017027192F9d27587EC87A045F6957dEc14B3E13",
+    "lpNftId": "1331524",
+    "lockerAddress": "0x7b584332B691B6FFbbAB8cF36901490fEd932A52"
+  },
+  "clankerInfo": null
+}

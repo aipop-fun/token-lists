@@ -1,0 +1,22 @@
+{
+  "name": "MORET",
+  "symbol": "MORET",
+  "decimals": 18,
+  "description": "MORET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MORET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MORET",
+  "addresses": {
+    "8453": "0x0a1c47c2ed4129d6b0b38f6c8b2a29cb9b5aba5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MORET",
+    "sanitizedSymbol": "MORET",
+    "created_at": "2024-12-09T02:49:45.5832",
+    "deployer": "0x491c630d4f81f7f6b1e577A5a673583477b94188",
+    "lpNftId": "1379082",
+    "lockerAddress": "0x0aAd9F76e42009faf40A3F01213AA5d4C663f0d6"
+  },
+  "clankerInfo": null
+}

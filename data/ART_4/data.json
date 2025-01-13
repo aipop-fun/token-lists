@@ -1,0 +1,22 @@
+{
+  "name": "art",
+  "symbol": "art",
+  "decimals": 18,
+  "description": "art is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=art",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "art",
+  "addresses": {
+    "8453": "0x35320fa14d1c3c2659e9c3319409c1c76b8069bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "art",
+    "sanitizedSymbol": "ART_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x118108b3964489E138db95212c462f7f572351A8",
+    "lpNftId": "1313177",
+    "lockerAddress": "0x532363Bcb6e4E7A91b247569a1A2365AC357c969"
+  },
+  "clankerInfo": null
+}

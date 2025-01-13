@@ -1,0 +1,22 @@
+{
+  "name": "BTC/USDT",
+  "symbol": "BTC/USDT",
+  "decimals": 18,
+  "description": "BTC/USDT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC%2FUSDT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC/USDT",
+  "addresses": {
+    "8453": "0x31f5fc1ca190c954d19a1072b57cf4e64a6401ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC/USDT",
+    "sanitizedSymbol": "BTC_USDT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa5c2ED8b4C412c9661eFCf53aB86C3b3AC353e4f",
+    "lpNftId": "1276888",
+    "lockerAddress": "0x4C43b87662762BB28b869AB1B69c96c5382cB186"
+  },
+  "clankerInfo": null
+}

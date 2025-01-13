@@ -1,0 +1,22 @@
+{
+  "name": "The Unchill Guy",
+  "symbol": "The Unchill Guy",
+  "decimals": 18,
+  "description": "The Unchill Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Unchill%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Unchill Guy",
+  "addresses": {
+    "8453": "0x3268cf1129656bc05bf2330e00429e780228d40b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Unchill Guy",
+    "sanitizedSymbol": "THE_UNCHILL_GUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x64B75f5b37e7c5Ae9020A1a2C5700830eb8faD52",
+    "lpNftId": "1284713",
+    "lockerAddress": "0x8be5c1951058b4F5C6505a5BdaC6Ad4a0fb7Eb86"
+  },
+  "clankerInfo": null
+}

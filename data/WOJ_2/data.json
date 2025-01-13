@@ -1,0 +1,22 @@
+{
+  "name": "woj",
+  "symbol": "woj",
+  "decimals": 18,
+  "description": "woj is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=woj",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "woj",
+  "addresses": {
+    "8453": "0x15e3d20d5a8f4a87afecdbd4191f31e85efc78b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "woj",
+    "sanitizedSymbol": "WOJ_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1346665",
+    "lockerAddress": "0xb05d7d4720f6dDab4E21D3E9752FE022b7C0e929"
+  },
+  "clankerInfo": null
+}

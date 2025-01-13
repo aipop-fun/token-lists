@@ -1,0 +1,22 @@
+{
+  "name": "DJmodli",
+  "symbol": "DJmodli",
+  "decimals": 18,
+  "description": "DJmodli is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DJmodli",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DJmodli",
+  "addresses": {
+    "8453": "0x25a80a69f7d55b589e10433aa82b71a0027d29ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DJmodli",
+    "sanitizedSymbol": "DJMODLI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF1b3447e815642308B3867D7175CEab8ECEf8581",
+    "lpNftId": "1269793",
+    "lockerAddress": "0xAca0869F8813E3B8514BBC9d1F81bC6671a34b30"
+  },
+  "clankerInfo": null
+}

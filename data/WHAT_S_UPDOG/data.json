@@ -1,0 +1,22 @@
+{
+  "name": "What's UpDog?",
+  "symbol": "What's UpDog?",
+  "decimals": 18,
+  "description": "What's UpDog? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=What's%20UpDog%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "What's UpDog?",
+  "addresses": {
+    "8453": "0x29bb350a9d2419cd872d0ff05653188a7125c69f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "What's UpDog?",
+    "sanitizedSymbol": "WHAT_S_UPDOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156559",
+    "lockerAddress": "0xD31c47049af2e6360d60E654f952C2d7201F78Cf"
+  },
+  "clankerInfo": null
+}

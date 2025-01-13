@@ -1,0 +1,22 @@
+{
+  "name": "metavault",
+  "symbol": "metavault",
+  "decimals": 18,
+  "description": "metavault is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=metavault",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "metavault",
+  "addresses": {
+    "8453": "0x40119f725e5362ea10bce19e6068a0ebd341cfd9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "metavault",
+    "sanitizedSymbol": "METAVAULT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc5868Be321bD3C514042249EB6d4152Bf9c1d394",
+    "lpNftId": "1316526",
+    "lockerAddress": "0xba55a5C138615bD6caeCBC464ca62266e3341229"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Green Bitcoin",
+  "symbol": "Green Bitcoin",
+  "decimals": 18,
+  "description": "Green Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Green%20Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Green Bitcoin",
+  "addresses": {
+    "8453": "0x071612df09ced46d35afc2070c23c3e160f87887"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Green Bitcoin",
+    "sanitizedSymbol": "GREEN_BITCOIN",
+    "created_at": "2024-12-12T22:14:44.89629",
+    "deployer": "0x893e0850D0624581bb59C9766525D3b9b87Af20b",
+    "lpNftId": "1444458",
+    "lockerAddress": "0xeFBb304903DA8636791d7F8669040FC3B2c0FDe7"
+  },
+  "clankerInfo": null
+}

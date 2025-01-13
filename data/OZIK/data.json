@@ -1,0 +1,22 @@
+{
+  "name": "ozik",
+  "symbol": "ozik",
+  "decimals": 18,
+  "description": "ozik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ozik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ozik",
+  "addresses": {
+    "8453": "0x1b2f7ab45f3f119588ada58f83d446a792891cc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ozik",
+    "sanitizedSymbol": "OZIK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233386",
+    "lockerAddress": "0x6c9E64Dfa86a719be5510e6C5E38F475cFE03d30"
+  },
+  "clankerInfo": null
+}

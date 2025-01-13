@@ -1,0 +1,22 @@
+{
+  "name": "The00 Token",
+  "symbol": "The00 Token",
+  "decimals": 18,
+  "description": "The00 Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The00%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The00 Token",
+  "addresses": {
+    "8453": "0x192153abe597da72ae3d3c1ff1c9e6cfc9e2c859"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The00 Token",
+    "sanitizedSymbol": "THE00_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc6F38CA3B9F12a7C9B17c6d8E832779adC4F548D",
+    "lpNftId": "1327862",
+    "lockerAddress": "0x93a7f8e218539dA51c5339Da1E2997F2406F4FE4"
+  },
+  "clankerInfo": null
+}

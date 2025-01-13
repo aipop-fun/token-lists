@@ -1,0 +1,22 @@
+{
+  "name": "PIM",
+  "symbol": "PIM",
+  "decimals": 18,
+  "description": "PIM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIM",
+  "addresses": {
+    "8453": "0x235250b35e62f6fbac17eaced7de67712a399e7e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIM",
+    "sanitizedSymbol": "PIM_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x33aCF8197D4DeD5E0C0354f22e8504d2798690EA",
+    "lpNftId": "1265764",
+    "lockerAddress": "0x9b4B83f902E5f9F5540cD7bbFB83463057e69C83"
+  },
+  "clankerInfo": null
+}

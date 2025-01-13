@@ -1,0 +1,22 @@
+{
+  "name": "Sorry",
+  "symbol": "Sorry",
+  "decimals": 18,
+  "description": "Sorry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sorry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sorry",
+  "addresses": {
+    "8453": "0x18b55f9da9d7439c53bfe720e331bd05c837510a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sorry",
+    "sanitizedSymbol": "SORRY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152081",
+    "lockerAddress": "0xDfdEe7704937b7E7Cab0aB136827a42C8431a584"
+  },
+  "clankerInfo": null
+}

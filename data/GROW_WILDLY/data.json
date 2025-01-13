@@ -1,0 +1,22 @@
+{
+  "name": "Grow wildly",
+  "symbol": "Grow wildly",
+  "decimals": 18,
+  "description": "Grow wildly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Grow%20wildly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Grow wildly",
+  "addresses": {
+    "8453": "0x07d6fc17fb8e16d041b5c6d53495a3a49cf1238b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Grow wildly",
+    "sanitizedSymbol": "GROW_WILDLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219451",
+    "lockerAddress": "0x272c74316360d19778994a218D937aEe43377b77"
+  },
+  "clankerInfo": null
+}

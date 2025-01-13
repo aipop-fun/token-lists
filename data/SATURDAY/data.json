@@ -1,0 +1,22 @@
+{
+  "name": "Saturday",
+  "symbol": "Saturday",
+  "decimals": 18,
+  "description": "Saturday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Saturday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Saturday",
+  "addresses": {
+    "8453": "0x22383cbb9e8264f2d6ca20341fd4fceb8afe30f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Saturday",
+    "sanitizedSymbol": "SATURDAY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76963eE4C482fA4F9E125ea3C9Cc2Ea81fe8e8C6",
+    "lpNftId": "1312760",
+    "lockerAddress": "0x73EdA0DF6B9da4cAfB52Fe797570292d1D5cb527"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DogeAI",
+  "symbol": "DogeAI",
+  "decimals": 18,
+  "description": "DogeAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeAI",
+  "addresses": {
+    "8453": "0x374ed642c165a6a12921e1dab6d1a2f27f520d47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeAI",
+    "sanitizedSymbol": "DOGEAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1146858",
+    "lockerAddress": "0x4d0E8CCA830Ea47F685f8259784ae06C4C95b77A"
+  },
+  "clankerInfo": null
+}

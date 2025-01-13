@@ -1,0 +1,22 @@
+{
+  "name": "Anacana",
+  "symbol": "Anacana",
+  "decimals": 18,
+  "description": "Anacana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anacana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anacana",
+  "addresses": {
+    "8453": "0x142dac0d1293adf5f19838f007ec0e7e05d44fdc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anacana",
+    "sanitizedSymbol": "ANACANA",
+    "created_at": "2024-12-10T10:50:11.58382",
+    "deployer": "0xe6001C00d9be5E0f676082327f0ecDb2587167af",
+    "lpNftId": "1400005",
+    "lockerAddress": "0xd1BFe7eDc582D84b0Ad6572E733A158E40a717A0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SCAM",
+  "symbol": "SCAM",
+  "decimals": 18,
+  "description": "SCAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCAM",
+  "addresses": {
+    "8453": "0x1b22c05f10d0276d58c09479fd14e1ccf458dac7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCAM",
+    "sanitizedSymbol": "SCAM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119794",
+    "lockerAddress": "0x1e814C0912130095AF73C967Af05817829138664"
+  },
+  "clankerInfo": null
+}

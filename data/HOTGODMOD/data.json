@@ -1,0 +1,22 @@
+{
+  "name": "HotGodMod",
+  "symbol": "HotGodMod",
+  "decimals": 18,
+  "description": "HotGodMod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HotGodMod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HotGodMod",
+  "addresses": {
+    "8453": "0x105a975e093c1567a800202d7ac272745a3c0c29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HotGodMod",
+    "sanitizedSymbol": "HOTGODMOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3C8981A1d0e563536906ee27dAA89A5E65312A34",
+    "lpNftId": "1314734",
+    "lockerAddress": "0x09C0FD00a0957003f56d1749766ff86D3aaBa5C8"
+  },
+  "clankerInfo": null
+}

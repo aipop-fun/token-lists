@@ -1,0 +1,22 @@
+{
+  "name": "Cat minion",
+  "symbol": "Cat minion",
+  "decimals": 18,
+  "description": "Cat minion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20minion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat minion",
+  "addresses": {
+    "8453": "0x165494726c6c1c4c5dd972cfcb37d1e222bed2f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat minion",
+    "sanitizedSymbol": "CAT_MINION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5259dAf51a4311637216Ece9c005e6f551114A4B",
+    "lpNftId": "1323104",
+    "lockerAddress": "0x4C75412121c5baf504Bfa5CBE173b175fe5070D1"
+  },
+  "clankerInfo": null
+}

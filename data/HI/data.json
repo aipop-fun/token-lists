@@ -1,0 +1,22 @@
+{
+  "name": "Hi",
+  "symbol": "Hi",
+  "decimals": 18,
+  "description": "Hi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hi",
+  "addresses": {
+    "8453": "0x0aed46014505b6f19eb644f9520e8df352b042f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hi",
+    "sanitizedSymbol": "HI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x982859AdF9C20Aa4098Aff412870eaBD0Bf8F75c",
+    "lpNftId": "1312267",
+    "lockerAddress": "0x7ff09e4154b953688650b2a7BD3B22CF325fBbb7"
+  },
+  "clankerInfo": null
+}

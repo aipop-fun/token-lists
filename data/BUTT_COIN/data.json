@@ -1,0 +1,22 @@
+{
+  "name": "Butt Coin",
+  "symbol": "Butt Coin",
+  "decimals": 18,
+  "description": "Butt Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Butt%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Butt Coin",
+  "addresses": {
+    "8453": "0x25ff3103aea7b1fcdb8dcf623716c7a682b7340d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Butt Coin",
+    "sanitizedSymbol": "BUTT_COIN",
+    "created_at": "2024-12-11T17:25:49.273491",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1422466",
+    "lockerAddress": "0x73eFA68d4E453b73BB609d42EF205C4345FF8F3d"
+  },
+  "clankerInfo": null
+}

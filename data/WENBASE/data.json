@@ -1,0 +1,22 @@
+{
+  "name": "WENBASE",
+  "symbol": "WENBASE",
+  "decimals": 18,
+  "description": "WENBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WENBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WENBASE",
+  "addresses": {
+    "8453": "0x2239565779f84271dbada25567b2cfeb840f391a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WENBASE",
+    "sanitizedSymbol": "WENBASE",
+    "created_at": "2024-12-11T17:42:55.297103",
+    "deployer": "0x2B83F654B3aA613D91a49fc323EBF8edC5592734",
+    "lpNftId": "1422767",
+    "lockerAddress": "0x39A522F454d68e9F4A0DEbD5eEF0D82AE5b3A2ee"
+  },
+  "clankerInfo": null
+}

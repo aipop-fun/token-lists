@@ -1,0 +1,22 @@
+{
+  "name": "JesseBald",
+  "symbol": "JesseBald",
+  "decimals": 18,
+  "description": "JesseBald is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JesseBald",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JesseBald",
+  "addresses": {
+    "8453": "0x392aa76d1ac72cb927c5d74f9516859f757e9104"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JesseBald",
+    "sanitizedSymbol": "JESSEBALD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163177",
+    "lockerAddress": "0x5395A5735bC86E5f7f697A02E6F9654495656F95"
+  },
+  "clankerInfo": null
+}

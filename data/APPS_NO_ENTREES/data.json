@@ -1,0 +1,22 @@
+{
+  "name": "Apps No Entrees",
+  "symbol": "Apps No Entrees",
+  "decimals": 18,
+  "description": "Apps No Entrees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apps%20No%20Entrees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apps No Entrees",
+  "addresses": {
+    "8453": "0x41be1422ff63ff071a23a30c25e7d6b8a5e34b96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apps No Entrees",
+    "sanitizedSymbol": "APPS_NO_ENTREES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x80cef8f224Deb7cBbfbb6b1Afb6d89652e933d0F",
+    "lpNftId": "1273563",
+    "lockerAddress": "0xdaf61e4f0c933EDdEfB2ed6A4931A901B91C71A1"
+  },
+  "clankerInfo": null
+}

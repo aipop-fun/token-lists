@@ -1,0 +1,22 @@
+{
+  "name": "Datrichguy",
+  "symbol": "Datrichguy",
+  "decimals": 18,
+  "description": "Datrichguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Datrichguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Datrichguy",
+  "addresses": {
+    "8453": "0x0df5cc7b10d18b781f18b4150591470f10678124"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Datrichguy",
+    "sanitizedSymbol": "DATRICHGUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1322699",
+    "lockerAddress": "0x613a265F9fF9766c71d9bab95b4E93439Fe41905"
+  },
+  "clankerInfo": null
+}

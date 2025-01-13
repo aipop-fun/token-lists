@@ -1,0 +1,22 @@
+{
+  "name": "Homestar",
+  "symbol": "Homestar",
+  "decimals": 18,
+  "description": "Homestar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Homestar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Homestar",
+  "addresses": {
+    "8453": "0x0f081d2585781e34327b0d522da54f9f3d1870a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Homestar",
+    "sanitizedSymbol": "HOMESTAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x0D6BBb6B6f25Fb04c468069C285FFE5840961FBb",
+    "lpNftId": "1218979",
+    "lockerAddress": "0x317B4cb51710f804a085FA248587aEFBbc150A1B"
+  },
+  "clankerInfo": null
+}

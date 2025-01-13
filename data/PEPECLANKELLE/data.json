@@ -1,0 +1,22 @@
+{
+  "name": "Pepeclankelle",
+  "symbol": "Pepeclankelle",
+  "decimals": 18,
+  "description": "Pepeclankelle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepeclankelle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepeclankelle",
+  "addresses": {
+    "8453": "0x3a3f6c181dbd017e32f5fed9e458fbd8550992d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepeclankelle",
+    "sanitizedSymbol": "PEPECLANKELLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x13c28134b1e195382117cBBF524E624f48699906",
+    "lpNftId": "1342983",
+    "lockerAddress": "0xD4078C83c0ff3840fbB478B17aB434238F432606"
+  },
+  "clankerInfo": null
+}

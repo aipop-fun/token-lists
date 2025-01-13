@@ -1,0 +1,22 @@
+{
+  "name": "Nekos Wars",
+  "symbol": "Nekos Wars",
+  "decimals": 18,
+  "description": "Nekos Wars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nekos%20Wars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nekos Wars",
+  "addresses": {
+    "8453": "0x309a4eaed3bff5af34dc6059d0aeb72457cd04a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nekos Wars",
+    "sanitizedSymbol": "NEKOS_WARS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1324734",
+    "lockerAddress": "0x5920F2643634ACEdC9Fb63d9B067939eDAe761Ef"
+  },
+  "clankerInfo": null
+}

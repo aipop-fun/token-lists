@@ -1,0 +1,22 @@
+{
+  "name": "MoxieMeMe",
+  "symbol": "MoxieMeMe",
+  "decimals": 18,
+  "description": "MoxieMeMe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoxieMeMe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoxieMeMe",
+  "addresses": {
+    "8453": "0x412151db45a1bfdb36cd85b55ba641037de8c76b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoxieMeMe",
+    "sanitizedSymbol": "MOXIEMEME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1326970",
+    "lockerAddress": "0x30De25934d951154009f9160F998c4Ed525891fa"
+  },
+  "clankerInfo": null
+}

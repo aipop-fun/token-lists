@@ -1,0 +1,22 @@
+{
+  "name": "SecretSocietySavior",
+  "symbol": "SecretSocietySavior",
+  "decimals": 18,
+  "description": "SecretSocietySavior is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SecretSocietySavior",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SecretSocietySavior",
+  "addresses": {
+    "8453": "0x1e2f881b3710814d163be9bfafdd21aad8d7ceb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SecretSocietySavior",
+    "sanitizedSymbol": "SECRETSOCIETYSAVIOR_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215897",
+    "lockerAddress": "0x4aDa27Df878AdC9906bB9C3dF94B2210E2724a8f"
+  },
+  "clankerInfo": null
+}

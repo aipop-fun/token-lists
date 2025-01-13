@@ -1,0 +1,22 @@
+{
+  "name": "gBTC",
+  "symbol": "gBTC",
+  "decimals": 18,
+  "description": "gBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gBTC",
+  "addresses": {
+    "8453": "0x20f83103a04e9eff55a52756a7ef5ea09c5b9653"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gBTC",
+    "sanitizedSymbol": "GBTC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x34B09CAAdFf3500De1aA060Fc424286aB55d6640",
+    "lpNftId": "1331679",
+    "lockerAddress": "0x21c2f1DCFd3e8b67A9796C70EBC390A5498788D9"
+  },
+  "clankerInfo": null
+}

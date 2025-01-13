@@ -1,0 +1,22 @@
+{
+  "name": "Chatgpt",
+  "symbol": "Chatgpt",
+  "decimals": 18,
+  "description": "Chatgpt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chatgpt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chatgpt",
+  "addresses": {
+    "8453": "0x3f3bc3c484b9eb749dfafc92496ef58e37e2117b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chatgpt",
+    "sanitizedSymbol": "CHATGPT",
+    "created_at": "2024-12-12T17:35:31.765197",
+    "deployer": "0xB613521DD073ac8d5a72CCd7126a944956966b19",
+    "lpNftId": "1439695",
+    "lockerAddress": "0x24323918880E4C4B27bccF88B85C97185563c68a"
+  },
+  "clankerInfo": null
+}

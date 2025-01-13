@@ -1,0 +1,22 @@
+{
+  "name": "GOLLUM",
+  "symbol": "GOLLUM",
+  "decimals": 18,
+  "description": "GOLLUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOLLUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOLLUM",
+  "addresses": {
+    "8453": "0x327070d926fd608ef36464c146c701dcf23aaea6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOLLUM",
+    "sanitizedSymbol": "GOLLUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd3d2f7704Fe3836c7cE3B91E45E727368361d911",
+    "lpNftId": "1309294",
+    "lockerAddress": "0xAd7a61Bd83eC00643E901e6feA4f46a2D234A455"
+  },
+  "clankerInfo": null
+}

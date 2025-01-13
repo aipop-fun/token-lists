@@ -1,0 +1,22 @@
+{
+  "name": "market will decide",
+  "symbol": "market will decide",
+  "decimals": 18,
+  "description": "market will decide is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=market%20will%20decide",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "market will decide",
+  "addresses": {
+    "8453": "0x1778292884d6cf54423b8e72bb238d2c69ba8cf0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "market will decide",
+    "sanitizedSymbol": "MARKET_WILL_DECIDE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1333605",
+    "lockerAddress": "0x4ba41195e4c766a59F09AB1BdB1f3f4cc8b6C33A"
+  },
+  "clankerInfo": null
+}

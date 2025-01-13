@@ -1,0 +1,22 @@
+{
+  "name": "Rotten Cheese",
+  "symbol": "Rotten Cheese",
+  "decimals": 18,
+  "description": "Rotten Cheese is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rotten%20Cheese",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rotten Cheese",
+  "addresses": {
+    "8453": "0x233f6d98d772eea6e5fa1df9f68f6572ae4ef355"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rotten Cheese",
+    "sanitizedSymbol": "ROTTEN_CHEESE",
+    "created_at": "2024-12-09T03:06:41.595418",
+    "deployer": "0x7064856fcCF7aF18D2FC7D2F279e23BDFFd7Cd34",
+    "lpNftId": "1379561",
+    "lockerAddress": "0x9f110D42accceF92b260C23580265F5E52FF3C7f"
+  },
+  "clankerInfo": null
+}

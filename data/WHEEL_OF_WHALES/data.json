@@ -1,0 +1,22 @@
+{
+  "name": "WHEEL OF WHALES",
+  "symbol": "WHEEL OF WHALES",
+  "decimals": 18,
+  "description": "WHEEL OF WHALES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WHEEL%20OF%20WHALES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WHEEL OF WHALES",
+  "addresses": {
+    "8453": "0x1d1afe90b6fa1098e19e7116689aeaadc82111d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WHEEL OF WHALES",
+    "sanitizedSymbol": "WHEEL_OF_WHALES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223773",
+    "lockerAddress": "0x77097D432DBbCfa42A636644452Cb0bCB13d36Ef"
+  },
+  "clankerInfo": null
+}

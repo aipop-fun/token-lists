@@ -1,0 +1,22 @@
+{
+  "name": "0000 AI Token",
+  "symbol": "0000 AI Token",
+  "decimals": 18,
+  "description": "0000 AI Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=0000%20AI%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "0000 AI Token",
+  "addresses": {
+    "8453": "0x3c27af2da59ad53f91e18472ec37ab5f002caa84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "0000 AI Token",
+    "sanitizedSymbol": "0000_AI_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224346",
+    "lockerAddress": "0x7fC3BBa40F737051aD629a68eb6e1ddb8EA4774B"
+  },
+  "clankerInfo": null
+}

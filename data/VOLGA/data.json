@@ -1,0 +1,22 @@
+{
+  "name": "VOLGA",
+  "symbol": "VOLGA",
+  "decimals": 18,
+  "description": "VOLGA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VOLGA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VOLGA",
+  "addresses": {
+    "8453": "0x3b4fa0a99a3c50767a066c5d7a89109dcf9d2591"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VOLGA",
+    "sanitizedSymbol": "VOLGA",
+    "created_at": "2024-12-11T06:59:37.682232",
+    "deployer": "0x1f317E6C8A7B92CE47A711E66aA5E5D34Fd11317",
+    "lpNftId": "1413995",
+    "lockerAddress": "0x8C50ff1ae62E489e59F2965943f9106D4123b6dC"
+  },
+  "clankerInfo": null
+}

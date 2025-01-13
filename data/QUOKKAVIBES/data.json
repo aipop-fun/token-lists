@@ -1,0 +1,22 @@
+{
+  "name": "QuokkaVibes",
+  "symbol": "QuokkaVibes",
+  "decimals": 18,
+  "description": "QuokkaVibes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QuokkaVibes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QuokkaVibes",
+  "addresses": {
+    "8453": "0x21b3e169f09995814ca7e579ad1fcd5b9ecfb16d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QuokkaVibes",
+    "sanitizedSymbol": "QUOKKAVIBES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5CC3F81A202BFb10E0c3190b5B71196FA2be2787",
+    "lpNftId": "1330118",
+    "lockerAddress": "0x6cB42c9A530fe220A2687b613bAd0192Fc946122"
+  },
+  "clankerInfo": null
+}

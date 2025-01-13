@@ -1,0 +1,22 @@
+{
+  "name": "DITTO",
+  "symbol": "DITTO",
+  "decimals": 18,
+  "description": "DITTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DITTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DITTO",
+  "addresses": {
+    "8453": "0x38850a9e3df208606ee03b02598c65a6fb0583be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DITTO",
+    "sanitizedSymbol": "DITTO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1340920",
+    "lockerAddress": "0x6c9dCf19f365681362614d5Cf5a815185ae1dbfC"
+  },
+  "clankerInfo": null
+}

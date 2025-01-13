@@ -2,10 +2,21 @@
   "name": "MONKE",
   "symbol": "MONKE",
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/2f16c4c08eb4b89b973883d1e7b0806af859d14e/data/MONKE/logo.svg",
+  "description": "MONKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
   "opTokenId": "MONKE",
   "addresses": {
-    "1": "0xc8168d5665f4418353728ac970713e09C0B7c20e",
-    "8453": "0xe8740ff403060dae99c63a684e0dfe3eaa97e9bc"
-  }
+    "8453": "0x3435249764f8d9b33788ff181f5574986520cc29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONKE",
+    "sanitizedSymbol": "MONKE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2425a22bb273949467aEEF8aBF8c3E24C4Ef1c61",
+    "lpNftId": "1324630",
+    "lockerAddress": "0x8128797B2B1AF6574d10E4E7C01AC78D4df44858"
+  },
+  "clankerInfo": null
 }

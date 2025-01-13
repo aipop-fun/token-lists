@@ -1,0 +1,22 @@
+{
+  "name": "Glootie",
+  "symbol": "Glootie",
+  "decimals": 18,
+  "description": "Glootie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Glootie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Glootie",
+  "addresses": {
+    "8453": "0x2b41adc24174a7ea686028e6e5ea2c54f8915fe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Glootie",
+    "sanitizedSymbol": "GLOOTIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193469",
+    "lockerAddress": "0x394b9fE6897106f424D62E9a4d3da23b620F888A"
+  },
+  "clankerInfo": null
+}

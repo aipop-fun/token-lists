@@ -1,0 +1,22 @@
+{
+  "name": "MFEERR",
+  "symbol": "MFEERR",
+  "decimals": 18,
+  "description": "MFEERR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MFEERR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MFEERR",
+  "addresses": {
+    "8453": "0x25225e9410c2e9706990dbf2561fdda0bbcbfa79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MFEERR",
+    "sanitizedSymbol": "MFEERR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xbd81b5C514456e4aF92195E0F9562057BA745602",
+    "lpNftId": "1252190",
+    "lockerAddress": "0xE573516D7E09635f77c24EFb5212dBf0be4d9B0C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LLAMA",
+  "symbol": "LLAMA",
+  "decimals": 18,
+  "description": "LLAMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LLAMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LLAMA",
+  "addresses": {
+    "8453": "0x3f808a5997dddcbb3a1842ef9890706b1d47c54f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LLAMA",
+    "sanitizedSymbol": "LLAMA_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1249034",
+    "lockerAddress": "0xCA999a457d915D5d9995F0A3B7009ad0821d7F86"
+  },
+  "clankerInfo": null
+}

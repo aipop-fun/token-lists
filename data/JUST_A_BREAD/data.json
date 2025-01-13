@@ -1,0 +1,22 @@
+{
+  "name": "Just a Bread",
+  "symbol": "Just a Bread",
+  "decimals": 18,
+  "description": "Just a Bread is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20Bread",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a Bread",
+  "addresses": {
+    "8453": "0x075da310b60050d72a63c0d00632bc5271e90ffd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a Bread",
+    "sanitizedSymbol": "JUST_A_BREAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222931",
+    "lockerAddress": "0x7aefCF5c93bD913bf0568EdC2003db4509f72699"
+  },
+  "clankerInfo": null
+}

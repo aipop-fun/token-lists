@@ -1,0 +1,22 @@
+{
+  "name": "ClankerRWA",
+  "symbol": "ClankerRWA",
+  "decimals": 18,
+  "description": "ClankerRWA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerRWA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerRWA",
+  "addresses": {
+    "8453": "0x2ad643511f558a8c6d9e8f52dae494b7c26392da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerRWA",
+    "sanitizedSymbol": "CLANKERRWA",
+    "created_at": "2024-12-12T21:47:04.282267",
+    "deployer": "0x6515F2B308844A02be61757d7B3e989f5fdFf2bc",
+    "lpNftId": "1444138",
+    "lockerAddress": "0x813E71FE834A49674AC3ea975Ad989fB873cf661"
+  },
+  "clankerInfo": null
+}

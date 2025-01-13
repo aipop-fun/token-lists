@@ -1,0 +1,22 @@
+{
+  "name": "XLR8",
+  "symbol": "XLR8",
+  "decimals": 18,
+  "description": "XLR8 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XLR8",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XLR8",
+  "addresses": {
+    "8453": "0x044f14ed579bc579cb7b0ed246f7ba839c6bcd1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XLR8",
+    "sanitizedSymbol": "XLR8",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165538",
+    "lockerAddress": "0x86578662BE10a0D4F2Ded1Ae766Be1ac12D4e92B"
+  },
+  "clankerInfo": null
+}

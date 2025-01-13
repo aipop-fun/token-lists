@@ -1,0 +1,22 @@
+{
+  "name": "Paradigm",
+  "symbol": "Paradigm",
+  "decimals": 18,
+  "description": "Paradigm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Paradigm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Paradigm",
+  "addresses": {
+    "8453": "0x02e97e8d9bb4b14edf0eb6947ac44b34d8cd1f53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Paradigm",
+    "sanitizedSymbol": "PARADIGM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD497E8F56ae2e11BF019a671364cC667E105f955",
+    "lpNftId": "1328903",
+    "lockerAddress": "0x22CDA8334219Ba5aD5C374fa7ed72869Ae7b50E9"
+  },
+  "clankerInfo": null
+}

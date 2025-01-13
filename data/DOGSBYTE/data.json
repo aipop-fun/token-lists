@@ -1,0 +1,22 @@
+{
+  "name": "DogsByte",
+  "symbol": "DogsByte",
+  "decimals": 18,
+  "description": "DogsByte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogsByte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogsByte",
+  "addresses": {
+    "8453": "0x1c1b673d3db56826925f1a2f3e9b2eb23f33a3f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogsByte",
+    "sanitizedSymbol": "DOGSBYTE",
+    "created_at": "2024-12-10T11:37:07.216554",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1400303",
+    "lockerAddress": "0x849d0AC7FE70DD9Ac791774d868a9C0A20eD2Bf3"
+  },
+  "clankerInfo": null
+}

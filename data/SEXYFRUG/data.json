@@ -1,0 +1,22 @@
+{
+  "name": "SexyFrug",
+  "symbol": "SexyFrug",
+  "decimals": 18,
+  "description": "SexyFrug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SexyFrug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SexyFrug",
+  "addresses": {
+    "8453": "0x3bc84b1c7f9b4008f7a6abd011ff41a2796c7f30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SexyFrug",
+    "sanitizedSymbol": "SEXYFRUG",
+    "created_at": "2024-12-10T15:21:59.965278",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1402578",
+    "lockerAddress": "0x6e483d1932fA86dF65A133d62e1e2974DdCa4725"
+  },
+  "clankerInfo": null
+}

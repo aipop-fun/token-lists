@@ -1,0 +1,22 @@
+{
+  "name": "cryptogirls",
+  "symbol": "cryptogirls",
+  "decimals": 18,
+  "description": "cryptogirls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cryptogirls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cryptogirls",
+  "addresses": {
+    "8453": "0x12e4419fc99686b1f585788cbfd4f4092b43fcbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cryptogirls",
+    "sanitizedSymbol": "CRYPTOGIRLS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA8bBDE3B3d0b922Ad5dd83E46b6272ca5989794B",
+    "lpNftId": "1252606",
+    "lockerAddress": "0xf2A29770c189eC02bf40C100A370c93f713d91e4"
+  },
+  "clankerInfo": null
+}

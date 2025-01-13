@@ -1,0 +1,22 @@
+{
+  "name": "SLOP",
+  "symbol": "SLOP",
+  "decimals": 18,
+  "description": "SLOP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLOP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLOP",
+  "addresses": {
+    "8453": "0x202022c9fc2bb3cace8be0683490b83951e3246b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLOP",
+    "sanitizedSymbol": "SLOP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128909",
+    "lockerAddress": "0x09b1A6196f4Cb71154b36727Ef9Bc39FEB132A7F"
+  },
+  "clankerInfo": null
+}

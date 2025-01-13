@@ -1,0 +1,22 @@
+{
+  "name": "NACHO",
+  "symbol": "NACHO",
+  "decimals": 18,
+  "description": "NACHO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NACHO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NACHO",
+  "addresses": {
+    "8453": "0x28a6b4aeb1f35ccf9a662f6b8295078d25c11774"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NACHO",
+    "sanitizedSymbol": "NACHO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x16160151Bc1A798F88FF5b3e861f1F145319Fcba",
+    "lpNftId": "1252632",
+    "lockerAddress": "0xeA2383C70B99950dEDF2b83acE65Cb78b078Eb96"
+  },
+  "clankerInfo": null
+}

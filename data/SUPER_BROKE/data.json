@@ -1,0 +1,22 @@
+{
+  "name": "Super broke",
+  "symbol": "Super broke",
+  "decimals": 18,
+  "description": "Super broke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20broke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super broke",
+  "addresses": {
+    "8453": "0x1e21d4b8aa1a0ad3bdfee4c1a6b074fb6266c8dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super broke",
+    "sanitizedSymbol": "SUPER_BROKE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212554",
+    "lockerAddress": "0x52841D05d869cD954f5F0F075aC2A2Ac75024FEf"
+  },
+  "clankerInfo": null
+}

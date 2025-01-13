@@ -1,0 +1,22 @@
+{
+  "name": "No Copyright",
+  "symbol": "No Copyright",
+  "decimals": 18,
+  "description": "No Copyright is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Copyright",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Copyright",
+  "addresses": {
+    "8453": "0x00d620ad3002cfff4e2830f2117a10a9c59058d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Copyright",
+    "sanitizedSymbol": "NO_COPYRIGHT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217777",
+    "lockerAddress": "0xF5c7a512408B9ADF26cA2c47deeB040Af0Da6153"
+  },
+  "clankerInfo": null
+}

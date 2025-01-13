@@ -1,0 +1,22 @@
+{
+  "name": "ASCII",
+  "symbol": "ASCII",
+  "decimals": 18,
+  "description": "ASCII is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ASCII",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ASCII",
+  "addresses": {
+    "8453": "0x31855bd2b9d3a02e13ce9f600942774a1e934cab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ASCII",
+    "sanitizedSymbol": "ASCII_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1F2a3F37F81C4597D4540234200D5362d669cA3B",
+    "lpNftId": "1264922",
+    "lockerAddress": "0x50f060a875aa063adE8De42990AD94795a0F5f71"
+  },
+  "clankerInfo": null
+}

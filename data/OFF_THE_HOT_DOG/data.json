@@ -1,0 +1,22 @@
+{
+  "name": "Off the Hot Dog",
+  "symbol": "Off the Hot Dog",
+  "decimals": 18,
+  "description": "Off the Hot Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Off%20the%20Hot%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Off the Hot Dog",
+  "addresses": {
+    "8453": "0x02fb65b0990190698cabddcb1594a24a005d29a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Off the Hot Dog",
+    "sanitizedSymbol": "OFF_THE_HOT_DOG",
+    "created_at": "2024-12-11T05:22:46.637891",
+    "deployer": "0x6DfAb7ff09c3C601cc6b1881aa0385163589c7ec",
+    "lpNftId": "1413106",
+    "lockerAddress": "0x20CB7527CC72eB54Dd74170fA0032d6F44a58202"
+  },
+  "clankerInfo": null
+}

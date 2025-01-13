@@ -1,0 +1,22 @@
+{
+  "name": "HATZ",
+  "symbol": "HATZ",
+  "decimals": 18,
+  "description": "HATZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HATZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HATZ",
+  "addresses": {
+    "8453": "0x0637642b7d661f088cf7d2772a302dbf2985f0f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HATZ",
+    "sanitizedSymbol": "HATZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7763761fe909356286902Ca33Fa79e233eb53D99",
+    "lpNftId": "1320487",
+    "lockerAddress": "0x6B1D147c87CDCE096B92709312326E6bF18566f5"
+  },
+  "clankerInfo": null
+}

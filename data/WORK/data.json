@@ -1,0 +1,22 @@
+{
+  "name": "WORK",
+  "symbol": "WORK",
+  "decimals": 18,
+  "description": "WORK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WORK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WORK",
+  "addresses": {
+    "8453": "0x23cfc8af7c5b962d8262ce1b7d6b888e1e721ba9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WORK",
+    "sanitizedSymbol": "WORK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232215",
+    "lockerAddress": "0xB9e2b2B3FE26b44822F0531aE2f8F1af7252E13D"
+  },
+  "clankerInfo": null
+}

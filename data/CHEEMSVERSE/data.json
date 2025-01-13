@@ -1,0 +1,22 @@
+{
+  "name": "CheemsVerse",
+  "symbol": "CheemsVerse",
+  "decimals": 18,
+  "description": "CheemsVerse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CheemsVerse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CheemsVerse",
+  "addresses": {
+    "8453": "0x31874282e4681ef260e98a2b69a4f9b186c1912c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CheemsVerse",
+    "sanitizedSymbol": "CHEEMSVERSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166028",
+    "lockerAddress": "0x2A2Db9c1eeDF6958EB545787371Ea6dec9ED0885"
+  },
+  "clankerInfo": null
+}

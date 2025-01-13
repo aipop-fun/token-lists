@@ -1,0 +1,22 @@
+{
+  "name": "noictib",
+  "symbol": "noictib",
+  "decimals": 18,
+  "description": "noictib is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=noictib",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "noictib",
+  "addresses": {
+    "8453": "0x1b6d35eda17b2622f770aeeb06655e0ab5f2e34d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "noictib",
+    "sanitizedSymbol": "NOICTIB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237790",
+    "lockerAddress": "0xaA0c6cf41b1e5e512a983C7d3C74594c566734aE"
+  },
+  "clankerInfo": null
+}

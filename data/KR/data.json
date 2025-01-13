@@ -1,0 +1,22 @@
+{
+  "name": "kr",
+  "symbol": "kr",
+  "decimals": 18,
+  "description": "kr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kr",
+  "addresses": {
+    "8453": "0x1948a91d4462825a2632dbd8d78a5143d5cef3f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kr",
+    "sanitizedSymbol": "KR",
+    "created_at": "2024-12-11T05:08:58.618284",
+    "deployer": "0x540958c3Bfce6F5c46f3C576b9217cb53721F44c",
+    "lpNftId": "1412971",
+    "lockerAddress": "0x9F59e7265354238B21361c02b60E2D28A3517afa"
+  },
+  "clankerInfo": null
+}

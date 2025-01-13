@@ -1,0 +1,22 @@
+{
+  "name": "FAZA",
+  "symbol": "FAZA",
+  "decimals": 18,
+  "description": "FAZA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAZA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAZA",
+  "addresses": {
+    "8453": "0x3f598473ddeb2dc22b18ed3ea8431dc5ac9c45ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAZA",
+    "sanitizedSymbol": "FAZA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2e1F7d8082fc91E880DFa63F6C42737D580cB227",
+    "lpNftId": "1286255",
+    "lockerAddress": "0x15C05DC2bF26067575681828f30213406C7AB1fE"
+  },
+  "clankerInfo": null
+}

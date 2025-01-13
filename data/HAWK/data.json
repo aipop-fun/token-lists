@@ -1,0 +1,22 @@
+{
+  "name": "HAWK",
+  "symbol": "HAWK",
+  "decimals": 18,
+  "description": "HAWK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAWK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAWK",
+  "addresses": {
+    "8453": "0x37eb4c9b4128debd584d8a48aa7c9cc6aa372adb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAWK",
+    "sanitizedSymbol": "HAWK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x220647E6f459119084Af0b446470A7b238fAC378",
+    "lpNftId": "1327087",
+    "lockerAddress": "0x0a4e1207094B28fDf43Bd0FCD4F49f3d09Dc6a81"
+  },
+  "clankerInfo": null
+}

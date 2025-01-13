@@ -1,0 +1,22 @@
+{
+  "name": "bite",
+  "symbol": "bite",
+  "decimals": 18,
+  "description": "bite is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bite",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bite",
+  "addresses": {
+    "8453": "0x27c9b5129d013dac2f71e8bef314f8fe46d75ba2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bite",
+    "sanitizedSymbol": "BITE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA8bBDE3B3d0b922Ad5dd83E46b6272ca5989794B",
+    "lpNftId": "1252662",
+    "lockerAddress": "0x9866B9b44DE41878cA5703D65B1F72000184FB05"
+  },
+  "clankerInfo": null
+}

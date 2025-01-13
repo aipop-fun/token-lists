@@ -1,0 +1,22 @@
+{
+  "name": "MOLLY",
+  "symbol": "MOLLY",
+  "decimals": 18,
+  "description": "MOLLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOLLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOLLY",
+  "addresses": {
+    "8453": "0x21cd82bab942078f55ea5a3e605d149249e91986"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOLLY",
+    "sanitizedSymbol": "MOLLY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCbc539d55840b986407EFA19dA40e1D6Cb4e0F1a",
+    "lpNftId": "1309588",
+    "lockerAddress": "0x691EbC94D1cBaFe415d6355a39Da01a5da374d6F"
+  },
+  "clankerInfo": null
+}

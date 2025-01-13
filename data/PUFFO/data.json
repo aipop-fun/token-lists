@@ -1,0 +1,22 @@
+{
+  "name": "PUFFO",
+  "symbol": "PUFFO",
+  "decimals": 18,
+  "description": "PUFFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUFFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUFFO",
+  "addresses": {
+    "8453": "0x065950d0b0ee047ec97f60db78b471f6525d817a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUFFO",
+    "sanitizedSymbol": "PUFFO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC660fddEa71c945282EEC81C90882EE5FD887628",
+    "lpNftId": "1308691",
+    "lockerAddress": "0xC17c72ea51b425fcbB5A03aED417B62aaa52f4Aa"
+  },
+  "clankerInfo": null
+}

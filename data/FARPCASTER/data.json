@@ -1,0 +1,22 @@
+{
+  "name": "FARPCASTER",
+  "symbol": "FARPCASTER",
+  "decimals": 18,
+  "description": "FARPCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARPCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARPCASTER",
+  "addresses": {
+    "8453": "0x025eb18e402d307d93754aa3e4f8d0a5ebcea23a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARPCASTER",
+    "sanitizedSymbol": "FARPCASTER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1282877",
+    "lockerAddress": "0xcadE44d3d8532EEfcCEdb0a27BDD4D65D6D76C04"
+  },
+  "clankerInfo": null
+}

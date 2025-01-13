@@ -1,0 +1,22 @@
+{
+  "name": "Shiba with glasses",
+  "symbol": "Shiba with glasses",
+  "decimals": 18,
+  "description": "Shiba with glasses is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shiba%20with%20glasses",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shiba with glasses",
+  "addresses": {
+    "8453": "0x28417a46e063497391ada619a475a651ebe3e587"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shiba with glasses",
+    "sanitizedSymbol": "SHIBA_WITH_GLASSES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x562e1236AD1BD5BE28CB78bB8d6ADF9b0524d4b0",
+    "lpNftId": "1330333",
+    "lockerAddress": "0x662577ceC10C54FaeE5aF4BD26C1d3E2525B2e9F"
+  },
+  "clankerInfo": null
+}

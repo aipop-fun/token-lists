@@ -1,0 +1,22 @@
+{
+  "name": "CONNECT",
+  "symbol": "CONNECT",
+  "decimals": 18,
+  "description": "CONNECT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CONNECT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CONNECT",
+  "addresses": {
+    "8453": "0x38a85e8d3527d9fb7c9cfdb8a468ef0f3b0e4f06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CONNECT",
+    "sanitizedSymbol": "CONNECT",
+    "created_at": "2024-12-12T13:57:30.787502",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1435397",
+    "lockerAddress": "0x7be2f1abC4848a6f65e65b7292914D057674Db02"
+  },
+  "clankerInfo": null
+}

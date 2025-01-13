@@ -1,0 +1,22 @@
+{
+  "name": "AIRDROP",
+  "symbol": "AIRDROP",
+  "decimals": 18,
+  "description": "AIRDROP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIRDROP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIRDROP",
+  "addresses": {
+    "8453": "0x32b3d77f013edca9488ea6ebeca767f076799ef2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIRDROP",
+    "sanitizedSymbol": "AIRDROP_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5D6ea8c76Ab5D7366578F4b36D798Cc37219dC24",
+    "lpNftId": "1286085",
+    "lockerAddress": "0x90137EB5C6e11A74ca44fF409D7cdf566181AF8E"
+  },
+  "clankerInfo": null
+}

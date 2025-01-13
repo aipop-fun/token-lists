@@ -1,0 +1,22 @@
+{
+  "name": "Seriously?",
+  "symbol": "Seriously?",
+  "decimals": 18,
+  "description": "Seriously? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Seriously%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Seriously?",
+  "addresses": {
+    "8453": "0x050ba63d2f5da4eeb4f50d5783deab71d851302e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Seriously?",
+    "sanitizedSymbol": "SERIOUSLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1247412",
+    "lockerAddress": "0xE858C36B10e583047da6D88569BD5eDdbA6228f8"
+  },
+  "clankerInfo": null
+}

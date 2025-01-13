@@ -1,0 +1,22 @@
+{
+  "name": "hole",
+  "symbol": "hole",
+  "decimals": 18,
+  "description": "hole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hole",
+  "addresses": {
+    "8453": "0x028e22dd271ade230adf702b1048d98d9864a3b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hole",
+    "sanitizedSymbol": "HOLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151814",
+    "lockerAddress": "0x0E652FEf92238c1f8dDd9a084144E87923Dc463f"
+  },
+  "clankerInfo": null
+}

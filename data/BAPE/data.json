@@ -1,0 +1,22 @@
+{
+  "name": "BAPE",
+  "symbol": "BAPE",
+  "decimals": 18,
+  "description": "BAPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BAPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BAPE",
+  "addresses": {
+    "8453": "0x2aab0b99e732474da38ec068317b91a95fd34ba9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BAPE",
+    "sanitizedSymbol": "BAPE",
+    "created_at": "2024-12-09T16:31:21.609687",
+    "deployer": "0x48Abd05c722c6bA90645e2c1236B4d693E769EBB",
+    "lpNftId": "1389229",
+    "lockerAddress": "0x7892034FBd5a1F4bfD7fcc97Ca2651F2Aaa9970A"
+  },
+  "clankerInfo": null
+}

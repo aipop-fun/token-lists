@@ -1,0 +1,22 @@
+{
+  "name": "Normies",
+  "symbol": "Normies",
+  "decimals": 18,
+  "description": "Normies is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Normies",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Normies",
+  "addresses": {
+    "8453": "0x296b97165206cf8fcebdaa8bccee5c40ec21eb9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Normies",
+    "sanitizedSymbol": "NORMIES",
+    "created_at": "2024-12-12T05:09:54.699815",
+    "deployer": "0xf8d37B6FD09e83819cC2E44F087CeeF40f6604db",
+    "lpNftId": "1429313",
+    "lockerAddress": "0x87De66a0A21EDe4F3811de1105930FB2b11D1a2D"
+  },
+  "clankerInfo": null
+}

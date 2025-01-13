@@ -1,0 +1,22 @@
+{
+  "name": "thorsgiving",
+  "symbol": "thorsgiving",
+  "decimals": 18,
+  "description": "thorsgiving is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=thorsgiving",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "thorsgiving",
+  "addresses": {
+    "8453": "0x0e876148774b8ba3563a8fa172025f057cfa215c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "thorsgiving",
+    "sanitizedSymbol": "THORSGIVING",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x49a9589225cA3371f38E1B8F908715c41D94228c",
+    "lpNftId": "1251242",
+    "lockerAddress": "0x8E7aA4cc9F285A6a636Db6e97f392E5Bb25F3bbE"
+  },
+  "clankerInfo": null
+}

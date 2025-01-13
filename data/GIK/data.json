@@ -1,0 +1,22 @@
+{
+  "name": "GIK",
+  "symbol": "GIK",
+  "decimals": 18,
+  "description": "GIK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIK",
+  "addresses": {
+    "8453": "0x1d405eab1ca5d4a48db36ea282236289aebf59ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIK",
+    "sanitizedSymbol": "GIK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF44D82E2027997aB151c108707d63a5102F24f8D",
+    "lpNftId": "1269057",
+    "lockerAddress": "0x87791AFac9bc982AA9Ec948f337ed87FCc629999"
+  },
+  "clankerInfo": null
+}

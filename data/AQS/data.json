@@ -1,0 +1,22 @@
+{
+  "name": "AQS",
+  "symbol": "AQS",
+  "decimals": 18,
+  "description": "AQS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AQS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AQS",
+  "addresses": {
+    "8453": "0x08414709a0445a3645cf2f5695be467b6fa93b31"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AQS",
+    "sanitizedSymbol": "AQS",
+    "created_at": "2024-12-09T10:32:53.132296",
+    "deployer": "0x0207DEABE9647adbF974DBcfBD74E0F963Efa98d",
+    "lpNftId": "1385909",
+    "lockerAddress": "0x09c1C436D21BE9068625511725963BD9cdb8C940"
+  },
+  "clankerInfo": null
+}

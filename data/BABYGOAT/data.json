@@ -1,0 +1,22 @@
+{
+  "name": "babygoat",
+  "symbol": "babygoat",
+  "decimals": 18,
+  "description": "babygoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=babygoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "babygoat",
+  "addresses": {
+    "8453": "0x2ee8409e353a9220c63d04b7acb4ea6ecc40197f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "babygoat",
+    "sanitizedSymbol": "BABYGOAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x523Bf62FB4b77a8ec69bC58002C95925AEBa4f58",
+    "lpNftId": "1373795",
+    "lockerAddress": "0x1BbE9E7d1897f540874fdc91f1A743A346ee8a19"
+  },
+  "clankerInfo": null
+}

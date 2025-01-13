@@ -1,0 +1,22 @@
+{
+  "name": "JEWINME",
+  "symbol": "JEWINME",
+  "decimals": 18,
+  "description": "JEWINME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEWINME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEWINME",
+  "addresses": {
+    "8453": "0x1ac1153e13f774594de60e92b5b211e711a620b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEWINME",
+    "sanitizedSymbol": "JEWINME",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC17Ae17b5101966F5f2DDC93bFF749DA1e3409CE",
+    "lpNftId": "1252866",
+    "lockerAddress": "0x00c179C10240E14915A4382A63BD6A0b157Aa1A3"
+  },
+  "clankerInfo": null
+}

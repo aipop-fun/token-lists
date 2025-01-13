@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN TO BINANCE",
+  "symbol": "DEGEN TO BINANCE",
+  "decimals": 18,
+  "description": "DEGEN TO BINANCE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20TO%20BINANCE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN TO BINANCE",
+  "addresses": {
+    "8453": "0x2cf8124d1455fe71f803f7b91996ad29d1d462d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN TO BINANCE",
+    "sanitizedSymbol": "DEGEN_TO_BINANCE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEe72c0525683093299A07c0444e00B17687d53A3",
+    "lpNftId": "1371283",
+    "lockerAddress": "0x7cB00cb9945FA5CaC94454cF60F26B41FcaA6A10"
+  },
+  "clankerInfo": null
+}

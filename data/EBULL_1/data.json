@@ -1,0 +1,22 @@
+{
+  "name": "EBULL",
+  "symbol": "EBULL",
+  "decimals": 18,
+  "description": "EBULL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EBULL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EBULL",
+  "addresses": {
+    "8453": "0x0a6b03ba49c36d889114e6a9fc2ab64e80a05f58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EBULL",
+    "sanitizedSymbol": "EBULL_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb9B00Bf4129E36377193F6401B0563EAc6ae3153",
+    "lpNftId": "1314726",
+    "lockerAddress": "0xE192559fFdFE8A4277d11cB640014A3ce976a475"
+  },
+  "clankerInfo": null
+}

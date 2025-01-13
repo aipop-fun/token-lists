@@ -1,0 +1,22 @@
+{
+  "name": "AI MemeBot",
+  "symbol": "AI MemeBot",
+  "decimals": 18,
+  "description": "AI MemeBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20MemeBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI MemeBot",
+  "addresses": {
+    "8453": "0x3308be2446a8e557985b95525250f1261e72c52e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI MemeBot",
+    "sanitizedSymbol": "AI_MEMEBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1304394",
+    "lockerAddress": "0x1423cdD2dd3833908c8074faF6999837Ce3d6355"
+  },
+  "clankerInfo": null
+}

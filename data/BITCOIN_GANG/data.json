@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin Gang",
+  "symbol": "Bitcoin Gang",
+  "decimals": 18,
+  "description": "Bitcoin Gang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20Gang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin Gang",
+  "addresses": {
+    "8453": "0x3c71339aa99bacab08b09e9fb1ed197edbc30c55"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin Gang",
+    "sanitizedSymbol": "BITCOIN_GANG",
+    "created_at": "2024-12-11T00:16:30.720628",
+    "deployer": "0x6C9449a3B7bD604e12e9407460643F1DFBD9Fff7",
+    "lpNftId": "1408799",
+    "lockerAddress": "0x1316b7E0807B6A94a19a10d7F47dBf54b08b4900"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Warpcat",
+  "symbol": "Warpcat",
+  "decimals": 18,
+  "description": "Warpcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpcat",
+  "addresses": {
+    "8453": "0x3a5f73280332e2854b3f83d5b6e0952925aef1a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpcat",
+    "sanitizedSymbol": "WARPCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220888",
+    "lockerAddress": "0xD3CCF948F1867B82EeaE996FEE64EF18B7533acb"
+  },
+  "clankerInfo": null
+}

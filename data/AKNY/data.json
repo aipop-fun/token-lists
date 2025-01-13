@@ -1,0 +1,22 @@
+{
+  "name": "@AKNY",
+  "symbol": "@AKNY",
+  "decimals": 18,
+  "description": "@AKNY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40AKNY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@AKNY",
+  "addresses": {
+    "8453": "0x17184da0d84c269767c7db00e04e8cb7805f23e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@AKNY",
+    "sanitizedSymbol": "AKNY",
+    "created_at": "2024-12-12T16:09:08.991718",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1437981",
+    "lockerAddress": "0x12E4dCCA0c1c36a5409D531A1fE324A81FE25033"
+  },
+  "clankerInfo": null
+}

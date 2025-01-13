@@ -1,0 +1,22 @@
+{
+  "name": "ryuta",
+  "symbol": "ryuta",
+  "decimals": 18,
+  "description": "ryuta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ryuta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ryuta",
+  "addresses": {
+    "8453": "0x37d81ee4fb1817b25a1e22563e40a149b271eab8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ryuta",
+    "sanitizedSymbol": "RYUTA",
+    "created_at": "2024-12-10T23:03:01.021694",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408207",
+    "lockerAddress": "0x437678e56cf82276daF244B67c96056641e6422A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SWORD",
+  "symbol": "SWORD",
+  "decimals": 18,
+  "description": "SWORD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SWORD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SWORD",
+  "addresses": {
+    "8453": "0x2c3fae10216b0c6e766d72b283150f09449d3316"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SWORD",
+    "sanitizedSymbol": "SWORD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1292347",
+    "lockerAddress": "0x2E28EE7D47AAbCa9A5CA5a07DDbc1f811Bc523b6"
+  },
+  "clankerInfo": null
+}

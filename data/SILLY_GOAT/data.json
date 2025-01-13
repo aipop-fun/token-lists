@@ -1,0 +1,22 @@
+{
+  "name": "Silly goat",
+  "symbol": "Silly goat",
+  "decimals": 18,
+  "description": "Silly goat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Silly%20goat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Silly goat",
+  "addresses": {
+    "8453": "0x35836149f5e0b0e7b9b08c3d05c913396f3e5d22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Silly goat",
+    "sanitizedSymbol": "SILLY_GOAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4A627A6f1fa80cf6C9891040456F4b4438F25471",
+    "lpNftId": "1286108",
+    "lockerAddress": "0xdaFe50AdC730b8dA52eE060736D45365978AFE1F"
+  },
+  "clankerInfo": null
+}

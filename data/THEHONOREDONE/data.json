@@ -1,0 +1,22 @@
+{
+  "name": "TheHonoredOne",
+  "symbol": "TheHonoredOne",
+  "decimals": 18,
+  "description": "TheHonoredOne is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TheHonoredOne",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TheHonoredOne",
+  "addresses": {
+    "8453": "0x1083edb433fc1941acbdc4d09e1d6f420a9025a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TheHonoredOne",
+    "sanitizedSymbol": "THEHONOREDONE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156982",
+    "lockerAddress": "0xEf32109589D9aB13714E819a547f36aa829003Fe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SWAG BANANA",
+  "symbol": "SWAG BANANA",
+  "decimals": 18,
+  "description": "SWAG BANANA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SWAG%20BANANA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SWAG BANANA",
+  "addresses": {
+    "8453": "0x1a8cf0299a2cf8c233557392aef0edd97de69643"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SWAG BANANA",
+    "sanitizedSymbol": "SWAG_BANANA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1309031",
+    "lockerAddress": "0xBE9bC6720f6D5d7A7D2B03687101ab0DDFffa64b"
+  },
+  "clankerInfo": null
+}

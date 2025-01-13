@@ -1,0 +1,22 @@
+{
+  "name": "Lord Of The ETH",
+  "symbol": "Lord Of The ETH",
+  "decimals": 18,
+  "description": "Lord Of The ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lord%20Of%20The%20ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lord Of The ETH",
+  "addresses": {
+    "8453": "0x250a8f790f80deb172e784424d87cc1731414677"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lord Of The ETH",
+    "sanitizedSymbol": "LORD_OF_THE_ETH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAf9339113707364dEb9cb3e26e9015D1CB3D2935",
+    "lpNftId": "1304434",
+    "lockerAddress": "0x2F4AfeF6Ad13FBb8066fF0E6a248333644476D41"
+  },
+  "clankerInfo": null
+}

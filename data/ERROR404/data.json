@@ -1,0 +1,22 @@
+{
+  "name": "Error404",
+  "symbol": "Error404",
+  "decimals": 18,
+  "description": "Error404 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Error404",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Error404",
+  "addresses": {
+    "8453": "0x08dee281fbfbd9104143f7aab99b7dc63ecb1101"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Error404",
+    "sanitizedSymbol": "ERROR404",
+    "created_at": "2024-12-09T06:17:12.044975",
+    "deployer": "0x9FFd977AF057f190B7aCAD7Be7f2E674FD551168",
+    "lpNftId": "1383811",
+    "lockerAddress": "0xC1DAEe54636414ee8c296492433f4f9E532ED63B"
+  },
+  "clankerInfo": null
+}

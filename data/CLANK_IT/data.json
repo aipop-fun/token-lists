@@ -1,0 +1,22 @@
+{
+  "name": "clank it",
+  "symbol": "clank it",
+  "decimals": 18,
+  "description": "clank it is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clank%20it",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clank it",
+  "addresses": {
+    "8453": "0x3736207c48ae4d44abbfaa22f88e7f631ba9d1ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clank it",
+    "sanitizedSymbol": "CLANK_IT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211638",
+    "lockerAddress": "0xD7A81904e6A8f1ad08517392c3423956976a6b77"
+  },
+  "clankerInfo": null
+}

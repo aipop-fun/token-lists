@@ -1,0 +1,22 @@
+{
+  "name": "Jake the Dog",
+  "symbol": "Jake the Dog",
+  "decimals": 18,
+  "description": "Jake the Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jake%20the%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jake the Dog",
+  "addresses": {
+    "8453": "0x3d9b3f34e515799769321d0bc1c1749a917d8114"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jake the Dog",
+    "sanitizedSymbol": "JAKE_THE_DOG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x020D088990881411Fb9f5db119C932Ad82B79c1b",
+    "lpNftId": "1268740",
+    "lockerAddress": "0x9379DB2A27FBD1164d03E0E8B019a691AD9410AE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Aetherium",
+  "symbol": "Aetherium",
+  "decimals": 18,
+  "description": "Aetherium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aetherium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aetherium",
+  "addresses": {
+    "8453": "0x0d653aa66bf684f00929b83739fca021326c9f22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aetherium",
+    "sanitizedSymbol": "AETHERIUM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232197",
+    "lockerAddress": "0x39e43Bbbf2A434Dda55b8EB11F6c57cb4237ef1b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WAR",
+  "symbol": "WAR",
+  "decimals": 18,
+  "description": "WAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WAR",
+  "addresses": {
+    "8453": "0x01c520f851d88eafe2c4a6be3fdcb2e9b9c4a4c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WAR",
+    "sanitizedSymbol": "WAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x76d387388BEa6B60CA6D1e97f446F7E26D39d313",
+    "lpNftId": "1327743",
+    "lockerAddress": "0x3767A13c2804327a4e6D76E220270467c69B07Cd"
+  },
+  "clankerInfo": null
+}

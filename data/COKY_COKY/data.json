@@ -1,0 +1,22 @@
+{
+  "name": "Coky Coky",
+  "symbol": "Coky Coky",
+  "decimals": 18,
+  "description": "Coky Coky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coky%20Coky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coky Coky",
+  "addresses": {
+    "8453": "0x3ac1c5521495e0a46a0db591bf7083ec149667d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coky Coky",
+    "sanitizedSymbol": "COKY_COKY",
+    "created_at": "2024-12-12T05:39:46.945947",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1429425",
+    "lockerAddress": "0xD52388204366c614f17F4B8DE5646a1F8a998c89"
+  },
+  "clankerInfo": null
+}

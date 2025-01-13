@@ -1,0 +1,22 @@
+{
+  "name": "BOS",
+  "symbol": "BOS",
+  "decimals": 18,
+  "description": "BOS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOS",
+  "addresses": {
+    "8453": "0x2e2b5f7b5b8f0d455c56e9bd08450fd09d4bc96e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOS",
+    "sanitizedSymbol": "BOS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xee962Ed3cD4d0De69f99e315DC9331e6A8dcbb01",
+    "lpNftId": "1346947",
+    "lockerAddress": "0xA60d684502c8e1a2212cB5fe7C5925273F1AD98E"
+  },
+  "clankerInfo": null
+}

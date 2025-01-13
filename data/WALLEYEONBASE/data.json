@@ -1,0 +1,22 @@
+{
+  "name": "walleyeonbase",
+  "symbol": "walleyeonbase",
+  "decimals": 18,
+  "description": "walleyeonbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=walleyeonbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "walleyeonbase",
+  "addresses": {
+    "8453": "0x2b64ded401b2e9de95532b2e0062176645e851fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "walleyeonbase",
+    "sanitizedSymbol": "WALLEYEONBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1284099",
+    "lockerAddress": "0x0D3950B6d8309c803AfBB44792753AE83A9cC502"
+  },
+  "clankerInfo": null
+}

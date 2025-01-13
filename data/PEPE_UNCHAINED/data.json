@@ -1,0 +1,22 @@
+{
+  "name": "PEPE Unchained",
+  "symbol": "PEPE Unchained",
+  "decimals": 18,
+  "description": "PEPE Unchained is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20Unchained",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE Unchained",
+  "addresses": {
+    "8453": "0x20607f576ccb3776bdad7d7c9ec7e31c36188ffd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE Unchained",
+    "sanitizedSymbol": "PEPE_UNCHAINED",
+    "created_at": "2024-12-11T06:32:22.385305",
+    "deployer": "0xAB36B6178cb7d3d338F1C91B0DdBe8f867c90d92",
+    "lpNftId": "1413908",
+    "lockerAddress": "0xB5519A4bdE7B48871cAAF1168883863A8389Ead3"
+  },
+  "clankerInfo": null
+}

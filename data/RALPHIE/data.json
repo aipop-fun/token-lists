@@ -1,0 +1,22 @@
+{
+  "name": "Ralphie",
+  "symbol": "Ralphie",
+  "decimals": 18,
+  "description": "Ralphie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ralphie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ralphie",
+  "addresses": {
+    "8453": "0x025e09d7dedc3a331fb97ce9c90ee795aebcc781"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ralphie",
+    "sanitizedSymbol": "RALPHIE",
+    "created_at": "2024-12-10T04:37:00.798531",
+    "deployer": "0x3D0c31994a7781f59680181B8Ae129aaDB8a46f2",
+    "lpNftId": "1396404",
+    "lockerAddress": "0x1DE3B84bc7d2da5CB8c64d4d99bE157062D8E4ee"
+  },
+  "clankerInfo": null
+}

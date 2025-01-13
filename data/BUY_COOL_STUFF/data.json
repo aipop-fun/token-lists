@@ -1,0 +1,22 @@
+{
+  "name": "Buy Cool Stuff",
+  "symbol": "Buy Cool Stuff",
+  "decimals": 18,
+  "description": "Buy Cool Stuff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Buy%20Cool%20Stuff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Buy Cool Stuff",
+  "addresses": {
+    "8453": "0x08048f65aa50454c5f4ecd61c18c31a7e66fff48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Buy Cool Stuff",
+    "sanitizedSymbol": "BUY_COOL_STUFF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf4bA6552836c9F8F7B1b8fB34470B81854Ef2dCB",
+    "lpNftId": "1283663",
+    "lockerAddress": "0x37F58f9fF02c588BE299178b82CB499cfaC8107C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PolkadotFan",
+  "symbol": "PolkadotFan",
+  "decimals": 18,
+  "description": "PolkadotFan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PolkadotFan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PolkadotFan",
+  "addresses": {
+    "8453": "0x1435324f567513869af4bd1ae436ea10cd8e74d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PolkadotFan",
+    "sanitizedSymbol": "POLKADOTFAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165132",
+    "lockerAddress": "0x4851a7B58E29eDeEf04ec149fE5086bCfbB10D4B"
+  },
+  "clankerInfo": null
+}

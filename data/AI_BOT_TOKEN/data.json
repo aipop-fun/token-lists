@@ -1,0 +1,22 @@
+{
+  "name": "AI Bot Token",
+  "symbol": "AI Bot Token",
+  "decimals": 18,
+  "description": "AI Bot Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20Bot%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI Bot Token",
+  "addresses": {
+    "8453": "0x250646b94baef75ed565b49b15ddd5e8309968c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI Bot Token",
+    "sanitizedSymbol": "AI_BOT_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120180",
+    "lockerAddress": "0xba9B3F28c9b202c23242282153364Bf72c2508b9"
+  },
+  "clankerInfo": null
+}

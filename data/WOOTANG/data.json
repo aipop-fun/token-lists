@@ -1,0 +1,22 @@
+{
+  "name": "Wootang",
+  "symbol": "Wootang",
+  "decimals": 18,
+  "description": "Wootang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wootang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wootang",
+  "addresses": {
+    "8453": "0x351d341ce0cf9d07fe03fcb97ecb73591fc3fab1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wootang",
+    "sanitizedSymbol": "WOOTANG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8513FAfD08e3c98edA94659D4Cf55A035Db0C560",
+    "lpNftId": "1372622",
+    "lockerAddress": "0x25B1f90277889b5276bBa3ACEDCa8f4110D4184f"
+  },
+  "clankerInfo": null
+}

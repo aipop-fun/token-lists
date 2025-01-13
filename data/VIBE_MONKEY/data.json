@@ -1,0 +1,22 @@
+{
+  "name": "vibe monkey",
+  "symbol": "vibe monkey",
+  "decimals": 18,
+  "description": "vibe monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vibe%20monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vibe monkey",
+  "addresses": {
+    "8453": "0x2bb5ddc73d1a5f8cacef75afedec040d4f744ae6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vibe monkey",
+    "sanitizedSymbol": "VIBE_MONKEY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1354861",
+    "lockerAddress": "0xb6F836321f7bC3c94E170EAd36634Bad2aD6aCE1"
+  },
+  "clankerInfo": null
+}

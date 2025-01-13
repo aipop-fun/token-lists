@@ -1,0 +1,22 @@
+{
+  "name": "Money Printer",
+  "symbol": "Money Printer",
+  "decimals": 18,
+  "description": "Money Printer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Money%20Printer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Money Printer",
+  "addresses": {
+    "8453": "0x344984512d2d458de8d50c6e0bf524e5495b8069"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Money Printer",
+    "sanitizedSymbol": "MONEY_PRINTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232889",
+    "lockerAddress": "0x4b69722d44505d9Fc5A65C79B67606864526877A"
+  },
+  "clankerInfo": null
+}

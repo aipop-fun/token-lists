@@ -1,0 +1,22 @@
+{
+  "name": "Cat With The Gat",
+  "symbol": "Cat With The Gat",
+  "decimals": 18,
+  "description": "Cat With The Gat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20With%20The%20Gat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat With The Gat",
+  "addresses": {
+    "8453": "0x30da73216445f7d2dd53ebb34dfbe3e3af9e9bcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat With The Gat",
+    "sanitizedSymbol": "CAT_WITH_THE_GAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237748",
+    "lockerAddress": "0x1f1D037A831724A74721c85E834724dA3D0E671A"
+  },
+  "clankerInfo": null
+}

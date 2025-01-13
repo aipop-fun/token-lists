@@ -1,0 +1,22 @@
+{
+  "name": "dalkgabi",
+  "symbol": "dalkgabi",
+  "decimals": 18,
+  "description": "dalkgabi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dalkgabi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dalkgabi",
+  "addresses": {
+    "8453": "0x385586c7fdbb91f89e229d1769a1d1a4d17368c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dalkgabi",
+    "sanitizedSymbol": "DALKGABI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202633",
+    "lockerAddress": "0x29De4a03bf903678b805b6CE39d92F896E0a884d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Taterhead",
+  "symbol": "Taterhead",
+  "decimals": 18,
+  "description": "Taterhead is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Taterhead",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Taterhead",
+  "addresses": {
+    "8453": "0x2358161df2a2be5f3d1c6bf3dc720cf1f58f0c08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Taterhead",
+    "sanitizedSymbol": "TATERHEAD",
+    "created_at": "2024-12-10T13:17:14.684774",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1401465",
+    "lockerAddress": "0x32f0f0EA34522E96f04EB048E413f01D22E59DBe"
+  },
+  "clankerInfo": null
+}

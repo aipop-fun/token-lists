@@ -1,0 +1,22 @@
+{
+  "name": "PARADOX",
+  "symbol": "PARADOX",
+  "decimals": 18,
+  "description": "PARADOX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PARADOX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PARADOX",
+  "addresses": {
+    "8453": "0x36dcb479f8b216eace899d79266947284bc09b36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PARADOX",
+    "sanitizedSymbol": "PARADOX_6",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123323",
+    "lockerAddress": "0x285753d501a27CCBf31E64bEB2e58B4ff926b419"
+  },
+  "clankerInfo": null
+}

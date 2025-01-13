@@ -1,0 +1,22 @@
+{
+  "name": "Osiris AI",
+  "symbol": "Osiris AI",
+  "decimals": 18,
+  "description": "Osiris AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Osiris%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Osiris AI",
+  "addresses": {
+    "8453": "0x244bee78713effee0d190271fc960f2eb779594b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Osiris AI",
+    "sanitizedSymbol": "OSIRIS_AI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218436",
+    "lockerAddress": "0x034E9a5C20C3d0428984789Ed1B3c13a91A255e2"
+  },
+  "clankerInfo": null
+}

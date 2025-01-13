@@ -1,0 +1,22 @@
+{
+  "name": "Farclub",
+  "symbol": "Farclub",
+  "decimals": 18,
+  "description": "Farclub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farclub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farclub",
+  "addresses": {
+    "8453": "0x235e3a19c09006040d918ae69844f212ad31e6ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farclub",
+    "sanitizedSymbol": "FARCLUB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165974",
+    "lockerAddress": "0x93A1970A0d158196d88f700E664D3D34ab4e3D36"
+  },
+  "clankerInfo": null
+}

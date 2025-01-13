@@ -1,0 +1,22 @@
+{
+  "name": "Goffy base",
+  "symbol": "Goffy base",
+  "decimals": 18,
+  "description": "Goffy base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goffy%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goffy base",
+  "addresses": {
+    "8453": "0x10979f5565f316e08652d5112a9b1cf58a93b4f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goffy base",
+    "sanitizedSymbol": "GOFFY_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224055",
+    "lockerAddress": "0x6F43ff931698FEfd4dc09B132D0a798e579F6563"
+  },
+  "clankerInfo": null
+}

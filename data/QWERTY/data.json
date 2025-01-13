@@ -1,0 +1,22 @@
+{
+  "name": "QWERTY",
+  "symbol": "QWERTY",
+  "decimals": 18,
+  "description": "QWERTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QWERTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QWERTY",
+  "addresses": {
+    "8453": "0x2209c43cab4ba733969f42985b92acc947648f78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QWERTY",
+    "sanitizedSymbol": "QWERTY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0365B969FC9665A64c29bBEb16afc48CcbB65761",
+    "lpNftId": "1331636",
+    "lockerAddress": "0x66a8d949d38bE9772Be18CC43Df99546CEd176c1"
+  },
+  "clankerInfo": null
+}

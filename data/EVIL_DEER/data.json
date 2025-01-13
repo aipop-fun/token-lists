@@ -1,0 +1,22 @@
+{
+  "name": "Evil deer",
+  "symbol": "Evil deer",
+  "decimals": 18,
+  "description": "Evil deer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Evil%20deer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Evil deer",
+  "addresses": {
+    "8453": "0x16bb0414682e3c0d15f85be6edb6865a046a8f9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Evil deer",
+    "sanitizedSymbol": "EVIL_DEER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1314990",
+    "lockerAddress": "0x15Aa63855ACF35BF7CAA136A80C9d8D7e1C42Cd6"
+  },
+  "clankerInfo": null
+}

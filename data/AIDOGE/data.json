@@ -1,0 +1,22 @@
+{
+  "name": "AIdoge",
+  "symbol": "AIdoge",
+  "decimals": 18,
+  "description": "AIdoge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIdoge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIdoge",
+  "addresses": {
+    "8453": "0x0a79234a7a511e3370aec3d40d35350923dcf2a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIdoge",
+    "sanitizedSymbol": "AIDOGE",
+    "created_at": "2024-12-09T07:18:48.956153",
+    "deployer": "0x1964923A14701B45F2e36Ff39FB19F40749Eb011",
+    "lpNftId": "1384344",
+    "lockerAddress": "0x6011FBD0dd6697453c5b9d132254C65a80AD318C"
+  },
+  "clankerInfo": null
+}

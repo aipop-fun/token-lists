@@ -1,0 +1,22 @@
+{
+  "name": "Symmetry",
+  "symbol": "Symmetry",
+  "decimals": 18,
+  "description": "Symmetry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Symmetry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Symmetry",
+  "addresses": {
+    "8453": "0x2513c4c77c5f40449a2f1fb161e98c8d0c3ee66a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Symmetry",
+    "sanitizedSymbol": "SYMMETRY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193300",
+    "lockerAddress": "0x7E97fD8be9a7Da66F3dB6A1603377F1b577b7BC9"
+  },
+  "clankerInfo": null
+}

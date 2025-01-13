@@ -1,0 +1,22 @@
+{
+  "name": "ASL CLANKER",
+  "symbol": "ASL CLANKER",
+  "decimals": 18,
+  "description": "ASL CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ASL%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ASL CLANKER",
+  "addresses": {
+    "8453": "0x172c8a3340cbb4d0d5e2e0e92d902b1f725d4cfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ASL CLANKER",
+    "sanitizedSymbol": "ASL_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf5275Ba71dD73c5A65a41a7C964951CE2e87fb14",
+    "lpNftId": "1314385",
+    "lockerAddress": "0x185Ce243Bc019E129b17a291c8760C98B86CAd9d"
+  },
+  "clankerInfo": null
+}

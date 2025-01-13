@@ -1,0 +1,22 @@
+{
+  "name": "Hub",
+  "symbol": "Hub",
+  "decimals": 18,
+  "description": "Hub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hub",
+  "addresses": {
+    "8453": "0x0d8486c93e219d2a406f2f3b4b84ad83360cfc27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hub",
+    "sanitizedSymbol": "HUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x126B23Cc985bC89CAfc2Cc94C21da4b3B1ef408A",
+    "lpNftId": "1309349",
+    "lockerAddress": "0x848D98FbDB79EDB2b7F47F8508811537944C846E"
+  },
+  "clankerInfo": null
+}

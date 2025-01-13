@@ -1,0 +1,22 @@
+{
+  "name": "sally",
+  "symbol": "sally",
+  "decimals": 18,
+  "description": "sally is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sally",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sally",
+  "addresses": {
+    "8453": "0x2d1b9eec427210ee48f7a2d8dbfa6478ee44ec25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sally",
+    "sanitizedSymbol": "SALLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114725",
+    "lockerAddress": "0xA31E7586709d40bd03F3F23b0Ffc4C7c64Eb3809"
+  },
+  "clankerInfo": null
+}

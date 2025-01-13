@@ -1,0 +1,22 @@
+{
+  "name": "BaseRevolt",
+  "symbol": "BaseRevolt",
+  "decimals": 18,
+  "description": "BaseRevolt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseRevolt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseRevolt",
+  "addresses": {
+    "8453": "0x0585921aff2659870b71f1833bde2afcb483900c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseRevolt",
+    "sanitizedSymbol": "BASEREVOLT",
+    "created_at": "2024-12-11T05:42:21.652966",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1413555",
+    "lockerAddress": "0x2753706a141077eF3A22949ea9dbd86D2cDa988D"
+  },
+  "clankerInfo": null
+}

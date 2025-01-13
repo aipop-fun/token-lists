@@ -1,0 +1,22 @@
+{
+  "name": "SWIFTY",
+  "symbol": "SWIFTY",
+  "decimals": 18,
+  "description": "SWIFTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SWIFTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SWIFTY",
+  "addresses": {
+    "8453": "0x3d4791f711a4efafa504c44b6dfba805e99e9689"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SWIFTY",
+    "sanitizedSymbol": "SWIFTY",
+    "created_at": "2024-12-09T06:33:51.351849",
+    "deployer": "0x04333a1788a47068b9102D2d35695c312A0b312F",
+    "lpNftId": "1384030",
+    "lockerAddress": "0x19bbC82790C5f758AEe7567CD929CA5d022c5E92"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "gaaruto",
+  "symbol": "gaaruto",
+  "decimals": 18,
+  "description": "gaaruto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gaaruto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gaaruto",
+  "addresses": {
+    "8453": "0x24761efef510b091ca3074ab8508498a9d7d4709"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gaaruto",
+    "sanitizedSymbol": "GAARUTO",
+    "created_at": "2024-12-11T05:40:37.035147",
+    "deployer": "0x4632250984CC7D28b75e2AF54cE7eD4A36587dD9",
+    "lpNftId": "1413493",
+    "lockerAddress": "0x466A41E8022F129a2D52268fc9DA34B61046F027"
+  },
+  "clankerInfo": null
+}

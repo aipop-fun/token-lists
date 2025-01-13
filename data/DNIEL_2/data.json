@@ -1,0 +1,22 @@
+{
+  "name": "DNIEL",
+  "symbol": "DNIEL",
+  "decimals": 18,
+  "description": "DNIEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DNIEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DNIEL",
+  "addresses": {
+    "8453": "0x192bb9a9decdfaf7dc3624f4401570eeb7812ae3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DNIEL",
+    "sanitizedSymbol": "DNIEL_2",
+    "created_at": "2024-12-11T20:48:21.823837",
+    "deployer": "0xb74F62007da9a66aB12c57d1b8eDF990E6647c57",
+    "lpNftId": "1425662",
+    "lockerAddress": "0xDe02cA92f6344E4751F75dc4C705f450A6DE8d07"
+  },
+  "clankerInfo": null
+}

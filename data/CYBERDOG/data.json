@@ -1,0 +1,22 @@
+{
+  "name": "CYBERDOG",
+  "symbol": "CYBERDOG",
+  "decimals": 18,
+  "description": "CYBERDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CYBERDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CYBERDOG",
+  "addresses": {
+    "8453": "0x12f95a270cd6e14d23efa3497b5dd56a3c3e57de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CYBERDOG",
+    "sanitizedSymbol": "CYBERDOG",
+    "created_at": "2024-12-09T16:06:10.071744",
+    "deployer": "0x6861ca2B2525cD14b9313072AA953833589DEdbF",
+    "lpNftId": "1388947",
+    "lockerAddress": "0xd07A91f72f8Efe3867A803393ebd9d72974F20Eb"
+  },
+  "clankerInfo": null
+}

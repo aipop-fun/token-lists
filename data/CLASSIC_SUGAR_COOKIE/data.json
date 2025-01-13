@@ -1,0 +1,22 @@
+{
+  "name": "Classic Sugar Cookie",
+  "symbol": "Classic Sugar Cookie",
+  "decimals": 18,
+  "description": "Classic Sugar Cookie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Classic%20Sugar%20Cookie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Classic Sugar Cookie",
+  "addresses": {
+    "8453": "0x037245d7c0b218a1d4470ddfea3590bc458e4bae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Classic Sugar Cookie",
+    "sanitizedSymbol": "CLASSIC_SUGAR_COOKIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3D370E074FC4EAf132477fA92B12A2c97c6378E2",
+    "lpNftId": "1320444",
+    "lockerAddress": "0xD85075AD205aCA0091269C207d632bb8bcFfcc7d"
+  },
+  "clankerInfo": null
+}

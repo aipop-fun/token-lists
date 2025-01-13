@@ -1,0 +1,22 @@
+{
+  "name": "SUPERCELL",
+  "symbol": "SUPERCELL",
+  "decimals": 18,
+  "description": "SUPERCELL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPERCELL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPERCELL",
+  "addresses": {
+    "8453": "0x3b2a3e6f8de404753b60c89c268f1d9eb120ebb5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPERCELL",
+    "sanitizedSymbol": "SUPERCELL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdF0CBFbF78644336B621215823fABCd115BADFA2",
+    "lpNftId": "1310295",
+    "lockerAddress": "0xaD6419F742Fc8C6854D1C48A6456c088FafD5806"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Today",
+  "symbol": "Today",
+  "decimals": 18,
+  "description": "Today is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Today",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Today",
+  "addresses": {
+    "8453": "0x348ea35a74ad8b5b8149f6c9342ac79529a5cae9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Today",
+    "sanitizedSymbol": "TODAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdBEb9B8DcC14b470f58C6B4Acf5F96253bB9c67E",
+    "lpNftId": "1327540",
+    "lockerAddress": "0x04993b8E8D5aD4778B0abfE9b0395051C29da2c7"
+  },
+  "clankerInfo": null
+}

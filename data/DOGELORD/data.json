@@ -1,0 +1,22 @@
+{
+  "name": "DOGELORD",
+  "symbol": "DOGELORD",
+  "decimals": 18,
+  "description": "DOGELORD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGELORD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGELORD",
+  "addresses": {
+    "8453": "0x16208b1e9cbf087179179432f32729219fd588c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGELORD",
+    "sanitizedSymbol": "DOGELORD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0dA53864f41F702892cbed60482431feE7d5B522",
+    "lpNftId": "1281303",
+    "lockerAddress": "0x8adB289255b6860943FABFCD7E019C98B950fF77"
+  },
+  "clankerInfo": null
+}

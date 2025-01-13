@@ -1,0 +1,22 @@
+{
+  "name": "Enjoy",
+  "symbol": "Enjoy",
+  "decimals": 18,
+  "description": "Enjoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Enjoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Enjoy",
+  "addresses": {
+    "8453": "0x3b1aa7cc5b84e2b95c66a95f2b1e055b9245adb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Enjoy",
+    "sanitizedSymbol": "ENJOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA4Df2Fa0fAD5Ed7f69506CC6b2b56F0A271C054B",
+    "lpNftId": "1287963",
+    "lockerAddress": "0x5ecB8462417CF1Ec8Bdff115b61e57B76dedFAA7"
+  },
+  "clankerInfo": null
+}

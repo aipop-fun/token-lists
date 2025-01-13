@@ -1,0 +1,22 @@
+{
+  "name": "THE TICK",
+  "symbol": "THE TICK",
+  "decimals": 18,
+  "description": "THE TICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THE%20TICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THE TICK",
+  "addresses": {
+    "8453": "0x0afe6573e16edd4782240c90c8ab1327aa7f0450"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THE TICK",
+    "sanitizedSymbol": "THE_TICK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1323986",
+    "lockerAddress": "0xBD883333a372F041073302e81507670EDa51418F"
+  },
+  "clankerInfo": null
+}

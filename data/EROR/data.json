@@ -1,0 +1,22 @@
+{
+  "name": "eror",
+  "symbol": "eror",
+  "decimals": 18,
+  "description": "eror is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eror",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eror",
+  "addresses": {
+    "8453": "0x2f48a6d44c945aa606dab0e7bc3f3070a9a8f99f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eror",
+    "sanitizedSymbol": "EROR",
+    "created_at": "2024-12-12T05:20:49.065848",
+    "deployer": "0x8b15229a2bb3dc037359A5dAdb938a1F7eF4882e",
+    "lpNftId": "1429363",
+    "lockerAddress": "0x8bB390C52002773e6Eb18B2117E74D74b4611bDE"
+  },
+  "clankerInfo": null
+}

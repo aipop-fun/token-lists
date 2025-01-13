@@ -1,0 +1,22 @@
+{
+  "name": "TERMUX",
+  "symbol": "TERMUX",
+  "decimals": 18,
+  "description": "TERMUX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TERMUX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TERMUX",
+  "addresses": {
+    "8453": "0x3635c8c05cc70a6f3cac6ef91009bfe3fb25df79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TERMUX",
+    "sanitizedSymbol": "TERMUX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152393",
+    "lockerAddress": "0x234750AEAeE3d64E5dB5aa6A5bfD4661E1f5B990"
+  },
+  "clankerInfo": null
+}

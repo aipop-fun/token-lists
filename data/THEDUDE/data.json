@@ -1,0 +1,22 @@
+{
+  "name": "thedude",
+  "symbol": "thedude",
+  "decimals": 18,
+  "description": "thedude is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=thedude",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "thedude",
+  "addresses": {
+    "8453": "0x0ff68791b785773e319f4ac0bece4e197ff4fb8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "thedude",
+    "sanitizedSymbol": "THEDUDE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202390",
+    "lockerAddress": "0xd2C274694515BbAd5eE0aF0ce4e0D749595Ae7AB"
+  },
+  "clankerInfo": null
+}

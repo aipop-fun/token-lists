@@ -1,0 +1,22 @@
+{
+  "name": "ʻOumuamua",
+  "symbol": "ʻOumuamua",
+  "decimals": 18,
+  "description": "ʻOumuamua is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%CA%BBOumuamua",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ʻOumuamua",
+  "addresses": {
+    "8453": "0x1a8d49073d54f218a0544915ac0a5f73dadeaf90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ʻOumuamua",
+    "sanitizedSymbol": "OUMUAMUA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237719",
+    "lockerAddress": "0x203aA6d829f453f710808D7947403081f802c39C"
+  },
+  "clankerInfo": null
+}

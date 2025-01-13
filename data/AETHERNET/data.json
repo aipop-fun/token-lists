@@ -1,0 +1,22 @@
+{
+  "name": "Aethernet",
+  "symbol": "Aethernet",
+  "decimals": 18,
+  "description": "Aethernet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aethernet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aethernet",
+  "addresses": {
+    "8453": "0x1c61a449643130d315cf4da6a2b3f3d205192682"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aethernet",
+    "sanitizedSymbol": "AETHERNET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158141",
+    "lockerAddress": "0x6c9e9d479Ed938b9716e755216fCcAA4743eb09F"
+  },
+  "clankerInfo": null
+}

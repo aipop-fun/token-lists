@@ -1,0 +1,22 @@
+{
+  "name": "Clankerella",
+  "symbol": "Clankerella",
+  "decimals": 18,
+  "description": "Clankerella is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankerella",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankerella",
+  "addresses": {
+    "8453": "0x359fc467c273201fc202cec89a5b9879b9ece4cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankerella",
+    "sanitizedSymbol": "CLANKERELLA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221251",
+    "lockerAddress": "0x829999CD635b6B5afA5506173018574d65D3Ce60"
+  },
+  "clankerInfo": null
+}

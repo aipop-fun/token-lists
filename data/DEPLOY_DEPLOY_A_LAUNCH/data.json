@@ -1,0 +1,22 @@
+{
+  "name": "deploy deploy a launch",
+  "symbol": "deploy deploy a launch",
+  "decimals": 18,
+  "description": "deploy deploy a launch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=deploy%20deploy%20a%20launch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "deploy deploy a launch",
+  "addresses": {
+    "8453": "0x213864b15ae69e18b2d6b62db95aecb4b7e26b35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "deploy deploy a launch",
+    "sanitizedSymbol": "DEPLOY_DEPLOY_A_LAUNCH",
+    "created_at": "2024-12-12T04:40:46.898702",
+    "deployer": "0x9Ab2D71dD8E75688CDDB32964fE10CB8C75876A7",
+    "lpNftId": "1429222",
+    "lockerAddress": "0x3776Ef82d980B5a5A6Ed4F1045cA827a02120c7E"
+  },
+  "clankerInfo": null
+}

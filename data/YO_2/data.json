@@ -1,0 +1,22 @@
+{
+  "name": "Yo",
+  "symbol": "Yo",
+  "decimals": 18,
+  "description": "Yo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yo",
+  "addresses": {
+    "8453": "0x353d5e2d8ab1bb69b15713abb3af59f405956079"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yo",
+    "sanitizedSymbol": "YO_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9EAB9D856a3a667dc4CD10001D59c679C64756E7",
+    "lpNftId": "1325644",
+    "lockerAddress": "0xe6Cc1175c15A2C86A9CCb373759f8c5a0cd3f367"
+  },
+  "clankerInfo": null
+}

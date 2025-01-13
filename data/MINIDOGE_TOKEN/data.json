@@ -1,0 +1,22 @@
+{
+  "name": "minidoge Token",
+  "symbol": "minidoge Token",
+  "decimals": 18,
+  "description": "minidoge Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=minidoge%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "minidoge Token",
+  "addresses": {
+    "8453": "0x071e4e860cf93ff423981619f68c06c5f478a406"
+  },
+  "tokenInfo": {
+    "originalSymbol": "minidoge Token",
+    "sanitizedSymbol": "MINIDOGE_TOKEN",
+    "created_at": "2024-12-10T17:11:27.143261",
+    "deployer": "0xca32f6d4FA7d798ea153D4489645Ef1bC80ecb5f",
+    "lpNftId": "1404358",
+    "lockerAddress": "0x564D68feD82ca5eA25561741Fb98e9D7aa5b13Ff"
+  },
+  "clankerInfo": null
+}

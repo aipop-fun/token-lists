@@ -1,0 +1,22 @@
+{
+  "name": "Hello Daddy",
+  "symbol": "Hello Daddy",
+  "decimals": 18,
+  "description": "Hello Daddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello%20Daddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello Daddy",
+  "addresses": {
+    "8453": "0x0b7f117cdb09b081b032172ffc13c24ffdec51d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello Daddy",
+    "sanitizedSymbol": "HELLO_DADDY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62d517B3913f9d8f04e2ff70Dc5FbBE73119FF6f",
+    "lpNftId": "1288083",
+    "lockerAddress": "0xA7CC575ae36C23Ae36fdA8b6Df8b8A61D2B26D3D"
+  },
+  "clankerInfo": null
+}

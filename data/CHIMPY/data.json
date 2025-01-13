@@ -1,0 +1,22 @@
+{
+  "name": "Chimpy",
+  "symbol": "Chimpy",
+  "decimals": 18,
+  "description": "Chimpy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chimpy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chimpy",
+  "addresses": {
+    "8453": "0x3c8ac4c2bf22461bf80c5190f0b2a7aad1ac640d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chimpy",
+    "sanitizedSymbol": "CHIMPY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a9c258d4037f46873b42893F4A7a11288628f9c",
+    "lpNftId": "1283703",
+    "lockerAddress": "0x910B72A46d91f85A0984238029AEeb2b93e28535"
+  },
+  "clankerInfo": null
+}

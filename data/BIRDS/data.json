@@ -1,0 +1,22 @@
+{
+  "name": "BIRDS",
+  "symbol": "BIRDS",
+  "decimals": 18,
+  "description": "BIRDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIRDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIRDS",
+  "addresses": {
+    "8453": "0x0e721d5d2a6b27b1466149b0b4dcfa71b7497ecd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIRDS",
+    "sanitizedSymbol": "BIRDS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6F4BE11d63bA2fB47c21760259B7EFBed881BCa0",
+    "lpNftId": "1332456",
+    "lockerAddress": "0x8A3fCa3BBf79E959e09Ae7F4e325F1934bF868e0"
+  },
+  "clankerInfo": null
+}

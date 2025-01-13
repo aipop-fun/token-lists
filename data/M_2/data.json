@@ -1,0 +1,22 @@
+{
+  "name": "M",
+  "symbol": "M",
+  "decimals": 18,
+  "description": "M is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=M",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "M",
+  "addresses": {
+    "8453": "0x2658caba9903e435262d4e86fc00b66beacf96f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "M",
+    "sanitizedSymbol": "M_2",
+    "created_at": "2024-12-12T08:25:26.464376",
+    "deployer": "0x6f7A895C5AE5d9a3B8b270ff6fD05B8B42Ba6C12",
+    "lpNftId": "1429904",
+    "lockerAddress": "0x76A0EF0655f2E3A98A1463c0e4E99ACca8408d7E"
+  },
+  "clankerInfo": null
+}

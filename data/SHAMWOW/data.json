@@ -1,0 +1,22 @@
+{
+  "name": "shamwow",
+  "symbol": "shamwow",
+  "decimals": 18,
+  "description": "shamwow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shamwow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shamwow",
+  "addresses": {
+    "8453": "0x20761fb53eb80ae6d310ba76acf7f578afb98578"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shamwow",
+    "sanitizedSymbol": "SHAMWOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9412976973BEa57d61278cf9D5fA8084071179c6",
+    "lpNftId": "1327938",
+    "lockerAddress": "0xf8B38A64C96D062E4B4C6C90c905079594E31159"
+  },
+  "clankerInfo": null
+}

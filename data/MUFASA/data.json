@@ -1,0 +1,22 @@
+{
+  "name": "Mufasa",
+  "symbol": "Mufasa",
+  "decimals": 18,
+  "description": "Mufasa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mufasa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mufasa",
+  "addresses": {
+    "8453": "0x2ae67ce04c05cdda13c34663f994d4fd96158496"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mufasa",
+    "sanitizedSymbol": "MUFASA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233651",
+    "lockerAddress": "0xBE90fc460731a86F4673D48365868A0Fefa6305A"
+  },
+  "clankerInfo": null
+}

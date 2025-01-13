@@ -1,0 +1,22 @@
+{
+  "name": "Overload",
+  "symbol": "Overload",
+  "decimals": 18,
+  "description": "Overload is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Overload",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Overload",
+  "addresses": {
+    "8453": "0x3f93d7f41c3013524456f6a571f8f62023eb1212"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Overload",
+    "sanitizedSymbol": "OVERLOAD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173477",
+    "lockerAddress": "0x128EDeb9bab41b855E42995e62076771e5DD1B85"
+  },
+  "clankerInfo": null
+}

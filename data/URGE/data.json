@@ -1,0 +1,22 @@
+{
+  "name": "URGE",
+  "symbol": "URGE",
+  "decimals": 18,
+  "description": "URGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=URGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "URGE",
+  "addresses": {
+    "8453": "0x3d215c03e25d0ef11aa4bedaaf8cf063cc8cefe5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "URGE",
+    "sanitizedSymbol": "URGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x46f3cC6a1c00A5cD8864d2B92f128196CAE07D15",
+    "lpNftId": "1323119",
+    "lockerAddress": "0xBB6dd15825006095A54bA848aa6bF5be333fE4Be"
+  },
+  "clankerInfo": null
+}

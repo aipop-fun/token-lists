@@ -1,0 +1,22 @@
+{
+  "name": "VCs",
+  "symbol": "VCs",
+  "decimals": 18,
+  "description": "VCs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VCs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VCs",
+  "addresses": {
+    "8453": "0x090f5309f96a191a4ff5cb721b6c7baf61dfacba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VCs",
+    "sanitizedSymbol": "VCS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD56dBF74457F9382c743D14a4Bb187355075276",
+    "lpNftId": "1327731",
+    "lockerAddress": "0x28e96c98b94D900BF45b2DB229C2Ca17D3B06cC3"
+  },
+  "clankerInfo": null
+}

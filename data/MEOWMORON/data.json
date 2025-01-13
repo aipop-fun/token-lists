@@ -1,0 +1,22 @@
+{
+  "name": "MeowMoron",
+  "symbol": "MeowMoron",
+  "decimals": 18,
+  "description": "MeowMoron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeowMoron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeowMoron",
+  "addresses": {
+    "8453": "0x2ee06520aabf33eccfdb785b2e3ca32c130f9d6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeowMoron",
+    "sanitizedSymbol": "MEOWMORON",
+    "created_at": "2024-12-09T03:14:05.361198",
+    "deployer": "0x0D3227B7384B80a0616807ec7Ff4e66843CEE426",
+    "lpNftId": "1379726",
+    "lockerAddress": "0xFC60E491a982D5B714857b247Bf23941C7ac47cb"
+  },
+  "clankerInfo": null
+}

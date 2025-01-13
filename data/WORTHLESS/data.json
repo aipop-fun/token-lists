@@ -1,0 +1,22 @@
+{
+  "name": "Worthless",
+  "symbol": "Worthless",
+  "decimals": 18,
+  "description": "Worthless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Worthless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Worthless",
+  "addresses": {
+    "8453": "0x2d2b148e8ea322c852679fec5d85f04edf82bed4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Worthless",
+    "sanitizedSymbol": "WORTHLESS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x96168ACf7f3925e7A9eAA08Ddb21e59643da8097",
+    "lpNftId": "1281285",
+    "lockerAddress": "0xA84503361b42a5c5808E110f29b78871Ef04774b"
+  },
+  "clankerInfo": null
+}

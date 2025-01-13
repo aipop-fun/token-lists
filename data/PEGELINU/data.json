@@ -1,0 +1,22 @@
+{
+  "name": "PEGELINU",
+  "symbol": "PEGELINU",
+  "decimals": 18,
+  "description": "PEGELINU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEGELINU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEGELINU",
+  "addresses": {
+    "8453": "0x2e3087cbe7cf143dcf5c1cfae78d5a7234827310"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEGELINU",
+    "sanitizedSymbol": "PEGELINU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213496",
+    "lockerAddress": "0x2B37e933De024fC2c88657b90665530A9bF0175E"
+  },
+  "clankerInfo": null
+}

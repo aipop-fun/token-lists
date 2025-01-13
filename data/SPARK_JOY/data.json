@@ -1,0 +1,22 @@
+{
+  "name": "spark joy",
+  "symbol": "spark joy",
+  "decimals": 18,
+  "description": "spark joy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=spark%20joy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "spark joy",
+  "addresses": {
+    "8453": "0x1a800462a3422f96edbe77c116d33d4035e90f75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "spark joy",
+    "sanitizedSymbol": "SPARK_JOY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226428",
+    "lockerAddress": "0x1f4D9eD820539FB207EACB15486ac99Eb47f152d"
+  },
+  "clankerInfo": null
+}

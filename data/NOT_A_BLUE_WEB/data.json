@@ -1,0 +1,22 @@
+{
+  "name": "Not A Blue Web",
+  "symbol": "Not A Blue Web",
+  "decimals": 18,
+  "description": "Not A Blue Web is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20A%20Blue%20Web",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not A Blue Web",
+  "addresses": {
+    "8453": "0x2132a79fb8be8543318b1a6afd98de590fabb1e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not A Blue Web",
+    "sanitizedSymbol": "NOT_A_BLUE_WEB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1309966",
+    "lockerAddress": "0x3B297153921547FE9A8846C2829c8CDa5cdB2D48"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Neck",
+  "symbol": "Neck",
+  "decimals": 18,
+  "description": "Neck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neck",
+  "addresses": {
+    "8453": "0x07bef9fe05de824b0fd7897a44cdafc0cedf1539"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neck",
+    "sanitizedSymbol": "NECK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1364726",
+    "lockerAddress": "0x5754a4C78Af37a900330c65D795a7e687e9067cE"
+  },
+  "clankerInfo": null
+}

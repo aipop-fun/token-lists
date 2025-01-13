@@ -1,0 +1,22 @@
+{
+  "name": "STU",
+  "symbol": "STU",
+  "decimals": 18,
+  "description": "STU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STU",
+  "addresses": {
+    "8453": "0x3c9d24387f1ba62962ef5715edec799c52c63ffe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STU",
+    "sanitizedSymbol": "STU",
+    "created_at": "2024-12-09T00:48:00.311639",
+    "deployer": "0xA7efbb4a06A680F3B65c5861Ec387408CeafbEc8",
+    "lpNftId": "1377075",
+    "lockerAddress": "0x7365B4AC43a5af89A6e2571BE023D0EE885907F9"
+  },
+  "clankerInfo": null
+}

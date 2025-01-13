@@ -1,0 +1,22 @@
+{
+  "name": "Blaster",
+  "symbol": "Blaster",
+  "decimals": 18,
+  "description": "Blaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blaster",
+  "addresses": {
+    "8453": "0x2e1293233bf2f58ecf84992986b496cdf636cb66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blaster",
+    "sanitizedSymbol": "BLASTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128981",
+    "lockerAddress": "0x178d0661Cb83f89cC65c9f0148Cf47FaeAcCA25e"
+  },
+  "clankerInfo": null
+}

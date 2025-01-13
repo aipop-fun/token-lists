@@ -1,0 +1,22 @@
+{
+  "name": "Uzun Dalga",
+  "symbol": "Uzun Dalga",
+  "decimals": 18,
+  "description": "Uzun Dalga is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uzun%20Dalga",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uzun Dalga",
+  "addresses": {
+    "8453": "0x28665ccebc3829f9fb4216c74338c6774710c3a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uzun Dalga",
+    "sanitizedSymbol": "UZUN_DALGA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156741",
+    "lockerAddress": "0x0DC104192eA887a63e2Ff24ceF1A93409805228f"
+  },
+  "clankerInfo": null
+}

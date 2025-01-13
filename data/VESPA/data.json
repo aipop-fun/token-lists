@@ -1,0 +1,22 @@
+{
+  "name": "VESPA",
+  "symbol": "VESPA",
+  "decimals": 18,
+  "description": "VESPA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VESPA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VESPA",
+  "addresses": {
+    "8453": "0x0bab6a0cdec29c04ad620a373ccfe97c9c2e0efb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VESPA",
+    "sanitizedSymbol": "VESPA",
+    "created_at": "2024-12-12T21:14:28.700658",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1443295",
+    "lockerAddress": "0x7e3497b2269540465E248581FAd8F980f3a99Fd0"
+  },
+  "clankerInfo": null
+}

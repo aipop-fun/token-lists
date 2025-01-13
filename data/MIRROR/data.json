@@ -1,0 +1,22 @@
+{
+  "name": "Mirror",
+  "symbol": "Mirror",
+  "decimals": 18,
+  "description": "Mirror is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mirror",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mirror",
+  "addresses": {
+    "8453": "0x23dc831c54f2456fed4377d333a5a11c7dba62e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mirror",
+    "sanitizedSymbol": "MIRROR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173264",
+    "lockerAddress": "0xBa174301D12418192681018e9562D6502d4c924A"
+  },
+  "clankerInfo": null
+}

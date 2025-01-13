@@ -1,0 +1,22 @@
+{
+  "name": "MeMeMeMeMeMe",
+  "symbol": "MeMeMeMeMeMe",
+  "decimals": 18,
+  "description": "MeMeMeMeMeMe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeMeMeMeMeMe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeMeMeMeMeMe",
+  "addresses": {
+    "8453": "0x2fdcbca3274f86f60b02262e2d1af7e8982c445f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeMeMeMeMeMe",
+    "sanitizedSymbol": "MEMEMEMEMEME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA0DEC165d9b4441A46e7022f347C191c4e233587",
+    "lpNftId": "1327791",
+    "lockerAddress": "0xF0F31F3EA74943Eb037b8484036D70D65752773b"
+  },
+  "clankerInfo": null
+}

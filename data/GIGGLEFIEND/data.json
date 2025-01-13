@@ -1,0 +1,22 @@
+{
+  "name": "GiggleFiend",
+  "symbol": "GiggleFiend",
+  "decimals": 18,
+  "description": "GiggleFiend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GiggleFiend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GiggleFiend",
+  "addresses": {
+    "8453": "0x18e87363776dd7131e90b47e43049c28f42327c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GiggleFiend",
+    "sanitizedSymbol": "GIGGLEFIEND",
+    "created_at": "2024-12-11T06:59:42.876853",
+    "deployer": "0x832A1c22272Ba7d57223f05312A7352A8F83063E",
+    "lpNftId": "1413997",
+    "lockerAddress": "0xF5AfD09A93971DE3Dda8399a573Db89bB0e4fD03"
+  },
+  "clankerInfo": null
+}

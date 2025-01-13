@@ -1,0 +1,22 @@
+{
+  "name": "Little Mule",
+  "symbol": "Little Mule",
+  "decimals": 18,
+  "description": "Little Mule is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Little%20Mule",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Little Mule",
+  "addresses": {
+    "8453": "0x342899f07f70226d8bddde3d16a212b4a8989e52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Little Mule",
+    "sanitizedSymbol": "LITTLE_MULE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199632",
+    "lockerAddress": "0x0c9B985C489026B8E4627E00260BA1b8F7D82B42"
+  },
+  "clankerInfo": null
+}

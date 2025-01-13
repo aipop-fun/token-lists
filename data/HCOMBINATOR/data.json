@@ -1,0 +1,22 @@
+{
+  "name": "HCombinator",
+  "symbol": "HCombinator",
+  "decimals": 18,
+  "description": "HCombinator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HCombinator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HCombinator",
+  "addresses": {
+    "8453": "0x33fd7b65cb57bd28807562f223b945f0e2aa4214"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HCombinator",
+    "sanitizedSymbol": "HCOMBINATOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152478",
+    "lockerAddress": "0x79775855a95645E57230896a0a90CcD938456c9f"
+  },
+  "clankerInfo": null
+}

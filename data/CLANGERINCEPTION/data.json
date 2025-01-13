@@ -1,0 +1,22 @@
+{
+  "name": "ClangerInception",
+  "symbol": "ClangerInception",
+  "decimals": 18,
+  "description": "ClangerInception is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClangerInception",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClangerInception",
+  "addresses": {
+    "8453": "0x0932c1c7e0ac9b339bba47df9f86d8b7e57752e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClangerInception",
+    "sanitizedSymbol": "CLANGERINCEPTION",
+    "created_at": "2024-12-09T21:48:39.405854",
+    "deployer": "0x82ca1976bD5b5a35A1Bc52d09467E3b962bfb9C7",
+    "lpNftId": "1392613",
+    "lockerAddress": "0xE73AAc0Fa9E75c8305398c826101B8CC3012158c"
+  },
+  "clankerInfo": null
+}

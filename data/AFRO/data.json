@@ -1,0 +1,22 @@
+{
+  "name": "AFRO",
+  "symbol": "AFRO",
+  "decimals": 18,
+  "description": "AFRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AFRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AFRO",
+  "addresses": {
+    "8453": "0x28997b6b046d371084832d94e45196bee0c0f77a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AFRO",
+    "sanitizedSymbol": "AFRO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226552",
+    "lockerAddress": "0xF832b5339f68a0C0B77E5BF745ee8b563f25d9C8"
+  },
+  "clankerInfo": null
+}

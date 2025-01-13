@@ -1,0 +1,22 @@
+{
+  "name": "NEWCASTER",
+  "symbol": "NEWCASTER",
+  "decimals": 18,
+  "description": "NEWCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEWCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEWCASTER",
+  "addresses": {
+    "8453": "0x2779d988c433a51219674248c27168dbe555552b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEWCASTER",
+    "sanitizedSymbol": "NEWCASTER",
+    "created_at": "2024-12-09T07:58:38.915338",
+    "deployer": "0x48a835FD8353e96E87f450e256d4d1C10e4895bA",
+    "lpNftId": "1384523",
+    "lockerAddress": "0x12532e203ca064f4c1E2E1C444848673c1F8EE01"
+  },
+  "clankerInfo": null
+}

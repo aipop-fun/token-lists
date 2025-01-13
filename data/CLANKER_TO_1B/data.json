@@ -1,0 +1,22 @@
+{
+  "name": "clanker to $1B",
+  "symbol": "clanker to $1B",
+  "decimals": 18,
+  "description": "clanker to $1B is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20to%20%241B",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker to $1B",
+  "addresses": {
+    "8453": "0x162846d2ca8d2b7a0516374409d9b3d11b31bd0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker to $1B",
+    "sanitizedSymbol": "CLANKER_TO_1B",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234479",
+    "lockerAddress": "0x44fdE12f85B1dA9Bb0C875d796811DFc2bA019C1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ace",
+  "symbol": "Ace",
+  "decimals": 18,
+  "description": "Ace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ace",
+  "addresses": {
+    "8453": "0x28b27ec3e01c55b229b58fac788805663030b8a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ace",
+    "sanitizedSymbol": "ACE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202569",
+    "lockerAddress": "0x5398797e0aB0c3b5e326e9bd27feC877fda32E81"
+  },
+  "clankerInfo": null
+}

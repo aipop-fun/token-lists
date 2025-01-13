@@ -1,0 +1,22 @@
+{
+  "name": "Futility Token",
+  "symbol": "Futility Token",
+  "decimals": 18,
+  "description": "Futility Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Futility%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Futility Token",
+  "addresses": {
+    "8453": "0x2b1a98b623b4be5092655cf9eb41229be21e7f46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Futility Token",
+    "sanitizedSymbol": "FUTILITY_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1111032",
+    "lockerAddress": "0x9C1cdE42d38d0010971d9AB8A22CE7ec91cb9FCb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "No Sniper",
+  "symbol": "No Sniper",
+  "decimals": 18,
+  "description": "No Sniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Sniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Sniper",
+  "addresses": {
+    "8453": "0x40415e6b4b8179462db1e9449b0260359243f2fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Sniper",
+    "sanitizedSymbol": "NO_SNIPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223350",
+    "lockerAddress": "0x3aB221a8bAc868562C047ca69356461a2E599357"
+  },
+  "clankerInfo": null
+}

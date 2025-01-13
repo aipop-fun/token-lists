@@ -1,0 +1,22 @@
+{
+  "name": "AETERNA",
+  "symbol": "AETERNA",
+  "decimals": 18,
+  "description": "AETERNA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AETERNA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AETERNA",
+  "addresses": {
+    "8453": "0x09ae8f9317ef7812998790ea570145d3f6c6fd93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AETERNA",
+    "sanitizedSymbol": "AETERNA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197447",
+    "lockerAddress": "0x26f9a4747bc8F442a07cc2Fdb45B588E14fB41f6"
+  },
+  "clankerInfo": null
+}

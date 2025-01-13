@@ -1,0 +1,22 @@
+{
+  "name": "BlueBeyond",
+  "symbol": "BlueBeyond",
+  "decimals": 18,
+  "description": "BlueBeyond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BlueBeyond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BlueBeyond",
+  "addresses": {
+    "8453": "0x0792f3d1016417fc3ac46ed896722b58ff0b99a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BlueBeyond",
+    "sanitizedSymbol": "BLUEBEYOND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1313222",
+    "lockerAddress": "0x0e0c456F96185d3F8C5C2e764C76037D20DCc89b"
+  },
+  "clankerInfo": null
+}

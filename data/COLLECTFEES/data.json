@@ -1,0 +1,22 @@
+{
+  "name": "collectFees",
+  "symbol": "collectFees",
+  "decimals": 18,
+  "description": "collectFees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=collectFees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "collectFees",
+  "addresses": {
+    "8453": "0x347b63d9676bbaead558043dd3195956472b239c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "collectFees",
+    "sanitizedSymbol": "COLLECTFEES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfE1f313eaC394C417B8271011681dB848ed84004",
+    "lpNftId": "1292201",
+    "lockerAddress": "0xbC754Fdb11347cc31A13a23c5F374c659E1ed72D"
+  },
+  "clankerInfo": null
+}

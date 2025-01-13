@@ -1,0 +1,22 @@
+{
+  "name": "MELON",
+  "symbol": "MELON",
+  "decimals": 18,
+  "description": "MELON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MELON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MELON",
+  "addresses": {
+    "8453": "0x3f79ae0087f185275be876b1ee831a5d3c573d5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MELON",
+    "sanitizedSymbol": "MELON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b7e3Cc6f43f0bC3417801D284D9df74367Ac5F9",
+    "lpNftId": "1312686",
+    "lockerAddress": "0x2984bd19Fc210Dc315D512C7AA1D64742F0A1011"
+  },
+  "clankerInfo": null
+}

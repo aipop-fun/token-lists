@@ -1,0 +1,22 @@
+{
+  "name": "PNUT 1000x",
+  "symbol": "PNUT 1000x",
+  "decimals": 18,
+  "description": "PNUT 1000x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNUT%201000x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNUT 1000x",
+  "addresses": {
+    "8453": "0x0fbba5dfe68957e0db58b9758a4bddc5f3991c84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNUT 1000x",
+    "sanitizedSymbol": "PNUT_1000X",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1149669",
+    "lockerAddress": "0xD7910448EeaF4B5b1789EC1b1e71DeB5866AFC92"
+  },
+  "clankerInfo": null
+}

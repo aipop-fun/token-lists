@@ -1,0 +1,22 @@
+{
+  "name": "Outrageous",
+  "symbol": "Outrageous",
+  "decimals": 18,
+  "description": "Outrageous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Outrageous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Outrageous",
+  "addresses": {
+    "8453": "0x1a86d91abb66c11d7867fcd3f6f9405e85a84fec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Outrageous",
+    "sanitizedSymbol": "OUTRAGEOUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217590",
+    "lockerAddress": "0x7f02D97b72f12AcC6f99142e32DDCb033527efeF"
+  },
+  "clankerInfo": null
+}

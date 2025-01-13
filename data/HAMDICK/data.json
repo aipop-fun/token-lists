@@ -1,0 +1,22 @@
+{
+  "name": "Hamdick",
+  "symbol": "Hamdick",
+  "decimals": 18,
+  "description": "Hamdick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hamdick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hamdick",
+  "addresses": {
+    "8453": "0x3680432f6ba6d50117cff2931c659f019081d80d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hamdick",
+    "sanitizedSymbol": "HAMDICK",
+    "created_at": "2024-12-11T23:28:49.423002",
+    "deployer": "0xaD079f5a61DB71F1C3bc7bB38a4dd3f56e1AE1a9",
+    "lpNftId": "1427917",
+    "lockerAddress": "0x6A63b698eBea0A8165c9Bc669a9fFDA739998979"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fusion",
+  "symbol": "Fusion",
+  "decimals": 18,
+  "description": "Fusion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fusion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fusion",
+  "addresses": {
+    "8453": "0x3927459e01f29389c3d4d65c0e71554b2de12d51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fusion",
+    "sanitizedSymbol": "FUSION",
+    "created_at": "2024-12-12T17:16:26.554671",
+    "deployer": "0x467881872B0d26452e47D749E45DAc7A195A68b6",
+    "lpNftId": "1439304",
+    "lockerAddress": "0xB57DDE22eE42cb2113cA2bA6377908195587f167"
+  },
+  "clankerInfo": null
+}

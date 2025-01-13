@@ -1,0 +1,22 @@
+{
+  "name": "nona",
+  "symbol": "nona",
+  "decimals": 18,
+  "description": "nona is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nona",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nona",
+  "addresses": {
+    "8453": "0x39200d22753102f359eb37bdfb324fa26f4110d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nona",
+    "sanitizedSymbol": "NONA_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB6956bF421730e5b619ccA3fbc6c5f3868F3b51E",
+    "lpNftId": "1321363",
+    "lockerAddress": "0x7095c97dde69dC0e8805DBD43bc905de12752E53"
+  },
+  "clankerInfo": null
+}

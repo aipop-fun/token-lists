@@ -1,0 +1,22 @@
+{
+  "name": "NO CLANKER",
+  "symbol": "NO CLANKER",
+  "decimals": 18,
+  "description": "NO CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NO%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NO CLANKER",
+  "addresses": {
+    "8453": "0x2588cb79c3b67be6d3366fac216c7e43217e19ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NO CLANKER",
+    "sanitizedSymbol": "NO_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc429E560aa61e1562288e2B1056B583df01480BD",
+    "lpNftId": "1322337",
+    "lockerAddress": "0x58cBAaD020CFe5df64835C30471310cD718E7011"
+  },
+  "clankerInfo": null
+}

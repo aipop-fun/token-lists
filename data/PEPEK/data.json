@@ -1,0 +1,22 @@
+{
+  "name": "PEPEK",
+  "symbol": "PEPEK",
+  "decimals": 18,
+  "description": "PEPEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPEK",
+  "addresses": {
+    "8453": "0x0d36bcb2e4a067a19ec02dac6dc63cce15bfa03d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPEK",
+    "sanitizedSymbol": "PEPEK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9071061f7433929d741621220299BAceADb19ce0",
+    "lpNftId": "1280804",
+    "lockerAddress": "0x90bcED95171F285f412D5a2810E470580D2f5694"
+  },
+  "clankerInfo": null
+}

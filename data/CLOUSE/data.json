@@ -1,0 +1,22 @@
+{
+  "name": "clouse",
+  "symbol": "clouse",
+  "decimals": 18,
+  "description": "clouse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clouse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clouse",
+  "addresses": {
+    "8453": "0x220981c229f44ce5393e793efa2395c331423cf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clouse",
+    "sanitizedSymbol": "CLOUSE",
+    "created_at": "2024-12-10T10:02:12.463042",
+    "deployer": "0x53FBf2fdb53ab82217aA0C070Ff1C121d10318Fb",
+    "lpNftId": "1399440",
+    "lockerAddress": "0x3EFC9eF9491A3D83b05AD7BE1Eb63C5CF561Aa44"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CATS WITH PANTS",
+  "symbol": "CATS WITH PANTS",
+  "decimals": 18,
+  "description": "CATS WITH PANTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATS%20WITH%20PANTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATS WITH PANTS",
+  "addresses": {
+    "8453": "0x1b2ff87631af2e3178aa08a06857133d32a70c69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATS WITH PANTS",
+    "sanitizedSymbol": "CATS_WITH_PANTS_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbfFd0f67e2E8F9688dD8E6a3ec6f6a74ced85B37",
+    "lpNftId": "1332277",
+    "lockerAddress": "0xF53765D9011Ad0E2898E0c40E543bF9Ca4cb28F9"
+  },
+  "clankerInfo": null
+}

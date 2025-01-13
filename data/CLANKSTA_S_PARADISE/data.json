@@ -1,0 +1,22 @@
+{
+  "name": "Clanksta's Paradise",
+  "symbol": "Clanksta's Paradise",
+  "decimals": 18,
+  "description": "Clanksta's Paradise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanksta's%20Paradise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanksta's Paradise",
+  "addresses": {
+    "8453": "0x1d245afeb85267cf21cc54e089a85ccaf8b0f21a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanksta's Paradise",
+    "sanitizedSymbol": "CLANKSTA_S_PARADISE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62321E5A55EA63f35944D8BAD9eA4873e6f4c71B",
+    "lpNftId": "1292484",
+    "lockerAddress": "0x849a7cb252864A65eC770b5e2f7fbC8483a9Fe84"
+  },
+  "clankerInfo": null
+}

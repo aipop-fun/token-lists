@@ -1,0 +1,22 @@
+{
+  "name": "KOON",
+  "symbol": "KOON",
+  "decimals": 18,
+  "description": "KOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KOON",
+  "addresses": {
+    "8453": "0x0bf492f7e77f7e81cf0c1a93d677a8e4ea19893a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KOON",
+    "sanitizedSymbol": "KOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9f9D35f84bFA963505f631a5D9c67a43c4edd833",
+    "lpNftId": "1320542",
+    "lockerAddress": "0xCC78c2b510f4AbE650Ad6604E434c2B0379bA326"
+  },
+  "clankerInfo": null
+}

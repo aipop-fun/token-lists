@@ -1,0 +1,22 @@
+{
+  "name": "Whalle",
+  "symbol": "Whalle",
+  "decimals": 18,
+  "description": "Whalle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whalle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whalle",
+  "addresses": {
+    "8453": "0x00db1408b93df303f6ab24e9ce802c8ec493e26b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whalle",
+    "sanitizedSymbol": "WHALLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1306686",
+    "lockerAddress": "0xBc4e123893C2BcE2052DAF1b6af7dDB2375AADDE"
+  },
+  "clankerInfo": null
+}

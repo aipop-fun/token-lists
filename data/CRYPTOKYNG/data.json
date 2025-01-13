@@ -1,0 +1,22 @@
+{
+  "name": "CryptoKyng",
+  "symbol": "CryptoKyng",
+  "decimals": 18,
+  "description": "CryptoKyng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoKyng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoKyng",
+  "addresses": {
+    "8453": "0x121d0f1dde7b9f425f6fd29accfccd6142e713c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoKyng",
+    "sanitizedSymbol": "CRYPTOKYNG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219280",
+    "lockerAddress": "0x1b948aa0C1Ea8379385f07A8df93DFdb5Cc13354"
+  },
+  "clankerInfo": null
+}

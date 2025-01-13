@@ -1,0 +1,22 @@
+{
+  "name": "Warples",
+  "symbol": "Warples",
+  "decimals": 18,
+  "description": "Warples is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warples",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warples",
+  "addresses": {
+    "8453": "0x3b861d292e27d426b40dc4811966f9531b28192c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warples",
+    "sanitizedSymbol": "WARPLES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x18EE5f41FF432eCB84ed0Eb210f95906A32b3D42",
+    "lpNftId": "1360984",
+    "lockerAddress": "0x308eB6fF59f45CA095f1BBE512B44e3C2e09504F"
+  },
+  "clankerInfo": null
+}

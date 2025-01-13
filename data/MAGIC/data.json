@@ -1,0 +1,22 @@
+{
+  "name": "Magic",
+  "symbol": "Magic",
+  "decimals": 18,
+  "description": "Magic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic",
+  "addresses": {
+    "8453": "0x33561ca887b633b065a62c1770e53cd4fc2ea8f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic",
+    "sanitizedSymbol": "MAGIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128688",
+    "lockerAddress": "0xF63CDAeC72d97Cb6e6685E840449999517557CeD"
+  },
+  "clankerInfo": null
+}

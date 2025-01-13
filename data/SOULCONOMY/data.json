@@ -1,0 +1,22 @@
+{
+  "name": "Soulconomy",
+  "symbol": "Soulconomy",
+  "decimals": 18,
+  "description": "Soulconomy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soulconomy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soulconomy",
+  "addresses": {
+    "8453": "0x3987c64c45b46e3625ae5f45f64cff34d77580fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soulconomy",
+    "sanitizedSymbol": "SOULCONOMY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x530A205E7F9c825bC08E7b9f201d2d9Ed296c535",
+    "lpNftId": "1285091",
+    "lockerAddress": "0x49eAF49A56B5A198d61A7B90bd29D86066D0B7f5"
+  },
+  "clankerInfo": null
+}

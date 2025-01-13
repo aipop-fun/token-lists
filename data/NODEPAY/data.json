@@ -1,0 +1,22 @@
+{
+  "name": "nodepay",
+  "symbol": "nodepay",
+  "decimals": 18,
+  "description": "nodepay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nodepay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nodepay",
+  "addresses": {
+    "8453": "0x189a1f9d5637b0448146d3e5114c6e026a182173"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nodepay",
+    "sanitizedSymbol": "NODEPAY",
+    "created_at": "2024-12-11T19:24:39.141662",
+    "deployer": "0x31DA1c74BFC89bB12cD278eFA3220402576e7FfB",
+    "lpNftId": "1424684",
+    "lockerAddress": "0x6B4273AA80D8Ec4418aa247A343a0EF6d6891895"
+  },
+  "clankerInfo": null
+}

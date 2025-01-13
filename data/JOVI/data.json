@@ -1,0 +1,22 @@
+{
+  "name": "JOVI",
+  "symbol": "JOVI",
+  "decimals": 18,
+  "description": "JOVI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JOVI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JOVI",
+  "addresses": {
+    "8453": "0x300c31b3c2c98ff0af68491f7866f221f9b0ab21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JOVI",
+    "sanitizedSymbol": "JOVI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129209",
+    "lockerAddress": "0x714c418771dC81443F8e8B2b7d4edc0fd7F8d7Be"
+  },
+  "clankerInfo": null
+}

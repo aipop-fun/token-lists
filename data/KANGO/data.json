@@ -1,0 +1,22 @@
+{
+  "name": "KANGO",
+  "symbol": "KANGO",
+  "decimals": 18,
+  "description": "KANGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KANGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KANGO",
+  "addresses": {
+    "8453": "0x25b03f223bc1689d93ea273d0b41ad7a00c32371"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KANGO",
+    "sanitizedSymbol": "KANGO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x23d4631e648EBC749Fa9c56AD693293BdCCAC3F9",
+    "lpNftId": "1266845",
+    "lockerAddress": "0x033a97d8B591c13827ed1cB4B3FF43c7De2876Fa"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chill XRP",
+  "symbol": "Chill XRP",
+  "decimals": 18,
+  "description": "Chill XRP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20XRP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill XRP",
+  "addresses": {
+    "8453": "0x39c0bba75c14dd3a8f35985a3489ddc8fb0bd53a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill XRP",
+    "sanitizedSymbol": "CHILL_XRP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA31110b7adE3C61F067F2614F7DA6D65a58Ae744",
+    "lpNftId": "1317809",
+    "lockerAddress": "0x607855F5164F6fB27a7233a8cD11F4378917a050"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IDWT",
+  "symbol": "IDWT",
+  "decimals": 18,
+  "description": "IDWT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IDWT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IDWT",
+  "addresses": {
+    "8453": "0x147ea6fb8e8a975758cfbb059656636d4fa163f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IDWT",
+    "sanitizedSymbol": "IDWT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0FbEd01e79f701BaAfF9E6AD07782Fe06f669416",
+    "lpNftId": "1285476",
+    "lockerAddress": "0xf5664855D5ab5811f399C2Ac71d4C914EbD2429f"
+  },
+  "clankerInfo": null
+}

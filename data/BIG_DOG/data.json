@@ -1,0 +1,22 @@
+{
+  "name": "BIG DOG",
+  "symbol": "BIG DOG",
+  "decimals": 18,
+  "description": "BIG DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIG%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIG DOG",
+  "addresses": {
+    "8453": "0x23111e7d5dc21dc17b9e5aa94852f2d4b81f0980"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIG DOG",
+    "sanitizedSymbol": "BIG_DOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x746DeF24Be0C1b85E82d37F35eb444Cc635B04F4",
+    "lpNftId": "1292081",
+    "lockerAddress": "0x73661D2b23831a33593a5d91d7e9841a97af49A3"
+  },
+  "clankerInfo": null
+}

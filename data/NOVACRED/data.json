@@ -1,0 +1,22 @@
+{
+  "name": "NovaCred",
+  "symbol": "NovaCred",
+  "decimals": 18,
+  "description": "NovaCred is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NovaCred",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NovaCred",
+  "addresses": {
+    "8453": "0x3713371f4d1e6af68a79d0d27d4f6be3686bbd57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NovaCred",
+    "sanitizedSymbol": "NOVACRED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234592",
+    "lockerAddress": "0x5C09Bd17e61a6c1C9F16Cc3Cf666088A9D21323f"
+  },
+  "clankerInfo": null
+}

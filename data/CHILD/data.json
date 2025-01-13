@@ -1,0 +1,22 @@
+{
+  "name": "CHILD",
+  "symbol": "CHILD",
+  "decimals": 18,
+  "description": "CHILD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILD",
+  "addresses": {
+    "8453": "0x311c6242f79f1929b0aa2fa242744f6dcf61905b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILD",
+    "sanitizedSymbol": "CHILD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125094",
+    "lockerAddress": "0xe4228541f6EE272cF974e9BD5371AF9B3AAAC293"
+  },
+  "clankerInfo": null
+}

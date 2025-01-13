@@ -1,0 +1,22 @@
+{
+  "name": "myHumps",
+  "symbol": "myHumps",
+  "decimals": 18,
+  "description": "myHumps is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=myHumps",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "myHumps",
+  "addresses": {
+    "8453": "0x0d55217b28d7fe085081333e5ddaa24533817c2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "myHumps",
+    "sanitizedSymbol": "MYHUMPS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x11849573966d4a16C2196D32e79164087b23E202",
+    "lpNftId": "1321307",
+    "lockerAddress": "0x7a0125085de9A93Ff6B9c40449B9d5A0E756E3CE"
+  },
+  "clankerInfo": null
+}

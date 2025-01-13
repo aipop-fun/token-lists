@@ -1,0 +1,22 @@
+{
+  "name": "APU Apustaja",
+  "symbol": "APU Apustaja",
+  "decimals": 18,
+  "description": "APU Apustaja is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APU%20Apustaja",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APU Apustaja",
+  "addresses": {
+    "8453": "0x2b0e396caaf6e920a0d717e4abfeb2e0641d45cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APU Apustaja",
+    "sanitizedSymbol": "APU_APUSTAJA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236280",
+    "lockerAddress": "0x7537F454568635Be77479F1cAEaD81Bb8da7B139"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WeMooN",
+  "symbol": "WeMooN",
+  "decimals": 18,
+  "description": "WeMooN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WeMooN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WeMooN",
+  "addresses": {
+    "8453": "0x23ba26bd4376d3ccedffff43fcdb3d249116c829"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WeMooN",
+    "sanitizedSymbol": "WEMOON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xAd1E1208d60722Aa0c21D053C068b48AA6cB5dbe",
+    "lpNftId": "1253425",
+    "lockerAddress": "0x51B2186f775cBf9e4C75Cb867eFC71610fC64AB4"
+  },
+  "clankerInfo": null
+}

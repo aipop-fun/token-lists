@@ -1,0 +1,22 @@
+{
+  "name": "TSLA 10c short",
+  "symbol": "TSLA 10c short",
+  "decimals": 18,
+  "description": "TSLA 10c short is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TSLA%2010c%20short",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TSLA 10c short",
+  "addresses": {
+    "8453": "0x13c9c44e88d5b0a30118a302a3d34c5239b097d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TSLA 10c short",
+    "sanitizedSymbol": "TSLA_10C_SHORT",
+    "created_at": "2024-12-12T00:45:11.089886",
+    "deployer": "0x9cf0267971E581c4D39661db779c15F4991D0697",
+    "lpNftId": "1428228",
+    "lockerAddress": "0x1248A06DfF8bFE62c12cdB1157d093290947292b"
+  },
+  "clankerInfo": null
+}

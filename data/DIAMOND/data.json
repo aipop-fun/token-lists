@@ -1,0 +1,22 @@
+{
+  "name": "diamond",
+  "symbol": "diamond",
+  "decimals": 18,
+  "description": "diamond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=diamond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "diamond",
+  "addresses": {
+    "8453": "0x08fa500234aaf037a8f85829ac8e24dd9b86aa1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "diamond",
+    "sanitizedSymbol": "DIAMOND",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0377607f1B8E33d33e8CF22867bE81b70e7Ee6ee",
+    "lpNftId": "1313319",
+    "lockerAddress": "0xD46Ba84C2a57DF89957BDd60365BFDA78E065e17"
+  },
+  "clankerInfo": null
+}

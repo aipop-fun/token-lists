@@ -1,0 +1,22 @@
+{
+  "name": "ShadowBot",
+  "symbol": "ShadowBot",
+  "decimals": 18,
+  "description": "ShadowBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShadowBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShadowBot",
+  "addresses": {
+    "8453": "0x29088b0b48821e9703121ae103db15dc0f62d100"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShadowBot",
+    "sanitizedSymbol": "SHADOWBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129045",
+    "lockerAddress": "0x679bB231fe6d9A0bBEF53489f75640B07E1634f5"
+  },
+  "clankerInfo": null
+}

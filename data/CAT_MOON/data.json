@@ -1,0 +1,22 @@
+{
+  "name": "Cat Moon",
+  "symbol": "Cat Moon",
+  "decimals": 18,
+  "description": "Cat Moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Moon",
+  "addresses": {
+    "8453": "0x31b3caaf8236c26e49014b08b8b50306cfc0ba16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Moon",
+    "sanitizedSymbol": "CAT_MOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x873eC853A4545DdC1D8568988b72782798B22dB2",
+    "lpNftId": "1315623",
+    "lockerAddress": "0x271A0c2FcA21181fffd290Cb71008691E68AB6a0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SkyBridge",
+  "symbol": "SkyBridge",
+  "decimals": 18,
+  "description": "SkyBridge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SkyBridge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SkyBridge",
+  "addresses": {
+    "8453": "0x37231d94f0ec0451eed4afcf4a8c3b904862f189"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SkyBridge",
+    "sanitizedSymbol": "SKYBRIDGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132475",
+    "lockerAddress": "0x54f8a471195f3f804D3F18AC3d98a545CBaA7252"
+  },
+  "clankerInfo": null
+}

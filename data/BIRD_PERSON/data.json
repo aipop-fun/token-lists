@@ -1,0 +1,22 @@
+{
+  "name": "Bird Person",
+  "symbol": "Bird Person",
+  "decimals": 18,
+  "description": "Bird Person is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bird%20Person",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bird Person",
+  "addresses": {
+    "8453": "0x1c5a8d71613b7b6750c80cd93a64d46f41a5d158"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bird Person",
+    "sanitizedSymbol": "BIRD_PERSON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3E3E9683B706aB497fa1991c691F6CB072c75929",
+    "lpNftId": "1263735",
+    "lockerAddress": "0x2EACe1C074C01CE1867668E40532D54b68A10C77"
+  },
+  "clankerInfo": null
+}

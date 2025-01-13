@@ -1,0 +1,22 @@
+{
+  "name": "Explore Farcaster",
+  "symbol": "Explore Farcaster",
+  "decimals": 18,
+  "description": "Explore Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Explore%20Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Explore Farcaster",
+  "addresses": {
+    "8453": "0x2279d14e1a1f24c1d57d6bf2208b8eaa4bdee88b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Explore Farcaster",
+    "sanitizedSymbol": "EXPLORE_FARCASTER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1bAe19AF613BD5Db94bAf043D5817e16a53A4C33",
+    "lpNftId": "1327042",
+    "lockerAddress": "0x0bF6004C4Da2d8Dd59E8005a59D244eF684BCafa"
+  },
+  "clankerInfo": null
+}

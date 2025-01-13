@@ -1,0 +1,22 @@
+{
+  "name": "Last Christmas",
+  "symbol": "Last Christmas",
+  "decimals": 18,
+  "description": "Last Christmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Last%20Christmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Last Christmas",
+  "addresses": {
+    "8453": "0x25310a33889ec99e6de55aa0749bc7acf35db8c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Last Christmas",
+    "sanitizedSymbol": "LAST_CHRISTMAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfAC50FD9eb90c1a7c0bC7b739EB90F1bda06E9D0",
+    "lpNftId": "1320164",
+    "lockerAddress": "0x39bC697235aB428ca05d16aD2335A9c4dF1A410b"
+  },
+  "clankerInfo": null
+}

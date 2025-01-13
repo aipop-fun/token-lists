@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin to 1 million",
+  "symbol": "Bitcoin to 1 million",
+  "decimals": 18,
+  "description": "Bitcoin to 1 million is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20to%201%20million",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin to 1 million",
+  "addresses": {
+    "8453": "0x1886f5d3e341302a1e18da328c4caa2ff728b766"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin to 1 million",
+    "sanitizedSymbol": "BITCOIN_TO_1_MILLION",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x45d6B88E7496d5C5383Cf611b8c0659d4fb72699",
+    "lpNftId": "1330271",
+    "lockerAddress": "0xc1775d434F0f47f71618914cE7BDcc8A39416f19"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TMJ",
+  "symbol": "TMJ",
+  "decimals": 18,
+  "description": "TMJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TMJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TMJ",
+  "addresses": {
+    "8453": "0x0e18a0dbe835fe07a939eb4ae369f2b11757e7f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TMJ",
+    "sanitizedSymbol": "TMJ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDd31dB93082a3A71b98D37ba26230f8734Bd63C3",
+    "lpNftId": "1283423",
+    "lockerAddress": "0x2da35Aa7C70B8952b737c3Bef57Dbc547f696699"
+  },
+  "clankerInfo": null
+}

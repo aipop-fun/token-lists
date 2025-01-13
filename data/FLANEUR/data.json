@@ -1,0 +1,22 @@
+{
+  "name": "Flaneur",
+  "symbol": "Flaneur",
+  "decimals": 18,
+  "description": "Flaneur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flaneur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flaneur",
+  "addresses": {
+    "8453": "0x205b80bc810d46f46d3b92a9cc2fa58cf29dde35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flaneur",
+    "sanitizedSymbol": "FLANEUR",
+    "created_at": "2024-12-10T23:29:39.743217",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408395",
+    "lockerAddress": "0x5a80d395414969A6059F67380F6b347683EEc089"
+  },
+  "clankerInfo": null
+}

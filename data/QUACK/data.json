@@ -1,0 +1,22 @@
+{
+  "name": "Quack",
+  "symbol": "Quack",
+  "decimals": 18,
+  "description": "Quack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quack",
+  "addresses": {
+    "8453": "0x2ee1456188a6ef6195c8eda616c7f5a476b9f8ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quack",
+    "sanitizedSymbol": "QUACK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe0e06288d1B87EE96BB44AF6619e1A80283c49c9",
+    "lpNftId": "1311396",
+    "lockerAddress": "0x8a2D03413BC09EB9E58843E539E4e54301156307"
+  },
+  "clankerInfo": null
+}

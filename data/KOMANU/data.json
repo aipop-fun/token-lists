@@ -1,0 +1,22 @@
+{
+  "name": "KOMANU",
+  "symbol": "KOMANU",
+  "decimals": 18,
+  "description": "KOMANU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KOMANU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KOMANU",
+  "addresses": {
+    "8453": "0x28dfe182cf0867c4d452d9aba5aa1a0eb3bc5516"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KOMANU",
+    "sanitizedSymbol": "KOMANU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x756CA5127e98196f7BE6482b9D4124229A398761",
+    "lpNftId": "1268814",
+    "lockerAddress": "0x61967e2672379C78883079a65A4359693eb32D7a"
+  },
+  "clankerInfo": null
+}

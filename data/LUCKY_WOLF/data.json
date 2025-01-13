@@ -1,0 +1,22 @@
+{
+  "name": "Lucky Wolf",
+  "symbol": "Lucky Wolf",
+  "decimals": 18,
+  "description": "Lucky Wolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lucky%20Wolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lucky Wolf",
+  "addresses": {
+    "8453": "0x38461d8d1bb161b609bdd1fdfc0a7cbdd33a9ae4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lucky Wolf",
+    "sanitizedSymbol": "LUCKY_WOLF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xABde88d1AB637225e0d91B70DeDf3ba1778E79C3",
+    "lpNftId": "1321687",
+    "lockerAddress": "0x151Ef0615D9644b99a70AD17016D90c3DA76daAf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PUNKBTC",
+  "symbol": "PUNKBTC",
+  "decimals": 18,
+  "description": "PUNKBTC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUNKBTC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUNKBTC",
+  "addresses": {
+    "8453": "0x261110c7d63269c98073802abd2ba4401944dd95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUNKBTC",
+    "sanitizedSymbol": "PUNKBTC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0dfE227fd474bA80Fa32Ea59eC9570A66e9aE167",
+    "lpNftId": "1308498",
+    "lockerAddress": "0x085B2Ca67EC92F8527b7e1FAcCeD7d0Db197EeA1"
+  },
+  "clankerInfo": null
+}

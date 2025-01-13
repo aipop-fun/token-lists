@@ -1,0 +1,22 @@
+{
+  "name": "Voxal Orca",
+  "symbol": "Voxal Orca",
+  "decimals": 18,
+  "description": "Voxal Orca is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Voxal%20Orca",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Voxal Orca",
+  "addresses": {
+    "8453": "0x280678a6d1d2d39c740cf19c25872f54eca2833c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Voxal Orca",
+    "sanitizedSymbol": "VOXAL_ORCA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4B766cf6b890CB0E92D8cf237cF47df9c55779Fb",
+    "lpNftId": "1319595",
+    "lockerAddress": "0xAB6D5c5C40414aEC1D0400647360CD7E00105C54"
+  },
+  "clankerInfo": null
+}

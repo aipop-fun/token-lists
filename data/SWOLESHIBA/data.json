@@ -1,0 +1,22 @@
+{
+  "name": "SwoleShiba",
+  "symbol": "SwoleShiba",
+  "decimals": 18,
+  "description": "SwoleShiba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SwoleShiba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SwoleShiba",
+  "addresses": {
+    "8453": "0x3cc22136fe6d297dff23bc7cd8d99e2f221dc9d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SwoleShiba",
+    "sanitizedSymbol": "SWOLESHIBA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd3Fe541197260211A1b9c90D6b3F9559F6503b06",
+    "lpNftId": "1265197",
+    "lockerAddress": "0xD0DE1c334e4FDfECcCD294D0d9E9798efE0155E6"
+  },
+  "clankerInfo": null
+}

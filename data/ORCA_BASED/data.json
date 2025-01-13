@@ -1,0 +1,22 @@
+{
+  "name": "ORCA BASED",
+  "symbol": "ORCA BASED",
+  "decimals": 18,
+  "description": "ORCA BASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ORCA%20BASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ORCA BASED",
+  "addresses": {
+    "8453": "0x3f994e9b107437ca71057522cdff541bca33560a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ORCA BASED",
+    "sanitizedSymbol": "ORCA_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7B8d4aE31697877F3F96aBa5d2D61Ec217f2a7D0",
+    "lpNftId": "1375598",
+    "lockerAddress": "0x9A29252D0CD8Fc99BC4A76Bb563559a9FFf9E0Fd"
+  },
+  "clankerInfo": null
+}

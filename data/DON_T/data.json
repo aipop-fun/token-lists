@@ -1,0 +1,22 @@
+{
+  "name": "Don't",
+  "symbol": "Don't",
+  "decimals": 18,
+  "description": "Don't is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't",
+  "addresses": {
+    "8453": "0x3eb4f5af645b380378273236ba37573a9c3afdc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't",
+    "sanitizedSymbol": "DON_T",
+    "created_at": "2024-12-09T10:08:43.463817",
+    "deployer": "0xf56f9dc96219D1233ADe5F22c5d3C898E739ed7e",
+    "lpNftId": "1385633",
+    "lockerAddress": "0xE3169C3A75039B12A49Bf81b7904A703bCD62296"
+  },
+  "clankerInfo": null
+}

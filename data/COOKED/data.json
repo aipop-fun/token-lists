@@ -1,0 +1,22 @@
+{
+  "name": "Cooked",
+  "symbol": "Cooked",
+  "decimals": 18,
+  "description": "Cooked is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cooked",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cooked",
+  "addresses": {
+    "8453": "0x0ed69e12116a2e7d5cb17d997816a4d11ff4daca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cooked",
+    "sanitizedSymbol": "COOKED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193936",
+    "lockerAddress": "0x340A585597807A6A5b423042BA793C27A96ACa43"
+  },
+  "clankerInfo": null
+}

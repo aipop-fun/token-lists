@@ -1,0 +1,22 @@
+{
+  "name": "yinyang",
+  "symbol": "yinyang",
+  "decimals": 18,
+  "description": "yinyang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yinyang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yinyang",
+  "addresses": {
+    "8453": "0x157a3d5d04a97b8442a6db88fe716c516f08a80b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yinyang",
+    "sanitizedSymbol": "YINYANG",
+    "created_at": "2024-12-12T05:30:53.217944",
+    "deployer": "0x0731Ab4463bb5E80345cb15124FE5a588E6d54F4",
+    "lpNftId": "1429391",
+    "lockerAddress": "0xa5847F7b2C61A91569D2AE11E6dE772F4C4BF8aa"
+  },
+  "clankerInfo": null
+}

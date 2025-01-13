@@ -1,0 +1,22 @@
+{
+  "name": "krak",
+  "symbol": "krak",
+  "decimals": 18,
+  "description": "krak is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=krak",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "krak",
+  "addresses": {
+    "8453": "0x188532146dd00a336c37c31b17c3a4037dbc1f66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "krak",
+    "sanitizedSymbol": "KRAK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB613521DD073ac8d5a72CCd7126a944956966b19",
+    "lpNftId": "1250692",
+    "lockerAddress": "0x2DE58c05036bD902ed602d989B10a2F41AFf21C9"
+  },
+  "clankerInfo": null
+}

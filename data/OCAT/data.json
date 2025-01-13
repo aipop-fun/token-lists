@@ -1,0 +1,22 @@
+{
+  "name": "OCAT",
+  "symbol": "OCAT",
+  "decimals": 18,
+  "description": "OCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OCAT",
+  "addresses": {
+    "8453": "0x39a91e325bc550d9e59bee77c0bebd5968defb36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OCAT",
+    "sanitizedSymbol": "OCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEC4B31D4E766C862bCb8752fDb37C32B64814B13",
+    "lpNftId": "1318431",
+    "lockerAddress": "0x108Cea2bf0fe0a406436f08Ee821922684cA5084"
+  },
+  "clankerInfo": null
+}

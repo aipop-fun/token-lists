@@ -1,0 +1,22 @@
+{
+  "name": "Clanked",
+  "symbol": "Clanked",
+  "decimals": 18,
+  "description": "Clanked is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanked",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanked",
+  "addresses": {
+    "8453": "0x19d024ac45b973d37dbde0473ec622062dc19544"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanked",
+    "sanitizedSymbol": "CLANKED",
+    "created_at": "2024-12-10T19:14:19.55481",
+    "deployer": "0x4d3C929F4941e06e53e4EF6899b1f1FaB7404403",
+    "lpNftId": "1406035",
+    "lockerAddress": "0x3a288BAfb88546c03E2a6D4BcA1C45cEf7253f10"
+  },
+  "clankerInfo": null
+}

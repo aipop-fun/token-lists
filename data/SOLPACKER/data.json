@@ -1,0 +1,22 @@
+{
+  "name": "Solpacker",
+  "symbol": "Solpacker",
+  "decimals": 18,
+  "description": "Solpacker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Solpacker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Solpacker",
+  "addresses": {
+    "8453": "0x23fb3d5353f2b0deddfb236dbe09903e747d1c54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Solpacker",
+    "sanitizedSymbol": "SOLPACKER",
+    "created_at": "2024-12-10T14:11:16.161831",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1401719",
+    "lockerAddress": "0x45591d8b07fA3e508c36f418a8E5589EB51eCFa2"
+  },
+  "clankerInfo": null
+}

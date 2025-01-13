@@ -1,0 +1,22 @@
+{
+  "name": "Phasmina Mask",
+  "symbol": "Phasmina Mask",
+  "decimals": 18,
+  "description": "Phasmina Mask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phasmina%20Mask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phasmina Mask",
+  "addresses": {
+    "8453": "0x302594744eaf5968ca33504b373a483fd6b52137"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phasmina Mask",
+    "sanitizedSymbol": "PHASMINA_MASK",
+    "created_at": "2024-12-11T23:20:39.4403",
+    "deployer": "0xf4D0EEAb4A106163B6A37D39D3cf60399c94d23d",
+    "lpNftId": "1427804",
+    "lockerAddress": "0x2DBe620b8537636d3A68ceB1b96ca0E5F4d06F68"
+  },
+  "clankerInfo": null
+}

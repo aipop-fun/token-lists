@@ -1,0 +1,22 @@
+{
+  "name": "Broccoli",
+  "symbol": "Broccoli",
+  "decimals": 18,
+  "description": "Broccoli is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Broccoli",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Broccoli",
+  "addresses": {
+    "8453": "0x18e24e03cf8f326b7971ce685357a25258efd014"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Broccoli",
+    "sanitizedSymbol": "BROCCOLI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1360779",
+    "lockerAddress": "0x0A5f1EE30841D8565398c232c2f375B0454E12BC"
+  },
+  "clankerInfo": null
+}

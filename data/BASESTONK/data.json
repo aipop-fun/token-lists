@@ -1,0 +1,22 @@
+{
+  "name": "BaseStonk",
+  "symbol": "BaseStonk",
+  "decimals": 18,
+  "description": "BaseStonk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseStonk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseStonk",
+  "addresses": {
+    "8453": "0x06ec8251c8095d4756fb7786344d3f287e35886e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseStonk",
+    "sanitizedSymbol": "BASESTONK",
+    "created_at": "2024-12-11T12:57:55.468445",
+    "deployer": "0xC0338cC8307B2309c2A7f5bC020BB5477A629e6C",
+    "lpNftId": "1418620",
+    "lockerAddress": "0xfe510115C48dA0A89338Cb23173acf0A919DC2df"
+  },
+  "clankerInfo": null
+}

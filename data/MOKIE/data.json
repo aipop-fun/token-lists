@@ -1,0 +1,22 @@
+{
+  "name": "MOKIE",
+  "symbol": "MOKIE",
+  "decimals": 18,
+  "description": "MOKIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOKIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOKIE",
+  "addresses": {
+    "8453": "0x1bdd90279108680861b965b4e50adee73c0e587b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOKIE",
+    "sanitizedSymbol": "MOKIE",
+    "created_at": "2024-12-09T17:54:49.814695",
+    "deployer": "0x65F69C5ED64366C4d9229A6DF3fF8D4A18bd773b",
+    "lpNftId": "1389958",
+    "lockerAddress": "0x1221627823D5bdbcf74c52576D33926EDC4aC2d9"
+  },
+  "clankerInfo": null
+}

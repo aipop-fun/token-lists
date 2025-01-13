@@ -1,0 +1,22 @@
+{
+  "name": "BABA",
+  "symbol": "BABA",
+  "decimals": 18,
+  "description": "BABA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABA",
+  "addresses": {
+    "8453": "0x365fd0814c08064c57f713d05bcc4c87217faaba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABA",
+    "sanitizedSymbol": "BABA",
+    "created_at": "2024-12-10T13:34:25.939658",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1401523",
+    "lockerAddress": "0x80616dFb62851414a453ecA51c0b858226eAae07"
+  },
+  "clankerInfo": null
+}

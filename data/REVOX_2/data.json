@@ -1,0 +1,22 @@
+{
+  "name": "Revox",
+  "symbol": "Revox",
+  "decimals": 18,
+  "description": "Revox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Revox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Revox",
+  "addresses": {
+    "8453": "0x1fa69c0313d289f06e4b386fb0dc4385b138c7a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Revox",
+    "sanitizedSymbol": "REVOX_2",
+    "created_at": "2024-12-11T18:40:59.514282",
+    "deployer": "0xB87958F0bFfcd09D19A43e48728849DEd325390B",
+    "lpNftId": "1424027",
+    "lockerAddress": "0x5382D3E9d6dE606e1Ba1eb74127A7C5bCd5b4506"
+  },
+  "clankerInfo": null
+}

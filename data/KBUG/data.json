@@ -1,0 +1,22 @@
+{
+  "name": "Kbug",
+  "symbol": "Kbug",
+  "decimals": 18,
+  "description": "Kbug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kbug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kbug",
+  "addresses": {
+    "8453": "0x220260901002450561f53dca0e5cf6b597059026"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kbug",
+    "sanitizedSymbol": "KBUG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4CADE18cd461C6ed0F7b45faB12edB6A890910dE",
+    "lpNftId": "1327951",
+    "lockerAddress": "0x1A111fF654E3d3dA08b2d9a24ea42512D23C6C87"
+  },
+  "clankerInfo": null
+}

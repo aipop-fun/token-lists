@@ -1,0 +1,22 @@
+{
+  "name": "ANT",
+  "symbol": "ANT",
+  "decimals": 18,
+  "description": "ANT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANT",
+  "addresses": {
+    "8453": "0x1ff4d704aa97cf0b254f88c5368975c50132854a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANT",
+    "sanitizedSymbol": "ANT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203237",
+    "lockerAddress": "0x0771652a5D3794751480a567BD39D90A2b2fbd1B"
+  },
+  "clankerInfo": null
+}

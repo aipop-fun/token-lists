@@ -1,0 +1,22 @@
+{
+  "name": "SETYA V2",
+  "symbol": "SETYA V2",
+  "decimals": 18,
+  "description": "SETYA V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SETYA%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SETYA V2",
+  "addresses": {
+    "8453": "0x0ced002b557132b9dc7ec738e21bc461d7f50847"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SETYA V2",
+    "sanitizedSymbol": "SETYA_V2",
+    "created_at": "2024-12-09T01:48:20.982424",
+    "deployer": "0x2AC9a957fD2d95d0ACFCbB6959DcaEc7F12b568c",
+    "lpNftId": "1377642",
+    "lockerAddress": "0x20305b0a477e14e6F6d596d20aD545d96a9A8464"
+  },
+  "clankerInfo": null
+}

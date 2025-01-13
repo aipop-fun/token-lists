@@ -1,0 +1,22 @@
+{
+  "name": "EtherRock",
+  "symbol": "EtherRock",
+  "decimals": 18,
+  "description": "EtherRock is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EtherRock",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EtherRock",
+  "addresses": {
+    "8453": "0x365e7d931e214aae727ef5fc1ef66dce9acac880"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EtherRock",
+    "sanitizedSymbol": "ETHERROCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C515F7776F41FFC9Df45a4BBD515C85e21ABA62",
+    "lpNftId": "1365765",
+    "lockerAddress": "0xce4618a4f4183e0FF9a06998dea6d087BD29acE4"
+  },
+  "clankerInfo": null
+}

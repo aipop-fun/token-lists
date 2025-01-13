@@ -1,0 +1,22 @@
+{
+  "name": "Clanker's Cat",
+  "symbol": "Clanker's Cat",
+  "decimals": 18,
+  "description": "Clanker's Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker's%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker's Cat",
+  "addresses": {
+    "8453": "0x1a0b509b1195c9980320814e54cb1fc3914dcc24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker's Cat",
+    "sanitizedSymbol": "CLANKER_S_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158568",
+    "lockerAddress": "0xDcCfA7671Bd4E8436521d00c2ecE715fd58D9efa"
+  },
+  "clankerInfo": null
+}

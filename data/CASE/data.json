@@ -1,0 +1,22 @@
+{
+  "name": "Case",
+  "symbol": "Case",
+  "decimals": 18,
+  "description": "Case is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Case",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Case",
+  "addresses": {
+    "8453": "0x3d707dad213017c7f4cebe938e5015db8f97e137"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Case",
+    "sanitizedSymbol": "CASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233061",
+    "lockerAddress": "0x5B3378d5d33748E6ECD47df6a5e9701Bfe48a31E"
+  },
+  "clankerInfo": null
+}

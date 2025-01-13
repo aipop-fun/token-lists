@@ -1,0 +1,22 @@
+{
+  "name": "carrot maxxing",
+  "symbol": "carrot maxxing",
+  "decimals": 18,
+  "description": "carrot maxxing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=carrot%20maxxing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "carrot maxxing",
+  "addresses": {
+    "8453": "0x16cc2f91aaeae8f3738c26d9be0333269eb08807"
+  },
+  "tokenInfo": {
+    "originalSymbol": "carrot maxxing",
+    "sanitizedSymbol": "CARROT_MAXXING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232051",
+    "lockerAddress": "0x4a71e0E0e5b3aa4dEB1C1AAe427F088F1D966751"
+  },
+  "clankerInfo": null
+}

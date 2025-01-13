@@ -1,0 +1,22 @@
+{
+  "name": "stealth clank",
+  "symbol": "stealth clank",
+  "decimals": 18,
+  "description": "stealth clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stealth%20clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stealth clank",
+  "addresses": {
+    "8453": "0x35df7130600d0bfb8fc9d95d377662f25a4d4fb5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stealth clank",
+    "sanitizedSymbol": "STEALTH_CLANK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xF08C4dA84017FFbbD0211Cf35DBfe58cF49cbFEF",
+    "lpNftId": "1193827",
+    "lockerAddress": "0x7A3d9F1b898b22284d3113840A16f716b54759dA"
+  },
+  "clankerInfo": null
+}

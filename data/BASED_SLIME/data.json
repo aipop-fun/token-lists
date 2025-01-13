@@ -1,0 +1,22 @@
+{
+  "name": "Based Slime",
+  "symbol": "Based Slime",
+  "decimals": 18,
+  "description": "Based Slime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Slime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Slime",
+  "addresses": {
+    "8453": "0x19156ef1108516eef56f6a8afb3a946dc6788aa8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Slime",
+    "sanitizedSymbol": "BASED_SLIME",
+    "created_at": "2024-12-10T09:39:26.714681",
+    "deployer": "0x498a0c6816A0A7AA2765d640a18cfF8c69b83B78",
+    "lpNftId": "1399287",
+    "lockerAddress": "0x3492B00a35C318e5cE04266D1a595864fAE1fdB6"
+  },
+  "clankerInfo": null
+}

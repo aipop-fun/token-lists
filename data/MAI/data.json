@@ -1,0 +1,22 @@
+{
+  "name": "MAI",
+  "symbol": "MAI",
+  "decimals": 18,
+  "description": "MAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAI",
+  "addresses": {
+    "8453": "0x04544bd7bdba446cbe65bedbcbe6e0c05033a318"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAI",
+    "sanitizedSymbol": "MAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205728",
+    "lockerAddress": "0x3c875072e1C3AAe278F867f941701F15C6895954"
+  },
+  "clankerInfo": null
+}

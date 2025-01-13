@@ -1,0 +1,22 @@
+{
+  "name": "WhiteGOAT",
+  "symbol": "WhiteGOAT",
+  "decimals": 18,
+  "description": "WhiteGOAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WhiteGOAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WhiteGOAT",
+  "addresses": {
+    "8453": "0x24bd9f241c244df0ce0d5cb289e04c63e8c4de08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WhiteGOAT",
+    "sanitizedSymbol": "WHITEGOAT",
+    "created_at": "2024-12-12T03:41:15.454316",
+    "deployer": "0x041219E2F2343f16A8D04680b45ff494F10Fa45c",
+    "lpNftId": "1428964",
+    "lockerAddress": "0x81108227e2fCaf3401DF5ef97A5c5d640ff1dDB8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Token 777",
+  "symbol": "Token 777",
+  "decimals": 18,
+  "description": "Token 777 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20777",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token 777",
+  "addresses": {
+    "8453": "0x0f0d515e815d6add7519396defc913e9aef99ae1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token 777",
+    "sanitizedSymbol": "TOKEN_777",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x739c30Cae42557eE3564dEc749F0073BB45CE958",
+    "lpNftId": "1251313",
+    "lockerAddress": "0x2c672CfFf1756920e8c789e5EAc2b812a161169E"
+  },
+  "clankerInfo": null
+}

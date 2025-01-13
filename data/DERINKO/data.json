@@ -1,0 +1,22 @@
+{
+  "name": "derinko",
+  "symbol": "derinko",
+  "decimals": 18,
+  "description": "derinko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=derinko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "derinko",
+  "addresses": {
+    "8453": "0x0a3b61641ecb8db016d796db42eb48ab11576aec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "derinko",
+    "sanitizedSymbol": "DERINKO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe7d3f7882E5C8fc9317a32f1F414A1c606737C9d",
+    "lpNftId": "1253361",
+    "lockerAddress": "0x76B16a3a427Ef2f8380A5b309A616844c793b86B"
+  },
+  "clankerInfo": null
+}

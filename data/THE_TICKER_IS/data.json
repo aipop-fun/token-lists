@@ -1,0 +1,22 @@
+{
+  "name": "the ticker is.",
+  "symbol": "the ticker is.",
+  "decimals": 18,
+  "description": "the ticker is. is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20ticker%20is.",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the ticker is.",
+  "addresses": {
+    "8453": "0x306d86f1807e2629256d795ae9b7ffadbb5119a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the ticker is.",
+    "sanitizedSymbol": "THE_TICKER_IS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162019",
+    "lockerAddress": "0x361F5383452413305fFBBBfafdFB2cF151433722"
+  },
+  "clankerInfo": null
+}

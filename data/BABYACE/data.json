@@ -1,0 +1,22 @@
+{
+  "name": "BabyAce",
+  "symbol": "BabyAce",
+  "decimals": 18,
+  "description": "BabyAce is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyAce",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyAce",
+  "addresses": {
+    "8453": "0x1120a0fbe7bee2a21901e10a4aa857d0e64d5dcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyAce",
+    "sanitizedSymbol": "BABYACE",
+    "created_at": "2024-12-10T23:31:58.971833",
+    "deployer": "0x224ae25F9BB2cB9D9F503A5FBfc010d483269a0A",
+    "lpNftId": "1408408",
+    "lockerAddress": "0x733ba9D910337647bBd6EAd6D5249972F2A687d2"
+  },
+  "clankerInfo": null
+}

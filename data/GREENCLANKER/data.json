@@ -1,0 +1,22 @@
+{
+  "name": "greenclanker",
+  "symbol": "greenclanker",
+  "decimals": 18,
+  "description": "greenclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=greenclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "greenclanker",
+  "addresses": {
+    "8453": "0x212cc45ce2466f34c33c7136d402dc2932f351a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "greenclanker",
+    "sanitizedSymbol": "GREENCLANKER",
+    "created_at": "2024-12-12T01:58:57.763239",
+    "deployer": "0x47D6d063a2428D446CA0e10eCCa7D7856a6ab659",
+    "lpNftId": "1428528",
+    "lockerAddress": "0xF655E21C76680F4F4491A6287A92e6123f1D262B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fatigue",
+  "symbol": "Fatigue",
+  "decimals": 18,
+  "description": "Fatigue is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fatigue",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fatigue",
+  "addresses": {
+    "8453": "0x0829efa4b6427cac1b32014e2a6dbb43f941751f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fatigue",
+    "sanitizedSymbol": "FATIGUE",
+    "created_at": "2024-12-11T00:57:29.383177",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1409138",
+    "lockerAddress": "0x11522FDE25A3bfeD1173E62C586043dcA706f166"
+  },
+  "clankerInfo": null
+}

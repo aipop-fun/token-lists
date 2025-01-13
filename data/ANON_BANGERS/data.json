@@ -1,0 +1,22 @@
+{
+  "name": "Anon Bangers",
+  "symbol": "Anon Bangers",
+  "decimals": 18,
+  "description": "Anon Bangers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Bangers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Bangers",
+  "addresses": {
+    "8453": "0x35b40c83c5820c01760b56a7ba2dccac3b909cd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Bangers",
+    "sanitizedSymbol": "ANON_BANGERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236941",
+    "lockerAddress": "0x62d8617Ca50C09fD3F059d91b3bd29AF0CbB5B4c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WorldNetwork",
+  "symbol": "WorldNetwork",
+  "decimals": 18,
+  "description": "WorldNetwork is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WorldNetwork",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WorldNetwork",
+  "addresses": {
+    "8453": "0x2d9a4087fdaa6daa69f803e82403129c2e2fa6c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WorldNetwork",
+    "sanitizedSymbol": "WORLDNETWORK",
+    "created_at": "2024-12-12T19:38:41.297713",
+    "deployer": "0xf06D1aDE3C5EB057B95CEd418072139673a58F73",
+    "lpNftId": "1441758",
+    "lockerAddress": "0x29075D494aDd9ad2c87967c3E3f5fAE8fb18406a"
+  },
+  "clankerInfo": null
+}

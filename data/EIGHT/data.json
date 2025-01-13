@@ -1,0 +1,22 @@
+{
+  "name": "Eight",
+  "symbol": "Eight",
+  "decimals": 18,
+  "description": "Eight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eight",
+  "addresses": {
+    "8453": "0x055835af03dc8992aeb2d65e7b459182b283e4f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eight",
+    "sanitizedSymbol": "EIGHT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235215",
+    "lockerAddress": "0x24A349a6959C77BE68F860E820604b6e576cE89B"
+  },
+  "clankerInfo": null
+}

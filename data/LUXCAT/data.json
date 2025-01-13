@@ -1,0 +1,22 @@
+{
+  "name": "Luxcat",
+  "symbol": "Luxcat",
+  "decimals": 18,
+  "description": "Luxcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luxcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luxcat",
+  "addresses": {
+    "8453": "0x06e83d683b7818090ef2b5f8158197df493c7caf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luxcat",
+    "sanitizedSymbol": "LUXCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8533b0D731bDEaE92f52685856fFfCb8B48eBe96",
+    "lpNftId": "1309783",
+    "lockerAddress": "0x0371C1Feb198B4C495370291951A086292099b5B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "surpriztoken",
+  "symbol": "surpriztoken",
+  "decimals": 18,
+  "description": "surpriztoken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=surpriztoken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "surpriztoken",
+  "addresses": {
+    "8453": "0x1c3d8b8ee861ff48d1adddc99ce6db8ee7aea656"
+  },
+  "tokenInfo": {
+    "originalSymbol": "surpriztoken",
+    "sanitizedSymbol": "SURPRIZTOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x91D0204B30785694d4b4AF93f8823aBEF1510dC8",
+    "lpNftId": "1288577",
+    "lockerAddress": "0x49d6FB45A9b5A61724B6FEf2AdC7513Fe26afd55"
+  },
+  "clankerInfo": null
+}

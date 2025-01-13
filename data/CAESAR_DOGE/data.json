@@ -1,0 +1,22 @@
+{
+  "name": "Caesar Doge",
+  "symbol": "Caesar Doge",
+  "decimals": 18,
+  "description": "Caesar Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caesar%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caesar Doge",
+  "addresses": {
+    "8453": "0x2c13eacd8a6a5370aa37e4932db296907cede73c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caesar Doge",
+    "sanitizedSymbol": "CAESAR_DOGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224162",
+    "lockerAddress": "0x853Dd255BA1bdEDAC310ad3d1Ed3FB01D4a91C60"
+  },
+  "clankerInfo": null
+}

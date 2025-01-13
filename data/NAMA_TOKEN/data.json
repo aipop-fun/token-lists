@@ -1,0 +1,22 @@
+{
+  "name": "NAMA TOKEN",
+  "symbol": "NAMA TOKEN",
+  "decimals": 18,
+  "description": "NAMA TOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NAMA%20TOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NAMA TOKEN",
+  "addresses": {
+    "8453": "0x1333a1f2d611de0d7abb0a6e5264c7acc2909089"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NAMA TOKEN",
+    "sanitizedSymbol": "NAMA_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x119BB0C3Ddb2495CF69F8cC0a70A0F943F889BDE",
+    "lpNftId": "1286259",
+    "lockerAddress": "0xfE63d5914bB834406800bB6D54daC43D21EaF04b"
+  },
+  "clankerInfo": null
+}

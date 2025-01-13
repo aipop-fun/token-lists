@@ -1,0 +1,22 @@
+{
+  "name": "vime",
+  "symbol": "vime",
+  "decimals": 18,
+  "description": "vime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vime",
+  "addresses": {
+    "8453": "0x218d6a62c19465988908e5968dbb59509fd9f1cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vime",
+    "sanitizedSymbol": "VIME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217308",
+    "lockerAddress": "0x6BED4C6211E1aC5EDAa882aF4a2C3D747e543d4B"
+  },
+  "clankerInfo": null
+}

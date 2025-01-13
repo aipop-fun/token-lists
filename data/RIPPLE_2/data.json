@@ -1,0 +1,22 @@
+{
+  "name": "Ripple",
+  "symbol": "Ripple",
+  "decimals": 18,
+  "description": "Ripple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ripple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ripple",
+  "addresses": {
+    "8453": "0x29d693f4eb6e5b5a63298fac726855e6c793ef56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ripple",
+    "sanitizedSymbol": "RIPPLE_2",
+    "created_at": "2024-12-10T14:57:21.026547",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1402263",
+    "lockerAddress": "0x3a99a19fedA12496692105235162D4683b664195"
+  },
+  "clankerInfo": null
+}

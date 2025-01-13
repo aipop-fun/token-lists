@@ -1,0 +1,22 @@
+{
+  "name": "linkcat",
+  "symbol": "linkcat",
+  "decimals": 18,
+  "description": "linkcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=linkcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "linkcat",
+  "addresses": {
+    "8453": "0x1540aa5564431219aa4705fba3f2af0597f45df7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "linkcat",
+    "sanitizedSymbol": "LINKCAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc88FE32236D7611Ad75a79eA0114B01E2eC3Ed64",
+    "lpNftId": "1374849",
+    "lockerAddress": "0xA216236ED49E37a82A2BeBFF77302cA2eF44B503"
+  },
+  "clankerInfo": null
+}

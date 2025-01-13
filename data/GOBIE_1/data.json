@@ -1,0 +1,22 @@
+{
+  "name": "GOBIE",
+  "symbol": "GOBIE",
+  "decimals": 18,
+  "description": "GOBIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOBIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOBIE",
+  "addresses": {
+    "8453": "0x14d91f59a733f269282ff3fcf0c5a201be436249"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOBIE",
+    "sanitizedSymbol": "GOBIE_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x33aCF8197D4DeD5E0C0354f22e8504d2798690EA",
+    "lpNftId": "1281177",
+    "lockerAddress": "0x18AF770E142dD195d99E1c39a0D49f7F2BD48F69"
+  },
+  "clankerInfo": null
+}

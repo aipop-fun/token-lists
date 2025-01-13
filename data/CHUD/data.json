@@ -1,0 +1,22 @@
+{
+  "name": "CHUD",
+  "symbol": "CHUD",
+  "decimals": 18,
+  "description": "CHUD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHUD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHUD",
+  "addresses": {
+    "8453": "0x0568b9e5cddae5ec564aca105070df3fc6f570a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHUD",
+    "sanitizedSymbol": "CHUD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1323485",
+    "lockerAddress": "0x7482f1eC2184E354F09bfD1668DB31466420cF30"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DecMoon",
+  "symbol": "DecMoon",
+  "decimals": 18,
+  "description": "DecMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DecMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DecMoon",
+  "addresses": {
+    "8453": "0x096f7161c4db603c783c0a261bd9683384ac7809"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DecMoon",
+    "sanitizedSymbol": "DECMOON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3D80Cd729f66155Eb4dFb647781F1470cCe47Ee6",
+    "lpNftId": "1330328",
+    "lockerAddress": "0x3aA10D171d6F090bBf9c76589e5926743EC2f0d0"
+  },
+  "clankerInfo": null
+}

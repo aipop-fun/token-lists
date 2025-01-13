@@ -1,0 +1,22 @@
+{
+  "name": "Clanko",
+  "symbol": "Clanko",
+  "decimals": 18,
+  "description": "Clanko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanko",
+  "addresses": {
+    "8453": "0x1f448ee8d962384c1d4b5fab50cd29274f3fcd65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanko",
+    "sanitizedSymbol": "CLANKO",
+    "created_at": "2024-12-12T12:25:08.955887",
+    "deployer": "0x3F997b677B54C872897c50810A33417C1E4cD70b",
+    "lpNftId": "1434086",
+    "lockerAddress": "0x13C3a25fC4A2F69f138E6bD974cdaAcCDeD04ed4"
+  },
+  "clankerInfo": null
+}

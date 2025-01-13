@@ -1,0 +1,22 @@
+{
+  "name": "OAKA",
+  "symbol": "OAKA",
+  "decimals": 18,
+  "description": "OAKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OAKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OAKA",
+  "addresses": {
+    "8453": "0x1c515ca581fc0f71e48a6822f164e2255b5a460f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OAKA",
+    "sanitizedSymbol": "OAKA",
+    "created_at": "2024-12-12T06:58:53.58029",
+    "deployer": "0x56e0072B934ff08ed36CB42B8148905504EfB9FB",
+    "lpNftId": "1429664",
+    "lockerAddress": "0x5e4DDD9554B4Fb2dBB278cCb726aCB6C9703EEB3"
+  },
+  "clankerInfo": null
+}

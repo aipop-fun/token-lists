@@ -1,0 +1,22 @@
+{
+  "name": "Existential Byte",
+  "symbol": "Existential Byte",
+  "decimals": 18,
+  "description": "Existential Byte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Existential%20Byte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Existential Byte",
+  "addresses": {
+    "8453": "0x1793e85a27f1efb0d8a94b30b2cf22ac45cbcd1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Existential Byte",
+    "sanitizedSymbol": "EXISTENTIAL_BYTE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218319",
+    "lockerAddress": "0x6b6f1C6C160F8fa40632930bfe94c05A0eD52De2"
+  },
+  "clankerInfo": null
+}

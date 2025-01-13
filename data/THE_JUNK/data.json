@@ -1,0 +1,22 @@
+{
+  "name": "The JUNK",
+  "symbol": "The JUNK",
+  "decimals": 18,
+  "description": "The JUNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20JUNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The JUNK",
+  "addresses": {
+    "8453": "0x10006358f622dbb89688c1a54f815e111d2cdc19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The JUNK",
+    "sanitizedSymbol": "THE_JUNK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1231227",
+    "lockerAddress": "0xeC876512BFbADb9FA851813fc7b707d38d3F7B71"
+  },
+  "clankerInfo": null
+}

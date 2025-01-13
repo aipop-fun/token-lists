@@ -1,0 +1,22 @@
+{
+  "name": "MU",
+  "symbol": "MU",
+  "decimals": 18,
+  "description": "MU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MU",
+  "addresses": {
+    "8453": "0x0829500d935f884476b8fe18d3861effeb84addb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MU",
+    "sanitizedSymbol": "MU",
+    "created_at": "2024-12-11T16:43:21.160364",
+    "deployer": "0x19Fee7a7EB7fC16d4b9fDf0CbCED5575F7c14F0F",
+    "lpNftId": "1421999",
+    "lockerAddress": "0xCdB8418063daf0c70CBa1812BB976b21e51a3364"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LUMINARIA",
+  "symbol": "LUMINARIA",
+  "decimals": 18,
+  "description": "LUMINARIA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUMINARIA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUMINARIA",
+  "addresses": {
+    "8453": "0x011ac4f8eee48c5e128765e0e37ae3b3f5141f2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUMINARIA",
+    "sanitizedSymbol": "LUMINARIA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC811b772e7CaFb6738B66b833d8048A1B72Fe81c",
+    "lpNftId": "1282899",
+    "lockerAddress": "0x1a40Bb54Dc744456727f5F56501d4b47c8161095"
+  },
+  "clankerInfo": null
+}

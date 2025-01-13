@@ -1,0 +1,22 @@
+{
+  "name": "Lum Luminous",
+  "symbol": "Lum Luminous",
+  "decimals": 18,
+  "description": "Lum Luminous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lum%20Luminous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lum Luminous",
+  "addresses": {
+    "8453": "0x1d12c3907d16fd010ea809174758165dc6cbde6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lum Luminous",
+    "sanitizedSymbol": "LUM_LUMINOUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1149976",
+    "lockerAddress": "0xB6CfEc23587A903A28718663972295B8980Ef032"
+  },
+  "clankerInfo": null
+}

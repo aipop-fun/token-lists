@@ -1,0 +1,22 @@
+{
+  "name": "BABY COINS",
+  "symbol": "BABY COINS",
+  "decimals": 18,
+  "description": "BABY COINS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20COINS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY COINS",
+  "addresses": {
+    "8453": "0x2595001468010a36cf0bd68ec5037a4a0e692a00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY COINS",
+    "sanitizedSymbol": "BABY_COINS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x053735C6E364Cd04C9826E8A90dcb363c68AB80A",
+    "lpNftId": "1310281",
+    "lockerAddress": "0x96f28E98D30F7707c0Ed6a84AF06072f4C48C4Ef"
+  },
+  "clankerInfo": null
+}

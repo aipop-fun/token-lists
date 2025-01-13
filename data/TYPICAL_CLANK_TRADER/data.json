@@ -1,0 +1,22 @@
+{
+  "name": "typical clank trader",
+  "symbol": "typical clank trader",
+  "decimals": 18,
+  "description": "typical clank trader is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=typical%20clank%20trader",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "typical clank trader",
+  "addresses": {
+    "8453": "0x050d3f46004769e4b97ffa2e7845ef3fddb407ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "typical clank trader",
+    "sanitizedSymbol": "TYPICAL_CLANK_TRADER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229880",
+    "lockerAddress": "0x53f21c3a8ace4beD9a2B12B72bd6f5076EeD47CC"
+  },
+  "clankerInfo": null
+}

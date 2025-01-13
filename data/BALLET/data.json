@@ -1,0 +1,22 @@
+{
+  "name": "Ballet",
+  "symbol": "Ballet",
+  "decimals": 18,
+  "description": "Ballet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ballet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ballet",
+  "addresses": {
+    "8453": "0x06995953e22170e4e725266e2d6c21c7a7fe424f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ballet",
+    "sanitizedSymbol": "BALLET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9CcFeF8C677DB9DD434B5CEA72720BFD502A6A47",
+    "lpNftId": "1287124",
+    "lockerAddress": "0x1452D3585881AB501581683840ca38C6a728F882"
+  },
+  "clankerInfo": null
+}

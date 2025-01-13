@@ -1,0 +1,22 @@
+{
+  "name": "ALLGOOD",
+  "symbol": "ALLGOOD",
+  "decimals": 18,
+  "description": "ALLGOOD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALLGOOD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALLGOOD",
+  "addresses": {
+    "8453": "0x1f7428ff89ed788897955191e66acf2820f82a21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALLGOOD",
+    "sanitizedSymbol": "ALLGOOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1A94b37F5d8634A18483C027d145532fccF6B1B9",
+    "lpNftId": "1305648",
+    "lockerAddress": "0xa0CA8b346cb5Cc28362eA5375aE2f72E31bcBBE6"
+  },
+  "clankerInfo": null
+}

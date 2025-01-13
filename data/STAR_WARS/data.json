@@ -1,0 +1,22 @@
+{
+  "name": "Star Wars",
+  "symbol": "Star Wars",
+  "decimals": 18,
+  "description": "Star Wars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Star%20Wars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Star Wars",
+  "addresses": {
+    "8453": "0x412583e7d793d384fc4992dcb2dcaa28e5e7670c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Star Wars",
+    "sanitizedSymbol": "STAR_WARS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5125B1989E54389Ef98C0e9FBDBc581C9Aece8Fe",
+    "lpNftId": "1252324",
+    "lockerAddress": "0x9600aDB43Bde738162c20Af9d04A6f16019E3919"
+  },
+  "clankerInfo": null
+}

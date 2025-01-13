@@ -1,0 +1,22 @@
+{
+  "name": "Based Moto Head",
+  "symbol": "Based Moto Head",
+  "decimals": 18,
+  "description": "Based Moto Head is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Moto%20Head",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Moto Head",
+  "addresses": {
+    "8453": "0x2a8e30a6c410d53d8232b1b51f7c9a0c75b979d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Moto Head",
+    "sanitizedSymbol": "BASED_MOTO_HEAD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4CCa3f44208bEe3C363868471956Af0c1E2FFf05",
+    "lpNftId": "1318203",
+    "lockerAddress": "0x210EaEBf88DF4CF82Fd56da911d2F205Fd875f21"
+  },
+  "clankerInfo": null
+}

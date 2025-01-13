@@ -1,0 +1,22 @@
+{
+  "name": "FARCAT",
+  "symbol": "FARCAT",
+  "decimals": 18,
+  "description": "FARCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCAT",
+  "addresses": {
+    "8453": "0x1aa835ab585ea9b85b3ee13a6bf6eecd6185c50b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCAT",
+    "sanitizedSymbol": "FARCAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158512",
+    "lockerAddress": "0x4242aACdc4212C44Ef2011f85f1F1DAe3f2182bF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "walter white",
+  "symbol": "walter white",
+  "decimals": 18,
+  "description": "walter white is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=walter%20white",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "walter white",
+  "addresses": {
+    "8453": "0x0da0978ce4a585a44b9adbcea23e7d0fd625d0b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "walter white",
+    "sanitizedSymbol": "WALTER_WHITE",
+    "created_at": "2024-12-09T08:25:31.948898",
+    "deployer": "0x56C09cAF7A77d5d254dAe3438bB843A1FFd06aa2",
+    "lpNftId": "1384675",
+    "lockerAddress": "0x1e5403F2DE4ED90C699fcCf61aE20d46C1764D53"
+  },
+  "clankerInfo": null
+}

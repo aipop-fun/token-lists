@@ -1,0 +1,22 @@
+{
+  "name": "Captain Coffee",
+  "symbol": "Captain Coffee",
+  "decimals": 18,
+  "description": "Captain Coffee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Captain%20Coffee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Captain Coffee",
+  "addresses": {
+    "8453": "0x28bb3fd8fbd80244938f2fb5c59450d87d5d4cc1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Captain Coffee",
+    "sanitizedSymbol": "CAPTAIN_COFFEE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199310",
+    "lockerAddress": "0x21AA8a12884FEc538D71deF7124dBD1D31Aab005"
+  },
+  "clankerInfo": null
+}

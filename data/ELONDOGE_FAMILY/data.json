@@ -1,0 +1,22 @@
+{
+  "name": "ElonDoge Family",
+  "symbol": "ElonDoge Family",
+  "decimals": 18,
+  "description": "ElonDoge Family is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ElonDoge%20Family",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ElonDoge Family",
+  "addresses": {
+    "8453": "0x2652d57ae8ecbda573e36de6dc4f8ebf820ef32f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ElonDoge Family",
+    "sanitizedSymbol": "ELONDOGE_FAMILY",
+    "created_at": "2024-12-09T11:32:50.158851",
+    "deployer": "0x2a84F7f91B3dCfF97523d16030a2e5BdF5c40eBd",
+    "lpNftId": "1386514",
+    "lockerAddress": "0x56b981501641AbE952722FD0B2a02623716Ac7c7"
+  },
+  "clankerInfo": null
+}

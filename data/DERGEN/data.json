@@ -1,0 +1,22 @@
+{
+  "name": "$DERGEN",
+  "symbol": "$DERGEN",
+  "decimals": 18,
+  "description": "$DERGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24DERGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$DERGEN",
+  "addresses": {
+    "8453": "0x417aa3d9b4da2bb47f9ba3fd983351340e68879f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$DERGEN",
+    "sanitizedSymbol": "DERGEN",
+    "created_at": "2024-12-10T16:19:51.034388",
+    "deployer": "0x92bA98347C909e1F599E3B6d254f6aeee5FA2b15",
+    "lpNftId": "1403823",
+    "lockerAddress": "0xEAAa51f19Bd4C02c430FbA8169C1172fA96900b2"
+  },
+  "clankerInfo": null
+}

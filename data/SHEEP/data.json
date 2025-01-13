@@ -1,0 +1,22 @@
+{
+  "name": "SHEEP",
+  "symbol": "SHEEP",
+  "decimals": 18,
+  "description": "SHEEP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHEEP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHEEP",
+  "addresses": {
+    "8453": "0x29f885d4625684aabd022a6ee646c8658f153bf6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHEEP",
+    "sanitizedSymbol": "SHEEP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1331794",
+    "lockerAddress": "0x25ec8323c863b20FA0FEcEea74c8Dff56B582cA4"
+  },
+  "clankerInfo": null
+}

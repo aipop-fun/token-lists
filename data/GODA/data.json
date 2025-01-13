@@ -1,0 +1,22 @@
+{
+  "name": "GODA",
+  "symbol": "GODA",
+  "decimals": 18,
+  "description": "GODA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GODA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GODA",
+  "addresses": {
+    "8453": "0x2b71aeec50cc94fd0e9caa37faf325ef9da67c39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GODA",
+    "sanitizedSymbol": "GODA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf1a871aF236eC0Da070C3b09302270Ccf4E35794",
+    "lpNftId": "1287051",
+    "lockerAddress": "0x48dd0a9091F2d56f3d0C818d86F5421309c518C5"
+  },
+  "clankerInfo": null
+}

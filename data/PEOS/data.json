@@ -1,0 +1,22 @@
+{
+  "name": "peos",
+  "symbol": "peos",
+  "decimals": 18,
+  "description": "peos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=peos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "peos",
+  "addresses": {
+    "8453": "0x2ca000c2d59f313166d3b0c706e2c20b22ed933a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "peos",
+    "sanitizedSymbol": "PEOS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165944",
+    "lockerAddress": "0x9CE0C0A1220Fe4dFe0AC08192d8Ae51ca589d309"
+  },
+  "clankerInfo": null
+}

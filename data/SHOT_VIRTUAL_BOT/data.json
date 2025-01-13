@@ -1,0 +1,22 @@
+{
+  "name": "SHOT VIRTUAL BOT",
+  "symbol": "SHOT VIRTUAL BOT",
+  "decimals": 18,
+  "description": "SHOT VIRTUAL BOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHOT%20VIRTUAL%20BOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHOT VIRTUAL BOT",
+  "addresses": {
+    "8453": "0x035da039d927699249c6e2c65944c7c168c92bb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHOT VIRTUAL BOT",
+    "sanitizedSymbol": "SHOT_VIRTUAL_BOT",
+    "created_at": "2024-12-11T15:27:55.596977",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1420925",
+    "lockerAddress": "0x307BA6AaF20267A663FBC0FAeEd60E8FbAcB82Ef"
+  },
+  "clankerInfo": null
+}

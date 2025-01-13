@@ -1,0 +1,22 @@
+{
+  "name": "ClankV2",
+  "symbol": "ClankV2",
+  "decimals": 18,
+  "description": "ClankV2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankV2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankV2",
+  "addresses": {
+    "8453": "0x090bbe2e8df4142c41b2f2e8496e3bd83e9059e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankV2",
+    "sanitizedSymbol": "CLANKV2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB8E8d2a9b5D1FF8FEb4EFA686ac1D15Bf960070d",
+    "lpNftId": "1227561",
+    "lockerAddress": "0x28642FE308F0C8522F727e8462E41933F84d5bdc"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pikachu Pepe",
+  "symbol": "Pikachu Pepe",
+  "decimals": 18,
+  "description": "Pikachu Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pikachu%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pikachu Pepe",
+  "addresses": {
+    "8453": "0x39ccb180c9ab5d8cd6776017b420a1461af05dc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pikachu Pepe",
+    "sanitizedSymbol": "PIKACHU_PEPE",
+    "created_at": "2024-12-09T05:28:34.834758",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1383183",
+    "lockerAddress": "0xB4aa354F0352906bF43Da69c04BE982e36b0D0Bc"
+  },
+  "clankerInfo": null
+}

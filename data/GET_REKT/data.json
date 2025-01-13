@@ -1,0 +1,22 @@
+{
+  "name": "GET REKT",
+  "symbol": "GET REKT",
+  "decimals": 18,
+  "description": "GET REKT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GET%20REKT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GET REKT",
+  "addresses": {
+    "8453": "0x4116ae58bcb4c76719cb8a533386ecc283d255bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GET REKT",
+    "sanitizedSymbol": "GET_REKT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc2F097b87Ee848F30F0E01E7A5BA03A8735AC440",
+    "lpNftId": "1326638",
+    "lockerAddress": "0x78E9bF9aD3a6155BBe1fD9505bD33E86c71e3562"
+  },
+  "clankerInfo": null
+}

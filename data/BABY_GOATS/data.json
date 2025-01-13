@@ -1,0 +1,22 @@
+{
+  "name": "Baby Goats",
+  "symbol": "Baby Goats",
+  "decimals": 18,
+  "description": "Baby Goats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Goats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Goats",
+  "addresses": {
+    "8453": "0x230ebc1c68760c7f70dfc29c0e1c2f42cfaccede"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Goats",
+    "sanitizedSymbol": "BABY_GOATS",
+    "created_at": "2024-12-09T20:59:58.383769",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1392033",
+    "lockerAddress": "0x299681D6d0D74d0fFee9419D46736aB87Ffea156"
+  },
+  "clankerInfo": null
+}

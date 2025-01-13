@@ -1,0 +1,22 @@
+{
+  "name": "KARCY",
+  "symbol": "KARCY",
+  "decimals": 18,
+  "description": "KARCY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KARCY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KARCY",
+  "addresses": {
+    "8453": "0x308ff8068bc1b38a71c1f18fdbc3e27b0a5a0a4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KARCY",
+    "sanitizedSymbol": "KARCY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xD0060c9bb744F79a4b53d13ECF045AE6D050B706",
+    "lpNftId": "1264016",
+    "lockerAddress": "0xFf7cCe75d1f05C9C35949a2e864e2c162AffE08D"
+  },
+  "clankerInfo": null
+}

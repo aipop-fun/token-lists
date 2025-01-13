@@ -1,0 +1,22 @@
+{
+  "name": "AnonGay",
+  "symbol": "AnonGay",
+  "decimals": 18,
+  "description": "AnonGay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonGay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonGay",
+  "addresses": {
+    "8453": "0x125b278483888ff89b788bf2b41d07574014bf52"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonGay",
+    "sanitizedSymbol": "ANONGAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd02E817f734ce42EbBeFfdB0D2dcC76E3D7182C0",
+    "lpNftId": "1332763",
+    "lockerAddress": "0x3C21c97ee6E0a0E707B5C5E6637728489a3ae897"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Duck Base",
+  "symbol": "Duck Base",
+  "decimals": 18,
+  "description": "Duck Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Duck%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Duck Base",
+  "addresses": {
+    "8453": "0x2e7a454b06528fbced794898574e9517f856451c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Duck Base",
+    "sanitizedSymbol": "DUCK_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD4a2ddb027eceC180435488B231cb09a5B63e160",
+    "lpNftId": "1317222",
+    "lockerAddress": "0x029eCC82CBD8C46610bd12B0Fa6b4Aff885977DB"
+  },
+  "clankerInfo": null
+}

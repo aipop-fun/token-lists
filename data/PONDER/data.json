@@ -1,0 +1,22 @@
+{
+  "name": "Ponder",
+  "symbol": "Ponder",
+  "decimals": 18,
+  "description": "Ponder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ponder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ponder",
+  "addresses": {
+    "8453": "0x26c4d4cfc20e2b3a30f6e4ccb31ace36a7d3277f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ponder",
+    "sanitizedSymbol": "PONDER",
+    "created_at": "2024-12-10T02:46:37.289836",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395326",
+    "lockerAddress": "0x47bE08ff5927ebE3DDc79BE8873bf1EF165a7452"
+  },
+  "clankerInfo": null
+}

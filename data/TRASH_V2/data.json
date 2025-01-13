@@ -1,0 +1,22 @@
+{
+  "name": "Trash V2",
+  "symbol": "Trash V2",
+  "decimals": 18,
+  "description": "Trash V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trash%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trash V2",
+  "addresses": {
+    "8453": "0x37489148f23aa207ec806ceb7b12402e0f8c21e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trash V2",
+    "sanitizedSymbol": "TRASH_V2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8ddE615413F33eF5b2c5b9Dd9ebeE15E1279A7C6",
+    "lpNftId": "1324214",
+    "lockerAddress": "0x3f79D64090C72B8f451219eC575e21E308286895"
+  },
+  "clankerInfo": null
+}

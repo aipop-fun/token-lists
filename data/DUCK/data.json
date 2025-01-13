@@ -1,0 +1,22 @@
+{
+  "name": "DUCK",
+  "symbol": "DUCK",
+  "decimals": 18,
+  "description": "DUCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUCK",
+  "addresses": {
+    "8453": "0x11f97735fea3859e3abcfa0ffb86cd3acb901295"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUCK",
+    "sanitizedSymbol": "DUCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8C3e9573Ff9795f8ce0992EC93aBAf4445419B0E",
+    "lpNftId": "1374230",
+    "lockerAddress": "0xf383b6dA6256BEb5C2A9E8e80c5eFc0364c588A5"
+  },
+  "clankerInfo": null
+}

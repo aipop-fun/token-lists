@@ -1,0 +1,22 @@
+{
+  "name": "Moxinco",
+  "symbol": "Moxinco",
+  "decimals": 18,
+  "description": "Moxinco is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moxinco",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moxinco",
+  "addresses": {
+    "8453": "0x33a59220ba7310907575fa7a0bc23682c7999cdc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moxinco",
+    "sanitizedSymbol": "MOXINCO_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222671",
+    "lockerAddress": "0xC3d912A8B28f156cb44850779a2dC84DafB4776c"
+  },
+  "clankerInfo": null
+}

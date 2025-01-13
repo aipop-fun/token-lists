@@ -1,0 +1,22 @@
+{
+  "name": "Black anon Deploy",
+  "symbol": "Black anon Deploy",
+  "decimals": 18,
+  "description": "Black anon Deploy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20anon%20Deploy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black anon Deploy",
+  "addresses": {
+    "8453": "0x3d648cf4d57b156670d8feb2a46be614c695448a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black anon Deploy",
+    "sanitizedSymbol": "BLACK_ANON_DEPLOY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201524",
+    "lockerAddress": "0x833D8E8b47b41da00A797b9E17507F2F8d139952"
+  },
+  "clankerInfo": null
+}

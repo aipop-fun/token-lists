@@ -1,0 +1,22 @@
+{
+  "name": "Manny",
+  "symbol": "Manny",
+  "decimals": 18,
+  "description": "Manny is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Manny",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Manny",
+  "addresses": {
+    "8453": "0x0e55620d0b9342d9bccae77bdc75e81a319a0361"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Manny",
+    "sanitizedSymbol": "MANNY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5A65d3016d761F970B12920d9283B35000bb1Da2",
+    "lpNftId": "1268338",
+    "lockerAddress": "0x02Ef23301BB70e72EDbEB19ff897579bEf007448"
+  },
+  "clankerInfo": null
+}

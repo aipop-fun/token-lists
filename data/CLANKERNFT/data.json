@@ -1,0 +1,22 @@
+{
+  "name": "ClankerNFT",
+  "symbol": "ClankerNFT",
+  "decimals": 18,
+  "description": "ClankerNFT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerNFT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerNFT",
+  "addresses": {
+    "8453": "0x0c5323aba39ecf457f70e357dbf309068f0577f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerNFT",
+    "sanitizedSymbol": "CLANKERNFT",
+    "created_at": "2024-12-10T23:00:51.524283",
+    "deployer": "0x4751Fb19eB42ABC7a243064DE1f96758F5BAbe18",
+    "lpNftId": "1408203",
+    "lockerAddress": "0x869Bc0983B1396FFe6ECD7FebD2286fB7395adAD"
+  },
+  "clankerInfo": null
+}

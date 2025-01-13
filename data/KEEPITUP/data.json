@@ -1,0 +1,22 @@
+{
+  "name": "KEEPiTUP",
+  "symbol": "KEEPiTUP",
+  "decimals": 18,
+  "description": "KEEPiTUP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KEEPiTUP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KEEPiTUP",
+  "addresses": {
+    "8453": "0x07ffb49c263fec95c6dda7a96fedc522074e1b93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KEEPiTUP",
+    "sanitizedSymbol": "KEEPITUP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaaC470fD12C2b7209BcE56E7356c4b343bC9D653",
+    "lpNftId": "1331196",
+    "lockerAddress": "0x9BF9983Fcd26de49Dd53F6BC89f46DF7a5050a0B"
+  },
+  "clankerInfo": null
+}

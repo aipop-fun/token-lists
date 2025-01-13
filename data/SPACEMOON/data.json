@@ -1,0 +1,22 @@
+{
+  "name": "SpaceMoon",
+  "symbol": "SpaceMoon",
+  "decimals": 18,
+  "description": "SpaceMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpaceMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpaceMoon",
+  "addresses": {
+    "8453": "0x0e5dc90c59c18be490974ea0efcb96cf9b94aefb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpaceMoon",
+    "sanitizedSymbol": "SPACEMOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1b0be6056a9E9675C61309D14aB63b57048DC8BF",
+    "lpNftId": "1286654",
+    "lockerAddress": "0xbb4275024C21Bc9b98fDBBcF4B4bDAa4686bFc99"
+  },
+  "clankerInfo": null
+}

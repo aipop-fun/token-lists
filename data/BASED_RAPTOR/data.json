@@ -1,0 +1,22 @@
+{
+  "name": "Based Raptor",
+  "symbol": "Based Raptor",
+  "decimals": 18,
+  "description": "Based Raptor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Raptor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Raptor",
+  "addresses": {
+    "8453": "0x0e475d1be822e285b0daf3d94fac6d93cc95695e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Raptor",
+    "sanitizedSymbol": "BASED_RAPTOR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4CCa3f44208bEe3C363868471956Af0c1E2FFf05",
+    "lpNftId": "1337128",
+    "lockerAddress": "0xaad94995481BA1bE2ce8022Da58D664a82B983F4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DREAMPEPE",
+  "symbol": "DREAMPEPE",
+  "decimals": 18,
+  "description": "DREAMPEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DREAMPEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DREAMPEPE",
+  "addresses": {
+    "8453": "0x05ce39f6277263adb5d7e6020cbcef7e14d716c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DREAMPEPE",
+    "sanitizedSymbol": "DREAMPEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1287797",
+    "lockerAddress": "0x647415CeF80c028b9A0ADa6AA455757719a84999"
+  },
+  "clankerInfo": null
+}

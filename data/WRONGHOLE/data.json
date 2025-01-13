@@ -1,0 +1,22 @@
+{
+  "name": "Wronghole",
+  "symbol": "Wronghole",
+  "decimals": 18,
+  "description": "Wronghole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wronghole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wronghole",
+  "addresses": {
+    "8453": "0x19c52b04004ce7b05d0ed95ab7dda1a9dcfe783c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wronghole",
+    "sanitizedSymbol": "WRONGHOLE",
+    "created_at": "2024-12-12T02:18:43.684932",
+    "deployer": "0x4542777597c938632a7B02D837e0B8F483D99B49",
+    "lpNftId": "1428606",
+    "lockerAddress": "0x9520774202C27b63223D26D8bf49133b33492F44"
+  },
+  "clankerInfo": null
+}

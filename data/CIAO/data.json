@@ -1,0 +1,22 @@
+{
+  "name": "Ciao",
+  "symbol": "Ciao",
+  "decimals": 18,
+  "description": "Ciao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ciao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ciao",
+  "addresses": {
+    "8453": "0x08141702cf3b16ee39646d08fbd7a9bbb2143d8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ciao",
+    "sanitizedSymbol": "CIAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x39fd7088530491Af658A3337B338627C35044E74",
+    "lpNftId": "1285414",
+    "lockerAddress": "0x9056e9d47E83b1eF08A555AdC685465c32a21e89"
+  },
+  "clankerInfo": null
+}

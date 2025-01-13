@@ -1,0 +1,22 @@
+{
+  "name": "clankton",
+  "symbol": "clankton",
+  "decimals": 18,
+  "description": "clankton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankton",
+  "addresses": {
+    "8453": "0x39df9531f5af09553b032b23092335cf666f10b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankton",
+    "sanitizedSymbol": "CLANKTON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1300657",
+    "lockerAddress": "0x1D21bf853607faC0F7Cf9a0f797b2Dda2aEc3A93"
+  },
+  "clankerInfo": null
+}

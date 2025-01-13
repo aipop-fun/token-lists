@@ -1,0 +1,22 @@
+{
+  "name": "just market buy",
+  "symbol": "just market buy",
+  "decimals": 18,
+  "description": "just market buy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20market%20buy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just market buy",
+  "addresses": {
+    "8453": "0x38e8a8124b8f7cc8bc7361dc2741fb730a5433d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just market buy",
+    "sanitizedSymbol": "JUST_MARKET_BUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1324316",
+    "lockerAddress": "0x5e5cD514B742cbFBDf0348A3Bbf0b3CbD87dB3f1"
+  },
+  "clankerInfo": null
+}

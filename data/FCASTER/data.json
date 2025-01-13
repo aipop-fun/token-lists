@@ -1,0 +1,22 @@
+{
+  "name": "FCASTER",
+  "symbol": "FCASTER",
+  "decimals": 18,
+  "description": "FCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FCASTER",
+  "addresses": {
+    "8453": "0x157d5be7f062681cecd28eea14737e2d774cacd9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FCASTER",
+    "sanitizedSymbol": "FCASTER",
+    "created_at": "2024-12-09T20:21:37.408684",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1391577",
+    "lockerAddress": "0xa7a8D0416c16dC069edFf46b7070d8D018324Cb3"
+  },
+  "clankerInfo": null
+}

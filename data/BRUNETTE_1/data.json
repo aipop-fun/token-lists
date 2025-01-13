@@ -1,0 +1,22 @@
+{
+  "name": "BRUNETTE",
+  "symbol": "BRUNETTE",
+  "decimals": 18,
+  "description": "BRUNETTE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRUNETTE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRUNETTE",
+  "addresses": {
+    "8453": "0x34c990ee5aa627e9304234cc59b0734163eac06b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRUNETTE",
+    "sanitizedSymbol": "BRUNETTE_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225924",
+    "lockerAddress": "0xf700b5b249111cD99894E6B66BB50Ba5DbAbB41a"
+  },
+  "clankerInfo": null
+}

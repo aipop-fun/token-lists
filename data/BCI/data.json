@@ -1,0 +1,22 @@
+{
+  "name": "bci",
+  "symbol": "bci",
+  "decimals": 18,
+  "description": "bci is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bci",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bci",
+  "addresses": {
+    "8453": "0x16a36e5af6b3863d8357c5323d679adafb113a18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bci",
+    "sanitizedSymbol": "BCI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218083",
+    "lockerAddress": "0x05d6E92e4395d49305d664882140C796Bdc99367"
+  },
+  "clankerInfo": null
+}

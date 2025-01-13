@@ -1,0 +1,22 @@
+{
+  "name": "MAGENTA",
+  "symbol": "MAGENTA",
+  "decimals": 18,
+  "description": "MAGENTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAGENTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAGENTA",
+  "addresses": {
+    "8453": "0x36cedcbf66d452fdc7e45ed2fc5b5c32b4098e37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAGENTA",
+    "sanitizedSymbol": "MAGENTA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142693",
+    "lockerAddress": "0x3969D96764e51D64C897407F0CF4c02cfEecdEbb"
+  },
+  "clankerInfo": null
+}

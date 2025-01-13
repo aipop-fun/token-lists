@@ -1,0 +1,22 @@
+{
+  "name": "Tyler the creator",
+  "symbol": "Tyler the creator",
+  "decimals": 18,
+  "description": "Tyler the creator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tyler%20the%20creator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tyler the creator",
+  "addresses": {
+    "8453": "0x20d45f2b2a4e1800a40b3cb72ffe85e3ef82d767"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tyler the creator",
+    "sanitizedSymbol": "TYLER_THE_CREATOR",
+    "created_at": "2024-12-11T03:21:17.663861",
+    "deployer": "0xA8B3b9cEAF20Da5479e72e98869ae249B420F9F9",
+    "lpNftId": "1411739",
+    "lockerAddress": "0xA7bA51358D1bb23Ff8fa99bBeC7a0DD1Fd920a72"
+  },
+  "clankerInfo": null
+}

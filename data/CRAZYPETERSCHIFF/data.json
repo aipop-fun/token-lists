@@ -1,0 +1,22 @@
+{
+  "name": "CrazyPeterSchiff",
+  "symbol": "CrazyPeterSchiff",
+  "decimals": 18,
+  "description": "CrazyPeterSchiff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrazyPeterSchiff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrazyPeterSchiff",
+  "addresses": {
+    "8453": "0x1c633c73b6c36050b61745d61ea46fcc21ae1fbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrazyPeterSchiff",
+    "sanitizedSymbol": "CRAZYPETERSCHIFF",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1329725",
+    "lockerAddress": "0x474963D6aa0339F72972F7Dbd00a87e14BfDCe9B"
+  },
+  "clankerInfo": null
+}

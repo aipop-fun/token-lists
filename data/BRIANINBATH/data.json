@@ -1,0 +1,22 @@
+{
+  "name": "BrianinBath",
+  "symbol": "BrianinBath",
+  "decimals": 18,
+  "description": "BrianinBath is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BrianinBath",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BrianinBath",
+  "addresses": {
+    "8453": "0x2c3dc54acfac58a689b9cb95f0e4fd4a3215ae12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BrianinBath",
+    "sanitizedSymbol": "BRIANINBATH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218570",
+    "lockerAddress": "0x519755904F4AF2706feA5ab58c9da7B3E2e53958"
+  },
+  "clankerInfo": null
+}

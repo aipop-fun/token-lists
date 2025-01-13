@@ -1,0 +1,22 @@
+{
+  "name": "one",
+  "symbol": "one",
+  "decimals": 18,
+  "description": "one is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=one",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "one",
+  "addresses": {
+    "8453": "0x386927a7ef2a8c06128ad99ee95ae805af8fe347"
+  },
+  "tokenInfo": {
+    "originalSymbol": "one",
+    "sanitizedSymbol": "ONE_3",
+    "created_at": "2024-12-11T09:48:44.44682",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1415835",
+    "lockerAddress": "0x08889C62018A6F82BDc8cDb4A9B77323c6230676"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DegenGuy",
+  "symbol": "DegenGuy",
+  "decimals": 18,
+  "description": "DegenGuy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenGuy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenGuy",
+  "addresses": {
+    "8453": "0x1d6a35f9351a709956064dff116649c643de9977"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenGuy",
+    "sanitizedSymbol": "DEGENGUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221027",
+    "lockerAddress": "0xd1f64eA2029b19702Dc2B42fca224E93EB3be1Db"
+  },
+  "clankerInfo": null
+}

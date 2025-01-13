@@ -1,0 +1,22 @@
+{
+  "name": "Blogcryptona Token",
+  "symbol": "Blogcryptona Token",
+  "decimals": 18,
+  "description": "Blogcryptona Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blogcryptona%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blogcryptona Token",
+  "addresses": {
+    "8453": "0x21111974435eb712056b96286525eb283319a9b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blogcryptona Token",
+    "sanitizedSymbol": "BLOGCRYPTONA_TOKEN",
+    "created_at": "2024-12-10T17:13:03.821222",
+    "deployer": "0xca32f6d4FA7d798ea153D4489645Ef1bC80ecb5f",
+    "lpNftId": "1404363",
+    "lockerAddress": "0xBa5145995E4Cb99da8d6637e375b2D21943Cbaf8"
+  },
+  "clankerInfo": null
+}

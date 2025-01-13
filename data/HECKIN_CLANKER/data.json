@@ -1,0 +1,22 @@
+{
+  "name": "heckin' clanker",
+  "symbol": "heckin' clanker",
+  "decimals": 18,
+  "description": "heckin' clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=heckin'%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "heckin' clanker",
+  "addresses": {
+    "8453": "0x1d6c737a457639e9417f1d392d643d906b31bb14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "heckin' clanker",
+    "sanitizedSymbol": "HECKIN_CLANKER",
+    "created_at": "2024-12-12T19:25:01.46214",
+    "deployer": "0x2ae9B5d66D83419dbc33696c9F126ff11De75b99",
+    "lpNftId": "1441636",
+    "lockerAddress": "0x438505BfEf05ee1391dE90d289c4253fF6086701"
+  },
+  "clankerInfo": null
+}

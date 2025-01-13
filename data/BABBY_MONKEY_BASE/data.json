@@ -1,0 +1,22 @@
+{
+  "name": "Babby Monkey Base",
+  "symbol": "Babby Monkey Base",
+  "decimals": 18,
+  "description": "Babby Monkey Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babby%20Monkey%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babby Monkey Base",
+  "addresses": {
+    "8453": "0x16a261745b869c51941856feee2749445ecd2442"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babby Monkey Base",
+    "sanitizedSymbol": "BABBY_MONKEY_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdF0CBFbF78644336B621215823fABCd115BADFA2",
+    "lpNftId": "1327172",
+    "lockerAddress": "0x181C04aD396d721376a53b71382583Dd0f58585D"
+  },
+  "clankerInfo": null
+}

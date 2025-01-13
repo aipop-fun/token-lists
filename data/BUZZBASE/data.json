@@ -1,0 +1,22 @@
+{
+  "name": "BUZZBASE",
+  "symbol": "BUZZBASE",
+  "decimals": 18,
+  "description": "BUZZBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUZZBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUZZBASE",
+  "addresses": {
+    "8453": "0x2ebf38f88fefeabecab0dfae588821fcd64b9374"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUZZBASE",
+    "sanitizedSymbol": "BUZZBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2a5c0Be72a5903B37b02Ce3A62302d89Ae49dFd1",
+    "lpNftId": "1320502",
+    "lockerAddress": "0xAB402F27f3CF6642cC056FaD483caaB8F695160d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "X APES",
+  "symbol": "X APES",
+  "decimals": 18,
+  "description": "X APES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=X%20APES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "X APES",
+  "addresses": {
+    "8453": "0x1878983db0daa9a560c6f5e7649346248747598e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "X APES",
+    "sanitizedSymbol": "X_APES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152999",
+    "lockerAddress": "0xCD9Bb424616D6341C6246259c3c6898b0D6b62fA"
+  },
+  "clankerInfo": null
+}

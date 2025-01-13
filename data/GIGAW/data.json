@@ -1,0 +1,22 @@
+{
+  "name": "GIGAW",
+  "symbol": "GIGAW",
+  "decimals": 18,
+  "description": "GIGAW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIGAW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIGAW",
+  "addresses": {
+    "8453": "0x31cff6e1de0b3a4e33cf410f71e689a0f9e80006"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIGAW",
+    "sanitizedSymbol": "GIGAW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152553",
+    "lockerAddress": "0xFEeF942C2d77B684C38523E8320bEB36a6AFf8b8"
+  },
+  "clankerInfo": null
+}

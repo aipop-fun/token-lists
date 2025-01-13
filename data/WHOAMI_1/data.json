@@ -1,0 +1,22 @@
+{
+  "name": "whoami",
+  "symbol": "whoami",
+  "decimals": 18,
+  "description": "whoami is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=whoami",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "whoami",
+  "addresses": {
+    "8453": "0x3415c1e8e9a78f23470fe9984ce03257c79a13cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "whoami",
+    "sanitizedSymbol": "WHOAMI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1280205",
+    "lockerAddress": "0xb41f7205A661079dad5429df78a60Ca95B8eFC16"
+  },
+  "clankerInfo": null
+}

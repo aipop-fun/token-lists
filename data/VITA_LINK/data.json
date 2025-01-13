@@ -1,0 +1,22 @@
+{
+  "name": "VITA LINK",
+  "symbol": "VITA LINK",
+  "decimals": 18,
+  "description": "VITA LINK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VITA%20LINK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VITA LINK",
+  "addresses": {
+    "8453": "0x1b3390d9d46fe0b3bea7412669fae45f33bd286d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VITA LINK",
+    "sanitizedSymbol": "VITA_LINK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd18ceCcBf97A392a1CF295Fdd66c61cFfC0aD049",
+    "lpNftId": "1324958",
+    "lockerAddress": "0x84D2F2239219783480eDA8f01B0cd9818A472DB8"
+  },
+  "clankerInfo": null
+}

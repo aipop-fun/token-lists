@@ -1,0 +1,22 @@
+{
+  "name": "Base Doomer",
+  "symbol": "Base Doomer",
+  "decimals": 18,
+  "description": "Base Doomer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Doomer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Doomer",
+  "addresses": {
+    "8453": "0x3a02a4587dd910b75b7388b00be4d5117554da21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Doomer",
+    "sanitizedSymbol": "BASE_DOOMER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEE0a4Eee549311E4dF6E374E0Cff3d84aA263e44",
+    "lpNftId": "1284522",
+    "lockerAddress": "0xA75AAC61BB8Daa30AB6C273710DFfdef7fecfC9C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tua",
+  "symbol": "tua",
+  "decimals": 18,
+  "description": "tua is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tua",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tua",
+  "addresses": {
+    "8453": "0x304c4f1a18b6356ef68f60e01c80f9e0afcb21b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tua",
+    "sanitizedSymbol": "TUA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA5c09e61e3E68845937497C0dBf9A2d7bDDe7Ffb",
+    "lpNftId": "1252967",
+    "lockerAddress": "0x852e47fE8e6e1967F53A5474D658BE225F707B90"
+  },
+  "clankerInfo": null
+}

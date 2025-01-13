@@ -1,0 +1,22 @@
+{
+  "name": "wild",
+  "symbol": "wild",
+  "decimals": 18,
+  "description": "wild is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wild",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wild",
+  "addresses": {
+    "8453": "0x1fa374fabb86430e768f591d884fa1dc3fd9803c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wild",
+    "sanitizedSymbol": "WILD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129067",
+    "lockerAddress": "0xa458c1D5CFdCD327f2b0C8950c0fae1c2774A3B5"
+  },
+  "clankerInfo": null
+}

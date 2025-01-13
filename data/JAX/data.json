@@ -1,0 +1,22 @@
+{
+  "name": "Jax",
+  "symbol": "Jax",
+  "decimals": 18,
+  "description": "Jax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jax",
+  "addresses": {
+    "8453": "0x1059b096df748edb60ee88554829934b8a023fea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jax",
+    "sanitizedSymbol": "JAX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbaa05273E5d554F81aEc49994A7f0c3c056Bca0F",
+    "lpNftId": "1289935",
+    "lockerAddress": "0x2b26BA372D152FC5883F3cF16B42d89545a60EA7"
+  },
+  "clankerInfo": null
+}

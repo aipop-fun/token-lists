@@ -1,0 +1,22 @@
+{
+  "name": "PENGUIN",
+  "symbol": "PENGUIN",
+  "decimals": 18,
+  "description": "PENGUIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PENGUIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PENGUIN",
+  "addresses": {
+    "8453": "0x1c3b9487b29b62881b4776321e08a4aeda5055ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PENGUIN",
+    "sanitizedSymbol": "PENGUIN_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1266386",
+    "lockerAddress": "0xd36a5C39dCC064A98de7e5c31E309C6f59B7d1b3"
+  },
+  "clankerInfo": null
+}

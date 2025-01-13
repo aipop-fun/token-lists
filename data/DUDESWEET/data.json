@@ -1,0 +1,22 @@
+{
+  "name": "dudesweet",
+  "symbol": "dudesweet",
+  "decimals": 18,
+  "description": "dudesweet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dudesweet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dudesweet",
+  "addresses": {
+    "8453": "0x1fde6e496fafe0ac2dab739bdd1bc688c0e91776"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dudesweet",
+    "sanitizedSymbol": "DUDESWEET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233971",
+    "lockerAddress": "0x38B08e0B163F25917413d381abeb97C8BB0d347d"
+  },
+  "clankerInfo": null
+}

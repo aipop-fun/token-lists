@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Moonraker",
+  "symbol": "Pepe Moonraker",
+  "decimals": 18,
+  "description": "Pepe Moonraker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Moonraker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Moonraker",
+  "addresses": {
+    "8453": "0x355684e88e6cb5ae8fceb4ed9f343d57862f2346"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Moonraker",
+    "sanitizedSymbol": "PEPE_MOONRAKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220443",
+    "lockerAddress": "0x6a326c3c8917eF0008400E0a633Aa26eC05d02e9"
+  },
+  "clankerInfo": null
+}

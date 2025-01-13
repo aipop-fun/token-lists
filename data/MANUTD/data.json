@@ -1,0 +1,22 @@
+{
+  "name": "ManUTD",
+  "symbol": "ManUTD",
+  "decimals": 18,
+  "description": "ManUTD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ManUTD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ManUTD",
+  "addresses": {
+    "8453": "0x04745cada9d2c2873a0db274785de94b8120c915"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ManUTD",
+    "sanitizedSymbol": "MANUTD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8C1906750e4f0C7b81172DCeD02F33D013695A80",
+    "lpNftId": "1311240",
+    "lockerAddress": "0x76b56A574726eFA4A9286d42e79C5e00c493C70A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clank the Halls",
+  "symbol": "Clank the Halls",
+  "decimals": 18,
+  "description": "Clank the Halls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20the%20Halls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank the Halls",
+  "addresses": {
+    "8453": "0x04ee8bca8e92b089c41c4979cbdb28afc1247ba2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank the Halls",
+    "sanitizedSymbol": "CLANK_THE_HALLS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2271fe6D76ab94352eF826d97445048Bd8C4d45F",
+    "lpNftId": "1283742",
+    "lockerAddress": "0x63C6C07e16080B1c9202A534ad0830aC3fEE4BfF"
+  },
+  "clankerInfo": null
+}

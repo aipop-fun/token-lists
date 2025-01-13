@@ -1,0 +1,22 @@
+{
+  "name": "jyin",
+  "symbol": "jyin",
+  "decimals": 18,
+  "description": "jyin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jyin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jyin",
+  "addresses": {
+    "8453": "0x40d0c3abdd53b8c8e8f97df8e74cfdd77e8cba0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jyin",
+    "sanitizedSymbol": "JYIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDe9A4BA2ECADce73aA1B357AC1b961aE412a576B",
+    "lpNftId": "1253380",
+    "lockerAddress": "0x66c74E5AAc797141B13cc155E9576be34cc64332"
+  },
+  "clankerInfo": null
+}

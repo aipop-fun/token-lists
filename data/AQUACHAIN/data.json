@@ -1,0 +1,22 @@
+{
+  "name": "AquaChain",
+  "symbol": "AquaChain",
+  "decimals": 18,
+  "description": "AquaChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AquaChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AquaChain",
+  "addresses": {
+    "8453": "0x06982b276cdb9fac4e58fd53bcaabeefefa95c2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AquaChain",
+    "sanitizedSymbol": "AQUACHAIN",
+    "created_at": "2024-12-08T23:59:14.091823",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211532",
+    "lockerAddress": "0x2bEFF6E44e8b8AFAD3bE8c0079f3FC2FEA1e3D0c"
+  },
+  "clankerInfo": null
+}

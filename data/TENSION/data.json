@@ -1,0 +1,22 @@
+{
+  "name": "TENSION",
+  "symbol": "TENSION",
+  "decimals": 18,
+  "description": "TENSION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TENSION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TENSION",
+  "addresses": {
+    "8453": "0x0387dffeab0671e309e98c3eaa67c2fbe9cf7892"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TENSION",
+    "sanitizedSymbol": "TENSION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120414",
+    "lockerAddress": "0x71BB81CF038FeB79C5d8E15f1d1981DFB6a46feA"
+  },
+  "clankerInfo": null
+}

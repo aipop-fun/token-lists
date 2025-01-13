@@ -1,0 +1,22 @@
+{
+  "name": "Bittu",
+  "symbol": "Bittu",
+  "decimals": 18,
+  "description": "Bittu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bittu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bittu",
+  "addresses": {
+    "8453": "0x151635451491d7c6e3055757dc5afd1d29a4676a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bittu",
+    "sanitizedSymbol": "BITTU",
+    "created_at": "2024-12-09T00:55:19.27318",
+    "deployer": "0xf3f3659d43D7c09050cf64418a724E44f4Ee3300",
+    "lpNftId": "1377134",
+    "lockerAddress": "0x73532D7192099c9384AcD243f02b8b048E70C1fa"
+  },
+  "clankerInfo": null
+}

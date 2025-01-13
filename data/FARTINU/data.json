@@ -1,0 +1,22 @@
+{
+  "name": "fartinu",
+  "symbol": "fartinu",
+  "decimals": 18,
+  "description": "fartinu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fartinu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fartinu",
+  "addresses": {
+    "8453": "0x3f94c7071300b107261a95732ae154421fce72a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fartinu",
+    "sanitizedSymbol": "FARTINU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x07bEE364171D6fE1b9e44aA879fbA81b5be91254",
+    "lpNftId": "1265334",
+    "lockerAddress": "0xC60Bea4d4C4C1610AE52EcE91C83CE94232C12f8"
+  },
+  "clankerInfo": null
+}

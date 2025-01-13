@@ -1,0 +1,22 @@
+{
+  "name": "olkf",
+  "symbol": "olkf",
+  "decimals": 18,
+  "description": "olkf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=olkf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "olkf",
+  "addresses": {
+    "8453": "0x20a9b88f0a53a13aef986d120c6890ad8722558d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "olkf",
+    "sanitizedSymbol": "OLKF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1716d25030565F290DFf775Ad19Ea377b78ab9bB",
+    "lpNftId": "1287271",
+    "lockerAddress": "0xa5698B4BcEFA669B21f46262e23fd931556ee69b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sweetness",
+  "symbol": "Sweetness",
+  "decimals": 18,
+  "description": "Sweetness is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sweetness",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sweetness",
+  "addresses": {
+    "8453": "0x138ee65940a60d229744f52a524c20230f0d3da9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sweetness",
+    "sanitizedSymbol": "SWEETNESS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC69dc6276C9E5f89546BEc737B0588351E932DeA",
+    "lpNftId": "1330120",
+    "lockerAddress": "0xfE9D8E564207F5e3e5Ce2F507e96229531EE52a5"
+  },
+  "clankerInfo": null
+}

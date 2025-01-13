@@ -1,0 +1,22 @@
+{
+  "name": "ROCKER",
+  "symbol": "ROCKER",
+  "decimals": 18,
+  "description": "ROCKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROCKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROCKER",
+  "addresses": {
+    "8453": "0x158a149ea862a2a61dca01325f15a995a54772e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROCKER",
+    "sanitizedSymbol": "ROCKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfC4842d215753B38C66F0f903DC71F4C40D11ec7",
+    "lpNftId": "1330269",
+    "lockerAddress": "0xF9229050D00cCfEBC1a0737C283580fc8428DAd8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DUDE",
+  "symbol": "DUDE",
+  "decimals": 18,
+  "description": "DUDE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUDE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUDE",
+  "addresses": {
+    "8453": "0x3d587e0dfb67e02f815188b9f0b4b4d0f9a32ab0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUDE",
+    "sanitizedSymbol": "DUDE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1286194",
+    "lockerAddress": "0xB7975739a7077ddBfa235f784b5B1dc5FAFCf8c6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BaseZoomer",
+  "symbol": "BaseZoomer",
+  "decimals": 18,
+  "description": "BaseZoomer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseZoomer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseZoomer",
+  "addresses": {
+    "8453": "0x03408904d044b95508afee689473ca9f75b47c5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseZoomer",
+    "sanitizedSymbol": "BASEZOOMER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224799",
+    "lockerAddress": "0x8DB4D9682A0e7B7d2c92Fd70b8D2CbFA74ff4de4"
+  },
+  "clankerInfo": null
+}

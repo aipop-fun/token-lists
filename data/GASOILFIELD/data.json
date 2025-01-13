@@ -1,0 +1,22 @@
+{
+  "name": "GasOilField",
+  "symbol": "GasOilField",
+  "decimals": 18,
+  "description": "GasOilField is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GasOilField",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GasOilField",
+  "addresses": {
+    "8453": "0x06bbe5dabd84cf1694d93b80e52389a065e14409"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GasOilField",
+    "sanitizedSymbol": "GASOILFIELD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3eb0A1cd9e30AdC88BEE5C1bfF74D19191496fd1",
+    "lpNftId": "1319984",
+    "lockerAddress": "0xb5970512EA3248F5A0b08F16C7e4D67F1b063a9B"
+  },
+  "clankerInfo": null
+}

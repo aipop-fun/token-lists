@@ -1,0 +1,22 @@
+{
+  "name": "Degun",
+  "symbol": "Degun",
+  "decimals": 18,
+  "description": "Degun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degun",
+  "addresses": {
+    "8453": "0x2660b03c5ad82b0ab2c8607787d79bb1a323023d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degun",
+    "sanitizedSymbol": "DEGUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4c4Ab134AC8B35545B1b9a589027a971DC0E9368",
+    "lpNftId": "1324698",
+    "lockerAddress": "0xDa12a1d0aa1940aFF2Df42DD19bf891f70CE0777"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RIPContractClankers",
+  "symbol": "RIPContractClankers",
+  "decimals": 18,
+  "description": "RIPContractClankers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RIPContractClankers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RIPContractClankers",
+  "addresses": {
+    "8453": "0x386457d2f82ddcb80608d38f741c37169c1982ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RIPContractClankers",
+    "sanitizedSymbol": "RIPCONTRACTCLANKERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xcBd28aBB72Ea2a4edEbB2bE5D8BcEd06329D83b1",
+    "lpNftId": "1246117",
+    "lockerAddress": "0xCE316651CB12463C8126DCEd95B2f20cf498A16b"
+  },
+  "clankerInfo": null
+}

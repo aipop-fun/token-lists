@@ -1,0 +1,22 @@
+{
+  "name": "Steelers",
+  "symbol": "Steelers",
+  "decimals": 18,
+  "description": "Steelers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Steelers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Steelers",
+  "addresses": {
+    "8453": "0x03b595916e9ff55659db84f8227fd51ed7e04c01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Steelers",
+    "sanitizedSymbol": "STEELERS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x67243d6c3c3bDc2F59D2f74ba1949a02973a529d",
+    "lpNftId": "1280021",
+    "lockerAddress": "0xA1f10b05e0295B8985D57F4f3d5CcCe50aA373cE"
+  },
+  "clankerInfo": null
+}

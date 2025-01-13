@@ -1,0 +1,22 @@
+{
+  "name": "sickbiden",
+  "symbol": "sickbiden",
+  "decimals": 18,
+  "description": "sickbiden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sickbiden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sickbiden",
+  "addresses": {
+    "8453": "0x1b3efa6e93dfb8cc52de144123860eb3962e8c3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sickbiden",
+    "sanitizedSymbol": "SICKBIDEN",
+    "created_at": "2024-12-12T19:16:03.627527",
+    "deployer": "0x9928C3Ee27d2C3EE6dF76ddcA35f42AC1B86b8dD",
+    "lpNftId": "1441492",
+    "lockerAddress": "0x025de0B1B9228dd7d224B7e3A666e2fF549cbc3c"
+  },
+  "clankerInfo": null
+}

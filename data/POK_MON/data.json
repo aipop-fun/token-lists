@@ -1,0 +1,22 @@
+{
+  "name": "POKÉMON",
+  "symbol": "POKÉMON",
+  "decimals": 18,
+  "description": "POKÉMON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POK%C3%89MON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POKÉMON",
+  "addresses": {
+    "8453": "0x3ea3c6cf035e9df0facf2900b25582cf0ad19dc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POKÉMON",
+    "sanitizedSymbol": "POK_MON",
+    "created_at": "2024-12-11T15:14:59.532295",
+    "deployer": "0xD37EE843d8a906912543F01E43f13fD7F7753EE2",
+    "lpNftId": "1420857",
+    "lockerAddress": "0x0F9C751AD77d096a2e699e769Ee88D5BD43cFE10"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OMNI BASE",
+  "symbol": "OMNI BASE",
+  "decimals": 18,
+  "description": "OMNI BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OMNI%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OMNI BASE",
+  "addresses": {
+    "8453": "0x26310597465e8c45427a773e5f5a38313e5d8a5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OMNI BASE",
+    "sanitizedSymbol": "OMNI_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1325473",
+    "lockerAddress": "0xBD0a7caf947000c7F08a71790F31fCf1dBa9C4d2"
+  },
+  "clankerInfo": null
+}

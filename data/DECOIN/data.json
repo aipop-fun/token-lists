@@ -1,0 +1,22 @@
+{
+  "name": "Decoin",
+  "symbol": "Decoin",
+  "decimals": 18,
+  "description": "Decoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Decoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Decoin",
+  "addresses": {
+    "8453": "0x3502cbe13b61990145488d11e87727c0227c1ec8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Decoin",
+    "sanitizedSymbol": "DECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1916dB2419f06A5E351Df2e7eb376cAA9c424c7f",
+    "lpNftId": "1287535",
+    "lockerAddress": "0xC2956A435754cA710E3441059BcC1dcf9E445122"
+  },
+  "clankerInfo": null
+}

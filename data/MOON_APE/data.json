@@ -1,0 +1,22 @@
+{
+  "name": "moon ape",
+  "symbol": "moon ape",
+  "decimals": 18,
+  "description": "moon ape is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moon%20ape",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moon ape",
+  "addresses": {
+    "8453": "0x01d2fca25d28f9084779a63722eedcda06c1f9e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moon ape",
+    "sanitizedSymbol": "MOON_APE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9C51532Ef51ab720514b5acAf97Fe6C600FbFb54",
+    "lpNftId": "1339006",
+    "lockerAddress": "0xE6E7e8F07A0137e2Ed3086A40ffE387525F56C21"
+  },
+  "clankerInfo": null
+}

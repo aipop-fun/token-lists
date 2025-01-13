@@ -1,0 +1,22 @@
+{
+  "name": "PEPERONI",
+  "symbol": "PEPERONI",
+  "decimals": 18,
+  "description": "PEPERONI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPERONI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPERONI",
+  "addresses": {
+    "8453": "0x2eb01006929a3982850d7331ff375d684517f6bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPERONI",
+    "sanitizedSymbol": "PEPERONI",
+    "created_at": "2024-12-12T13:38:33.748278",
+    "deployer": "0x87B79fF081fB94E6dF83653120D039eB5914C423",
+    "lpNftId": "1435222",
+    "lockerAddress": "0xA25127d042E6201B87B68245AF05913A62141747"
+  },
+  "clankerInfo": null
+}

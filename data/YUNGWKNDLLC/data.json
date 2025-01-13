@@ -1,0 +1,22 @@
+{
+  "name": "yungwkndllc",
+  "symbol": "yungwkndllc",
+  "decimals": 18,
+  "description": "yungwkndllc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yungwkndllc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yungwkndllc",
+  "addresses": {
+    "8453": "0x2bd92f2a7cd66c47dafd7d91cae3c5239aa26411"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yungwkndllc",
+    "sanitizedSymbol": "YUNGWKNDLLC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234707",
+    "lockerAddress": "0xd651D49389f189C9036b2C8e4DAdE987acc32756"
+  },
+  "clankerInfo": null
+}

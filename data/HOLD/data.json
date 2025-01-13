@@ -1,0 +1,22 @@
+{
+  "name": "HOLD",
+  "symbol": "HOLD",
+  "decimals": 18,
+  "description": "HOLD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOLD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOLD",
+  "addresses": {
+    "8453": "0x0f9e7758fc684c7556ee936f609b5693af2a7b21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOLD",
+    "sanitizedSymbol": "HOLD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129561",
+    "lockerAddress": "0x3DFa888897B73eE7a3C7F7bdF78716A33e89C8A2"
+  },
+  "clankerInfo": null
+}

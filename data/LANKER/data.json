@@ -1,0 +1,22 @@
+{
+  "name": "lanker",
+  "symbol": "lanker",
+  "decimals": 18,
+  "description": "lanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lanker",
+  "addresses": {
+    "8453": "0x1874c8cb3f4300698f5307fdb2d279add03dbe75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lanker",
+    "sanitizedSymbol": "LANKER",
+    "created_at": "2024-12-12T15:21:10.498224",
+    "deployer": "0x4208C9f1fcebD37bdA2d21eA783E5dc7E0A2978a",
+    "lpNftId": "1437037",
+    "lockerAddress": "0x1438FCAe5E2e36dd3bBf4f8FA2b04FdBe31A02Dd"
+  },
+  "clankerInfo": null
+}

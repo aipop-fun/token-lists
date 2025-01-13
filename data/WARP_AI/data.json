@@ -1,0 +1,22 @@
+{
+  "name": "WARP AI",
+  "symbol": "WARP AI",
+  "decimals": 18,
+  "description": "WARP AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARP%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARP AI",
+  "addresses": {
+    "8453": "0x1afdc06910704aba5856562f73190eb13680c4f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARP AI",
+    "sanitizedSymbol": "WARP_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1285273",
+    "lockerAddress": "0xE9b4724a818fC4ae6A94E69ef3FE8600D1567881"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DogWifSanta",
+  "symbol": "DogWifSanta",
+  "decimals": 18,
+  "description": "DogWifSanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogWifSanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogWifSanta",
+  "addresses": {
+    "8453": "0x15959dcbff6373bf677085d91768fa44c68832ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogWifSanta",
+    "sanitizedSymbol": "DOGWIFSANTA",
+    "created_at": "2024-12-09T20:24:25.893729",
+    "deployer": "0x2A22C10e9CA60427A0091c0807A200a8d5c80B0A",
+    "lpNftId": "1391609",
+    "lockerAddress": "0x7b3D6f4a2054e31626eC5a522A3f5f7589fea962"
+  },
+  "clankerInfo": null
+}

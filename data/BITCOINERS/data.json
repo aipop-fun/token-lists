@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoiners",
+  "symbol": "Bitcoiners",
+  "decimals": 18,
+  "description": "Bitcoiners is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoiners",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoiners",
+  "addresses": {
+    "8453": "0x3faeb234c655855b17b119c4f94e6682767c66e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoiners",
+    "sanitizedSymbol": "BITCOINERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1332446",
+    "lockerAddress": "0xD545059d6f8093E1537Ce39b6B09E9A416bB6A6E"
+  },
+  "clankerInfo": null
+}

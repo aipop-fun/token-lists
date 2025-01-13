@@ -1,0 +1,22 @@
+{
+  "name": "MALARIO",
+  "symbol": "MALARIO",
+  "decimals": 18,
+  "description": "MALARIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MALARIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MALARIO",
+  "addresses": {
+    "8453": "0x11c8ac93e79e5eecf7164b2fe7d87d0b8f0646a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MALARIO",
+    "sanitizedSymbol": "MALARIO",
+    "created_at": "2024-12-12T11:28:56.670089",
+    "deployer": "0x832A1c22272Ba7d57223f05312A7352A8F83063E",
+    "lpNftId": "1433394",
+    "lockerAddress": "0xD523527B703892C4F1391f17819388e111579DA6"
+  },
+  "clankerInfo": null
+}

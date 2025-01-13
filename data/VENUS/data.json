@@ -1,0 +1,22 @@
+{
+  "name": "VENUS",
+  "symbol": "VENUS",
+  "decimals": 18,
+  "description": "VENUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VENUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VENUS",
+  "addresses": {
+    "8453": "0x27bec3d352e1c3cab78d50050a942f94df9ef10c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VENUS",
+    "sanitizedSymbol": "VENUS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFD0C1D0F568B82CacB5646bC157bCDb1D504fd1",
+    "lpNftId": "1305884",
+    "lockerAddress": "0xBA66bf613242b1950e50F20B6bD1B24E2f08bD8A"
+  },
+  "clankerInfo": null
+}

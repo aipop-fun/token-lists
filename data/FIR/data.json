@@ -1,0 +1,22 @@
+{
+  "name": "FIR",
+  "symbol": "FIR",
+  "decimals": 18,
+  "description": "FIR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FIR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FIR",
+  "addresses": {
+    "8453": "0x0b3daadf0446267fe9893aa7fb13618ae3244635"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FIR",
+    "sanitizedSymbol": "FIR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdA079046C5676190F3E024cf992bB71A7855C590",
+    "lpNftId": "1285457",
+    "lockerAddress": "0xeD1a541cefB17eeee5e0d299402993BBAc637c91"
+  },
+  "clankerInfo": null
+}

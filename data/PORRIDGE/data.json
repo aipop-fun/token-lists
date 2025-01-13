@@ -1,0 +1,22 @@
+{
+  "name": "porridge",
+  "symbol": "porridge",
+  "decimals": 18,
+  "description": "porridge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=porridge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "porridge",
+  "addresses": {
+    "8453": "0x214bb6f815dc0178cb489e6ec6d73f33306ddb9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "porridge",
+    "sanitizedSymbol": "PORRIDGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe0Af785Cea1946d8F69315c8Cdcb5dd491ddfb1D",
+    "lpNftId": "1315379",
+    "lockerAddress": "0xa8BAe82090eEdEd4eC3a6b0e03EBa94ed94063e7"
+  },
+  "clankerInfo": null
+}

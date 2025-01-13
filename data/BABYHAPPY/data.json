@@ -1,0 +1,22 @@
+{
+  "name": "BabyHappy",
+  "symbol": "BabyHappy",
+  "decimals": 18,
+  "description": "BabyHappy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyHappy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyHappy",
+  "addresses": {
+    "8453": "0x1ca94fa4f2ba60f879d661d7188b24e5900c17cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyHappy",
+    "sanitizedSymbol": "BABYHAPPY",
+    "created_at": "2024-12-11T04:39:23.665228",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1412657",
+    "lockerAddress": "0x5aF887FC813E85899Bce5480110Ef9bb7c4b0483"
+  },
+  "clankerInfo": null
+}

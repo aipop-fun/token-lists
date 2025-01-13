@@ -1,0 +1,22 @@
+{
+  "name": "Elysium",
+  "symbol": "Elysium",
+  "decimals": 18,
+  "description": "Elysium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elysium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elysium",
+  "addresses": {
+    "8453": "0x0e99c3f35cc1dc22c91c1370b7d0a317de960c27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elysium",
+    "sanitizedSymbol": "ELYSIUM",
+    "created_at": "2024-12-12T16:10:04.68715",
+    "deployer": "0x38155FCCFaB6A34931CE38CF7acDc0441Ec25967",
+    "lpNftId": "1437994",
+    "lockerAddress": "0x28f9f809921ffE873F5010999FEB3226331a70c9"
+  },
+  "clankerInfo": null
+}

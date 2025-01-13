@@ -1,0 +1,22 @@
+{
+  "name": "Newton",
+  "symbol": "Newton",
+  "decimals": 18,
+  "description": "Newton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Newton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Newton",
+  "addresses": {
+    "8453": "0x2ad9ff4e02d35e58797418103de095ee1b8aa598"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Newton",
+    "sanitizedSymbol": "NEWTON_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA802EedBa8C8C9959cC7cb47CA536a06D485DcfB",
+    "lpNftId": "1327725",
+    "lockerAddress": "0xEac95Ae4D825E07Eb9e306CBF71a15c71d93F24b"
+  },
+  "clankerInfo": null
+}

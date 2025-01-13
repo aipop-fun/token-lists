@@ -1,0 +1,22 @@
+{
+  "name": "ZAP",
+  "symbol": "ZAP",
+  "decimals": 18,
+  "description": "ZAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZAP",
+  "addresses": {
+    "8453": "0x3564410bb35ed5001c29f8a23c8b8228cd6ae092"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZAP",
+    "sanitizedSymbol": "ZAP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216690",
+    "lockerAddress": "0x989D74e9A6FbC8aA6804AECb9bdeA004ecBf15b5"
+  },
+  "clankerInfo": null
+}

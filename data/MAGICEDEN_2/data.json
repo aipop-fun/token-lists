@@ -1,0 +1,22 @@
+{
+  "name": "MagicEden",
+  "symbol": "MagicEden",
+  "decimals": 18,
+  "description": "MagicEden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MagicEden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MagicEden",
+  "addresses": {
+    "8453": "0x1c9121e7a57e306ad52f1a14d9e6e52ab8a5268c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MagicEden",
+    "sanitizedSymbol": "MAGICEDEN_2",
+    "created_at": "2024-12-10T15:31:41.453923",
+    "deployer": "0x0052b052857dff72fecD83e22edb191e6F65d992",
+    "lpNftId": "1402736",
+    "lockerAddress": "0x4Ae22ef29F299B4cCcc5827F65128d4354A250a0"
+  },
+  "clankerInfo": null
+}

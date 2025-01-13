@@ -1,0 +1,22 @@
+{
+  "name": "Celestial Nexus",
+  "symbol": "Celestial Nexus",
+  "decimals": 18,
+  "description": "Celestial Nexus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Celestial%20Nexus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Celestial Nexus",
+  "addresses": {
+    "8453": "0x1bc1203cc862ea5a280fc8d44ca711add029927f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Celestial Nexus",
+    "sanitizedSymbol": "CELESTIAL_NEXUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163800",
+    "lockerAddress": "0xb9A1d146Aa035DCbD079F7799B249fA1B86C8106"
+  },
+  "clankerInfo": null
+}

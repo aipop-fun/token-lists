@@ -1,0 +1,22 @@
+{
+  "name": "KAIZEN",
+  "symbol": "KAIZEN",
+  "decimals": 18,
+  "description": "KAIZEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KAIZEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KAIZEN",
+  "addresses": {
+    "8453": "0x22fd6b9f3f982234ff0aa9a461b50fd10da97c07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KAIZEN",
+    "sanitizedSymbol": "KAIZEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196977",
+    "lockerAddress": "0x433babd436d2582D4284992d1E66e117B8Cff87B"
+  },
+  "clankerInfo": null
+}

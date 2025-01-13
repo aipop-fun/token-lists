@@ -1,0 +1,22 @@
+{
+  "name": "WoWoW",
+  "symbol": "WoWoW",
+  "decimals": 18,
+  "description": "WoWoW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WoWoW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WoWoW",
+  "addresses": {
+    "8453": "0x4014db4b1f4524ae3b534e634a364876ec1ec65b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WoWoW",
+    "sanitizedSymbol": "WOWOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119466",
+    "lockerAddress": "0xfa6AC4dFd0440EFfDA98aa9904F6f47Ff1276bA5"
+  },
+  "clankerInfo": null
+}

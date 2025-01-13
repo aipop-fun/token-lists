@@ -1,0 +1,22 @@
+{
+  "name": "NUBII",
+  "symbol": "NUBII",
+  "decimals": 18,
+  "description": "NUBII is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NUBII",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NUBII",
+  "addresses": {
+    "8453": "0x1b498f8439c47c14bfaf48c7df3b1caa957ede68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NUBII",
+    "sanitizedSymbol": "NUBII",
+    "created_at": "2024-12-12T20:13:41.325152",
+    "deployer": "0xA4c0238f7976031AfA424259E9123E0188438F68",
+    "lpNftId": "1442122",
+    "lockerAddress": "0x3906eb04Dc03B7898c7aEB908f5D1BFe7863878e"
+  },
+  "clankerInfo": null
+}

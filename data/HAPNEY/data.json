@@ -1,0 +1,22 @@
+{
+  "name": "HAPNEY",
+  "symbol": "HAPNEY",
+  "decimals": 18,
+  "description": "HAPNEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAPNEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAPNEY",
+  "addresses": {
+    "8453": "0x1ff9d67e6b4a2f09ae3413510c62e6cf5e9db3ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAPNEY",
+    "sanitizedSymbol": "HAPNEY",
+    "created_at": "2024-12-10T22:05:02.885106",
+    "deployer": "0xa17aEc61cfF8B34691b0585793b76ADf58A4731A",
+    "lpNftId": "1407734",
+    "lockerAddress": "0x328DcA41Cf470ceEE14EA130bd444cE52DdF73Dd"
+  },
+  "clankerInfo": null
+}

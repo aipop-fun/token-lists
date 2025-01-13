@@ -1,0 +1,22 @@
+{
+  "name": "Soggy Socks",
+  "symbol": "Soggy Socks",
+  "decimals": 18,
+  "description": "Soggy Socks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soggy%20Socks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soggy Socks",
+  "addresses": {
+    "8453": "0x257221f562e6846fc5f10580c15cb3b32ae5f76f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soggy Socks",
+    "sanitizedSymbol": "SOGGY_SOCKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123243",
+    "lockerAddress": "0x812D6a1810Fa8f06E675670BA310b87f53B92AD8"
+  },
+  "clankerInfo": null
+}

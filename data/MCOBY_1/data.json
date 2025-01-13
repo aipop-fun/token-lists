@@ -1,0 +1,22 @@
+{
+  "name": "MCOBY",
+  "symbol": "MCOBY",
+  "decimals": 18,
+  "description": "MCOBY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MCOBY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MCOBY",
+  "addresses": {
+    "8453": "0x18a2d5d1bd408ffe0c81c31ce012614394205b10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MCOBY",
+    "sanitizedSymbol": "MCOBY_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x33aCF8197D4DeD5E0C0354f22e8504d2798690EA",
+    "lpNftId": "1281171",
+    "lockerAddress": "0xf296D84667f093bD69Bd3879b5B87640Bd12fD3a"
+  },
+  "clankerInfo": null
+}

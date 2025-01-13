@@ -1,0 +1,22 @@
+{
+  "name": "bed brett",
+  "symbol": "bed brett",
+  "decimals": 18,
+  "description": "bed brett is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bed%20brett",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bed brett",
+  "addresses": {
+    "8453": "0x2a84df2abecf76d09c700cd5a71b93b6e4ec2727"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bed brett",
+    "sanitizedSymbol": "BED_BRETT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7fE0de0B4426532Dd8fe37DC271690aF8fDf9a6f",
+    "lpNftId": "1324896",
+    "lockerAddress": "0x76D4398ab28A5E67a5025DdA2eb2fcAE6Fc8D04b"
+  },
+  "clankerInfo": null
+}

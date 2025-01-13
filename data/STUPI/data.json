@@ -1,0 +1,22 @@
+{
+  "name": "stupi",
+  "symbol": "stupi",
+  "decimals": 18,
+  "description": "stupi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stupi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stupi",
+  "addresses": {
+    "8453": "0x0f0d8998a5b9b5e1351961a28ccf52018eef23c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stupi",
+    "sanitizedSymbol": "STUPI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1346612",
+    "lockerAddress": "0x7BE39bB3D1aEE90Dc6941B3E13232154f4A691D5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN BULLISH",
+  "symbol": "DEGEN BULLISH",
+  "decimals": 18,
+  "description": "DEGEN BULLISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20BULLISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN BULLISH",
+  "addresses": {
+    "8453": "0x39d609b1164cb47bbcc99bc8d98833240c8a5eb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN BULLISH",
+    "sanitizedSymbol": "DEGEN_BULLISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f44e85777C3e78a1a5e7e5c9B50e867C0e8A55e",
+    "lpNftId": "1329858",
+    "lockerAddress": "0xb115D5b9003451987b7F4C4e4794c08E61Dac259"
+  },
+  "clankerInfo": null
+}

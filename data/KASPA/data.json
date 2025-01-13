@@ -1,0 +1,22 @@
+{
+  "name": "kaspa",
+  "symbol": "kaspa",
+  "decimals": 18,
+  "description": "kaspa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kaspa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kaspa",
+  "addresses": {
+    "8453": "0x03dae4fd9807e8390c90054f00800d461b829fe6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kaspa",
+    "sanitizedSymbol": "KASPA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xD6e72c8D0B5f133fd34ddf061cf74215ae71A99C",
+    "lpNftId": "1252601",
+    "lockerAddress": "0xAF69CaDcCCfB64c2eaECEB87AcACB91413115861"
+  },
+  "clankerInfo": null
+}

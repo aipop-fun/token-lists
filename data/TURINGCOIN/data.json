@@ -1,0 +1,22 @@
+{
+  "name": "TuringCoin",
+  "symbol": "TuringCoin",
+  "decimals": 18,
+  "description": "TuringCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TuringCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TuringCoin",
+  "addresses": {
+    "8453": "0x2115b26a3f9a019cabf423edbb022f359cd60280"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TuringCoin",
+    "sanitizedSymbol": "TURINGCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235825",
+    "lockerAddress": "0x5600D77b5D241E9794f036052303E4FC08321b58"
+  },
+  "clankerInfo": null
+}

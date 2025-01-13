@@ -1,0 +1,22 @@
+{
+  "name": "BALD",
+  "symbol": "BALD",
+  "decimals": 18,
+  "description": "BALD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BALD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BALD",
+  "addresses": {
+    "8453": "0x1dc1c0328800358b5b2b7358b12f682922e2663a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BALD",
+    "sanitizedSymbol": "BALD_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226341",
+    "lockerAddress": "0x0EEC9648216c91C5360024e56C7073e00CF4d0DE"
+  },
+  "clankerInfo": null
+}

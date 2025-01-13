@@ -1,0 +1,22 @@
+{
+  "name": "Macidi",
+  "symbol": "Macidi",
+  "decimals": 18,
+  "description": "Macidi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Macidi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Macidi",
+  "addresses": {
+    "8453": "0x28d3e39903f6411e69f2d7e38139a6761883e497"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Macidi",
+    "sanitizedSymbol": "MACIDI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218468",
+    "lockerAddress": "0x1Dd6071E2fCe6Fb8925Bc93e7e70D7054ACfC5b8"
+  },
+  "clankerInfo": null
+}

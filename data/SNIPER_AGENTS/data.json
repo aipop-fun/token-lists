@@ -1,0 +1,22 @@
+{
+  "name": "Sniper Agents",
+  "symbol": "Sniper Agents",
+  "decimals": 18,
+  "description": "Sniper Agents is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sniper%20Agents",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sniper Agents",
+  "addresses": {
+    "8453": "0x1bc19d860aae3167c47222ade74e18ed03545d9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sniper Agents",
+    "sanitizedSymbol": "SNIPER_AGENTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa5E0Ce154FBA6d7cD9435b17A8D4BDbCD7BA4fa1",
+    "lpNftId": "1321584",
+    "lockerAddress": "0xFF8D060B4A0181BB9f6E032F5dedd13219334A20"
+  },
+  "clankerInfo": null
+}

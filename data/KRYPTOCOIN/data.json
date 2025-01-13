@@ -1,0 +1,22 @@
+{
+  "name": "KryptoCoin",
+  "symbol": "KryptoCoin",
+  "decimals": 18,
+  "description": "KryptoCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KryptoCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KryptoCoin",
+  "addresses": {
+    "8453": "0x0c19f27a67de1960972aa869e1ef041666025af4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KryptoCoin",
+    "sanitizedSymbol": "KRYPTOCOIN",
+    "created_at": "2024-12-12T21:16:32.895282",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1443339",
+    "lockerAddress": "0x31B15Ff3FE4c8C0Af921f8ae989FDf9714B26525"
+  },
+  "clankerInfo": null
+}

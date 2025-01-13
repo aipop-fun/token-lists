@@ -1,0 +1,22 @@
+{
+  "name": "WADU",
+  "symbol": "WADU",
+  "decimals": 18,
+  "description": "WADU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WADU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WADU",
+  "addresses": {
+    "8453": "0x14719775f840e1ca454e5d98571d11ff129894a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WADU",
+    "sanitizedSymbol": "WADU_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf801D686A239996aDDe2C2751F6255c0486E4d08",
+    "lpNftId": "1266625",
+    "lockerAddress": "0xfE0B5bE6DD1171138cF34abE1AA677ed29BfBbaF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bandell",
+  "symbol": "bandell",
+  "decimals": 18,
+  "description": "bandell is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bandell",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bandell",
+  "addresses": {
+    "8453": "0x31b553f0ba7c9e3f7617aa6a3fd698b4ed1ff375"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bandell",
+    "sanitizedSymbol": "BANDELL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x692C23387a06035bd5421bf58573cB95Fb008BE4",
+    "lpNftId": "1252425",
+    "lockerAddress": "0xd877F7ad34E2FBc29B2966408047E1426Ebf6E61"
+  },
+  "clankerInfo": null
+}

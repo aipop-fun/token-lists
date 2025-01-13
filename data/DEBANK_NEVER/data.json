@@ -1,0 +1,22 @@
+{
+  "name": "DEBANK NEVER",
+  "symbol": "DEBANK NEVER",
+  "decimals": 18,
+  "description": "DEBANK NEVER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEBANK%20NEVER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEBANK NEVER",
+  "addresses": {
+    "8453": "0x3976f4091a3a7aae315be2d972c747cbc5316fca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEBANK NEVER",
+    "sanitizedSymbol": "DEBANK_NEVER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x744f617343F03bB7C9d52A6D84F87Aa4b1017fAc",
+    "lpNftId": "1286107",
+    "lockerAddress": "0x157dbfE0011179c0701c83e0EcEE3942cC3B005d"
+  },
+  "clankerInfo": null
+}

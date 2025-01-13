@@ -1,0 +1,22 @@
+{
+  "name": "Cemycon",
+  "symbol": "Cemycon",
+  "decimals": 18,
+  "description": "Cemycon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cemycon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cemycon",
+  "addresses": {
+    "8453": "0x3cf9ec7adb6ebfd11262b1a8e46525454ff17532"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cemycon",
+    "sanitizedSymbol": "CEMYCON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2cbd423af8e64863a617d27E691b4f6Fb59db220",
+    "lpNftId": "1281952",
+    "lockerAddress": "0x29b644e2d3113860Fa44E941D9A3a25535713F04"
+  },
+  "clankerInfo": null
+}

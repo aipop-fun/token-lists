@@ -1,0 +1,22 @@
+{
+  "name": "chillgaito",
+  "symbol": "chillgaito",
+  "decimals": 18,
+  "description": "chillgaito is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillgaito",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillgaito",
+  "addresses": {
+    "8453": "0x198cb381d7bdc09aaaf0df791c57081c86bf9beb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillgaito",
+    "sanitizedSymbol": "CHILLGAITO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1242396",
+    "lockerAddress": "0x8c62f9c663E6dD6561D260Cb56E6110eCe44E2b5"
+  },
+  "clankerInfo": null
+}

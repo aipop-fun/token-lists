@@ -1,0 +1,22 @@
+{
+  "name": "50:50",
+  "symbol": "50:50",
+  "decimals": 18,
+  "description": "50:50 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=50%3A50",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "50:50",
+  "addresses": {
+    "8453": "0x2809f3921dace6023f2874a5183f49329c54411b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "50:50",
+    "sanitizedSymbol": "50_50",
+    "created_at": "2024-12-09T08:27:47.681038",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1384687",
+    "lockerAddress": "0x1B1ca099861DfAaBfC45FF09E800a202b9A12Adb"
+  },
+  "clankerInfo": null
+}

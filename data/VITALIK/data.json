@@ -1,0 +1,22 @@
+{
+  "name": "VITALIK",
+  "symbol": "VITALIK",
+  "decimals": 18,
+  "description": "VITALIK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VITALIK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VITALIK",
+  "addresses": {
+    "8453": "0x36bd9d3ae7c0ddcd024add3b0e5b027ccf1e3d61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VITALIK",
+    "sanitizedSymbol": "VITALIK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201435",
+    "lockerAddress": "0xD3e6C42906E723902b522253244BD0aB6e251981"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Derisking",
+  "symbol": "Derisking",
+  "decimals": 18,
+  "description": "Derisking is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Derisking",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Derisking",
+  "addresses": {
+    "8453": "0x04b8eff1b0227c0fe17b15c11d63e3c2a7426457"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Derisking",
+    "sanitizedSymbol": "DERISKING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218284",
+    "lockerAddress": "0xec9D6FB639A56Ed6F9740c4A8dB16393FF810951"
+  },
+  "clankerInfo": null
+}

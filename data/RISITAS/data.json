@@ -1,0 +1,22 @@
+{
+  "name": "risitas",
+  "symbol": "risitas",
+  "decimals": 18,
+  "description": "risitas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=risitas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "risitas",
+  "addresses": {
+    "8453": "0x399e490d141980471b5cc8bd9e1b3635fc3fc210"
+  },
+  "tokenInfo": {
+    "originalSymbol": "risitas",
+    "sanitizedSymbol": "RISITAS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1214253",
+    "lockerAddress": "0x8c0c1E8a6982c3AB10bF864e9E360f2Eb3c3d2D4"
+  },
+  "clankerInfo": null
+}

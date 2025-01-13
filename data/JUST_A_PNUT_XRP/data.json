@@ -1,0 +1,22 @@
+{
+  "name": "Just a pnut XRP",
+  "symbol": "Just a pnut XRP",
+  "decimals": 18,
+  "description": "Just a pnut XRP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20pnut%20XRP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a pnut XRP",
+  "addresses": {
+    "8453": "0x287a1c22ee0abcee181246209c9d2f37f706924b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a pnut XRP",
+    "sanitizedSymbol": "JUST_A_PNUT_XRP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1e184bfb48D03A86cA1bcd49944A75eC8Fd05ec5",
+    "lpNftId": "1311558",
+    "lockerAddress": "0x4748e97B07dA9a54dA4AB9967837aD1e369203A6"
+  },
+  "clankerInfo": null
+}

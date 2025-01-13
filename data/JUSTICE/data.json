@@ -1,0 +1,22 @@
+{
+  "name": "Justice",
+  "symbol": "Justice",
+  "decimals": 18,
+  "description": "Justice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Justice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Justice",
+  "addresses": {
+    "8453": "0x3b3703d5e74acff7c99a5c3eb33cf68a099adbce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Justice",
+    "sanitizedSymbol": "JUSTICE",
+    "created_at": "2024-12-09T00:11:28.805614",
+    "deployer": "0x4033a6e6Aba4A11eCB1f0E964B8e8A83e384cE58",
+    "lpNftId": "1376767",
+    "lockerAddress": "0x3E40c26aDC220AE8F5b993F4c26593EDd2971bc5"
+  },
+  "clankerInfo": null
+}

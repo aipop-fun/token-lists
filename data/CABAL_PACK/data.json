@@ -1,0 +1,22 @@
+{
+  "name": "CABAL PACK",
+  "symbol": "CABAL PACK",
+  "decimals": 18,
+  "description": "CABAL PACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CABAL%20PACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CABAL PACK",
+  "addresses": {
+    "8453": "0x13e42fb71c4d6c297fd6e4006b07a515def9b489"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CABAL PACK",
+    "sanitizedSymbol": "CABAL_PACK",
+    "created_at": "2024-12-09T05:07:29.192021",
+    "deployer": "0xced325d7A10E8a2Abe8436a71a2c858292f851df",
+    "lpNftId": "1382962",
+    "lockerAddress": "0x2E1307CAF6cF36d25622f55fF44BF96d220e2ED8"
+  },
+  "clankerInfo": null
+}

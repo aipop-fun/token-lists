@@ -1,0 +1,22 @@
+{
+  "name": "GrumpyWorld",
+  "symbol": "GrumpyWorld",
+  "decimals": 18,
+  "description": "GrumpyWorld is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GrumpyWorld",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GrumpyWorld",
+  "addresses": {
+    "8453": "0x2f2a5c477cabc57e2b20919e664098d06b8370fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GrumpyWorld",
+    "sanitizedSymbol": "GRUMPYWORLD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165749",
+    "lockerAddress": "0xA361A6De43FF94A5F3cA121bAa2836f320F72D3a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Koalition",
+  "symbol": "Koalition",
+  "decimals": 18,
+  "description": "Koalition is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Koalition",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Koalition",
+  "addresses": {
+    "8453": "0x2e6daab0ff2bf0d73c1260b1ffbf3028634f4f44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Koalition",
+    "sanitizedSymbol": "KOALITION_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE36070Cb88351B94605f8AE78Ccf92627c94814e",
+    "lpNftId": "1318631",
+    "lockerAddress": "0x3130484738C83458e186716a64CC4a3CB1f4D81F"
+  },
+  "clankerInfo": null
+}

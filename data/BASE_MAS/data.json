@@ -1,0 +1,22 @@
+{
+  "name": "BASE MAS",
+  "symbol": "BASE MAS",
+  "decimals": 18,
+  "description": "BASE MAS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20MAS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE MAS",
+  "addresses": {
+    "8453": "0x00790a29b929e2010ae37f4e208882635bc56ec4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE MAS",
+    "sanitizedSymbol": "BASE_MAS",
+    "created_at": "2024-12-09T15:33:25.416432",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1388584",
+    "lockerAddress": "0x22E41084cc35973ebd8110ffAf3fC6Ffe988A312"
+  },
+  "clankerInfo": null
+}

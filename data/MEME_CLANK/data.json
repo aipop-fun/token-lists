@@ -1,0 +1,22 @@
+{
+  "name": "Meme Clank",
+  "symbol": "Meme Clank",
+  "decimals": 18,
+  "description": "Meme Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Clank",
+  "addresses": {
+    "8453": "0x3e7dab5f35d46268ab09777cb2a7a4d3525fbc3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Clank",
+    "sanitizedSymbol": "MEME_CLANK",
+    "created_at": "2024-12-09T09:08:36.796475",
+    "deployer": "0x498a0c6816A0A7AA2765d640a18cfF8c69b83B78",
+    "lpNftId": "1385161",
+    "lockerAddress": "0xd27D8C6256d5C8d284B1fbC866F8Cc61EA87a60b"
+  },
+  "clankerInfo": null
+}

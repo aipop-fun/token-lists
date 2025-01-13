@@ -1,0 +1,22 @@
+{
+  "name": "HumanVsAI",
+  "symbol": "HumanVsAI",
+  "decimals": 18,
+  "description": "HumanVsAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HumanVsAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HumanVsAI",
+  "addresses": {
+    "8453": "0x137330918a16625e5e2ebd559056795056df93d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HumanVsAI",
+    "sanitizedSymbol": "HUMANVSAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf704285fb72c175593BE265adc88B9d5fd9Ec93F",
+    "lpNftId": "1309298",
+    "lockerAddress": "0xb729aE3777c46c3FEEb6B2Cf1f60C7131f810f0c"
+  },
+  "clankerInfo": null
+}

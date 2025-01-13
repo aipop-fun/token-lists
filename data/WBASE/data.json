@@ -1,0 +1,22 @@
+{
+  "name": "WBASE",
+  "symbol": "WBASE",
+  "decimals": 18,
+  "description": "WBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WBASE",
+  "addresses": {
+    "8453": "0x3d58ac3b2a5ef7f31b144e30e8f060795ea147ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WBASE",
+    "sanitizedSymbol": "WBASE",
+    "created_at": "2024-12-09T19:49:41.463921",
+    "deployer": "0x60245FBaFbe266c0E47bD33D007956425E33C975",
+    "lpNftId": "1391158",
+    "lockerAddress": "0xe4A2A48f700Db8261D30EBd16132090efD3CBdBB"
+  },
+  "clankerInfo": null
+}

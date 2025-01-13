@@ -1,0 +1,22 @@
+{
+  "name": "ghmoftin",
+  "symbol": "ghmoftin",
+  "decimals": 18,
+  "description": "ghmoftin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ghmoftin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ghmoftin",
+  "addresses": {
+    "8453": "0x3536e261f00f2207e8a6839d56eec9eb945adab3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ghmoftin",
+    "sanitizedSymbol": "GHMOFTIN",
+    "created_at": "2024-12-10T18:52:42.958713",
+    "deployer": "0x0afAC6A52082F0d0B300Bfb8d95683AA6Ea0696B",
+    "lpNftId": "1405794",
+    "lockerAddress": "0xC79c767539F280CFA711a253129c235CEaEea996"
+  },
+  "clankerInfo": null
+}

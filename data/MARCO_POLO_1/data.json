@@ -1,0 +1,22 @@
+{
+  "name": "Marco Polo",
+  "symbol": "Marco Polo",
+  "decimals": 18,
+  "description": "Marco Polo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marco%20Polo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marco Polo",
+  "addresses": {
+    "8453": "0x0fcc3a6e962337c2f2a4029383a2637f646760bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marco Polo",
+    "sanitizedSymbol": "MARCO_POLO_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9D7F0677A5a44B53F81F7fe90f2aCaEA034879BD",
+    "lpNftId": "1283874",
+    "lockerAddress": "0xe0887283a6Ab5238F3938605B4E1A5E3C2416f08"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Red Doge",
+  "symbol": "Red Doge",
+  "decimals": 18,
+  "description": "Red Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Doge",
+  "addresses": {
+    "8453": "0x24a2ba2408ef58fa427463f45fddbcc2b76033de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Doge",
+    "sanitizedSymbol": "RED_DOGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x506Eda046dEa4175E3445ee66333226d81ad811e",
+    "lpNftId": "1284867",
+    "lockerAddress": "0x62535CB6A2f38308D64730C5E921594b06174ba8"
+  },
+  "clankerInfo": null
+}

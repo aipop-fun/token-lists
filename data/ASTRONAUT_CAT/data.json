@@ -1,0 +1,22 @@
+{
+  "name": "Astronaut Cat",
+  "symbol": "Astronaut Cat",
+  "decimals": 18,
+  "description": "Astronaut Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Astronaut%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Astronaut Cat",
+  "addresses": {
+    "8453": "0x1af77e0cf809f5f5e669eeb9af6a2be56e380c5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Astronaut Cat",
+    "sanitizedSymbol": "ASTRONAUT_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173341",
+    "lockerAddress": "0x427982c815FfB0de19d7B1B10AA01D8Eb3a38504"
+  },
+  "clankerInfo": null
+}

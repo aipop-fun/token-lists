@@ -1,0 +1,22 @@
+{
+  "name": "AIClankerFant",
+  "symbol": "AIClankerFant",
+  "decimals": 18,
+  "description": "AIClankerFant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIClankerFant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIClankerFant",
+  "addresses": {
+    "8453": "0x41fd8ff86529179c3cd84e2f388302564ad57ebb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIClankerFant",
+    "sanitizedSymbol": "AICLANKERFANT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158697",
+    "lockerAddress": "0x9a6C18B9AB16627Ca72fE46feEf8E06f4fc1a741"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "calma",
+  "symbol": "calma",
+  "decimals": 18,
+  "description": "calma is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=calma",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "calma",
+  "addresses": {
+    "8453": "0x0522cd911419b625f56c9b3daa7dff5855150997"
+  },
+  "tokenInfo": {
+    "originalSymbol": "calma",
+    "sanitizedSymbol": "CALMA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDCDd3Ed9070dA9510E04e9c21Cb5E6Cf4eF53106",
+    "lpNftId": "1253369",
+    "lockerAddress": "0x76c77461C246D0f9f9a03a2e16edffE37E59f7c1"
+  },
+  "clankerInfo": null
+}

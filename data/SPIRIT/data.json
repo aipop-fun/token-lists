@@ -1,0 +1,22 @@
+{
+  "name": "Spirit",
+  "symbol": "Spirit",
+  "decimals": 18,
+  "description": "Spirit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spirit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spirit",
+  "addresses": {
+    "8453": "0x307f6f775fa25bb7f81ec8b8654637bba4935dff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spirit",
+    "sanitizedSymbol": "SPIRIT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3F5602a8a9664817aBc95bf0280a5a9F621f0287",
+    "lpNftId": "1267589",
+    "lockerAddress": "0x33460D96300E3A8ae813c19e837E93e59Cbd2BaB"
+  },
+  "clankerInfo": null
+}

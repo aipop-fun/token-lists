@@ -1,0 +1,22 @@
+{
+  "name": "bleuc",
+  "symbol": "bleuc",
+  "decimals": 18,
+  "description": "bleuc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bleuc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bleuc",
+  "addresses": {
+    "8453": "0x2dca488409cdf431cbd69beacd06c0d8d5d013b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bleuc",
+    "sanitizedSymbol": "BLEUC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x029f4057F3A615108781ef907f9872A2983b4206",
+    "lpNftId": "1308985",
+    "lockerAddress": "0x9640156f66f6cEb969ef93Eb8f0eadf9CDBa2FdA"
+  },
+  "clankerInfo": null
+}

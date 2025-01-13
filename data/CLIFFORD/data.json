@@ -1,0 +1,22 @@
+{
+  "name": "Clifford",
+  "symbol": "Clifford",
+  "decimals": 18,
+  "description": "Clifford is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clifford",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clifford",
+  "addresses": {
+    "8453": "0x0f956c681c1a2cabcf48305063e73b08b358c7a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clifford",
+    "sanitizedSymbol": "CLIFFORD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xa6b6586f3e07C0b28098046040D8B8A48D8b1727",
+    "lpNftId": "1267194",
+    "lockerAddress": "0x4aa6106210E10fd9a69E0A6dB31Bb712caC7f7D1"
+  },
+  "clankerInfo": null
+}

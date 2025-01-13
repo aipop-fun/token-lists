@@ -1,0 +1,22 @@
+{
+  "name": "JUICE",
+  "symbol": "JUICE",
+  "decimals": 18,
+  "description": "JUICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JUICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JUICE",
+  "addresses": {
+    "8453": "0x029c081f4b8b82133b682e79e2da062ac0f32d30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JUICE",
+    "sanitizedSymbol": "JUICE_2",
+    "created_at": "2024-12-12T20:08:27.133502",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1442080",
+    "lockerAddress": "0x66E188a76F324261C728368a7D7982bd20e67A6A"
+  },
+  "clankerInfo": null
+}

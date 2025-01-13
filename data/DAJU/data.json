@@ -1,0 +1,22 @@
+{
+  "name": "DAJU",
+  "symbol": "DAJU",
+  "decimals": 18,
+  "description": "DAJU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DAJU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DAJU",
+  "addresses": {
+    "8453": "0x2453aa466705a2fd06c84eb672c9cc897357070c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DAJU",
+    "sanitizedSymbol": "DAJU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE47B073b203304AADd934360f423deD58502A196",
+    "lpNftId": "1374381",
+    "lockerAddress": "0x983c191f05E37FC04FF3f3ae8b0Be3D20964958f"
+  },
+  "clankerInfo": null
+}

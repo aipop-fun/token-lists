@@ -1,0 +1,22 @@
+{
+  "name": "JimiCat",
+  "symbol": "JimiCat",
+  "decimals": 18,
+  "description": "JimiCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JimiCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JimiCat",
+  "addresses": {
+    "8453": "0x1acf7b9269464306341108658cd2c29715de52b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JimiCat",
+    "sanitizedSymbol": "JIMICAT",
+    "created_at": "2024-12-09T07:02:35.014415",
+    "deployer": "0x3B781c73e3D7d3c59781E08933a19ecD5e61EAC3",
+    "lpNftId": "1384236",
+    "lockerAddress": "0xf54B8cD9046303f4ddAD4620BDcD5813A72329e6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "upsidedownduckfloats",
+  "symbol": "upsidedownduckfloats",
+  "decimals": 18,
+  "description": "upsidedownduckfloats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=upsidedownduckfloats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "upsidedownduckfloats",
+  "addresses": {
+    "8453": "0x3ff314ae3e0a41151596a8f9a22144ad1df86d66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "upsidedownduckfloats",
+    "sanitizedSymbol": "UPSIDEDOWNDUCKFLOATS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218914",
+    "lockerAddress": "0x5629F05AB50796d97e3e459fc8e61a45A00960BF"
+  },
+  "clankerInfo": null
+}

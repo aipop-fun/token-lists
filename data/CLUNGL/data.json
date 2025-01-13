@@ -1,0 +1,22 @@
+{
+  "name": "clungl",
+  "symbol": "clungl",
+  "decimals": 18,
+  "description": "clungl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clungl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clungl",
+  "addresses": {
+    "8453": "0x2b2aa311e7b96cf2cc0d6712fddccabba9705393"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clungl",
+    "sanitizedSymbol": "CLUNGL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x99A75C15Dc2AC8BE196c4d97114ede1cF2EC484e",
+    "lpNftId": "1252206",
+    "lockerAddress": "0xb41D1cEa64D9103bF4ACC4DccB29Dda6cB72D05E"
+  },
+  "clankerInfo": null
+}

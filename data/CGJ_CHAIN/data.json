@@ -1,0 +1,22 @@
+{
+  "name": "CGJ CHAIN",
+  "symbol": "CGJ CHAIN",
+  "decimals": 18,
+  "description": "CGJ CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CGJ%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CGJ CHAIN",
+  "addresses": {
+    "8453": "0x0acc74d772ecf88df94b50c1a7b2997ea04d0026"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CGJ CHAIN",
+    "sanitizedSymbol": "CGJ_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195322",
+    "lockerAddress": "0xECfd150D7Ac95ae9C4a7dd817B414080547CEE91"
+  },
+  "clankerInfo": null
+}

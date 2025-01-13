@@ -1,0 +1,22 @@
+{
+  "name": "Agent BitGod",
+  "symbol": "Agent BitGod",
+  "decimals": 18,
+  "description": "Agent BitGod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20BitGod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent BitGod",
+  "addresses": {
+    "8453": "0x14652639e707a6e1b1db4a0d0970d0ee1db72eb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent BitGod",
+    "sanitizedSymbol": "AGENT_BITGOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf7Fb463c7C37eF001049713CD166A4F5bE368Dd8",
+    "lpNftId": "1350072",
+    "lockerAddress": "0x509554bD2A07608518AeB88D2b2f01DaBB81b9dF"
+  },
+  "clankerInfo": null
+}

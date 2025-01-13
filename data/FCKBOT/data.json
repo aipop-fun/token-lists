@@ -1,0 +1,22 @@
+{
+  "name": "FckBot",
+  "symbol": "FckBot",
+  "decimals": 18,
+  "description": "FckBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FckBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FckBot",
+  "addresses": {
+    "8453": "0x21c7b4172ce177a99fc19a6f820d545751efa320"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FckBot",
+    "sanitizedSymbol": "FCKBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x702411eE09c55339C1C06a883477638367ae65Fe",
+    "lpNftId": "1308568",
+    "lockerAddress": "0xfB9A14091b782868E02fe8fB62498ac6cb8a3732"
+  },
+  "clankerInfo": null
+}

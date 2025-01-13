@@ -1,0 +1,22 @@
+{
+  "name": "Barber",
+  "symbol": "Barber",
+  "decimals": 18,
+  "description": "Barber is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Barber",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Barber",
+  "addresses": {
+    "8453": "0x2ce2e544017340bd4309faab6f0ad367e4c0e422"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Barber",
+    "sanitizedSymbol": "BARBER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160274",
+    "lockerAddress": "0x1A7185355EFaBc4D74c15e57227721c990577b76"
+  },
+  "clankerInfo": null
+}

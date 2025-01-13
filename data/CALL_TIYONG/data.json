@@ -1,0 +1,22 @@
+{
+  "name": "Call Tiyong",
+  "symbol": "Call Tiyong",
+  "decimals": 18,
+  "description": "Call Tiyong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Call%20Tiyong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Call Tiyong",
+  "addresses": {
+    "8453": "0x3fe5179a376900d2d38ee6df8aa8bcca13eb2417"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Call Tiyong",
+    "sanitizedSymbol": "CALL_TIYONG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf4bA6552836c9F8F7B1b8fB34470B81854Ef2dCB",
+    "lpNftId": "1292073",
+    "lockerAddress": "0x4d02DbFc80d41A71Ad32B7b2085c37b3F788188d"
+  },
+  "clankerInfo": null
+}

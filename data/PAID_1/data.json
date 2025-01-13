@@ -1,0 +1,22 @@
+{
+  "name": "PAID",
+  "symbol": "PAID",
+  "decimals": 18,
+  "description": "PAID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAID",
+  "addresses": {
+    "8453": "0x160e09a76d70e955b631a299c64caa2d54432573"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAID",
+    "sanitizedSymbol": "PAID_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x69925c021b87D8892C7539Cb6041952f64BF760A",
+    "lpNftId": "1285371",
+    "lockerAddress": "0xf1Ef480CB870c3B94724a53AB1fE12C528214592"
+  },
+  "clankerInfo": null
+}

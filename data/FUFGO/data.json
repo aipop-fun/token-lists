@@ -1,0 +1,22 @@
+{
+  "name": "Fufgo",
+  "symbol": "Fufgo",
+  "decimals": 18,
+  "description": "Fufgo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fufgo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fufgo",
+  "addresses": {
+    "8453": "0x1c2015bce2f349bfa025c94fbdf0fded349a4574"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fufgo",
+    "sanitizedSymbol": "FUFGO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD5E3A2bd12f8360f09fD8148565550545fFa9412",
+    "lpNftId": "1286343",
+    "lockerAddress": "0x4ac1262aA1Bc2486a8A61CC67533F87D7A278356"
+  },
+  "clankerInfo": null
+}

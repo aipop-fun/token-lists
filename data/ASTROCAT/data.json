@@ -1,0 +1,22 @@
+{
+  "name": "AstroCAT",
+  "symbol": "AstroCAT",
+  "decimals": 18,
+  "description": "AstroCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AstroCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AstroCAT",
+  "addresses": {
+    "8453": "0x2870b65808c9ad6c2f8d7874de8d42acc5492ec8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AstroCAT",
+    "sanitizedSymbol": "ASTROCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbfFd0f67e2E8F9688dD8E6a3ec6f6a74ced85B37",
+    "lpNftId": "1321128",
+    "lockerAddress": "0xd2d9E57eFf21574eA6dab789E6d41eEd27Ba6f64"
+  },
+  "clankerInfo": null
+}

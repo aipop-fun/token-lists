@@ -1,0 +1,22 @@
+{
+  "name": "degentips",
+  "symbol": "degentips",
+  "decimals": 18,
+  "description": "degentips is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degentips",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degentips",
+  "addresses": {
+    "8453": "0x32006a419ab589ff58702f22da86d6cc0539f3d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degentips",
+    "sanitizedSymbol": "DEGENTIPS",
+    "created_at": "2024-12-11T14:18:12.0221",
+    "deployer": "0xe15C937c51E2f6f9120fEa2Be3E0D78C24ab8fC5",
+    "lpNftId": "1420090",
+    "lockerAddress": "0xF353F940C37CE585C90a858a8f0Fc1FddAAcb85D"
+  },
+  "clankerInfo": null
+}

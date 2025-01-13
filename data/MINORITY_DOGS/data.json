@@ -1,0 +1,22 @@
+{
+  "name": "Minority Dogs",
+  "symbol": "Minority Dogs",
+  "decimals": 18,
+  "description": "Minority Dogs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Minority%20Dogs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Minority Dogs",
+  "addresses": {
+    "8453": "0x35d03fdc5dcdaa588acc8359efa2a29f6ece17a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Minority Dogs",
+    "sanitizedSymbol": "MINORITY_DOGS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x14E457E6AE789C74ae7a6F70c96e6AD32899E501",
+    "lpNftId": "1264015",
+    "lockerAddress": "0x37762688f6f2266A74A81e19ADB68d9D37AD5C2C"
+  },
+  "clankerInfo": null
+}

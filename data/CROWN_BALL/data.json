@@ -1,0 +1,22 @@
+{
+  "name": "Crown Ball",
+  "symbol": "Crown Ball",
+  "decimals": 18,
+  "description": "Crown Ball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crown%20Ball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crown Ball",
+  "addresses": {
+    "8453": "0x2ccb773df8d8873069bfde253858543ea1c2aa81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crown Ball",
+    "sanitizedSymbol": "CROWN_BALL",
+    "created_at": "2024-12-09T18:21:15.958109",
+    "deployer": "0x8D89d7d62DCaEB128dd5ACB6f006c42EF5569fE3",
+    "lpNftId": "1390147",
+    "lockerAddress": "0x51783cf59Af4D24c8cC436D9aBCA80Bdd6646eca"
+  },
+  "clankerInfo": null
+}

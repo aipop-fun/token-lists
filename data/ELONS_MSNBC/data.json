@@ -1,0 +1,22 @@
+{
+  "name": "Elons MSNBC",
+  "symbol": "Elons MSNBC",
+  "decimals": 18,
+  "description": "Elons MSNBC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elons%20MSNBC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elons MSNBC",
+  "addresses": {
+    "8453": "0x37bc4f383b6517be57d4d4af1b2fe58e7e5324f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elons MSNBC",
+    "sanitizedSymbol": "ELONS_MSNBC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221341",
+    "lockerAddress": "0x9158Fbffb9e90Ba971bf0AD11e1Fcfb898FE3830"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASED PEEPO",
+  "symbol": "BASED PEEPO",
+  "decimals": 18,
+  "description": "BASED PEEPO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20PEEPO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED PEEPO",
+  "addresses": {
+    "8453": "0x29ed3afe9169aaff5d555da0f5191016853c2666"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED PEEPO",
+    "sanitizedSymbol": "BASED_PEEPO",
+    "created_at": "2024-12-12T18:46:19.086503",
+    "deployer": "0x511f20EAC7bE5d712f5E30C56Ef7F77E2a2f40B7",
+    "lpNftId": "1440925",
+    "lockerAddress": "0xA0dBFcE492F837814e429627c9cD710626A25f57"
+  },
+  "clankerInfo": null
+}

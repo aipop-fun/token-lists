@@ -1,0 +1,22 @@
+{
+  "name": "Magical cats",
+  "symbol": "Magical cats",
+  "decimals": 18,
+  "description": "Magical cats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magical%20cats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magical cats",
+  "addresses": {
+    "8453": "0x13075846331cfb7cdc40faf61b0511ed7771d225"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magical cats",
+    "sanitizedSymbol": "MAGICAL_CATS",
+    "created_at": "2024-12-09T11:32:57.877102",
+    "deployer": "0x2E2Cd888d5048e46Ad24830A76529366145b9c0D",
+    "lpNftId": "1386515",
+    "lockerAddress": "0xc887C29a9a840e805279e3a3fd54D4651b832EFF"
+  },
+  "clankerInfo": null
+}

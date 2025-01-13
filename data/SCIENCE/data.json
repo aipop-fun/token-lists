@@ -1,0 +1,22 @@
+{
+  "name": "Science",
+  "symbol": "Science",
+  "decimals": 18,
+  "description": "Science is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Science",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Science",
+  "addresses": {
+    "8453": "0x1df2cb9aef99cb3d63a85c7a88aea9c543c6ff69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Science",
+    "sanitizedSymbol": "SCIENCE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1308507",
+    "lockerAddress": "0xc1E3D067B9Ae339a3E2F5AaEac20CC47Cf0BED0e"
+  },
+  "clankerInfo": null
+}

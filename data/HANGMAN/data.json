@@ -1,0 +1,22 @@
+{
+  "name": "Hangman",
+  "symbol": "Hangman",
+  "decimals": 18,
+  "description": "Hangman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hangman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hangman",
+  "addresses": {
+    "8453": "0x20aaa009a5575597cfd1229a59c97cf14869df63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hangman",
+    "sanitizedSymbol": "HANGMAN",
+    "created_at": "2024-12-10T07:22:55.037895",
+    "deployer": "0x4EB7270664fE43af587e9a971aCbf562f3E7FC01",
+    "lpNftId": "1397872",
+    "lockerAddress": "0x794dC881977a7215F83D75197fea0746B7E7c70E"
+  },
+  "clankerInfo": null
+}

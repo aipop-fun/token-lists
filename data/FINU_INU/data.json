@@ -1,0 +1,22 @@
+{
+  "name": "FINU INU",
+  "symbol": "FINU INU",
+  "decimals": 18,
+  "description": "FINU INU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FINU%20INU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FINU INU",
+  "addresses": {
+    "8453": "0x2d75856d888c5bb6a1d83dd24207f49b6f87c184"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FINU INU",
+    "sanitizedSymbol": "FINU_INU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfCC7921326C94BC69c558CC066d44b3763Ce7F75",
+    "lpNftId": "1282194",
+    "lockerAddress": "0x39997f862CA2B8990f210c5142791eA9cA2A76e4"
+  },
+  "clankerInfo": null
+}

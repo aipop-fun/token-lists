@@ -1,0 +1,22 @@
+{
+  "name": "HOKI DEK",
+  "symbol": "HOKI DEK",
+  "decimals": 18,
+  "description": "HOKI DEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOKI%20DEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOKI DEK",
+  "addresses": {
+    "8453": "0x26b1a7e60ece4c6301f47f080505c198bbfc09fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOKI DEK",
+    "sanitizedSymbol": "HOKI_DEK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x183Ae8774788c92F9824E837689f14a94863be3F",
+    "lpNftId": "1308622",
+    "lockerAddress": "0x3A70a61882008a64a3Cca2387BE415072CD7FE50"
+  },
+  "clankerInfo": null
+}

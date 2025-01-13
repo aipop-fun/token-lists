@@ -1,0 +1,22 @@
+{
+  "name": "dreded",
+  "symbol": "dreded",
+  "decimals": 18,
+  "description": "dreded is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dreded",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dreded",
+  "addresses": {
+    "8453": "0x3cf303f0af8ccb8add33a8a194c946693c50d1c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dreded",
+    "sanitizedSymbol": "DREDED",
+    "created_at": "2024-12-12T16:10:06.964544",
+    "deployer": "0xb64f11B9832c8981f6a1Edd6AdFbF603bceB2e40",
+    "lpNftId": "1437996",
+    "lockerAddress": "0x05B9B91a53a39d0036dF624C1644dDdbC3386E34"
+  },
+  "clankerInfo": null
+}

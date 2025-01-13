@@ -1,0 +1,22 @@
+{
+  "name": "STEALX",
+  "symbol": "STEALX",
+  "decimals": 18,
+  "description": "STEALX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STEALX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STEALX",
+  "addresses": {
+    "8453": "0x1da4da9d990c673bc8966c89c76b7c8eb713f7e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STEALX",
+    "sanitizedSymbol": "STEALX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129001",
+    "lockerAddress": "0x395AC2E5C4730779c26C998a85101ee7562CDFE7"
+  },
+  "clankerInfo": null
+}

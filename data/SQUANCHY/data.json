@@ -1,0 +1,22 @@
+{
+  "name": "Squanchy",
+  "symbol": "Squanchy",
+  "decimals": 18,
+  "description": "Squanchy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Squanchy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Squanchy",
+  "addresses": {
+    "8453": "0x3695cf516333928fefbb5e5db56dc75c5c04cae5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Squanchy",
+    "sanitizedSymbol": "SQUANCHY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA232490869Cc31cd64AC5cC66F1B85E8E6b3B38F",
+    "lpNftId": "1264735",
+    "lockerAddress": "0xC412beb558508870739A35eb5dD93585dc9FC9AC"
+  },
+  "clankerInfo": null
+}

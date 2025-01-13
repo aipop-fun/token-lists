@@ -1,0 +1,22 @@
+{
+  "name": "baldbasedwowow",
+  "symbol": "baldbasedwowow",
+  "decimals": 18,
+  "description": "baldbasedwowow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baldbasedwowow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baldbasedwowow",
+  "addresses": {
+    "8453": "0x32a42bd9c1ca7fd6034b540ccf2c40fe611705da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baldbasedwowow",
+    "sanitizedSymbol": "BALDBASEDWOWOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120294",
+    "lockerAddress": "0x7cCd9d4A3eD9baF97A03E9Ab577134891cB9Ec40"
+  },
+  "clankerInfo": null
+}

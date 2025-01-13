@@ -1,0 +1,22 @@
+{
+  "name": "OXLADE",
+  "symbol": "OXLADE",
+  "decimals": 18,
+  "description": "OXLADE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OXLADE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OXLADE",
+  "addresses": {
+    "8453": "0x06085c534360c62d0f5667cef6bb9ef9918a4d3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OXLADE",
+    "sanitizedSymbol": "OXLADE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x83ce8AE40F1e8D18f8b3E0c5706b4C0494257C9f",
+    "lpNftId": "1324360",
+    "lockerAddress": "0xD0643a9b81BCDA4072af3eEe83A668Efe1C762c0"
+  },
+  "clankerInfo": null
+}

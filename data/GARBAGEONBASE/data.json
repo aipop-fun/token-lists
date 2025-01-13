@@ -1,0 +1,22 @@
+{
+  "name": "GarbageOnBase",
+  "symbol": "GarbageOnBase",
+  "decimals": 18,
+  "description": "GarbageOnBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GarbageOnBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GarbageOnBase",
+  "addresses": {
+    "8453": "0x09bf154ffa0636d63ec52c9b5f41997ebf18f9f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GarbageOnBase",
+    "sanitizedSymbol": "GARBAGEONBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198419",
+    "lockerAddress": "0x2482027010dC0b0eF83A04073883aF8a36135195"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HOOT",
+  "symbol": "HOOT",
+  "decimals": 18,
+  "description": "HOOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOOT",
+  "addresses": {
+    "8453": "0x2992d6c0a467b24abcf79454433c6b4633fc7f16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOOT",
+    "sanitizedSymbol": "HOOT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcf8B5ab69Bb1FCB38cdA029FEAd8a41E74B4D444",
+    "lpNftId": "1252097",
+    "lockerAddress": "0x092dc57AAB8dc0A4A07E5E5caB50953e233EADD3"
+  },
+  "clankerInfo": null
+}

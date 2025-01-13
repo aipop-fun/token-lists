@@ -1,0 +1,22 @@
+{
+  "name": "shadowban",
+  "symbol": "shadowban",
+  "decimals": 18,
+  "description": "shadowban is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shadowban",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shadowban",
+  "addresses": {
+    "8453": "0x277a99b24af31f31d3515d39012110c36288ac48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shadowban",
+    "sanitizedSymbol": "SHADOWBAN",
+    "created_at": "2024-12-12T18:23:13.793302",
+    "deployer": "0x13Dc8FD4AC85Be47e643bA782E6753d45FC34C33",
+    "lpNftId": "1440726",
+    "lockerAddress": "0x4A5FD4122E32cB9A8565331232803625b90fb5e7"
+  },
+  "clankerInfo": null
+}

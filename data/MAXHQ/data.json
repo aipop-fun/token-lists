@@ -1,0 +1,22 @@
+{
+  "name": "MaxHQ",
+  "symbol": "MaxHQ",
+  "decimals": 18,
+  "description": "MaxHQ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MaxHQ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MaxHQ",
+  "addresses": {
+    "8453": "0x09ccdd2cc459d5428b0fa119d780c560e17a77b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MaxHQ",
+    "sanitizedSymbol": "MAXHQ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160300",
+    "lockerAddress": "0x98eAAa9fE4F4777B2c71C0B17448F6560062c58A"
+  },
+  "clankerInfo": null
+}

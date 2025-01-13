@@ -1,0 +1,22 @@
+{
+  "name": "Everything is a lie",
+  "symbol": "Everything is a lie",
+  "decimals": 18,
+  "description": "Everything is a lie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Everything%20is%20a%20lie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Everything is a lie",
+  "addresses": {
+    "8453": "0x0d8e40c91b64276f8a3f0208a54d80c6de3bd4a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Everything is a lie",
+    "sanitizedSymbol": "EVERYTHING_IS_A_LIE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222283",
+    "lockerAddress": "0x3485299992Ea7fE738D6D45dbA9D5EE68F4dBD66"
+  },
+  "clankerInfo": null
+}

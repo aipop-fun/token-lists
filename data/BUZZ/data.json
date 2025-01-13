@@ -1,0 +1,22 @@
+{
+  "name": "BUZZ",
+  "symbol": "BUZZ",
+  "decimals": 18,
+  "description": "BUZZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUZZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUZZ",
+  "addresses": {
+    "8453": "0x1436f6674efb665c19e89bef579a977e1120bc0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUZZ",
+    "sanitizedSymbol": "BUZZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0dfE227fd474bA80Fa32Ea59eC9570A66e9aE167",
+    "lpNftId": "1327723",
+    "lockerAddress": "0xdE1CE01ebEAb3acb3bC9744ec47241bE098A7005"
+  },
+  "clankerInfo": null
+}

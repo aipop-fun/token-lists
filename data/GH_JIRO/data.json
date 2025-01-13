@@ -1,0 +1,22 @@
+{
+  "name": "GH JIRO",
+  "symbol": "GH JIRO",
+  "decimals": 18,
+  "description": "GH JIRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GH%20JIRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GH JIRO",
+  "addresses": {
+    "8453": "0x0d8195e3995749df2f81704369d37a44654b978b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GH JIRO",
+    "sanitizedSymbol": "GH_JIRO",
+    "created_at": "2024-12-10T03:15:01.70709",
+    "deployer": "0x19203fF7745754aDd5ccF6A4889C49c5fC6B48C1",
+    "lpNftId": "1395566",
+    "lockerAddress": "0xae8a2481CD179635fcC23DE0eD9ECD0bE18B21f6"
+  },
+  "clankerInfo": null
+}

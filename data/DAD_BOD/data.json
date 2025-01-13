@@ -1,0 +1,22 @@
+{
+  "name": "Dad Bod",
+  "symbol": "Dad Bod",
+  "decimals": 18,
+  "description": "Dad Bod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dad%20Bod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dad Bod",
+  "addresses": {
+    "8453": "0x3dcb6d8857dce9c33a01e5e651955235e7aaefef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dad Bod",
+    "sanitizedSymbol": "DAD_BOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7DD7b12Bbd948A52A319a3bFe51baCf7A5AF7F75",
+    "lpNftId": "1286531",
+    "lockerAddress": "0x2B2D8b910F37D789b47BfE332Cb5b202f71f5757"
+  },
+  "clankerInfo": null
+}

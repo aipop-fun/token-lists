@@ -1,0 +1,22 @@
+{
+  "name": "Hero",
+  "symbol": "Hero",
+  "decimals": 18,
+  "description": "Hero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hero",
+  "addresses": {
+    "8453": "0x0cb1e4a07d62f91ad3990539345a4bc34815683f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hero",
+    "sanitizedSymbol": "HERO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198646",
+    "lockerAddress": "0x5B109156D9eF6C999E5F8065f82D11f78A8AC0A8"
+  },
+  "clankerInfo": null
+}

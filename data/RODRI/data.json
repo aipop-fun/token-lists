@@ -1,0 +1,22 @@
+{
+  "name": "RODRI",
+  "symbol": "RODRI",
+  "decimals": 18,
+  "description": "RODRI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RODRI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RODRI",
+  "addresses": {
+    "8453": "0x2342b1c707dc50f9e8ee535d5a529fd78c5a7315"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RODRI",
+    "sanitizedSymbol": "RODRI",
+    "created_at": "2024-12-11T17:49:37.440454",
+    "deployer": "0xD7CC420Bc64d58Ad4E943672FEB885a763a8226e",
+    "lpNftId": "1422906",
+    "lockerAddress": "0x77220e1Ea08F567d5f6a4b95F60763DC8149E5b4"
+  },
+  "clankerInfo": null
+}

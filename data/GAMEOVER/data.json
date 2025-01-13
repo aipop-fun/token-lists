@@ -1,0 +1,22 @@
+{
+  "name": "GAMEOVER",
+  "symbol": "GAMEOVER",
+  "decimals": 18,
+  "description": "GAMEOVER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAMEOVER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAMEOVER",
+  "addresses": {
+    "8453": "0x1e3843ba86e319a4adf81edfe13f9cffd058bd83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAMEOVER",
+    "sanitizedSymbol": "GAMEOVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226649",
+    "lockerAddress": "0xeE1C1eD1736483c4CBA092b8093446d5922c80a3"
+  },
+  "clankerInfo": null
+}

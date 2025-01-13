@@ -1,0 +1,22 @@
+{
+  "name": "SMOKE",
+  "symbol": "SMOKE",
+  "decimals": 18,
+  "description": "SMOKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SMOKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SMOKE",
+  "addresses": {
+    "8453": "0x034ac046cf8dc786aedfda437a95d51bc30502ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SMOKE",
+    "sanitizedSymbol": "SMOKE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE225b83550fD42bABf715684E321425b428683c7",
+    "lpNftId": "1321872",
+    "lockerAddress": "0x7ACFbA32ca92B22740d66a636e60adD7989Ad483"
+  },
+  "clankerInfo": null
+}

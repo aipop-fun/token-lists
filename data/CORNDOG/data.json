@@ -1,0 +1,22 @@
+{
+  "name": "Corndog",
+  "symbol": "Corndog",
+  "decimals": 18,
+  "description": "Corndog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Corndog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Corndog",
+  "addresses": {
+    "8453": "0x2fffba44cedfbc8e0daec643f6583d830ee56d37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Corndog",
+    "sanitizedSymbol": "CORNDOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x211fEb6034886f33Cd5eF2873E58Db1C75b4a1da",
+    "lpNftId": "1327560",
+    "lockerAddress": "0x16B8937BBf5d66a847DF60504Cad6d5Dc0Aa2a44"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rocket",
+  "symbol": "rocket",
+  "decimals": 18,
+  "description": "rocket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rocket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rocket",
+  "addresses": {
+    "8453": "0x192f52cba7ca0a8aae1f781450a478e6b9d3867d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rocket",
+    "sanitizedSymbol": "ROCKET_5",
+    "created_at": "2024-12-11T23:30:57.874205",
+    "deployer": "0xa9daE0C8F1780FFFf312520795619ba133a6d962",
+    "lpNftId": "1427930",
+    "lockerAddress": "0xDDA99F80B621f535c0d402e6FE2df649147B0c44"
+  },
+  "clankerInfo": null
+}

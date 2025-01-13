@@ -1,0 +1,22 @@
+{
+  "name": "Sogeking",
+  "symbol": "Sogeking",
+  "decimals": 18,
+  "description": "Sogeking is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sogeking",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sogeking",
+  "addresses": {
+    "8453": "0x29f6038d79e8b437b0d70665e170a0fb1f1ac84d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sogeking",
+    "sanitizedSymbol": "SOGEKING",
+    "created_at": "2024-12-11T06:00:32.74801",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1413720",
+    "lockerAddress": "0x01E6dAc7eF4211F7f2D99597A1Bcb109d36979b1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YOUTUBE",
+  "symbol": "YOUTUBE",
+  "decimals": 18,
+  "description": "YOUTUBE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOUTUBE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOUTUBE",
+  "addresses": {
+    "8453": "0x13d1dd60426089ba6869398ef5b100e44619ff49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOUTUBE",
+    "sanitizedSymbol": "YOUTUBE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf7118deA0683a5832037325806Adc5e4586F6053",
+    "lpNftId": "1286929",
+    "lockerAddress": "0x59b3ae7227Dc62bb9B8632ef5A4c70790a891242"
+  },
+  "clankerInfo": null
+}

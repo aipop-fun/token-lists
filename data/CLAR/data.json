@@ -1,0 +1,22 @@
+{
+  "name": "CLAR",
+  "symbol": "CLAR",
+  "decimals": 18,
+  "description": "CLAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLAR",
+  "addresses": {
+    "8453": "0x30ff8b30b8a009541aebdb4eadca801dfb6a9b99"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLAR",
+    "sanitizedSymbol": "CLAR",
+    "created_at": "2024-12-09T16:47:44.938847",
+    "deployer": "0x6bBE5c63b1e79DD92d37c7EB84d856952b8086a6",
+    "lpNftId": "1389368",
+    "lockerAddress": "0x5a00b17887fC07a8e8FFAD92247278A1569F81A2"
+  },
+  "clankerInfo": null
+}

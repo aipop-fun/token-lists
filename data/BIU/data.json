@@ -1,0 +1,22 @@
+{
+  "name": "biu",
+  "symbol": "biu",
+  "decimals": 18,
+  "description": "biu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=biu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "biu",
+  "addresses": {
+    "8453": "0x2298b550b0821970d9c36dbbbc15d3112ea91395"
+  },
+  "tokenInfo": {
+    "originalSymbol": "biu",
+    "sanitizedSymbol": "BIU",
+    "created_at": "2024-12-11T10:12:11.808896",
+    "deployer": "0x374ec32dd55bD1C6F73f26bA66f0faf9239a6f60",
+    "lpNftId": "1416053",
+    "lockerAddress": "0x96cc34532cD90658DfDCc154ca97925fC48f0df2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PHT",
+  "symbol": "PHT",
+  "decimals": 18,
+  "description": "PHT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PHT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PHT",
+  "addresses": {
+    "8453": "0x098e068cefbeeb9bd077f89f3e49e3e7034eeee3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PHT",
+    "sanitizedSymbol": "PHT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123368",
+    "lockerAddress": "0x0E95c7025a1CC13bDF00B3fE2F6aef6D1773Df60"
+  },
+  "clankerInfo": null
+}

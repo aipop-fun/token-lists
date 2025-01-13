@@ -1,0 +1,22 @@
+{
+  "name": "PUH",
+  "symbol": "PUH",
+  "decimals": 18,
+  "description": "PUH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUH",
+  "addresses": {
+    "8453": "0x2dbcf0b93ab1ad8a2df8911debdf23c075da738d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUH",
+    "sanitizedSymbol": "PUH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x884e04811e27eD661908C319a9044A9f387eb1a8",
+    "lpNftId": "1370499",
+    "lockerAddress": "0x23BE7B9c9744Ab92dC6A7DF9fDdF8a4794754260"
+  },
+  "clankerInfo": null
+}

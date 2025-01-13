@@ -1,0 +1,22 @@
+{
+  "name": "RUNNER",
+  "symbol": "RUNNER",
+  "decimals": 18,
+  "description": "RUNNER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUNNER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUNNER",
+  "addresses": {
+    "8453": "0x18b6f6049a0af4ed2bbe0090319174eeef89f53a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUNNER",
+    "sanitizedSymbol": "RUNNER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119331",
+    "lockerAddress": "0xD0bfd7b524BEB42e2AEE4d858EB2087418a6B756"
+  },
+  "clankerInfo": null
+}

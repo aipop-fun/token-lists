@@ -1,0 +1,22 @@
+{
+  "name": "Nindog On Base",
+  "symbol": "Nindog On Base",
+  "decimals": 18,
+  "description": "Nindog On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nindog%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nindog On Base",
+  "addresses": {
+    "8453": "0x20a7bef59198f9f7ba9400995b0a3b4cf2e85719"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nindog On Base",
+    "sanitizedSymbol": "NINDOG_ON_BASE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1267865",
+    "lockerAddress": "0x04716307F36d1F1BB2615F70D61e015898A31Cd7"
+  },
+  "clankerInfo": null
+}

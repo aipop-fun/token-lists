@@ -1,0 +1,22 @@
+{
+  "name": "ANONTHOR",
+  "symbol": "ANONTHOR",
+  "decimals": 18,
+  "description": "ANONTHOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONTHOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONTHOR",
+  "addresses": {
+    "8453": "0x0594073d245d73f16cd10ee975d4ac288e29fe34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONTHOR",
+    "sanitizedSymbol": "ANONTHOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237399",
+    "lockerAddress": "0x08cB95Bc379D8F10D602B32A9743a6570f1F65a7"
+  },
+  "clankerInfo": null
+}

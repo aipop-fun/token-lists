@@ -1,0 +1,22 @@
+{
+  "name": "Pilot PNUT",
+  "symbol": "Pilot PNUT",
+  "decimals": 18,
+  "description": "Pilot PNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pilot%20PNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pilot PNUT",
+  "addresses": {
+    "8453": "0x3783ee761960cb54f13406d2e921e2d50d6db1b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pilot PNUT",
+    "sanitizedSymbol": "PILOT_PNUT",
+    "created_at": "2024-12-11T13:11:27.606011",
+    "deployer": "0xe6311C7344f78B4a4E8907F0b153dc8513a045e4",
+    "lpNftId": "1418897",
+    "lockerAddress": "0x121209D10A1073b62fD7B762D30B1E813e36e92f"
+  },
+  "clankerInfo": null
+}

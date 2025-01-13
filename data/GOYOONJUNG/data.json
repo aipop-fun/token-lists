@@ -1,0 +1,22 @@
+{
+  "name": "GoYoonJung",
+  "symbol": "GoYoonJung",
+  "decimals": 18,
+  "description": "GoYoonJung is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoYoonJung",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoYoonJung",
+  "addresses": {
+    "8453": "0x0b709309adb2f532b1e0fba69217a2f933ed1f29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoYoonJung",
+    "sanitizedSymbol": "GOYOONJUNG",
+    "created_at": "2024-12-09T07:45:01.36092",
+    "deployer": "0x398966B410f1a837b123F35F6baDef126E569Fbd",
+    "lpNftId": "1384472",
+    "lockerAddress": "0x6377904099B6187cA84601dB89209eC3AaaE073e"
+  },
+  "clankerInfo": null
+}

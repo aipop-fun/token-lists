@@ -1,0 +1,22 @@
+{
+  "name": "Not Henlo",
+  "symbol": "Not Henlo",
+  "decimals": 18,
+  "description": "Not Henlo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Henlo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Henlo",
+  "addresses": {
+    "8453": "0x07c3d63dd9d93ea3c0b7244cd32c7ff1096e759e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Henlo",
+    "sanitizedSymbol": "NOT_HENLO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7cFFB065Cb2488A5E84BdaC0eF3eD5737EF1c67C",
+    "lpNftId": "1253110",
+    "lockerAddress": "0xB0b7dc7f06568A9701eD97568651aA26987f28e8"
+  },
+  "clankerInfo": null
+}

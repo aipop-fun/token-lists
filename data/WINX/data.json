@@ -1,0 +1,22 @@
+{
+  "name": "WINX",
+  "symbol": "WINX",
+  "decimals": 18,
+  "description": "WINX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WINX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WINX",
+  "addresses": {
+    "8453": "0x1796857f7d30e55633c3f8334be86968804a367f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WINX",
+    "sanitizedSymbol": "WINX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119830",
+    "lockerAddress": "0x8C49E0b1A68a8C1ccF545321D8721f66E7E6B9F2"
+  },
+  "clankerInfo": null
+}

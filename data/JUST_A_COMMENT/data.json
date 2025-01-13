@@ -1,0 +1,22 @@
+{
+  "name": "Just a comment",
+  "symbol": "Just a comment",
+  "decimals": 18,
+  "description": "Just a comment is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20comment",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a comment",
+  "addresses": {
+    "8453": "0x3608111c33c4f472d2f210f6c449fc49d78fb3e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a comment",
+    "sanitizedSymbol": "JUST_A_COMMENT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232575",
+    "lockerAddress": "0x416EcFDAa54e8284eceE95fda98085b7F71b5142"
+  },
+  "clankerInfo": null
+}

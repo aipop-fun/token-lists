@@ -1,0 +1,22 @@
+{
+  "name": "abyss",
+  "symbol": "abyss",
+  "decimals": 18,
+  "description": "abyss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=abyss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "abyss",
+  "addresses": {
+    "8453": "0x3f417c4d7327135b4c1d15d0f7ed6ad019d594e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "abyss",
+    "sanitizedSymbol": "ABYSS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194640",
+    "lockerAddress": "0x861Ccb3897B03E2da0Dd997781D0Ba6c1b23bDEa"
+  },
+  "clankerInfo": null
+}

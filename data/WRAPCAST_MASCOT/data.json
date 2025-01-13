@@ -1,0 +1,22 @@
+{
+  "name": "Wrapcast Mascot",
+  "symbol": "Wrapcast Mascot",
+  "decimals": 18,
+  "description": "Wrapcast Mascot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wrapcast%20Mascot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wrapcast Mascot",
+  "addresses": {
+    "8453": "0x36562a57a7324d91a6deed8014d85a6b7478808d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wrapcast Mascot",
+    "sanitizedSymbol": "WRAPCAST_MASCOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165026",
+    "lockerAddress": "0xC950F5F55807Ce80e8eC4f5d0f84483319f7388b"
+  },
+  "clankerInfo": null
+}

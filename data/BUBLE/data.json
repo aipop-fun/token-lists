@@ -1,0 +1,22 @@
+{
+  "name": "BUBLE",
+  "symbol": "BUBLE",
+  "decimals": 18,
+  "description": "BUBLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUBLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUBLE",
+  "addresses": {
+    "8453": "0x0910ecdb96f36c566ccff70d6b7d8248e52e08e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUBLE",
+    "sanitizedSymbol": "BUBLE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0cA9379cF33e55c54cAa95EC30a85ddFeC41d46f",
+    "lpNftId": "1276451",
+    "lockerAddress": "0xd4e5E2bb94930a6D5E32B17b8c57Cc39A084cB4e"
+  },
+  "clankerInfo": null
+}

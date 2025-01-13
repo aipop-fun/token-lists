@@ -1,0 +1,22 @@
+{
+  "name": "BurritoBuff",
+  "symbol": "BurritoBuff",
+  "decimals": 18,
+  "description": "BurritoBuff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BurritoBuff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BurritoBuff",
+  "addresses": {
+    "8453": "0x41c1958d964a1bb6d0ad1e658cc2b1ad779e2d5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BurritoBuff",
+    "sanitizedSymbol": "BURRITOBUFF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128882",
+    "lockerAddress": "0x7808964e7437121c86ffe830822eba522Eb7ed26"
+  },
+  "clankerInfo": null
+}

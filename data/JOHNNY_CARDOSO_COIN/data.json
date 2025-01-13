@@ -1,0 +1,22 @@
+{
+  "name": "Johnny Cardoso Coin",
+  "symbol": "Johnny Cardoso Coin",
+  "decimals": 18,
+  "description": "Johnny Cardoso Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Johnny%20Cardoso%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Johnny Cardoso Coin",
+  "addresses": {
+    "8453": "0x2dd8e9e76d460bcfa5601b4f3a10cc9ef0a17247"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Johnny Cardoso Coin",
+    "sanitizedSymbol": "JOHNNY_CARDOSO_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166677",
+    "lockerAddress": "0xA53D2FD0B618957921Ab2d57b352554816A0A5C4"
+  },
+  "clankerInfo": null
+}

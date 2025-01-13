@@ -1,0 +1,22 @@
+{
+  "name": "Wonder",
+  "symbol": "Wonder",
+  "decimals": 18,
+  "description": "Wonder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wonder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wonder",
+  "addresses": {
+    "8453": "0x046ba04545bec88dd079294d27b8c825d5854ff4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wonder",
+    "sanitizedSymbol": "WONDER_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120335",
+    "lockerAddress": "0xCA7d9C95757FAA5c0E04b25E5f3292CC0c817554"
+  },
+  "clankerInfo": null
+}

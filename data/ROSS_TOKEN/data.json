@@ -1,0 +1,22 @@
+{
+  "name": "Ross Token",
+  "symbol": "Ross Token",
+  "decimals": 18,
+  "description": "Ross Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ross%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ross Token",
+  "addresses": {
+    "8453": "0x2f2ce20aa961af45a238673e23e785cb34572ce6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ross Token",
+    "sanitizedSymbol": "ROSS_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150324",
+    "lockerAddress": "0x1bB90aacCA23985aDA69EC7cEeB08238A0c000CE"
+  },
+  "clankerInfo": null
+}

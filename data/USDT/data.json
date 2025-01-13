@@ -1,11 +1,22 @@
 {
-    "name": "Tether USD",
-    "symbol": "USDT",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/ethereum-optimism.github.io/01d7d6bf2ff3735b412da924d1df746ddd8a77a8/data/USDT/logo.png",
-    "opTokenId": "USDT",
-    "addresses": {
-        "1": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        "8453": "0xfde4C96c8593536E31F229EA8f37b2ADa2699bb2"
-    }
+  "name": "USDT",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "USDT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=USDT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "USDT",
+  "addresses": {
+    "8453": "0x3dfbb982f3c008132a50463bc335b07ab06ed195"
+  },
+  "tokenInfo": {
+    "originalSymbol": "USDT",
+    "sanitizedSymbol": "USDT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x08C1d212EE207c4C6d65CD958D8834835E7917A3",
+    "lpNftId": "1278860",
+    "lockerAddress": "0x9838Cb841F9c235318F486f8370B80De3FD02044"
+  },
+  "clankerInfo": null
 }

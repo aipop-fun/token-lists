@@ -1,0 +1,22 @@
+{
+  "name": "SKUNK",
+  "symbol": "SKUNK",
+  "decimals": 18,
+  "description": "SKUNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKUNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKUNK",
+  "addresses": {
+    "8453": "0x2d9506ed68a272fd095ec4a51dc019993bf664e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKUNK",
+    "sanitizedSymbol": "SKUNK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x38761BF075CDC91bF826577067652301795c2471",
+    "lpNftId": "1286139",
+    "lockerAddress": "0xe000221d2Add597eB6a538d82aEA90004455fb78"
+  },
+  "clankerInfo": null
+}

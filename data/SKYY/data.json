@@ -1,0 +1,22 @@
+{
+  "name": "skyy",
+  "symbol": "skyy",
+  "decimals": 18,
+  "description": "skyy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=skyy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "skyy",
+  "addresses": {
+    "8453": "0x2bc05e07de65941bca7af852f7b9cc9d80a89a4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "skyy",
+    "sanitizedSymbol": "SKYY",
+    "created_at": "2024-12-10T13:56:28.865012",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401623",
+    "lockerAddress": "0x181C68dCd2f84a14530a3f25cFB899C2c72FCDe9"
+  },
+  "clankerInfo": null
+}

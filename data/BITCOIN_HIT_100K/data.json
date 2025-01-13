@@ -1,0 +1,22 @@
+{
+  "name": "BITCOIN HIT $100K",
+  "symbol": "BITCOIN HIT $100K",
+  "decimals": 18,
+  "description": "BITCOIN HIT $100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITCOIN%20HIT%20%24100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITCOIN HIT $100K",
+  "addresses": {
+    "8453": "0x3c6a6f37d216f9e4f98cf4461ecbd4deb56b0a4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITCOIN HIT $100K",
+    "sanitizedSymbol": "BITCOIN_HIT_100K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x61e615d2d68eb253Cb0AD811Db1882b7DFf08582",
+    "lpNftId": "1328876",
+    "lockerAddress": "0x5728EfF08c6f4a8988cdc0895baaF6B7d5301669"
+  },
+  "clankerInfo": null
+}

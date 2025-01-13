@@ -1,0 +1,22 @@
+{
+  "name": "Pizzaface",
+  "symbol": "Pizzaface",
+  "decimals": 18,
+  "description": "Pizzaface is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pizzaface",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pizzaface",
+  "addresses": {
+    "8453": "0x21de0038da15ed48d83159075bd86910ac0105bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pizzaface",
+    "sanitizedSymbol": "PIZZAFACE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe3672Ddd7Cf52Ba8D5F4413E7BB5bbb5e7dc0EFD",
+    "lpNftId": "1352550",
+    "lockerAddress": "0xECed0D364638e6F6602C4Cb719B61258B3a99c71"
+  },
+  "clankerInfo": null
+}

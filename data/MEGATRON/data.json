@@ -1,0 +1,22 @@
+{
+  "name": "MEGATRON",
+  "symbol": "MEGATRON",
+  "decimals": 18,
+  "description": "MEGATRON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEGATRON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEGATRON",
+  "addresses": {
+    "8453": "0x41e2fc5a81b1376b52889591cfbc63b2cc91b0c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEGATRON",
+    "sanitizedSymbol": "MEGATRON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x433f51a06F556f6ABBFCa19a684647A38F21493E",
+    "lpNftId": "1358726",
+    "lockerAddress": "0xF21581F3Acf0a3F140454272E44960E863703271"
+  },
+  "clankerInfo": null
+}

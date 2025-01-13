@@ -1,0 +1,22 @@
+{
+  "name": "Satoshi Meme",
+  "symbol": "Satoshi Meme",
+  "decimals": 18,
+  "description": "Satoshi Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Satoshi%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Satoshi Meme",
+  "addresses": {
+    "8453": "0x2cf3282edc35815f7923ffea04531772beb77508"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Satoshi Meme",
+    "sanitizedSymbol": "SATOSHI_MEME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb7A722BA0bE9951C9ab2c47818C27Dfcde679D9D",
+    "lpNftId": "1333139",
+    "lockerAddress": "0x6ae432c1C89D864e98b4B5FDaBBB2e31c4157061"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bombastic",
+  "symbol": "bombastic",
+  "decimals": 18,
+  "description": "bombastic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bombastic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bombastic",
+  "addresses": {
+    "8453": "0x13b3597a7aa6e738351d9b562e8abeb75a38c3bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bombastic",
+    "sanitizedSymbol": "BOMBASTIC_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173212",
+    "lockerAddress": "0xcB0DC2C12498DE2f7Ed67a6686e2EFF7528d36DA"
+  },
+  "clankerInfo": null
+}

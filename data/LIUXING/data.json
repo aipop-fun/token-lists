@@ -1,0 +1,22 @@
+{
+  "name": "LiuXing",
+  "symbol": "LiuXing",
+  "decimals": 18,
+  "description": "LiuXing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LiuXing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LiuXing",
+  "addresses": {
+    "8453": "0x1e42a1ce81157b5a2fc4d852221d38118cb80176"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LiuXing",
+    "sanitizedSymbol": "LIUXING",
+    "created_at": "2024-12-10T19:23:52.758744",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1406121",
+    "lockerAddress": "0xa625aDCEFD3b8c9C127C2C81Ff8B31C413175AA0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sup",
+  "symbol": "sup",
+  "decimals": 18,
+  "description": "sup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sup",
+  "addresses": {
+    "8453": "0x2d54b4dc9fac29fc0b9fdd818a85027dccacae18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sup",
+    "sanitizedSymbol": "SUP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167385",
+    "lockerAddress": "0xCDf54fbd0aC2AADEC8a5De606897029f3a8C307C"
+  },
+  "clankerInfo": null
+}

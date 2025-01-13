@@ -1,0 +1,22 @@
+{
+  "name": "Mama Mia",
+  "symbol": "Mama Mia",
+  "decimals": 18,
+  "description": "Mama Mia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mama%20Mia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mama Mia",
+  "addresses": {
+    "8453": "0x30b7c422984f04eb258d4bb3844f298f2ac79e00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mama Mia",
+    "sanitizedSymbol": "MAMA_MIA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x820C4080b4Af0002d1b1b9BFEE72dd9a4D25b079",
+    "lpNftId": "1250958",
+    "lockerAddress": "0xD0dA1d4FEb027696b0Ab6F2e1a8A4187Ebb936e1"
+  },
+  "clankerInfo": null
+}

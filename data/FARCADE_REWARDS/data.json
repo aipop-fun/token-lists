@@ -1,0 +1,22 @@
+{
+  "name": "Farcade Rewards",
+  "symbol": "Farcade Rewards",
+  "decimals": 18,
+  "description": "Farcade Rewards is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcade%20Rewards",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcade Rewards",
+  "addresses": {
+    "8453": "0x367bda8588191f83e7700c4c0af21d2fadf5cb9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcade Rewards",
+    "sanitizedSymbol": "FARCADE_REWARDS",
+    "created_at": "2024-12-10T06:14:23.04434",
+    "deployer": "0xF2B31e5768871B3AD8435edB2c54b8683A3D1a5E",
+    "lpNftId": "1397348",
+    "lockerAddress": "0xA1a85A0C4e07d56BA604e79BA6cA6A3440fCb457"
+  },
+  "clankerInfo": null
+}

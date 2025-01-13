@@ -1,0 +1,22 @@
+{
+  "name": "PEACE-W",
+  "symbol": "PEACE-W",
+  "decimals": 18,
+  "description": "PEACE-W is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEACE-W",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEACE-W",
+  "addresses": {
+    "8453": "0x31dd5f54986576b1938b20742ace5ddc1422ac63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEACE-W",
+    "sanitizedSymbol": "PEACE_W",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF27c60797F5ae49B7AA82A00eed1489fCd59AbA0",
+    "lpNftId": "1319139",
+    "lockerAddress": "0x08c2D676516C55e999Cb9e9E3b42FfFa69e20A3b"
+  },
+  "clankerInfo": null
+}

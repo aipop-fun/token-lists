@@ -1,0 +1,22 @@
+{
+  "name": "Liquid Luck",
+  "symbol": "Liquid Luck",
+  "decimals": 18,
+  "description": "Liquid Luck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liquid%20Luck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liquid Luck",
+  "addresses": {
+    "8453": "0x1a2abd64242552b6e0211801054feb22198a7807"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liquid Luck",
+    "sanitizedSymbol": "LIQUID_LUCK",
+    "created_at": "2024-12-12T03:24:52.253858",
+    "deployer": "0x45B393A30187E41624249F1948fc0663C954a278",
+    "lpNftId": "1428874",
+    "lockerAddress": "0x42E34af3efF5E02955c916e88f55FA85FFBAEB43"
+  },
+  "clankerInfo": null
+}

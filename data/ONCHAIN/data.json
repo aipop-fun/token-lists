@@ -1,0 +1,22 @@
+{
+  "name": "onchain",
+  "symbol": "onchain",
+  "decimals": 18,
+  "description": "onchain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onchain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onchain",
+  "addresses": {
+    "8453": "0x407f899141824d0b515b335e9336b1110c93d9f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onchain",
+    "sanitizedSymbol": "ONCHAIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA6B48166d0937794f3F53782288dcD08B867fdCb",
+    "lpNftId": "1251802",
+    "lockerAddress": "0x02a58C22ee3959dCBB491EC9f608C93fAdEC5a90"
+  },
+  "clankerInfo": null
+}

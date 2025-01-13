@@ -1,0 +1,22 @@
+{
+  "name": "Tobrut Yeni",
+  "symbol": "Tobrut Yeni",
+  "decimals": 18,
+  "description": "Tobrut Yeni is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tobrut%20Yeni",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tobrut Yeni",
+  "addresses": {
+    "8453": "0x31c39efacb529de3a41c4355b17f818b21ca1ffb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tobrut Yeni",
+    "sanitizedSymbol": "TOBRUT_YENI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x81DD3f6beBAAe1864b89376a2d325Fc5499B1fdd",
+    "lpNftId": "1327533",
+    "lockerAddress": "0x7d3fbA12E2cA3e1da185A5B9e842FC1a8f040EEc"
+  },
+  "clankerInfo": null
+}

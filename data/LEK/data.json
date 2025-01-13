@@ -1,0 +1,22 @@
+{
+  "name": "LEK",
+  "symbol": "LEK",
+  "decimals": 18,
+  "description": "LEK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEK",
+  "addresses": {
+    "8453": "0x226fe5d238a3dc54db1fbdff58a9af0dec2e7f0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEK",
+    "sanitizedSymbol": "LEK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223784",
+    "lockerAddress": "0x661ACb80c81505DD7D039303AB77cc9F2e25b02A"
+  },
+  "clankerInfo": null
+}

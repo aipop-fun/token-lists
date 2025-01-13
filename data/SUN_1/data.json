@@ -1,0 +1,22 @@
+{
+  "name": "Sun",
+  "symbol": "Sun",
+  "decimals": 18,
+  "description": "Sun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sun",
+  "addresses": {
+    "8453": "0x0e04942247242d9eac0fb23ded8a58d6566afa47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sun",
+    "sanitizedSymbol": "SUN_1",
+    "created_at": "2024-12-12T08:14:11.824295",
+    "deployer": "0xA7b3C3851f435d3e85eEe378a63f086Fb8b94A37",
+    "lpNftId": "1429877",
+    "lockerAddress": "0xe0A13503B94d38d0088AC5bCaf5118903f3a3Aad"
+  },
+  "clankerInfo": null
+}

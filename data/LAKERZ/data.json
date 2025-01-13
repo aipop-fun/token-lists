@@ -1,0 +1,22 @@
+{
+  "name": "Lakerz",
+  "symbol": "Lakerz",
+  "decimals": 18,
+  "description": "Lakerz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lakerz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lakerz",
+  "addresses": {
+    "8453": "0x101306e960308b3ee20e0cdf6de3dec3a1be5bd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lakerz",
+    "sanitizedSymbol": "LAKERZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x675eA443c2c44d5Fa297226D7DDa778F51c63f2B",
+    "lpNftId": "1299740",
+    "lockerAddress": "0x5213F0f375dee3B8e11E88145a4883a7131dc259"
+  },
+  "clankerInfo": null
+}

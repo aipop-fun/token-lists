@@ -1,0 +1,22 @@
+{
+  "name": "ProxyOn",
+  "symbol": "ProxyOn",
+  "decimals": 18,
+  "description": "ProxyOn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ProxyOn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ProxyOn",
+  "addresses": {
+    "8453": "0x1ad3cb7567c112e9398860c4b83520df32370662"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ProxyOn",
+    "sanitizedSymbol": "PROXYON",
+    "created_at": "2024-12-10T17:47:16.894427",
+    "deployer": "0xAE3D8b670bc8678F8Ed4fD7116aeD92C386EC24b",
+    "lpNftId": "1404977",
+    "lockerAddress": "0xfd71Ed38698BDd4befeE4181eF1003F815F6F080"
+  },
+  "clankerInfo": null
+}

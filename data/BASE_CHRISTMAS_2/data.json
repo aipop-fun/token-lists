@@ -1,0 +1,22 @@
+{
+  "name": "Base Christmas",
+  "symbol": "Base Christmas",
+  "decimals": 18,
+  "description": "Base Christmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Christmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Christmas",
+  "addresses": {
+    "8453": "0x407906abf21a1519d00abd6f179eefb3c5cde46c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Christmas",
+    "sanitizedSymbol": "BASE_CHRISTMAS_2",
+    "created_at": "2024-12-12T08:16:54.939434",
+    "deployer": "0xd235c262C3F6ecFfffF073273Fd84d6E636d76C4",
+    "lpNftId": "1429886",
+    "lockerAddress": "0xC2899c6A83D9338AC195c918eec07e9eAe8738f6"
+  },
+  "clankerInfo": null
+}

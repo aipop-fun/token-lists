@@ -1,0 +1,22 @@
+{
+  "name": "clanger",
+  "symbol": "clanger",
+  "decimals": 18,
+  "description": "clanger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanger",
+  "addresses": {
+    "8453": "0x09436b7ee920b74c7277a910fcc9209264358db9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanger",
+    "sanitizedSymbol": "CLANGER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159378",
+    "lockerAddress": "0x4D468a6Cdbb9E37CFc512CAe56ddCDC5d423801b"
+  },
+  "clankerInfo": null
+}

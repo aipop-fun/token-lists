@@ -1,0 +1,22 @@
+{
+  "name": "DOGCAZE",
+  "symbol": "DOGCAZE",
+  "decimals": 18,
+  "description": "DOGCAZE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGCAZE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGCAZE",
+  "addresses": {
+    "8453": "0x3ebaab98d4f2bde4260c41ceb2e415a9c25fcfa6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGCAZE",
+    "sanitizedSymbol": "DOGCAZE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xba4B28C34f32E9353412c8b7b1B81FceE4183879",
+    "lpNftId": "1309526",
+    "lockerAddress": "0x3Bef72DCf58474C82bb5777f11835FEb0a066653"
+  },
+  "clankerInfo": null
+}

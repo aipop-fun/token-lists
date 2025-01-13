@@ -1,0 +1,22 @@
+{
+  "name": "YUMIKAMI ON BASE",
+  "symbol": "YUMIKAMI ON BASE",
+  "decimals": 18,
+  "description": "YUMIKAMI ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUMIKAMI%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUMIKAMI ON BASE",
+  "addresses": {
+    "8453": "0x17742b92ca7a7bf6bc3bc4023b02294776d3e446"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUMIKAMI ON BASE",
+    "sanitizedSymbol": "YUMIKAMI_ON_BASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160900",
+    "lockerAddress": "0x374c1F79679b463993a556ed07D9AC282bF70a79"
+  },
+  "clankerInfo": null
+}

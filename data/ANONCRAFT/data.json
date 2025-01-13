@@ -1,0 +1,22 @@
+{
+  "name": "AnonCraft",
+  "symbol": "AnonCraft",
+  "decimals": 18,
+  "description": "AnonCraft is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonCraft",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonCraft",
+  "addresses": {
+    "8453": "0x1f6a72103e5c14a00ce5791f028e248d4a576581"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonCraft",
+    "sanitizedSymbol": "ANONCRAFT",
+    "created_at": "2024-12-10T03:17:36.118918",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1395595",
+    "lockerAddress": "0x8745E38269da8e31907078dE543f38b810240123"
+  },
+  "clankerInfo": null
+}

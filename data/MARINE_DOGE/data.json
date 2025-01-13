@@ -1,0 +1,22 @@
+{
+  "name": "Marine Doge",
+  "symbol": "Marine Doge",
+  "decimals": 18,
+  "description": "Marine Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marine%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marine Doge",
+  "addresses": {
+    "8453": "0x232c6e3e2a0856d35246dcf3afe4c03fc4f5652e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marine Doge",
+    "sanitizedSymbol": "MARINE_DOGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201205",
+    "lockerAddress": "0x3153DeeB297e1F4fd5626547bA5625bbCfC49267"
+  },
+  "clankerInfo": null
+}

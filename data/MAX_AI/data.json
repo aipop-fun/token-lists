@@ -1,0 +1,22 @@
+{
+  "name": "MAX AI",
+  "symbol": "MAX AI",
+  "decimals": 18,
+  "description": "MAX AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAX%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAX AI",
+  "addresses": {
+    "8453": "0x268d5964333e8e081cb05c29ef832b6992d35ea6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAX AI",
+    "sanitizedSymbol": "MAX_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF4400B5aBa720306AC2BCF91AdA65Eae4006E08D",
+    "lpNftId": "1289816",
+    "lockerAddress": "0xb1af92dF0Df4636DbCaDb4753310F0A226f4Ae34"
+  },
+  "clankerInfo": null
+}

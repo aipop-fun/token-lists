@@ -1,0 +1,22 @@
+{
+  "name": "Barbie",
+  "symbol": "Barbie",
+  "decimals": 18,
+  "description": "Barbie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Barbie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Barbie",
+  "addresses": {
+    "8453": "0x27c80eac0cf85824d53b04d9a3951e7bab1172ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Barbie",
+    "sanitizedSymbol": "BARBIE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235507",
+    "lockerAddress": "0xB93ba5581BDC015602cD0A11A431A2c289745439"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Please, just buy $1 of this coin",
+  "symbol": "Please, just buy $1 of this coin",
+  "decimals": 18,
+  "description": "Please, just buy $1 of this coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Please%2C%20just%20buy%20%241%20of%20this%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Please, just buy $1 of this coin",
+  "addresses": {
+    "8453": "0x09bb161bc1a87a476be6c5996e4f323cf4ee7aac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Please, just buy $1 of this coin",
+    "sanitizedSymbol": "PLEASE_JUST_BUY_1_OF_THIS_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234783",
+    "lockerAddress": "0xBc45Cdc9411cFC50a4D2797c2c96F59DA8DCF98A"
+  },
+  "clankerInfo": null
+}

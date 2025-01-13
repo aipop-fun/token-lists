@@ -1,0 +1,22 @@
+{
+  "name": "Cult TGE",
+  "symbol": "Cult TGE",
+  "decimals": 18,
+  "description": "Cult TGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cult%20TGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cult TGE",
+  "addresses": {
+    "8453": "0x38dc3a41fcc97180b748ce7bc84f829b56eb4301"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cult TGE",
+    "sanitizedSymbol": "CULT_TGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2A23C62EF82930C4b4Fa1a6bb1aC497776E66285",
+    "lpNftId": "1376237",
+    "lockerAddress": "0x8c9E64F55E8C4F1305a3072AE6BaD7d4A99c3fab"
+  },
+  "clankerInfo": null
+}

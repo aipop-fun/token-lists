@@ -1,0 +1,22 @@
+{
+  "name": "squirrelhood",
+  "symbol": "squirrelhood",
+  "decimals": 18,
+  "description": "squirrelhood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=squirrelhood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "squirrelhood",
+  "addresses": {
+    "8453": "0x2f8bd760e7f43cf28577f4820bc9361e3ea5aff1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "squirrelhood",
+    "sanitizedSymbol": "SQUIRRELHOOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEF077BCb6A3f54c927f829D806A3a36860826Ea3",
+    "lpNftId": "1320082",
+    "lockerAddress": "0xE49a570CcFE0B7487295Fb02F31d53DaC8BaeA9b"
+  },
+  "clankerInfo": null
+}

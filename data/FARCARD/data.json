@@ -1,0 +1,22 @@
+{
+  "name": "FARCARD",
+  "symbol": "FARCARD",
+  "decimals": 18,
+  "description": "FARCARD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCARD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCARD",
+  "addresses": {
+    "8453": "0x16f2fc85f7e03472c88fc71e40eca70cdcc0f137"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCARD",
+    "sanitizedSymbol": "FARCARD",
+    "created_at": "2024-12-12T16:02:14.04563",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1437741",
+    "lockerAddress": "0xA3bF7d27CCA1d01EAed647456a445D972d60bc57"
+  },
+  "clankerInfo": null
+}

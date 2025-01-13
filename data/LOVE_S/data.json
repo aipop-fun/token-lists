@@ -1,0 +1,22 @@
+{
+  "name": "LOVE S",
+  "symbol": "LOVE S",
+  "decimals": 18,
+  "description": "LOVE S is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOVE%20S",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOVE S",
+  "addresses": {
+    "8453": "0x08948cfa44fc207efc48d212b8568b59d8a5e453"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOVE S",
+    "sanitizedSymbol": "LOVE_S",
+    "created_at": "2024-12-10T02:47:57.371863",
+    "deployer": "0x217107C6157b487fc55d99535141d9514c308F3b",
+    "lpNftId": "1395331",
+    "lockerAddress": "0xaB0dB638C4e1B21b18dDda5F9Fe75b3062EE1F9C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "jeets",
+  "symbol": "jeets",
+  "decimals": 18,
+  "description": "jeets is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jeets",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jeets",
+  "addresses": {
+    "8453": "0x239cfeadeabee545f1891d0d87779cb6b2348665"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jeets",
+    "sanitizedSymbol": "JEETS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224200",
+    "lockerAddress": "0xe9a7E220ecEFD9cC17712A4A91c6972589DD7290"
+  },
+  "clankerInfo": null
+}

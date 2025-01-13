@@ -1,0 +1,22 @@
+{
+  "name": "ainon",
+  "symbol": "ainon",
+  "decimals": 18,
+  "description": "ainon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ainon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ainon",
+  "addresses": {
+    "8453": "0x0ed363af161ca924e388c1a5d5a6cb9e46a00d82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ainon",
+    "sanitizedSymbol": "AINON_4",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x72E12e2D86C81F891dfE81C0d74851718B6112DE",
+    "lpNftId": "1313125",
+    "lockerAddress": "0x1173587B7d73BEfc7E007DDAfD31e4682b5971eD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AItardio",
+  "symbol": "AItardio",
+  "decimals": 18,
+  "description": "AItardio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AItardio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AItardio",
+  "addresses": {
+    "8453": "0x41079aee93aa59a9dd138948654ae4563ef7d171"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AItardio",
+    "sanitizedSymbol": "AITARDIO_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120233",
+    "lockerAddress": "0x8dEFd49Fe0376141C67D81A76801437011c1947C"
+  },
+  "clankerInfo": null
+}

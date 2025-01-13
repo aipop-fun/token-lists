@@ -1,0 +1,22 @@
+{
+  "name": "BLOCK",
+  "symbol": "BLOCK",
+  "decimals": 18,
+  "description": "BLOCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLOCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLOCK",
+  "addresses": {
+    "8453": "0x1ae7cea00c96eda44270a2c91fe2c37229713cff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLOCK",
+    "sanitizedSymbol": "BLOCK",
+    "created_at": "2024-12-12T15:23:45.827096",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1437067",
+    "lockerAddress": "0x5680c238920E4e98E85d2C79548FB5B053c68386"
+  },
+  "clankerInfo": null
+}

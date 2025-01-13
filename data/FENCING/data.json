@@ -1,0 +1,22 @@
+{
+  "name": "fencing",
+  "symbol": "fencing",
+  "decimals": 18,
+  "description": "fencing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fencing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fencing",
+  "addresses": {
+    "8453": "0x2ca3357d4579bf6d888615f5c0e7f48da3f3799e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fencing",
+    "sanitizedSymbol": "FENCING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0377607f1B8E33d33e8CF22867bE81b70e7Ee6ee",
+    "lpNftId": "1288503",
+    "lockerAddress": "0xF7D4F19499Fd2fCA934B55a5E4A3F24a0094B85E"
+  },
+  "clankerInfo": null
+}

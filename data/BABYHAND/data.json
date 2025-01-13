@@ -1,0 +1,22 @@
+{
+  "name": "Babyhand",
+  "symbol": "Babyhand",
+  "decimals": 18,
+  "description": "Babyhand is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babyhand",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babyhand",
+  "addresses": {
+    "8453": "0x23555223e335c1b6ba70740a10bb0c2e47b2bbea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babyhand",
+    "sanitizedSymbol": "BABYHAND",
+    "created_at": "2024-12-09T10:56:35.190382",
+    "deployer": "0x388B165ecCF64abac50043280517a905E5f93c7D",
+    "lpNftId": "1386161",
+    "lockerAddress": "0x74831A79A4107e9e194D9942f81137BF5bc01A57"
+  },
+  "clankerInfo": null
+}

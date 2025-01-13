@@ -1,0 +1,22 @@
+{
+  "name": "13FRIDAY",
+  "symbol": "13FRIDAY",
+  "decimals": 18,
+  "description": "13FRIDAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=13FRIDAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "13FRIDAY",
+  "addresses": {
+    "8453": "0x126eb9d4418b78635c9856d04d3284dbf1d82b4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "13FRIDAY",
+    "sanitizedSymbol": "13FRIDAY",
+    "created_at": "2024-12-12T15:39:18.774974",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1437213",
+    "lockerAddress": "0x679382d206bEA3b5a54458598bD7cA22FebECa5E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "COCONUT CAT",
+  "symbol": "COCONUT CAT",
+  "decimals": 18,
+  "description": "COCONUT CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COCONUT%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COCONUT CAT",
+  "addresses": {
+    "8453": "0x133d888fcc93ed73af3d9797370ee197651bf39a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COCONUT CAT",
+    "sanitizedSymbol": "COCONUT_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229212",
+    "lockerAddress": "0x6bD87a2C68b268f06d6c4B1ABd88C87597FaaD4C"
+  },
+  "clankerInfo": null
+}

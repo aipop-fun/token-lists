@@ -1,0 +1,22 @@
+{
+  "name": "COMMUNITYTOKEN",
+  "symbol": "COMMUNITYTOKEN",
+  "decimals": 18,
+  "description": "COMMUNITYTOKEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COMMUNITYTOKEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COMMUNITYTOKEN",
+  "addresses": {
+    "8453": "0x1ddc0e1c08f819c50f5871e9482d70f60b31c5c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COMMUNITYTOKEN",
+    "sanitizedSymbol": "COMMUNITYTOKEN",
+    "created_at": "2024-12-10T12:43:17.037345",
+    "deployer": "0x448eB535cFd2f6EBDBCB17e36aF5e2B57b474D3e",
+    "lpNftId": "1401049",
+    "lockerAddress": "0xcb8879254ABCa4930587A4099B11371AFcf63B60"
+  },
+  "clankerInfo": null
+}

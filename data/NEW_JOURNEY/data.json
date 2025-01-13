@@ -1,0 +1,22 @@
+{
+  "name": "New Journey",
+  "symbol": "New Journey",
+  "decimals": 18,
+  "description": "New Journey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Journey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Journey",
+  "addresses": {
+    "8453": "0x3d1417e028af79593f33474f2ce876a606b0ad7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Journey",
+    "sanitizedSymbol": "NEW_JOURNEY",
+    "created_at": "2024-12-10T04:36:09.700579",
+    "deployer": "0x31795fDA1b80F9f7727f5cf25D4f0b198C2d6801",
+    "lpNftId": "1396401",
+    "lockerAddress": "0x45442206e3f02f74132069c98402e71cf830273C"
+  },
+  "clankerInfo": null
+}

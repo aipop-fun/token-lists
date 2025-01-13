@@ -1,0 +1,22 @@
+{
+  "name": "SYNERGY",
+  "symbol": "SYNERGY",
+  "decimals": 18,
+  "description": "SYNERGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SYNERGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SYNERGY",
+  "addresses": {
+    "8453": "0x1e86b2813bbfb45e09ea099e8c5b8a916f1c0731"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SYNERGY",
+    "sanitizedSymbol": "SYNERGY_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf90F34A3C9Fc8BAa2D3787EC42675d40480d8C47",
+    "lpNftId": "1267620",
+    "lockerAddress": "0x00E85Da08e756328292e81f62dBab6373cc25A3C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dogemas",
+  "symbol": "Dogemas",
+  "decimals": 18,
+  "description": "Dogemas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogemas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogemas",
+  "addresses": {
+    "8453": "0x13fe99b507a059d7572586cca0a53b56df8119dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogemas",
+    "sanitizedSymbol": "DOGEMAS",
+    "created_at": "2024-12-09T11:55:03.590517",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1386681",
+    "lockerAddress": "0x291a4a4EF51a86e6b0C69a96E9d7958460C7D04d"
+  },
+  "clankerInfo": null
+}

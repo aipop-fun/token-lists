@@ -1,0 +1,22 @@
+{
+  "name": "CoinbaseSoul",
+  "symbol": "CoinbaseSoul",
+  "decimals": 18,
+  "description": "CoinbaseSoul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CoinbaseSoul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CoinbaseSoul",
+  "addresses": {
+    "8453": "0x2a21fbd0ee075701e2a93fa02947ed6b62979ad3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CoinbaseSoul",
+    "sanitizedSymbol": "COINBASESOUL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1317331",
+    "lockerAddress": "0x3D28Db17034B6A69419fB3C27fAA192Fd96D3C21"
+  },
+  "clankerInfo": null
+}

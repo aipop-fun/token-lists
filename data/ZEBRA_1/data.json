@@ -1,0 +1,22 @@
+{
+  "name": "ZEBRA",
+  "symbol": "ZEBRA",
+  "decimals": 18,
+  "description": "ZEBRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEBRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEBRA",
+  "addresses": {
+    "8453": "0x04835e5e9c5edf2d5bdd34ed11f08aa711cb7401"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEBRA",
+    "sanitizedSymbol": "ZEBRA_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9837203C20d15989a3C4852e5d07E1a7A98CFE14",
+    "lpNftId": "1300247",
+    "lockerAddress": "0x6ba0707fE5d82866095FB2776d65389453eF4112"
+  },
+  "clankerInfo": null
+}

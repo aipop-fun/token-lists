@@ -1,0 +1,22 @@
+{
+  "name": "RedDao",
+  "symbol": "RedDao",
+  "decimals": 18,
+  "description": "RedDao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RedDao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RedDao",
+  "addresses": {
+    "8453": "0x1945243bb6e1c1aec5847610876d6739852f1e01"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RedDao",
+    "sanitizedSymbol": "REDDAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09DA8F3Ec58Fc9694b4635FBc8C8b349C746e303",
+    "lpNftId": "1319127",
+    "lockerAddress": "0x7994d8326a23B83247072bd94d164A506a7d40b7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Solid Bricks",
+  "symbol": "Solid Bricks",
+  "decimals": 18,
+  "description": "Solid Bricks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Solid%20Bricks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Solid Bricks",
+  "addresses": {
+    "8453": "0x31a22adb6affc1bc3ba332f11bd8bb84e0dd75c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Solid Bricks",
+    "sanitizedSymbol": "SOLID_BRICKS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213762",
+    "lockerAddress": "0xEf5a61Ec3Cc5D2D80C451017D2189d602d6FF7Eb"
+  },
+  "clankerInfo": null
+}

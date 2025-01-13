@@ -1,0 +1,22 @@
+{
+  "name": "Vivid Flux",
+  "symbol": "Vivid Flux",
+  "decimals": 18,
+  "description": "Vivid Flux is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vivid%20Flux",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vivid Flux",
+  "addresses": {
+    "8453": "0x382ee746800c18346dd16df0c0479479c8725b98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vivid Flux",
+    "sanitizedSymbol": "VIVID_FLUX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFC559a9619BF03a55ba7a93B6479B3E9c24295ab",
+    "lpNftId": "1284150",
+    "lockerAddress": "0xB5626E8f20c5d4434279C3fEB274a2893EDd775d"
+  },
+  "clankerInfo": null
+}

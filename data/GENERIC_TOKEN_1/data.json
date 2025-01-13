@@ -1,0 +1,22 @@
+{
+  "name": "Generic Token",
+  "symbol": "Generic Token",
+  "decimals": 18,
+  "description": "Generic Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Generic%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Generic Token",
+  "addresses": {
+    "8453": "0x0410934d88352206a51a64b0d8182bedad134573"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Generic Token",
+    "sanitizedSymbol": "GENERIC_TOKEN_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114802",
+    "lockerAddress": "0x3594e84410CD2a6Bd32FD32560bF4aF9E55ef41d"
+  },
+  "clankerInfo": null
+}

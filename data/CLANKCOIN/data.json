@@ -1,0 +1,22 @@
+{
+  "name": "ClanKCoin",
+  "symbol": "ClanKCoin",
+  "decimals": 18,
+  "description": "ClanKCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClanKCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClanKCoin",
+  "addresses": {
+    "8453": "0x1d5c5e7ba4ee2b577ce68551a67b28844bf67060"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClanKCoin",
+    "sanitizedSymbol": "CLANKCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206043",
+    "lockerAddress": "0x7C08C48fdf52653E4BA01d46f370A6242d0c73F1"
+  },
+  "clankerInfo": null
+}

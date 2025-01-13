@@ -1,0 +1,22 @@
+{
+  "name": "Diamond Hands",
+  "symbol": "Diamond Hands",
+  "decimals": 18,
+  "description": "Diamond Hands is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diamond%20Hands",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diamond Hands",
+  "addresses": {
+    "8453": "0x3ec1fad11060e18b1efdfad8130b52ce89acf613"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diamond Hands",
+    "sanitizedSymbol": "DIAMOND_HANDS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167135",
+    "lockerAddress": "0x8074ECd93f174338af9F7C59BAFb839764DF72F7"
+  },
+  "clankerInfo": null
+}

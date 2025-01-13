@@ -1,0 +1,22 @@
+{
+  "name": "Elizabeth",
+  "symbol": "Elizabeth",
+  "decimals": 18,
+  "description": "Elizabeth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elizabeth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elizabeth",
+  "addresses": {
+    "8453": "0x3e6b32a9ae1e6df7646fb3f98339fcd054a7acd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elizabeth",
+    "sanitizedSymbol": "ELIZABETH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1FCE41481f230C8833073bfe0065C1C3EA81050d",
+    "lpNftId": "1252713",
+    "lockerAddress": "0x2dCD47726B55F431f457f5278693C8fE82b4b21e"
+  },
+  "clankerInfo": null
+}

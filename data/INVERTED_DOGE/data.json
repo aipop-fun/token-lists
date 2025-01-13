@@ -1,0 +1,22 @@
+{
+  "name": "inverted DOGE",
+  "symbol": "inverted DOGE",
+  "decimals": 18,
+  "description": "inverted DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=inverted%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "inverted DOGE",
+  "addresses": {
+    "8453": "0x36876be1f02a406c828973afc0e7b44913719fdc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "inverted DOGE",
+    "sanitizedSymbol": "INVERTED_DOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1347823",
+    "lockerAddress": "0x4D271A8B090AD89A7E6b2ECbacF950baBB664dC5"
+  },
+  "clankerInfo": null
+}

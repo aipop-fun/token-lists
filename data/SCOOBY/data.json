@@ -1,0 +1,22 @@
+{
+  "name": "scooby",
+  "symbol": "scooby",
+  "decimals": 18,
+  "description": "scooby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=scooby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "scooby",
+  "addresses": {
+    "8453": "0x0d728ce7bae68749d1da37c84eb3e39d4d665b80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "scooby",
+    "sanitizedSymbol": "SCOOBY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xfC0BaA70394ed59c595ce69E45B8674fFCC47642",
+    "lpNftId": "1263896",
+    "lockerAddress": "0xde0d1726b7e6d43194a9bFB5575F0B0Dc265f80D"
+  },
+  "clankerInfo": null
+}

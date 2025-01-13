@@ -1,0 +1,22 @@
+{
+  "name": "Codeblade",
+  "symbol": "Codeblade",
+  "decimals": 18,
+  "description": "Codeblade is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Codeblade",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Codeblade",
+  "addresses": {
+    "8453": "0x0787c5bf5dea608ab90cdc325c58730cca9b6d3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Codeblade",
+    "sanitizedSymbol": "CODEBLADE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDa469A6C78D12996895721fceBA62E510b38FAf3",
+    "lpNftId": "1337616",
+    "lockerAddress": "0x611554C1017de10647e36b221248D095b19c15E3"
+  },
+  "clankerInfo": null
+}

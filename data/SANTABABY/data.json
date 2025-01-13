@@ -1,0 +1,22 @@
+{
+  "name": "SantaBaby",
+  "symbol": "SantaBaby",
+  "decimals": 18,
+  "description": "SantaBaby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaBaby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaBaby",
+  "addresses": {
+    "8453": "0x026cabafe9f5c4e668cdf5a9db2dcb7f331f3a66"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaBaby",
+    "sanitizedSymbol": "SANTABABY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1327505",
+    "lockerAddress": "0xd6C3453C8b442222694492D328290B5fECcdD417"
+  },
+  "clankerInfo": null
+}

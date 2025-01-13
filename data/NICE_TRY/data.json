@@ -1,0 +1,22 @@
+{
+  "name": "nice try",
+  "symbol": "nice try",
+  "decimals": 18,
+  "description": "nice try is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nice%20try",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nice try",
+  "addresses": {
+    "8453": "0x3e1d984e286b5b00f0d753f12e39f5c2d6429d39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nice try",
+    "sanitizedSymbol": "NICE_TRY",
+    "created_at": "2024-12-11T14:21:55.385803",
+    "deployer": "0x4e0EA281a5782A3BA15e92194b2f179305764723",
+    "lpNftId": "1420130",
+    "lockerAddress": "0xC46f854e4a244A2E00B443F101d3D230fE1afA40"
+  },
+  "clankerInfo": null
+}

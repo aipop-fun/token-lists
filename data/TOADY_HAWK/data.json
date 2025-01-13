@@ -1,0 +1,22 @@
+{
+  "name": "Toady Hawk",
+  "symbol": "Toady Hawk",
+  "decimals": 18,
+  "description": "Toady Hawk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Toady%20Hawk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Toady Hawk",
+  "addresses": {
+    "8453": "0x2732e14ac70f00b2550999fe01f15f722763b6dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Toady Hawk",
+    "sanitizedSymbol": "TOADY_HAWK",
+    "created_at": "2024-12-11T19:03:35.424255",
+    "deployer": "0xEd50a42196812a3A2A1dB1fb53a8d1638fA9431D",
+    "lpNftId": "1424465",
+    "lockerAddress": "0x9305B1dB13E02c31f369Cd7E792E33aB34b258cb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rainbow",
+  "symbol": "Rainbow",
+  "decimals": 18,
+  "description": "Rainbow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rainbow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rainbow",
+  "addresses": {
+    "8453": "0x0e4a2077e9c046d044ada502a919b34c23df7ce7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rainbow",
+    "sanitizedSymbol": "RAINBOW_4",
+    "created_at": "2024-12-11T01:56:27.140008",
+    "deployer": "0x8908eBed6796cb4364E6Ce13174bB69a714c82e0",
+    "lpNftId": "1410221",
+    "lockerAddress": "0x627FdebB23Ae28063C63399aAe394992d2c5D5A8"
+  },
+  "clankerInfo": null
+}

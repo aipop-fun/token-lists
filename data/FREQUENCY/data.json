@@ -1,0 +1,22 @@
+{
+  "name": "Frequency",
+  "symbol": "Frequency",
+  "decimals": 18,
+  "description": "Frequency is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frequency",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frequency",
+  "addresses": {
+    "8453": "0x3814d38ac5547baa833dfd78649d14a19ba22115"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frequency",
+    "sanitizedSymbol": "FREQUENCY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157735",
+    "lockerAddress": "0x6a54C712e7c5599d4B2b01CbC84E2B1e55e124D0"
+  },
+  "clankerInfo": null
+}

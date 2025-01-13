@@ -1,0 +1,22 @@
+{
+  "name": "happy sunday base",
+  "symbol": "happy sunday base",
+  "decimals": 18,
+  "description": "happy sunday base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=happy%20sunday%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "happy sunday base",
+  "addresses": {
+    "8453": "0x052831d14ef39a5c27c9389a802131f6c857dc88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "happy sunday base",
+    "sanitizedSymbol": "HAPPY_SUNDAY_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1285448",
+    "lockerAddress": "0x65c35899086904753118E25aC96a787Df95825C5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VANA",
+  "symbol": "VANA",
+  "decimals": 18,
+  "description": "VANA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VANA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VANA",
+  "addresses": {
+    "8453": "0x30955d87a0515f56d3f4a692d572c0c9dcd6de50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VANA",
+    "sanitizedSymbol": "VANA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x34876F7C9d38C8F2237423CDe23E89b06D02a26E",
+    "lpNftId": "1329728",
+    "lockerAddress": "0x25a2795BEd1930Bb4200b173bD76e86e2717864F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Theta House",
+  "symbol": "Theta House",
+  "decimals": 18,
+  "description": "Theta House is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Theta%20House",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Theta House",
+  "addresses": {
+    "8453": "0x10f8c0ded9ca4d05e99f6d06bd7eac96b96fee3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Theta House",
+    "sanitizedSymbol": "THETA_HOUSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1227068",
+    "lockerAddress": "0x7682EFd30affe1B1207A49eD58f9f9687336A6F1"
+  },
+  "clankerInfo": null
+}

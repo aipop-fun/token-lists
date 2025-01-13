@@ -1,0 +1,22 @@
+{
+  "name": "MoonShot Token",
+  "symbol": "MoonShot Token",
+  "decimals": 18,
+  "description": "MoonShot Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonShot%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonShot Token",
+  "addresses": {
+    "8453": "0x331bd48241321467c19b2ce76127be1f5b515a53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonShot Token",
+    "sanitizedSymbol": "MOONSHOT_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118310",
+    "lockerAddress": "0xC7BbBA03c0C5657dd5F006Df825359f1881A2280"
+  },
+  "clankerInfo": null
+}

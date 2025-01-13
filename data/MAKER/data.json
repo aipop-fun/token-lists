@@ -1,0 +1,22 @@
+{
+  "name": "Maker",
+  "symbol": "Maker",
+  "decimals": 18,
+  "description": "Maker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maker",
+  "addresses": {
+    "8453": "0x3982374cf2661c879804a493057b8edabcc1e935"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maker",
+    "sanitizedSymbol": "MAKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216958",
+    "lockerAddress": "0xF25a4D1fcf3D1dD80745ADFe518975242Da40be0"
+  },
+  "clankerInfo": null
+}

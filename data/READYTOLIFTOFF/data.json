@@ -1,0 +1,22 @@
+{
+  "name": "ReadyToLiftOff",
+  "symbol": "ReadyToLiftOff",
+  "decimals": 18,
+  "description": "ReadyToLiftOff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ReadyToLiftOff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ReadyToLiftOff",
+  "addresses": {
+    "8453": "0x2d4e64d9a7af665dd5cc8b46263c668ac174ed07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ReadyToLiftOff",
+    "sanitizedSymbol": "READYTOLIFTOFF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x851f5a2ae1113c287F8483b22934Bc144357Ed9A",
+    "lpNftId": "1308719",
+    "lockerAddress": "0xb4709CDe72D557579F7e1B21cf48E8Ca17082E58"
+  },
+  "clankerInfo": null
+}

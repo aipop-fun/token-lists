@@ -1,0 +1,22 @@
+{
+  "name": "not pepe",
+  "symbol": "not pepe",
+  "decimals": 18,
+  "description": "not pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=not%20pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "not pepe",
+  "addresses": {
+    "8453": "0x19f3351be5ba2a193fcef05ae4249619447748d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "not pepe",
+    "sanitizedSymbol": "NOT_PEPE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204870",
+    "lockerAddress": "0x482b46e1A1768e01449F0daEfdcf881D2C6fa81c"
+  },
+  "clankerInfo": null
+}

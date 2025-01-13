@@ -1,0 +1,22 @@
+{
+  "name": "europoor",
+  "symbol": "europoor",
+  "decimals": 18,
+  "description": "europoor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=europoor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "europoor",
+  "addresses": {
+    "8453": "0x27fa228f3b67ae9536bb2f0de8a0a1404adde136"
+  },
+  "tokenInfo": {
+    "originalSymbol": "europoor",
+    "sanitizedSymbol": "EUROPOOR_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe876275e5e1A77e0DE4006e5d9B85B33621d1442",
+    "lpNftId": "1341733",
+    "lockerAddress": "0xe74Db14B73A50d1A899592350b716265eF0DBA95"
+  },
+  "clankerInfo": null
+}

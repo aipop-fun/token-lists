@@ -1,0 +1,22 @@
+{
+  "name": "TEST WARPCAST",
+  "symbol": "TEST WARPCAST",
+  "decimals": 18,
+  "description": "TEST WARPCAST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEST%20WARPCAST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEST WARPCAST",
+  "addresses": {
+    "8453": "0x3e195621e0ee408b633e0fba52c5015890c56acf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEST WARPCAST",
+    "sanitizedSymbol": "TEST_WARPCAST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215724",
+    "lockerAddress": "0x5B93A7B0b7De086096Ac01d8693Eb17E5Fe118E5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "donutsmoon",
+  "symbol": "donutsmoon",
+  "decimals": 18,
+  "description": "donutsmoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=donutsmoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "donutsmoon",
+  "addresses": {
+    "8453": "0x3e1abc68e47036838ac77b241a398b3400015b65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "donutsmoon",
+    "sanitizedSymbol": "DONUTSMOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF082eE65887F75D93B0bb589Dbc9f5475DCE4784",
+    "lpNftId": "1298199",
+    "lockerAddress": "0x10AFe9496A33B877c19f03F7C38f293ae2a9e86B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KumaKun",
+  "symbol": "KumaKun",
+  "decimals": 18,
+  "description": "KumaKun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KumaKun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KumaKun",
+  "addresses": {
+    "8453": "0x0f8cc6e24eee1ac5af33374a8f67c0d8334fd15a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KumaKun",
+    "sanitizedSymbol": "KUMAKUN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb3A98DF32B3b0c7B1B287e9f8D7f4f44652D50e2",
+    "lpNftId": "1253316",
+    "lockerAddress": "0x073572B3f9D401eaFD5336f59C933993207F155D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VIKING",
+  "symbol": "VIKING",
+  "decimals": 18,
+  "description": "VIKING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VIKING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VIKING",
+  "addresses": {
+    "8453": "0x03ae54d751b6428220a36d52be038ffed8a9b857"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VIKING",
+    "sanitizedSymbol": "VIKING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4BF1BFe5Cf59d67879464cDF28d1De326F38B1E2",
+    "lpNftId": "1319014",
+    "lockerAddress": "0x78306286fa369116Bd25472EF4af5cE4AB96F68c"
+  },
+  "clankerInfo": null
+}

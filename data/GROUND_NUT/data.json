@@ -1,0 +1,22 @@
+{
+  "name": "Ground NUT",
+  "symbol": "Ground NUT",
+  "decimals": 18,
+  "description": "Ground NUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ground%20NUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ground NUT",
+  "addresses": {
+    "8453": "0x3ec7961f8185794e374885ca0df65fdc582ba28d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ground NUT",
+    "sanitizedSymbol": "GROUND_NUT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195197",
+    "lockerAddress": "0x175E5dC4df3306a46E25598C8d3a2A95Fd047dd4"
+  },
+  "clankerInfo": null
+}

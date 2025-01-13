@@ -1,0 +1,22 @@
+{
+  "name": "Crusher",
+  "symbol": "Crusher",
+  "decimals": 18,
+  "description": "Crusher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crusher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crusher",
+  "addresses": {
+    "8453": "0x12d2edb6b85d4c866a40da4749590f894ee33bde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crusher",
+    "sanitizedSymbol": "CRUSHER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128980",
+    "lockerAddress": "0x00D9273B3d9310DcdEc249C12E2d21174A843b58"
+  },
+  "clankerInfo": null
+}

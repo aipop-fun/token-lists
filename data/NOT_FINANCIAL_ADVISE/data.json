@@ -1,0 +1,22 @@
+{
+  "name": "Not Financial Advise",
+  "symbol": "Not Financial Advise",
+  "decimals": 18,
+  "description": "Not Financial Advise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Financial%20Advise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Financial Advise",
+  "addresses": {
+    "8453": "0x2ec862bd4ec7148095ef23edd9edb2d720d3f28a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Financial Advise",
+    "sanitizedSymbol": "NOT_FINANCIAL_ADVISE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEE0a4Eee549311E4dF6E374E0Cff3d84aA263e44",
+    "lpNftId": "1327340",
+    "lockerAddress": "0x3bD55B58cc336F064a5C246eD1ac10B73f7e1c5B"
+  },
+  "clankerInfo": null
+}

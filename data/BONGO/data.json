@@ -1,0 +1,22 @@
+{
+  "name": "BONGO",
+  "symbol": "BONGO",
+  "decimals": 18,
+  "description": "BONGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BONGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BONGO",
+  "addresses": {
+    "8453": "0x272bacf463b7392648c0751c1bcb068a237000a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BONGO",
+    "sanitizedSymbol": "BONGO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233973",
+    "lockerAddress": "0x6a2249d3A9810f3FAe10B1d0108e5AeE66b099C4"
+  },
+  "clankerInfo": null
+}

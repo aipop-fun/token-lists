@@ -1,0 +1,22 @@
+{
+  "name": "Voting protocol",
+  "symbol": "Voting protocol",
+  "decimals": 18,
+  "description": "Voting protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Voting%20protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Voting protocol",
+  "addresses": {
+    "8453": "0x2866f53bd9cfcad8f71115df6203b065a3496ba0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Voting protocol",
+    "sanitizedSymbol": "VOTING_PROTOCOL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0e7683B316012C225B0F052e4585C78c42C01a74",
+    "lpNftId": "1290105",
+    "lockerAddress": "0x904e7aF830f3784639f09e9258564FF3EA12Ea01"
+  },
+  "clankerInfo": null
+}

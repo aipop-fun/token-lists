@@ -1,0 +1,22 @@
+{
+  "name": "KPAW",
+  "symbol": "KPAW",
+  "decimals": 18,
+  "description": "KPAW is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KPAW",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KPAW",
+  "addresses": {
+    "8453": "0x3a02604a4da19035738449d201b7c65093526549"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KPAW",
+    "sanitizedSymbol": "KPAW_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5c509B6B77BBEd2d819B1155A0E88481a3C947c0",
+    "lpNftId": "1320711",
+    "lockerAddress": "0x49F8Ef4Ed726219698EcA1ab579BfC0326E606EB"
+  },
+  "clankerInfo": null
+}

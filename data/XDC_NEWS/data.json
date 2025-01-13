@@ -1,0 +1,22 @@
+{
+  "name": "XDC NEWS",
+  "symbol": "XDC NEWS",
+  "decimals": 18,
+  "description": "XDC NEWS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XDC%20NEWS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XDC NEWS",
+  "addresses": {
+    "8453": "0x0d5145f0b6c07f39afc710969ad84ed33fa8d977"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XDC NEWS",
+    "sanitizedSymbol": "XDC_NEWS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1326226",
+    "lockerAddress": "0x396b40a5dc44964d15fd8b657aA0A4B9764A2cd1"
+  },
+  "clankerInfo": null
+}

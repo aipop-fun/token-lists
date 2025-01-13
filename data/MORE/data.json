@@ -1,0 +1,22 @@
+{
+  "name": "MORE",
+  "symbol": "MORE",
+  "decimals": 18,
+  "description": "MORE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MORE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MORE",
+  "addresses": {
+    "8453": "0x07ec3e57f9e41e8a66a88aef675d39c7cbc32dda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MORE",
+    "sanitizedSymbol": "MORE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119589",
+    "lockerAddress": "0xF764aDd3A7aA56F44f2Ab92bEFB310bACD852A26"
+  },
+  "clankerInfo": null
+}

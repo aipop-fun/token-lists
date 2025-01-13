@@ -1,0 +1,22 @@
+{
+  "name": "Greench",
+  "symbol": "Greench",
+  "decimals": 18,
+  "description": "Greench is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Greench",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Greench",
+  "addresses": {
+    "8453": "0x39f6c5e50f868b76386f0ae54a8181ad31d7516d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Greench",
+    "sanitizedSymbol": "GREENCH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAF50ED99AD526E3Cfd0BaE803F9052999aCb16b3",
+    "lpNftId": "1330822",
+    "lockerAddress": "0x2b9EA14CbE99d409643cf4FCA57b4014c6AFB404"
+  },
+  "clankerInfo": null
+}

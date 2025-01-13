@@ -1,0 +1,22 @@
+{
+  "name": "LOFI",
+  "symbol": "LOFI",
+  "decimals": 18,
+  "description": "LOFI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOFI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOFI",
+  "addresses": {
+    "8453": "0x383293ad62f00a391dc93d562a83132447540323"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOFI",
+    "sanitizedSymbol": "LOFI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x96eE201e9FC728B5Ba7d64888a18c8469fbbC11B",
+    "lpNftId": "1269166",
+    "lockerAddress": "0xf5670aCaBFc37928FB6157bF14B884280E8FE89A"
+  },
+  "clankerInfo": null
+}

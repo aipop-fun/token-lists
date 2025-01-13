@@ -1,0 +1,22 @@
+{
+  "name": "bringpapaback",
+  "symbol": "bringpapaback",
+  "decimals": 18,
+  "description": "bringpapaback is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bringpapaback",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bringpapaback",
+  "addresses": {
+    "8453": "0x36b628f8321388a79fb0a8c1bf0136c01d4f41b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bringpapaback",
+    "sanitizedSymbol": "BRINGPAPABACK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x97414F727C15b1545923D926E898032d44C33E74",
+    "lpNftId": "1266555",
+    "lockerAddress": "0xAB616a33bFB1a089A4219F7AB2bf24342e136C5a"
+  },
+  "clankerInfo": null
+}

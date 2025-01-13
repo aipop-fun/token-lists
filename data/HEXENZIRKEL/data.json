@@ -1,0 +1,22 @@
+{
+  "name": "Hexenzirkel",
+  "symbol": "Hexenzirkel",
+  "decimals": 18,
+  "description": "Hexenzirkel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hexenzirkel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hexenzirkel",
+  "addresses": {
+    "8453": "0x1bac47cf6657d48ded1e9b6ff82b09b3d552ea93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hexenzirkel",
+    "sanitizedSymbol": "HEXENZIRKEL",
+    "created_at": "2024-12-12T17:35:58.189773",
+    "deployer": "0xc717f7aC1550d0Aa2B0319bA3F39499cf2CC618a",
+    "lpNftId": "1439707",
+    "lockerAddress": "0x9bf69ff7001D1ABb85402562EAC4a810d404Eb51"
+  },
+  "clankerInfo": null
+}

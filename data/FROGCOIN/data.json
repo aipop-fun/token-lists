@@ -1,0 +1,22 @@
+{
+  "name": "FrogCoin 🐸",
+  "symbol": "FrogCoin 🐸",
+  "decimals": 18,
+  "description": "FrogCoin 🐸 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrogCoin%20%F0%9F%90%B8",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrogCoin 🐸",
+  "addresses": {
+    "8453": "0x3735c1e18fc68b8eac303537b43f30681673a57a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrogCoin 🐸",
+    "sanitizedSymbol": "FROGCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd44a2d237c3B54E2fe7f3D362bdE024b3001ac37",
+    "lpNftId": "1310417",
+    "lockerAddress": "0xa5FF1308cd4B2CBcd835a4c53227e5A159292567"
+  },
+  "clankerInfo": null
+}

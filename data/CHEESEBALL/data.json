@@ -1,0 +1,22 @@
+{
+  "name": "CHEESEBALL",
+  "symbol": "CHEESEBALL",
+  "decimals": 18,
+  "description": "CHEESEBALL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHEESEBALL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHEESEBALL",
+  "addresses": {
+    "8453": "0x00b6e2d87ba849457a53fd8b5ecd0cb4f9f79258"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHEESEBALL",
+    "sanitizedSymbol": "CHEESEBALL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222204",
+    "lockerAddress": "0x2014d3b3fFa5f22673FF95F1850Ac6eB66341a82"
+  },
+  "clankerInfo": null
+}

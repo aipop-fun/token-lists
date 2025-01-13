@@ -1,0 +1,22 @@
+{
+  "name": "Let it snow",
+  "symbol": "Let it snow",
+  "decimals": 18,
+  "description": "Let it snow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Let%20it%20snow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Let it snow",
+  "addresses": {
+    "8453": "0x1f1cd685aa85bb953dee3305077e6545f5aadce4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Let it snow",
+    "sanitizedSymbol": "LET_IT_SNOW",
+    "created_at": "2024-12-12T20:49:08.440004",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1442697",
+    "lockerAddress": "0xe121b5b61160c2a99125A00B3Dcc9910742A5808"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Question",
+  "symbol": "Question",
+  "decimals": 18,
+  "description": "Question is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Question",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Question",
+  "addresses": {
+    "8453": "0x37517cc39cf6d0bfe4c16ce04e8b87b0a63eeb59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Question",
+    "sanitizedSymbol": "QUESTION",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230417",
+    "lockerAddress": "0x23D1cFf86c40441Ece6e4E1Da9c70cbDF1262BFa"
+  },
+  "clankerInfo": null
+}

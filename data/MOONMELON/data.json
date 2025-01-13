@@ -1,0 +1,22 @@
+{
+  "name": "MOONMELON",
+  "symbol": "MOONMELON",
+  "decimals": 18,
+  "description": "MOONMELON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONMELON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONMELON",
+  "addresses": {
+    "8453": "0x146431f78f336d3cf1e27d54a8b4d8c188926eef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONMELON",
+    "sanitizedSymbol": "MOONMELON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4E656ff0D543e058F4D35FF444e7EE3e24cb1064",
+    "lpNftId": "1281740",
+    "lockerAddress": "0xc7974daD91704A61f76c7043fe40cFac330d42DD"
+  },
+  "clankerInfo": null
+}

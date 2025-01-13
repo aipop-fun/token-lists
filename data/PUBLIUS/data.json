@@ -1,0 +1,22 @@
+{
+  "name": "PUBLIUS",
+  "symbol": "PUBLIUS",
+  "decimals": 18,
+  "description": "PUBLIUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUBLIUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUBLIUS",
+  "addresses": {
+    "8453": "0x3512208ea82a7df9affb5ed07f3cbb9d7deb7418"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUBLIUS",
+    "sanitizedSymbol": "PUBLIUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203801",
+    "lockerAddress": "0x0f9ffeF8D7DF55b018bd04BaC4C923f7af14Ae74"
+  },
+  "clankerInfo": null
+}

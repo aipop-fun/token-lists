@@ -1,0 +1,22 @@
+{
+  "name": "Esperantor",
+  "symbol": "Esperantor",
+  "decimals": 18,
+  "description": "Esperantor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Esperantor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Esperantor",
+  "addresses": {
+    "8453": "0x03fcba7a380eb33047b08c54ab35c52dd3bf24fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Esperantor",
+    "sanitizedSymbol": "ESPERANTOR",
+    "created_at": "2024-12-09T07:08:25.653816",
+    "deployer": "0x67Aa06d9FBDD6d77A921dD9f12560D524dd92301",
+    "lpNftId": "1384280",
+    "lockerAddress": "0x3AE30abE20b8178541Fc819E733832a96098F268"
+  },
+  "clankerInfo": null
+}

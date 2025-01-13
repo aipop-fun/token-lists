@@ -1,0 +1,22 @@
+{
+  "name": "ICE Glacier",
+  "symbol": "ICE Glacier",
+  "decimals": 18,
+  "description": "ICE Glacier is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ICE%20Glacier",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ICE Glacier",
+  "addresses": {
+    "8453": "0x2f146afdc5f9c5adbfc6153e2c1f25ecc110b4cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ICE Glacier",
+    "sanitizedSymbol": "ICE_GLACIER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xecF515072e1391fd1255000c35a99F247D5790b8",
+    "lpNftId": "1251869",
+    "lockerAddress": "0xFc31A6d33EbA1cea04304e73c0E5A9088699832d"
+  },
+  "clankerInfo": null
+}

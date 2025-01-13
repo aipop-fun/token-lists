@@ -1,0 +1,22 @@
+{
+  "name": "Pinky",
+  "symbol": "Pinky",
+  "decimals": 18,
+  "description": "Pinky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pinky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pinky",
+  "addresses": {
+    "8453": "0x3cfd70d0d6937253e88163a4bfb0faf083fb536e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pinky",
+    "sanitizedSymbol": "PINKY",
+    "created_at": "2024-12-10T20:54:41.148613",
+    "deployer": "0xCfb7221290142d38e9d46e9e2feB27b9Ca3685C0",
+    "lpNftId": "1407130",
+    "lockerAddress": "0x2b13f79155f8274F1Ecb2386C31f9E456a68f0aE"
+  },
+  "clankerInfo": null
+}

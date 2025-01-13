@@ -1,0 +1,22 @@
+{
+  "name": "GNECK",
+  "symbol": "GNECK",
+  "decimals": 18,
+  "description": "GNECK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GNECK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GNECK",
+  "addresses": {
+    "8453": "0x0221ebb155ab902d2eb1318ae5121067229a12ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GNECK",
+    "sanitizedSymbol": "GNECK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1310631",
+    "lockerAddress": "0xa23BB1D065C752de96199e3D8b14D48259764B00"
+  },
+  "clankerInfo": null
+}

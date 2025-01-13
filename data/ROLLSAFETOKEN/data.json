@@ -1,0 +1,22 @@
+{
+  "name": "RollSafeToken",
+  "symbol": "RollSafeToken",
+  "decimals": 18,
+  "description": "RollSafeToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RollSafeToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RollSafeToken",
+  "addresses": {
+    "8453": "0x346eb83782bdf2095c8169d35ac53560ba3bde45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RollSafeToken",
+    "sanitizedSymbol": "ROLLSAFETOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166214",
+    "lockerAddress": "0x2f9BF19a5e4Ac93a9a6E460E9A744f79bEdD542a"
+  },
+  "clankerInfo": null
+}

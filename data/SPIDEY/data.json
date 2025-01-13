@@ -1,0 +1,22 @@
+{
+  "name": "SPIDEY",
+  "symbol": "SPIDEY",
+  "decimals": 18,
+  "description": "SPIDEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPIDEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPIDEY",
+  "addresses": {
+    "8453": "0x3659f0a5a27c9f859255d3633b14c63aa423409e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPIDEY",
+    "sanitizedSymbol": "SPIDEY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1293376",
+    "lockerAddress": "0x403E7d08B1d9ceaE5b69303995984CFe70dDC5cd"
+  },
+  "clankerInfo": null
+}

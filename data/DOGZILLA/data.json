@@ -1,0 +1,22 @@
+{
+  "name": "dogzilla",
+  "symbol": "dogzilla",
+  "decimals": 18,
+  "description": "dogzilla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogzilla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogzilla",
+  "addresses": {
+    "8453": "0x0cc5eb9dcb727f1d120ada1d2b5317cf6bac1908"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogzilla",
+    "sanitizedSymbol": "DOGZILLA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x28abA2DFcf42eAdfEe60CeBFA650aC7184652424",
+    "lpNftId": "1321999",
+    "lockerAddress": "0x779BE853055505ecBFEA5E5C2777338Ffd238029"
+  },
+  "clankerInfo": null
+}

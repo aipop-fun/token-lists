@@ -1,0 +1,22 @@
+{
+  "name": "SuccessChain",
+  "symbol": "SuccessChain",
+  "decimals": 18,
+  "description": "SuccessChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuccessChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuccessChain",
+  "addresses": {
+    "8453": "0x198db42248942f4c338c09d0b77182bdc5a97056"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuccessChain",
+    "sanitizedSymbol": "SUCCESSCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166009",
+    "lockerAddress": "0x5e984c1B05C279C4DEB1F10EEA162A56d806eBa9"
+  },
+  "clankerInfo": null
+}

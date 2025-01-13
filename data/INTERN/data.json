@@ -1,0 +1,22 @@
+{
+  "name": "Intern",
+  "symbol": "Intern",
+  "decimals": 18,
+  "description": "Intern is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Intern",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Intern",
+  "addresses": {
+    "8453": "0x2f36b953f150bdbe3ea6d020d3d936baf526e90e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Intern",
+    "sanitizedSymbol": "INTERN",
+    "created_at": "2024-12-12T03:29:05.428269",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1428897",
+    "lockerAddress": "0x561D2a2F46D1a36723b18E50970E52F098408cAb"
+  },
+  "clankerInfo": null
+}

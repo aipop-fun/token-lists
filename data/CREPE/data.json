@@ -1,0 +1,22 @@
+{
+  "name": "CREPE",
+  "symbol": "CREPE",
+  "decimals": 18,
+  "description": "CREPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CREPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CREPE",
+  "addresses": {
+    "8453": "0x3d0198e943d10d03d96ec3e2450b93c3d6d2277d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CREPE",
+    "sanitizedSymbol": "CREPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x28C736f2D3b5ea596a0f559ec8196Eaa92dA3Da6",
+    "lpNftId": "1276302",
+    "lockerAddress": "0x5650879352D656fF224f287c5d96Bd1861B72803"
+  },
+  "clankerInfo": null
+}

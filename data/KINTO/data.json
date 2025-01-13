@@ -1,0 +1,22 @@
+{
+  "name": "kinto",
+  "symbol": "kinto",
+  "decimals": 18,
+  "description": "kinto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kinto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kinto",
+  "addresses": {
+    "8453": "0x0a7be06a75d88b4f4a247f97025f1004ae09d6bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kinto",
+    "sanitizedSymbol": "KINTO",
+    "created_at": "2024-12-12T19:26:28.014163",
+    "deployer": "0x3688ee2a85085087CB94E062cd756Fe2AFC065D9",
+    "lpNftId": "1441643",
+    "lockerAddress": "0x108046855Ab0fd78805054D7547070c193e606eB"
+  },
+  "clankerInfo": null
+}

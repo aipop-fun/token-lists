@@ -1,0 +1,22 @@
+{
+  "name": "Digital RMB",
+  "symbol": "Digital RMB",
+  "decimals": 18,
+  "description": "Digital RMB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20RMB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital RMB",
+  "addresses": {
+    "8453": "0x33bea7032e6d71cab20c4e93e6b737b60b1c54a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital RMB",
+    "sanitizedSymbol": "DIGITAL_RMB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158899",
+    "lockerAddress": "0x140E9E81420a1b5FDa46D393b0f8d1FD7f3507A4"
+  },
+  "clankerInfo": null
+}

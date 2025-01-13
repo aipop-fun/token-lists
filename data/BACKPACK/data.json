@@ -1,0 +1,22 @@
+{
+  "name": "BACKPACK",
+  "symbol": "BACKPACK",
+  "decimals": 18,
+  "description": "BACKPACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BACKPACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BACKPACK",
+  "addresses": {
+    "8453": "0x1254c44c82ba5c2b949d0a0eca6158f8daf1c105"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BACKPACK",
+    "sanitizedSymbol": "BACKPACK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa74FaeBC8cdCA953E2bebF2F6E86927162ACfD13",
+    "lpNftId": "1320448",
+    "lockerAddress": "0x511Ed5944A56E26DEA6A6Eb25acDc12D0420D044"
+  },
+  "clankerInfo": null
+}

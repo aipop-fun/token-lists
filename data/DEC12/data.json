@@ -1,0 +1,22 @@
+{
+  "name": "dec12",
+  "symbol": "dec12",
+  "decimals": 18,
+  "description": "dec12 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dec12",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dec12",
+  "addresses": {
+    "8453": "0x144d6844e9562f3aca36fc6c8d73a3951c92deac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dec12",
+    "sanitizedSymbol": "DEC12",
+    "created_at": "2024-12-12T05:41:54.54277",
+    "deployer": "0x3E42B92fE2EBC56cE9Ef968579B216B3957a39FB",
+    "lpNftId": "1429431",
+    "lockerAddress": "0xedc3242b959790741EE20Da7EbEF19dF5D6943b3"
+  },
+  "clankerInfo": null
+}

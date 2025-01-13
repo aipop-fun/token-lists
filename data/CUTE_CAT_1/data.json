@@ -1,0 +1,22 @@
+{
+  "name": "Cute Cat",
+  "symbol": "Cute Cat",
+  "decimals": 18,
+  "description": "Cute Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cute%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cute Cat",
+  "addresses": {
+    "8453": "0x35df29b5ddcdbdc953c81ec9d4ebff3c10f4fdfb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cute Cat",
+    "sanitizedSymbol": "CUTE_CAT_1",
+    "created_at": "2024-12-11T16:22:12.072614",
+    "deployer": "0xe6b7D032FB4778F510dfb5e6A374d1D61864Fbde",
+    "lpNftId": "1421778",
+    "lockerAddress": "0xfb2735499e97D5E9Ba7C93fCC96c8E3B9853E38a"
+  },
+  "clankerInfo": null
+}

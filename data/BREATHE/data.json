@@ -1,0 +1,22 @@
+{
+  "name": "BREATHE",
+  "symbol": "BREATHE",
+  "decimals": 18,
+  "description": "BREATHE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BREATHE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BREATHE",
+  "addresses": {
+    "8453": "0x245c378e13c12c80f78443356258a14f7c221181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BREATHE",
+    "sanitizedSymbol": "BREATHE",
+    "created_at": "2024-12-11T10:36:57.205006",
+    "deployer": "0xab5856e0a28288F40C73a7d9736751C1534779C9",
+    "lpNftId": "1416542",
+    "lockerAddress": "0x9DF2D0cFf369e10f3d51CcDdBffAcB1f033c5BC7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ZUES MAX",
+  "symbol": "ZUES MAX",
+  "decimals": 18,
+  "description": "ZUES MAX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZUES%20MAX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZUES MAX",
+  "addresses": {
+    "8453": "0x0fc06ee205c7021a063ed8346007aaecfe0cd5c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZUES MAX",
+    "sanitizedSymbol": "ZUES_MAX",
+    "created_at": "2024-12-09T04:57:43.220643",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1382750",
+    "lockerAddress": "0xCf1f0fFA20DaFAae5A43F7d899e1577EC7b94a58"
+  },
+  "clankerInfo": null
+}

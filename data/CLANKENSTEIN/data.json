@@ -1,0 +1,22 @@
+{
+  "name": "Clankenstein",
+  "symbol": "Clankenstein",
+  "decimals": 18,
+  "description": "Clankenstein is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankenstein",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankenstein",
+  "addresses": {
+    "8453": "0x0b2b2b6c83eb2f7169ad434e6a10ad3e4a945186"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankenstein",
+    "sanitizedSymbol": "CLANKENSTEIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62321E5A55EA63f35944D8BAD9eA4873e6f4c71B",
+    "lpNftId": "1284238",
+    "lockerAddress": "0xb81199060A5F3978c11F5b519b41ef534CEFD7ec"
+  },
+  "clankerInfo": null
+}

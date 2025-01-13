@@ -1,0 +1,22 @@
+{
+  "name": "MightyAnon",
+  "symbol": "MightyAnon",
+  "decimals": 18,
+  "description": "MightyAnon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MightyAnon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MightyAnon",
+  "addresses": {
+    "8453": "0x1a5b158c3db685f9068505f9e3eb73c8a508dac0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MightyAnon",
+    "sanitizedSymbol": "MIGHTYANON",
+    "created_at": "2024-12-09T06:28:26.786598",
+    "deployer": "0x051e7e222A283AEe196e2c22FAD93274c6c512aE",
+    "lpNftId": "1383979",
+    "lockerAddress": "0x87EE4a97B157C8AAF8f5d688acbd14edf5A0E349"
+  },
+  "clankerInfo": null
+}

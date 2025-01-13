@@ -1,0 +1,22 @@
+{
+  "name": "NOFOMO",
+  "symbol": "NOFOMO",
+  "decimals": 18,
+  "description": "NOFOMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOFOMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOFOMO",
+  "addresses": {
+    "8453": "0x20e3d55469c12915a8a1e37fcf77d5ac41fdb973"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOFOMO",
+    "sanitizedSymbol": "NOFOMO",
+    "created_at": "2024-12-09T13:19:47.71083",
+    "deployer": "0x1157e6ccCb2D942CB0C7Ae135fd2E9fC0c6C8195",
+    "lpNftId": "1387366",
+    "lockerAddress": "0xA4B649fCbcFDb0A582563BfDD080eA0Cbe3464Af"
+  },
+  "clankerInfo": null
+}

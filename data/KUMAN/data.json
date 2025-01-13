@@ -1,0 +1,22 @@
+{
+  "name": "Kuman",
+  "symbol": "Kuman",
+  "decimals": 18,
+  "description": "Kuman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kuman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kuman",
+  "addresses": {
+    "8453": "0x0644035f5d3f26c2289a58f06bdad7af0cdfc57d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kuman",
+    "sanitizedSymbol": "KUMAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x142c408AF7c814cc84d6f8B17890d09aaed3dD1c",
+    "lpNftId": "1330507",
+    "lockerAddress": "0x45cE410F880C0dcb30E44B2524e9772B39112DBa"
+  },
+  "clankerInfo": null
+}

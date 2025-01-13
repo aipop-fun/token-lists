@@ -1,0 +1,22 @@
+{
+  "name": "Rodeo Club",
+  "symbol": "Rodeo Club",
+  "decimals": 18,
+  "description": "Rodeo Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rodeo%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rodeo Club",
+  "addresses": {
+    "8453": "0x11c40098d71241012979ac7ec92c5edda0491f07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rodeo Club",
+    "sanitizedSymbol": "RODEO_CLUB",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5b8eba0B8fAfa9d92Ec667d7440D5ac3E9D574cE",
+    "lpNftId": "1323666",
+    "lockerAddress": "0x97e6F70a68e98f3a7eFC2eb72CbE78B4E72a588e"
+  },
+  "clankerInfo": null
+}

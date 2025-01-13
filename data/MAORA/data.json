@@ -1,0 +1,22 @@
+{
+  "name": "MAORA",
+  "symbol": "MAORA",
+  "decimals": 18,
+  "description": "MAORA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAORA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAORA",
+  "addresses": {
+    "8453": "0x3c4b59bf59357d51d9405425f7b0755dd68cc455"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAORA",
+    "sanitizedSymbol": "MAORA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc09294b11EEEAF745eb75D3D2E7e879a9014984B",
+    "lpNftId": "1265404",
+    "lockerAddress": "0xfaBad9D965731acEB05fc0AFDD56791207c6B44D"
+  },
+  "clankerInfo": null
+}

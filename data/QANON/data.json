@@ -1,0 +1,22 @@
+{
+  "name": "QANON",
+  "symbol": "QANON",
+  "decimals": 18,
+  "description": "QANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QANON",
+  "addresses": {
+    "8453": "0x2c00db43a4898264c7558a288467cdecedb9d85e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QANON",
+    "sanitizedSymbol": "QANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205144",
+    "lockerAddress": "0x755cd7792A06A8E39558e1AA0f13893293DE6E86"
+  },
+  "clankerInfo": null
+}

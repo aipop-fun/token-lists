@@ -1,0 +1,22 @@
+{
+  "name": "XTREAM BASE PEPE",
+  "symbol": "XTREAM BASE PEPE",
+  "decimals": 18,
+  "description": "XTREAM BASE PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XTREAM%20BASE%20PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XTREAM BASE PEPE",
+  "addresses": {
+    "8453": "0x24b82319a773350feb577449449e0489dca5ad6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XTREAM BASE PEPE",
+    "sanitizedSymbol": "XTREAM_BASE_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1292552",
+    "lockerAddress": "0x407B136FA6Cc38399eE2CD46BB53718864199913"
+  },
+  "clankerInfo": null
+}

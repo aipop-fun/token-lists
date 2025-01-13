@@ -1,0 +1,22 @@
+{
+  "name": "Bullvance",
+  "symbol": "Bullvance",
+  "decimals": 18,
+  "description": "Bullvance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bullvance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bullvance",
+  "addresses": {
+    "8453": "0x405a2b0c131efad6e19b6acc68f9c20ead1cde5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bullvance",
+    "sanitizedSymbol": "BULLVANCE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1366796",
+    "lockerAddress": "0x332Bea896854d77730DD2C6A84359C038aBCA2f7"
+  },
+  "clankerInfo": null
+}

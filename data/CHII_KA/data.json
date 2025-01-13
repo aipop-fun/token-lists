@@ -1,0 +1,22 @@
+{
+  "name": "Chii-ka",
+  "symbol": "Chii-ka",
+  "decimals": 18,
+  "description": "Chii-ka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chii-ka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chii-ka",
+  "addresses": {
+    "8453": "0x0bcf9ec4617b64d32dc9a757404ddbfc67a0d84f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chii-ka",
+    "sanitizedSymbol": "CHII_KA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152395",
+    "lockerAddress": "0xaf995a168F7a003Ab79800b0F620AB3f93D3C6D9"
+  },
+  "clankerInfo": null
+}

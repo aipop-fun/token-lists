@@ -1,0 +1,22 @@
+{
+  "name": "KitKat",
+  "symbol": "KitKat",
+  "decimals": 18,
+  "description": "KitKat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KitKat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KitKat",
+  "addresses": {
+    "8453": "0x1cc27aef73923e26fd2e369f09291ee24e38ba4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KitKat",
+    "sanitizedSymbol": "KITKAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe876275e5e1A77e0DE4006e5d9B85B33621d1442",
+    "lpNftId": "1326332",
+    "lockerAddress": "0x95B1849Bd2c0D1a55b0dfC2391A316DDf8a1Aff0"
+  },
+  "clankerInfo": null
+}

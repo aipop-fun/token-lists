@@ -1,0 +1,22 @@
+{
+  "name": "Winter Arc",
+  "symbol": "Winter Arc",
+  "decimals": 18,
+  "description": "Winter Arc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Winter%20Arc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Winter Arc",
+  "addresses": {
+    "8453": "0x1c470f31150997f96c991883f4c40d68b117b5d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Winter Arc",
+    "sanitizedSymbol": "WINTER_ARC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231288",
+    "lockerAddress": "0xC8170000a98941d142077Bc8Fc710888Ec458270"
+  },
+  "clankerInfo": null
+}

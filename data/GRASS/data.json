@@ -1,0 +1,22 @@
+{
+  "name": "GRASS",
+  "symbol": "GRASS",
+  "decimals": 18,
+  "description": "GRASS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GRASS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GRASS",
+  "addresses": {
+    "8453": "0x2b92d6fbfd8a882104bb4f6176a05ab9cca25b67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GRASS",
+    "sanitizedSymbol": "GRASS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1301019",
+    "lockerAddress": "0xd119e7A782D3dA08c1cE28F6C5d3098dB7274AB3"
+  },
+  "clankerInfo": null
+}

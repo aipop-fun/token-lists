@@ -1,0 +1,22 @@
+{
+  "name": "WEFPointsOfTrust",
+  "symbol": "WEFPointsOfTrust",
+  "decimals": 18,
+  "description": "WEFPointsOfTrust is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEFPointsOfTrust",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEFPointsOfTrust",
+  "addresses": {
+    "8453": "0x1b78674284409ff5aa6925dfdc2943d5a88944de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEFPointsOfTrust",
+    "sanitizedSymbol": "WEFPOINTSOFTRUST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213798",
+    "lockerAddress": "0x03cc2D6a785b92ae48bc4b188Ef250283a5378E9"
+  },
+  "clankerInfo": null
+}

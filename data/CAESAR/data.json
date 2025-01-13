@@ -1,0 +1,22 @@
+{
+  "name": "Caesar",
+  "symbol": "Caesar",
+  "decimals": 18,
+  "description": "Caesar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caesar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caesar",
+  "addresses": {
+    "8453": "0x1b1b255321acd068a8b6ccd089315c122de1a08f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caesar",
+    "sanitizedSymbol": "CAESAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB61712f928927Cc88B05e376579E0BC76C5b6b06",
+    "lpNftId": "1312925",
+    "lockerAddress": "0x048Ac4742aCB087F76f5c4B8CCc487eb6d928818"
+  },
+  "clankerInfo": null
+}

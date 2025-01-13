@@ -1,0 +1,22 @@
+{
+  "name": "AZZAM",
+  "symbol": "AZZAM",
+  "decimals": 18,
+  "description": "AZZAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AZZAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AZZAM",
+  "addresses": {
+    "8453": "0x3b6ee5111b13ad5853b46e7055920b0a10e3d7d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AZZAM",
+    "sanitizedSymbol": "AZZAM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8c4265b9e12dcc134f9E01Bf7fc101E9A212bce7",
+    "lpNftId": "1253265",
+    "lockerAddress": "0xE9AE15fcbDBD5775D995C1570a501D50fFD62dee"
+  },
+  "clankerInfo": null
+}

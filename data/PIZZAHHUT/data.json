@@ -1,0 +1,22 @@
+{
+  "name": "$pizzahhut",
+  "symbol": "$pizzahhut",
+  "decimals": 18,
+  "description": "$pizzahhut is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24pizzahhut",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$pizzahhut",
+  "addresses": {
+    "8453": "0x16d1906895dc1fe916ffcd1b8fab6c4a910056b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$pizzahhut",
+    "sanitizedSymbol": "PIZZAHHUT",
+    "created_at": "2024-12-10T17:44:12.546146",
+    "deployer": "0xAE3D8b670bc8678F8Ed4fD7116aeD92C386EC24b",
+    "lpNftId": "1404880",
+    "lockerAddress": "0x879D77c535F0014b942ab63fb2ac7E63a6ff5127"
+  },
+  "clankerInfo": null
+}

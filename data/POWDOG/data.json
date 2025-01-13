@@ -1,0 +1,22 @@
+{
+  "name": "PowDog",
+  "symbol": "PowDog",
+  "decimals": 18,
+  "description": "PowDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PowDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PowDog",
+  "addresses": {
+    "8453": "0x270ed771d51207c6912105068d1a66e991463f11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PowDog",
+    "sanitizedSymbol": "POWDOG",
+    "created_at": "2024-12-11T14:52:54.194999",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1420649",
+    "lockerAddress": "0x7A8aCcDc127219648058223b95D5aED835755aB4"
+  },
+  "clankerInfo": null
+}

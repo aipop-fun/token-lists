@@ -1,0 +1,22 @@
+{
+  "name": "Mia",
+  "symbol": "Mia",
+  "decimals": 18,
+  "description": "Mia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mia",
+  "addresses": {
+    "8453": "0x4072e81bf5f23c6828b15817396ea6b866cbbdf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mia",
+    "sanitizedSymbol": "MIA",
+    "created_at": "2024-12-09T13:19:54.673511",
+    "deployer": "0x6e55171b59e11bEE97f9314A0963262aCE34D073",
+    "lpNftId": "1387367",
+    "lockerAddress": "0x5238a639B1Fe193979ab78eBB9e4A64Ea5A962f3"
+  },
+  "clankerInfo": null
+}

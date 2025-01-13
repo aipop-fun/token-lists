@@ -1,0 +1,22 @@
+{
+  "name": "Base Jubgni AI",
+  "symbol": "Base Jubgni AI",
+  "decimals": 18,
+  "description": "Base Jubgni AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Jubgni%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Jubgni AI",
+  "addresses": {
+    "8453": "0x0871ce96e5a18dd21875258be1e5946dd2688c1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Jubgni AI",
+    "sanitizedSymbol": "BASE_JUBGNI_AI",
+    "created_at": "2024-12-10T14:15:41.198404",
+    "deployer": "0xa3c0c7845779f1433AA336337417d7217eB4F480",
+    "lpNftId": "1401738",
+    "lockerAddress": "0x35D05f571600F0072C6e21DD20A07E7B9c9e6e5c"
+  },
+  "clankerInfo": null
+}

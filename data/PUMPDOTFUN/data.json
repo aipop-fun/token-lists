@@ -1,0 +1,22 @@
+{
+  "name": "PUMPDOTFUN",
+  "symbol": "PUMPDOTFUN",
+  "decimals": 18,
+  "description": "PUMPDOTFUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUMPDOTFUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUMPDOTFUN",
+  "addresses": {
+    "8453": "0x0e911cb8b37cc9503df92faf1e0443a2fb6d1fbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUMPDOTFUN",
+    "sanitizedSymbol": "PUMPDOTFUN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF417ACe7b13c0ef4fcb5548390a450A4B75D3eB3",
+    "lpNftId": "1288882",
+    "lockerAddress": "0xFc477993055DdC3a8D93adbA0D17b502b1936989"
+  },
+  "clankerInfo": null
+}

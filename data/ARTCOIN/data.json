@@ -1,0 +1,22 @@
+{
+  "name": "ARTCOIN",
+  "symbol": "ARTCOIN",
+  "decimals": 18,
+  "description": "ARTCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ARTCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ARTCOIN",
+  "addresses": {
+    "8453": "0x1574e512533e25a1136358c83ae6b4c22e93f4cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ARTCOIN",
+    "sanitizedSymbol": "ARTCOIN",
+    "created_at": "2024-12-11T18:13:04.691991",
+    "deployer": "0xc0E46e817daaab13c6B6424BeeB0E053C5f32C3B",
+    "lpNftId": "1423489",
+    "lockerAddress": "0x42915169467F0fc4CcA7bD25caA1b854d531D46D"
+  },
+  "clankerInfo": null
+}

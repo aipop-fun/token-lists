@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Goes Higher",
+  "symbol": "Pepe Goes Higher",
+  "decimals": 18,
+  "description": "Pepe Goes Higher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Goes%20Higher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Goes Higher",
+  "addresses": {
+    "8453": "0x032c8e13c221824e978ea08e4e85e315dbe9d44a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Goes Higher",
+    "sanitizedSymbol": "PEPE_GOES_HIGHER",
+    "created_at": "2024-12-12T02:55:39.421149",
+    "deployer": "0xC16B1fe5f9f0AA9De476796873880aB6C7AD96E1",
+    "lpNftId": "1428733",
+    "lockerAddress": "0xE022766ea0D0ea0f9884f1210B9200f40Ab5969c"
+  },
+  "clankerInfo": null
+}

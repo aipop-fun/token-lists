@@ -1,0 +1,22 @@
+{
+  "name": "Clankermon",
+  "symbol": "Clankermon",
+  "decimals": 18,
+  "description": "Clankermon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankermon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankermon",
+  "addresses": {
+    "8453": "0x1cdbb57b12f732cfb4dc06f690acef476485b2a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankermon",
+    "sanitizedSymbol": "CLANKERMON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198276",
+    "lockerAddress": "0xDAa8b91Cf4a50d06BE4119c7056f4975a86D88B2"
+  },
+  "clankerInfo": null
+}

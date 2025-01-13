@@ -1,0 +1,22 @@
+{
+  "name": "jesseAI",
+  "symbol": "jesseAI",
+  "decimals": 18,
+  "description": "jesseAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jesseAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jesseAI",
+  "addresses": {
+    "8453": "0x2eca5f9ea4f3a87dc65ecb65a20b724e5c175cde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jesseAI",
+    "sanitizedSymbol": "JESSEAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1334461",
+    "lockerAddress": "0xC2f4f90E359FbEF16b9C775044F2FA398144bb9D"
+  },
+  "clankerInfo": null
+}

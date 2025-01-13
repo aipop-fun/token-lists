@@ -1,0 +1,22 @@
+{
+  "name": "Zen Pepe",
+  "symbol": "Zen Pepe",
+  "decimals": 18,
+  "description": "Zen Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zen%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zen Pepe",
+  "addresses": {
+    "8453": "0x0b1317b7f5c6bd3d68f169cf26b49ad14a94b7ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zen Pepe",
+    "sanitizedSymbol": "ZEN_PEPE",
+    "created_at": "2024-12-12T14:54:03.650762",
+    "deployer": "0x3F4e47c0CFC89B87f66d5F3E5372154e1c6970d1",
+    "lpNftId": "1436427",
+    "lockerAddress": "0xC5E020B2d2826C5F1716bAc32d0a7EB48D4Eb37c"
+  },
+  "clankerInfo": null
+}

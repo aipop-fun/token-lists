@@ -1,0 +1,22 @@
+{
+  "name": "AntiMoxie",
+  "symbol": "AntiMoxie",
+  "decimals": 18,
+  "description": "AntiMoxie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AntiMoxie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AntiMoxie",
+  "addresses": {
+    "8453": "0x2af3bdbe4553ac16598e3f3af178ba01d86172e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AntiMoxie",
+    "sanitizedSymbol": "ANTIMOXIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128747",
+    "lockerAddress": "0x1B94ACdc0204cbD078c81BdaE9b6e78E28d13527"
+  },
+  "clankerInfo": null
+}

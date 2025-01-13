@@ -1,0 +1,22 @@
+{
+  "name": "DEGENSNOW $1",
+  "symbol": "DEGENSNOW $1",
+  "decimals": 18,
+  "description": "DEGENSNOW $1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGENSNOW%20%241",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGENSNOW $1",
+  "addresses": {
+    "8453": "0x292aad5c3b417b3c4eb316b718ba9616fd3e6b73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGENSNOW $1",
+    "sanitizedSymbol": "DEGENSNOW_1",
+    "created_at": "2024-12-10T08:31:17.43354",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1398809",
+    "lockerAddress": "0xe3C8Bd7898324abf8e93cf0aD667b9Eb9B3e6eb7"
+  },
+  "clankerInfo": null
+}

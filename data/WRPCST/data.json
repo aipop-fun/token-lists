@@ -1,0 +1,22 @@
+{
+  "name": "WRPCST",
+  "symbol": "WRPCST",
+  "decimals": 18,
+  "description": "WRPCST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WRPCST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WRPCST",
+  "addresses": {
+    "8453": "0x2ae1ecbeba707a3a163d0f4f436a2e8bf7ef51ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WRPCST",
+    "sanitizedSymbol": "WRPCST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229991",
+    "lockerAddress": "0x7fc219f384BBeD4a927C836E74434283Fc7e9a8f"
+  },
+  "clankerInfo": null
+}

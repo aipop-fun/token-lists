@@ -1,0 +1,22 @@
+{
+  "name": "MagiCat",
+  "symbol": "MagiCat",
+  "decimals": 18,
+  "description": "MagiCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MagiCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MagiCat",
+  "addresses": {
+    "8453": "0x12837e5583955b2cb02532ba7667157efa45275d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MagiCat",
+    "sanitizedSymbol": "MAGICAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201219",
+    "lockerAddress": "0x2e08a5b6455275389238a2B2DE68195960e1dF65"
+  },
+  "clankerInfo": null
+}

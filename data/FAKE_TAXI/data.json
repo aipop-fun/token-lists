@@ -1,0 +1,22 @@
+{
+  "name": "Fake Taxi",
+  "symbol": "Fake Taxi",
+  "decimals": 18,
+  "description": "Fake Taxi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fake%20Taxi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fake Taxi",
+  "addresses": {
+    "8453": "0x18f2577d2e8e30a82a795648a529903bc989e0b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fake Taxi",
+    "sanitizedSymbol": "FAKE_TAXI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7ffDdA5034147233f4ccd22648df6C00423a916a",
+    "lpNftId": "1310457",
+    "lockerAddress": "0x8B32C5faa058f5FAb73c56DE06cbdbbd201688D7"
+  },
+  "clankerInfo": null
+}

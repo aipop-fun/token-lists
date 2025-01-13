@@ -1,0 +1,22 @@
+{
+  "name": "AN_ON",
+  "symbol": "AN_ON",
+  "decimals": 18,
+  "description": "AN_ON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AN_ON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AN_ON",
+  "addresses": {
+    "8453": "0x25839266005e42da62bff194a714a12861a6e7f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AN_ON",
+    "sanitizedSymbol": "AN_ON_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210658",
+    "lockerAddress": "0x8cd2772A03f5F34f67E1d76A4B2b8198E9e7d3c6"
+  },
+  "clankerInfo": null
+}

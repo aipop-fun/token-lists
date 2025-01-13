@@ -1,0 +1,22 @@
+{
+  "name": "Born To Shill",
+  "symbol": "Born To Shill",
+  "decimals": 18,
+  "description": "Born To Shill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Born%20To%20Shill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Born To Shill",
+  "addresses": {
+    "8453": "0x2d38a7a77a3d194453fba08fa368dbaf3306cb68"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Born To Shill",
+    "sanitizedSymbol": "BORN_TO_SHILL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1283838",
+    "lockerAddress": "0x38b344F7261F0895D2B7216D2C6bDAE5eefd7B25"
+  },
+  "clankerInfo": null
+}

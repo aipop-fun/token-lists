@@ -1,0 +1,22 @@
+{
+  "name": "hinlow",
+  "symbol": "hinlow",
+  "decimals": 18,
+  "description": "hinlow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hinlow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hinlow",
+  "addresses": {
+    "8453": "0x21bb1ffee374a87201b11708fe1e0459b896bbe9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hinlow",
+    "sanitizedSymbol": "HINLOW",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe26141574e2eB74329afa5D8F565c72Cd1dAA7C3",
+    "lpNftId": "1291588",
+    "lockerAddress": "0x58EA76Ec25Ceed8c1c69f8dcc538feB0A57D0De8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Base Santa",
+  "symbol": "Base Santa",
+  "decimals": 18,
+  "description": "Base Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Santa",
+  "addresses": {
+    "8453": "0x3d41f509e0ed053092c5fe75d099fd776e3bb06f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Santa",
+    "sanitizedSymbol": "BASE_SANTA",
+    "created_at": "2024-12-11T19:02:49.779846",
+    "deployer": "0xdAaF637bdfBf1e8337A7D78266D7dAF41cD014d0",
+    "lpNftId": "1424449",
+    "lockerAddress": "0x0A937473593Fe4E88d9398E84113FFeDC8D38266"
+  },
+  "clankerInfo": null
+}

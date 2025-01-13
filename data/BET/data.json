@@ -1,0 +1,22 @@
+{
+  "name": "bet",
+  "symbol": "bet",
+  "decimals": 18,
+  "description": "bet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bet",
+  "addresses": {
+    "8453": "0x215aef99908b871f0a3618178a64c70dddf0f210"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bet",
+    "sanitizedSymbol": "BET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119842",
+    "lockerAddress": "0xCebc6c7989624907408e5b1E946535aE2dA6764f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Park Boys",
+  "symbol": "Park Boys",
+  "decimals": 18,
+  "description": "Park Boys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Park%20Boys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Park Boys",
+  "addresses": {
+    "8453": "0x2a66f11f8a7f9d5f4b64a45ead3df9af8cbd121a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Park Boys",
+    "sanitizedSymbol": "PARK_BOYS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf56E55e35d2CCa5A34F5Ba568454974424aEA0F4",
+    "lpNftId": "1336537",
+    "lockerAddress": "0xF997d819A6d981F8A7EE5369D5faBc3b222AB1b8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "just buy $100 worth of this coin",
+  "symbol": "just buy $100 worth of this coin",
+  "decimals": 18,
+  "description": "just buy $100 worth of this coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20buy%20%24100%20worth%20of%20this%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just buy $100 worth of this coin",
+  "addresses": {
+    "8453": "0x1d7890edbff7b48ceb692fe6cd3bf2ddbb1bdc18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just buy $100 worth of this coin",
+    "sanitizedSymbol": "JUST_BUY_100_WORTH_OF_THIS_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226922",
+    "lockerAddress": "0xD30e2Ad3e894Dbf029bfC99529fd7ED75788Da63"
+  },
+  "clankerInfo": null
+}

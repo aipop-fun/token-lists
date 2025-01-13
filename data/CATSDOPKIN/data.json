@@ -1,0 +1,22 @@
+{
+  "name": "Catsdopkin",
+  "symbol": "Catsdopkin",
+  "decimals": 18,
+  "description": "Catsdopkin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Catsdopkin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Catsdopkin",
+  "addresses": {
+    "8453": "0x0be25ae9d2b357709ea6945d5b2642c0783ab45e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Catsdopkin",
+    "sanitizedSymbol": "CATSDOPKIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe1e3d0C2548762d495e0D2564A17E54B155E6fd4",
+    "lpNftId": "1320916",
+    "lockerAddress": "0xB3e2c41E0EeE122A8C8c67cDDb91edA44F99facB"
+  },
+  "clankerInfo": null
+}

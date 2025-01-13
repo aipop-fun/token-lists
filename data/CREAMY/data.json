@@ -1,0 +1,22 @@
+{
+  "name": "$creamy",
+  "symbol": "$creamy",
+  "decimals": 18,
+  "description": "$creamy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24creamy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$creamy",
+  "addresses": {
+    "8453": "0x18060acd9779e401a79194345d4678603d489159"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$creamy",
+    "sanitizedSymbol": "CREAMY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf49a574405d21E2be31bc041BCf2C9334616c689",
+    "lpNftId": "1335739",
+    "lockerAddress": "0xf69217e6F30EBa4fF11d47FE96FC85d982516808"
+  },
+  "clankerInfo": null
+}

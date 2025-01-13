@@ -1,0 +1,22 @@
+{
+  "name": "clanker and chill",
+  "symbol": "clanker and chill",
+  "decimals": 18,
+  "description": "clanker and chill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20and%20chill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker and chill",
+  "addresses": {
+    "8453": "0x0e26453c776e62dffe2814f633cadf91dd91a37f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker and chill",
+    "sanitizedSymbol": "CLANKER_AND_CHILL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224137",
+    "lockerAddress": "0xFe8B60043B1E65A007114c4e8B700c3fD594A2cc"
+  },
+  "clankerInfo": null
+}

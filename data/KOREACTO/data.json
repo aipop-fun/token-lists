@@ -1,0 +1,22 @@
+{
+  "name": "KoreaCTO",
+  "symbol": "KoreaCTO",
+  "decimals": 18,
+  "description": "KoreaCTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KoreaCTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KoreaCTO",
+  "addresses": {
+    "8453": "0x39851ff2942357ac1a24dbceddee7be854cd8974"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KoreaCTO",
+    "sanitizedSymbol": "KOREACTO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAC82e513B1BD6702DCd5752a493455Ea7D2D47c8",
+    "lpNftId": "1311049",
+    "lockerAddress": "0xfAb2f82e107504142bF059f00041227a2b8e906a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SLEEPLESS",
+  "symbol": "SLEEPLESS",
+  "decimals": 18,
+  "description": "SLEEPLESS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLEEPLESS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLEEPLESS",
+  "addresses": {
+    "8453": "0x11db14f922a49daede45701f05f879597abebd5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLEEPLESS",
+    "sanitizedSymbol": "SLEEPLESS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73D3a571A5cDFf6b6d8B6C5421f7C9812DBad4a3",
+    "lpNftId": "1318871",
+    "lockerAddress": "0x36f9b1a45f2ed62Abac42505205BC2aE1130E888"
+  },
+  "clankerInfo": null
+}

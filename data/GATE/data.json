@@ -1,0 +1,22 @@
+{
+  "name": "gate",
+  "symbol": "gate",
+  "decimals": 18,
+  "description": "gate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gate",
+  "addresses": {
+    "8453": "0x31f57d1f7f32bf1e34c949c1e22c1a1bdd7150a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gate",
+    "sanitizedSymbol": "GATE",
+    "created_at": "2024-12-10T13:54:56.665339",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401610",
+    "lockerAddress": "0xf557cdD728E60aE459ccCD2395f06f2646b56fcd"
+  },
+  "clankerInfo": null
+}

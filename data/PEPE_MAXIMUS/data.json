@@ -1,0 +1,22 @@
+{
+  "name": "PEPE MAXIMUS",
+  "symbol": "PEPE MAXIMUS",
+  "decimals": 18,
+  "description": "PEPE MAXIMUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20MAXIMUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE MAXIMUS",
+  "addresses": {
+    "8453": "0x301cb28c80250f5fe47ab36be98820929f84adfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE MAXIMUS",
+    "sanitizedSymbol": "PEPE_MAXIMUS",
+    "created_at": "2024-12-11T13:17:57.262907",
+    "deployer": "0x435828c36Ee509ca99e19e93Dac1e13BD49C1965",
+    "lpNftId": "1418970",
+    "lockerAddress": "0x74E547bf4E8954a27e40B931ce10fED399C64483"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PINKWHALE",
+  "symbol": "PINKWHALE",
+  "decimals": 18,
+  "description": "PINKWHALE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PINKWHALE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PINKWHALE",
+  "addresses": {
+    "8453": "0x101b3a2a404ef745b5c4cd6bd86b5d6babce1e28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PINKWHALE",
+    "sanitizedSymbol": "PINKWHALE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1318776",
+    "lockerAddress": "0x5e2425b0B9Ed67F675bA00a8FB2e21793C77B566"
+  },
+  "clankerInfo": null
+}

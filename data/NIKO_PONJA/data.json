@@ -1,0 +1,22 @@
+{
+  "name": "NIKO PONJA",
+  "symbol": "NIKO PONJA",
+  "decimals": 18,
+  "description": "NIKO PONJA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NIKO%20PONJA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NIKO PONJA",
+  "addresses": {
+    "8453": "0x258678eacfb7e23958340e2cef27a3f3e3fc2c2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NIKO PONJA",
+    "sanitizedSymbol": "NIKO_PONJA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219423",
+    "lockerAddress": "0xD5Dc86f80Fbbd7B55A00D18e41F9fd18aA704144"
+  },
+  "clankerInfo": null
+}

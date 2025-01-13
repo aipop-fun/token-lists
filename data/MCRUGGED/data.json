@@ -1,0 +1,22 @@
+{
+  "name": "McRugged",
+  "symbol": "McRugged",
+  "decimals": 18,
+  "description": "McRugged is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=McRugged",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "McRugged",
+  "addresses": {
+    "8453": "0x3979e4a1ea30b9193c990728eaaa7957214fd5ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "McRugged",
+    "sanitizedSymbol": "MCRUGGED",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xBe14B9950dC61642a084EAB491FA516d8FE557e6",
+    "lpNftId": "1251873",
+    "lockerAddress": "0x67507938f245ACfc12A5a6169fEF0C2D61932FeF"
+  },
+  "clankerInfo": null
+}

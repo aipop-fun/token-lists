@@ -1,0 +1,22 @@
+{
+  "name": "HCAT",
+  "symbol": "HCAT",
+  "decimals": 18,
+  "description": "HCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HCAT",
+  "addresses": {
+    "8453": "0x1a21869d21483728c9e76f37dfbd75a8896880fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HCAT",
+    "sanitizedSymbol": "HCAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5202129653C415963c9F03FeF6866F3C833dFa4B",
+    "lpNftId": "1331973",
+    "lockerAddress": "0x9D49aBEC953F178e86c09d7E17ad49efc31A19EC"
+  },
+  "clankerInfo": null
+}

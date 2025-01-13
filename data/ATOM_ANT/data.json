@@ -1,0 +1,22 @@
+{
+  "name": "Atom Ant",
+  "symbol": "Atom Ant",
+  "decimals": 18,
+  "description": "Atom Ant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Atom%20Ant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Atom Ant",
+  "addresses": {
+    "8453": "0x0a86a3ce3a8e4559c70d1d680133ff7276b2ca8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Atom Ant",
+    "sanitizedSymbol": "ATOM_ANT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE25Bcc2E5cb335D4Db254196e6768F55962e1A9F",
+    "lpNftId": "1318473",
+    "lockerAddress": "0x4fa61328369DC4FBc3E2A15EfCecB492c15c5fd7"
+  },
+  "clankerInfo": null
+}

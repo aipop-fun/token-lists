@@ -1,0 +1,22 @@
+{
+  "name": "Brett",
+  "symbol": "Brett",
+  "decimals": 18,
+  "description": "Brett is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brett",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brett",
+  "addresses": {
+    "8453": "0x00fdc70eda8166ccd816e347437cdfaf53167e5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brett",
+    "sanitizedSymbol": "BRETT_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223424",
+    "lockerAddress": "0x1E0b37867Cf9869a040Cf683292327CCd40c4294"
+  },
+  "clankerInfo": null
+}

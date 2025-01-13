@@ -1,0 +1,22 @@
+{
+  "name": "consider",
+  "symbol": "consider",
+  "decimals": 18,
+  "description": "consider is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=consider",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "consider",
+  "addresses": {
+    "8453": "0x2cb148bf1b918d35f3153bb54a3a17f3c6d13794"
+  },
+  "tokenInfo": {
+    "originalSymbol": "consider",
+    "sanitizedSymbol": "CONSIDER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193612",
+    "lockerAddress": "0xFE58E509D3759D8Eb674Cd277315740A5F9C3fb7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "arka",
+  "symbol": "arka",
+  "decimals": 18,
+  "description": "arka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=arka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "arka",
+  "addresses": {
+    "8453": "0x366e4618c76e3770795c8f7e88a2c17a13b32092"
+  },
+  "tokenInfo": {
+    "originalSymbol": "arka",
+    "sanitizedSymbol": "ARKA",
+    "created_at": "2024-12-11T16:43:17.262626",
+    "deployer": "0x859A2c8155AA6B8f32F6c2929Aa3207Aca249856",
+    "lpNftId": "1421998",
+    "lockerAddress": "0x96838bCC68635deF203027F54206489ac0D66d6b"
+  },
+  "clankerInfo": null
+}

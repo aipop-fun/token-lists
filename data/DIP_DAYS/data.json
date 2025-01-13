@@ -1,0 +1,22 @@
+{
+  "name": "Dip Days",
+  "symbol": "Dip Days",
+  "decimals": 18,
+  "description": "Dip Days is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dip%20Days",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dip Days",
+  "addresses": {
+    "8453": "0x1f64819a49fde9cb70e27e8c138bef9b1751e4e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dip Days",
+    "sanitizedSymbol": "DIP_DAYS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x33032eb37E7c91ff4f546DC34D819Db749F07155",
+    "lpNftId": "1312213",
+    "lockerAddress": "0xf92a18C329A9CAA95CC5476b451191d085E58F42"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LORE",
+  "symbol": "LORE",
+  "decimals": 18,
+  "description": "LORE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LORE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LORE",
+  "addresses": {
+    "8453": "0x3ecb1f7e60bc2408d787e5c84a59347ebf2578cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LORE",
+    "sanitizedSymbol": "LORE_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0de290F9717764641B9694C246338A477Cff9543",
+    "lpNftId": "1346677",
+    "lockerAddress": "0x8b5832538EcEa2D7792A7Fb4EB969A8EFA7c80cD"
+  },
+  "clankerInfo": null
+}

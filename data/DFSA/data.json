@@ -1,0 +1,22 @@
+{
+  "name": "dfsa",
+  "symbol": "dfsa",
+  "decimals": 18,
+  "description": "dfsa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dfsa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dfsa",
+  "addresses": {
+    "8453": "0x04bd0e12f866166577930df3df824cfe026ea5d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dfsa",
+    "sanitizedSymbol": "DFSA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xDf79C36743728b53510fb02971EAD35799EA2dfd",
+    "lpNftId": "1232830",
+    "lockerAddress": "0x5C4C087F809B40E7ED6fB7B64248bd43a444aaF9"
+  },
+  "clankerInfo": null
+}

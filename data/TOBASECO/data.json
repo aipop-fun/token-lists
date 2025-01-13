@@ -1,0 +1,22 @@
+{
+  "name": "TOBASECO",
+  "symbol": "TOBASECO",
+  "decimals": 18,
+  "description": "TOBASECO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOBASECO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOBASECO",
+  "addresses": {
+    "8453": "0x3b3ef679daa51184c5bff40ff86b0458c49c7022"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOBASECO",
+    "sanitizedSymbol": "TOBASECO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219209",
+    "lockerAddress": "0x0F85538EB360CCc8F5dFCbe09d267D469F739160"
+  },
+  "clankerInfo": null
+}

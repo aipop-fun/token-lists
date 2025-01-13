@@ -1,0 +1,22 @@
+{
+  "name": "Ai meme",
+  "symbol": "Ai meme",
+  "decimals": 18,
+  "description": "Ai meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ai%20meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ai meme",
+  "addresses": {
+    "8453": "0x115f5f70a53a63c140ad0c74e5308d2ffd81916a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ai meme",
+    "sanitizedSymbol": "AI_MEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159403",
+    "lockerAddress": "0x5b310aCe5F5cdaf592568C8c95eDBA287e3fBD3D"
+  },
+  "clankerInfo": null
+}

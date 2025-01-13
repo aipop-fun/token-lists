@@ -1,0 +1,22 @@
+{
+  "name": "BTCPEPE",
+  "symbol": "BTCPEPE",
+  "decimals": 18,
+  "description": "BTCPEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTCPEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTCPEPE",
+  "addresses": {
+    "8453": "0x3433acebd2740e1dcebc4368f8fe4ef97abda02f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTCPEPE",
+    "sanitizedSymbol": "BTCPEPE",
+    "created_at": "2024-12-12T05:08:57.039031",
+    "deployer": "0x3194AbBE8F733e9ad492E06d9DAF3d5Bd44D71C9",
+    "lpNftId": "1429310",
+    "lockerAddress": "0x0d3541E2Ab9532D37825e5b9e1954b37967B0117"
+  },
+  "clankerInfo": null
+}

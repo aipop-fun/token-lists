@@ -1,0 +1,22 @@
+{
+  "name": "RogueRig",
+  "symbol": "RogueRig",
+  "decimals": 18,
+  "description": "RogueRig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RogueRig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RogueRig",
+  "addresses": {
+    "8453": "0x3db65898df50d869ad19ac8ca67111cbc7a061c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RogueRig",
+    "sanitizedSymbol": "ROGUERIG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123338",
+    "lockerAddress": "0x79B90BbF02de39d5982fA5B41dfc78B3C0F20E91"
+  },
+  "clankerInfo": null
+}

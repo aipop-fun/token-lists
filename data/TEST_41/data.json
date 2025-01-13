@@ -1,0 +1,22 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "decimals": 18,
+  "description": "TEST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEST",
+  "addresses": {
+    "8453": "0x41b612b4cdee13ec28ebfe6eb714eb281f3fb7aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEST",
+    "sanitizedSymbol": "TEST_41",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x9e3Ee60f0a674562dc679bAA26C1E0F0c34FEB5D",
+    "lpNftId": "1219971",
+    "lockerAddress": "0xe6260301C3dB39Cda87A9a437F972Ae2acB9D55C"
+  },
+  "clankerInfo": null
+}

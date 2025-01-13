@@ -1,0 +1,22 @@
+{
+  "name": "ManiekCoin",
+  "symbol": "ManiekCoin",
+  "decimals": 18,
+  "description": "ManiekCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ManiekCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ManiekCoin",
+  "addresses": {
+    "8453": "0x378c8970103f8000dd0a044d036debda190be5fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ManiekCoin",
+    "sanitizedSymbol": "MANIEKCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166920",
+    "lockerAddress": "0xE04D3F14866f35C02E31Af0E0538f1D41462adA5"
+  },
+  "clankerInfo": null
+}

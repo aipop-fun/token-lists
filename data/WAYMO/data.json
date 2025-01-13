@@ -1,0 +1,22 @@
+{
+  "name": "Waymo",
+  "symbol": "Waymo",
+  "decimals": 18,
+  "description": "Waymo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Waymo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Waymo",
+  "addresses": {
+    "8453": "0x12c4e072427795d3f569d692d2c66a36cb7349f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Waymo",
+    "sanitizedSymbol": "WAYMO",
+    "created_at": "2024-12-11T06:32:03.299698",
+    "deployer": "0x217107C6157b487fc55d99535141d9514c308F3b",
+    "lpNftId": "1413906",
+    "lockerAddress": "0x64169FaC68009967dcE8A6614BD2D7Ee3E29C4E6"
+  },
+  "clankerInfo": null
+}

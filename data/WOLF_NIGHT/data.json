@@ -1,0 +1,22 @@
+{
+  "name": "wolf night",
+  "symbol": "wolf night",
+  "decimals": 18,
+  "description": "wolf night is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wolf%20night",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wolf night",
+  "addresses": {
+    "8453": "0x2b25618b968ec589def892f56e2a3462aa93073f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wolf night",
+    "sanitizedSymbol": "WOLF_NIGHT",
+    "created_at": "2024-12-10T09:01:17.965275",
+    "deployer": "0x7dA069db91962B8546D296de9f8cF6D5CC06fc06",
+    "lpNftId": "1399027",
+    "lockerAddress": "0xeaE2cFb55d3f70843e1E10735e5Cd651D19dCad3"
+  },
+  "clankerInfo": null
+}

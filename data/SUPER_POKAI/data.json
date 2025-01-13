@@ -1,0 +1,22 @@
+{
+  "name": "Super POKAI",
+  "symbol": "Super POKAI",
+  "decimals": 18,
+  "description": "Super POKAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20POKAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super POKAI",
+  "addresses": {
+    "8453": "0x0cdecf5ae2bffa208e8ac86fc47734725a047657"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super POKAI",
+    "sanitizedSymbol": "SUPER_POKAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x073cC8CD9816F9A36D179dB160B3FE22a0F01e12",
+    "lpNftId": "1348581",
+    "lockerAddress": "0x3941888F0b1F7438D4Fcb0292Ab5803637cD7e61"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "not bothered",
+  "symbol": "not bothered",
+  "decimals": 18,
+  "description": "not bothered is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=not%20bothered",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "not bothered",
+  "addresses": {
+    "8453": "0x2f4095cd295e546c638648fac984b921c18121bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "not bothered",
+    "sanitizedSymbol": "NOT_BOTHERED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98dc27fA946F1E5911354Bf866eE3302091D976E",
+    "lpNftId": "1340150",
+    "lockerAddress": "0x913c261511e31aC37DCc072F05795C59f41CCf58"
+  },
+  "clankerInfo": null
+}

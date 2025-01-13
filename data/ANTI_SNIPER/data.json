@@ -1,0 +1,22 @@
+{
+  "name": "Anti-Sniper",
+  "symbol": "Anti-Sniper",
+  "decimals": 18,
+  "description": "Anti-Sniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anti-Sniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anti-Sniper",
+  "addresses": {
+    "8453": "0x20837f3e9ad00c20e88654785c0ca9b804505837"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anti-Sniper",
+    "sanitizedSymbol": "ANTI_SNIPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166375",
+    "lockerAddress": "0xF4F5d85aBfC664310e561063239e9D8BDA357A90"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Lumiboo",
+  "symbol": "Lumiboo",
+  "decimals": 18,
+  "description": "Lumiboo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lumiboo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lumiboo",
+  "addresses": {
+    "8453": "0x3af1ed662a4097e6a003703631390c2e282e2010"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lumiboo",
+    "sanitizedSymbol": "LUMIBOO",
+    "created_at": "2024-12-10T21:08:57.185135",
+    "deployer": "0x2735D0A6e6AFF9eEdC40a9Dc859907dC36a97086",
+    "lpNftId": "1407242",
+    "lockerAddress": "0x8d4D9aC48d2C8b45Be755b9d2bC3adb2DDF153B7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPECAT",
+  "symbol": "PEPECAT",
+  "decimals": 18,
+  "description": "PEPECAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPECAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPECAT",
+  "addresses": {
+    "8453": "0x3e197b664448712a77761deb10c67d1948a6e0ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPECAT",
+    "sanitizedSymbol": "PEPECAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3A72DE0b99cB8574e22686a3aAd44c0e091Da342",
+    "lpNftId": "1304337",
+    "lockerAddress": "0xD2B980230a1EC71df71bDDFee0aDC08E7E0a4e72"
+  },
+  "clankerInfo": null
+}

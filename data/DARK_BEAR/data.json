@@ -1,0 +1,22 @@
+{
+  "name": "dark bear",
+  "symbol": "dark bear",
+  "decimals": 18,
+  "description": "dark bear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dark%20bear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dark bear",
+  "addresses": {
+    "8453": "0x0a1b5cddb84349c0bc7b23da2e3d8b70b93606b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dark bear",
+    "sanitizedSymbol": "DARK_BEAR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x91B6cc4E458FbB1aA9793b92a062Da44962c6b27",
+    "lpNftId": "1252193",
+    "lockerAddress": "0x6E73dA30f18701ca996c940A68A894fFf383591C"
+  },
+  "clankerInfo": null
+}

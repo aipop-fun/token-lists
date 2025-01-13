@@ -1,0 +1,22 @@
+{
+  "name": "Guadalupe",
+  "symbol": "Guadalupe",
+  "decimals": 18,
+  "description": "Guadalupe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Guadalupe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Guadalupe",
+  "addresses": {
+    "8453": "0x033141e10ca0a656bb8edfb7b4899d42dac67785"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Guadalupe",
+    "sanitizedSymbol": "GUADALUPE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217395",
+    "lockerAddress": "0x242AC0B52a04D4e6862d75F3CF49A859c5218382"
+  },
+  "clankerInfo": null
+}

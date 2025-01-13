@@ -1,0 +1,22 @@
+{
+  "name": "Snow Girl",
+  "symbol": "Snow Girl",
+  "decimals": 18,
+  "description": "Snow Girl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snow%20Girl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snow Girl",
+  "addresses": {
+    "8453": "0x1862379d605504163653230b9fbe221e10f0ed87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snow Girl",
+    "sanitizedSymbol": "SNOW_GIRL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x70c82896F16fCa8276E4640756AED71CBF636909",
+    "lpNftId": "1302759",
+    "lockerAddress": "0x9755b47Cdd9493B7559C8F59d78E10b52Ec6f7f4"
+  },
+  "clankerInfo": null
+}

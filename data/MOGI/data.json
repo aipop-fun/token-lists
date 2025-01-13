@@ -1,0 +1,22 @@
+{
+  "name": "MOGI",
+  "symbol": "MOGI",
+  "decimals": 18,
+  "description": "MOGI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOGI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOGI",
+  "addresses": {
+    "8453": "0x1ccbc5934e69b4d1c1fbfe23e45638e4f15441b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOGI",
+    "sanitizedSymbol": "MOGI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235696",
+    "lockerAddress": "0x71D65E0eB709A948de44b5572c4C67E658f21cde"
+  },
+  "clankerInfo": null
+}

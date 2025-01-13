@@ -1,0 +1,22 @@
+{
+  "name": "Weary Web3",
+  "symbol": "Weary Web3",
+  "decimals": 18,
+  "description": "Weary Web3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weary%20Web3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weary Web3",
+  "addresses": {
+    "8453": "0x0c672efd30656648ec15f879e5241a0c2db81143"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weary Web3",
+    "sanitizedSymbol": "WEARY_WEB3",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123299",
+    "lockerAddress": "0x203B2da0eE358459147262Bfa8dB91aC6B36b0b5"
+  },
+  "clankerInfo": null
+}

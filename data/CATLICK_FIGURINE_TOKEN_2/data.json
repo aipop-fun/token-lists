@@ -1,0 +1,22 @@
+{
+  "name": "CatLick Figurine Token",
+  "symbol": "CatLick Figurine Token",
+  "decimals": 18,
+  "description": "CatLick Figurine Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatLick%20Figurine%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatLick Figurine Token",
+  "addresses": {
+    "8453": "0x1b090e890a9354217bcdc76bd419e618eac271f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatLick Figurine Token",
+    "sanitizedSymbol": "CATLICK_FIGURINE_TOKEN_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF9AFDfE9292D62b560f21b668ff5c46D3a9E0Eb8",
+    "lpNftId": "1306735",
+    "lockerAddress": "0x0A127dBdA36de57Ed3bd8d29BA4cB0fdDf92A440"
+  },
+  "clankerInfo": null
+}

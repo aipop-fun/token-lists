@@ -1,0 +1,22 @@
+{
+  "name": "MEME FACTORY",
+  "symbol": "MEME FACTORY",
+  "decimals": 18,
+  "description": "MEME FACTORY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20FACTORY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME FACTORY",
+  "addresses": {
+    "8453": "0x0534c17e7b004b5fc38422640135d726236de04f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME FACTORY",
+    "sanitizedSymbol": "MEME_FACTORY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160871",
+    "lockerAddress": "0xD0Ea68d88Ede7c3D3aB92eC6CD5130A28029541e"
+  },
+  "clankerInfo": null
+}

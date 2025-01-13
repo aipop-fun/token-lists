@@ -1,0 +1,22 @@
+{
+  "name": "woww",
+  "symbol": "woww",
+  "decimals": 18,
+  "description": "woww is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=woww",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "woww",
+  "addresses": {
+    "8453": "0x2ca63b032ab295ed214642813acebe5958aecc8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "woww",
+    "sanitizedSymbol": "WOWW_5",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x05Ec339b8401724858DbCF6408fAb221bf54d465",
+    "lpNftId": "1157275",
+    "lockerAddress": "0x7f9156c2396EE77364Bf7603dB84224B1bFCA95c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "feelthepower",
+  "symbol": "feelthepower",
+  "decimals": 18,
+  "description": "feelthepower is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=feelthepower",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "feelthepower",
+  "addresses": {
+    "8453": "0x1aff388d91e63f0a8f9e90002fef6ee11fa32919"
+  },
+  "tokenInfo": {
+    "originalSymbol": "feelthepower",
+    "sanitizedSymbol": "FEELTHEPOWER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1340019",
+    "lockerAddress": "0x47c1dB182fce375506407C21938410F3082fD8C3"
+  },
+  "clankerInfo": null
+}

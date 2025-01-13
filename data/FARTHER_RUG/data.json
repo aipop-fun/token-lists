@@ -1,0 +1,22 @@
+{
+  "name": "Farther Rug",
+  "symbol": "Farther Rug",
+  "decimals": 18,
+  "description": "Farther Rug is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farther%20Rug",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farther Rug",
+  "addresses": {
+    "8453": "0x21ef5d8f0a51b8e3bf0328c7d899ab04e35066f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farther Rug",
+    "sanitizedSymbol": "FARTHER_RUG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdf2a629B0fbcE81B94738011b12Aad775a0FFadD",
+    "lpNftId": "1267738",
+    "lockerAddress": "0x2948a005a327E5630094E2928bDDf0E42f3E133E"
+  },
+  "clankerInfo": null
+}

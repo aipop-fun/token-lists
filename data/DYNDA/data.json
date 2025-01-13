@@ -1,0 +1,22 @@
+{
+  "name": "DYNDA",
+  "symbol": "DYNDA",
+  "decimals": 18,
+  "description": "DYNDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DYNDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DYNDA",
+  "addresses": {
+    "8453": "0x071d33c9f09120829afe82941943fbfd129819a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DYNDA",
+    "sanitizedSymbol": "DYNDA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159813",
+    "lockerAddress": "0x09A39947e314E7169642E3881bF74492a8B63C69"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dingbats",
+  "symbol": "Dingbats",
+  "decimals": 18,
+  "description": "Dingbats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dingbats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dingbats",
+  "addresses": {
+    "8453": "0x1c17b61d124cc22ed7200b1e76471be364e76931"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dingbats",
+    "sanitizedSymbol": "DINGBATS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcEeeC734ECb02377937446d1a38130d076bAAd74",
+    "lpNftId": "1283741",
+    "lockerAddress": "0x6e39298C87C24A54418B2BB9f8dd180b24367Fff"
+  },
+  "clankerInfo": null
+}

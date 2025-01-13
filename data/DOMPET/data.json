@@ -1,0 +1,22 @@
+{
+  "name": "Dompet",
+  "symbol": "Dompet",
+  "decimals": 18,
+  "description": "Dompet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dompet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dompet",
+  "addresses": {
+    "8453": "0x35923e1cb36f4a8172f8d0f72d9123532eb24f37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dompet",
+    "sanitizedSymbol": "DOMPET",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA8AF2fA40Ed56361a4e7DDe31F89Fe6BD78f798c",
+    "lpNftId": "1373348",
+    "lockerAddress": "0x481C5A633754C8cE0491221601536829F7bCCB8D"
+  },
+  "clankerInfo": null
+}

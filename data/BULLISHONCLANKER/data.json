@@ -1,0 +1,22 @@
+{
+  "name": "bullishonclanker",
+  "symbol": "bullishonclanker",
+  "decimals": 18,
+  "description": "bullishonclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bullishonclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bullishonclanker",
+  "addresses": {
+    "8453": "0x14e9b1a249a7e28577294102a5375d3373c6b286"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bullishonclanker",
+    "sanitizedSymbol": "BULLISHONCLANKER",
+    "created_at": "2024-12-12T01:52:57.016029",
+    "deployer": "0xFE1d5a3eA346FfB17A44F7b13D8E59d2b0E95Ad7",
+    "lpNftId": "1428502",
+    "lockerAddress": "0xf4fa5761aA747d2899Eee71Fa2a6868a40178d8e"
+  },
+  "clankerInfo": null
+}

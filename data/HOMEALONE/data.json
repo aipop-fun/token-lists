@@ -1,0 +1,22 @@
+{
+  "name": "HomeAlone",
+  "symbol": "HomeAlone",
+  "decimals": 18,
+  "description": "HomeAlone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HomeAlone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HomeAlone",
+  "addresses": {
+    "8453": "0x40e4ec3a77896e90646f1346a8e276b87ed44c4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HomeAlone",
+    "sanitizedSymbol": "HOMEALONE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1346427",
+    "lockerAddress": "0x657F7f8560Ba40F42d93E7bE5dA37932C4b12481"
+  },
+  "clankerInfo": null
+}

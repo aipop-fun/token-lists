@@ -1,0 +1,22 @@
+{
+  "name": "Anon Wen",
+  "symbol": "Anon Wen",
+  "decimals": 18,
+  "description": "Anon Wen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Wen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Wen",
+  "addresses": {
+    "8453": "0x04bcc278c467c8ec185e99cdfd58e6287808e2c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Wen",
+    "sanitizedSymbol": "ANON_WEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfC4842d215753B38C66F0f903DC71F4C40D11ec7",
+    "lpNftId": "1311631",
+    "lockerAddress": "0x8bd7993C961D3C924accb63125Be48cB350Ffeb2"
+  },
+  "clankerInfo": null
+}

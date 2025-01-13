@@ -1,0 +1,22 @@
+{
+  "name": "Digital Orphan",
+  "symbol": "Digital Orphan",
+  "decimals": 18,
+  "description": "Digital Orphan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Orphan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Orphan",
+  "addresses": {
+    "8453": "0x090e485767ca8df7be5ccf0f9cc4e066686b27c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Orphan",
+    "sanitizedSymbol": "DIGITAL_ORPHAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1321008",
+    "lockerAddress": "0x00dB1cd8Ed6A0F72Eab2F4ba03a41f1723fEa0D5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FOMO",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "description": "FOMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMO",
+  "addresses": {
+    "8453": "0x3ed6c2fc55b610a6368ade1d33fe4a76c5efefb5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMO",
+    "sanitizedSymbol": "FOMO_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x17bf04ac18596926FC2fB389965fC882F791c65f",
+    "lpNftId": "1265757",
+    "lockerAddress": "0x1cE300Bb702f907318fEA45008cBbEC952718eA2"
+  },
+  "clankerInfo": null
+}

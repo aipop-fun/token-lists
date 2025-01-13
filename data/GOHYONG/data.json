@@ -1,0 +1,22 @@
+{
+  "name": "Gohyong",
+  "symbol": "Gohyong",
+  "decimals": 18,
+  "description": "Gohyong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gohyong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gohyong",
+  "addresses": {
+    "8453": "0x2413e154623967d85a14d0311817a9e40091a4e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gohyong",
+    "sanitizedSymbol": "GOHYONG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x471AAe5f8987B8F14B4D9c071d20500AD08482f8",
+    "lpNftId": "1253436",
+    "lockerAddress": "0xf4ff717bf77b0D055401EDb8b74A148a8E8d16A1"
+  },
+  "clankerInfo": null
+}

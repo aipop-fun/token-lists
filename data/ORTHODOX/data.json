@@ -1,0 +1,22 @@
+{
+  "name": "ORTHODOX",
+  "symbol": "ORTHODOX",
+  "decimals": 18,
+  "description": "ORTHODOX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ORTHODOX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ORTHODOX",
+  "addresses": {
+    "8453": "0x2355f191622ee7d3dd77da8377f899dec67257ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ORTHODOX",
+    "sanitizedSymbol": "ORTHODOX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226883",
+    "lockerAddress": "0xbaC6690aAd362733E174E09dA6C4b397fFbBcf88"
+  },
+  "clankerInfo": null
+}

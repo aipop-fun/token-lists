@@ -1,0 +1,22 @@
+{
+  "name": "DEREK_JEETR",
+  "symbol": "DEREK_JEETR",
+  "decimals": 18,
+  "description": "DEREK_JEETR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEREK_JEETR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEREK_JEETR",
+  "addresses": {
+    "8453": "0x2372159294ad3dc869082d24d35fd1e80f187679"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEREK_JEETR",
+    "sanitizedSymbol": "DEREK_JEETR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1264036",
+    "lockerAddress": "0x6E00966E49b2393088e3F52CdcC4403AC5830C4a"
+  },
+  "clankerInfo": null
+}

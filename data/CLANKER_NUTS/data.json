@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER NUTS",
+  "symbol": "CLANKER NUTS",
+  "decimals": 18,
+  "description": "CLANKER NUTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20NUTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER NUTS",
+  "addresses": {
+    "8453": "0x059faf65b5ca17363fe0c6ee0db0af52f7387240"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER NUTS",
+    "sanitizedSymbol": "CLANKER_NUTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x132bCe7DF415b0191c8260998331EeE349832E8C",
+    "lpNftId": "1285348",
+    "lockerAddress": "0x4a1Dab2E86b104281b191d3D86125039aa2DFfD4"
+  },
+  "clankerInfo": null
+}

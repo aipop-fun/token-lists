@@ -1,0 +1,22 @@
+{
+  "name": "AMICA",
+  "symbol": "AMICA",
+  "decimals": 18,
+  "description": "AMICA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AMICA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AMICA",
+  "addresses": {
+    "8453": "0x216efa8ca7ac193064028aa13754dff6562a54bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AMICA",
+    "sanitizedSymbol": "AMICA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6A2F2C12980687E2F40D105Bced9e1749B231515",
+    "lpNftId": "1284141",
+    "lockerAddress": "0x0BA30E35c72841596b625585fD66296140f597E6"
+  },
+  "clankerInfo": null
+}

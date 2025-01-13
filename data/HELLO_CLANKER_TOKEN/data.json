@@ -1,0 +1,22 @@
+{
+  "name": "Hello Clanker Token",
+  "symbol": "Hello Clanker Token",
+  "decimals": 18,
+  "description": "Hello Clanker Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello%20Clanker%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello Clanker Token",
+  "addresses": {
+    "8453": "0x3cd28c4a6837cfd7e4636028060debb45d7e4d31"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello Clanker Token",
+    "sanitizedSymbol": "HELLO_CLANKER_TOKEN",
+    "created_at": "2024-12-11T18:05:43.014171",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1423302",
+    "lockerAddress": "0xE589d3c456DC7BD0F00B26323286d3c41EE20058"
+  },
+  "clankerInfo": null
+}

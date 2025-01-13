@@ -1,0 +1,22 @@
+{
+  "name": "GIFTBOT",
+  "symbol": "GIFTBOT",
+  "decimals": 18,
+  "description": "GIFTBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIFTBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIFTBOT",
+  "addresses": {
+    "8453": "0x168b1f5a2f56faa0d2e75c0e2265527ef84e8cd1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIFTBOT",
+    "sanitizedSymbol": "GIFTBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa0a8a6445664F7F57Bf3f72394EdAf3c02d00d2b",
+    "lpNftId": "1321129",
+    "lockerAddress": "0x45b4C908f0BcE50fB3f4e20a59E02FC460d81ba0"
+  },
+  "clankerInfo": null
+}

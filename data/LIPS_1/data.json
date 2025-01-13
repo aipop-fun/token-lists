@@ -1,0 +1,22 @@
+{
+  "name": "LIPS",
+  "symbol": "LIPS",
+  "decimals": 18,
+  "description": "LIPS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIPS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIPS",
+  "addresses": {
+    "8453": "0x2ed5e0d634aa1fc1216f002c10a779956317c9f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIPS",
+    "sanitizedSymbol": "LIPS_1",
+    "created_at": "2024-12-11T06:42:20.208977",
+    "deployer": "0xA5a56fA7C20E24695dC271F346016D8dA24c68a3",
+    "lpNftId": "1413950",
+    "lockerAddress": "0x64F06fD23a66d4aB038d25412321B92d41250fdF"
+  },
+  "clankerInfo": null
+}

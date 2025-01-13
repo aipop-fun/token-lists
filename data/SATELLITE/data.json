@@ -1,0 +1,22 @@
+{
+  "name": "satellite",
+  "symbol": "satellite",
+  "decimals": 18,
+  "description": "satellite is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=satellite",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "satellite",
+  "addresses": {
+    "8453": "0x15582233750f447415de1a191af4eff3c7f3f7ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "satellite",
+    "sanitizedSymbol": "SATELLITE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x017027192F9d27587EC87A045F6957dEc14B3E13",
+    "lpNftId": "1322130",
+    "lockerAddress": "0xd1E805D60e3B09Ec72E7C5ADf0C0a6Ca028cBD79"
+  },
+  "clankerInfo": null
+}

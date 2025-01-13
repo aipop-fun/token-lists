@@ -1,0 +1,22 @@
+{
+  "name": "AiPick",
+  "symbol": "AiPick",
+  "decimals": 18,
+  "description": "AiPick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AiPick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AiPick",
+  "addresses": {
+    "8453": "0x3ddb368ea0f1f6d177ebf667cdb21f351f093531"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AiPick",
+    "sanitizedSymbol": "AIPICK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDaC187E59662DE3A89Ab56cf38a55D2A9B1e424a",
+    "lpNftId": "1325785",
+    "lockerAddress": "0x61BB83Fc11cc665C4ac87D8D335b795781676CE4"
+  },
+  "clankerInfo": null
+}

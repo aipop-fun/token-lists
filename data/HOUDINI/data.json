@@ -1,0 +1,22 @@
+{
+  "name": "Houdini",
+  "symbol": "Houdini",
+  "decimals": 18,
+  "description": "Houdini is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Houdini",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Houdini",
+  "addresses": {
+    "8453": "0x0976281e34f0f4960a149d26359db809b4be0492"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Houdini",
+    "sanitizedSymbol": "HOUDINI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xfe2eF67DFd47636F64d7903e4B1c2513aee963dF",
+    "lpNftId": "1250653",
+    "lockerAddress": "0xa35Af9BEF9039bEf77ACCFb44D3A87d2DD128f4F"
+  },
+  "clankerInfo": null
+}

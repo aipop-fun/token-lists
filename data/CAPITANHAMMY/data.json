@@ -1,0 +1,22 @@
+{
+  "name": "CapitanHammy",
+  "symbol": "CapitanHammy",
+  "decimals": 18,
+  "description": "CapitanHammy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CapitanHammy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CapitanHammy",
+  "addresses": {
+    "8453": "0x221edeba29ea44f7d4b6556589ecaed88b212ebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CapitanHammy",
+    "sanitizedSymbol": "CAPITANHAMMY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232480",
+    "lockerAddress": "0xCe498e1ACbBaC06Bc49e4E8F50882F56BaEb804C"
+  },
+  "clankerInfo": null
+}

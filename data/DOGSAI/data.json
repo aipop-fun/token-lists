@@ -1,0 +1,22 @@
+{
+  "name": "DogsAi",
+  "symbol": "DogsAi",
+  "decimals": 18,
+  "description": "DogsAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogsAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogsAi",
+  "addresses": {
+    "8453": "0x35f9632e4003b70f3ef8c17c2fa6c7485a434114"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogsAi",
+    "sanitizedSymbol": "DOGSAI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151737",
+    "lockerAddress": "0xcF0755f6766791957576A1067857C75b7Dca63a7"
+  },
+  "clankerInfo": null
+}

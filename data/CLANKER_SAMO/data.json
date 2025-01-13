@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Samo",
+  "symbol": "Clanker Samo",
+  "decimals": 18,
+  "description": "Clanker Samo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Samo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Samo",
+  "addresses": {
+    "8453": "0x3b41aca3f31387c998271f6d211fdd933f463bfb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Samo",
+    "sanitizedSymbol": "CLANKER_SAMO",
+    "created_at": "2024-12-12T10:13:53.855106",
+    "deployer": "0x217107C6157b487fc55d99535141d9514c308F3b",
+    "lpNftId": "1432365",
+    "lockerAddress": "0x6BAbf3898cBF3a4a511789AA017D72b3c4b38572"
+  },
+  "clankerInfo": null
+}

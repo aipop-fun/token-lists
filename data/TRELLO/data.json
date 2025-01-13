@@ -1,0 +1,22 @@
+{
+  "name": "TRELLO",
+  "symbol": "TRELLO",
+  "decimals": 18,
+  "description": "TRELLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRELLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRELLO",
+  "addresses": {
+    "8453": "0x344b4eb087dd38ca7f03e5242672f6a1a2c932ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRELLO",
+    "sanitizedSymbol": "TRELLO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1225981",
+    "lockerAddress": "0x1359c1Ae3d4f7848A1B65FBbF6a184DFA081b2e5"
+  },
+  "clankerInfo": null
+}

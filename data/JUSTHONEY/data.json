@@ -1,0 +1,22 @@
+{
+  "name": "justHoney",
+  "symbol": "justHoney",
+  "decimals": 18,
+  "description": "justHoney is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=justHoney",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "justHoney",
+  "addresses": {
+    "8453": "0x032a6a4cd69ce9f9b03e806afec5014e742a034e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "justHoney",
+    "sanitizedSymbol": "JUSTHONEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163299",
+    "lockerAddress": "0xF5fb0a2F7C58726E0a942c0deb6C3CB06F26F88F"
+  },
+  "clankerInfo": null
+}

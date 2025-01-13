@@ -1,0 +1,22 @@
+{
+  "name": "SHIRO",
+  "symbol": "SHIRO",
+  "decimals": 18,
+  "description": "SHIRO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIRO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIRO",
+  "addresses": {
+    "8453": "0x14c5c72e588909380dfc30dd39a1d1f4c00e6c0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIRO",
+    "sanitizedSymbol": "SHIRO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x16160151Bc1A798F88FF5b3e861f1F145319Fcba",
+    "lpNftId": "1252658",
+    "lockerAddress": "0x02c813DDFC7D93ff378d7a4C16B0f610F6e31a70"
+  },
+  "clankerInfo": null
+}

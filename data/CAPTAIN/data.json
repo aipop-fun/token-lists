@@ -1,0 +1,22 @@
+{
+  "name": "CAPTAIN",
+  "symbol": "CAPTAIN",
+  "decimals": 18,
+  "description": "CAPTAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAPTAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAPTAIN",
+  "addresses": {
+    "8453": "0x02d3ad20d65415674980020acaab5bdc8b5d8992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAPTAIN",
+    "sanitizedSymbol": "CAPTAIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x514F3fF6112d34caE2f517c312b5a9eAcFd7774d",
+    "lpNftId": "1328902",
+    "lockerAddress": "0xF89B7C19b57eDF34C768695A05FC260f1be3Bd96"
+  },
+  "clankerInfo": null
+}

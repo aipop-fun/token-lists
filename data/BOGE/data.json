@@ -1,0 +1,22 @@
+{
+  "name": "boge",
+  "symbol": "boge",
+  "decimals": 18,
+  "description": "boge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boge",
+  "addresses": {
+    "8453": "0x1ba5b8b09c85565004a010cd6c68063de992ade6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boge",
+    "sanitizedSymbol": "BOGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201746",
+    "lockerAddress": "0xaB0DcDFa4b714E34D30c7b1f41fF2985aB264F9D"
+  },
+  "clankerInfo": null
+}

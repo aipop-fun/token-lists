@@ -1,0 +1,22 @@
+{
+  "name": "Lily",
+  "symbol": "Lily",
+  "decimals": 18,
+  "description": "Lily is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lily",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lily",
+  "addresses": {
+    "8453": "0x15e1dfa129196e53914ef7cd83057d6a0749bc5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lily",
+    "sanitizedSymbol": "LILY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xafAa316A3335D1A642203853B458B4A98d537ae2",
+    "lpNftId": "1280904",
+    "lockerAddress": "0xA456a6269206C69646430A3271535f9071349E1e"
+  },
+  "clankerInfo": null
+}

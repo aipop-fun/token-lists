@@ -1,0 +1,22 @@
+{
+  "name": "GARAGHtoken",
+  "symbol": "GARAGHtoken",
+  "decimals": 18,
+  "description": "GARAGHtoken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GARAGHtoken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GARAGHtoken",
+  "addresses": {
+    "8453": "0x381f1ba71111d4561235774cdfeb4b1b05d45a35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GARAGHtoken",
+    "sanitizedSymbol": "GARAGHTOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x50C75f92007b31a1b11008C262149D90CF18Cb72",
+    "lpNftId": "1288497",
+    "lockerAddress": "0x4E2071bD415cCbb24BB19b37b115b56347f924a2"
+  },
+  "clankerInfo": null
+}

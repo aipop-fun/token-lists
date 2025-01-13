@@ -1,0 +1,22 @@
+{
+  "name": "Froogo",
+  "symbol": "Froogo",
+  "decimals": 18,
+  "description": "Froogo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Froogo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Froogo",
+  "addresses": {
+    "8453": "0x38040634814a882d1792ad136fdca46f4701770a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Froogo",
+    "sanitizedSymbol": "FROOGO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5e6e3D8Ca04c2117E4700Adc69A4fAd627E8fE7B",
+    "lpNftId": "1323959",
+    "lockerAddress": "0x5743e9Ca4319AB0e713CCF60057E05B90fb28Fbf"
+  },
+  "clankerInfo": null
+}

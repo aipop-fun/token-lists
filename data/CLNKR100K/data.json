@@ -1,0 +1,22 @@
+{
+  "name": "CLNKR100K",
+  "symbol": "CLNKR100K",
+  "decimals": 18,
+  "description": "CLNKR100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLNKR100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLNKR100K",
+  "addresses": {
+    "8453": "0x0a335101e45902254435094c17da546d7137f3b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLNKR100K",
+    "sanitizedSymbol": "CLNKR100K",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203333",
+    "lockerAddress": "0x95dC221033Fc6B929721f772182aacc4901D45d0"
+  },
+  "clankerInfo": null
+}

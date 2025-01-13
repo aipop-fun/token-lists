@@ -1,0 +1,22 @@
+{
+  "name": "mferGPT",
+  "symbol": "mferGPT",
+  "decimals": 18,
+  "description": "mferGPT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mferGPT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mferGPT",
+  "addresses": {
+    "8453": "0x2670ccf7bbbba4b02341c426b4aad6635996710a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mferGPT",
+    "sanitizedSymbol": "MFERGPT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158260",
+    "lockerAddress": "0x86558A2B6Eab960388B0d0e516C92168C165E4C2"
+  },
+  "clankerInfo": null
+}

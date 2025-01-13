@@ -1,0 +1,22 @@
+{
+  "name": "LETS GO",
+  "symbol": "LETS GO",
+  "decimals": 18,
+  "description": "LETS GO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LETS%20GO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LETS GO",
+  "addresses": {
+    "8453": "0x3d684a2234be8664f93fbf310270c5e3d2217bd0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LETS GO",
+    "sanitizedSymbol": "LETS_GO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc1FC4CCD7A334c3674E1d47b3D90fA8094e4c22f",
+    "lpNftId": "1253212",
+    "lockerAddress": "0x7A47c3366715a785ec48c15E5977cbB64b50f8c0"
+  },
+  "clankerInfo": null
+}

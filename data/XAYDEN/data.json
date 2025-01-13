@@ -1,0 +1,22 @@
+{
+  "name": "Xayden",
+  "symbol": "Xayden",
+  "decimals": 18,
+  "description": "Xayden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xayden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xayden",
+  "addresses": {
+    "8453": "0x2c01da374c68d260a62e6dbd268f0ccb54b16c06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xayden",
+    "sanitizedSymbol": "XAYDEN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe59778a34d02cFB8f99844620Ba93588BE1e9a4D",
+    "lpNftId": "1253428",
+    "lockerAddress": "0x38f81845865F79EDec03A2A8CE3C15a8fb72E9b4"
+  },
+  "clankerInfo": null
+}

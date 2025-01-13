@@ -1,0 +1,22 @@
+{
+  "name": "Artkollector",
+  "symbol": "Artkollector",
+  "decimals": 18,
+  "description": "Artkollector is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Artkollector",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Artkollector",
+  "addresses": {
+    "8453": "0x157e24b60619d931c9bf1f5544e00b412b5daa11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Artkollector",
+    "sanitizedSymbol": "ARTKOLLECTOR",
+    "created_at": "2024-12-10T13:55:45.19582",
+    "deployer": "0x6dc92d2D11136f93c52cBBE2c0298F1071D54300",
+    "lpNftId": "1401614",
+    "lockerAddress": "0xFe3aaf6267A5852D42f7aB11acFEEd8669cBF5C5"
+  },
+  "clankerInfo": null
+}

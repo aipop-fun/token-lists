@@ -1,0 +1,22 @@
+{
+  "name": "Sea Bass",
+  "symbol": "Sea Bass",
+  "decimals": 18,
+  "description": "Sea Bass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sea%20Bass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sea Bass",
+  "addresses": {
+    "8453": "0x0b0ed41b7bd4278db74260816f33ead5229c0f30"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sea Bass",
+    "sanitizedSymbol": "SEA_BASS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf2393999f4D9CEF25E3f474fA35e909355aD27bF",
+    "lpNftId": "1286988",
+    "lockerAddress": "0xe3b263428D9B6F809ea27700452aE23A1a4ABbDB"
+  },
+  "clankerInfo": null
+}

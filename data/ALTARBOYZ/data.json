@@ -1,0 +1,22 @@
+{
+  "name": "Altarboyz",
+  "symbol": "Altarboyz",
+  "decimals": 18,
+  "description": "Altarboyz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Altarboyz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Altarboyz",
+  "addresses": {
+    "8453": "0x01d5bc3c8986e03c7f811bef4509f9e6f3927406"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Altarboyz",
+    "sanitizedSymbol": "ALTARBOYZ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204791",
+    "lockerAddress": "0xe2fcBD3B28A63B7734057018a476d06F97e8A715"
+  },
+  "clankerInfo": null
+}

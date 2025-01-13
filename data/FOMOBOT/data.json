@@ -1,0 +1,22 @@
+{
+  "name": "FomoBot",
+  "symbol": "FomoBot",
+  "decimals": 18,
+  "description": "FomoBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FomoBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FomoBot",
+  "addresses": {
+    "8453": "0x21e550042e8977ac477da43d192580806bd62cb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FomoBot",
+    "sanitizedSymbol": "FOMOBOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225810",
+    "lockerAddress": "0xbc222BD0BCcF89a68633eA291b493e168c98d9a0"
+  },
+  "clankerInfo": null
+}

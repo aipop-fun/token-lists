@@ -1,0 +1,22 @@
+{
+  "name": "SuperHigh",
+  "symbol": "SuperHigh",
+  "decimals": 18,
+  "description": "SuperHigh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperHigh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperHigh",
+  "addresses": {
+    "8453": "0x0698d07851d0a55169afe12a65adf57d8345cfa5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperHigh",
+    "sanitizedSymbol": "SUPERHIGH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1366754",
+    "lockerAddress": "0x9646099d78e6E8A5c4aCDe9451C6B6D3376d7d7D"
+  },
+  "clankerInfo": null
+}

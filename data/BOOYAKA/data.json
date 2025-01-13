@@ -1,0 +1,22 @@
+{
+  "name": "Booyaka",
+  "symbol": "Booyaka",
+  "decimals": 18,
+  "description": "Booyaka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Booyaka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Booyaka",
+  "addresses": {
+    "8453": "0x0e527d0fcebfb55d0197572826801816a06624a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Booyaka",
+    "sanitizedSymbol": "BOOYAKA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x6d7f1563DC51A094f61CE9282Ed227D258810F0D",
+    "lpNftId": "1239273",
+    "lockerAddress": "0xd763fc7440C2e5faD04CCee4Ee07051C62ad0161"
+  },
+  "clankerInfo": null
+}

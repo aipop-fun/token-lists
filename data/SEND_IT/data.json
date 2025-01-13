@@ -1,0 +1,22 @@
+{
+  "name": "Send it!",
+  "symbol": "Send it!",
+  "decimals": 18,
+  "description": "Send it! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Send%20it!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Send it!",
+  "addresses": {
+    "8453": "0x18d63e093d39362f9bfd8a4f5eb4474669ba1212"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Send it!",
+    "sanitizedSymbol": "SEND_IT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221701",
+    "lockerAddress": "0xf1cdf9A10f3f948781939B0b5fd5d4b38129DEe5"
+  },
+  "clankerInfo": null
+}

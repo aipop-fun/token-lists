@@ -1,0 +1,22 @@
+{
+  "name": "Lock In",
+  "symbol": "Lock In",
+  "decimals": 18,
+  "description": "Lock In is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lock%20In",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lock In",
+  "addresses": {
+    "8453": "0x0dd04a7efd3ef78a744cbd7bc858e580ca036de2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lock In",
+    "sanitizedSymbol": "LOCK_IN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221649",
+    "lockerAddress": "0x7EF53B4005C3e2e26a6f4A4F0F28cC9C9A268D67"
+  },
+  "clankerInfo": null
+}

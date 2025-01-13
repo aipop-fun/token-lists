@@ -1,0 +1,22 @@
+{
+  "name": "Justice for My Wallet",
+  "symbol": "Justice for My Wallet",
+  "decimals": 18,
+  "description": "Justice for My Wallet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Justice%20for%20My%20Wallet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Justice for My Wallet",
+  "addresses": {
+    "8453": "0x38013aca83b361166c452a6b595f0b58d8494fe0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Justice for My Wallet",
+    "sanitizedSymbol": "JUSTICE_FOR_MY_WALLET",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235709",
+    "lockerAddress": "0x6563A9d9DF9bD786E67DaF07E56E364001B83B18"
+  },
+  "clankerInfo": null
+}

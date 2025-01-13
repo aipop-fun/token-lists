@@ -1,0 +1,22 @@
+{
+  "name": "RENDER",
+  "symbol": "RENDER",
+  "decimals": 18,
+  "description": "RENDER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RENDER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RENDER",
+  "addresses": {
+    "8453": "0x345d6c85db912770eeb37d8f056a693d93ed769e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RENDER",
+    "sanitizedSymbol": "RENDER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125283",
+    "lockerAddress": "0xADFDfFB51D5C19d6d142d0fe9E6548118bDF27b6"
+  },
+  "clankerInfo": null
+}

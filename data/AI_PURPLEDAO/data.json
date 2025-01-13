@@ -1,0 +1,22 @@
+{
+  "name": "Ai-PurpleDAO",
+  "symbol": "Ai-PurpleDAO",
+  "decimals": 18,
+  "description": "Ai-PurpleDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ai-PurpleDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ai-PurpleDAO",
+  "addresses": {
+    "8453": "0x07c7c556b954da59ac91c3e99e593f649d7c1b37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ai-PurpleDAO",
+    "sanitizedSymbol": "AI_PURPLEDAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA551C69f5EC2838928CEa71986e89E995141B768",
+    "lpNftId": "1319727",
+    "lockerAddress": "0xEF0925F8Ae96A4bb67b8707277c5642AC566f959"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hidding Meme",
+  "symbol": "Hidding Meme",
+  "decimals": 18,
+  "description": "Hidding Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hidding%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hidding Meme",
+  "addresses": {
+    "8453": "0x0acdabb68a4c17d7c240daabc0be171373a63a1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hidding Meme",
+    "sanitizedSymbol": "HIDDING_MEME",
+    "created_at": "2024-12-09T05:05:35.353679",
+    "deployer": "0xf06D1aDE3C5EB057B95CEd418072139673a58F73",
+    "lpNftId": "1382919",
+    "lockerAddress": "0x7CFc84E9f11d0e17776E5Ac60D64ff1e98Be4bE4"
+  },
+  "clankerInfo": null
+}

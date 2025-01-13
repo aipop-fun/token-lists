@@ -1,0 +1,22 @@
+{
+  "name": "Santa Claws",
+  "symbol": "Santa Claws",
+  "decimals": 18,
+  "description": "Santa Claws is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Claws",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Claws",
+  "addresses": {
+    "8453": "0x2ee9d1f6b955e65504119e6e43f34efec802ba13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Claws",
+    "sanitizedSymbol": "SANTA_CLAWS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe0Af785Cea1946d8F69315c8Cdcb5dd491ddfb1D",
+    "lpNftId": "1267164",
+    "lockerAddress": "0xab0752dF8852C04e849ABD613fd15bCC6666DD11"
+  },
+  "clankerInfo": null
+}

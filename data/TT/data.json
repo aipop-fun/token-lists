@@ -1,0 +1,22 @@
+{
+  "name": "TT",
+  "symbol": "TT",
+  "decimals": 18,
+  "description": "TT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TT",
+  "addresses": {
+    "8453": "0x27a0dab556d3a64d960826df783cd2a2558c3f6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TT",
+    "sanitizedSymbol": "TT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193088",
+    "lockerAddress": "0x2abcB6b230f8f9e87A73277Bf9fa17bADbcAfCDe"
+  },
+  "clankerInfo": null
+}

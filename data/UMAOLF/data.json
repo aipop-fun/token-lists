@@ -1,0 +1,22 @@
+{
+  "name": "UMAOLF",
+  "symbol": "UMAOLF",
+  "decimals": 18,
+  "description": "UMAOLF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UMAOLF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UMAOLF",
+  "addresses": {
+    "8453": "0x15b12a05928faff7b7e3ec1b3e43fde9233ce43e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UMAOLF",
+    "sanitizedSymbol": "UMAOLF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x2809C9061763F66987b015323050812c78a4b3dc",
+    "lpNftId": "1172787",
+    "lockerAddress": "0xF12d1Ab560bD0Dd143C5EF07D0819021782e4eE0"
+  },
+  "clankerInfo": null
+}

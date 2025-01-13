@@ -1,0 +1,22 @@
+{
+  "name": "KIPAS ANGIN",
+  "symbol": "KIPAS ANGIN",
+  "decimals": 18,
+  "description": "KIPAS ANGIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KIPAS%20ANGIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KIPAS ANGIN",
+  "addresses": {
+    "8453": "0x20f27f2ea54279e7accdf585dbd7a2c9c65e6497"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KIPAS ANGIN",
+    "sanitizedSymbol": "KIPAS_ANGIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x26A24B64C7BDB8c2246F6B7470D40d363bAD54f0",
+    "lpNftId": "1253066",
+    "lockerAddress": "0xad0243DA7E35D6fb252DAe96c26d98fC5FDb0a61"
+  },
+  "clankerInfo": null
+}

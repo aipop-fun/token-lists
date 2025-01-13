@@ -1,0 +1,22 @@
+{
+  "name": "Builder Energy",
+  "symbol": "Builder Energy",
+  "decimals": 18,
+  "description": "Builder Energy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Builder%20Energy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Builder Energy",
+  "addresses": {
+    "8453": "0x026a61b5641d01a72a6db918cc225d7ea57bc663"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Builder Energy",
+    "sanitizedSymbol": "BUILDER_ENERGY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160148",
+    "lockerAddress": "0x6Faa263eB93EfaE6a7EfD5E9c2ed7A1c42cf7E5e"
+  },
+  "clankerInfo": null
+}

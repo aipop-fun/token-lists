@@ -1,0 +1,22 @@
+{
+  "name": "Digit Cat",
+  "symbol": "Digit Cat",
+  "decimals": 18,
+  "description": "Digit Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digit%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digit Cat",
+  "addresses": {
+    "8453": "0x0c40194fc9cbca54c40950558630667cee798e3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digit Cat",
+    "sanitizedSymbol": "DIGIT_CAT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2a32Bc742d26c315084C2B92Ee74cD9FE9192646",
+    "lpNftId": "1265868",
+    "lockerAddress": "0x7174b811311844449682cb84dfeE09a368A93Acf"
+  },
+  "clankerInfo": null
+}

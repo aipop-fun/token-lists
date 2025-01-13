@@ -1,0 +1,22 @@
+{
+  "name": "Bytecoin",
+  "symbol": "Bytecoin",
+  "decimals": 18,
+  "description": "Bytecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bytecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bytecoin",
+  "addresses": {
+    "8453": "0x360e0428e26c602bea96169e7dbf33267c9b586e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bytecoin",
+    "sanitizedSymbol": "BYTECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x71B632fd5c0Bb128F4d54724963D775cc177D11f",
+    "lpNftId": "1318990",
+    "lockerAddress": "0xdd81558ce3E6329E37a7034F40759099e357bBA2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Quid",
+  "symbol": "Quid",
+  "decimals": 18,
+  "description": "Quid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quid",
+  "addresses": {
+    "8453": "0x0585af380dd3b65c8332a5a1dfc9ea36dd1ae712"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quid",
+    "sanitizedSymbol": "QUID",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128651",
+    "lockerAddress": "0x0e9c950400dcc28C661FFFA38Ae5bfAe4A14EDf6"
+  },
+  "clankerInfo": null
+}

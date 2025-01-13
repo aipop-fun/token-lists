@@ -1,0 +1,22 @@
+{
+  "name": "COUPCOIN",
+  "symbol": "COUPCOIN",
+  "decimals": 18,
+  "description": "COUPCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COUPCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COUPCOIN",
+  "addresses": {
+    "8453": "0x3dba96017e408ffdfacdd13eedc103ce97526916"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COUPCOIN",
+    "sanitizedSymbol": "COUPCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb15777be63bd2B43D376269b8323dE98F7D7F2D5",
+    "lpNftId": "1312567",
+    "lockerAddress": "0x9E11EA4d320a8362E874cc4d98D7234cfEE9F6fb"
+  },
+  "clankerInfo": null
+}

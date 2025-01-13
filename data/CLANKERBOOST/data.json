@@ -1,0 +1,22 @@
+{
+  "name": "ClankerBoost",
+  "symbol": "ClankerBoost",
+  "decimals": 18,
+  "description": "ClankerBoost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerBoost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerBoost",
+  "addresses": {
+    "8453": "0x0b5bcb54506f11ff183368d4232e22cd654fd5e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerBoost",
+    "sanitizedSymbol": "CLANKERBOOST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218287",
+    "lockerAddress": "0xfDeDd715Ce04D1300A7ABb246549a63428C35488"
+  },
+  "clankerInfo": null
+}

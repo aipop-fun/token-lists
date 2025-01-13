@@ -1,0 +1,22 @@
+{
+  "name": "Wanderlust",
+  "symbol": "Wanderlust",
+  "decimals": 18,
+  "description": "Wanderlust is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wanderlust",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wanderlust",
+  "addresses": {
+    "8453": "0x2a77eb5d27cb897192bfb24cb7d75b4fe4f14f94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wanderlust",
+    "sanitizedSymbol": "WANDERLUST",
+    "created_at": "2024-12-11T22:38:25.282308",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1427399",
+    "lockerAddress": "0xdF4D0BE0bABCecEb0e7CaA1eA1d41304a3DBE3bb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Buy it for a buck",
+  "symbol": "Buy it for a buck",
+  "decimals": 18,
+  "description": "Buy it for a buck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Buy%20it%20for%20a%20buck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Buy it for a buck",
+  "addresses": {
+    "8453": "0x139fb62493bbbf07dddb097ebee2c548864ba7d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Buy it for a buck",
+    "sanitizedSymbol": "BUY_IT_FOR_A_BUCK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4763000409b99FA043098596Dc57A79005E703aC",
+    "lpNftId": "1312713",
+    "lockerAddress": "0x8B7F62fa1bE156E1DEFec805a094582da6B01e2A"
+  },
+  "clankerInfo": null
+}

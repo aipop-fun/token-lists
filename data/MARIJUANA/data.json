@@ -1,0 +1,22 @@
+{
+  "name": "Marijuana",
+  "symbol": "Marijuana",
+  "decimals": 18,
+  "description": "Marijuana is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marijuana",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marijuana",
+  "addresses": {
+    "8453": "0x26ee422dd14618854537e3101ea69928545e645f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marijuana",
+    "sanitizedSymbol": "MARIJUANA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB276ACDE7EF0D8c878f25b18c5779EcFBb557799",
+    "lpNftId": "1300135",
+    "lockerAddress": "0x7959ae8034dFeE0fc0b56b675e9134f51Ab79C8d"
+  },
+  "clankerInfo": null
+}

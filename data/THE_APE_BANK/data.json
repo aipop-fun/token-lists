@@ -1,0 +1,22 @@
+{
+  "name": "The Ape Bank",
+  "symbol": "The Ape Bank",
+  "decimals": 18,
+  "description": "The Ape Bank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Ape%20Bank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Ape Bank",
+  "addresses": {
+    "8453": "0x23c89085a2041effce6500626616d2d1d45d2628"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Ape Bank",
+    "sanitizedSymbol": "THE_APE_BANK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143535",
+    "lockerAddress": "0x54796876ddd6d8eD24380Ffe9E11307922b24d15"
+  },
+  "clankerInfo": null
+}

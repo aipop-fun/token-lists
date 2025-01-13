@@ -1,0 +1,22 @@
+{
+  "name": "Zero Is Based",
+  "symbol": "Zero Is Based",
+  "decimals": 18,
+  "description": "Zero Is Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zero%20Is%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zero Is Based",
+  "addresses": {
+    "8453": "0x186c520daf837e067211d370755509c886dbcc8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zero Is Based",
+    "sanitizedSymbol": "ZERO_IS_BASED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128642",
+    "lockerAddress": "0xdFc52B0EaCb669a33a0d22492629bc27Aa474784"
+  },
+  "clankerInfo": null
+}

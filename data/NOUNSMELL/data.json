@@ -1,0 +1,22 @@
+{
+  "name": "Nounsmell",
+  "symbol": "Nounsmell",
+  "decimals": 18,
+  "description": "Nounsmell is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nounsmell",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nounsmell",
+  "addresses": {
+    "8453": "0x3814723de05bc8e87b15a948acdc67009bc3f137"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nounsmell",
+    "sanitizedSymbol": "NOUNSMELL",
+    "created_at": "2024-12-11T17:39:27.314365",
+    "deployer": "0xA8F0048A0d1A04663Ca5010d0bEaC5BCAEeA0eef",
+    "lpNftId": "1422717",
+    "lockerAddress": "0xd86e22da80553a278d96253e88FaDaE8E43d25CD"
+  },
+  "clankerInfo": null
+}

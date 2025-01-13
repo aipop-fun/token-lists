@@ -1,0 +1,22 @@
+{
+  "name": "HAM",
+  "symbol": "HAM",
+  "decimals": 18,
+  "description": "HAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAM",
+  "addresses": {
+    "8453": "0x14d51cbed48008412d2f45381726c1bfca53dee0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAM",
+    "sanitizedSymbol": "HAM_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0A5d1822CC57114304F9f7da51eccd9bd11Db6d0",
+    "lpNftId": "1333099",
+    "lockerAddress": "0x67BB25Df5933B7C93a05EC47BEDCC8d2D2969388"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shibetoshi Nakamoto",
+  "symbol": "Shibetoshi Nakamoto",
+  "decimals": 18,
+  "description": "Shibetoshi Nakamoto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shibetoshi%20Nakamoto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shibetoshi Nakamoto",
+  "addresses": {
+    "8453": "0x15068c9ec01f488456770c1a3462fda44b578ab9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shibetoshi Nakamoto",
+    "sanitizedSymbol": "SHIBETOSHI_NAKAMOTO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x73bCDFc7dF9570C67749D8C22583803F0a5d55CE",
+    "lpNftId": "1252780",
+    "lockerAddress": "0xAa5A9bB02de5E94fddEbB519B16CFFF1AB793BAe"
+  },
+  "clankerInfo": null
+}

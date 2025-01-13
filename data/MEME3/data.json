@@ -1,0 +1,22 @@
+{
+  "name": "meme3",
+  "symbol": "meme3",
+  "decimals": 18,
+  "description": "meme3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=meme3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "meme3",
+  "addresses": {
+    "8453": "0x1f603cb9af95e1da3507b653b7e6888b041f9684"
+  },
+  "tokenInfo": {
+    "originalSymbol": "meme3",
+    "sanitizedSymbol": "MEME3",
+    "created_at": "2024-12-10T07:35:11.436654",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1398058",
+    "lockerAddress": "0xb00eAF5eD12eC2dCc82305D28fa123AA5AC3Ec9d"
+  },
+  "clankerInfo": null
+}

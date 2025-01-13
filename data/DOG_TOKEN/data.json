@@ -1,0 +1,22 @@
+{
+  "name": "Dog Token",
+  "symbol": "Dog Token",
+  "decimals": 18,
+  "description": "Dog Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dog%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dog Token",
+  "addresses": {
+    "8453": "0x10b3ecf948f3f71cddb153bacb069979153879b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dog Token",
+    "sanitizedSymbol": "DOG_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xBF1090326B3709DbfD57f07Ecbe81498F5cDA6c8",
+    "lpNftId": "1250498",
+    "lockerAddress": "0x491C293f5f6b11fB290e3D22324DDf212dC9cC31"
+  },
+  "clankerInfo": null
+}

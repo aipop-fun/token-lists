@@ -1,0 +1,22 @@
+{
+  "name": "XMAS USA",
+  "symbol": "XMAS USA",
+  "decimals": 18,
+  "description": "XMAS USA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XMAS%20USA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XMAS USA",
+  "addresses": {
+    "8453": "0x3bde13975731d493f77ee13e2f18856123cc9a97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XMAS USA",
+    "sanitizedSymbol": "XMAS_USA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaee9df4554DF4DDB473E1713eC0BB2eAD5f8fC97",
+    "lpNftId": "1309188",
+    "lockerAddress": "0xb5C0555E52b4026b1897301b6fDEb332633680e8"
+  },
+  "clankerInfo": null
+}

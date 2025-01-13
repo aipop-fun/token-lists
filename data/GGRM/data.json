@@ -1,0 +1,22 @@
+{
+  "name": "GGRM",
+  "symbol": "GGRM",
+  "decimals": 18,
+  "description": "GGRM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GGRM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GGRM",
+  "addresses": {
+    "8453": "0x0d60d53f1d835435699c5ca264d2606d7a13350c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GGRM",
+    "sanitizedSymbol": "GGRM",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x653ba986bAfEd23cF1DA7cDb9600522B897356dE",
+    "lpNftId": "1253343",
+    "lockerAddress": "0x4eDD7CbC921773A69C2Bc325e14EFE2Ef41568EA"
+  },
+  "clankerInfo": null
+}

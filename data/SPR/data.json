@@ -1,0 +1,22 @@
+{
+  "name": "SPR",
+  "symbol": "SPR",
+  "decimals": 18,
+  "description": "SPR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPR",
+  "addresses": {
+    "8453": "0x1d4dff860530c2742401ea00c3bee576240c6c22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPR",
+    "sanitizedSymbol": "SPR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5c8018AF8063eD5dA3ce2AE275A78b38e13AA720",
+    "lpNftId": "1252940",
+    "lockerAddress": "0x40fbd4C785d8AA0d10a91903FedE9350a8D7433b"
+  },
+  "clankerInfo": null
+}

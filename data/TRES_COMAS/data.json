@@ -1,0 +1,22 @@
+{
+  "name": "Tres Comas",
+  "symbol": "Tres Comas",
+  "decimals": 18,
+  "description": "Tres Comas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tres%20Comas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tres Comas",
+  "addresses": {
+    "8453": "0x17067a41ae506eeeac84db62e15d541a4546910f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tres Comas",
+    "sanitizedSymbol": "TRES_COMAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf7CaD584a4d56959B5EE6B66d28BB1FeAC29C68d",
+    "lpNftId": "1346827",
+    "lockerAddress": "0x830c715DC845456a31ca86Aa3D63ce4365886162"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "billion",
+  "symbol": "billion",
+  "decimals": 18,
+  "description": "billion is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=billion",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "billion",
+  "addresses": {
+    "8453": "0x1de57a4518e9da54d28f741f3c43864a1c5ea6fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "billion",
+    "sanitizedSymbol": "BILLION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA18d1BF832c6b973476a0a8Deaf840CCe004F4fC",
+    "lpNftId": "1287931",
+    "lockerAddress": "0xA4654830EE3f83377bC486c2f8768413E44f8530"
+  },
+  "clankerInfo": null
+}

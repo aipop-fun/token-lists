@@ -1,0 +1,22 @@
+{
+  "name": "Jacek",
+  "symbol": "Jacek",
+  "decimals": 18,
+  "description": "Jacek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jacek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jacek",
+  "addresses": {
+    "8453": "0x2e4888c9db8e44d9f85c4d5c38f1689ef2bc6f11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jacek",
+    "sanitizedSymbol": "JACEK_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9779C07a8230179463F1849d2CD8F0f8c7633480",
+    "lpNftId": "1321869",
+    "lockerAddress": "0x3abD5AcEf035F8794F52e6E8693DAEf09c60aCFD"
+  },
+  "clankerInfo": null
+}

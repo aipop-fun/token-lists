@@ -1,0 +1,22 @@
+{
+  "name": "Psycho",
+  "symbol": "Psycho",
+  "decimals": 18,
+  "description": "Psycho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Psycho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Psycho",
+  "addresses": {
+    "8453": "0x1c5f2a577b4ab921f1fc3c0b6c8a6d2d4899ed05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Psycho",
+    "sanitizedSymbol": "PSYCHO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232488",
+    "lockerAddress": "0x75DC5a01eBc7A0B3eA60f5FDAa174Fbc3e191fB9"
+  },
+  "clankerInfo": null
+}

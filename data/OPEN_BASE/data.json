@@ -1,0 +1,22 @@
+{
+  "name": "OPEN BASE",
+  "symbol": "OPEN BASE",
+  "decimals": 18,
+  "description": "OPEN BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OPEN%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OPEN BASE",
+  "addresses": {
+    "8453": "0x3cfd032ca22beefd916ec0e4d15f5a29f539e729"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OPEN BASE",
+    "sanitizedSymbol": "OPEN_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232699",
+    "lockerAddress": "0xFC6B575c09768753d7DE42ACD1Df70a3DF2AC007"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MEMEPAD",
+  "symbol": "MEMEPAD",
+  "decimals": 18,
+  "description": "MEMEPAD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMEPAD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMEPAD",
+  "addresses": {
+    "8453": "0x072bb64e9e5333310d4f0466ea14fcfcfd4cf15d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMEPAD",
+    "sanitizedSymbol": "MEMEPAD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1360527",
+    "lockerAddress": "0x1A623D14Fd149fBCAd7c253d9C82a598126F8491"
+  },
+  "clankerInfo": null
+}

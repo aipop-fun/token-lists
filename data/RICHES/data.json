@@ -1,0 +1,22 @@
+{
+  "name": "RICHES",
+  "symbol": "RICHES",
+  "decimals": 18,
+  "description": "RICHES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RICHES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RICHES",
+  "addresses": {
+    "8453": "0x19d7ae1c3080eabd7c1ae8acbd95263d40ab47af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RICHES",
+    "sanitizedSymbol": "RICHES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x224C13De4Ce1d348bb3C67DA8Ffc8E3ac8405d6D",
+    "lpNftId": "1322081",
+    "lockerAddress": "0x4B81f5AFd7cc5F0fC036feb901a003A6d97B64b3"
+  },
+  "clankerInfo": null
+}

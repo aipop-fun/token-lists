@@ -1,0 +1,22 @@
+{
+  "name": "Bing",
+  "symbol": "Bing",
+  "decimals": 18,
+  "description": "Bing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bing",
+  "addresses": {
+    "8453": "0x337711dc64782e7a2cc6ab097456e96d8fccd9f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bing",
+    "sanitizedSymbol": "BING",
+    "created_at": "2024-12-09T18:34:18.781817",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1390294",
+    "lockerAddress": "0x18e6944D7CD7149c1B33908903C45400C5Eba21C"
+  },
+  "clankerInfo": null
+}

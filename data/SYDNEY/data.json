@@ -1,0 +1,22 @@
+{
+  "name": "Sydney",
+  "symbol": "Sydney",
+  "decimals": 18,
+  "description": "Sydney is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sydney",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sydney",
+  "addresses": {
+    "8453": "0x228e9509ed8b6eade8fdd6ba26fd94631eee97bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sydney",
+    "sanitizedSymbol": "SYDNEY",
+    "created_at": "2024-12-09T16:13:57.385964",
+    "deployer": "0x658B13b773b0ceD400eC57cf7C03288d8Aa13805",
+    "lpNftId": "1389056",
+    "lockerAddress": "0xfc9De93D03501313CC9525FD7Fa6223F66F3126D"
+  },
+  "clankerInfo": null
+}

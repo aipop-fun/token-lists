@@ -1,0 +1,22 @@
+{
+  "name": "BIAO",
+  "symbol": "BIAO",
+  "decimals": 18,
+  "description": "BIAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIAO",
+  "addresses": {
+    "8453": "0x33ac867c7322deccf274871eb4f0e1b8234fadc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIAO",
+    "sanitizedSymbol": "BIAO_6",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1359173",
+    "lockerAddress": "0xaeE4b7BE803c889E373fEc39fC18cAA7B2906514"
+  },
+  "clankerInfo": null
+}

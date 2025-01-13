@@ -1,0 +1,22 @@
+{
+  "name": "CLANK CLANK",
+  "symbol": "CLANK CLANK",
+  "decimals": 18,
+  "description": "CLANK CLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANK%20CLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANK CLANK",
+  "addresses": {
+    "8453": "0x0d21107f2a2f40ed3b9487c5b27e4f3c7f3425fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANK CLANK",
+    "sanitizedSymbol": "CLANK_CLANK_2",
+    "created_at": "2024-12-11T03:24:32.286032",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411768",
+    "lockerAddress": "0x0C0df5755d7d795c66A9d8C24ECA74AE2808cCd3"
+  },
+  "clankerInfo": null
+}

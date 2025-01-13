@@ -1,0 +1,22 @@
+{
+  "name": "One Ring Token",
+  "symbol": "One Ring Token",
+  "decimals": 18,
+  "description": "One Ring Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20Ring%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One Ring Token",
+  "addresses": {
+    "8453": "0x178ecf22241f93be79d70cd4015ae9016bf27a49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One Ring Token",
+    "sanitizedSymbol": "ONE_RING_TOKEN_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143409",
+    "lockerAddress": "0x0c970990152f0cA80a6D34E7Fc172b163C42B12f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PEPE in a top hat",
+  "symbol": "PEPE in a top hat",
+  "decimals": 18,
+  "description": "PEPE in a top hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20in%20a%20top%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE in a top hat",
+  "addresses": {
+    "8453": "0x0ad30838217406c92f23059c24edb77370466c78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE in a top hat",
+    "sanitizedSymbol": "PEPE_IN_A_TOP_HAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1329281",
+    "lockerAddress": "0x36A9762Fa7d033feEfc9BD680d9B86888AC658ae"
+  },
+  "clankerInfo": null
+}

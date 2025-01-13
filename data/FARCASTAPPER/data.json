@@ -1,0 +1,22 @@
+{
+  "name": "FARCASTAPPER",
+  "symbol": "FARCASTAPPER",
+  "decimals": 18,
+  "description": "FARCASTAPPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCASTAPPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCASTAPPER",
+  "addresses": {
+    "8453": "0x249504d0c37417e93a049b95bd4d8dd8e32eca5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCASTAPPER",
+    "sanitizedSymbol": "FARCASTAPPER",
+    "created_at": "2024-12-09T10:49:43.679",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1386087",
+    "lockerAddress": "0xd1bEF8e882325D3E56981F7Dfc566441B5588E5E"
+  },
+  "clankerInfo": null
+}

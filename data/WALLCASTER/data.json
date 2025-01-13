@@ -1,0 +1,22 @@
+{
+  "name": "WALLCASTER",
+  "symbol": "WALLCASTER",
+  "decimals": 18,
+  "description": "WALLCASTER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WALLCASTER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WALLCASTER",
+  "addresses": {
+    "8453": "0x0b41194699fd54da1c0cc2be8001b336e3572608"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WALLCASTER",
+    "sanitizedSymbol": "WALLCASTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213874",
+    "lockerAddress": "0x6E11fF76f79DC0b29a943F72e36E6F3E9741F990"
+  },
+  "clankerInfo": null
+}

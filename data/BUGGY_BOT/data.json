@@ -1,0 +1,22 @@
+{
+  "name": "Buggy Bot",
+  "symbol": "Buggy Bot",
+  "decimals": 18,
+  "description": "Buggy Bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Buggy%20Bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Buggy Bot",
+  "addresses": {
+    "8453": "0x122494e9bc7bf702e08164a47c91d4bf0b7fedb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Buggy Bot",
+    "sanitizedSymbol": "BUGGY_BOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231985",
+    "lockerAddress": "0x4Be83Ad81E5561d72e107FF5A2Ad207127a5BD6C"
+  },
+  "clankerInfo": null
+}

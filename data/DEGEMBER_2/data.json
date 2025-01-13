@@ -1,0 +1,22 @@
+{
+  "name": "Degember",
+  "symbol": "Degember",
+  "decimals": 18,
+  "description": "Degember is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degember",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degember",
+  "addresses": {
+    "8453": "0x2540bf75ea38a6d9b75c662f7195ffeeb5cb7506"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degember",
+    "sanitizedSymbol": "DEGEMBER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x126C92Fe02303028842e5f1e705B276de2593300",
+    "lpNftId": "1316934",
+    "lockerAddress": "0x3477AFd6114cb3dc0F01f7a7628425dD0Da4Bcbd"
+  },
+  "clankerInfo": null
+}

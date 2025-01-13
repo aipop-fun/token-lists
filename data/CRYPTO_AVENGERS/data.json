@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Avengers",
+  "symbol": "Crypto Avengers",
+  "decimals": 18,
+  "description": "Crypto Avengers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Avengers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Avengers",
+  "addresses": {
+    "8453": "0x416898bf723f4d892f521da2cb531c9b4e43d678"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Avengers",
+    "sanitizedSymbol": "CRYPTO_AVENGERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDdB1F99b69A49b7E3b25bFB7Bf95b1d070f35358",
+    "lpNftId": "1329974",
+    "lockerAddress": "0x5efE14d3B01E6b0B3DAAF6701a2Db2c1Db137999"
+  },
+  "clankerInfo": null
+}

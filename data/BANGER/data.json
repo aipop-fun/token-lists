@@ -1,0 +1,22 @@
+{
+  "name": "banger",
+  "symbol": "banger",
+  "decimals": 18,
+  "description": "banger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=banger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "banger",
+  "addresses": {
+    "8453": "0x2f70c111434a532bc8e516e1b1eb7f3eb85f6cd6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "banger",
+    "sanitizedSymbol": "BANGER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199649",
+    "lockerAddress": "0x6d66000eE5270945d2849Ae1C4f4B8eA50021e42"
+  },
+  "clankerInfo": null
+}

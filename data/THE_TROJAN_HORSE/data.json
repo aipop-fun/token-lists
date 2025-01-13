@@ -1,0 +1,22 @@
+{
+  "name": "The Trojan Horse",
+  "symbol": "The Trojan Horse",
+  "decimals": 18,
+  "description": "The Trojan Horse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Trojan%20Horse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Trojan Horse",
+  "addresses": {
+    "8453": "0x0e635d246bc55cd90bdece792cb84c62b1bb6fbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Trojan Horse",
+    "sanitizedSymbol": "THE_TROJAN_HORSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229340",
+    "lockerAddress": "0xD00F4F9D87d72660837cF853e3bc2b2319a170b6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OPTIMUS PRIME",
+  "symbol": "OPTIMUS PRIME",
+  "decimals": 18,
+  "description": "OPTIMUS PRIME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OPTIMUS%20PRIME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OPTIMUS PRIME",
+  "addresses": {
+    "8453": "0x374ad498f347f8beb97a483c910d71a7908d714f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OPTIMUS PRIME",
+    "sanitizedSymbol": "OPTIMUS_PRIME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9C35739128867BfB69fDfC6Df6386Ee6C4c4cceD",
+    "lpNftId": "1356917",
+    "lockerAddress": "0x7aF56Ca4B2895a3aC88c34911da30300cCF5Ff78"
+  },
+  "clankerInfo": null
+}

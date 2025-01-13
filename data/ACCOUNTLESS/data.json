@@ -1,0 +1,22 @@
+{
+  "name": "accountless",
+  "symbol": "accountless",
+  "decimals": 18,
+  "description": "accountless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=accountless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "accountless",
+  "addresses": {
+    "8453": "0x1b2478c806e10f1f57f45bbee8580c22ae2d0c8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "accountless",
+    "sanitizedSymbol": "ACCOUNTLESS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218154",
+    "lockerAddress": "0x6Fc7519E43563515e316F61d8A58a0831AA464Fd"
+  },
+  "clankerInfo": null
+}

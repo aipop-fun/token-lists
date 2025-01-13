@@ -1,0 +1,22 @@
+{
+  "name": "Don't Buy Me",
+  "symbol": "Don't Buy Me",
+  "decimals": 18,
+  "description": "Don't Buy Me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20Buy%20Me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't Buy Me",
+  "addresses": {
+    "8453": "0x1e65350e7164419776332f425f8100916f32c943"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't Buy Me",
+    "sanitizedSymbol": "DON_T_BUY_ME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235085",
+    "lockerAddress": "0xd2C302e13611594d78093C4Bdd55B61A12ea391a"
+  },
+  "clankerInfo": null
+}

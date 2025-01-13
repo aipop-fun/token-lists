@@ -1,0 +1,22 @@
+{
+  "name": "Harmony Essence",
+  "symbol": "Harmony Essence",
+  "decimals": 18,
+  "description": "Harmony Essence is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Harmony%20Essence",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Harmony Essence",
+  "addresses": {
+    "8453": "0x00db2253688e76d2c4c565777e0cdc3bfe3bfeba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Harmony Essence",
+    "sanitizedSymbol": "HARMONY_ESSENCE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235700",
+    "lockerAddress": "0x4Cf9078397Dd7a3756069a90Ba900DAdB2102225"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "shibainu",
+  "symbol": "shibainu",
+  "decimals": 18,
+  "description": "shibainu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shibainu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shibainu",
+  "addresses": {
+    "8453": "0x29ca3c7de2421b428389685c6ae0f75016f361a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shibainu",
+    "sanitizedSymbol": "SHIBAINU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5AfF2d699E8E204E78334c7A16a626d9082df0e8",
+    "lpNftId": "1265246",
+    "lockerAddress": "0x9C94c33f4893789306B275117a6fb49F12681A90"
+  },
+  "clankerInfo": null
+}

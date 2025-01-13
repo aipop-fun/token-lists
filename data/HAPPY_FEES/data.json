@@ -1,0 +1,22 @@
+{
+  "name": "Happy Fees",
+  "symbol": "Happy Fees",
+  "decimals": 18,
+  "description": "Happy Fees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Fees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Fees",
+  "addresses": {
+    "8453": "0x0f94792232597f45732161c6b8ffbbf5bc0eda94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Fees",
+    "sanitizedSymbol": "HAPPY_FEES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9303b92779323C0b59C7701AA2911014Ab7BA01b",
+    "lpNftId": "1319648",
+    "lockerAddress": "0xFdbf7462BCa34655F0e47CCedD97Ef7f163651Bb"
+  },
+  "clankerInfo": null
+}

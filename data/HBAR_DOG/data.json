@@ -1,0 +1,22 @@
+{
+  "name": "HBAR DOG",
+  "symbol": "HBAR DOG",
+  "decimals": 18,
+  "description": "HBAR DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HBAR%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HBAR DOG",
+  "addresses": {
+    "8453": "0x35ec89f1ee959c4677a97d4f8d55dd2be61c7cbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HBAR DOG",
+    "sanitizedSymbol": "HBAR_DOG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x59a31D9791B622E63351e3B284B3F149Fcc52171",
+    "lpNftId": "1276859",
+    "lockerAddress": "0xa65a5567AEe6e55c514E5609606e5A61f9739d1e"
+  },
+  "clankerInfo": null
+}

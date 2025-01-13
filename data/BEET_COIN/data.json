@@ -1,0 +1,22 @@
+{
+  "name": "BEET COIN",
+  "symbol": "BEET COIN",
+  "decimals": 18,
+  "description": "BEET COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEET%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEET COIN",
+  "addresses": {
+    "8453": "0x1dcdbf19d84b914b2778e5b7f914eb0c7d0b3924"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEET COIN",
+    "sanitizedSymbol": "BEET_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1285318",
+    "lockerAddress": "0x0e24c8B087Ed8c9c3747a4Fb718B84c6758D62e2"
+  },
+  "clankerInfo": null
+}

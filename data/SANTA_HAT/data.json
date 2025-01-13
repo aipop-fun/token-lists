@@ -1,0 +1,22 @@
+{
+  "name": "Santa Hat",
+  "symbol": "Santa Hat",
+  "decimals": 18,
+  "description": "Santa Hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Hat",
+  "addresses": {
+    "8453": "0x104b33f973f2d68a9f3a7fd11781a17089eaa03f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Hat",
+    "sanitizedSymbol": "SANTA_HAT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x43DB13ed54cE5a412E3D9692Cd677217C2cb53Cb",
+    "lpNftId": "1276311",
+    "lockerAddress": "0x5131A74f2645DF2f809FE80F404312A5c1cbe845"
+  },
+  "clankerInfo": null
+}

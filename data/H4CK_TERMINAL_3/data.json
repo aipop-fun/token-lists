@@ -1,0 +1,22 @@
+{
+  "name": "H4CK Terminal",
+  "symbol": "H4CK Terminal",
+  "decimals": 18,
+  "description": "H4CK Terminal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=H4CK%20Terminal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "H4CK Terminal",
+  "addresses": {
+    "8453": "0x2897d196a775f2827258a2ac7f7e23e71ac568e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "H4CK Terminal",
+    "sanitizedSymbol": "H4CK_TERMINAL_3",
+    "created_at": "2024-12-11T10:26:49.403003",
+    "deployer": "0x448eB535cFd2f6EBDBCB17e36aF5e2B57b474D3e",
+    "lpNftId": "1416341",
+    "lockerAddress": "0x962F2F58C1355056C433cB9669CFd85B59894A72"
+  },
+  "clankerInfo": null
+}

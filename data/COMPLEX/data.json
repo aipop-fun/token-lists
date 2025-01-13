@@ -1,0 +1,22 @@
+{
+  "name": "Complex",
+  "symbol": "Complex",
+  "decimals": 18,
+  "description": "Complex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Complex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Complex",
+  "addresses": {
+    "8453": "0x3c97f2add60bc30089146d9107e97579da5d44a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Complex",
+    "sanitizedSymbol": "COMPLEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165224",
+    "lockerAddress": "0x1E7c1F7210ff8c85096753Ba873308A3fD5Fe619"
+  },
+  "clankerInfo": null
+}

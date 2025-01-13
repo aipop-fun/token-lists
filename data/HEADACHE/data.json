@@ -1,0 +1,22 @@
+{
+  "name": "headache",
+  "symbol": "headache",
+  "decimals": 18,
+  "description": "headache is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=headache",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "headache",
+  "addresses": {
+    "8453": "0x2685a7118500b8928999306057c83b78c84bfad6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "headache",
+    "sanitizedSymbol": "HEADACHE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1359758",
+    "lockerAddress": "0x8eAf57826D0dB8d84fc1B604561770afCfF64A06"
+  },
+  "clankerInfo": null
+}

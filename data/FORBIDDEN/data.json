@@ -1,0 +1,22 @@
+{
+  "name": "FORBIDDEN",
+  "symbol": "FORBIDDEN",
+  "decimals": 18,
+  "description": "FORBIDDEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FORBIDDEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FORBIDDEN",
+  "addresses": {
+    "8453": "0x24acd2bdf7eb55bc797e25a2d45815cb25105800"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FORBIDDEN",
+    "sanitizedSymbol": "FORBIDDEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8C3e9573Ff9795f8ce0992EC93aBAf4445419B0E",
+    "lpNftId": "1354023",
+    "lockerAddress": "0x9DB0EaCC31F414932764805E26d1F8E37a0eD854"
+  },
+  "clankerInfo": null
+}

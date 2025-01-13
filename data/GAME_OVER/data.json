@@ -1,0 +1,22 @@
+{
+  "name": "Game Over",
+  "symbol": "Game Over",
+  "decimals": 18,
+  "description": "Game Over is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Game%20Over",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Game Over",
+  "addresses": {
+    "8453": "0x3fd241041ee274216dccf7cf94f56cca6004378f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Game Over",
+    "sanitizedSymbol": "GAME_OVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1346715",
+    "lockerAddress": "0xE50c7210010E894C5f478F47Ed40b5Ff38173e95"
+  },
+  "clankerInfo": null
+}

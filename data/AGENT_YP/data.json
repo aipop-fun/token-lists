@@ -1,0 +1,22 @@
+{
+  "name": "Agent YP",
+  "symbol": "Agent YP",
+  "decimals": 18,
+  "description": "Agent YP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agent%20YP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agent YP",
+  "addresses": {
+    "8453": "0x21c37e3d3ad9f5cc120ed037082d5832c1d7370d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agent YP",
+    "sanitizedSymbol": "AGENT_YP",
+    "created_at": "2024-12-11T18:16:53.295585",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1423607",
+    "lockerAddress": "0xEBff25bd46826019a1E0BFD0f512Df786b12E5e4"
+  },
+  "clankerInfo": null
+}

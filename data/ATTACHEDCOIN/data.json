@@ -1,0 +1,22 @@
+{
+  "name": "AttachedCoin",
+  "symbol": "AttachedCoin",
+  "decimals": 18,
+  "description": "AttachedCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AttachedCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AttachedCoin",
+  "addresses": {
+    "8453": "0x09d1d9fec9d5a955c819c6e5f410338099c16373"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AttachedCoin",
+    "sanitizedSymbol": "ATTACHEDCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166328",
+    "lockerAddress": "0xaB99Cb238722680896CfbB5f298BE7a8Fc1680E1"
+  },
+  "clankerInfo": null
+}

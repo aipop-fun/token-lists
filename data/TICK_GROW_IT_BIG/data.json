@@ -1,0 +1,22 @@
+{
+  "name": "tick grow it big",
+  "symbol": "tick grow it big",
+  "decimals": 18,
+  "description": "tick grow it big is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tick%20grow%20it%20big",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tick grow it big",
+  "addresses": {
+    "8453": "0x129a1730e32ed5209c6784b590c304f87be60b08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tick grow it big",
+    "sanitizedSymbol": "TICK_GROW_IT_BIG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210565",
+    "lockerAddress": "0xDB10e31830775Ffaa54Fb0fF37e1384C433d3B24"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "No Legs",
+  "symbol": "No Legs",
+  "decimals": 18,
+  "description": "No Legs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Legs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Legs",
+  "addresses": {
+    "8453": "0x41511fdade253a7f63baf5fe8dbbdf42fdf69637"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Legs",
+    "sanitizedSymbol": "NO_LEGS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165641",
+    "lockerAddress": "0xd27cADB07A55e4110C760941d3c33d6005faaAaA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SuperXmass",
+  "symbol": "SuperXmass",
+  "decimals": 18,
+  "description": "SuperXmass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperXmass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperXmass",
+  "addresses": {
+    "8453": "0x15922ff916538459e15d9210db9662e555f2fbdf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperXmass",
+    "sanitizedSymbol": "SUPERXMASS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1287664",
+    "lockerAddress": "0x3EBBe3B5041231401FB3d6135a017c50a936428d"
+  },
+  "clankerInfo": null
+}

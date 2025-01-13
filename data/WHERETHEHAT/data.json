@@ -1,0 +1,22 @@
+{
+  "name": "WhereTheHat",
+  "symbol": "WhereTheHat",
+  "decimals": 18,
+  "description": "WhereTheHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WhereTheHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WhereTheHat",
+  "addresses": {
+    "8453": "0x3717c853458b72269432ced4380c6193b4bea1eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WhereTheHat",
+    "sanitizedSymbol": "WHERETHEHAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215296",
+    "lockerAddress": "0xC64d0BFFe71A3aec8B137a678d4749c99Bb484e3"
+  },
+  "clankerInfo": null
+}

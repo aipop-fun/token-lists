@@ -1,0 +1,22 @@
+{
+  "name": "yuyu",
+  "symbol": "yuyu",
+  "decimals": 18,
+  "description": "yuyu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=yuyu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "yuyu",
+  "addresses": {
+    "8453": "0x1fbf472a091792ec72e864de56cb971357a0918d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "yuyu",
+    "sanitizedSymbol": "YUYU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x401c32bb0A6881E2523E153189088caad1Cf8cf5",
+    "lpNftId": "1327491",
+    "lockerAddress": "0x8A1845510e4C0A5B7621beFD77CB61841Bea3Edc"
+  },
+  "clankerInfo": null
+}

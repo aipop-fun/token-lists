@@ -1,0 +1,22 @@
+{
+  "name": "Claner_NET",
+  "symbol": "Claner_NET",
+  "decimals": 18,
+  "description": "Claner_NET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Claner_NET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Claner_NET",
+  "addresses": {
+    "8453": "0x0877cb2b2fc8b12f3c2746ab21f746784f6766a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Claner_NET",
+    "sanitizedSymbol": "CLANER_NET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5Ca2E59DBF88371C1809B2747ad0d0CbCbe7f987",
+    "lpNftId": "1283718",
+    "lockerAddress": "0x54d016847E5b1f9F1ef820c2Bca3d6ADc02fc029"
+  },
+  "clankerInfo": null
+}

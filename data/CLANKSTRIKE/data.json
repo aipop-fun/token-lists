@@ -1,0 +1,22 @@
+{
+  "name": "ClankStrike",
+  "symbol": "ClankStrike",
+  "decimals": 18,
+  "description": "ClankStrike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankStrike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankStrike",
+  "addresses": {
+    "8453": "0x24f5cb194a1bc6a898e58a04b61f3c66280ed3e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankStrike",
+    "sanitizedSymbol": "CLANKSTRIKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173204",
+    "lockerAddress": "0x56c3DEc04Bf31AFb46BaF0931a0Af3E222D83257"
+  },
+  "clankerInfo": null
+}

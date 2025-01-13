@@ -1,0 +1,22 @@
+{
+  "name": "bigpepe",
+  "symbol": "bigpepe",
+  "decimals": 18,
+  "description": "bigpepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bigpepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bigpepe",
+  "addresses": {
+    "8453": "0x3ff5001fcf37e0561c508d6ac57f4069a508a56e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bigpepe",
+    "sanitizedSymbol": "BIGPEPE",
+    "created_at": "2024-12-11T20:27:25.238479",
+    "deployer": "0xFc9Ac3D8c613617b901186BF950F17A9aB6dCaf0",
+    "lpNftId": "1425433",
+    "lockerAddress": "0xeBB6EC0640237Dd367aDC6244c668528Df626B4b"
+  },
+  "clankerInfo": null
+}

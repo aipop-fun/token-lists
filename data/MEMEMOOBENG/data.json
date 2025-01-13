@@ -1,0 +1,22 @@
+{
+  "name": "MEMEMOOBENG",
+  "symbol": "MEMEMOOBENG",
+  "decimals": 18,
+  "description": "MEMEMOOBENG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMEMOOBENG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMEMOOBENG",
+  "addresses": {
+    "8453": "0x02bc8fe1471bc385dad62e7cbb2521e318b758ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMEMOOBENG",
+    "sanitizedSymbol": "MEMEMOOBENG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223083",
+    "lockerAddress": "0x3B15F901987365cDD576c154039493b58eEa59A4"
+  },
+  "clankerInfo": null
+}

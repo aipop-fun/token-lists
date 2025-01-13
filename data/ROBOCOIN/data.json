@@ -1,0 +1,22 @@
+{
+  "name": "RoboCoin",
+  "symbol": "RoboCoin",
+  "decimals": 18,
+  "description": "RoboCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RoboCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RoboCoin",
+  "addresses": {
+    "8453": "0x2791521b3586130df3d38dd67bfa4ebf0127eb5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RoboCoin",
+    "sanitizedSymbol": "ROBOCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x83D3FAABd20e4116DB22F726fA289A3be9C4F8A3",
+    "lpNftId": "1363327",
+    "lockerAddress": "0x688C4629F2751F68B0d9dBC2b40a5dE91a5a52CF"
+  },
+  "clankerInfo": null
+}

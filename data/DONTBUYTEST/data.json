@@ -1,0 +1,22 @@
+{
+  "name": "dontbuytest!",
+  "symbol": "dontbuytest!",
+  "decimals": 18,
+  "description": "dontbuytest! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dontbuytest!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dontbuytest!",
+  "addresses": {
+    "8453": "0x31634ffd0a4c6404220ca2fc6292b62913ec23d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dontbuytest!",
+    "sanitizedSymbol": "DONTBUYTEST",
+    "created_at": "2024-12-09T20:15:41.934282",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1391523",
+    "lockerAddress": "0x3BEeC1C87b83429405D31224Bc2164F6555A4DD6"
+  },
+  "clankerInfo": null
+}

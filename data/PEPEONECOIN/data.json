@@ -1,0 +1,22 @@
+{
+  "name": "pepeONECOiN",
+  "symbol": "pepeONECOiN",
+  "decimals": 18,
+  "description": "pepeONECOiN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pepeONECOiN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pepeONECOiN",
+  "addresses": {
+    "8453": "0x2c184c2ee1aad6716afaec82560bce77ac0db159"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pepeONECOiN",
+    "sanitizedSymbol": "PEPEONECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x44f9009B7810f15f1FCB22C7f4a5cD18aA9A6fAA",
+    "lpNftId": "1309241",
+    "lockerAddress": "0x165b35eAbEa290D5Ff59A3B0fb5cad40372eCCfa"
+  },
+  "clankerInfo": null
+}

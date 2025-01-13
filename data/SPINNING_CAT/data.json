@@ -1,0 +1,22 @@
+{
+  "name": "Spinning Cat",
+  "symbol": "Spinning Cat",
+  "decimals": 18,
+  "description": "Spinning Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spinning%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spinning Cat",
+  "addresses": {
+    "8453": "0x0561d9f2f4e88d94d50d4c2e0538e0651b6f2ed5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spinning Cat",
+    "sanitizedSymbol": "SPINNING_CAT",
+    "created_at": "2024-12-09T08:31:40.865754",
+    "deployer": "0x0511115527ABd9458E09374c9496c9e7407753c1",
+    "lpNftId": "1384722",
+    "lockerAddress": "0x3bE943764Be06ccd45863990062832653cd45737"
+  },
+  "clankerInfo": null
+}

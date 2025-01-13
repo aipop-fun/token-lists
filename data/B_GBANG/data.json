@@ -1,0 +1,22 @@
+{
+  "name": "BİGBANG",
+  "symbol": "BİGBANG",
+  "decimals": 18,
+  "description": "BİGBANG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=B%C4%B0GBANG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BİGBANG",
+  "addresses": {
+    "8453": "0x00cf2b701237f7d4119a44ec91d5954cbde7861f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BİGBANG",
+    "sanitizedSymbol": "B_GBANG",
+    "created_at": "2024-12-11T11:31:14.397455",
+    "deployer": "0xB22F9BaB1010075aEFc319A69eE2F66eC8a1Cea4",
+    "lpNftId": "1417039",
+    "lockerAddress": "0x88Fb6d46c85ed5a28dB2f2cb07453F67D9a7d49A"
+  },
+  "clankerInfo": null
+}

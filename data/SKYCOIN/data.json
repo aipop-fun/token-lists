@@ -1,0 +1,22 @@
+{
+  "name": "Skycoin",
+  "symbol": "Skycoin",
+  "decimals": 18,
+  "description": "Skycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skycoin",
+  "addresses": {
+    "8453": "0x21a98ea40d878fea5da0b8c1ffd81329bc6f35a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skycoin",
+    "sanitizedSymbol": "SKYCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa98966af18ECB6227a9f48d98fE8dE1Ad0620ba4",
+    "lpNftId": "1283892",
+    "lockerAddress": "0x9865EE2172FD6A9bb236c62dec5FDBE323c4574a"
+  },
+  "clankerInfo": null
+}

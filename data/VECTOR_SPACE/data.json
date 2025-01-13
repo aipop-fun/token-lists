@@ -1,0 +1,22 @@
+{
+  "name": "Vector Space",
+  "symbol": "Vector Space",
+  "decimals": 18,
+  "description": "Vector Space is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vector%20Space",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vector Space",
+  "addresses": {
+    "8453": "0x124c78b490cd329a141e10e08c35b24b4ac2183b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vector Space",
+    "sanitizedSymbol": "VECTOR_SPACE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1161428",
+    "lockerAddress": "0xb736e371ca6cbB5d3d8468bFE3227D82f6970877"
+  },
+  "clankerInfo": null
+}

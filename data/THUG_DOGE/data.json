@@ -1,0 +1,22 @@
+{
+  "name": "THUG DOGE",
+  "symbol": "THUG DOGE",
+  "decimals": 18,
+  "description": "THUG DOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THUG%20DOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THUG DOGE",
+  "addresses": {
+    "8453": "0x1a6ccb0f9e15454f71d6aa56fc1869ffea32e028"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THUG DOGE",
+    "sanitizedSymbol": "THUG_DOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1f289cdA70D35b95346b2Ba0EAC27759A82aa2ed",
+    "lpNftId": "1329512",
+    "lockerAddress": "0x6334A7B7055FaD1612334a65D49FCaFA3a120700"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Happy Fun Ball",
+  "symbol": "Happy Fun Ball",
+  "decimals": 18,
+  "description": "Happy Fun Ball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20Fun%20Ball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy Fun Ball",
+  "addresses": {
+    "8453": "0x01d5cd970ff9bbb1df5a0b063908527404059065"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy Fun Ball",
+    "sanitizedSymbol": "HAPPY_FUN_BALL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158605",
+    "lockerAddress": "0x774d228A77c2Ab3A662b9455eBa36Dfa8f48b889"
+  },
+  "clankerInfo": null
+}

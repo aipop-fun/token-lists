@@ -1,0 +1,22 @@
+{
+  "name": "not pixel",
+  "symbol": "not pixel",
+  "decimals": 18,
+  "description": "not pixel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=not%20pixel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "not pixel",
+  "addresses": {
+    "8453": "0x32b5497cb504f174ed5b4dfcdd154afd3f54d76f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "not pixel",
+    "sanitizedSymbol": "NOT_PIXEL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6DB7eFEe2F5d24E4df6b23e0653B877253554E6f",
+    "lpNftId": "1253371",
+    "lockerAddress": "0x570F6B75596e7087b8Ba056bCaA2e273135c13C4"
+  },
+  "clankerInfo": null
+}

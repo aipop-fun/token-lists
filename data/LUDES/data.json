@@ -1,0 +1,22 @@
+{
+  "name": "ludes",
+  "symbol": "ludes",
+  "decimals": 18,
+  "description": "ludes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ludes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ludes",
+  "addresses": {
+    "8453": "0x1f07443dd7581751f7f5df9b603e098fd59ff51a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ludes",
+    "sanitizedSymbol": "LUDES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb796f2847B022C91bF80cdAB05C3F0C0C948963c",
+    "lpNftId": "1327248",
+    "lockerAddress": "0x3764C06A9dC13C64614689fC89fe75Be3b068baA"
+  },
+  "clankerInfo": null
+}

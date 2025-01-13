@@ -1,0 +1,22 @@
+{
+  "name": "OnlyHigh",
+  "symbol": "OnlyHigh",
+  "decimals": 18,
+  "description": "OnlyHigh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyHigh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyHigh",
+  "addresses": {
+    "8453": "0x18792dbb2645dda467bc28e69760c577b680734f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyHigh",
+    "sanitizedSymbol": "ONLYHIGH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165443",
+    "lockerAddress": "0xA2D61eA6EA835B1cdC67fD2ed9eA75D6c23B7eBa"
+  },
+  "clankerInfo": null
+}

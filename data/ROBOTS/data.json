@@ -1,0 +1,22 @@
+{
+  "name": "Robots",
+  "symbol": "Robots",
+  "decimals": 18,
+  "description": "Robots is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Robots",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Robots",
+  "addresses": {
+    "8453": "0x120378cd4ee7d8f014fb86a690088ee7220166d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Robots",
+    "sanitizedSymbol": "ROBOTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2E793180531ADa813D0a7D49B849147e5288590d",
+    "lpNftId": "1375929",
+    "lockerAddress": "0xa5701f8AE9E7248177B3Fb2ccC84356c8FA7A5C3"
+  },
+  "clankerInfo": null
+}

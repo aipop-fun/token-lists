@@ -1,0 +1,22 @@
+{
+  "name": "warpanon",
+  "symbol": "warpanon",
+  "decimals": 18,
+  "description": "warpanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=warpanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "warpanon",
+  "addresses": {
+    "8453": "0x2820866fdc132e100c977140c4b73d132ebe37cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "warpanon",
+    "sanitizedSymbol": "WARPANON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226372",
+    "lockerAddress": "0x9475849c7a60Bd911834F900eAe014391Ef62630"
+  },
+  "clankerInfo": null
+}

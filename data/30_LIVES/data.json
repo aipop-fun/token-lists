@@ -1,0 +1,22 @@
+{
+  "name": "30 Lives",
+  "symbol": "30 Lives",
+  "decimals": 18,
+  "description": "30 Lives is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=30%20Lives",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "30 Lives",
+  "addresses": {
+    "8453": "0x27185bd0bddcfd1df80a3f073f9cf0b4792b28c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "30 Lives",
+    "sanitizedSymbol": "30_LIVES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234568",
+    "lockerAddress": "0x8Ef47bE0236BecFfF94d2D39f63a882E24358f85"
+  },
+  "clankerInfo": null
+}

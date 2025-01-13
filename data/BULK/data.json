@@ -1,0 +1,22 @@
+{
+  "name": "Bulk",
+  "symbol": "Bulk",
+  "decimals": 18,
+  "description": "Bulk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bulk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bulk",
+  "addresses": {
+    "8453": "0x14c4f7ba561af5a202beef88c8b0b28f12f747e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bulk",
+    "sanitizedSymbol": "BULK",
+    "created_at": "2024-12-10T09:43:11.221699",
+    "deployer": "0x1985D242573282A8d28B3DD1928786e1bcEA2d7F",
+    "lpNftId": "1399345",
+    "lockerAddress": "0x0CE7A869963195820b0Fd86DA1DDfD3e9ec2eBD9"
+  },
+  "clankerInfo": null
+}

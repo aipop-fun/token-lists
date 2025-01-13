@@ -1,0 +1,22 @@
+{
+  "name": "ferrari",
+  "symbol": "ferrari",
+  "decimals": 18,
+  "description": "ferrari is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ferrari",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ferrari",
+  "addresses": {
+    "8453": "0x3ba130cc17587a64676cccca3d1b3a470ee93bbe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ferrari",
+    "sanitizedSymbol": "FERRARI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222285",
+    "lockerAddress": "0xC4A7ADfE13433517DAae4Fc359178583dc32bBed"
+  },
+  "clankerInfo": null
+}

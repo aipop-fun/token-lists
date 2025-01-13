@@ -1,0 +1,22 @@
+{
+  "name": "Sensei",
+  "symbol": "Sensei",
+  "decimals": 18,
+  "description": "Sensei is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sensei",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sensei",
+  "addresses": {
+    "8453": "0x201af0ec18a913f75326192e74ac0a73bbab98f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sensei",
+    "sanitizedSymbol": "SENSEI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB198F78bc89c87212Bb795f87458A940447b0Bf4",
+    "lpNftId": "1333241",
+    "lockerAddress": "0xd32812BdaA8b51dca4678342c8Dd609CE8C409e3"
+  },
+  "clankerInfo": null
+}

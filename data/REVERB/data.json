@@ -1,0 +1,22 @@
+{
+  "name": "Reverb",
+  "symbol": "Reverb",
+  "decimals": 18,
+  "description": "Reverb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reverb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reverb",
+  "addresses": {
+    "8453": "0x0d8cce4d4052fcc244fdf3a1e64674dd2cf72a1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reverb",
+    "sanitizedSymbol": "REVERB",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD56dBF74457F9382c743D14a4Bb187355075276",
+    "lpNftId": "1374352",
+    "lockerAddress": "0x45E1d0E92963cDdD69d3136794dA156e39b28df1"
+  },
+  "clankerInfo": null
+}

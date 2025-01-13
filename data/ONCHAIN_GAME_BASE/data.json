@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Game Base",
+  "symbol": "Onchain Game Base",
+  "decimals": 18,
+  "description": "Onchain Game Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Game%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Game Base",
+  "addresses": {
+    "8453": "0x14817387c25db448925196fd89023701a4a50ff9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Game Base",
+    "sanitizedSymbol": "ONCHAIN_GAME_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213304",
+    "lockerAddress": "0xa1972F2A402f940920636fE681642F0f53CDed52"
+  },
+  "clankerInfo": null
+}

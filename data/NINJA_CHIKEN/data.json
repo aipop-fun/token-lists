@@ -1,0 +1,22 @@
+{
+  "name": "Ninja Chiken",
+  "symbol": "Ninja Chiken",
+  "decimals": 18,
+  "description": "Ninja Chiken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ninja%20Chiken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ninja Chiken",
+  "addresses": {
+    "8453": "0x1d9f97baff219bd293c4eadf1e83c237025754b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ninja Chiken",
+    "sanitizedSymbol": "NINJA_CHIKEN",
+    "created_at": "2024-12-09T04:52:59.637809",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1382620",
+    "lockerAddress": "0x4FDFbed35F460a52208Bb4b66A2b908fe79c997D"
+  },
+  "clankerInfo": null
+}

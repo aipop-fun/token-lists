@@ -1,0 +1,22 @@
+{
+  "name": "ChillBroke",
+  "symbol": "ChillBroke",
+  "decimals": 18,
+  "description": "ChillBroke is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillBroke",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillBroke",
+  "addresses": {
+    "8453": "0x3c0329b0f60d2082993913ba568abf1a60be8203"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillBroke",
+    "sanitizedSymbol": "CHILLBROKE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x222A9368b5eD87722CadBAf199613a065954540d",
+    "lpNftId": "1268215",
+    "lockerAddress": "0x51Ae51B15CcFf8F0bff112b9f6A68028D714E729"
+  },
+  "clankerInfo": null
+}

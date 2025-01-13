@@ -1,0 +1,22 @@
+{
+  "name": "the starting point",
+  "symbol": "the starting point",
+  "decimals": 18,
+  "description": "the starting point is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20starting%20point",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the starting point",
+  "addresses": {
+    "8453": "0x2f3b49118f7c73f323627646b50dcba9a3ed078a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the starting point",
+    "sanitizedSymbol": "THE_STARTING_POINT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130418",
+    "lockerAddress": "0x0E7E6c640AEbE492c3cCB4f2809695200F5C8eD5"
+  },
+  "clankerInfo": null
+}

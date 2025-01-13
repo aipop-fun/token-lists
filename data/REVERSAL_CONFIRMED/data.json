@@ -1,0 +1,22 @@
+{
+  "name": "Reversal Confirmed",
+  "symbol": "Reversal Confirmed",
+  "decimals": 18,
+  "description": "Reversal Confirmed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reversal%20Confirmed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reversal Confirmed",
+  "addresses": {
+    "8453": "0x3e7465b54b061e691afc3e83d0f25407854a0524"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reversal Confirmed",
+    "sanitizedSymbol": "REVERSAL_CONFIRMED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173553",
+    "lockerAddress": "0x9d9444447789318344d3E808a0F320143015EF1A"
+  },
+  "clankerInfo": null
+}

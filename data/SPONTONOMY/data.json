@@ -1,0 +1,22 @@
+{
+  "name": "spontonomy",
+  "symbol": "spontonomy",
+  "decimals": 18,
+  "description": "spontonomy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=spontonomy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "spontonomy",
+  "addresses": {
+    "8453": "0x2a0bbe60b458fa5ef235002a809376282e013f7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "spontonomy",
+    "sanitizedSymbol": "SPONTONOMY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223781",
+    "lockerAddress": "0xEF3675a2f9B9D540f643e1e3Fd4769Ba92af0936"
+  },
+  "clankerInfo": null
+}

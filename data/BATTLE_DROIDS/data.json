@@ -1,0 +1,22 @@
+{
+  "name": "Battle Droids",
+  "symbol": "Battle Droids",
+  "decimals": 18,
+  "description": "Battle Droids is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Battle%20Droids",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Battle Droids",
+  "addresses": {
+    "8453": "0x0fabf7654a56bda4f91664e3f4b38407d39bcee8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Battle Droids",
+    "sanitizedSymbol": "BATTLE_DROIDS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225350",
+    "lockerAddress": "0xe795632514e44eeE58f7436373681C4B1879853C"
+  },
+  "clankerInfo": null
+}

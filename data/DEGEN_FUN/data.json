@@ -1,0 +1,22 @@
+{
+  "name": "Degen.Fun",
+  "symbol": "Degen.Fun",
+  "decimals": 18,
+  "description": "Degen.Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen.Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen.Fun",
+  "addresses": {
+    "8453": "0x3b94f1f1920b5a49cb89eec6f39f58a65814019c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen.Fun",
+    "sanitizedSymbol": "DEGEN_FUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1324624",
+    "lockerAddress": "0x6887eb4e7A8B462fEAB7d35438aA10C795357ECC"
+  },
+  "clankerInfo": null
+}

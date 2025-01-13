@@ -1,0 +1,22 @@
+{
+  "name": "Cats have Staff",
+  "symbol": "Cats have Staff",
+  "decimals": 18,
+  "description": "Cats have Staff is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cats%20have%20Staff",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cats have Staff",
+  "addresses": {
+    "8453": "0x15dab82cd5a9b41f07660dcfd2b416539fb91a42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cats have Staff",
+    "sanitizedSymbol": "CATS_HAVE_STAFF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x09A900eB2ff6e9AcA12d4d1a396DdC9bE0307661",
+    "lpNftId": "1268498",
+    "lockerAddress": "0x8F93Cf2FC789B4eCd6ABeF5A3B35DBAAC1Cc2bFb"
+  },
+  "clankerInfo": null
+}

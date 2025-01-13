@@ -1,0 +1,22 @@
+{
+  "name": "JANI",
+  "symbol": "JANI",
+  "decimals": 18,
+  "description": "JANI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JANI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JANI",
+  "addresses": {
+    "8453": "0x2698bb65ebe27cbea0b7ccf412a9f4a4528a3697"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JANI",
+    "sanitizedSymbol": "JANI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAB87959792497ea7758544c517b7cD9e6064211e",
+    "lpNftId": "1310729",
+    "lockerAddress": "0x52D37aA8A2cd0f1BcB19D725b30B1295304C188E"
+  },
+  "clankerInfo": null
+}

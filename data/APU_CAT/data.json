@@ -1,0 +1,22 @@
+{
+  "name": "Apu Cat",
+  "symbol": "Apu Cat",
+  "decimals": 18,
+  "description": "Apu Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apu%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apu Cat",
+  "addresses": {
+    "8453": "0x0c82878cc6bb8f0f49b97bb8fca42285f2e34375"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apu Cat",
+    "sanitizedSymbol": "APU_CAT",
+    "created_at": "2024-12-09T15:18:06.918357",
+    "deployer": "0x3E418A79D4373ce9369EF45D39B4f8E6B8C92927",
+    "lpNftId": "1388428",
+    "lockerAddress": "0x94D1a3F342e1Cb2787C2e366d64D9F35873A60df"
+  },
+  "clankerInfo": null
+}

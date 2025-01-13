@@ -1,0 +1,22 @@
+{
+  "name": "Andorra",
+  "symbol": "Andorra",
+  "decimals": 18,
+  "description": "Andorra is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Andorra",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Andorra",
+  "addresses": {
+    "8453": "0x174405b386babc919ea16d061921c34e3db49f28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Andorra",
+    "sanitizedSymbol": "ANDORRA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201828",
+    "lockerAddress": "0xd1A19082966F551f803532ce86A76E97c4622750"
+  },
+  "clankerInfo": null
+}

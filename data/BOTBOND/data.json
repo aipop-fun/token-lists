@@ -1,0 +1,22 @@
+{
+  "name": "BotBond",
+  "symbol": "BotBond",
+  "decimals": 18,
+  "description": "BotBond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BotBond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BotBond",
+  "addresses": {
+    "8453": "0x1ebf2f24b2138ff4401ceb5369bcd5425d67f6a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BotBond",
+    "sanitizedSymbol": "BOTBOND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xed21735DC192dC4eeAFd71b4Dc023bC53fE4DF15",
+    "lpNftId": "1345060",
+    "lockerAddress": "0xB678EaB0Ac566157F56ffC763dbf6F60F37CDe90"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "brainrot",
+  "symbol": "brainrot",
+  "decimals": 18,
+  "description": "brainrot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brainrot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brainrot",
+  "addresses": {
+    "8453": "0x397e068033dc48697a2b4474a14adc2b67ca4f3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brainrot",
+    "sanitizedSymbol": "BRAINROT_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34dFC08eB3B7eD60D00e5B2CB611ac27C152B45c",
+    "lpNftId": "1293610",
+    "lockerAddress": "0xfC389643C8BA1DB169032bBC0721c03c7Dd90363"
+  },
+  "clankerInfo": null
+}

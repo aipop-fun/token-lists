@@ -1,0 +1,22 @@
+{
+  "name": "Planker",
+  "symbol": "Planker",
+  "decimals": 18,
+  "description": "Planker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Planker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Planker",
+  "addresses": {
+    "8453": "0x1422ac65ba5e37c1973d49f39c8052a93a9bef96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Planker",
+    "sanitizedSymbol": "PLANKER",
+    "created_at": "2024-12-11T15:04:04.844055",
+    "deployer": "0xf56f9dc96219D1233ADe5F22c5d3C898E739ed7e",
+    "lpNftId": "1420790",
+    "lockerAddress": "0xd0474a49313E0A2617d484A304ba4d69C6127C6e"
+  },
+  "clankerInfo": null
+}

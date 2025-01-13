@@ -1,0 +1,22 @@
+{
+  "name": "Symbiosis",
+  "symbol": "Symbiosis",
+  "decimals": 18,
+  "description": "Symbiosis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Symbiosis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Symbiosis",
+  "addresses": {
+    "8453": "0x2089a9ac53be10c6354ba50225d4d79cf16d7c0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Symbiosis",
+    "sanitizedSymbol": "SYMBIOSIS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235730",
+    "lockerAddress": "0x10040670B181E04c72723570b3808fd5b64A338F"
+  },
+  "clankerInfo": null
+}

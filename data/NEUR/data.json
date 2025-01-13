@@ -1,0 +1,22 @@
+{
+  "name": "NEUR",
+  "symbol": "NEUR",
+  "decimals": 18,
+  "description": "NEUR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEUR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEUR",
+  "addresses": {
+    "8453": "0x184935119676082d1a836d053d32f65acdbcd146"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEUR",
+    "sanitizedSymbol": "NEUR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218549",
+    "lockerAddress": "0xb66922E2278cbc87d9dE92D896FB6F410fD76D1C"
+  },
+  "clankerInfo": null
+}

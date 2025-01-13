@@ -1,0 +1,22 @@
+{
+  "name": "Honus Wagner",
+  "symbol": "Honus Wagner",
+  "decimals": 18,
+  "description": "Honus Wagner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Honus%20Wagner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Honus Wagner",
+  "addresses": {
+    "8453": "0x2c06e65fcab47cd097fce2ed600c96e093e99ce7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Honus Wagner",
+    "sanitizedSymbol": "HONUS_WAGNER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166640",
+    "lockerAddress": "0xCBF728E69fc6514A21A88D01c35AE1D9508E7a67"
+  },
+  "clankerInfo": null
+}

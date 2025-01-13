@@ -1,0 +1,22 @@
+{
+  "name": "COINPRICE",
+  "symbol": "COINPRICE",
+  "decimals": 18,
+  "description": "COINPRICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COINPRICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COINPRICE",
+  "addresses": {
+    "8453": "0x0818c1b511da6aff74a7b222e9ee7bd57e39c646"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COINPRICE",
+    "sanitizedSymbol": "COINPRICE",
+    "created_at": "2024-12-10T18:59:33.818973",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1405870",
+    "lockerAddress": "0xE164F270B78fc7Bc39C8AB3359F443fE3c0efbE4"
+  },
+  "clankerInfo": null
+}

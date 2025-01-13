@@ -1,0 +1,22 @@
+{
+  "name": "Fat Albert",
+  "symbol": "Fat Albert",
+  "decimals": 18,
+  "description": "Fat Albert is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fat%20Albert",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fat Albert",
+  "addresses": {
+    "8453": "0x3bfb61948a9da87a588330806aa4dadbe39f2c65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fat Albert",
+    "sanitizedSymbol": "FAT_ALBERT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA25167C4338C86451E3b17e5FBC5C15bA11d6498",
+    "lpNftId": "1332487",
+    "lockerAddress": "0xc27BEED838829A4882FE2ED942327DF1B8295f43"
+  },
+  "clankerInfo": null
+}

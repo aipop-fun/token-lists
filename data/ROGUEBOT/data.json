@@ -1,0 +1,22 @@
+{
+  "name": "RogueBot",
+  "symbol": "RogueBot",
+  "decimals": 18,
+  "description": "RogueBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RogueBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RogueBot",
+  "addresses": {
+    "8453": "0x1fa4385945750afe617a8b87dfe4a6018cdeafbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RogueBot",
+    "sanitizedSymbol": "ROGUEBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129061",
+    "lockerAddress": "0xB4a3fe3a3b85FfcB1459C9bE7a6A6Ba78CD65447"
+  },
+  "clankerInfo": null
+}

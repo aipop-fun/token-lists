@@ -1,0 +1,22 @@
+{
+  "name": "Samoyed Cookie coin",
+  "symbol": "Samoyed Cookie coin",
+  "decimals": 18,
+  "description": "Samoyed Cookie coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Samoyed%20Cookie%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Samoyed Cookie coin",
+  "addresses": {
+    "8453": "0x2d151719d34528e46fad6fe248357f2d2a518f82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Samoyed Cookie coin",
+    "sanitizedSymbol": "SAMOYED_COOKIE_COIN",
+    "created_at": "2024-12-11T21:11:13.799748",
+    "deployer": "0x226c4936B8991beDE1FD613d43b62f7252EC6EDb",
+    "lpNftId": "1425877",
+    "lockerAddress": "0x7651a3a61B6B56eCbdBa65C1710a5183EF9d75D5"
+  },
+  "clankerInfo": null
+}

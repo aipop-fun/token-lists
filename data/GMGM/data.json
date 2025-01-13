@@ -1,0 +1,22 @@
+{
+  "name": "GMGM",
+  "symbol": "GMGM",
+  "decimals": 18,
+  "description": "GMGM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GMGM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GMGM",
+  "addresses": {
+    "8453": "0x04b90364fbd86e270a94d6556ae05362a1df836a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GMGM",
+    "sanitizedSymbol": "GMGM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x143af39Cb7253aCE0C5e26c0215bb01cF22ADe8A",
+    "lpNftId": "1295076",
+    "lockerAddress": "0xaE58ffe12F6e5210d588d39F41F0e4f12bF690e8"
+  },
+  "clankerInfo": null
+}

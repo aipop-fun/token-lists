@@ -1,0 +1,22 @@
+{
+  "name": "Florida Man Token",
+  "symbol": "Florida Man Token",
+  "decimals": 18,
+  "description": "Florida Man Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Florida%20Man%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Florida Man Token",
+  "addresses": {
+    "8453": "0x2b2fe547be48bf8fb04290da27d0b207793dfc9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Florida Man Token",
+    "sanitizedSymbol": "FLORIDA_MAN_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221963",
+    "lockerAddress": "0x18DE54821D03Cf723eCcb8F10E0ac967881Af1c6"
+  },
+  "clankerInfo": null
+}

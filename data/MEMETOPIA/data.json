@@ -1,0 +1,22 @@
+{
+  "name": "Memetopia",
+  "symbol": "Memetopia",
+  "decimals": 18,
+  "description": "Memetopia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Memetopia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Memetopia",
+  "addresses": {
+    "8453": "0x1b73f6e33fef90cde7cd6b3025664b4e81c43dbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Memetopia",
+    "sanitizedSymbol": "MEMETOPIA",
+    "created_at": "2024-12-12T01:18:00.875525",
+    "deployer": "0x54eDA6D13B0173Df9BF173694eD96e0afc4c4491",
+    "lpNftId": "1428381",
+    "lockerAddress": "0x2C9C5ADb2457E51d6c69c769C903b5496762CE6b"
+  },
+  "clankerInfo": null
+}

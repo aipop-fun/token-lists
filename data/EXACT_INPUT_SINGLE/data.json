@@ -1,0 +1,22 @@
+{
+  "name": "Exact Input Single",
+  "symbol": "Exact Input Single",
+  "decimals": 18,
+  "description": "Exact Input Single is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Exact%20Input%20Single",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Exact Input Single",
+  "addresses": {
+    "8453": "0x3110368f06660a4f3a8088a49fb25175ad8631ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Exact Input Single",
+    "sanitizedSymbol": "EXACT_INPUT_SINGLE",
+    "created_at": "2024-12-11T16:45:19.518991",
+    "deployer": "0x19Fee7a7EB7fC16d4b9fDf0CbCED5575F7c14F0F",
+    "lpNftId": "1422033",
+    "lockerAddress": "0xc1Bb9BF3CF9Bc0e82dCDf777c4593E6184c07E06"
+  },
+  "clankerInfo": null
+}

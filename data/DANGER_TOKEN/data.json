@@ -1,0 +1,22 @@
+{
+  "name": "Danger Token",
+  "symbol": "Danger Token",
+  "decimals": 18,
+  "description": "Danger Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Danger%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Danger Token",
+  "addresses": {
+    "8453": "0x356d39b24fdf95819cc3970c2f37b7af668e83f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Danger Token",
+    "sanitizedSymbol": "DANGER_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf34AECDB1c3fbB7fc283254fe18833e18822857D",
+    "lpNftId": "1322423",
+    "lockerAddress": "0x360489E8C27787Bb4915175aC76dfde3bA21B683"
+  },
+  "clankerInfo": null
+}

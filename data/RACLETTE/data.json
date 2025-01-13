@@ -1,0 +1,22 @@
+{
+  "name": "Raclette",
+  "symbol": "Raclette",
+  "decimals": 18,
+  "description": "Raclette is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Raclette",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Raclette",
+  "addresses": {
+    "8453": "0x061d245579ad73b4409451d0ec6caa5959f5abbe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Raclette",
+    "sanitizedSymbol": "RACLETTE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x423240BaB9457f4Ae3A69DE5D6aD10F07DCA1623",
+    "lpNftId": "1312242",
+    "lockerAddress": "0xd077e131E0d29040c0C46dBe73Cd47289546Ed2d"
+  },
+  "clankerInfo": null
+}

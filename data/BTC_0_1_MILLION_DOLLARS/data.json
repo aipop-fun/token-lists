@@ -1,0 +1,22 @@
+{
+  "name": "btc 0.1 million dollars",
+  "symbol": "btc 0.1 million dollars",
+  "decimals": 18,
+  "description": "btc 0.1 million dollars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=btc%200.1%20million%20dollars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "btc 0.1 million dollars",
+  "addresses": {
+    "8453": "0x10f5f782a99c8436b8873b5505d4258d747ade7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "btc 0.1 million dollars",
+    "sanitizedSymbol": "BTC_0_1_MILLION_DOLLARS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4bd682796A9e39d0937D6aea4d424CD9AAcE83F8",
+    "lpNftId": "1328999",
+    "lockerAddress": "0xF3B481A297c23FcdC444915eF7f62B94Ead50452"
+  },
+  "clankerInfo": null
+}

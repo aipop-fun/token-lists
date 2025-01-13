@@ -1,0 +1,22 @@
+{
+  "name": "SkyrocketCoin",
+  "symbol": "SkyrocketCoin",
+  "decimals": 18,
+  "description": "SkyrocketCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SkyrocketCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SkyrocketCoin",
+  "addresses": {
+    "8453": "0x13d7d839b4b56e22ff431827161379bdff7bbe91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SkyrocketCoin",
+    "sanitizedSymbol": "SKYROCKETCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118311",
+    "lockerAddress": "0xcCEA1d12C220898D1D2Bf65BaA768EB0d016E006"
+  },
+  "clankerInfo": null
+}

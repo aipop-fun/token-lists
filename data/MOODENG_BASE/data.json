@@ -1,0 +1,22 @@
+{
+  "name": "moodeng Base",
+  "symbol": "moodeng Base",
+  "decimals": 18,
+  "description": "moodeng Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=moodeng%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "moodeng Base",
+  "addresses": {
+    "8453": "0x34704d708ccb1857fa4e0d6964df39cf2f72f354"
+  },
+  "tokenInfo": {
+    "originalSymbol": "moodeng Base",
+    "sanitizedSymbol": "MOODENG_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe7D28301d9c0A5D8A6C47eEE5B36878E708C9011",
+    "lpNftId": "1289800",
+    "lockerAddress": "0x866720c55745B9AF129E4D4f5cda5dAB7bBd1676"
+  },
+  "clankerInfo": null
+}

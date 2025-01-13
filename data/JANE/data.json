@@ -1,0 +1,22 @@
+{
+  "name": "jane",
+  "symbol": "jane",
+  "decimals": 18,
+  "description": "jane is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jane",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jane",
+  "addresses": {
+    "8453": "0x128d34d1facc5004beb420420fe56ab2eeab9c19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jane",
+    "sanitizedSymbol": "JANE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235421",
+    "lockerAddress": "0xD83F163e9A442c104ED4855cDd00c766C868C64B"
+  },
+  "clankerInfo": null
+}

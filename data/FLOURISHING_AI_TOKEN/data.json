@@ -1,0 +1,22 @@
+{
+  "name": "Flourishing AI Token",
+  "symbol": "Flourishing AI Token",
+  "decimals": 18,
+  "description": "Flourishing AI Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flourishing%20AI%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flourishing AI Token",
+  "addresses": {
+    "8453": "0x3acaba924ee2072e2112482cfade7e64ca7f38fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flourishing AI Token",
+    "sanitizedSymbol": "FLOURISHING_AI_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1198667d6Cc00AFa078dd4333f8328D8870f3C6d",
+    "lpNftId": "1367284",
+    "lockerAddress": "0x9969A7FE23FB3509aaf9a9d8D92dfd8d69761936"
+  },
+  "clankerInfo": null
+}

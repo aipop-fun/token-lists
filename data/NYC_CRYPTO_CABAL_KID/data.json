@@ -1,0 +1,22 @@
+{
+  "name": "nyc-crypto-cabal-kid",
+  "symbol": "nyc-crypto-cabal-kid",
+  "decimals": 18,
+  "description": "nyc-crypto-cabal-kid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nyc-crypto-cabal-kid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nyc-crypto-cabal-kid",
+  "addresses": {
+    "8453": "0x2c0af715a7b88c715c344e1c854a9ceb5650cdca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nyc-crypto-cabal-kid",
+    "sanitizedSymbol": "NYC_CRYPTO_CABAL_KID",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151619",
+    "lockerAddress": "0x3f098D0023205dC32c644416003Cea1A4d934A21"
+  },
+  "clankerInfo": null
+}

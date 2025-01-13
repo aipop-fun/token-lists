@@ -1,0 +1,22 @@
+{
+  "name": "ChillGuy on Base",
+  "symbol": "ChillGuy on Base",
+  "decimals": 18,
+  "description": "ChillGuy on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChillGuy%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChillGuy on Base",
+  "addresses": {
+    "8453": "0x307134b224495d49df28c2841f897f418fe20f21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChillGuy on Base",
+    "sanitizedSymbol": "CHILLGUY_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbBEB4A1078A534fDB60e21d0Ab5dc11531e7DaA0",
+    "lpNftId": "1316769",
+    "lockerAddress": "0x9fAE69A19fBB97f328b2746ddfd3F4B5F7b7E408"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tippers",
+  "symbol": "tippers",
+  "decimals": 18,
+  "description": "tippers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tippers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tippers",
+  "addresses": {
+    "8453": "0x069d9bd057258cce650dee6a5d694304d7b13501"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tippers",
+    "sanitizedSymbol": "TIPPERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1329165",
+    "lockerAddress": "0xE24Ef069414bC18142E654399951Bf3866acc6AA"
+  },
+  "clankerInfo": null
+}

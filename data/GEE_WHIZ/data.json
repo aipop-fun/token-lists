@@ -1,0 +1,22 @@
+{
+  "name": "Gee Whiz",
+  "symbol": "Gee Whiz",
+  "decimals": 18,
+  "description": "Gee Whiz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gee%20Whiz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gee Whiz",
+  "addresses": {
+    "8453": "0x07a7a52f4070ead2b4d18c8bd11c947088b75e83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gee Whiz",
+    "sanitizedSymbol": "GEE_WHIZ",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162623",
+    "lockerAddress": "0xb50C58122A803E1410EE481AA03C9413774e96E3"
+  },
+  "clankerInfo": null
+}

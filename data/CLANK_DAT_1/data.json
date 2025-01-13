@@ -1,0 +1,22 @@
+{
+  "name": "Clank Dat",
+  "symbol": "Clank Dat",
+  "decimals": 18,
+  "description": "Clank Dat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Dat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Dat",
+  "addresses": {
+    "8453": "0x3ce2f81b1c5bacaa6278fc4f43d625f2ce071c1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Dat",
+    "sanitizedSymbol": "CLANK_DAT_1",
+    "created_at": "2024-12-10T22:53:56.665225",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1408164",
+    "lockerAddress": "0xf316A29D37183B54327aa2196E08508d901889c4"
+  },
+  "clankerInfo": null
+}

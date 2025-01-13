@@ -1,0 +1,22 @@
+{
+  "name": "SuperRare",
+  "symbol": "SuperRare",
+  "decimals": 18,
+  "description": "SuperRare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SuperRare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SuperRare",
+  "addresses": {
+    "8453": "0x01d914a43dc4b32f779f94f548e254feab1f7054"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SuperRare",
+    "sanitizedSymbol": "SUPERRARE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1333506",
+    "lockerAddress": "0x0209259a41fCDB67C49725F1178c106005634803"
+  },
+  "clankerInfo": null
+}

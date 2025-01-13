@@ -1,0 +1,22 @@
+{
+  "name": "Just Another Clanker Token",
+  "symbol": "Just Another Clanker Token",
+  "decimals": 18,
+  "description": "Just Another Clanker Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20Another%20Clanker%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just Another Clanker Token",
+  "addresses": {
+    "8453": "0x284db509df05b1ca46620b655c25d63bf3eff9ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just Another Clanker Token",
+    "sanitizedSymbol": "JUST_ANOTHER_CLANKER_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217993",
+    "lockerAddress": "0x68eCb29928B39395b96581fbeBb674BE7D7bE299"
+  },
+  "clankerInfo": null
+}

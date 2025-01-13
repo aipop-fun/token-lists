@@ -1,0 +1,22 @@
+{
+  "name": "Noys",
+  "symbol": "Noys",
+  "decimals": 18,
+  "description": "Noys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Noys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Noys",
+  "addresses": {
+    "8453": "0x2ba66c52337a681a54c808c8481103582a7eff3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Noys",
+    "sanitizedSymbol": "NOYS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204143",
+    "lockerAddress": "0xF6DfEa6Cf79Dd895Fdf34cF373FFa9e0117584Da"
+  },
+  "clankerInfo": null
+}

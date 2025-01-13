@@ -1,0 +1,22 @@
+{
+  "name": "HappyPizza",
+  "symbol": "HappyPizza",
+  "decimals": 18,
+  "description": "HappyPizza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HappyPizza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HappyPizza",
+  "addresses": {
+    "8453": "0x2a293a1714e3adf11f39374ab0da686d28d7072e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HappyPizza",
+    "sanitizedSymbol": "HAPPYPIZZA",
+    "created_at": "2024-12-09T20:19:06.737661",
+    "deployer": "0x3bC9b2719F7a2771fD00Ae1762Dd6a98AE1fDc04",
+    "lpNftId": "1391556",
+    "lockerAddress": "0xB768E13E7142465e2DEB7331340Aa712db157aAd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ION",
+  "symbol": "ION",
+  "decimals": 18,
+  "description": "ION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ION",
+  "addresses": {
+    "8453": "0x3a24c589a61109e0587f2bdf64c2a9151976337c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ION",
+    "sanitizedSymbol": "ION",
+    "created_at": "2024-12-11T07:48:51.284908",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1414268",
+    "lockerAddress": "0x8285934b2Bad99A80C370728FD294E45Bdd765A5"
+  },
+  "clankerInfo": null
+}

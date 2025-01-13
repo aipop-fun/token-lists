@@ -1,0 +1,22 @@
+{
+  "name": "b1tco1n",
+  "symbol": "b1tco1n",
+  "decimals": 18,
+  "description": "b1tco1n is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=b1tco1n",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "b1tco1n",
+  "addresses": {
+    "8453": "0x256789093f6d5dac72f13659edff551cba258984"
+  },
+  "tokenInfo": {
+    "originalSymbol": "b1tco1n",
+    "sanitizedSymbol": "B1TCO1N",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224967",
+    "lockerAddress": "0x71ccAce064193b32f43C8f61Df11058017eC9D29"
+  },
+  "clankerInfo": null
+}

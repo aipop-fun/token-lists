@@ -1,0 +1,22 @@
+{
+  "name": "HellFire",
+  "symbol": "HellFire",
+  "decimals": 18,
+  "description": "HellFire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HellFire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HellFire",
+  "addresses": {
+    "8453": "0x112e00d0e4e448dde906bd83cfdd5fa99e2aee74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HellFire",
+    "sanitizedSymbol": "HELLFIRE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206168",
+    "lockerAddress": "0xc537C7F981Ee98002F1E2CCC035Fe9059721947C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "META FOX",
+  "symbol": "META FOX",
+  "decimals": 18,
+  "description": "META FOX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=META%20FOX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "META FOX",
+  "addresses": {
+    "8453": "0x377d5312438c5bc8e1e8c34f8ea7ac5ca73698e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "META FOX",
+    "sanitizedSymbol": "META_FOX",
+    "created_at": "2024-12-12T13:45:18.581018",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1435296",
+    "lockerAddress": "0x96c3c31Dbd4DAB65fd970f8A6c61C3b48C439302"
+  },
+  "clankerInfo": null
+}

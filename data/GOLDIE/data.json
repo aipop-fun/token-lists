@@ -1,0 +1,22 @@
+{
+  "name": "Goldie",
+  "symbol": "Goldie",
+  "decimals": 18,
+  "description": "Goldie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goldie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goldie",
+  "addresses": {
+    "8453": "0x1c979437ede2cdfceae6ab74c7c89bd4e3cd862d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goldie",
+    "sanitizedSymbol": "GOLDIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156744",
+    "lockerAddress": "0x837C0cA984dC21A53ea22a4530dfF9fBE97C59ab"
+  },
+  "clankerInfo": null
+}

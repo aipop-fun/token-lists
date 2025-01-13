@@ -1,0 +1,22 @@
+{
+  "name": "Table Flip",
+  "symbol": "Table Flip",
+  "decimals": 18,
+  "description": "Table Flip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Table%20Flip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Table Flip",
+  "addresses": {
+    "8453": "0x26a0920bf3a3b879f64fa0906f4fb86e43f01405"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Table Flip",
+    "sanitizedSymbol": "TABLE_FLIP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4936B305102F442080d4711F14C5F0318E3cAF74",
+    "lpNftId": "1317561",
+    "lockerAddress": "0xB4029ee34feD8405645B7f7F78BF660e6cc6Eb6F"
+  },
+  "clankerInfo": null
+}

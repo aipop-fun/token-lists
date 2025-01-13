@@ -1,0 +1,22 @@
+{
+  "name": "Kikook",
+  "symbol": "Kikook",
+  "decimals": 18,
+  "description": "Kikook is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kikook",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kikook",
+  "addresses": {
+    "8453": "0x0b4e71e418bff5d568dd41fc59ace7c711dd2225"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kikook",
+    "sanitizedSymbol": "KIKOOK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217468",
+    "lockerAddress": "0x494D239B8B1F9b68B181C9ce63eD1c5215fce8A4"
+  },
+  "clankerInfo": null
+}

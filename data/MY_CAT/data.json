@@ -1,0 +1,22 @@
+{
+  "name": "My Cat",
+  "symbol": "My Cat",
+  "decimals": 18,
+  "description": "My Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Cat",
+  "addresses": {
+    "8453": "0x1c18c68116557e18b84b1ceee3d0801ded9464e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Cat",
+    "sanitizedSymbol": "MY_CAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x000009209E16dDF2e0abE52Fc2301f0f3c9A7D50",
+    "lpNftId": "1331446",
+    "lockerAddress": "0xE36587308A342374b18826D53e3304A34dC9C896"
+  },
+  "clankerInfo": null
+}

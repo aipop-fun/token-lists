@@ -1,0 +1,22 @@
+{
+  "name": "NEXUS STATION",
+  "symbol": "NEXUS STATION",
+  "decimals": 18,
+  "description": "NEXUS STATION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEXUS%20STATION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEXUS STATION",
+  "addresses": {
+    "8453": "0x23d8155222dbcc0360859be9b2de31d867ffc143"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEXUS STATION",
+    "sanitizedSymbol": "NEXUS_STATION",
+    "created_at": "2024-12-11T12:32:57.976124",
+    "deployer": "0x478bda0645A39895Fd7C1C5cF2b7d3fd02cE114d",
+    "lpNftId": "1418109",
+    "lockerAddress": "0xc856F1E9b02E928155125E801F9015AaE43A6a01"
+  },
+  "clankerInfo": null
+}

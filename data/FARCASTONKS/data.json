@@ -1,0 +1,22 @@
+{
+  "name": "Farcastonks",
+  "symbol": "Farcastonks",
+  "decimals": 18,
+  "description": "Farcastonks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcastonks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcastonks",
+  "addresses": {
+    "8453": "0x0a3971a0eed3018716fd078c3c8eb1f6e4c7f987"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcastonks",
+    "sanitizedSymbol": "FARCASTONKS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdAaF637bdfBf1e8337A7D78266D7dAF41cD014d0",
+    "lpNftId": "1375974",
+    "lockerAddress": "0xD9E65FA293B3B1e56249828B22935792f6A3f8bd"
+  },
+  "clankerInfo": null
+}

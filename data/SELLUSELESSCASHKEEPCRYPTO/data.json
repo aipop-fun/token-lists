@@ -1,0 +1,22 @@
+{
+  "name": "SellUselessCashKeepCrypto",
+  "symbol": "SellUselessCashKeepCrypto",
+  "decimals": 18,
+  "description": "SellUselessCashKeepCrypto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SellUselessCashKeepCrypto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SellUselessCashKeepCrypto",
+  "addresses": {
+    "8453": "0x04ffcef37c8d78c266226baec33dea3bb46897e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SellUselessCashKeepCrypto",
+    "sanitizedSymbol": "SELLUSELESSCASHKEEPCRYPTO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216457",
+    "lockerAddress": "0xE6bD9c5d8cdFE5749C88d8823A50A3744D04a502"
+  },
+  "clankerInfo": null
+}

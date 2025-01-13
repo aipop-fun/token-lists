@@ -1,0 +1,22 @@
+{
+  "name": "rizzatoni",
+  "symbol": "rizzatoni",
+  "decimals": 18,
+  "description": "rizzatoni is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rizzatoni",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rizzatoni",
+  "addresses": {
+    "8453": "0x38b73eacc29c3ccfcd32ecd685bc1c92b4e43d4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rizzatoni",
+    "sanitizedSymbol": "RIZZATONI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA433B525839daAa551b5eA230AB14310D8Ed4471",
+    "lpNftId": "1264825",
+    "lockerAddress": "0xb66807118e223fB556f3BCe774BE1e1217F51F4d"
+  },
+  "clankerInfo": null
+}

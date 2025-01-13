@@ -1,0 +1,22 @@
+{
+  "name": "BEER",
+  "symbol": "BEER",
+  "decimals": 18,
+  "description": "BEER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEER",
+  "addresses": {
+    "8453": "0x17d4bb0623fab3420ccb73abc2c7d8a41bd083bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEER",
+    "sanitizedSymbol": "BEER_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7DE937b260515F2985748E2c6EE9C20A747BadC4",
+    "lpNftId": "1329007",
+    "lockerAddress": "0x8b6d29b81880A306b928A5067AA6633815c2Cc9f"
+  },
+  "clankerInfo": null
+}

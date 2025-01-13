@@ -1,0 +1,22 @@
+{
+  "name": "AHM",
+  "symbol": "AHM",
+  "decimals": 18,
+  "description": "AHM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AHM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AHM",
+  "addresses": {
+    "8453": "0x27981150ccb6ad141b658e79c2fdb66c6970740f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AHM",
+    "sanitizedSymbol": "AHM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x43A75D87479DF215bf316a8903C93D449D19f5D7",
+    "lpNftId": "1311119",
+    "lockerAddress": "0x244BFa71f0779CaaAa75EDf4f0BdD12aDd46A65A"
+  },
+  "clankerInfo": null
+}

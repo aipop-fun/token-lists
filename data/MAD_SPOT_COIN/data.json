@@ -1,0 +1,22 @@
+{
+  "name": "mad spot coin",
+  "symbol": "mad spot coin",
+  "decimals": 18,
+  "description": "mad spot coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mad%20spot%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mad spot coin",
+  "addresses": {
+    "8453": "0x112abc833e1c2061876fafc92f682ef3696ca0c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mad spot coin",
+    "sanitizedSymbol": "MAD_SPOT_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90538EFcCE3A4FaEd230d3c6cDa490b8a9B335aF",
+    "lpNftId": "1323714",
+    "lockerAddress": "0xDC143c143515Ba12C1E9812cf68589278e50bd49"
+  },
+  "clankerInfo": null
+}

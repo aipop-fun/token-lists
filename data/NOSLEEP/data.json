@@ -1,0 +1,22 @@
+{
+  "name": "NOSLEEP",
+  "symbol": "NOSLEEP",
+  "decimals": 18,
+  "description": "NOSLEEP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOSLEEP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOSLEEP",
+  "addresses": {
+    "8453": "0x10eb468c7b633095e2e3205d132744ca80ec4ef4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOSLEEP",
+    "sanitizedSymbol": "NOSLEEP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212675",
+    "lockerAddress": "0x1557FAD14D743767371505345F55eF065d06e015"
+  },
+  "clankerInfo": null
+}

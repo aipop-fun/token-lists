@@ -1,0 +1,22 @@
+{
+  "name": "Noise",
+  "symbol": "Noise",
+  "decimals": 18,
+  "description": "Noise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Noise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Noise",
+  "addresses": {
+    "8453": "0x15c557db105a6ed7fa1ef0e050ea2428d3b10863"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Noise",
+    "sanitizedSymbol": "NOISE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123132",
+    "lockerAddress": "0x766532c963fAE9007C6Eb32DED377E62fadFFc1f"
+  },
+  "clankerInfo": null
+}

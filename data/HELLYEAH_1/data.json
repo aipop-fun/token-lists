@@ -1,0 +1,22 @@
+{
+  "name": "HellYeah",
+  "symbol": "HellYeah",
+  "decimals": 18,
+  "description": "HellYeah is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HellYeah",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HellYeah",
+  "addresses": {
+    "8453": "0x2c1a7a051186a6406a13263d5feedb069ceb5224"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HellYeah",
+    "sanitizedSymbol": "HELLYEAH_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD039E7E515357271fAAD5A1760c0C9416c9445C8",
+    "lpNftId": "1308406",
+    "lockerAddress": "0x7De1246B6ab517f52e80B5D9Abfb55FcF5d32753"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BUILDONBASE",
+  "symbol": "BUILDONBASE",
+  "decimals": 18,
+  "description": "BUILDONBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUILDONBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUILDONBASE",
+  "addresses": {
+    "8453": "0x40e8d4bbf3ad5ad58f9727ce8260a85c5fdee458"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUILDONBASE",
+    "sanitizedSymbol": "BUILDONBASE",
+    "created_at": "2024-12-11T14:25:59.719667",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1420140",
+    "lockerAddress": "0x847c153EE6B6325d7eB4FDbe2688e4f386f377C7"
+  },
+  "clankerInfo": null
+}

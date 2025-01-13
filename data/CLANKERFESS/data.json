@@ -1,0 +1,22 @@
+{
+  "name": "ClankerFess",
+  "symbol": "ClankerFess",
+  "decimals": 18,
+  "description": "ClankerFess is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerFess",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerFess",
+  "addresses": {
+    "8453": "0x328b573e1773ea29ff3ee108ee9e279df69f347b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerFess",
+    "sanitizedSymbol": "CLANKERFESS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1318939",
+    "lockerAddress": "0xF266bae3cc2E6Ab8cBe93F3645F6FaB57c28c088"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FUD",
+  "symbol": "FUD",
+  "decimals": 18,
+  "description": "FUD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUD",
+  "addresses": {
+    "8453": "0x30e0c66a2e2f7730c83193cd4d8669890dfae6aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUD",
+    "sanitizedSymbol": "FUD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216626",
+    "lockerAddress": "0xB4b5dbBf2d21AE8980697f446E0d51D2b6d53B40"
+  },
+  "clankerInfo": null
+}

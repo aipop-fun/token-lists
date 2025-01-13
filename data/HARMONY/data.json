@@ -1,0 +1,22 @@
+{
+  "name": "HARMONY",
+  "symbol": "HARMONY",
+  "decimals": 18,
+  "description": "HARMONY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HARMONY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HARMONY",
+  "addresses": {
+    "8453": "0x39659a20748ddaafc5c793b81801b14f75596446"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HARMONY",
+    "sanitizedSymbol": "HARMONY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123382",
+    "lockerAddress": "0x7d1ee53DFccA47a6BAE739f82c1A87ccA20402fE"
+  },
+  "clankerInfo": null
+}

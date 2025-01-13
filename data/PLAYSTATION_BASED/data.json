@@ -1,0 +1,22 @@
+{
+  "name": "Playstation Based",
+  "symbol": "Playstation Based",
+  "decimals": 18,
+  "description": "Playstation Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Playstation%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Playstation Based",
+  "addresses": {
+    "8453": "0x37059d9239bd9f3c438efbc5af3889dceb5d71a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Playstation Based",
+    "sanitizedSymbol": "PLAYSTATION_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1372579",
+    "lockerAddress": "0x812FC786e029A05a0F300f823e0B995338204362"
+  },
+  "clankerInfo": null
+}

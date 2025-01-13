@@ -1,0 +1,22 @@
+{
+  "name": "Anan",
+  "symbol": "Anan",
+  "decimals": 18,
+  "description": "Anan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anan",
+  "addresses": {
+    "8453": "0x2d0304a98017fd3f5779394a6e5118ee34410047"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anan",
+    "sanitizedSymbol": "ANAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x99E59aEcFce56021daBADe9d8BEE454D226d59e4",
+    "lpNftId": "1225046",
+    "lockerAddress": "0x1F3787684415DC1aa2766a36BD9F9655A56aa334"
+  },
+  "clankerInfo": null
+}

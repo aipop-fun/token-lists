@@ -1,0 +1,22 @@
+{
+  "name": "VoidGazer",
+  "symbol": "VoidGazer",
+  "decimals": 18,
+  "description": "VoidGazer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VoidGazer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VoidGazer",
+  "addresses": {
+    "8453": "0x0e6ada2daa8f87c7659a745375dd1781585f32c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VoidGazer",
+    "sanitizedSymbol": "VOIDGAZER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4F80864cD68782144e3736626896990acAe15a11",
+    "lpNftId": "1312205",
+    "lockerAddress": "0x3D21ca134E34bD4c1AA254854B20F8FdebAE99f9"
+  },
+  "clankerInfo": null
+}

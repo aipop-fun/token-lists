@@ -1,0 +1,22 @@
+{
+  "name": "SPERM",
+  "symbol": "SPERM",
+  "decimals": 18,
+  "description": "SPERM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPERM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPERM",
+  "addresses": {
+    "8453": "0x16951ead060b955b196d5619d607afa323abb790"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPERM",
+    "sanitizedSymbol": "SPERM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEC4B31D4E766C862bCb8752fDb37C32B64814B13",
+    "lpNftId": "1319043",
+    "lockerAddress": "0x6e6D301e3bd85E6c2f3b8BDAA55655226ea8722D"
+  },
+  "clankerInfo": null
+}

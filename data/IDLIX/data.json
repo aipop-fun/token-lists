@@ -1,0 +1,22 @@
+{
+  "name": "IDLIX",
+  "symbol": "IDLIX",
+  "decimals": 18,
+  "description": "IDLIX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IDLIX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IDLIX",
+  "addresses": {
+    "8453": "0x3fcbf01ae5ce571db53bf5f12b93e53fef2a4bbe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IDLIX",
+    "sanitizedSymbol": "IDLIX",
+    "created_at": "2024-12-10T06:55:59.431733",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1397502",
+    "lockerAddress": "0x76000e2Dbd41d14842C270D2847Dc4fFaE53e3Bf"
+  },
+  "clankerInfo": null
+}

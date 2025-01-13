@@ -1,0 +1,22 @@
+{
+  "name": "LongShort",
+  "symbol": "LongShort",
+  "decimals": 18,
+  "description": "LongShort is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LongShort",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LongShort",
+  "addresses": {
+    "8453": "0x0cc4e325b4684093318a4adb3a918ce18fe646fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LongShort",
+    "sanitizedSymbol": "LONGSHORT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAb50f6e341dC510830A1321Ff9d62526DD5bdFF2",
+    "lpNftId": "1330796",
+    "lockerAddress": "0xB42c05565266bbfb209F0daf69d35203E7CcAAE3"
+  },
+  "clankerInfo": null
+}

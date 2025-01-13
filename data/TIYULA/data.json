@@ -1,0 +1,22 @@
+{
+  "name": "Tiyula",
+  "symbol": "Tiyula",
+  "decimals": 18,
+  "description": "Tiyula is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiyula",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiyula",
+  "addresses": {
+    "8453": "0x20cb3ad3a110b938af11ad1db479db5ad4bcdf57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiyula",
+    "sanitizedSymbol": "TIYULA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaE61d2B1F2c4Ff647618eE0295CA3a6771A08184",
+    "lpNftId": "1320296",
+    "lockerAddress": "0x619FB164c59bDE40f800aAEe74909adb08D8587b"
+  },
+  "clankerInfo": null
+}

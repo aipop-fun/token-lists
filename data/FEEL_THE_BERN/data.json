@@ -1,0 +1,22 @@
+{
+  "name": "Feel the Bern",
+  "symbol": "Feel the Bern",
+  "decimals": 18,
+  "description": "Feel the Bern is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Feel%20the%20Bern",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Feel the Bern",
+  "addresses": {
+    "8453": "0x3da47d585098e2d5c6709e418f9af60ea4888344"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Feel the Bern",
+    "sanitizedSymbol": "FEEL_THE_BERN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123317",
+    "lockerAddress": "0x2e56291364b2FB1D2EF80d23FEBD0d83c452dB98"
+  },
+  "clankerInfo": null
+}

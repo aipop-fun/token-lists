@@ -1,0 +1,22 @@
+{
+  "name": "Tycoin",
+  "symbol": "Tycoin",
+  "decimals": 18,
+  "description": "Tycoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tycoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tycoin",
+  "addresses": {
+    "8453": "0x40267f4bd00d1c9c3042c496124dba879456b34f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tycoin",
+    "sanitizedSymbol": "TYCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217985",
+    "lockerAddress": "0xd1aA1D33A07d42a2C8343e208B73D419c6f487dd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SUPER V",
+  "symbol": "SUPER V",
+  "decimals": 18,
+  "description": "SUPER V is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPER%20V",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPER V",
+  "addresses": {
+    "8453": "0x03d22b993cdc7af033ba891741190d61ddb853a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPER V",
+    "sanitizedSymbol": "SUPER_V",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfC4842d215753B38C66F0f903DC71F4C40D11ec7",
+    "lpNftId": "1323945",
+    "lockerAddress": "0x1f9B474a7F799AE6Aaab6852Eec34d2Dc71E96Dd"
+  },
+  "clankerInfo": null
+}

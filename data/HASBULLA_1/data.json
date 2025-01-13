@@ -1,0 +1,22 @@
+{
+  "name": "Hasbulla",
+  "symbol": "Hasbulla",
+  "decimals": 18,
+  "description": "Hasbulla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hasbulla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hasbulla",
+  "addresses": {
+    "8453": "0x076f766441315e9975d62b07ab4f653428bcbca1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hasbulla",
+    "sanitizedSymbol": "HASBULLA_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x973F289aB9583f48BFE271f4555a80211115287a",
+    "lpNftId": "1266791",
+    "lockerAddress": "0x753FEc3be2D3f73e89242bb4E3b5CF6801072a54"
+  },
+  "clankerInfo": null
+}

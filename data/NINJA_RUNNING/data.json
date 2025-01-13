@@ -1,0 +1,22 @@
+{
+  "name": "Ninja Running",
+  "symbol": "Ninja Running",
+  "decimals": 18,
+  "description": "Ninja Running is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ninja%20Running",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ninja Running",
+  "addresses": {
+    "8453": "0x1396f8a3c82aa3f294a9a3d08f89f40a1e576155"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ninja Running",
+    "sanitizedSymbol": "NINJA_RUNNING",
+    "created_at": "2024-12-09T05:56:06.827613",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1383465",
+    "lockerAddress": "0x3403927cEd757eF5726548Db5aaf979bD62d634D"
+  },
+  "clankerInfo": null
+}

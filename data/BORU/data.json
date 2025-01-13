@@ -1,0 +1,22 @@
+{
+  "name": "boru",
+  "symbol": "boru",
+  "decimals": 18,
+  "description": "boru is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boru",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boru",
+  "addresses": {
+    "8453": "0x2631acb6391fd4842ee659f3f364f4568496b406"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boru",
+    "sanitizedSymbol": "BORU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe395a07Ae867aA8E89C8ffCD174E6e650d89538d",
+    "lpNftId": "1252660",
+    "lockerAddress": "0x496eA214CdE5C9D21037EAB3B1369E1D38787EEe"
+  },
+  "clankerInfo": null
+}

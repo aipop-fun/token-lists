@@ -1,0 +1,22 @@
+{
+  "name": "Doggy Frog",
+  "symbol": "Doggy Frog",
+  "decimals": 18,
+  "description": "Doggy Frog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20Frog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy Frog",
+  "addresses": {
+    "8453": "0x34a10ce4cdcfcb8879ab6e03511df7aa8be7c62c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy Frog",
+    "sanitizedSymbol": "DOGGY_FROG",
+    "created_at": "2024-12-10T03:23:50.019626",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1395649",
+    "lockerAddress": "0x049c57C29eDD73DD3eC766ca12d7171a9145e334"
+  },
+  "clankerInfo": null
+}

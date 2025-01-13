@@ -1,0 +1,22 @@
+{
+  "name": "RichVibes",
+  "symbol": "RichVibes",
+  "decimals": 18,
+  "description": "RichVibes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RichVibes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RichVibes",
+  "addresses": {
+    "8453": "0x1b23a2140383d02d97a89256a28a3ab7847ccda3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RichVibes",
+    "sanitizedSymbol": "RICHVIBES",
+    "created_at": "2024-12-12T15:18:57.017014",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1436993",
+    "lockerAddress": "0xB799FEd3b420549FCf3D378fe9F9347053D65B7d"
+  },
+  "clankerInfo": null
+}

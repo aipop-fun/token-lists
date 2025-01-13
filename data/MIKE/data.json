@@ -1,0 +1,22 @@
+{
+  "name": "mike",
+  "symbol": "mike",
+  "decimals": 18,
+  "description": "mike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mike",
+  "addresses": {
+    "8453": "0x3109c98120e1c84c430788c342c8940f8095c8fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mike",
+    "sanitizedSymbol": "MIKE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150888",
+    "lockerAddress": "0x3D0CfD6C8D81A79a4735B59307600d62d67b5808"
+  },
+  "clankerInfo": null
+}

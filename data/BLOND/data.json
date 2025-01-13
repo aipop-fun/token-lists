@@ -1,0 +1,22 @@
+{
+  "name": "Blond",
+  "symbol": "Blond",
+  "decimals": 18,
+  "description": "Blond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blond",
+  "addresses": {
+    "8453": "0x3b5e8857c9e523e7aab51e6801563a83268c4579"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blond",
+    "sanitizedSymbol": "BLOND",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD41cEF4f79a2cF4b9Ceb670E64029A93a62b8FB6",
+    "lpNftId": "1326002",
+    "lockerAddress": "0x42008d40A0675b0515dac1f8Ee8859cd0542A26F"
+  },
+  "clankerInfo": null
+}

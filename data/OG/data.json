@@ -1,0 +1,22 @@
+{
+  "name": "$$og",
+  "symbol": "$$og",
+  "decimals": 18,
+  "description": "$$og is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24%24og",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$$og",
+  "addresses": {
+    "8453": "0x1bb4c0b0b32de1e5f0639c197afffcad596f753f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$$og",
+    "sanitizedSymbol": "OG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222161",
+    "lockerAddress": "0xd55503ADAB097d5198246c6bD06868a4C05AEd1B"
+  },
+  "clankerInfo": null
+}

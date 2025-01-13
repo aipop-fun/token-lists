@@ -1,0 +1,22 @@
+{
+  "name": "SocialClankers",
+  "symbol": "SocialClankers",
+  "decimals": 18,
+  "description": "SocialClankers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SocialClankers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SocialClankers",
+  "addresses": {
+    "8453": "0x141796b4287192e2393369b71d391aeb5de54ce5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SocialClankers",
+    "sanitizedSymbol": "SOCIALCLANKERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB9aA0A5916298C90211834a74b3723AA10C7a2bf",
+    "lpNftId": "1320319",
+    "lockerAddress": "0x9E7E891f95f248537f33947EC4fACecC4Fa5B718"
+  },
+  "clankerInfo": null
+}

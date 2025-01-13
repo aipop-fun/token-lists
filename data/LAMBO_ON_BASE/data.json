@@ -1,0 +1,22 @@
+{
+  "name": "LAMBO ON BASE",
+  "symbol": "LAMBO ON BASE",
+  "decimals": 18,
+  "description": "LAMBO ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAMBO%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAMBO ON BASE",
+  "addresses": {
+    "8453": "0x1717240ca97b795e82ff1f01edadb1371f405261"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAMBO ON BASE",
+    "sanitizedSymbol": "LAMBO_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x24F942f736c343AF7EC9f051b5F951AB5D3E05f8",
+    "lpNftId": "1323534",
+    "lockerAddress": "0x2DA18b03eDA24A68b7c583D945D5214328410477"
+  },
+  "clankerInfo": null
+}

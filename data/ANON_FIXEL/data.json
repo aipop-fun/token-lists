@@ -1,0 +1,22 @@
+{
+  "name": "Anon Fixel",
+  "symbol": "Anon Fixel",
+  "decimals": 18,
+  "description": "Anon Fixel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Fixel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Fixel",
+  "addresses": {
+    "8453": "0x152ffba3655fa87215c3a2ef0f61efe967b61513"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Fixel",
+    "sanitizedSymbol": "ANON_FIXEL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222989",
+    "lockerAddress": "0x6bb7A0F09C83b68bB581aaf7A00B2144e568568C"
+  },
+  "clankerInfo": null
+}

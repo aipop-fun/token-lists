@@ -1,0 +1,22 @@
+{
+  "name": "ELECTRIC",
+  "symbol": "ELECTRIC",
+  "decimals": 18,
+  "description": "ELECTRIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELECTRIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELECTRIC",
+  "addresses": {
+    "8453": "0x0e459670cdc6aad8f0172d48ffc3277ce8d57862"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELECTRIC",
+    "sanitizedSymbol": "ELECTRIC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212614",
+    "lockerAddress": "0xDabC88b99D32BB8221BED87aC1C885C11924d0FC"
+  },
+  "clankerInfo": null
+}

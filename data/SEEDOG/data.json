@@ -1,0 +1,22 @@
+{
+  "name": "SeeDog",
+  "symbol": "SeeDog",
+  "decimals": 18,
+  "description": "SeeDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SeeDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SeeDog",
+  "addresses": {
+    "8453": "0x331c8d905fadf05ccf217cd73614d6c3cc01200d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SeeDog",
+    "sanitizedSymbol": "SEEDOG",
+    "created_at": "2024-12-10T13:59:52.812796",
+    "deployer": "0x51cEcC4035291E7A11e7e4c83997B6677D1384C7",
+    "lpNftId": "1401650",
+    "lockerAddress": "0xAF30A0b8f51aebC5Ea3D263C863875B69C762fAC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CANDLE",
+  "symbol": "CANDLE",
+  "decimals": 18,
+  "description": "CANDLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CANDLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CANDLE",
+  "addresses": {
+    "8453": "0x0cf3776b0ddbe5d49e13cd49774983205b92b8d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CANDLE",
+    "sanitizedSymbol": "CANDLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0000084397B6d03d925D3dEeddeA90EdB4F073B4",
+    "lpNftId": "1329527",
+    "lockerAddress": "0xfdA8757cAE257EB9F30066F14899eDDC89612833"
+  },
+  "clankerInfo": null
+}

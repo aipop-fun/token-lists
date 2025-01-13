@@ -1,0 +1,22 @@
+{
+  "name": "pregnant",
+  "symbol": "pregnant",
+  "decimals": 18,
+  "description": "pregnant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pregnant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pregnant",
+  "addresses": {
+    "8453": "0x150c5eacc386df13c564986ce764c2ec2b1f11b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pregnant",
+    "sanitizedSymbol": "PREGNANT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1289374",
+    "lockerAddress": "0xD5D6D0ED90A1ad511d52909BEdf4CF195aC0Ec09"
+  },
+  "clankerInfo": null
+}

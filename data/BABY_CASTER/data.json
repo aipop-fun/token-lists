@@ -1,0 +1,22 @@
+{
+  "name": "Baby Caster",
+  "symbol": "Baby Caster",
+  "decimals": 18,
+  "description": "Baby Caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Caster",
+  "addresses": {
+    "8453": "0x0ce0700aedc08cd7d7be2c0553100a812229098a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Caster",
+    "sanitizedSymbol": "BABY_CASTER",
+    "created_at": "2024-12-10T11:24:44.857462",
+    "deployer": "0x6172604F5db86508FAA67c762a257fEf475b5a8c",
+    "lpNftId": "1400202",
+    "lockerAddress": "0xE2F26A1B0A1C57609C3532A8364B9650A5cc6bB7"
+  },
+  "clankerInfo": null
+}

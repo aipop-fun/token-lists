@@ -1,0 +1,22 @@
+{
+  "name": "debt",
+  "symbol": "debt",
+  "decimals": 18,
+  "description": "debt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=debt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "debt",
+  "addresses": {
+    "8453": "0x0f824e3bc7254a3826c865c170eddc5f079da4e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "debt",
+    "sanitizedSymbol": "DEBT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223819",
+    "lockerAddress": "0x50eFD983567aB953f1621aC532b39c5dB90e23c5"
+  },
+  "clankerInfo": null
+}

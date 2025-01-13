@@ -1,0 +1,22 @@
+{
+  "name": "burb",
+  "symbol": "burb",
+  "decimals": 18,
+  "description": "burb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=burb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "burb",
+  "addresses": {
+    "8453": "0x08fbb87d0472706e27e824d3d2ea107cb416f874"
+  },
+  "tokenInfo": {
+    "originalSymbol": "burb",
+    "sanitizedSymbol": "BURB",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5E38D9495D628e8064735213dbD63B135cB1f956",
+    "lpNftId": "1328157",
+    "lockerAddress": "0x85ff29f014f43569c647e1A4731ACcd9c0510f20"
+  },
+  "clankerInfo": null
+}

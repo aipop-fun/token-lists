@@ -1,0 +1,22 @@
+{
+  "name": "DeSci",
+  "symbol": "DeSci",
+  "decimals": 18,
+  "description": "DeSci is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeSci",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeSci",
+  "addresses": {
+    "8453": "0x3a3ba0e9523425dad46dc7c8dc00a2218268f733"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeSci",
+    "sanitizedSymbol": "DESCI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC6B7973D3B4501e24Fa8768B048C3e838c45023a",
+    "lpNftId": "1353979",
+    "lockerAddress": "0xfc2ac9B7bC78bc97F0850561006B351e35CAB9C1"
+  },
+  "clankerInfo": null
+}

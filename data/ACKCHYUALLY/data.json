@@ -1,0 +1,22 @@
+{
+  "name": "ackchyually",
+  "symbol": "ackchyually",
+  "decimals": 18,
+  "description": "ackchyually is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ackchyually",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ackchyually",
+  "addresses": {
+    "8453": "0x328b3bc03bfe871b34edb4b7ff6cf25bdefbc185"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ackchyually",
+    "sanitizedSymbol": "ACKCHYUALLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1245957",
+    "lockerAddress": "0x01a504001fB511C42eFcfCF7E87C6481dFF11Dc5"
+  },
+  "clankerInfo": null
+}

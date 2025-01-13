@@ -1,0 +1,22 @@
+{
+  "name": "SpongeBull",
+  "symbol": "SpongeBull",
+  "decimals": 18,
+  "description": "SpongeBull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpongeBull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpongeBull",
+  "addresses": {
+    "8453": "0x24af2e22ca8f019ce2aa13439f3d3687d9897399"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpongeBull",
+    "sanitizedSymbol": "SPONGEBULL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1549DA3d2f9436e087dB7A312A6b7d082E1E52c8",
+    "lpNftId": "1310905",
+    "lockerAddress": "0x97D05A0c0CCc0a598ea29944591fF906724C4969"
+  },
+  "clankerInfo": null
+}

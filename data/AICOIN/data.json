@@ -1,0 +1,22 @@
+{
+  "name": "aicoin",
+  "symbol": "aicoin",
+  "decimals": 18,
+  "description": "aicoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aicoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aicoin",
+  "addresses": {
+    "8453": "0x34d1ff3d195e17e706daf98462006a5d5ec57ef0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aicoin",
+    "sanitizedSymbol": "AICOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x17DDb7427da2acc4892db5C1e76fc15959FA121E",
+    "lpNftId": "1324333",
+    "lockerAddress": "0x55D219DE8dc7a17C354F551Ff2286Fd9F82c8a5B"
+  },
+  "clankerInfo": null
+}

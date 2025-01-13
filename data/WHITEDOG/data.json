@@ -1,0 +1,22 @@
+{
+  "name": "whitedog",
+  "symbol": "whitedog",
+  "decimals": 18,
+  "description": "whitedog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=whitedog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "whitedog",
+  "addresses": {
+    "8453": "0x2bbb423e19ccf464f5f7add4347a811f32258c2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "whitedog",
+    "sanitizedSymbol": "WHITEDOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6f8ce26fD34e21E428fC2Cf6Cd8ca5Ca1520a2BA",
+    "lpNftId": "1351340",
+    "lockerAddress": "0xD0e976be628b00Cb1589b25FCb09cAd352E522C7"
+  },
+  "clankerInfo": null
+}

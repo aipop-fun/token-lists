@@ -1,0 +1,22 @@
+{
+  "name": "Marine",
+  "symbol": "Marine",
+  "decimals": 18,
+  "description": "Marine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marine",
+  "addresses": {
+    "8453": "0x3fa3dbbd63855a0efb985db9eb8a6ce2730eb239"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marine",
+    "sanitizedSymbol": "MARINE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD5E3A2bd12f8360f09fD8148565550545fFa9412",
+    "lpNftId": "1324084",
+    "lockerAddress": "0x49a36aBf0faA157451d35e571d3668A8eDceD045"
+  },
+  "clankerInfo": null
+}

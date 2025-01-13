@@ -1,0 +1,22 @@
+{
+  "name": "MEME EDEN",
+  "symbol": "MEME EDEN",
+  "decimals": 18,
+  "description": "MEME EDEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20EDEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME EDEN",
+  "addresses": {
+    "8453": "0x2cc8a407dfdb13d3ad0c64cc52a9eb80164fa619"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME EDEN",
+    "sanitizedSymbol": "MEME_EDEN",
+    "created_at": "2024-12-12T01:20:57.615992",
+    "deployer": "0xDc0A35bB91Ae258591daB8a749926ab5642566Ff",
+    "lpNftId": "1428396",
+    "lockerAddress": "0x4431067D50E5967054Da9C06DF340FA73A87f24e"
+  },
+  "clankerInfo": null
+}

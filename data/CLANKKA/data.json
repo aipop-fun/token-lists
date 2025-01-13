@@ -1,0 +1,22 @@
+{
+  "name": "clankka",
+  "symbol": "clankka",
+  "decimals": 18,
+  "description": "clankka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankka",
+  "addresses": {
+    "8453": "0x2ac30ccbae56a3998b7a60dd4f4f8ed98cb1fba1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankka",
+    "sanitizedSymbol": "CLANKKA",
+    "created_at": "2024-12-12T05:01:14.374751",
+    "deployer": "0x394a70032A6942439c53185C0902C20CFeC8c5f4",
+    "lpNftId": "1429286",
+    "lockerAddress": "0xeAA23a628ecC2bb67202Bee59CfDE95c0e9E9c78"
+  },
+  "clankerInfo": null
+}

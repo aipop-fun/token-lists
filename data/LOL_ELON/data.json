@@ -1,0 +1,22 @@
+{
+  "name": "LOL ELON",
+  "symbol": "LOL ELON",
+  "decimals": 18,
+  "description": "LOL ELON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOL%20ELON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOL ELON",
+  "addresses": {
+    "8453": "0x311c0876f05d184e43fb757fed1c504b1247a6b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOL ELON",
+    "sanitizedSymbol": "LOL_ELON",
+    "created_at": "2024-12-11T15:39:37.462191",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1421150",
+    "lockerAddress": "0xFB5dBB66e3905664a15510E0E161E2E231073892"
+  },
+  "clankerInfo": null
+}

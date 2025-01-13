@@ -1,0 +1,22 @@
+{
+  "name": "Peace",
+  "symbol": "Peace",
+  "decimals": 18,
+  "description": "Peace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Peace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Peace",
+  "addresses": {
+    "8453": "0x281c3db27a337e17b9879f1da88815f9e2e9ea94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Peace",
+    "sanitizedSymbol": "PEACE",
+    "created_at": "2024-12-09T07:56:44.306965",
+    "deployer": "0xB274170017E44e30fDE76c3C6dB8c5CA509A2a8A",
+    "lpNftId": "1384521",
+    "lockerAddress": "0x48374d76231E0c91B3c53eEb050EE98D1B3409E2"
+  },
+  "clankerInfo": null
+}

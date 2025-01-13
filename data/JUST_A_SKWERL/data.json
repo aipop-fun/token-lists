@@ -1,0 +1,22 @@
+{
+  "name": "Just a Skwerl",
+  "symbol": "Just a Skwerl",
+  "decimals": 18,
+  "description": "Just a Skwerl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20Skwerl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a Skwerl",
+  "addresses": {
+    "8453": "0x20f4ab4c43082f0b4dc42f38cabbfb6c625b3631"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a Skwerl",
+    "sanitizedSymbol": "JUST_A_SKWERL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194328",
+    "lockerAddress": "0xf78AE180403f6261178606377C27c22D1280fFB7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TOADY",
+  "symbol": "TOADY",
+  "decimals": 18,
+  "description": "TOADY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOADY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOADY",
+  "addresses": {
+    "8453": "0x298aadec27ba04a65b69e94e2dcf16a31176639a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOADY",
+    "sanitizedSymbol": "TOADY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4789f8ED86858dd6879104781293A98569B46b16",
+    "lpNftId": "1306090",
+    "lockerAddress": "0x224128165996C6BfC5c42417D111A5dfdE57B087"
+  },
+  "clankerInfo": null
+}

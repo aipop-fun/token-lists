@@ -1,0 +1,22 @@
+{
+  "name": "TRANGBOM",
+  "symbol": "TRANGBOM",
+  "decimals": 18,
+  "description": "TRANGBOM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRANGBOM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRANGBOM",
+  "addresses": {
+    "8453": "0x39637c2d59b36e9aed93858894b3555a8adba1ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRANGBOM",
+    "sanitizedSymbol": "TRANGBOM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129052",
+    "lockerAddress": "0xdA569C1561954454f5BC2F764b54dB1959870f30"
+  },
+  "clankerInfo": null
+}

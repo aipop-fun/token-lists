@@ -1,0 +1,22 @@
+{
+  "name": "Bad Brains",
+  "symbol": "Bad Brains",
+  "decimals": 18,
+  "description": "Bad Brains is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bad%20Brains",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bad Brains",
+  "addresses": {
+    "8453": "0x267a6ca390305440d75733fcee5e05c9807be175"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bad Brains",
+    "sanitizedSymbol": "BAD_BRAINS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1319276",
+    "lockerAddress": "0x728864c839A9d8cF97095F32648FAC7f0f460226"
+  },
+  "clankerInfo": null
+}

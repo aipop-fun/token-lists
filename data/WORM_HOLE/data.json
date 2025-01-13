@@ -1,0 +1,22 @@
+{
+  "name": "Worm Hole",
+  "symbol": "Worm Hole",
+  "decimals": 18,
+  "description": "Worm Hole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Worm%20Hole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Worm Hole",
+  "addresses": {
+    "8453": "0x09620f58794b02bbf5912fc20128402c8d6bf3eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Worm Hole",
+    "sanitizedSymbol": "WORM_HOLE",
+    "created_at": "2024-12-11T08:02:49.398129",
+    "deployer": "0xDbeF70725CC6c8d35d59458AAFFE1834C257a2F1",
+    "lpNftId": "1414544",
+    "lockerAddress": "0x7a37D1F6AFCf4e9028cD00e7e410b001FBEBd7fD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Bitcoin for Mars",
+  "symbol": "The Bitcoin for Mars",
+  "decimals": 18,
+  "description": "The Bitcoin for Mars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Bitcoin%20for%20Mars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Bitcoin for Mars",
+  "addresses": {
+    "8453": "0x01f3576e337bf37abfecea590ad7b63496d84885"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Bitcoin for Mars",
+    "sanitizedSymbol": "THE_BITCOIN_FOR_MARS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152883",
+    "lockerAddress": "0x166Eb3B188eCe633556F65d72C3540ABD75135D4"
+  },
+  "clankerInfo": null
+}

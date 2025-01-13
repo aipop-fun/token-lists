@@ -1,0 +1,22 @@
+{
+  "name": "Rinse Cycle",
+  "symbol": "Rinse Cycle",
+  "decimals": 18,
+  "description": "Rinse Cycle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rinse%20Cycle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rinse Cycle",
+  "addresses": {
+    "8453": "0x32bdcfd60fedff0ac67ee03a2544ff52b7ea7a4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rinse Cycle",
+    "sanitizedSymbol": "RINSE_CYCLE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1314792",
+    "lockerAddress": "0x5DB31dE239C65F640F36A072108D4DA2bBF82013"
+  },
+  "clankerInfo": null
+}

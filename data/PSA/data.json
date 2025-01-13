@@ -1,0 +1,22 @@
+{
+  "name": "PSA",
+  "symbol": "PSA",
+  "decimals": 18,
+  "description": "PSA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PSA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PSA",
+  "addresses": {
+    "8453": "0x3e3288dd346d38b6407ec6b9db2d2bff43eeb533"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PSA",
+    "sanitizedSymbol": "PSA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229575",
+    "lockerAddress": "0xdC9505b499B0941F821d300036C6A9d77EbBcee7"
+  },
+  "clankerInfo": null
+}

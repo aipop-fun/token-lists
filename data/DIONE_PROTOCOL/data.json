@@ -1,0 +1,22 @@
+{
+  "name": "Dione Protocol",
+  "symbol": "Dione Protocol",
+  "decimals": 18,
+  "description": "Dione Protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dione%20Protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dione Protocol",
+  "addresses": {
+    "8453": "0x0a3fc5c678b7af49f8de499c1ffb82c742aa688d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dione Protocol",
+    "sanitizedSymbol": "DIONE_PROTOCOL",
+    "created_at": "2024-12-11T18:37:43.285004",
+    "deployer": "0xB87958F0bFfcd09D19A43e48728849DEd325390B",
+    "lpNftId": "1423959",
+    "lockerAddress": "0x6F012834998fe76b204992aEfd5CAEE502F36C1D"
+  },
+  "clankerInfo": null
+}

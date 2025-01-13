@@ -1,0 +1,22 @@
+{
+  "name": "Ethercast",
+  "symbol": "Ethercast",
+  "decimals": 18,
+  "description": "Ethercast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ethercast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ethercast",
+  "addresses": {
+    "8453": "0x35a51a072cff1f5e66d22ff7f852d710cbb23674"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ethercast",
+    "sanitizedSymbol": "ETHERCAST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9392ddaE98D3deC483F604EC2AEb597d4F15DA65",
+    "lpNftId": "1327594",
+    "lockerAddress": "0x02eE32d06Ab264a00481c1279ec6c9FB6b76E85e"
+  },
+  "clankerInfo": null
+}

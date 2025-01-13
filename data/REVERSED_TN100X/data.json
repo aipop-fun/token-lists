@@ -1,0 +1,22 @@
+{
+  "name": "Reversed TN100X",
+  "symbol": "Reversed TN100X",
+  "decimals": 18,
+  "description": "Reversed TN100X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reversed%20TN100X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reversed TN100X",
+  "addresses": {
+    "8453": "0x021697806e01877c72e0afc2892db21b86d9351a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reversed TN100X",
+    "sanitizedSymbol": "REVERSED_TN100X",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40c15967C2367f1910cbb80e261d0d5eC31e3430",
+    "lpNftId": "1311126",
+    "lockerAddress": "0x3D8bE24095DFAef4C5f3e78eEF414978390F171d"
+  },
+  "clankerInfo": null
+}

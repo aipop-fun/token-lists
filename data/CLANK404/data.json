@@ -1,0 +1,22 @@
+{
+  "name": "Clank404",
+  "symbol": "Clank404",
+  "decimals": 18,
+  "description": "Clank404 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank404",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank404",
+  "addresses": {
+    "8453": "0x30e9081dbb870c937fb3383e667d7082eb5dc8d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank404",
+    "sanitizedSymbol": "CLANK404",
+    "created_at": "2024-12-09T05:17:46.849957",
+    "deployer": "0x498a0c6816A0A7AA2765d640a18cfF8c69b83B78",
+    "lpNftId": "1383080",
+    "lockerAddress": "0x5b81A05da59De9A2C3b6156f828c2593d7F9CCe1"
+  },
+  "clankerInfo": null
+}

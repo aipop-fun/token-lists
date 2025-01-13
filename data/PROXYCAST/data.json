@@ -1,0 +1,22 @@
+{
+  "name": "proxycast",
+  "symbol": "proxycast",
+  "decimals": 18,
+  "description": "proxycast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=proxycast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "proxycast",
+  "addresses": {
+    "8453": "0x304c83ff7384ec7ddb3bbf1ddbc29602caa62618"
+  },
+  "tokenInfo": {
+    "originalSymbol": "proxycast",
+    "sanitizedSymbol": "PROXYCAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa1098B9ae468D5D03564a06d9Ab19092eF9a333C",
+    "lpNftId": "1316902",
+    "lockerAddress": "0x88f65757cA2f729C80ae1152124d79b4448AD051"
+  },
+  "clankerInfo": null
+}

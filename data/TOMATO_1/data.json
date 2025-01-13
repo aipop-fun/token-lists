@@ -1,0 +1,22 @@
+{
+  "name": "Tomato",
+  "symbol": "Tomato",
+  "decimals": 18,
+  "description": "Tomato is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tomato",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tomato",
+  "addresses": {
+    "8453": "0x414a3e8f269377fb33b0d7bf85f26f40bbe5c9ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tomato",
+    "sanitizedSymbol": "TOMATO_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8bA483b2B1B05F7529Ecaf0C1cBbDb112c766510",
+    "lpNftId": "1251752",
+    "lockerAddress": "0x8E26D9481Ba15f0639326bDA548f7B0cEB90e68C"
+  },
+  "clankerInfo": null
+}

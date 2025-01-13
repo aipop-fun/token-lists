@@ -1,0 +1,22 @@
+{
+  "name": "Watch.guru",
+  "symbol": "Watch.guru",
+  "decimals": 18,
+  "description": "Watch.guru is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Watch.guru",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Watch.guru",
+  "addresses": {
+    "8453": "0x224f2241c0aa67ff107c6bbea4af7685652b462d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Watch.guru",
+    "sanitizedSymbol": "WATCH_GURU",
+    "created_at": "2024-12-11T04:02:18.297383",
+    "deployer": "0x028aa845de6E6988518615D37c5D00dE29EE58D1",
+    "lpNftId": "1412073",
+    "lockerAddress": "0x90a20f441e75823144E9F937509af48fe2921679"
+  },
+  "clankerInfo": null
+}

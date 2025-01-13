@@ -1,0 +1,22 @@
+{
+  "name": "SYBIL",
+  "symbol": "SYBIL",
+  "decimals": 18,
+  "description": "SYBIL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SYBIL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SYBIL",
+  "addresses": {
+    "8453": "0x3337f149c2528e6d321c47e7c993408fe94d9b82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SYBIL",
+    "sanitizedSymbol": "SYBIL_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1310942",
+    "lockerAddress": "0x7033fB73Fc72318621bCa152f81E91F1d468C029"
+  },
+  "clankerInfo": null
+}

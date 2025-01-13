@@ -1,0 +1,22 @@
+{
+  "name": "MUL DEXS",
+  "symbol": "MUL DEXS",
+  "decimals": 18,
+  "description": "MUL DEXS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MUL%20DEXS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MUL DEXS",
+  "addresses": {
+    "8453": "0x2271344a3e7c079bb136aa1ee29bc46dcd61e05f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MUL DEXS",
+    "sanitizedSymbol": "MUL_DEXS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x828631553938127384863CF14476453085867204",
+    "lpNftId": "1189644",
+    "lockerAddress": "0x1F086Dbe467d973151f13fc963E89F5aDbfc7D10"
+  },
+  "clankerInfo": null
+}

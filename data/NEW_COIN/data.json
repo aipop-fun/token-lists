@@ -1,0 +1,22 @@
+{
+  "name": "NEW COIN",
+  "symbol": "NEW COIN",
+  "decimals": 18,
+  "description": "NEW COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEW%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEW COIN",
+  "addresses": {
+    "8453": "0x2c0801df5caeedbe2ad07908191a5b3be938891b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEW COIN",
+    "sanitizedSymbol": "NEW_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1209198",
+    "lockerAddress": "0xeA779Fe997D65157e7AF08f7AF7eFC5979357EeB"
+  },
+  "clankerInfo": null
+}

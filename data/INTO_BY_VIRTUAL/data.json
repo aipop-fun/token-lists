@@ -1,0 +1,22 @@
+{
+  "name": "iNTO By Virtual",
+  "symbol": "iNTO By Virtual",
+  "decimals": 18,
+  "description": "iNTO By Virtual is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=iNTO%20By%20Virtual",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "iNTO By Virtual",
+  "addresses": {
+    "8453": "0x0215da6d6c1bfe6916e05382cb3ab735e85df313"
+  },
+  "tokenInfo": {
+    "originalSymbol": "iNTO By Virtual",
+    "sanitizedSymbol": "INTO_BY_VIRTUAL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8f7E58C9dCa2A42E4F7b677Cd298de2E05462214",
+    "lpNftId": "1322714",
+    "lockerAddress": "0xcd7D4091FCa54B33302688B831680fC561138287"
+  },
+  "clankerInfo": null
+}

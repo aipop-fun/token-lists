@@ -1,0 +1,22 @@
+{
+  "name": "Luigi",
+  "symbol": "Luigi",
+  "decimals": 18,
+  "description": "Luigi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luigi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luigi",
+  "addresses": {
+    "8453": "0x0bc813b93ef8909520e3a50127883b4ee59776ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luigi",
+    "sanitizedSymbol": "LUIGI_3",
+    "created_at": "2024-12-10T20:09:21.915078",
+    "deployer": "0xaC1C4Bed1c7C71Fd3aFDe11e2bd4F18D969C843d",
+    "lpNftId": "1406618",
+    "lockerAddress": "0x404A2dEEf1d5F70d2316D8a389233CCF3e1B1DD0"
+  },
+  "clankerInfo": null
+}

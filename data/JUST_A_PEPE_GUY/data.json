@@ -1,0 +1,22 @@
+{
+  "name": "Just a Pepe Guy",
+  "symbol": "Just a Pepe Guy",
+  "decimals": 18,
+  "description": "Just a Pepe Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20a%20Pepe%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just a Pepe Guy",
+  "addresses": {
+    "8453": "0x0c7641365413fddf29f9cf29271c494c3801eda6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just a Pepe Guy",
+    "sanitizedSymbol": "JUST_A_PEPE_GUY",
+    "created_at": "2024-12-09T00:04:34.521206",
+    "deployer": "0xE51be4a236cE4C447b37fDb3101A2F5c282F4660",
+    "lpNftId": "1376701",
+    "lockerAddress": "0x803651E897d021225303707D67082BE81b2f12e3"
+  },
+  "clankerInfo": null
+}

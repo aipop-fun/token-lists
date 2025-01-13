@@ -1,0 +1,22 @@
+{
+  "name": "Winnie",
+  "symbol": "Winnie",
+  "decimals": 18,
+  "description": "Winnie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Winnie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Winnie",
+  "addresses": {
+    "8453": "0x1c6dd7d2be64dedf43be7a8f45da829d322b2a72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Winnie",
+    "sanitizedSymbol": "WINNIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119463",
+    "lockerAddress": "0x7b25b205CC7Fd168E89CABE7Cbf7fD3c79Df6f83"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mow",
+  "symbol": "mow",
+  "decimals": 18,
+  "description": "mow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mow",
+  "addresses": {
+    "8453": "0x036c2f31dfbe97b471967139e7b815cc9e419b65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mow",
+    "sanitizedSymbol": "MOW",
+    "created_at": "2024-12-12T09:35:13.109558",
+    "deployer": "0xb0e5A7aB88E5ce660C844c1AEF682b06cC146752",
+    "lpNftId": "1431489",
+    "lockerAddress": "0x73e9B976f6031b1F923a86F93aed1580C59A29D0"
+  },
+  "clankerInfo": null
+}

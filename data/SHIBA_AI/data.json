@@ -1,0 +1,22 @@
+{
+  "name": "SHIBA AI",
+  "symbol": "SHIBA AI",
+  "decimals": 18,
+  "description": "SHIBA AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIBA%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIBA AI",
+  "addresses": {
+    "8453": "0x1ad0d151203d838dfcf1dbe9726b014c56478a08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIBA AI",
+    "sanitizedSymbol": "SHIBA_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7A430C552C77655677ad815F52BC873dAc63B7fD",
+    "lpNftId": "1309442",
+    "lockerAddress": "0x6465363D70344906941d575dB61ACd500b21cC48"
+  },
+  "clankerInfo": null
+}

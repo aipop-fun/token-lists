@@ -1,0 +1,22 @@
+{
+  "name": "CLANKSWAP",
+  "symbol": "CLANKSWAP",
+  "decimals": 18,
+  "description": "CLANKSWAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKSWAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKSWAP",
+  "addresses": {
+    "8453": "0x0ee81a74e8fabdb9e9bce85f91ca8ad188481e3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKSWAP",
+    "sanitizedSymbol": "CLANKSWAP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBf5288Ca06D08B19885B107d51b81462f3AF4D84",
+    "lpNftId": "1315365",
+    "lockerAddress": "0xc2e6718Fd2ba686052FB91D5F4920240FEAa1FEF"
+  },
+  "clankerInfo": null
+}

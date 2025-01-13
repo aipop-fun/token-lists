@@ -1,0 +1,22 @@
+{
+  "name": "COY",
+  "symbol": "COY",
+  "decimals": 18,
+  "description": "COY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COY",
+  "addresses": {
+    "8453": "0x25dca5c2813feba98f444a9d982dd6fdf539336f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COY",
+    "sanitizedSymbol": "COY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1312812",
+    "lockerAddress": "0xEA5f35e12C612506ED51AfCfA34F6981e3015b55"
+  },
+  "clankerInfo": null
+}

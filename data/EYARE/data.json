@@ -1,0 +1,22 @@
+{
+  "name": "Eyare",
+  "symbol": "Eyare",
+  "decimals": 18,
+  "description": "Eyare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eyare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eyare",
+  "addresses": {
+    "8453": "0x1d144580b2eafda82684f66e065b132df065b358"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eyare",
+    "sanitizedSymbol": "EYARE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143350",
+    "lockerAddress": "0xfFCe96EA0571a03661E9375156eCBb3eec275396"
+  },
+  "clankerInfo": null
+}

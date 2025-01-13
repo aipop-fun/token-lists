@@ -1,0 +1,22 @@
+{
+  "name": "$OverTheLine",
+  "symbol": "$OverTheLine",
+  "decimals": 18,
+  "description": "$OverTheLine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24OverTheLine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$OverTheLine",
+  "addresses": {
+    "8453": "0x26a7dce74847e7282c02cc769b24c96f8e4b9af6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$OverTheLine",
+    "sanitizedSymbol": "OVERTHELINE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199442",
+    "lockerAddress": "0x0f0cd3696Ce78a64b4894294eA524136f44d6CE7"
+  },
+  "clankerInfo": null
+}

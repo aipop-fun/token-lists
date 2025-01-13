@@ -1,0 +1,22 @@
+{
+  "name": "Tiggles",
+  "symbol": "Tiggles",
+  "decimals": 18,
+  "description": "Tiggles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiggles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiggles",
+  "addresses": {
+    "8453": "0x33e49ba5d8f5e19c17c710221e461f5653985423"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiggles",
+    "sanitizedSymbol": "TIGGLES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222357",
+    "lockerAddress": "0xc62aFA0991ba6876ea68Efc81A6711d0428dEd9d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "luigihammer",
+  "symbol": "luigihammer",
+  "decimals": 18,
+  "description": "luigihammer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=luigihammer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "luigihammer",
+  "addresses": {
+    "8453": "0x2fddc3ba8fcc95629736d9d4ffb09e013729706f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "luigihammer",
+    "sanitizedSymbol": "LUIGIHAMMER",
+    "created_at": "2024-12-10T07:55:20.331618",
+    "deployer": "0x2A1315573FD2E3C3f549D0DFAFF2c1f210519584",
+    "lpNftId": "1398392",
+    "lockerAddress": "0x21ecC7ffBC4905A40e40Ff57a91a0Cf9a58D66da"
+  },
+  "clankerInfo": null
+}

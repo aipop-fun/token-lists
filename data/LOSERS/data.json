@@ -1,0 +1,22 @@
+{
+  "name": "LOSERS",
+  "symbol": "LOSERS",
+  "decimals": 18,
+  "description": "LOSERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOSERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOSERS",
+  "addresses": {
+    "8453": "0x1420521171bb459404b1592d382d44032408eba4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOSERS",
+    "sanitizedSymbol": "LOSERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230291",
+    "lockerAddress": "0x934B3fc61b7DC74444eb8271a88d8772d5Ac6237"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Virgin Meme Coin",
+  "symbol": "Virgin Meme Coin",
+  "decimals": 18,
+  "description": "Virgin Meme Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Virgin%20Meme%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Virgin Meme Coin",
+  "addresses": {
+    "8453": "0x2097f17cbe86f490dec1defb789f27f6d544dc82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Virgin Meme Coin",
+    "sanitizedSymbol": "VIRGIN_MEME_COIN",
+    "created_at": "2024-12-12T12:36:41.869286",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1434147",
+    "lockerAddress": "0x8191B25d2EF4A855e384781beA0A67270040d8F7"
+  },
+  "clankerInfo": null
+}

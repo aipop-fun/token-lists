@@ -1,0 +1,22 @@
+{
+  "name": "anoncoin",
+  "symbol": "anoncoin",
+  "decimals": 18,
+  "description": "anoncoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anoncoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anoncoin",
+  "addresses": {
+    "8453": "0x05717e893d3bd169142a6f5d0045a6d75689649f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anoncoin",
+    "sanitizedSymbol": "ANONCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x132bCe7DF415b0191c8260998331EeE349832E8C",
+    "lpNftId": "1263846",
+    "lockerAddress": "0x2274923b074c53C2Ba772d01f3A76C3Dc15A5a54"
+  },
+  "clankerInfo": null
+}

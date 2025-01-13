@@ -1,0 +1,22 @@
+{
+  "name": "jetters",
+  "symbol": "jetters",
+  "decimals": 18,
+  "description": "jetters is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jetters",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jetters",
+  "addresses": {
+    "8453": "0x0afa1f32b99f3532e1d68dfcb7d6e9250d09f992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jetters",
+    "sanitizedSymbol": "JETTERS_1",
+    "created_at": "2024-12-09T15:00:37.961871",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1388258",
+    "lockerAddress": "0x611cff8E0E39c1c898aC853D59B5fAc1ac0e6fe5"
+  },
+  "clankerInfo": null
+}

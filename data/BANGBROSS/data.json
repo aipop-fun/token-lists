@@ -1,0 +1,22 @@
+{
+  "name": "bangbross",
+  "symbol": "bangbross",
+  "decimals": 18,
+  "description": "bangbross is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bangbross",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bangbross",
+  "addresses": {
+    "8453": "0x0589d3bdee987095f264f4bb7f1b0b271ffef1b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bangbross",
+    "sanitizedSymbol": "BANGBROSS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7FaED2b3c9A8bB5dA58D4373C2b69e612A44E50C",
+    "lpNftId": "1252777",
+    "lockerAddress": "0x2ce6b552475484b25E0eB3f14116d61e966fF877"
+  },
+  "clankerInfo": null
+}

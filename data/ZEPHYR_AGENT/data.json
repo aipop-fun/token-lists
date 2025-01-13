@@ -1,0 +1,22 @@
+{
+  "name": "Zephyr Agent",
+  "symbol": "Zephyr Agent",
+  "decimals": 18,
+  "description": "Zephyr Agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zephyr%20Agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zephyr Agent",
+  "addresses": {
+    "8453": "0x38878b67ed9cd2964df07c89ce3f8c0a5cdef91a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zephyr Agent",
+    "sanitizedSymbol": "ZEPHYR_AGENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1293390",
+    "lockerAddress": "0x89e93a189cb94fb8C363b55Bc09D516Fd6335b93"
+  },
+  "clankerInfo": null
+}

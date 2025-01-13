@@ -1,0 +1,22 @@
+{
+  "name": "PARAHMEX",
+  "symbol": "PARAHMEX",
+  "decimals": 18,
+  "description": "PARAHMEX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PARAHMEX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PARAHMEX",
+  "addresses": {
+    "8453": "0x0c879b7a2fdc45b3ad3b379550e67618eb520f78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PARAHMEX",
+    "sanitizedSymbol": "PARAHMEX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1285032",
+    "lockerAddress": "0x3867c433DD9499E6FE8Bc710566ffF9EdC6E939f"
+  },
+  "clankerInfo": null
+}

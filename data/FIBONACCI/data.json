@@ -1,0 +1,22 @@
+{
+  "name": "Fibonacci",
+  "symbol": "Fibonacci",
+  "decimals": 18,
+  "description": "Fibonacci is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fibonacci",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fibonacci",
+  "addresses": {
+    "8453": "0x377ee88f1652442268785ec34a0bc65640e9b324"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fibonacci",
+    "sanitizedSymbol": "FIBONACCI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAb50f6e341dC510830A1321Ff9d62526DD5bdFF2",
+    "lpNftId": "1295175",
+    "lockerAddress": "0x08EF59501a30fC4f9dF8fB4Ace9fCFf3B0b3F6Bf"
+  },
+  "clankerInfo": null
+}

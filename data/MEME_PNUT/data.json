@@ -1,0 +1,22 @@
+{
+  "name": "MEME PNUT",
+  "symbol": "MEME PNUT",
+  "decimals": 18,
+  "description": "MEME PNUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME%20PNUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME PNUT",
+  "addresses": {
+    "8453": "0x41c3d7309d94952e08816646f8eaad68d885ccf9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME PNUT",
+    "sanitizedSymbol": "MEME_PNUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x55E78e18abb704De242e583Ed7403C09e721038A",
+    "lpNftId": "1286703",
+    "lockerAddress": "0x47cf1ae9FA85CA32a72Be39EF0158A162541b999"
+  },
+  "clankerInfo": null
+}

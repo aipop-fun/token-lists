@@ -1,0 +1,22 @@
+{
+  "name": "Postget1000likes",
+  "symbol": "Postget1000likes",
+  "decimals": 18,
+  "description": "Postget1000likes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Postget1000likes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Postget1000likes",
+  "addresses": {
+    "8453": "0x329a11df9d3cf53ced5b531aaf2a09ca8e19bec5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Postget1000likes",
+    "sanitizedSymbol": "POSTGET1000LIKES",
+    "created_at": "2024-12-10T16:35:19.646985",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1404102",
+    "lockerAddress": "0x6E48A284A8501A2b76e6D602f4be45c0C3A53d6B"
+  },
+  "clankerInfo": null
+}

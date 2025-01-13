@@ -1,0 +1,22 @@
+{
+  "name": "ANATOMUX",
+  "symbol": "ANATOMUX",
+  "decimals": 18,
+  "description": "ANATOMUX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANATOMUX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANATOMUX",
+  "addresses": {
+    "8453": "0x21f19119e0d4d773e42fd413ed4dffa085d3e1dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANATOMUX",
+    "sanitizedSymbol": "ANATOMUX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x61e615d2d68eb253Cb0AD811Db1882b7DFf08582",
+    "lpNftId": "1291462",
+    "lockerAddress": "0x60AFBdbf6705CD81b98072cA3933706465bb1072"
+  },
+  "clankerInfo": null
+}

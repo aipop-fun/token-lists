@@ -1,0 +1,22 @@
+{
+  "name": "The Chill Cat",
+  "symbol": "The Chill Cat",
+  "decimals": 18,
+  "description": "The Chill Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Chill%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Chill Cat",
+  "addresses": {
+    "8453": "0x327918904ba85a7bc99f31cc73cc753c584f4059"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Chill Cat",
+    "sanitizedSymbol": "THE_CHILL_CAT",
+    "created_at": "2024-12-09T17:05:01.311771",
+    "deployer": "0x917a9953717Bd22AbfAc959cE02F7BD08eA621dc",
+    "lpNftId": "1389544",
+    "lockerAddress": "0xf4ccC6AA3E4a46FFC2F4f67Cc9f321725202eb7d"
+  },
+  "clankerInfo": null
+}

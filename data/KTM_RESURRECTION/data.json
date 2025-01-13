@@ -1,0 +1,22 @@
+{
+  "name": "KTM Resurrection",
+  "symbol": "KTM Resurrection",
+  "decimals": 18,
+  "description": "KTM Resurrection is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KTM%20Resurrection",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KTM Resurrection",
+  "addresses": {
+    "8453": "0x3fe9cbe862a0dd577861ed278a0c97d4faa6d383"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KTM Resurrection",
+    "sanitizedSymbol": "KTM_RESURRECTION",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5051571353F1d2E0b81d19126a446c9C89187a2c",
+    "lpNftId": "1268203",
+    "lockerAddress": "0x69Edd4FB4497cCF8f478bce81DD7Efabfdac8543"
+  },
+  "clankerInfo": null
+}

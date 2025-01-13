@@ -1,0 +1,22 @@
+{
+  "name": "Big Blue Sea",
+  "symbol": "Big Blue Sea",
+  "decimals": 18,
+  "description": "Big Blue Sea is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20Blue%20Sea",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big Blue Sea",
+  "addresses": {
+    "8453": "0x04f87f436d76dc50579d9a5fde3867289a7655c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big Blue Sea",
+    "sanitizedSymbol": "BIG_BLUE_SEA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198776",
+    "lockerAddress": "0xbe70B96D92F47E54E3a5785fCcbCD6b293a9D57e"
+  },
+  "clankerInfo": null
+}

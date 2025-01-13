@@ -1,0 +1,22 @@
+{
+  "name": "CURLY",
+  "symbol": "CURLY",
+  "decimals": 18,
+  "description": "CURLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CURLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CURLY",
+  "addresses": {
+    "8453": "0x2831e16cbd318756c6e7096d19305d9d5025c132"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CURLY",
+    "sanitizedSymbol": "CURLY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235073",
+    "lockerAddress": "0x7957a23D9cAF367195F5c0Dc69CE01e3bcAa14db"
+  },
+  "clankerInfo": null
+}

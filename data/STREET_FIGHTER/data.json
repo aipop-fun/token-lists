@@ -1,0 +1,22 @@
+{
+  "name": "Street Fighter",
+  "symbol": "Street Fighter",
+  "decimals": 18,
+  "description": "Street Fighter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Street%20Fighter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Street Fighter",
+  "addresses": {
+    "8453": "0x3700253e742563efd82e4af7e32e47fa550a1d6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Street Fighter",
+    "sanitizedSymbol": "STREET_FIGHTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204172",
+    "lockerAddress": "0x3d5cFD3028BA1dD27d80a55e4052cD6898EA092E"
+  },
+  "clankerInfo": null
+}

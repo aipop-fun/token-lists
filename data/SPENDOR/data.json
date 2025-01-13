@@ -1,0 +1,22 @@
+{
+  "name": "Spendor",
+  "symbol": "Spendor",
+  "decimals": 18,
+  "description": "Spendor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Spendor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Spendor",
+  "addresses": {
+    "8453": "0x29d8499534e10935808825f1e21a6ad9bda502e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Spendor",
+    "sanitizedSymbol": "SPENDOR",
+    "created_at": "2024-12-10T03:56:53.257137",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395992",
+    "lockerAddress": "0xfBBac2453ce5cb334C880510CAb83D07d881195D"
+  },
+  "clankerInfo": null
+}

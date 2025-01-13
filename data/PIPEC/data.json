@@ -1,0 +1,22 @@
+{
+  "name": "PIPEC",
+  "symbol": "PIPEC",
+  "decimals": 18,
+  "description": "PIPEC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIPEC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIPEC",
+  "addresses": {
+    "8453": "0x3d3613a91c670abacab994a4c337c4b8de451dce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIPEC",
+    "sanitizedSymbol": "PIPEC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8C1906750e4f0C7b81172DCeD02F33D013695A80",
+    "lpNftId": "1311567",
+    "lockerAddress": "0xb251234F6EAB92dfBAB697e8D8a71b6a2A109F96"
+  },
+  "clankerInfo": null
+}

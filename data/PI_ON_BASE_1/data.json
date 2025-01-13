@@ -1,0 +1,22 @@
+{
+  "name": "Pi on Base",
+  "symbol": "Pi on Base",
+  "decimals": 18,
+  "description": "Pi on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pi%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pi on Base",
+  "addresses": {
+    "8453": "0x21ba9cffaf83692e155e3f13337bdfb0c15ba5ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pi on Base",
+    "sanitizedSymbol": "PI_ON_BASE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x88B5fA5b6d321f57396715ECED0400F1175cF321",
+    "lpNftId": "1308866",
+    "lockerAddress": "0x08Fe85AB8d14d7Ac81e59eC1D7c47167DCe92251"
+  },
+  "clankerInfo": null
+}

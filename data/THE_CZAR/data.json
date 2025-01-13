@@ -1,0 +1,22 @@
+{
+  "name": "The CZAR",
+  "symbol": "The CZAR",
+  "decimals": 18,
+  "description": "The CZAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20CZAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The CZAR",
+  "addresses": {
+    "8453": "0x1bbb11482765477f4b8301bbeb519ed8afa879a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The CZAR",
+    "sanitizedSymbol": "THE_CZAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc81Da4BAfC506B9faF37866003e10Ae954f850fF",
+    "lpNftId": "1347588",
+    "lockerAddress": "0xC18e201D9e25f3FC06380f3DbDBA35511d40be45"
+  },
+  "clankerInfo": null
+}

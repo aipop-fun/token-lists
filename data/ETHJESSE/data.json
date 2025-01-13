@@ -1,0 +1,22 @@
+{
+  "name": "$ETHJESSE",
+  "symbol": "$ETHJESSE",
+  "decimals": 18,
+  "description": "$ETHJESSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24ETHJESSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$ETHJESSE",
+  "addresses": {
+    "8453": "0x360b4b3ebf3d736fee33d24a9f20ff13eb4bf48c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$ETHJESSE",
+    "sanitizedSymbol": "ETHJESSE",
+    "created_at": "2024-12-10T05:29:35.345258",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1396966",
+    "lockerAddress": "0xcfb51991eD478cFb533AB7CFc047DB6124462BA1"
+  },
+  "clankerInfo": null
+}

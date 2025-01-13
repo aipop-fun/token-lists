@@ -1,0 +1,22 @@
+{
+  "name": "BROKEGUY",
+  "symbol": "BROKEGUY",
+  "decimals": 18,
+  "description": "BROKEGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BROKEGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BROKEGUY",
+  "addresses": {
+    "8453": "0x32a5a6bd2e8a11eb649444db5c4535d99df4228c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BROKEGUY",
+    "sanitizedSymbol": "BROKEGUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229835",
+    "lockerAddress": "0x581531413B2f8be694d228c2502Ab68B034Cd876"
+  },
+  "clankerInfo": null
+}

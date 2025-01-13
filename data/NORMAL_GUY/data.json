@@ -1,0 +1,22 @@
+{
+  "name": "Normal Guy",
+  "symbol": "Normal Guy",
+  "decimals": 18,
+  "description": "Normal Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Normal%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Normal Guy",
+  "addresses": {
+    "8453": "0x12317bee89c9cd646e0a991dda0a69fdb7415d7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Normal Guy",
+    "sanitizedSymbol": "NORMAL_GUY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211879",
+    "lockerAddress": "0xB1a84b4FeCFB23F7eC5645B5a32fbaA799E78071"
+  },
+  "clankerInfo": null
+}

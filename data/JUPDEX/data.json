@@ -1,0 +1,22 @@
+{
+  "name": "jupdex",
+  "symbol": "jupdex",
+  "decimals": 18,
+  "description": "jupdex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jupdex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jupdex",
+  "addresses": {
+    "8453": "0x0ea0e88e981191224500795f6316faaddc7144f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jupdex",
+    "sanitizedSymbol": "JUPDEX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x08e3C2cA64B6D0ba33cC864221383C7e20948Af3",
+    "lpNftId": "1312789",
+    "lockerAddress": "0x9A6a0Eb484a19878cB9618bA9dd820f6D1732665"
+  },
+  "clankerInfo": null
+}

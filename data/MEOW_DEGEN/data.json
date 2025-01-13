@@ -1,0 +1,22 @@
+{
+  "name": "Meow Degen",
+  "symbol": "Meow Degen",
+  "decimals": 18,
+  "description": "Meow Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meow%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meow Degen",
+  "addresses": {
+    "8453": "0x389cc72b569001383b5001df34a9e0466f818efc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meow Degen",
+    "sanitizedSymbol": "MEOW_DEGEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225753",
+    "lockerAddress": "0x4F4B31DA8786CA682ce32De3FB399883a14FbFFA"
+  },
+  "clankerInfo": null
+}

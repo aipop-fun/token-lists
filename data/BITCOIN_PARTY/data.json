@@ -1,0 +1,22 @@
+{
+  "name": "Bitcoin party",
+  "symbol": "Bitcoin party",
+  "decimals": 18,
+  "description": "Bitcoin party is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitcoin%20party",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitcoin party",
+  "addresses": {
+    "8453": "0x338cb0c88aa61a6174ca56a41e1c15a71d674312"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitcoin party",
+    "sanitizedSymbol": "BITCOIN_PARTY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8a6Ca0f498Ee45b5Bcc2E60EAA68f92f93BeDfAF",
+    "lpNftId": "1332746",
+    "lockerAddress": "0x7e758e6D2f80F0594D9B533d2D67BbFB66c0516E"
+  },
+  "clankerInfo": null
+}

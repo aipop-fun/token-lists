@@ -1,0 +1,22 @@
+{
+  "name": "All Smiles",
+  "symbol": "All Smiles",
+  "decimals": 18,
+  "description": "All Smiles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=All%20Smiles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "All Smiles",
+  "addresses": {
+    "8453": "0x1a7eca7cb6999e61e09da478531a39511e801efc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "All Smiles",
+    "sanitizedSymbol": "ALL_SMILES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1245922",
+    "lockerAddress": "0xceA4635f5D2C4e165D24609074d58B825A288c72"
+  },
+  "clankerInfo": null
+}

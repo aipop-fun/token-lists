@@ -1,0 +1,22 @@
+{
+  "name": "BarkCoin",
+  "symbol": "BarkCoin",
+  "decimals": 18,
+  "description": "BarkCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BarkCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BarkCoin",
+  "addresses": {
+    "8453": "0x0c08f51d64ef175d93ed22112165e71426bc3d83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BarkCoin",
+    "sanitizedSymbol": "BARKCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156724",
+    "lockerAddress": "0xdAbaE527F2424a60Ac1487FD74369859dcDE608B"
+  },
+  "clankerInfo": null
+}

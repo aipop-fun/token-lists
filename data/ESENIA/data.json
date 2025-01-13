@@ -1,0 +1,22 @@
+{
+  "name": "esenia",
+  "symbol": "esenia",
+  "decimals": 18,
+  "description": "esenia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=esenia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "esenia",
+  "addresses": {
+    "8453": "0x2c11e597d37fe2a23cd4933401917149282d0a05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "esenia",
+    "sanitizedSymbol": "ESENIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDc2FcE5A7C3978080992529a2AFA741E2a13009E",
+    "lpNftId": "1300931",
+    "lockerAddress": "0x548cd5e503BA227d247389ac6c9A28B0C63b025d"
+  },
+  "clankerInfo": null
+}

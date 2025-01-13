@@ -1,0 +1,22 @@
+{
+  "name": "gandalf",
+  "symbol": "gandalf",
+  "decimals": 18,
+  "description": "gandalf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gandalf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gandalf",
+  "addresses": {
+    "8453": "0x0dd8354d4576c5b0761366ab001ad8438e7e0f9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gandalf",
+    "sanitizedSymbol": "GANDALF",
+    "created_at": "2024-12-09T06:04:03.086044",
+    "deployer": "0x123D2aa83e2258B42D80f5301B3Af31dD3B4506b",
+    "lpNftId": "1383540",
+    "lockerAddress": "0x3c4406b640254991723a2709f5B4646e01757798"
+  },
+  "clankerInfo": null
+}

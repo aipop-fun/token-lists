@@ -1,0 +1,22 @@
+{
+  "name": "MU turu dek",
+  "symbol": "MU turu dek",
+  "decimals": 18,
+  "description": "MU turu dek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MU%20turu%20dek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MU turu dek",
+  "addresses": {
+    "8453": "0x067764583f2f1b8ed1b871d813c0ec779a4cdb5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MU turu dek",
+    "sanitizedSymbol": "MU_TURU_DEK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x22b77EC0f86E7C4Aa6ee81a935c5df261c4a5Ff1",
+    "lpNftId": "1328636",
+    "lockerAddress": "0xEe735b4d2aE6b3810Da502b6ddD48964C2311048"
+  },
+  "clankerInfo": null
+}

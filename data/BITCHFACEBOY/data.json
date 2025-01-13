@@ -1,0 +1,22 @@
+{
+  "name": "Bitchfaceboy",
+  "symbol": "Bitchfaceboy",
+  "decimals": 18,
+  "description": "Bitchfaceboy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bitchfaceboy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bitchfaceboy",
+  "addresses": {
+    "8453": "0x3bef8d2bfb9803d63d886186f1bb9ad83fccd18a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bitchfaceboy",
+    "sanitizedSymbol": "BITCHFACEBOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x70142C3cCB891a5E1C00d97254FbAbB83E9b7E81",
+    "lpNftId": "1320759",
+    "lockerAddress": "0x897226bB730e4214Ef110fc5Ea67D52B3B2B9b4b"
+  },
+  "clankerInfo": null
+}

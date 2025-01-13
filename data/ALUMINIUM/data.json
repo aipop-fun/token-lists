@@ -1,0 +1,22 @@
+{
+  "name": "Aluminium",
+  "symbol": "Aluminium",
+  "decimals": 18,
+  "description": "Aluminium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aluminium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aluminium",
+  "addresses": {
+    "8453": "0x38caa82e412705d00f004cf9846f0ca500be6760"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aluminium",
+    "sanitizedSymbol": "ALUMINIUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1128272",
+    "lockerAddress": "0xde17DB009f18B257e283d3B589cfc015e5Fa5189"
+  },
+  "clankerInfo": null
+}

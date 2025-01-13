@@ -1,0 +1,22 @@
+{
+  "name": "Happy claim day",
+  "symbol": "Happy claim day",
+  "decimals": 18,
+  "description": "Happy claim day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20claim%20day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy claim day",
+  "addresses": {
+    "8453": "0x1e908fc3cf83b62bce765c06d2cdd261d6b8ebf7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy claim day",
+    "sanitizedSymbol": "HAPPY_CLAIM_DAY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFeD42E2195EcAA47474e11954049C113E8bE273B",
+    "lpNftId": "1311311",
+    "lockerAddress": "0xfFf6AA52814F350e65F528456C0a4982Bc8f2A7E"
+  },
+  "clankerInfo": null
+}

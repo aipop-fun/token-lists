@@ -1,0 +1,22 @@
+{
+  "name": "black pearl",
+  "symbol": "black pearl",
+  "decimals": 18,
+  "description": "black pearl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=black%20pearl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "black pearl",
+  "addresses": {
+    "8453": "0x34c28fa50180d53033b8fb2a80c32e3fb34d337e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "black pearl",
+    "sanitizedSymbol": "BLACK_PEARL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13F750Dd96148E98bD87d3c123d4a2A77102f8cb",
+    "lpNftId": "1283876",
+    "lockerAddress": "0x61BD16F354F31F4BFde05b174bd3795c62cbEca9"
+  },
+  "clankerInfo": null
+}

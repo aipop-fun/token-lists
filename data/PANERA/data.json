@@ -1,0 +1,22 @@
+{
+  "name": "panera",
+  "symbol": "panera",
+  "decimals": 18,
+  "description": "panera is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=panera",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "panera",
+  "addresses": {
+    "8453": "0x2e7e4c0fa123fb223e99925acfcb132758427840"
+  },
+  "tokenInfo": {
+    "originalSymbol": "panera",
+    "sanitizedSymbol": "PANERA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196970",
+    "lockerAddress": "0xD16c5499Ac48129689243ACa3eDA4fcD9455E9bE"
+  },
+  "clankerInfo": null
+}

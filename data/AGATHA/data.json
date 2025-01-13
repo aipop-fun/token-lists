@@ -1,0 +1,22 @@
+{
+  "name": "Agatha",
+  "symbol": "Agatha",
+  "decimals": 18,
+  "description": "Agatha is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agatha",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agatha",
+  "addresses": {
+    "8453": "0x0999195c034b0638c21b402e8cacbb792f053622"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agatha",
+    "sanitizedSymbol": "AGATHA",
+    "created_at": "2024-12-12T15:08:39.998627",
+    "deployer": "0x435828c36Ee509ca99e19e93Dac1e13BD49C1965",
+    "lpNftId": "1436741",
+    "lockerAddress": "0x52D2EcA33F75fFc85d0741DBF9Fe1FaC5F48483C"
+  },
+  "clankerInfo": null
+}

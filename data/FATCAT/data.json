@@ -1,0 +1,22 @@
+{
+  "name": "FatCat",
+  "symbol": "FatCat",
+  "decimals": 18,
+  "description": "FatCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FatCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FatCat",
+  "addresses": {
+    "8453": "0x1eb0598c4bb7233b38c394c742aec78e9ea5cd7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FatCat",
+    "sanitizedSymbol": "FATCAT",
+    "created_at": "2024-12-10T09:59:13.065065",
+    "deployer": "0xE81EA44d9BD78383F561076D707ad2B8294bDa5F",
+    "lpNftId": "1399422",
+    "lockerAddress": "0x0774D3030B7a2F46C282771AbB26676b1c2EeADC"
+  },
+  "clankerInfo": null
+}

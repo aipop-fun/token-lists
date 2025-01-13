@@ -1,0 +1,22 @@
+{
+  "name": "XETA",
+  "symbol": "XETA",
+  "decimals": 18,
+  "description": "XETA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XETA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XETA",
+  "addresses": {
+    "8453": "0x05af4e9333d0899a5728afc46c3de0ab9aaf3c02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XETA",
+    "sanitizedSymbol": "XETA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x537d159Ff7c38087e02D1a960d3A7DE5eCC69218",
+    "lpNftId": "1323105",
+    "lockerAddress": "0x969a813FAD13918bfea9cF599621F412c904F057"
+  },
+  "clankerInfo": null
+}

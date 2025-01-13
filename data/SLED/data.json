@@ -1,0 +1,22 @@
+{
+  "name": "sled",
+  "symbol": "sled",
+  "decimals": 18,
+  "description": "sled is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sled",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sled",
+  "addresses": {
+    "8453": "0x2dcbe75982e108df01c95124b27935209a891b3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sled",
+    "sanitizedSymbol": "SLED",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x537d159Ff7c38087e02D1a960d3A7DE5eCC69218",
+    "lpNftId": "1282981",
+    "lockerAddress": "0x32B4F026bc43F08C7b1138c3C8b9da482B37b5f5"
+  },
+  "clankerInfo": null
+}

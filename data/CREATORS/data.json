@@ -1,0 +1,22 @@
+{
+  "name": "creators",
+  "symbol": "creators",
+  "decimals": 18,
+  "description": "creators is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=creators",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "creators",
+  "addresses": {
+    "8453": "0x2d91a44ae73b9ee5abf96ca224ea8843d40efabf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "creators",
+    "sanitizedSymbol": "CREATORS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198883",
+    "lockerAddress": "0x362818ABcb9d1f55cb3eEEd44310A2c54AB4ffD4"
+  },
+  "clankerInfo": null
+}

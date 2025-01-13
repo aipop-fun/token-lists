@@ -1,0 +1,22 @@
+{
+  "name": "Santa Guy",
+  "symbol": "Santa Guy",
+  "decimals": 18,
+  "description": "Santa Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Guy",
+  "addresses": {
+    "8453": "0x3d43f01bc2a0f41497e8fe2b3c37175bc66c55ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Guy",
+    "sanitizedSymbol": "SANTA_GUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1198667d6Cc00AFa078dd4333f8328D8870f3C6d",
+    "lpNftId": "1343871",
+    "lockerAddress": "0xDfEd6a27A1E10e060359aBE96FDBe3698730E0aB"
+  },
+  "clankerInfo": null
+}

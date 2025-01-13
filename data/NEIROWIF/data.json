@@ -1,0 +1,22 @@
+{
+  "name": "NeiroWif",
+  "symbol": "NeiroWif",
+  "decimals": 18,
+  "description": "NeiroWif is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NeiroWif",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NeiroWif",
+  "addresses": {
+    "8453": "0x0c709f44df6f0ac9c0d49194c287e57ff3d645b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NeiroWif",
+    "sanitizedSymbol": "NEIROWIF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB25721c79c6ba7AccDC1621cAD9649A21B6C35DE",
+    "lpNftId": "1232021",
+    "lockerAddress": "0xc9615Bd93819eCd263F0f533012d1FFA752c3137"
+  },
+  "clankerInfo": null
+}

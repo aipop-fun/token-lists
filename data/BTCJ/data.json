@@ -1,0 +1,22 @@
+{
+  "name": "BTCJ",
+  "symbol": "BTCJ",
+  "decimals": 18,
+  "description": "BTCJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTCJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTCJ",
+  "addresses": {
+    "8453": "0x04081e5a59dc571d27b8135b809d744dfc8abbbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTCJ",
+    "sanitizedSymbol": "BTCJ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAB87959792497ea7758544c517b7cD9e6064211e",
+    "lpNftId": "1311136",
+    "lockerAddress": "0xAf8C68916723503DF1b0022f03c99C1957326586"
+  },
+  "clankerInfo": null
+}

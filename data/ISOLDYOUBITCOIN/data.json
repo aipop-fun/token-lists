@@ -1,0 +1,22 @@
+{
+  "name": "ISOLDYOUBITCOIN",
+  "symbol": "ISOLDYOUBITCOIN",
+  "decimals": 18,
+  "description": "ISOLDYOUBITCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ISOLDYOUBITCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ISOLDYOUBITCOIN",
+  "addresses": {
+    "8453": "0x2b7d36bea9827b357b15908d0dec96a3f6b39685"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ISOLDYOUBITCOIN",
+    "sanitizedSymbol": "ISOLDYOUBITCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236321",
+    "lockerAddress": "0xB0d7DC19feC55AacbcD75988c04830D6c31Ac8e9"
+  },
+  "clankerInfo": null
+}

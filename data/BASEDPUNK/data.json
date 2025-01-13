@@ -1,0 +1,22 @@
+{
+  "name": "BasedPunk",
+  "symbol": "BasedPunk",
+  "decimals": 18,
+  "description": "BasedPunk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedPunk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedPunk",
+  "addresses": {
+    "8453": "0x40b560be77451fad9a961dbdd55c62b5d6c35dc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedPunk",
+    "sanitizedSymbol": "BASEDPUNK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226260",
+    "lockerAddress": "0x9eC9cd0a731F5911e71D769acA5695eDD4487888"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Binary",
+  "symbol": "Binary",
+  "decimals": 18,
+  "description": "Binary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Binary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Binary",
+  "addresses": {
+    "8453": "0x15b4815e4de93d997614d08b20f4b69bcdcaef2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Binary",
+    "sanitizedSymbol": "BINARY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221704",
+    "lockerAddress": "0x1FD9556F4bD567148998c622F7D1C1d1207B8571"
+  },
+  "clankerInfo": null
+}

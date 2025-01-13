@@ -1,0 +1,22 @@
+{
+  "name": "Warpcast Stars",
+  "symbol": "Warpcast Stars",
+  "decimals": 18,
+  "description": "Warpcast Stars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpcast%20Stars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpcast Stars",
+  "addresses": {
+    "8453": "0x3b62235f525032ab7d9076992c49580f70b9f96e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpcast Stars",
+    "sanitizedSymbol": "WARPCAST_STARS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0BC10fC71c7bFD7D166B96B583134dF10a8aAAC3",
+    "lpNftId": "1312581",
+    "lockerAddress": "0xfD5E81a819390af11892D01968e9B2b6721047D2"
+  },
+  "clankerInfo": null
+}

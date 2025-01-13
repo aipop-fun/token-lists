@@ -1,0 +1,22 @@
+{
+  "name": "isitatest?",
+  "symbol": "isitatest?",
+  "decimals": 18,
+  "description": "isitatest? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=isitatest%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "isitatest?",
+  "addresses": {
+    "8453": "0x06f2bcd85ec8f6b672957866ca8ae332bb1bbce0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "isitatest?",
+    "sanitizedSymbol": "ISITATEST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147796",
+    "lockerAddress": "0x48bf1171F79888A09bD6B9fdC5Ddb5d917D53b5d"
+  },
+  "clankerInfo": null
+}

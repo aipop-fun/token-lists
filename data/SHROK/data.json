@@ -1,0 +1,22 @@
+{
+  "name": "SHROK",
+  "symbol": "SHROK",
+  "decimals": 18,
+  "description": "SHROK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHROK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHROK",
+  "addresses": {
+    "8453": "0x0013b3de3af15d56055d29b36644783c1996c5e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHROK",
+    "sanitizedSymbol": "SHROK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119888",
+    "lockerAddress": "0x660E3cd435b8df3565E9eDd65b4a23DfD907636C"
+  },
+  "clankerInfo": null
+}

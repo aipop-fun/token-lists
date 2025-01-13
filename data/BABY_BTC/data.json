@@ -1,0 +1,22 @@
+{
+  "name": "Baby Btc",
+  "symbol": "Baby Btc",
+  "decimals": 18,
+  "description": "Baby Btc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Btc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Btc",
+  "addresses": {
+    "8453": "0x153e1ba37f6c0dfa2c87f04064e64aebca0c3e9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Btc",
+    "sanitizedSymbol": "BABY_BTC",
+    "created_at": "2024-12-12T16:39:19.100776",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1438751",
+    "lockerAddress": "0x6207DCc18654D20E8acDe627B7D52129e636c1E6"
+  },
+  "clankerInfo": null
+}

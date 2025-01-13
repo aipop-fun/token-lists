@@ -1,0 +1,22 @@
+{
+  "name": "Ohaon",
+  "symbol": "Ohaon",
+  "decimals": 18,
+  "description": "Ohaon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ohaon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ohaon",
+  "addresses": {
+    "8453": "0x11dc2ca0ef286ad72c0bcd9e8b795288c8921ce4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ohaon",
+    "sanitizedSymbol": "OHAON_3",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xFd5f4D6d0d9B5D06D50F28e679fFfD0F9315130e",
+    "lpNftId": "1206029",
+    "lockerAddress": "0x82A56158eFf55f0B3A0976F5F5247Fb876e9E459"
+  },
+  "clankerInfo": null
+}

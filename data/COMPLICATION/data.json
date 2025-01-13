@@ -1,0 +1,22 @@
+{
+  "name": "Complication",
+  "symbol": "Complication",
+  "decimals": 18,
+  "description": "Complication is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Complication",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Complication",
+  "addresses": {
+    "8453": "0x0dd901c065c4d0701447a5f45b8ab2666b89175d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Complication",
+    "sanitizedSymbol": "COMPLICATION",
+    "created_at": "2024-12-11T15:09:16.340229",
+    "deployer": "0x93b92AF39Fb5eD3E82146a3FFFD4b5cea682fA46",
+    "lpNftId": "1420824",
+    "lockerAddress": "0xA488b6631A67C755f22c9592D35b020bE392cDdE"
+  },
+  "clankerInfo": null
+}

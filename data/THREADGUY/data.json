@@ -1,0 +1,22 @@
+{
+  "name": "Threadguy",
+  "symbol": "Threadguy",
+  "decimals": 18,
+  "description": "Threadguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Threadguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Threadguy",
+  "addresses": {
+    "8453": "0x1fc72061cb405a72ee3d46148f1aca7ff4077573"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Threadguy",
+    "sanitizedSymbol": "THREADGUY",
+    "created_at": "2024-12-09T17:27:53.485144",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1389756",
+    "lockerAddress": "0xf131c7dbf5dF1ea8431d0E9C40eeAC7c5676eECA"
+  },
+  "clankerInfo": null
+}

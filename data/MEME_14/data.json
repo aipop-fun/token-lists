@@ -1,0 +1,22 @@
+{
+  "name": "MEME",
+  "symbol": "MEME",
+  "decimals": 18,
+  "description": "MEME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEME",
+  "addresses": {
+    "8453": "0x40d5dc1ca64c7f638573b5dff34fe4a5a70f8fa6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEME",
+    "sanitizedSymbol": "MEME_14",
+    "created_at": "2024-12-11T17:00:03.302027",
+    "deployer": "0xaE2051D467fe08A4F4D70Ff6138fa020fe252F02",
+    "lpNftId": "1422164",
+    "lockerAddress": "0x9F1e2F22a43a1DFf27a2326cAb99f04aFFC0c837"
+  },
+  "clankerInfo": null
+}

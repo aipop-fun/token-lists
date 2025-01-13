@@ -1,0 +1,22 @@
+{
+  "name": "Hope",
+  "symbol": "Hope",
+  "decimals": 18,
+  "description": "Hope is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hope",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hope",
+  "addresses": {
+    "8453": "0x0c17de8014c080a9ecc6422f655884b59c626d32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hope",
+    "sanitizedSymbol": "HOPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x39fd7088530491Af658A3337B338627C35044E74",
+    "lpNftId": "1303914",
+    "lockerAddress": "0xa8116b4E0DECe7A19859a41F384EaA9177c3556c"
+  },
+  "clankerInfo": null
+}

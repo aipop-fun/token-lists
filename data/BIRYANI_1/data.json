@@ -1,0 +1,22 @@
+{
+  "name": "Biryani",
+  "symbol": "Biryani",
+  "decimals": 18,
+  "description": "Biryani is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Biryani",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Biryani",
+  "addresses": {
+    "8453": "0x39efa4cc01537c30efdb7294e0a43e00f9b53308"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Biryani",
+    "sanitizedSymbol": "BIRYANI_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234582",
+    "lockerAddress": "0x888A84e4BE7F27F671725834ba26f9712918f87b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Brett By Clanker",
+  "symbol": "Brett By Clanker",
+  "decimals": 18,
+  "description": "Brett By Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brett%20By%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brett By Clanker",
+  "addresses": {
+    "8453": "0x168f329a25163653e3a9cb8a4fb8658e385badde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brett By Clanker",
+    "sanitizedSymbol": "BRETT_BY_CLANKER",
+    "created_at": "2024-12-10T16:19:07.498734",
+    "deployer": "0x032B75378e8b3c57687EDC72735A1E7190b0856D",
+    "lpNftId": "1403793",
+    "lockerAddress": "0x4143B00E87D99EcA332a8609c5Fc7e1Bb9fA3D29"
+  },
+  "clankerInfo": null
+}

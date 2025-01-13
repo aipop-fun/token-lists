@@ -1,0 +1,22 @@
+{
+  "name": "LolliCat",
+  "symbol": "LolliCat",
+  "decimals": 18,
+  "description": "LolliCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LolliCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LolliCat",
+  "addresses": {
+    "8453": "0x26efc5e688b90b82fbc010a8e5fe5512d41ea5ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LolliCat",
+    "sanitizedSymbol": "LOLLICAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x58085DdC6050825495060735B8a41999150879E2",
+    "lpNftId": "1327634",
+    "lockerAddress": "0xbed8b557e9147aa407F67D518572b48EB7ad1c15"
+  },
+  "clankerInfo": null
+}

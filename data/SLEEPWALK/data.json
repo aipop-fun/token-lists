@@ -1,0 +1,22 @@
+{
+  "name": "Sleepwalk",
+  "symbol": "Sleepwalk",
+  "decimals": 18,
+  "description": "Sleepwalk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sleepwalk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sleepwalk",
+  "addresses": {
+    "8453": "0x3cc33a3d05fc065ca758fd4d84088eb38a5c17ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sleepwalk",
+    "sanitizedSymbol": "SLEEPWALK",
+    "created_at": "2024-12-10T08:50:49.294332",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1398954",
+    "lockerAddress": "0xaB15B015FdC11518DE8481A6b9163972235178a9"
+  },
+  "clankerInfo": null
+}

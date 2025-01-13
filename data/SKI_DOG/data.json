@@ -1,0 +1,22 @@
+{
+  "name": "SKI dog",
+  "symbol": "SKI dog",
+  "decimals": 18,
+  "description": "SKI dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKI%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKI dog",
+  "addresses": {
+    "8453": "0x3974772e3a7b42f2e3637e53e5803ab9db3d40b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKI dog",
+    "sanitizedSymbol": "SKI_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5259dAf51a4311637216Ece9c005e6f551114A4B",
+    "lpNftId": "1333666",
+    "lockerAddress": "0x0367CF682C7305D9889ceD4B09CA2aAC8b1c26d0"
+  },
+  "clankerInfo": null
+}

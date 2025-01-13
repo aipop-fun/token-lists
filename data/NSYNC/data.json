@@ -1,0 +1,22 @@
+{
+  "name": "NSYNC",
+  "symbol": "NSYNC",
+  "decimals": 18,
+  "description": "NSYNC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NSYNC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NSYNC",
+  "addresses": {
+    "8453": "0x28991b24eb52566e75ba871a80a1c49d05753c8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NSYNC",
+    "sanitizedSymbol": "NSYNC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1324833",
+    "lockerAddress": "0x3AaEF919352064725439888Ee827717452ebc8a0"
+  },
+  "clankerInfo": null
+}

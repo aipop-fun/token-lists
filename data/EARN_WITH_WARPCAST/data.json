@@ -1,0 +1,22 @@
+{
+  "name": "Earn With Warpcast",
+  "symbol": "Earn With Warpcast",
+  "decimals": 18,
+  "description": "Earn With Warpcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Earn%20With%20Warpcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Earn With Warpcast",
+  "addresses": {
+    "8453": "0x0cb67150d0145fd4a7abf281d7820f4b81d89ea2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Earn With Warpcast",
+    "sanitizedSymbol": "EARN_WITH_WARPCAST",
+    "created_at": "2024-12-10T21:42:39.830592",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1407441",
+    "lockerAddress": "0x88e1Fc430ca6576DB3BcCadaa7aDdDC3f8F5f536"
+  },
+  "clankerInfo": null
+}

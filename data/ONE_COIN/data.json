@@ -1,0 +1,22 @@
+{
+  "name": "ONE COIN",
+  "symbol": "ONE COIN",
+  "decimals": 18,
+  "description": "ONE COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ONE%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ONE COIN",
+  "addresses": {
+    "8453": "0x16da84c8de8687b4633cf99ae5179dce3890511d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ONE COIN",
+    "sanitizedSymbol": "ONE_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1209071",
+    "lockerAddress": "0x6579536b3A9DE5D7c627C37e2Ba942AD3c8eF8e2"
+  },
+  "clankerInfo": null
+}

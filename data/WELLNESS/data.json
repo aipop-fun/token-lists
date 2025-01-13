@@ -1,0 +1,22 @@
+{
+  "name": "wellness",
+  "symbol": "wellness",
+  "decimals": 18,
+  "description": "wellness is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wellness",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wellness",
+  "addresses": {
+    "8453": "0x374a5ae1d608284645981816f5959f22757236d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wellness",
+    "sanitizedSymbol": "WELLNESS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217066",
+    "lockerAddress": "0x79b53A7cC689F8174896b3AD72676901CB840d87"
+  },
+  "clankerInfo": null
+}

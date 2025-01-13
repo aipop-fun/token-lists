@@ -1,0 +1,22 @@
+{
+  "name": "Hog Clanker",
+  "symbol": "Hog Clanker",
+  "decimals": 18,
+  "description": "Hog Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hog%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hog Clanker",
+  "addresses": {
+    "8453": "0x0c1df1234101fc886003d436bc223da51bc96328"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hog Clanker",
+    "sanitizedSymbol": "HOG_CLANKER",
+    "created_at": "2024-12-12T00:39:13.153757",
+    "deployer": "0xE310e62b655689c591CCBF9fd946b8301331E47e",
+    "lpNftId": "1428200",
+    "lockerAddress": "0xB6db4B8Bb26A3Ec682AFdF6226b2067289D1Fa9b"
+  },
+  "clankerInfo": null
+}

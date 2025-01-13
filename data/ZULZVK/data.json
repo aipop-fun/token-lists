@@ -1,0 +1,22 @@
+{
+  "name": "ZULZVK",
+  "symbol": "ZULZVK",
+  "decimals": 18,
+  "description": "ZULZVK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZULZVK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZULZVK",
+  "addresses": {
+    "8453": "0x2f83e518c6dffbc052f2c74db54814cd12a7ba20"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZULZVK",
+    "sanitizedSymbol": "ZULZVK",
+    "created_at": "2024-12-10T10:01:48.430033",
+    "deployer": "0x43D5704F633003F80D5fCBB48B4bC746A00572E9",
+    "lpNftId": "1399439",
+    "lockerAddress": "0x5897C29511B326Fb6358c5FaF300163329B9BE7d"
+  },
+  "clankerInfo": null
+}

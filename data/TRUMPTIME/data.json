@@ -1,0 +1,22 @@
+{
+  "name": "trumptime",
+  "symbol": "trumptime",
+  "decimals": 18,
+  "description": "trumptime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trumptime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trumptime",
+  "addresses": {
+    "8453": "0x410b1887d836e3819cb0bbd485f6a78b91412df9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trumptime",
+    "sanitizedSymbol": "TRUMPTIME",
+    "created_at": "2024-12-12T20:15:26.013581",
+    "deployer": "0x6ADF9DDAEb5178510149E92aF66207A8a307F6aB",
+    "lpNftId": "1442144",
+    "lockerAddress": "0x1689722B9C314495F3188c9c4809C6b66B148d0F"
+  },
+  "clankerInfo": null
+}

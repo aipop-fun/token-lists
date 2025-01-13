@@ -1,0 +1,22 @@
+{
+  "name": "John Daly",
+  "symbol": "John Daly",
+  "decimals": 18,
+  "description": "John Daly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=John%20Daly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "John Daly",
+  "addresses": {
+    "8453": "0x167b857f0e8cb39ca5d265b8cd2bf1dbf9f749ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "John Daly",
+    "sanitizedSymbol": "JOHN_DALY",
+    "created_at": "2024-12-11T22:12:33.460648",
+    "deployer": "0x5945Ae0412583Ee89E69761DA2589A643fb363b1",
+    "lpNftId": "1427122",
+    "lockerAddress": "0x54450C6150b83eB696F2E86C002832dA4afd94a1"
+  },
+  "clankerInfo": null
+}

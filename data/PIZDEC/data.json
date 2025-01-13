@@ -1,0 +1,22 @@
+{
+  "name": "Pizdec",
+  "symbol": "Pizdec",
+  "decimals": 18,
+  "description": "Pizdec is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pizdec",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pizdec",
+  "addresses": {
+    "8453": "0x035ea83b5cda4138df66297938f555be3db75fec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pizdec",
+    "sanitizedSymbol": "PIZDEC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220635",
+    "lockerAddress": "0xA3c9dA8aE5Ea5DC2AB42152498a6596AF14F7ac0"
+  },
+  "clankerInfo": null
+}

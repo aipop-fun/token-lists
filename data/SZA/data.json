@@ -1,0 +1,22 @@
+{
+  "name": "SZA",
+  "symbol": "SZA",
+  "decimals": 18,
+  "description": "SZA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SZA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SZA",
+  "addresses": {
+    "8453": "0x1f9e273f4d9a7483ba0f88b6eb1c75e734809059"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SZA",
+    "sanitizedSymbol": "SZA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE225b83550fD42bABf715684E321425b428683c7",
+    "lpNftId": "1285130",
+    "lockerAddress": "0xe3E4be5946f3d0De18135723234EAf6eaA85cf19"
+  },
+  "clankerInfo": null
+}

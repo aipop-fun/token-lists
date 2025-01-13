@@ -1,0 +1,22 @@
+{
+  "name": "Makararu",
+  "symbol": "Makararu",
+  "decimals": 18,
+  "description": "Makararu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Makararu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Makararu",
+  "addresses": {
+    "8453": "0x006adc0a800f168cac84a4488e750fdc998000f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Makararu",
+    "sanitizedSymbol": "MAKARARU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9f94c5900B05a2D013471d33791B44526CE5d3A7",
+    "lpNftId": "1265333",
+    "lockerAddress": "0xB4Ef2e9Abd833A14C7f3f89824Beb4E12734aA93"
+  },
+  "clankerInfo": null
+}

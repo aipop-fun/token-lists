@@ -1,0 +1,22 @@
+{
+  "name": "Past",
+  "symbol": "Past",
+  "decimals": 18,
+  "description": "Past is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Past",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Past",
+  "addresses": {
+    "8453": "0x2cebeeb25267fdc0cfbeea78e2e5a961a0a9551b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Past",
+    "sanitizedSymbol": "PAST",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2425a22bb273949467aEEF8aBF8c3E24C4Ef1c61",
+    "lpNftId": "1357210",
+    "lockerAddress": "0xCa69166d3E9C8fbe041bdB541a9823D58E509F13"
+  },
+  "clankerInfo": null
+}

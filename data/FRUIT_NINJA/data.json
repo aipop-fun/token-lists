@@ -1,0 +1,22 @@
+{
+  "name": "Fruit Ninja",
+  "symbol": "Fruit Ninja",
+  "decimals": 18,
+  "description": "Fruit Ninja is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fruit%20Ninja",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fruit Ninja",
+  "addresses": {
+    "8453": "0x2a7ec0a29779e4e52361d2ad2a0ea2a35b775a07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fruit Ninja",
+    "sanitizedSymbol": "FRUIT_NINJA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfd2A47A6C6eEFfb2Acce043c3Ac06D3f53C4e22B",
+    "lpNftId": "1352706",
+    "lockerAddress": "0x90729e79AFf4f30411711F52152d9e0b6b8De3bd"
+  },
+  "clankerInfo": null
+}

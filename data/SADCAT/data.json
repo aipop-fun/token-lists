@@ -1,0 +1,22 @@
+{
+  "name": "sadcat",
+  "symbol": "sadcat",
+  "decimals": 18,
+  "description": "sadcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sadcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sadcat",
+  "addresses": {
+    "8453": "0x09aabe1a2170ac51245af060d0ad882b4d056a6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sadcat",
+    "sanitizedSymbol": "SADCAT",
+    "created_at": "2024-12-10T17:25:11.24651",
+    "deployer": "0x661c0cED2B7Ade3cbD041F3dd974FFe1Dd75cB6D",
+    "lpNftId": "1404563",
+    "lockerAddress": "0x4635aFE1Cb4BcE05785d275E692bb05442c5701E"
+  },
+  "clankerInfo": null
+}

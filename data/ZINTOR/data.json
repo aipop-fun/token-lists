@@ -1,0 +1,22 @@
+{
+  "name": "Zintor",
+  "symbol": "Zintor",
+  "decimals": 18,
+  "description": "Zintor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zintor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zintor",
+  "addresses": {
+    "8453": "0x330ab8c1f3ce8bf98161537517e05cb4652d2798"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zintor",
+    "sanitizedSymbol": "ZINTOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234414",
+    "lockerAddress": "0x795005fD5Db943e7f50107b1b073245675103841"
+  },
+  "clankerInfo": null
+}

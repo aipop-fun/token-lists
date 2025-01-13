@@ -1,0 +1,22 @@
+{
+  "name": "LEFS",
+  "symbol": "LEFS",
+  "decimals": 18,
+  "description": "LEFS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEFS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEFS",
+  "addresses": {
+    "8453": "0x08c2114a71861fc5b0aa814e84d1f26d94566740"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEFS",
+    "sanitizedSymbol": "LEFS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159178",
+    "lockerAddress": "0x718948b850Ddf70bA2E7D50C40f65360C7234089"
+  },
+  "clankerInfo": null
+}

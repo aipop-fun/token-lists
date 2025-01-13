@@ -1,0 +1,22 @@
+{
+  "name": "Cranky",
+  "symbol": "Cranky",
+  "decimals": 18,
+  "description": "Cranky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cranky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cranky",
+  "addresses": {
+    "8453": "0x301fbe164ec4f403ee86d5f9ec79ed633a3d0c63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cranky",
+    "sanitizedSymbol": "CRANKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x58680976F5B3263E5eE7C7D05A6019bb2687189a",
+    "lpNftId": "1226157",
+    "lockerAddress": "0x551cC14c5dd6f37B0b43370F170096a67785E792"
+  },
+  "clankerInfo": null
+}

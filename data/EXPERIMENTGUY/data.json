@@ -1,0 +1,22 @@
+{
+  "name": "experimentguy",
+  "symbol": "experimentguy",
+  "decimals": 18,
+  "description": "experimentguy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=experimentguy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "experimentguy",
+  "addresses": {
+    "8453": "0x1c31336eaf7eb96a64900ed31bb4371ccfc4b0c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "experimentguy",
+    "sanitizedSymbol": "EXPERIMENTGUY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118833",
+    "lockerAddress": "0x61cB3965A8E4318294131488E65428F088422253"
+  },
+  "clankerInfo": null
+}

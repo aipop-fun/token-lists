@@ -1,0 +1,22 @@
+{
+  "name": "apple",
+  "symbol": "apple",
+  "decimals": 18,
+  "description": "apple is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=apple",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "apple",
+  "addresses": {
+    "8453": "0x1c73f5f96e13f2af3b5d681eb04ace4d9a38d4e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "apple",
+    "sanitizedSymbol": "APPLE_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x074F26caAa6FA4BC19C9F792656e6efED568CDBC",
+    "lpNftId": "1279775",
+    "lockerAddress": "0xEe7347d744f34d2D6A5ed27c782d82Ea135ce042"
+  },
+  "clankerInfo": null
+}

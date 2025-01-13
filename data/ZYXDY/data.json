@@ -1,0 +1,22 @@
+{
+  "name": "ZYXDY",
+  "symbol": "ZYXDY",
+  "decimals": 18,
+  "description": "ZYXDY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZYXDY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZYXDY",
+  "addresses": {
+    "8453": "0x1b2edbb1c521a7f9d9c0f490c8d5a077ce858545"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZYXDY",
+    "sanitizedSymbol": "ZYXDY",
+    "created_at": "2024-12-10T07:26:39.151093",
+    "deployer": "0xD67581c5bdd634f1458627fAf7F90080E6e3DD37",
+    "lpNftId": "1397903",
+    "lockerAddress": "0x5195251a555e9800703b2575bCa2751BD72450db"
+  },
+  "clankerInfo": null
+}

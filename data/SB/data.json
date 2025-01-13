@@ -1,0 +1,22 @@
+{
+  "name": "SB",
+  "symbol": "SB",
+  "decimals": 18,
+  "description": "SB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SB",
+  "addresses": {
+    "8453": "0x27a2cc9741eb1860451bf1a46ad848b33e2d4b26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SB",
+    "sanitizedSymbol": "SB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x395D1C270f4CAec84842C03E4a7f73Bbb792b113",
+    "lpNftId": "1209141",
+    "lockerAddress": "0x9Bb9Fb2F566d1853dB21c6700da7A6c41798Dc57"
+  },
+  "clankerInfo": null
+}

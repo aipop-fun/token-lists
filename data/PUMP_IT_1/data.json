@@ -1,0 +1,22 @@
+{
+  "name": "pump.it",
+  "symbol": "pump.it",
+  "decimals": 18,
+  "description": "pump.it is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump.it",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump.it",
+  "addresses": {
+    "8453": "0x30446173641d58e1a98a64a86efc71f3e5f13c6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump.it",
+    "sanitizedSymbol": "PUMP_IT_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCC079E3519B908e0B7F6414e0D9F330eEeeFc2fa",
+    "lpNftId": "1326533",
+    "lockerAddress": "0x56d518C18803c31BB6C37c2250387Bc5dE5A96a3"
+  },
+  "clankerInfo": null
+}

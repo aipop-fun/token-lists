@@ -1,0 +1,22 @@
+{
+  "name": "one bajillion dollars",
+  "symbol": "one bajillion dollars",
+  "decimals": 18,
+  "description": "one bajillion dollars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=one%20bajillion%20dollars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "one bajillion dollars",
+  "addresses": {
+    "8453": "0x0084e88f80e1efb09ab9eadbb330e5df2867018b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "one bajillion dollars",
+    "sanitizedSymbol": "ONE_BAJILLION_DOLLARS",
+    "created_at": "2024-12-10T22:16:55.352464",
+    "deployer": "0x3937A5A5f2DC66f726ec9a57b70BC01681203aD7",
+    "lpNftId": "1407897",
+    "lockerAddress": "0x00B2400E8f5E7Efe9D6385B360177853c6cFc0f9"
+  },
+  "clankerInfo": null
+}

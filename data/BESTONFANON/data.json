@@ -1,0 +1,22 @@
+{
+  "name": "bestonfanon",
+  "symbol": "bestonfanon",
+  "decimals": 18,
+  "description": "bestonfanon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bestonfanon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bestonfanon",
+  "addresses": {
+    "8453": "0x3e151711a473f46c332dfa218e9ec8144d12a099"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bestonfanon",
+    "sanitizedSymbol": "BESTONFANON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218943",
+    "lockerAddress": "0x612E714fB301C88123D37641B8DB00ad1dF53067"
+  },
+  "clankerInfo": null
+}

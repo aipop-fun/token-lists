@@ -1,0 +1,22 @@
+{
+  "name": "aiBITCOIN",
+  "symbol": "aiBITCOIN",
+  "decimals": 18,
+  "description": "aiBITCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=aiBITCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "aiBITCOIN",
+  "addresses": {
+    "8453": "0x1bd22947b3b5acf5c0d57a566b9ff269327553e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "aiBITCOIN",
+    "sanitizedSymbol": "AIBITCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163889",
+    "lockerAddress": "0x58eE67B761B0Ce682a93C17ed2543CD7F7C8250A"
+  },
+  "clankerInfo": null
+}

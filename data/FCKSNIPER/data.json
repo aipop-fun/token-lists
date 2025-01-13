@@ -1,0 +1,22 @@
+{
+  "name": "FCKsniper",
+  "symbol": "FCKsniper",
+  "decimals": 18,
+  "description": "FCKsniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FCKsniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FCKsniper",
+  "addresses": {
+    "8453": "0x3a9ee4824178e35977ed8c95bdc82b203510afc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FCKsniper",
+    "sanitizedSymbol": "FCKSNIPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159776",
+    "lockerAddress": "0x78C476Ee1f013E46108Dd33569D3a62999141D22"
+  },
+  "clankerInfo": null
+}

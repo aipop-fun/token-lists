@@ -1,0 +1,22 @@
+{
+  "name": "Don't Be Evil",
+  "symbol": "Don't Be Evil",
+  "decimals": 18,
+  "description": "Don't Be Evil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20Be%20Evil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't Be Evil",
+  "addresses": {
+    "8453": "0x267c26a2bc3b764b88a62b161d6125cc7eb31efd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't Be Evil",
+    "sanitizedSymbol": "DON_T_BE_EVIL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135432",
+    "lockerAddress": "0x5Ea0bD2C1d77FBE794F87c79FCbAFA74eA352B19"
+  },
+  "clankerInfo": null
+}

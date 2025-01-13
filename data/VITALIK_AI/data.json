@@ -1,0 +1,22 @@
+{
+  "name": "VITALIK AI",
+  "symbol": "VITALIK AI",
+  "decimals": 18,
+  "description": "VITALIK AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VITALIK%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VITALIK AI",
+  "addresses": {
+    "8453": "0x40159ae602479e8c1ce6e3621ef87d83fc21a984"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VITALIK AI",
+    "sanitizedSymbol": "VITALIK_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x67d1524a4064ED4b0FaEA72B0bB93503F8F70CD9",
+    "lpNftId": "1321237",
+    "lockerAddress": "0x7643386d8A493A090dfB400148005f0092b84713"
+  },
+  "clankerInfo": null
+}

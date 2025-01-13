@@ -1,0 +1,22 @@
+{
+  "name": "Clanked Shiba",
+  "symbol": "Clanked Shiba",
+  "decimals": 18,
+  "description": "Clanked Shiba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanked%20Shiba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanked Shiba",
+  "addresses": {
+    "8453": "0x3a547f6765c35b90c666fdc0494cc34a34eac7ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanked Shiba",
+    "sanitizedSymbol": "CLANKED_SHIBA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1352449",
+    "lockerAddress": "0x6eEe65DA21329D8c0488a638bD8326ba2A5A9D2D"
+  },
+  "clankerInfo": null
+}

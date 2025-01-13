@@ -1,0 +1,22 @@
+{
+  "name": "Baby Neiro",
+  "symbol": "Baby Neiro",
+  "decimals": 18,
+  "description": "Baby Neiro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Neiro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Neiro",
+  "addresses": {
+    "8453": "0x1ad48609bd5bb0c7b4406fe753f74c383dc5a67f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Neiro",
+    "sanitizedSymbol": "BABY_NEIRO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCdfd5ECE9739fdC0DEEB51800723CfeA68727129",
+    "lpNftId": "1308901",
+    "lockerAddress": "0x2A92dEedEd748727FbD062EcBDa70E9b8d034E48"
+  },
+  "clankerInfo": null
+}

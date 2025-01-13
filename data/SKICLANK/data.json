@@ -1,0 +1,22 @@
+{
+  "name": "skiclank",
+  "symbol": "skiclank",
+  "decimals": 18,
+  "description": "skiclank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=skiclank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "skiclank",
+  "addresses": {
+    "8453": "0x03aa95718971d02166cb8a027839cde95b453747"
+  },
+  "tokenInfo": {
+    "originalSymbol": "skiclank",
+    "sanitizedSymbol": "SKICLANK",
+    "created_at": "2024-12-12T02:06:23.407319",
+    "deployer": "0x18a372f4BCC952f205549837c116f61a43C59e1d",
+    "lpNftId": "1428567",
+    "lockerAddress": "0xB3C0d5314D3d413969De71561D78065892f89170"
+  },
+  "clankerInfo": null
+}

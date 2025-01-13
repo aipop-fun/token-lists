@@ -1,0 +1,22 @@
+{
+  "name": "SpongeBob",
+  "symbol": "SpongeBob",
+  "decimals": 18,
+  "description": "SpongeBob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SpongeBob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SpongeBob",
+  "addresses": {
+    "8453": "0x09015b8f654650b718a8c42a6501bc5f946c17bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SpongeBob",
+    "sanitizedSymbol": "SPONGEBOB_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x26f8840b82790c5b0bD4D6356C9eebF9F712125E",
+    "lpNftId": "1286633",
+    "lockerAddress": "0xf6C80b18e9cBC8b23804234A78Bd35CC70023bB7"
+  },
+  "clankerInfo": null
+}

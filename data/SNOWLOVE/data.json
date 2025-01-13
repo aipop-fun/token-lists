@@ -1,0 +1,22 @@
+{
+  "name": "Snowlove",
+  "symbol": "Snowlove",
+  "decimals": 18,
+  "description": "Snowlove is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snowlove",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snowlove",
+  "addresses": {
+    "8453": "0x0e25e9cede4244796a21945946908e582de6f7b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snowlove",
+    "sanitizedSymbol": "SNOWLOVE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDC8C6cc44CEBB2fEfc2aEf2B0A13996FF83B61Fe",
+    "lpNftId": "1264097",
+    "lockerAddress": "0x6e8563db995a4854a4877126BE33029009fb12d8"
+  },
+  "clankerInfo": null
+}

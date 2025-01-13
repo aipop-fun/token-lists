@@ -1,0 +1,22 @@
+{
+  "name": "Marscun",
+  "symbol": "Marscun",
+  "decimals": 18,
+  "description": "Marscun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Marscun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Marscun",
+  "addresses": {
+    "8453": "0x017160f3ed9ee56be57c120a869df76f4ad5f694"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Marscun",
+    "sanitizedSymbol": "MARSCUN",
+    "created_at": "2024-12-12T15:39:21.352851",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1437214",
+    "lockerAddress": "0xfe657937014a7Ff38F780cfD99781eda1ad63466"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "STRICK",
+  "symbol": "STRICK",
+  "decimals": 18,
+  "description": "STRICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STRICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STRICK",
+  "addresses": {
+    "8453": "0x3f03eae578da803eb1d24a669f9acb32ee623776"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STRICK",
+    "sanitizedSymbol": "STRICK_1",
+    "created_at": "2024-12-10T09:09:17.371423",
+    "deployer": "0x96aE551523811f6b79a7A6A8757f52E179dbB5Fb",
+    "lpNftId": "1399064",
+    "lockerAddress": "0x34B7ac3b3d5DE9D922B341Fa007ba726c5420A42"
+  },
+  "clankerInfo": null
+}

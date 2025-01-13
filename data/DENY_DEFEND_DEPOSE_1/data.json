@@ -1,0 +1,22 @@
+{
+  "name": "Deny, Defend, Depose",
+  "symbol": "Deny, Defend, Depose",
+  "decimals": 18,
+  "description": "Deny, Defend, Depose is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deny%2C%20Defend%2C%20Depose",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deny, Defend, Depose",
+  "addresses": {
+    "8453": "0x32f49b1b3bef23a33e1847c89f361aa2423fc126"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deny, Defend, Depose",
+    "sanitizedSymbol": "DENY_DEFEND_DEPOSE_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf7CaD584a4d56959B5EE6B66d28BB1FeAC29C68d",
+    "lpNftId": "1341640",
+    "lockerAddress": "0x89bEa9b8cbBe5E418fF153b111e5771fF6D8197E"
+  },
+  "clankerInfo": null
+}

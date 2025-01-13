@@ -1,0 +1,22 @@
+{
+  "name": "byegary",
+  "symbol": "byegary",
+  "decimals": 18,
+  "description": "byegary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=byegary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "byegary",
+  "addresses": {
+    "8453": "0x324762ee3bbd0b0b38355a1433556ee518d4f5ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "byegary",
+    "sanitizedSymbol": "BYEGARY_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204995",
+    "lockerAddress": "0x0C7F9647d9C8CB05A5656d663C4c7A467645A986"
+  },
+  "clankerInfo": null
+}

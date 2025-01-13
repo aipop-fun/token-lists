@@ -1,0 +1,22 @@
+{
+  "name": "OHASOBI",
+  "symbol": "OHASOBI",
+  "decimals": 18,
+  "description": "OHASOBI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OHASOBI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OHASOBI",
+  "addresses": {
+    "8453": "0x109ecdf7e2c122e3d2b98af924f8ef2cd30c37c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OHASOBI",
+    "sanitizedSymbol": "OHASOBI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211591",
+    "lockerAddress": "0x7C04466d39B4dB9996abBce59eA2885cEF1453EF"
+  },
+  "clankerInfo": null
+}

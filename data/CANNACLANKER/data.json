@@ -1,0 +1,22 @@
+{
+  "name": "CannaClanker",
+  "symbol": "CannaClanker",
+  "decimals": 18,
+  "description": "CannaClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CannaClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CannaClanker",
+  "addresses": {
+    "8453": "0x2367ba2226b36d30c086d0745e0e3b0d268dd88d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CannaClanker",
+    "sanitizedSymbol": "CANNACLANKER",
+    "created_at": "2024-12-09T21:48:39.405854",
+    "deployer": "0xfE030FFd20a4AE3EC68ec6606E045C4aD3211f97",
+    "lpNftId": "1392614",
+    "lockerAddress": "0x73A30184f0677f7a5638c2A617f452DC384711e2"
+  },
+  "clankerInfo": null
+}

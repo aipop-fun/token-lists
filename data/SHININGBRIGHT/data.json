@@ -1,0 +1,22 @@
+{
+  "name": "ShiningBright",
+  "symbol": "ShiningBright",
+  "decimals": 18,
+  "description": "ShiningBright is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShiningBright",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShiningBright",
+  "addresses": {
+    "8453": "0x385af2a9f78d75b836a3b47ab450652d8ef0b6ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShiningBright",
+    "sanitizedSymbol": "SHININGBRIGHT",
+    "created_at": "2024-12-10T05:02:29.307236",
+    "deployer": "0xDE25d943bC656d0eD18535A51BbA4e31024254Da",
+    "lpNftId": "1396703",
+    "lockerAddress": "0x3527F6f904DE39332497E6D30EF6F29764e4381d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "the beaver",
+  "symbol": "the beaver",
+  "decimals": 18,
+  "description": "the beaver is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20beaver",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the beaver",
+  "addresses": {
+    "8453": "0x2347986c5627e07cf7c7ac4d3c684d85e703ef4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the beaver",
+    "sanitizedSymbol": "THE_BEAVER",
+    "created_at": "2024-12-11T06:52:09.146812",
+    "deployer": "0xA8B3b9cEAF20Da5479e72e98869ae249B420F9F9",
+    "lpNftId": "1413979",
+    "lockerAddress": "0x618BD1EABD8A97f5765E69Af6BfEf6078BA30d4a"
+  },
+  "clankerInfo": null
+}

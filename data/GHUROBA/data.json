@@ -1,0 +1,22 @@
+{
+  "name": "Ghuroba",
+  "symbol": "Ghuroba",
+  "decimals": 18,
+  "description": "Ghuroba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ghuroba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ghuroba",
+  "addresses": {
+    "8453": "0x037daeccb34fa100b5c433e812fdd7b043b7eca0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ghuroba",
+    "sanitizedSymbol": "GHUROBA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199664",
+    "lockerAddress": "0x91fCB928F03F9E404a69FB78344A3E7C86EBb542"
+  },
+  "clankerInfo": null
+}

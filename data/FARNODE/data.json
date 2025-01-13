@@ -1,0 +1,22 @@
+{
+  "name": "FarNode",
+  "symbol": "FarNode",
+  "decimals": 18,
+  "description": "FarNode is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarNode",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarNode",
+  "addresses": {
+    "8453": "0x2f5e79469ebffa1ea73030cb23eb921c7bcb7091"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarNode",
+    "sanitizedSymbol": "FARNODE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232428",
+    "lockerAddress": "0x8E75A14bFB1Ec251904871066B3959Ed172b58Bc"
+  },
+  "clankerInfo": null
+}

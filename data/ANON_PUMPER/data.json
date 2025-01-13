@@ -1,0 +1,22 @@
+{
+  "name": "Anon pumper",
+  "symbol": "Anon pumper",
+  "decimals": 18,
+  "description": "Anon pumper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20pumper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon pumper",
+  "addresses": {
+    "8453": "0x0dfb1d21796bc7f5a8c2bde14c29480fbc8a9b9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon pumper",
+    "sanitizedSymbol": "ANON_PUMPER",
+    "created_at": "2024-12-10T08:46:24.075166",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1398909",
+    "lockerAddress": "0x56D2f8bFf0AD6C59E10846cC186e45f1ACd6dc5B"
+  },
+  "clankerInfo": null
+}

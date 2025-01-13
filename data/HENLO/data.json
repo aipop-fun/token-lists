@@ -1,0 +1,22 @@
+{
+  "name": "HENLO",
+  "symbol": "HENLO",
+  "decimals": 18,
+  "description": "HENLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HENLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HENLO",
+  "addresses": {
+    "8453": "0x1e6b1201d6f93cf284d28f221a62ceb3bf09f211"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HENLO",
+    "sanitizedSymbol": "HENLO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1288364",
+    "lockerAddress": "0x2f383E255d9296B2Fe0BbdE5adD47666a492aB9F"
+  },
+  "clankerInfo": null
+}

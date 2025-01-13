@@ -1,0 +1,22 @@
+{
+  "name": "SDOG",
+  "symbol": "SDOG",
+  "decimals": 18,
+  "description": "SDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SDOG",
+  "addresses": {
+    "8453": "0x25a2af16019702cc404b1fdb0140e505137f1379"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SDOG",
+    "sanitizedSymbol": "SDOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128808",
+    "lockerAddress": "0x38e4e8b29eC771015eBb72bce64C20660a32F10F"
+  },
+  "clankerInfo": null
+}

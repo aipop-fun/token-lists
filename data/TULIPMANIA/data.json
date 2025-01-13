@@ -1,0 +1,22 @@
+{
+  "name": "TulipMania",
+  "symbol": "TulipMania",
+  "decimals": 18,
+  "description": "TulipMania is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TulipMania",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TulipMania",
+  "addresses": {
+    "8453": "0x2128e76f7cd0cb25dca72728ffed23b0d3cff7b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TulipMania",
+    "sanitizedSymbol": "TULIPMANIA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233099",
+    "lockerAddress": "0x663Cc306BAd630eB52A2771b745c7908Af2EC3a5"
+  },
+  "clankerInfo": null
+}

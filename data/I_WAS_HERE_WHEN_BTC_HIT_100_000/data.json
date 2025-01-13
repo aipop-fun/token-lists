@@ -1,0 +1,22 @@
+{
+  "name": "I was here when $BTC hit $100,000",
+  "symbol": "I was here when $BTC hit $100,000",
+  "decimals": 18,
+  "description": "I was here when $BTC hit $100,000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20was%20here%20when%20%24BTC%20hit%20%24100%2C000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I was here when $BTC hit $100,000",
+  "addresses": {
+    "8453": "0x37ba4f9ab790290e17721d935d41437d661d83f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I was here when $BTC hit $100,000",
+    "sanitizedSymbol": "I_WAS_HERE_WHEN_BTC_HIT_100_000",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2ff673a287a816fC4089CC51933f32E8C16fd416",
+    "lpNftId": "1328630",
+    "lockerAddress": "0xD2D47A4dbC3F3Db04e04895280AB4B60fD28B940"
+  },
+  "clankerInfo": null
+}

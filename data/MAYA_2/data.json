@@ -1,0 +1,22 @@
+{
+  "name": "Maya",
+  "symbol": "Maya",
+  "decimals": 18,
+  "description": "Maya is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maya",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maya",
+  "addresses": {
+    "8453": "0x340a0284500dbbe41f05897481837320e06b05b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maya",
+    "sanitizedSymbol": "MAYA_2",
+    "created_at": "2024-12-10T05:11:33.34179",
+    "deployer": "0xc4851acD8f5162c510737247EcaaeF73e895FD74",
+    "lpNftId": "1396790",
+    "lockerAddress": "0x65a1665a9cf1112e948639AceeD9C35CdAec1776"
+  },
+  "clankerInfo": null
+}

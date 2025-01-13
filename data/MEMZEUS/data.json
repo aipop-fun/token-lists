@@ -1,0 +1,22 @@
+{
+  "name": "MEMZEUS",
+  "symbol": "MEMZEUS",
+  "decimals": 18,
+  "description": "MEMZEUS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMZEUS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMZEUS",
+  "addresses": {
+    "8453": "0x194ece6a5a11b16361f9539e52a89d6d770f1838"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMZEUS",
+    "sanitizedSymbol": "MEMZEUS",
+    "created_at": "2024-12-09T05:06:37.590631",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1382935",
+    "lockerAddress": "0x220D4325B32030F500F6ceD83d8C5f7eBF6b4DdB"
+  },
+  "clankerInfo": null
+}

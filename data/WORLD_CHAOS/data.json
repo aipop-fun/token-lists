@@ -1,0 +1,22 @@
+{
+  "name": "world chaos",
+  "symbol": "world chaos",
+  "decimals": 18,
+  "description": "world chaos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=world%20chaos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "world chaos",
+  "addresses": {
+    "8453": "0x3e96dd617eb3cce53d3394797740a818beb595cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "world chaos",
+    "sanitizedSymbol": "WORLD_CHAOS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeC924b50da12043f0fd573d816D31Dfed781e73a",
+    "lpNftId": "1291840",
+    "lockerAddress": "0x2bB3ed02966C2D651DE4935C16fE4EAbdBE0E713"
+  },
+  "clankerInfo": null
+}

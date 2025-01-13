@@ -1,0 +1,22 @@
+{
+  "name": "SANIC",
+  "symbol": "SANIC",
+  "decimals": 18,
+  "description": "SANIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANIC",
+  "addresses": {
+    "8453": "0x0d5f651ce13666f0db7885f5a5b0534ca60092be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANIC",
+    "sanitizedSymbol": "SANIC",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFe3Fb67Dd4AaC5073dD85415097CeDBd521e8758",
+    "lpNftId": "1376577",
+    "lockerAddress": "0x67b84d08bE8DF559218ca4E4330DB13400AF7E2d"
+  },
+  "clankerInfo": null
+}

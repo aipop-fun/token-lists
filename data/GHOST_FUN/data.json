@@ -1,0 +1,22 @@
+{
+  "name": "Ghost Fun",
+  "symbol": "Ghost Fun",
+  "decimals": 18,
+  "description": "Ghost Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ghost%20Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ghost Fun",
+  "addresses": {
+    "8453": "0x31a84b5486ca921ede4941e0d0cfa8b6d1455322"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ghost Fun",
+    "sanitizedSymbol": "GHOST_FUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237711",
+    "lockerAddress": "0xF9109ae567bb00a876036C98715ab31805d7e0ee"
+  },
+  "clankerInfo": null
+}

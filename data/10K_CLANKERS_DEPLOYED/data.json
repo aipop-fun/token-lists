@@ -1,0 +1,22 @@
+{
+  "name": "10k Clankers Deployed",
+  "symbol": "10k Clankers Deployed",
+  "decimals": 18,
+  "description": "10k Clankers Deployed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=10k%20Clankers%20Deployed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "10k Clankers Deployed",
+  "addresses": {
+    "8453": "0x18287462c8e8eb6d7a8f0b1c465cb1cfa02e84af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "10k Clankers Deployed",
+    "sanitizedSymbol": "10K_CLANKERS_DEPLOYED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C515F7776F41FFC9Df45a4BBD515C85e21ABA62",
+    "lpNftId": "1331038",
+    "lockerAddress": "0x021D758D1b7a50177d165fdbAa5A195Ecb8AFa32"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ANITA",
+  "symbol": "ANITA",
+  "decimals": 18,
+  "description": "ANITA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANITA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANITA",
+  "addresses": {
+    "8453": "0x3849c3d0999d5ac033c288c7ad53081c6fee06a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANITA",
+    "sanitizedSymbol": "ANITA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xEb8e490084b87AC0DcE028DC6D846f6D42Ce66Dd",
+    "lpNftId": "1268144",
+    "lockerAddress": "0x6582b3C2b7CCE5cd199f8142a34BB461FB14b0D1"
+  },
+  "clankerInfo": null
+}

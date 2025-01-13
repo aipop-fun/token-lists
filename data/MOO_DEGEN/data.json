@@ -1,0 +1,22 @@
+{
+  "name": "MOO DEGEN",
+  "symbol": "MOO DEGEN",
+  "decimals": 18,
+  "description": "MOO DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOO%20DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOO DEGEN",
+  "addresses": {
+    "8453": "0x37fc75307ffff0b370ebc4c30483677a33420874"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOO DEGEN",
+    "sanitizedSymbol": "MOO_DEGEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193875",
+    "lockerAddress": "0x3e13B279e7cE287517cA1864f9C5336cBC4f0D99"
+  },
+  "clankerInfo": null
+}

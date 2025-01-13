@@ -1,0 +1,22 @@
+{
+  "name": "Anon Squad",
+  "symbol": "Anon Squad",
+  "decimals": 18,
+  "description": "Anon Squad is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Squad",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Squad",
+  "addresses": {
+    "8453": "0x110588836fe673272e7428d5d38c04f2b6eb31c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Squad",
+    "sanitizedSymbol": "ANON_SQUAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213387",
+    "lockerAddress": "0x2E6284E5BEe75198A9925bba639A24c41Ca75348"
+  },
+  "clankerInfo": null
+}

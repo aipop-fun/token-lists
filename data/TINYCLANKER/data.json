@@ -1,0 +1,22 @@
+{
+  "name": "TINYCLANKER",
+  "symbol": "TINYCLANKER",
+  "decimals": 18,
+  "description": "TINYCLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TINYCLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TINYCLANKER",
+  "addresses": {
+    "8453": "0x1f190773d02c5a14d72b0b19d921266abd5d4648"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TINYCLANKER",
+    "sanitizedSymbol": "TINYCLANKER",
+    "created_at": "2024-12-12T20:51:59.538035",
+    "deployer": "0xB4BF4DAAd1049B7198522C738a3D81B14B82a162",
+    "lpNftId": "1442767",
+    "lockerAddress": "0xBA9D27c11c23f03DFC35aa02F75839cb9d26145a"
+  },
+  "clankerInfo": null
+}

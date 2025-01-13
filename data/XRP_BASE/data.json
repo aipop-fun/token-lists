@@ -1,0 +1,22 @@
+{
+  "name": "XRP BASE",
+  "symbol": "XRP BASE",
+  "decimals": 18,
+  "description": "XRP BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XRP%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XRP BASE",
+  "addresses": {
+    "8453": "0x112b2faa2399ae951f354e0a174825d9d357a6aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XRP BASE",
+    "sanitizedSymbol": "XRP_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1292260",
+    "lockerAddress": "0x58116Ce68B0f1d40Fd50b7f452ec1e759A4b9237"
+  },
+  "clankerInfo": null
+}

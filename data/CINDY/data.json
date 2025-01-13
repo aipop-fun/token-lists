@@ -1,0 +1,22 @@
+{
+  "name": "Cindy",
+  "symbol": "Cindy",
+  "decimals": 18,
+  "description": "Cindy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cindy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cindy",
+  "addresses": {
+    "8453": "0x0a1eefedddcff5172ed211b7416b3accf7ce0027"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cindy",
+    "sanitizedSymbol": "CINDY",
+    "created_at": "2024-12-09T11:22:35.810728",
+    "deployer": "0xfC17759f7b542d5c9f648417C7c5955394744933",
+    "lpNftId": "1386433",
+    "lockerAddress": "0x4a27D818b687Cb2854e33284d8DE574449C0a3c5"
+  },
+  "clankerInfo": null
+}

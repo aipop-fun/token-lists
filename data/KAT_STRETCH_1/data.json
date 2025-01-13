@@ -1,0 +1,22 @@
+{
+  "name": "Kat Stretch",
+  "symbol": "Kat Stretch",
+  "decimals": 18,
+  "description": "Kat Stretch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kat%20Stretch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kat Stretch",
+  "addresses": {
+    "8453": "0x0a063d0a46e66b4cc2609919d6f82ab50297cdb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kat Stretch",
+    "sanitizedSymbol": "KAT_STRETCH_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x495E4f8C59f9b2df760F77C42f27ea514697bf73",
+    "lpNftId": "1348506",
+    "lockerAddress": "0xd229EF90E3909ba1e9737e6d7CF881B1025c4a75"
+  },
+  "clankerInfo": null
+}

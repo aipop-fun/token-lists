@@ -1,0 +1,22 @@
+{
+  "name": "EIP-7702",
+  "symbol": "EIP-7702",
+  "decimals": 18,
+  "description": "EIP-7702 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EIP-7702",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EIP-7702",
+  "addresses": {
+    "8453": "0x22723e9121e0fef8dc6e834db4cab44a189e6bc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EIP-7702",
+    "sanitizedSymbol": "EIP_7702",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1315469",
+    "lockerAddress": "0x7467939b8170f685FAC313e48995B547D6d7cE09"
+  },
+  "clankerInfo": null
+}

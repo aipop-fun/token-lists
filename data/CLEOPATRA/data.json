@@ -1,0 +1,22 @@
+{
+  "name": "Cleopatra",
+  "symbol": "Cleopatra",
+  "decimals": 18,
+  "description": "Cleopatra is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cleopatra",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cleopatra",
+  "addresses": {
+    "8453": "0x323ef1d072e92c0f8f0963a34dc315bad82e8f04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cleopatra",
+    "sanitizedSymbol": "CLEOPATRA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219204",
+    "lockerAddress": "0x70a3eC6b89a65719cE6c0261425776E530Ea7963"
+  },
+  "clankerInfo": null
+}

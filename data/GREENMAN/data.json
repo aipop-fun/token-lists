@@ -1,0 +1,22 @@
+{
+  "name": "GreenMan",
+  "symbol": "GreenMan",
+  "decimals": 18,
+  "description": "GreenMan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GreenMan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GreenMan",
+  "addresses": {
+    "8453": "0x3528c0337823c3b4c553b0a2b8918667cb9ecc1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GreenMan",
+    "sanitizedSymbol": "GREENMAN",
+    "created_at": "2024-12-09T07:54:35.073796",
+    "deployer": "0xb3b88aB09B2a8da2a0864FB72144a020cCBb3B1b",
+    "lpNftId": "1384516",
+    "lockerAddress": "0xB09E9Ff0d62E103Ad9399b5A45391CAbf7c5cf08"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OWNERS",
+  "symbol": "OWNERS",
+  "decimals": 18,
+  "description": "OWNERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OWNERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OWNERS",
+  "addresses": {
+    "8453": "0x2030eacd6597e5bf4a79a09896064731d8e82e8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OWNERS",
+    "sanitizedSymbol": "OWNERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219368",
+    "lockerAddress": "0xB74b4549Ed92f41C5CBAF59EDBB2495F2fbd8a32"
+  },
+  "clankerInfo": null
+}

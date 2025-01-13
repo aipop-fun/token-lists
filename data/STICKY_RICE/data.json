@@ -1,0 +1,22 @@
+{
+  "name": "STICKY RICE",
+  "symbol": "STICKY RICE",
+  "decimals": 18,
+  "description": "STICKY RICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STICKY%20RICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STICKY RICE",
+  "addresses": {
+    "8453": "0x2cb7f1b91a6269c340f18651c2f77a0ad80caa84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STICKY RICE",
+    "sanitizedSymbol": "STICKY_RICE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x825504eAD38043C7543331A14b6738B7Ae499c36",
+    "lpNftId": "1322198",
+    "lockerAddress": "0x29cd9Aa833C22553C755EBc78e4beF97Ac82D376"
+  },
+  "clankerInfo": null
+}

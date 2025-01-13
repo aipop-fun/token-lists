@@ -1,0 +1,22 @@
+{
+  "name": "shha",
+  "symbol": "shha",
+  "decimals": 18,
+  "description": "shha is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shha",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shha",
+  "addresses": {
+    "8453": "0x038934291600d9cbccada3d0acb5168949badb82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shha",
+    "sanitizedSymbol": "SHHA",
+    "created_at": "2024-12-12T16:23:39.984316",
+    "deployer": "0xb99E6E6f5b0965493fca702b7575877A0102814C",
+    "lpNftId": "1438477",
+    "lockerAddress": "0x412a3eD425A95f4658AaE2B2661F78028E75f6Ac"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BLINK",
+  "symbol": "BLINK",
+  "decimals": 18,
+  "description": "BLINK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BLINK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BLINK",
+  "addresses": {
+    "8453": "0x36969c9c48fdbdb7e31e45db73bcb852dc44199b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BLINK",
+    "sanitizedSymbol": "BLINK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x7e00eef9897FC4F3B98F5DfAf386023d8ebA2A14",
+    "lpNftId": "1266193",
+    "lockerAddress": "0xdaFc7958dAD7F379c630646Ab08f914417217884"
+  },
+  "clankerInfo": null
+}

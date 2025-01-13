@@ -1,0 +1,22 @@
+{
+  "name": "Amazing Coin",
+  "symbol": "Amazing Coin",
+  "decimals": 18,
+  "description": "Amazing Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Amazing%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Amazing Coin",
+  "addresses": {
+    "8453": "0x23286c31aa5c2549a9cdc3a8b1cdd723ee5afc42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Amazing Coin",
+    "sanitizedSymbol": "AMAZING_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156372",
+    "lockerAddress": "0x11369A6008f2505b0b150C6259a6637dd9231798"
+  },
+  "clankerInfo": null
+}

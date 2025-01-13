@@ -1,0 +1,22 @@
+{
+  "name": "CEO",
+  "symbol": "CEO",
+  "decimals": 18,
+  "description": "CEO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CEO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CEO",
+  "addresses": {
+    "8453": "0x38877a8d863be7d36324c7963f59eff465abd706"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CEO",
+    "sanitizedSymbol": "CEO_1",
+    "created_at": "2024-12-12T00:14:33.259681",
+    "deployer": "0x25FDe718197Ae6aaEd8f5B1C7C40819a50DfC71C",
+    "lpNftId": "1428096",
+    "lockerAddress": "0x14c6d6D036537703C34cC95f91606CE6886Aa026"
+  },
+  "clankerInfo": null
+}

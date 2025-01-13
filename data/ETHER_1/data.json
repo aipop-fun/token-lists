@@ -1,0 +1,22 @@
+{
+  "name": "Ether",
+  "symbol": "Ether",
+  "decimals": 18,
+  "description": "Ether is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ether",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ether",
+  "addresses": {
+    "8453": "0x31ff28ef846be3567771f8927100d5895207460e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ether",
+    "sanitizedSymbol": "ETHER_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195600",
+    "lockerAddress": "0x8dcB79CE55512F04bb4358dE27f1Ed1cC2924013"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FRAGE",
+  "symbol": "FRAGE",
+  "decimals": 18,
+  "description": "FRAGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FRAGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FRAGE",
+  "addresses": {
+    "8453": "0x1989cfb67d497222847b0199a79116823608b37f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FRAGE",
+    "sanitizedSymbol": "FRAGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1326742",
+    "lockerAddress": "0x25248542623382dCf9a05dAd997376DD447FDd9c"
+  },
+  "clankerInfo": null
+}

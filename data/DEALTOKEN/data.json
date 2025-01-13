@@ -1,0 +1,22 @@
+{
+  "name": "DealToken",
+  "symbol": "DealToken",
+  "decimals": 18,
+  "description": "DealToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DealToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DealToken",
+  "addresses": {
+    "8453": "0x1c5169c675d21d35fd9831a0b25a1da59ff58f14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DealToken",
+    "sanitizedSymbol": "DEALTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166252",
+    "lockerAddress": "0xf9Ff971F79767B72d5aE0Fefe0a090333dE95490"
+  },
+  "clankerInfo": null
+}

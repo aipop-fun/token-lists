@@ -1,0 +1,22 @@
+{
+  "name": "OLAF",
+  "symbol": "OLAF",
+  "decimals": 18,
+  "description": "OLAF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OLAF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OLAF",
+  "addresses": {
+    "8453": "0x19a5f498080f4928eb1c56969461d5537b579244"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OLAF",
+    "sanitizedSymbol": "OLAF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x22d29d6a7bCA49EE10d9Aba24249a8611D8451eD",
+    "lpNftId": "1312558",
+    "lockerAddress": "0xa35EC0764dd66566fdE12f82757b628E65e84A8B"
+  },
+  "clankerInfo": null
+}

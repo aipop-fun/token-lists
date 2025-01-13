@@ -1,0 +1,22 @@
+{
+  "name": "Groat",
+  "symbol": "Groat",
+  "decimals": 18,
+  "description": "Groat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Groat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Groat",
+  "addresses": {
+    "8453": "0x089f7c085ddd308ea2f9974f282953da2a977dfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Groat",
+    "sanitizedSymbol": "GROAT",
+    "created_at": "2024-12-09T07:08:48.808059",
+    "deployer": "0x19439fCdB55A5A16f44d9AdEEa68670414B3a5C6",
+    "lpNftId": "1384282",
+    "lockerAddress": "0x75C55ed00B81A54d4a1b3fa7E8EC3A98a215Ce26"
+  },
+  "clankerInfo": null
+}

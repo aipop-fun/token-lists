@@ -1,0 +1,22 @@
+{
+  "name": "MITO",
+  "symbol": "MITO",
+  "decimals": 18,
+  "description": "MITO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MITO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MITO",
+  "addresses": {
+    "8453": "0x08ce1d743d18617f4f6eddfb9dae53303d6d7bde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MITO",
+    "sanitizedSymbol": "MITO",
+    "created_at": "2024-12-12T20:36:01.59899",
+    "deployer": "0xB4e60388BB1fbabdF77dFf2337Ad2fCB596d500A",
+    "lpNftId": "1442431",
+    "lockerAddress": "0xd3b3618A4C1569e0680Ee91C58FE784560e4799c"
+  },
+  "clankerInfo": null
+}

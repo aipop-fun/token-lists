@@ -1,0 +1,22 @@
+{
+  "name": "Clank Beard King",
+  "symbol": "Clank Beard King",
+  "decimals": 18,
+  "description": "Clank Beard King is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clank%20Beard%20King",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clank Beard King",
+  "addresses": {
+    "8453": "0x0cea46484060584d99ebc8d5695d4659d128cbb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clank Beard King",
+    "sanitizedSymbol": "CLANK_BEARD_KING",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1351534",
+    "lockerAddress": "0xe9ceA5fEf9Cf8D742439BfADE3EeAEaBF68d75Fe"
+  },
+  "clankerInfo": null
+}

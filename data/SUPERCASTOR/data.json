@@ -1,0 +1,22 @@
+{
+  "name": "supercastor",
+  "symbol": "supercastor",
+  "decimals": 18,
+  "description": "supercastor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=supercastor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "supercastor",
+  "addresses": {
+    "8453": "0x0e8ebe26aa4cffba477e3d45dbe0cc26e36147b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "supercastor",
+    "sanitizedSymbol": "SUPERCASTOR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x575Dc3F05bd3e1613D482012Bf1caAe7BAd29A7E",
+    "lpNftId": "1354796",
+    "lockerAddress": "0xd9a5d50F5f921c76B988b5F20caC5FDcd09989E7"
+  },
+  "clankerInfo": null
+}

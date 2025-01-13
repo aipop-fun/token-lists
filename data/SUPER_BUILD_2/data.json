@@ -1,0 +1,22 @@
+{
+  "name": "Super Build",
+  "symbol": "Super Build",
+  "decimals": 18,
+  "description": "Super Build is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Build",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Build",
+  "addresses": {
+    "8453": "0x23322b29f22f1252b9e598a82bc55b32d52cf82c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Build",
+    "sanitizedSymbol": "SUPER_BUILD_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226176",
+    "lockerAddress": "0x31FB8e5F675acB4Fe713Fc6C4c68C496527A8A96"
+  },
+  "clankerInfo": null
+}

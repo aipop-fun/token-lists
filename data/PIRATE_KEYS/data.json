@@ -1,0 +1,22 @@
+{
+  "name": "PiRaTe KeYs",
+  "symbol": "PiRaTe KeYs",
+  "decimals": 18,
+  "description": "PiRaTe KeYs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PiRaTe%20KeYs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PiRaTe KeYs",
+  "addresses": {
+    "8453": "0x36d61d6f45110aa2f07c18a9f81c03d377070f8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PiRaTe KeYs",
+    "sanitizedSymbol": "PIRATE_KEYS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1327943",
+    "lockerAddress": "0x311E65D7D3a5C5758C803040677B89F7552c5d6a"
+  },
+  "clankerInfo": null
+}

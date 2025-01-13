@@ -1,0 +1,22 @@
+{
+  "name": "MAC",
+  "symbol": "MAC",
+  "decimals": 18,
+  "description": "MAC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAC",
+  "addresses": {
+    "8453": "0x360f37d77ab07ebb6c1e9c3580523e654c758405"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAC",
+    "sanitizedSymbol": "MAC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129191",
+    "lockerAddress": "0xd2EA7C098619b5E709D5Dd017bEAd99d15b32193"
+  },
+  "clankerInfo": null
+}

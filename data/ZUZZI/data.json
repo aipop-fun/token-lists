@@ -1,0 +1,22 @@
+{
+  "name": "Zuzzi",
+  "symbol": "Zuzzi",
+  "decimals": 18,
+  "description": "Zuzzi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zuzzi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zuzzi",
+  "addresses": {
+    "8453": "0x357fc5321bdd38bd55b1a25548f695321ca22103"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zuzzi",
+    "sanitizedSymbol": "ZUZZI",
+    "created_at": "2024-12-10T06:37:03.038419",
+    "deployer": "0xc05642120636A5dB7e6f7171Dc6C3dda02c5634C",
+    "lpNftId": "1397460",
+    "lockerAddress": "0xfe7eBc9DF61A6c0E653dD36b122ed5DE838d8C0b"
+  },
+  "clankerInfo": null
+}

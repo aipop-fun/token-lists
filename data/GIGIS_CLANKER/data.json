@@ -1,0 +1,22 @@
+{
+  "name": "gigis clanker",
+  "symbol": "gigis clanker",
+  "decimals": 18,
+  "description": "gigis clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gigis%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gigis clanker",
+  "addresses": {
+    "8453": "0x13dfb3bfaca940150be35e56703394d4c292c161"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gigis clanker",
+    "sanitizedSymbol": "GIGIS_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3D432027C11f17bfD03428ebe0351CB68125226d",
+    "lpNftId": "1312203",
+    "lockerAddress": "0xBc4DfB0B48CC0c64e5b1256eCd345C426F6C6EB8"
+  },
+  "clankerInfo": null
+}

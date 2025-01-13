@@ -1,0 +1,22 @@
+{
+  "name": "AIsian",
+  "symbol": "AIsian",
+  "decimals": 18,
+  "description": "AIsian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIsian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIsian",
+  "addresses": {
+    "8453": "0x413e875d4e260dae0cec71fc364c9521e355827a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIsian",
+    "sanitizedSymbol": "AISIAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x6B10424bf22C5d7E6ac8a39C998FDfe740685C99",
+    "lpNftId": "1250620",
+    "lockerAddress": "0xd139BcEb1B471b1cEa006FF45cD42f54b654c4FB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eart",
+  "symbol": "eart",
+  "decimals": 18,
+  "description": "eart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eart",
+  "addresses": {
+    "8453": "0x22869c7f7f7a856373aa0b8fe274a31f2e317141"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eart",
+    "sanitizedSymbol": "EART",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x571CE1F54a8024eDcB9F38dA96206beeeF726537",
+    "lpNftId": "1320482",
+    "lockerAddress": "0xb0662b3C83D62ec072Bed2120cd9fF329265E0ed"
+  },
+  "clankerInfo": null
+}

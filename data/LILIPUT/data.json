@@ -1,0 +1,22 @@
+{
+  "name": "LILIPUT",
+  "symbol": "LILIPUT",
+  "decimals": 18,
+  "description": "LILIPUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LILIPUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LILIPUT",
+  "addresses": {
+    "8453": "0x0c1a259dfaa5a830ccff6c1dc8c429c36ab98f3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LILIPUT",
+    "sanitizedSymbol": "LILIPUT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229175",
+    "lockerAddress": "0x66997C1738A2d8581302aFf794937399a941e14c"
+  },
+  "clankerInfo": null
+}

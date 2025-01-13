@@ -1,0 +1,22 @@
+{
+  "name": "Kangaroo",
+  "symbol": "Kangaroo",
+  "decimals": 18,
+  "description": "Kangaroo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kangaroo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kangaroo",
+  "addresses": {
+    "8453": "0x306105ae9eda5e072c69a220d9e717b59f446422"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kangaroo",
+    "sanitizedSymbol": "KANGAROO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf3785b271835C2193e8f7f906f64507Fd47538F8",
+    "lpNftId": "1284182",
+    "lockerAddress": "0xb19a2312CF71A87285e8f69A8345ebDb6f2a109f"
+  },
+  "clankerInfo": null
+}

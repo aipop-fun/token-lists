@@ -1,0 +1,22 @@
+{
+  "name": "CHA YEN",
+  "symbol": "CHA YEN",
+  "decimals": 18,
+  "description": "CHA YEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHA%20YEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHA YEN",
+  "addresses": {
+    "8453": "0x01dcf0d1aa6625f67b789a10602b6210d9dc04c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHA YEN",
+    "sanitizedSymbol": "CHA_YEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7b9C8936a989B72613069386CE66B678ec44b6b6",
+    "lpNftId": "1375611",
+    "lockerAddress": "0xaD955ba4f368BC4235860Ed5835F558928f9e6E4"
+  },
+  "clankerInfo": null
+}

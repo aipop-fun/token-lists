@@ -1,0 +1,22 @@
+{
+  "name": "Santa Of Degen",
+  "symbol": "Santa Of Degen",
+  "decimals": 18,
+  "description": "Santa Of Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Of%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Of Degen",
+  "addresses": {
+    "8453": "0x2200a91f85f662dd6f39fc93adb145d26f1560c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Of Degen",
+    "sanitizedSymbol": "SANTA_OF_DEGEN",
+    "created_at": "2024-12-10T19:41:45.804523",
+    "deployer": "0x41AB1D15fD3c4888b1c5d7E480df5233C82Aab48",
+    "lpNftId": "1406293",
+    "lockerAddress": "0x99b7580EB1816836e8c68cB8ffdAC0F5ce545b2b"
+  },
+  "clankerInfo": null
+}

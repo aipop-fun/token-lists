@@ -1,0 +1,22 @@
+{
+  "name": "Baldhead",
+  "symbol": "Baldhead",
+  "decimals": 18,
+  "description": "Baldhead is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baldhead",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baldhead",
+  "addresses": {
+    "8453": "0x40b2a5bb1d3a94ccc0edd52e19b21744023071bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baldhead",
+    "sanitizedSymbol": "BALDHEAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229234",
+    "lockerAddress": "0xC30fD76543bFfe721A68B01a5417ed082De2DE1a"
+  },
+  "clankerInfo": null
+}

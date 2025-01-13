@@ -1,0 +1,22 @@
+{
+  "name": "Shoot Me!",
+  "symbol": "Shoot Me!",
+  "decimals": 18,
+  "description": "Shoot Me! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shoot%20Me!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shoot Me!",
+  "addresses": {
+    "8453": "0x1d5e424f3cd3faab2ef773c965bfa23c464ea4ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shoot Me!",
+    "sanitizedSymbol": "SHOOT_ME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1348347",
+    "lockerAddress": "0xB48Ee6416Ee74091c3c1B3B526e10014fa0BCcEF"
+  },
+  "clankerInfo": null
+}

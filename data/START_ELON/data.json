@@ -1,0 +1,22 @@
+{
+  "name": "Start Elon",
+  "symbol": "Start Elon",
+  "decimals": 18,
+  "description": "Start Elon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Start%20Elon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Start Elon",
+  "addresses": {
+    "8453": "0x14bee0f8f1f16794d77b8f850d43000f698c4802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Start Elon",
+    "sanitizedSymbol": "START_ELON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x397e71279CdB89262bE7C692F8b51425eECAe46c",
+    "lpNftId": "1312679",
+    "lockerAddress": "0xe89C658aF10cA1e6873E6785F21Af04805fC9483"
+  },
+  "clankerInfo": null
+}

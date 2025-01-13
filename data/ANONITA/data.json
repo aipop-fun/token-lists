@@ -1,0 +1,22 @@
+{
+  "name": "anonita",
+  "symbol": "anonita",
+  "decimals": 18,
+  "description": "anonita is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonita",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonita",
+  "addresses": {
+    "8453": "0x31fbffdde7b964b02e0490ba1ac6b735039e2b93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonita",
+    "sanitizedSymbol": "ANONITA",
+    "created_at": "2024-12-12T14:40:16.583463",
+    "deployer": "0x0DA6Dd7d06Fa298c20fCD3F06D7CE866dBD3cdBa",
+    "lpNftId": "1436120",
+    "lockerAddress": "0x4077771aA0e18Ef697DbC12d743e4c796A154201"
+  },
+  "clankerInfo": null
+}

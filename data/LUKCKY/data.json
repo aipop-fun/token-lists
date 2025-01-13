@@ -1,0 +1,22 @@
+{
+  "name": "LUKCKY",
+  "symbol": "LUKCKY",
+  "decimals": 18,
+  "description": "LUKCKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUKCKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUKCKY",
+  "addresses": {
+    "8453": "0x1ad921e11187cb16bc160d5c7aa0f4097c5167dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUKCKY",
+    "sanitizedSymbol": "LUKCKY",
+    "created_at": "2024-12-09T05:04:21.285033",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1382883",
+    "lockerAddress": "0x880976498dC9AC1836687158449cce9D8416F6Af"
+  },
+  "clankerInfo": null
+}

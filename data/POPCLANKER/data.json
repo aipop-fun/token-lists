@@ -1,0 +1,22 @@
+{
+  "name": "Popclanker",
+  "symbol": "Popclanker",
+  "decimals": 18,
+  "description": "Popclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Popclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Popclanker",
+  "addresses": {
+    "8453": "0x2d19318ba6b5a8f3e091fe12ba22ddc1b3c6fb03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Popclanker",
+    "sanitizedSymbol": "POPCLANKER",
+    "created_at": "2024-12-09T01:58:54.172578",
+    "deployer": "0x47Af98B93b8F38D6Da4e66648e697F3415A24b1A",
+    "lpNftId": "1377747",
+    "lockerAddress": "0xeaF61d0fD869228076A0B1B4796649eE975B4f1a"
+  },
+  "clankerInfo": null
+}

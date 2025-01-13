@@ -1,0 +1,22 @@
+{
+  "name": "DUMPmushrom",
+  "symbol": "DUMPmushrom",
+  "decimals": 18,
+  "description": "DUMPmushrom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUMPmushrom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUMPmushrom",
+  "addresses": {
+    "8453": "0x3b76c956e239ee9f7facacc204830b1ea2d09afb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUMPmushrom",
+    "sanitizedSymbol": "DUMPMUSHROM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD4f73B54D1bc004a4dFc49DC370767d304c2E4Fa",
+    "lpNftId": "1314720",
+    "lockerAddress": "0x76793FF07D21aD1863C155c9151c31a4c43B4862"
+  },
+  "clankerInfo": null
+}

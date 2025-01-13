@@ -1,0 +1,22 @@
+{
+  "name": "Cofee",
+  "symbol": "Cofee",
+  "decimals": 18,
+  "description": "Cofee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cofee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cofee",
+  "addresses": {
+    "8453": "0x019f0f775c2e4446454bd611f9d9c70dcdc7e111"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cofee",
+    "sanitizedSymbol": "COFEE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1286078",
+    "lockerAddress": "0x4e65F47562dA69BD6e28159630F380E7398713C0"
+  },
+  "clankerInfo": null
+}

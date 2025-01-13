@@ -1,0 +1,22 @@
+{
+  "name": "ThankYouClanker",
+  "symbol": "ThankYouClanker",
+  "decimals": 18,
+  "description": "ThankYouClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ThankYouClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ThankYouClanker",
+  "addresses": {
+    "8453": "0x28ad973869d2af205980761ebc7e6f95a1a504fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ThankYouClanker",
+    "sanitizedSymbol": "THANKYOUCLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220339",
+    "lockerAddress": "0xa9eC5cb5EBb0a8a4339112Bd32e31DD41DC209B6"
+  },
+  "clankerInfo": null
+}

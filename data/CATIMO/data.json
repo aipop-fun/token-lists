@@ -1,0 +1,22 @@
+{
+  "name": "CATIMO",
+  "symbol": "CATIMO",
+  "decimals": 18,
+  "description": "CATIMO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATIMO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATIMO",
+  "addresses": {
+    "8453": "0x179565362e66a5666c8dfb789981452d7e45f880"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATIMO",
+    "sanitizedSymbol": "CATIMO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x279B034C5e5786baEAdcfb62A79d0e5E5bEd3B3C",
+    "lpNftId": "1374234",
+    "lockerAddress": "0x7aC1C10581Fc308Fbf356008217dD2C7028514d8"
+  },
+  "clankerInfo": null
+}

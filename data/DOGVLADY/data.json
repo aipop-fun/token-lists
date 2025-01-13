@@ -1,0 +1,22 @@
+{
+  "name": "DOGVLADY",
+  "symbol": "DOGVLADY",
+  "decimals": 18,
+  "description": "DOGVLADY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGVLADY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGVLADY",
+  "addresses": {
+    "8453": "0x0f0e072dc7ea57469945a19edecc02d1b1a67ee3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGVLADY",
+    "sanitizedSymbol": "DOGVLADY",
+    "created_at": "2024-12-10T01:10:13.557179",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1394175",
+    "lockerAddress": "0x3cf8640330e5b0FdF2313F07822347107e5859b2"
+  },
+  "clankerInfo": null
+}

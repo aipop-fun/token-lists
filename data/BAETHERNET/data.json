@@ -1,0 +1,22 @@
+{
+  "name": "baethernet",
+  "symbol": "baethernet",
+  "decimals": 18,
+  "description": "baethernet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baethernet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baethernet",
+  "addresses": {
+    "8453": "0x401a71213a0f54473c5fbd4dd8f5dfb0f8903bf7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baethernet",
+    "sanitizedSymbol": "BAETHERNET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135322",
+    "lockerAddress": "0x2e994587117c125BCB558E655e0B7f9c15Dd2193"
+  },
+  "clankerInfo": null
+}

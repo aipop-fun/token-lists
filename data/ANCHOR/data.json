@@ -1,0 +1,22 @@
+{
+  "name": "anchor",
+  "symbol": "anchor",
+  "decimals": 18,
+  "description": "anchor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anchor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anchor",
+  "addresses": {
+    "8453": "0x278d55a5971226689cada20dae84e65b8fa65a26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anchor",
+    "sanitizedSymbol": "ANCHOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9715323fFc62e09e7C79a44D181590a2227829E",
+    "lpNftId": "1320594",
+    "lockerAddress": "0x131Ba37d279cEEC031f7c117EC280b40A6edFE4a"
+  },
+  "clankerInfo": null
+}

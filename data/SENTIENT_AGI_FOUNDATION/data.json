@@ -1,0 +1,22 @@
+{
+  "name": "Sentient AGI Foundation",
+  "symbol": "Sentient AGI Foundation",
+  "decimals": 18,
+  "description": "Sentient AGI Foundation is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sentient%20AGI%20Foundation",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sentient AGI Foundation",
+  "addresses": {
+    "8453": "0x12f887fd89bf2af8e342e0f52a96f699e8446f06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sentient AGI Foundation",
+    "sanitizedSymbol": "SENTIENT_AGI_FOUNDATION",
+    "created_at": "2024-12-12T05:48:48.791698",
+    "deployer": "0x9ED140Cf23510914df77940CF2c725E6Cc0B58D8",
+    "lpNftId": "1429457",
+    "lockerAddress": "0x4838e267E6d2574B4837AE98F439A8a620366c7c"
+  },
+  "clankerInfo": null
+}

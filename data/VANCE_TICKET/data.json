@@ -1,0 +1,22 @@
+{
+  "name": "Vance Ticket",
+  "symbol": "Vance Ticket",
+  "decimals": 18,
+  "description": "Vance Ticket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vance%20Ticket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vance Ticket",
+  "addresses": {
+    "8453": "0x27ec675d6a0a1de6601041e76779e4b4c66cd83a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vance Ticket",
+    "sanitizedSymbol": "VANCE_TICKET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1149507",
+    "lockerAddress": "0x370E52f7303359f0D119B359ED9051A5968Da99b"
+  },
+  "clankerInfo": null
+}

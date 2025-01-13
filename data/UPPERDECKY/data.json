@@ -1,0 +1,22 @@
+{
+  "name": "upperdecky",
+  "symbol": "upperdecky",
+  "decimals": 18,
+  "description": "upperdecky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=upperdecky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "upperdecky",
+  "addresses": {
+    "8453": "0x244cec93780ab198211bc0b192489d1e01a6bbd5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "upperdecky",
+    "sanitizedSymbol": "UPPERDECKY",
+    "created_at": "2024-12-12T01:29:56.380731",
+    "deployer": "0x8060024090D6f73b9afe829bC19F7a7F1993ba4d",
+    "lpNftId": "1428435",
+    "lockerAddress": "0x50Ee2986a9D426a46517093b8ae6bda8c31d46B6"
+  },
+  "clankerInfo": null
+}

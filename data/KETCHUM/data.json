@@ -1,0 +1,22 @@
+{
+  "name": "ketchum",
+  "symbol": "ketchum",
+  "decimals": 18,
+  "description": "ketchum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ketchum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ketchum",
+  "addresses": {
+    "8453": "0x3afd4cfc21d57012986c4ebbba715003d6516017"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ketchum",
+    "sanitizedSymbol": "KETCHUM",
+    "created_at": "2024-12-12T01:09:38.038713",
+    "deployer": "0xd519D6eF16aD26b16Fd9485aF53BE503596cf2Ef",
+    "lpNftId": "1428342",
+    "lockerAddress": "0xd4B1E075481fC838D9e8214FFC8c70DD6D93310b"
+  },
+  "clankerInfo": null
+}

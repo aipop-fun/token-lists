@@ -1,0 +1,22 @@
+{
+  "name": "Clanker pump fun token",
+  "symbol": "Clanker pump fun token",
+  "decimals": 18,
+  "description": "Clanker pump fun token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20pump%20fun%20token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker pump fun token",
+  "addresses": {
+    "8453": "0x15de265e0a0aed1dba3a67099221ab9404acadd3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker pump fun token",
+    "sanitizedSymbol": "CLANKER_PUMP_FUN_TOKEN",
+    "created_at": "2024-12-09T05:16:24.945352",
+    "deployer": "0x095Ff8acD86E3C3F52bC4705540A0803ffbaEB37",
+    "lpNftId": "1383062",
+    "lockerAddress": "0xAc60c9D3b8Dc734F465C10E4a533ceaB6DE89534"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Chompers",
+  "symbol": "Chompers",
+  "decimals": 18,
+  "description": "Chompers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chompers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chompers",
+  "addresses": {
+    "8453": "0x1e76be3e614a0fefe93feb84947b2620d49f2fd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chompers",
+    "sanitizedSymbol": "CHOMPERS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5cfD392a348e921AD8Cb60b03010282E5d9A05F6",
+    "lpNftId": "1360294",
+    "lockerAddress": "0xD2fCc908ce9f13Ba6Cfb8D2C72f3FDdE53B7014F"
+  },
+  "clankerInfo": null
+}

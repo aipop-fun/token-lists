@@ -1,0 +1,22 @@
+{
+  "name": "Blanker",
+  "symbol": "Blanker",
+  "decimals": 18,
+  "description": "Blanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blanker",
+  "addresses": {
+    "8453": "0x3827127497370c149e4dc6534b1fbb43c01f1f1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blanker",
+    "sanitizedSymbol": "BLANKER_1",
+    "created_at": "2024-12-11T15:50:34.260726",
+    "deployer": "0x978F5a3Ed81D45eCE4020BA0887C4600E67d42d3",
+    "lpNftId": "1421294",
+    "lockerAddress": "0x7963882af3278254B4Fb9D5BA063BE52d378DCb6"
+  },
+  "clankerInfo": null
+}

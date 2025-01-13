@@ -1,0 +1,22 @@
+{
+  "name": "Fishecoin",
+  "symbol": "Fishecoin",
+  "decimals": 18,
+  "description": "Fishecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fishecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fishecoin",
+  "addresses": {
+    "8453": "0x3c08b35526fcf89f6beaa3bc78605f256f37145e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fishecoin",
+    "sanitizedSymbol": "FISHECOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x575c8A992EC082f3650432dE77c1CbBCCf568200",
+    "lpNftId": "1323465",
+    "lockerAddress": "0xfF8Cc59A848cEdB2ec31CA5D175a43ecCF790659"
+  },
+  "clankerInfo": null
+}

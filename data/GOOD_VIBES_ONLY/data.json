@@ -1,0 +1,22 @@
+{
+  "name": "Good Vibes Only",
+  "symbol": "Good Vibes Only",
+  "decimals": 18,
+  "description": "Good Vibes Only is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Good%20Vibes%20Only",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Good Vibes Only",
+  "addresses": {
+    "8453": "0x0dec6aa9c8627ab16956ccd8c852a76b3e117310"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Good Vibes Only",
+    "sanitizedSymbol": "GOOD_VIBES_ONLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1144078",
+    "lockerAddress": "0x5d3b15CA2b2E79C93CdbDF9C0FF5DA87C2Bcd598"
+  },
+  "clankerInfo": null
+}

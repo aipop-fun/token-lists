@@ -1,0 +1,22 @@
+{
+  "name": "Bunny Girls",
+  "symbol": "Bunny Girls",
+  "decimals": 18,
+  "description": "Bunny Girls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bunny%20Girls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bunny Girls",
+  "addresses": {
+    "8453": "0x0a0ac77238e2fbe2125756b77dc1e0c13c982b2c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bunny Girls",
+    "sanitizedSymbol": "BUNNY_GIRLS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1325038",
+    "lockerAddress": "0x960E3e808Fd6f2fbC82c85F8eE06a67bdC9288ad"
+  },
+  "clankerInfo": null
+}

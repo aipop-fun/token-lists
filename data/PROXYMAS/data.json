@@ -1,0 +1,22 @@
+{
+  "name": "Proxymas",
+  "symbol": "Proxymas",
+  "decimals": 18,
+  "description": "Proxymas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Proxymas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Proxymas",
+  "addresses": {
+    "8453": "0x020db5491c628fd8eb707ed90be6d281a153d5d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Proxymas",
+    "sanitizedSymbol": "PROXYMAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6A850e6693C41Dc33eaC2a7a1A9bAFA6F0F71A85",
+    "lpNftId": "1327359",
+    "lockerAddress": "0xf7bdA8467460025E60C3E8dAC48aD3E18393BeaA"
+  },
+  "clankerInfo": null
+}

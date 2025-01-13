@@ -1,0 +1,22 @@
+{
+  "name": "Anon Bitcoin",
+  "symbol": "Anon Bitcoin",
+  "decimals": 18,
+  "description": "Anon Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Bitcoin",
+  "addresses": {
+    "8453": "0x11c710575329a2f3bfdd3bd84c82212550db98c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Bitcoin",
+    "sanitizedSymbol": "ANON_BITCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223253",
+    "lockerAddress": "0x959EddcEd372f5d9FEaD83Aa07006941a411d87f"
+  },
+  "clankerInfo": null
+}

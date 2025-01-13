@@ -1,0 +1,22 @@
+{
+  "name": "VitaLICK",
+  "symbol": "VitaLICK",
+  "decimals": 18,
+  "description": "VitaLICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VitaLICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VitaLICK",
+  "addresses": {
+    "8453": "0x237fe7e44639bccb461f81d673d20f50fe766449"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VitaLICK",
+    "sanitizedSymbol": "VITALICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF29a53cCA8Be4cCC45a5406a62107BF40ABeEA4E",
+    "lpNftId": "1319030",
+    "lockerAddress": "0x1d6083ECA024348e94dcdd264E3E44b318F78a84"
+  },
+  "clankerInfo": null
+}

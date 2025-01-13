@@ -1,0 +1,22 @@
+{
+  "name": "ZenQuest X-Factor",
+  "symbol": "ZenQuest X-Factor",
+  "decimals": 18,
+  "description": "ZenQuest X-Factor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZenQuest%20X-Factor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZenQuest X-Factor",
+  "addresses": {
+    "8453": "0x363620c68c833968cb61c9cda66b176685ca788e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZenQuest X-Factor",
+    "sanitizedSymbol": "ZENQUEST_X_FACTOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193253",
+    "lockerAddress": "0x9D0E6F81E020da7ec61E81276a0c4e1Ff969689C"
+  },
+  "clankerInfo": null
+}

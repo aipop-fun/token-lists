@@ -1,0 +1,22 @@
+{
+  "name": "MrClanker",
+  "symbol": "MrClanker",
+  "decimals": 18,
+  "description": "MrClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MrClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MrClanker",
+  "addresses": {
+    "8453": "0x1e3812dbf9f21df8df213bcdce35038c52aa09bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MrClanker",
+    "sanitizedSymbol": "MRCLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x13C2BF12304E74deB34669CE89c124924358B795",
+    "lpNftId": "1329024",
+    "lockerAddress": "0xd84417C5e5932fbA30109b02E3a4648c1D8F469D"
+  },
+  "clankerInfo": null
+}

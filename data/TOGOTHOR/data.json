@@ -1,0 +1,22 @@
+{
+  "name": "togothor",
+  "symbol": "togothor",
+  "decimals": 18,
+  "description": "togothor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=togothor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "togothor",
+  "addresses": {
+    "8453": "0x30282af52adce0863620f067974508d71cc9844d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "togothor",
+    "sanitizedSymbol": "TOGOTHOR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2C9A77cD8DE055fFDbe8721431A7Dd5064A480b0",
+    "lpNftId": "1282952",
+    "lockerAddress": "0x7f8eBaBCbcD3a60acaBb361FCae4BF00E34b2B55"
+  },
+  "clankerInfo": null
+}

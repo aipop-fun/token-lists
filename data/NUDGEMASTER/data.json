@@ -1,0 +1,22 @@
+{
+  "name": "Nudgemaster",
+  "symbol": "Nudgemaster",
+  "decimals": 18,
+  "description": "Nudgemaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nudgemaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nudgemaster",
+  "addresses": {
+    "8453": "0x3d6631ea5059aa6d65fa5910d32c7c70278a8365"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nudgemaster",
+    "sanitizedSymbol": "NUDGEMASTER",
+    "created_at": "2024-12-10T23:39:35.519443",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408465",
+    "lockerAddress": "0xd9DA61d82Bf9075396a40781e749D7AdfFabb146"
+  },
+  "clankerInfo": null
+}

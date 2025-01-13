@@ -1,0 +1,22 @@
+{
+  "name": "Pig Ninja",
+  "symbol": "Pig Ninja",
+  "decimals": 18,
+  "description": "Pig Ninja is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pig%20Ninja",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pig Ninja",
+  "addresses": {
+    "8453": "0x3959f41e0bb95e52fff36c9b4dad12dae99f23a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pig Ninja",
+    "sanitizedSymbol": "PIG_NINJA",
+    "created_at": "2024-12-09T05:33:56.176348",
+    "deployer": "0xf06D1aDE3C5EB057B95CEd418072139673a58F73",
+    "lpNftId": "1383212",
+    "lockerAddress": "0x5034b92bEF8eD1B92510ea8492410278F7c5A07E"
+  },
+  "clankerInfo": null
+}

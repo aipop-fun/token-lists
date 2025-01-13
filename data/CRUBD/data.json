@@ -1,0 +1,22 @@
+{
+  "name": "CrUbd",
+  "symbol": "CrUbd",
+  "decimals": 18,
+  "description": "CrUbd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CrUbd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CrUbd",
+  "addresses": {
+    "8453": "0x2e6e08af43fbe8d60b10a34ee1dead6104826384"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CrUbd",
+    "sanitizedSymbol": "CRUBD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa5C4A5210eF5769650c67bF10730E56300Ed9a79",
+    "lpNftId": "1318120",
+    "lockerAddress": "0x6Da370Cc7185A44A49B4a768d7163c6B992a0633"
+  },
+  "clankerInfo": null
+}

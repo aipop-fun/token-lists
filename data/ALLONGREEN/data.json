@@ -1,0 +1,22 @@
+{
+  "name": "AllOnGreen",
+  "symbol": "AllOnGreen",
+  "decimals": 18,
+  "description": "AllOnGreen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AllOnGreen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AllOnGreen",
+  "addresses": {
+    "8453": "0x3620fbfb89395aeca7bc092e57588f9d635be166"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AllOnGreen",
+    "sanitizedSymbol": "ALLONGREEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226963",
+    "lockerAddress": "0x4b999245d9064705D22d5e17e50B2c14CFeE70AD"
+  },
+  "clankerInfo": null
+}

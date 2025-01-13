@@ -1,0 +1,22 @@
+{
+  "name": "Russia",
+  "symbol": "Russia",
+  "decimals": 18,
+  "description": "Russia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Russia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Russia",
+  "addresses": {
+    "8453": "0x0828f43e3ddce6813c788d48254dc0e34b95bb54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Russia",
+    "sanitizedSymbol": "RUSSIA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xca2EEdBac1b27Ab0592419aF45285Fe661287c06",
+    "lpNftId": "1253413",
+    "lockerAddress": "0x9461152c7330B6aD2C65cD338dcE05BD69997542"
+  },
+  "clankerInfo": null
+}

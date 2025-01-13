@@ -1,0 +1,22 @@
+{
+  "name": "bigSplash",
+  "symbol": "bigSplash",
+  "decimals": 18,
+  "description": "bigSplash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bigSplash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bigSplash",
+  "addresses": {
+    "8453": "0x3d1e465c57a34d0baa071a324df7414ee7d4ddb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bigSplash",
+    "sanitizedSymbol": "BIGSPLASH",
+    "created_at": "2024-12-12T22:17:15.036216",
+    "deployer": "0x6666dd3E374A62277E3D7083ec870e23122ccA03",
+    "lpNftId": "1444471",
+    "lockerAddress": "0xE97bF64ebD0154103C048c12C26D032e9b240E92"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SILVER SONIC",
+  "symbol": "SILVER SONIC",
+  "decimals": 18,
+  "description": "SILVER SONIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SILVER%20SONIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SILVER SONIC",
+  "addresses": {
+    "8453": "0x0b47870e778aa8230bdf6fb8be451377fcec17bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SILVER SONIC",
+    "sanitizedSymbol": "SILVER_SONIC",
+    "created_at": "2024-12-11T22:52:53.387207",
+    "deployer": "0xc6773d25F31b1a7FE4E4C97B39C10D984F39c069",
+    "lpNftId": "1427494",
+    "lockerAddress": "0x34232BA59aD3338073f169C821f37142dbb0971a"
+  },
+  "clankerInfo": null
+}

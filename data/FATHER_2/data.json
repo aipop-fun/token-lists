@@ -1,0 +1,22 @@
+{
+  "name": "FATHER",
+  "symbol": "FATHER",
+  "decimals": 18,
+  "description": "FATHER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FATHER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FATHER",
+  "addresses": {
+    "8453": "0x0a8d0e8795acfd204f1c6d14ef8831390ef04c5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FATHER",
+    "sanitizedSymbol": "FATHER_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0eCF20D42FA2d5498A13e637418098124Ab56B7e",
+    "lpNftId": "1332332",
+    "lockerAddress": "0xC2555611F02b4C4D021c3D9780CA215F928f2814"
+  },
+  "clankerInfo": null
+}

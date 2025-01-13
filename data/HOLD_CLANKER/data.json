@@ -1,0 +1,22 @@
+{
+  "name": "Hold Clanker",
+  "symbol": "Hold Clanker",
+  "decimals": 18,
+  "description": "Hold Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hold%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hold Clanker",
+  "addresses": {
+    "8453": "0x0a25a22951078e18d7146a19cdf1be5b14c4d7bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hold Clanker",
+    "sanitizedSymbol": "HOLD_CLANKER",
+    "created_at": "2024-12-11T12:53:07.454165",
+    "deployer": "0x87ce1820725C5484674c6FD152460a801B45B9Fc",
+    "lpNftId": "1418559",
+    "lockerAddress": "0x36b1519414681a728264B0023bb69eBB8eBD6046"
+  },
+  "clankerInfo": null
+}

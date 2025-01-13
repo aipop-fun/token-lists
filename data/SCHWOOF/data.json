@@ -1,0 +1,22 @@
+{
+  "name": "SCHWOOF",
+  "symbol": "SCHWOOF",
+  "decimals": 18,
+  "description": "SCHWOOF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCHWOOF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCHWOOF",
+  "addresses": {
+    "8453": "0x024e3fea060a6324f007bf4b1dd06bf73b25234d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCHWOOF",
+    "sanitizedSymbol": "SCHWOOF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226787",
+    "lockerAddress": "0xC2bDC2255BebF43482669cb4EF29f902131a243b"
+  },
+  "clankerInfo": null
+}

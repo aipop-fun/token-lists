@@ -1,0 +1,22 @@
+{
+  "name": "Bun",
+  "symbol": "Bun",
+  "decimals": 18,
+  "description": "Bun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bun",
+  "addresses": {
+    "8453": "0x220b7e02412c4a7bec11231d55b8df9ddfab704c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bun",
+    "sanitizedSymbol": "BUN",
+    "created_at": "2024-12-12T15:58:42.249968",
+    "deployer": "0x3E9C4F2Dcaa79381b723e7FFd38457778A133fE6",
+    "lpNftId": "1437699",
+    "lockerAddress": "0x1da98747Bc593C4055ccEF38C8588045BFBdDb84"
+  },
+  "clankerInfo": null
+}

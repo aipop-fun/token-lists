@@ -1,0 +1,22 @@
+{
+  "name": "Melancholy Moon",
+  "symbol": "Melancholy Moon",
+  "decimals": 18,
+  "description": "Melancholy Moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Melancholy%20Moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Melancholy Moon",
+  "addresses": {
+    "8453": "0x00b536b11045c6a5b2d9941f74ab67337c4cf204"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Melancholy Moon",
+    "sanitizedSymbol": "MELANCHOLY_MOON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3B120B802081585c966e30f1FD116A0941461358",
+    "lpNftId": "1362264",
+    "lockerAddress": "0xD6c1717Efca2Eb644c2A412e01D49b12f416d3d1"
+  },
+  "clankerInfo": null
+}

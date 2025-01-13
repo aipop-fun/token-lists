@@ -1,0 +1,22 @@
+{
+  "name": "new-token",
+  "symbol": "new-token",
+  "decimals": 18,
+  "description": "new-token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=new-token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "new-token",
+  "addresses": {
+    "8453": "0x09384d03a24b67f284603f348c8aa7ea08a82934"
+  },
+  "tokenInfo": {
+    "originalSymbol": "new-token",
+    "sanitizedSymbol": "NEW_TOKEN_1",
+    "created_at": "2024-12-11T12:28:31.772365",
+    "deployer": "0xd9f6cCc5B69FE06A5c6c15E533b681aCC3DBBd65",
+    "lpNftId": "1418035",
+    "lockerAddress": "0x86C178e553E88ED53028B53D99059D83F4f5894D"
+  },
+  "clankerInfo": null
+}

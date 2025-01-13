@@ -1,0 +1,22 @@
+{
+  "name": "roll-up",
+  "symbol": "roll-up",
+  "decimals": 18,
+  "description": "roll-up is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=roll-up",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "roll-up",
+  "addresses": {
+    "8453": "0x3806ae9d7ac35c0c5c24dc15a20c7510aa9b143f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "roll-up",
+    "sanitizedSymbol": "ROLL_UP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x308FeCdD63233dB3745A2c10c9489CDd44A26e36",
+    "lpNftId": "1314134",
+    "lockerAddress": "0x0a9767C268C881A982770314d84cf141C94E5a51"
+  },
+  "clankerInfo": null
+}

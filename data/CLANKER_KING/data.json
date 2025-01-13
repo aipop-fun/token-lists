@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER KING",
+  "symbol": "CLANKER KING",
+  "decimals": 18,
+  "description": "CLANKER KING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20KING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER KING",
+  "addresses": {
+    "8453": "0x11abb0815e97324764298da2c55dcb73d6349340"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER KING",
+    "sanitizedSymbol": "CLANKER_KING",
+    "created_at": "2024-12-10T14:12:45.778863",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401723",
+    "lockerAddress": "0xB74a54893624f46efaa09F21cb1fc22da0299bC6"
+  },
+  "clankerInfo": null
+}

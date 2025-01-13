@@ -1,0 +1,22 @@
+{
+  "name": "SantaSackToken",
+  "symbol": "SantaSackToken",
+  "decimals": 18,
+  "description": "SantaSackToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaSackToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaSackToken",
+  "addresses": {
+    "8453": "0x10636323a01d5beb12bad6a1166d561f25642796"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaSackToken",
+    "sanitizedSymbol": "SANTASACKTOKEN",
+    "created_at": "2024-12-10T11:26:23.782656",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1400210",
+    "lockerAddress": "0x1D0C77D2C5AB338CcDf6a73900C3E2CFd5E12DA6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BabyElonMask",
+  "symbol": "BabyElonMask",
+  "decimals": 18,
+  "description": "BabyElonMask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyElonMask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyElonMask",
+  "addresses": {
+    "8453": "0x10640058708e1168cae66ef2a9529c26df9f59c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyElonMask",
+    "sanitizedSymbol": "BABYELONMASK",
+    "created_at": "2024-12-12T13:42:45.555634",
+    "deployer": "0xC0338cC8307B2309c2A7f5bC020BB5477A629e6C",
+    "lpNftId": "1435282",
+    "lockerAddress": "0xf306D66aBf1016b5f093D57Bb76B48858FE87Fe3"
+  },
+  "clankerInfo": null
+}

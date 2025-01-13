@@ -1,0 +1,22 @@
+{
+  "name": "NICK LAYER",
+  "symbol": "NICK LAYER",
+  "decimals": 18,
+  "description": "NICK LAYER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NICK%20LAYER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NICK LAYER",
+  "addresses": {
+    "8453": "0x0eeced79ef0368370487dac3b2b46043c68f91ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NICK LAYER",
+    "sanitizedSymbol": "NICK_LAYER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1235137",
+    "lockerAddress": "0x64A129D465150784E2822A18ca7394FC4b873433"
+  },
+  "clankerInfo": null
+}

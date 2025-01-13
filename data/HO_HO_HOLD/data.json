@@ -1,0 +1,22 @@
+{
+  "name": "Ho Ho Hold",
+  "symbol": "Ho Ho Hold",
+  "decimals": 18,
+  "description": "Ho Ho Hold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ho%20Ho%20Hold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ho Ho Hold",
+  "addresses": {
+    "8453": "0x26ddb17b435fa4f0b1576d6b1fdbea19deb8774f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ho Ho Hold",
+    "sanitizedSymbol": "HO_HO_HOLD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1329999",
+    "lockerAddress": "0x117427Eb577271b400b6EbE1aC6f3bd78601d5F0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "This Coin will 1000x",
+  "symbol": "This Coin will 1000x",
+  "decimals": 18,
+  "description": "This Coin will 1000x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=This%20Coin%20will%201000x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "This Coin will 1000x",
+  "addresses": {
+    "8453": "0x10a163f2edf795ddfd77424cd8e4f78ddf380808"
+  },
+  "tokenInfo": {
+    "originalSymbol": "This Coin will 1000x",
+    "sanitizedSymbol": "THIS_COIN_WILL_1000X",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1331057",
+    "lockerAddress": "0xe4FAD7AF38F34361225f99cC529B68dC05815a26"
+  },
+  "clankerInfo": null
+}

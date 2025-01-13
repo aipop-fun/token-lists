@@ -1,0 +1,22 @@
+{
+  "name": "CRANK",
+  "symbol": "CRANK",
+  "decimals": 18,
+  "description": "CRANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRANK",
+  "addresses": {
+    "8453": "0x057f5708ff7854d2584273183d5b53b62a09182c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRANK",
+    "sanitizedSymbol": "CRANK_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8069EEA3E3e125752425a954DCee502fe33e765B",
+    "lpNftId": "1322135",
+    "lockerAddress": "0x3a0A407BEd3e57BBf34255F377Ca8D1D055AcF18"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Vendee",
+  "symbol": "Vendee",
+  "decimals": 18,
+  "description": "Vendee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vendee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vendee",
+  "addresses": {
+    "8453": "0x329a6dd482fe300ee123c437e72d290724fb0ed5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vendee",
+    "sanitizedSymbol": "VENDEE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217852",
+    "lockerAddress": "0x23C715441f2A6862a87473c83BcF00A7E170cb26"
+  },
+  "clankerInfo": null
+}

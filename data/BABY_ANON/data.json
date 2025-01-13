@@ -1,0 +1,22 @@
+{
+  "name": "BABY ANON",
+  "symbol": "BABY ANON",
+  "decimals": 18,
+  "description": "BABY ANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20ANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY ANON",
+  "addresses": {
+    "8453": "0x33c035de066e8062719a73fbf07d4dc71136183d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY ANON",
+    "sanitizedSymbol": "BABY_ANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1200652",
+    "lockerAddress": "0x503E69D8F9fd5E2E1AfF24CBF2a760c4Ae94C986"
+  },
+  "clankerInfo": null
+}

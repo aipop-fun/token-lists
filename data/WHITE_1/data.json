@@ -1,0 +1,22 @@
+{
+  "name": "White",
+  "symbol": "White",
+  "decimals": 18,
+  "description": "White is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=White",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "White",
+  "addresses": {
+    "8453": "0x1ed4bd39fdeb27b84b958a640a26eb1ad7327a90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "White",
+    "sanitizedSymbol": "WHITE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x15420357f53Be7E0a76DEB6EdB2f6b111CA79230",
+    "lpNftId": "1285136",
+    "lockerAddress": "0xD496E2d6D49392E62e746D62ed60fAd3327651C8"
+  },
+  "clankerInfo": null
+}

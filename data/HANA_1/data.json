@@ -1,0 +1,22 @@
+{
+  "name": "HANA",
+  "symbol": "HANA",
+  "decimals": 18,
+  "description": "HANA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HANA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HANA",
+  "addresses": {
+    "8453": "0x37999aa393dec43a703e1c7ad127355d78d9ed78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HANA",
+    "sanitizedSymbol": "HANA_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x801Be8B7ca80dB812B874Cb31Fb3359B635Fd961",
+    "lpNftId": "1266031",
+    "lockerAddress": "0x92B8c043A6f8cff15281e45Ae8878efeEF48532b"
+  },
+  "clankerInfo": null
+}

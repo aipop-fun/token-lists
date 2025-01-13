@@ -1,0 +1,22 @@
+{
+  "name": "Fortune",
+  "symbol": "Fortune",
+  "decimals": 18,
+  "description": "Fortune is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fortune",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fortune",
+  "addresses": {
+    "8453": "0x24c634d1ef50742ca53f7d4b232a1ac4f157216f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fortune",
+    "sanitizedSymbol": "FORTUNE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC6397381351045cBcbF33Ac09ddfBc1A1Ddd747C",
+    "lpNftId": "1267490",
+    "lockerAddress": "0x38980aBA75171EBC63BD59FAd4429d4A9Da90c6C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fakebots",
+  "symbol": "Fakebots",
+  "decimals": 18,
+  "description": "Fakebots is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fakebots",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fakebots",
+  "addresses": {
+    "8453": "0x38d9e893da5c69172ac08ac509a90b31db199cc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fakebots",
+    "sanitizedSymbol": "FAKEBOTS",
+    "created_at": "2024-12-11T08:14:24.800505",
+    "deployer": "0xE8A24C4f79f61A6C0943DA689e7D60E53f2a2FCc",
+    "lpNftId": "1414726",
+    "lockerAddress": "0x26eB2369698F82790C359b5164DEd7197ca788e5"
+  },
+  "clankerInfo": null
+}

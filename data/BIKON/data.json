@@ -1,0 +1,22 @@
+{
+  "name": "bikon",
+  "symbol": "bikon",
+  "decimals": 18,
+  "description": "bikon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bikon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bikon",
+  "addresses": {
+    "8453": "0x240a51e2eab555bc678cb0364470b607c52ee66c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bikon",
+    "sanitizedSymbol": "BIKON",
+    "created_at": "2024-12-10T14:13:06.97845",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401726",
+    "lockerAddress": "0xf36b38081FdE1E8366A7335a566613f566b11298"
+  },
+  "clankerInfo": null
+}

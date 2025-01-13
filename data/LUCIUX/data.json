@@ -1,0 +1,22 @@
+{
+  "name": "LUCIUX",
+  "symbol": "LUCIUX",
+  "decimals": 18,
+  "description": "LUCIUX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LUCIUX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LUCIUX",
+  "addresses": {
+    "8453": "0x01e7fef999dc5779530e5c38a4a6c859ef972eee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LUCIUX",
+    "sanitizedSymbol": "LUCIUX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84037f0D36C6BD21fFD9b6c11f671ba100bc9bCf",
+    "lpNftId": "1284287",
+    "lockerAddress": "0x16935847D936901F0DD342fd32273eFa43768d7c"
+  },
+  "clankerInfo": null
+}

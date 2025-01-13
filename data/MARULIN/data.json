@@ -1,0 +1,22 @@
+{
+  "name": "marulin",
+  "symbol": "marulin",
+  "decimals": 18,
+  "description": "marulin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=marulin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "marulin",
+  "addresses": {
+    "8453": "0x3b25a77b3feea5274af2e54a2625625f3b8f57bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "marulin",
+    "sanitizedSymbol": "MARULIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1333253",
+    "lockerAddress": "0x5D573B69bD14a0DEBfcfEF9A7b6A09e275f2f340"
+  },
+  "clankerInfo": null
+}

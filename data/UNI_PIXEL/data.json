@@ -1,0 +1,22 @@
+{
+  "name": "UNI PIXEL",
+  "symbol": "UNI PIXEL",
+  "decimals": 18,
+  "description": "UNI PIXEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNI%20PIXEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNI PIXEL",
+  "addresses": {
+    "8453": "0x06dfd23f06aaa11c87dd2f2b7c59b9b73e55fc07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNI PIXEL",
+    "sanitizedSymbol": "UNI_PIXEL",
+    "created_at": "2024-12-09T03:07:35.209657",
+    "deployer": "0x7B8d4aE31697877F3F96aBa5d2D61Ec217f2a7D0",
+    "lpNftId": "1379586",
+    "lockerAddress": "0xe9623f2791237BF6327eE9D3Bd6D09B3FfB9F7Ad"
+  },
+  "clankerInfo": null
+}

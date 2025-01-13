@@ -1,0 +1,22 @@
+{
+  "name": "monkey",
+  "symbol": "monkey",
+  "decimals": 18,
+  "description": "monkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=monkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "monkey",
+  "addresses": {
+    "8453": "0x1aff6414c61c8577dd1738660e2e62e71ea2de9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "monkey",
+    "sanitizedSymbol": "MONKEY",
+    "created_at": "2024-12-12T15:09:41.066989",
+    "deployer": "0x849996677f339617487Ee8C4b134200D1a1D9522",
+    "lpNftId": "1436772",
+    "lockerAddress": "0x04453Aa46B9DD930Cab4c2dD70C171f9F90b8611"
+  },
+  "clankerInfo": null
+}

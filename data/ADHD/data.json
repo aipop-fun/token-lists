@@ -1,0 +1,22 @@
+{
+  "name": "ADHD",
+  "symbol": "ADHD",
+  "decimals": 18,
+  "description": "ADHD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ADHD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ADHD",
+  "addresses": {
+    "8453": "0x4089ad05e160cdd31587829669e243c0e5208e83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ADHD",
+    "sanitizedSymbol": "ADHD",
+    "created_at": "2024-12-09T03:33:16.301609",
+    "deployer": "0x0D3227B7384B80a0616807ec7Ff4e66843CEE426",
+    "lpNftId": "1380090",
+    "lockerAddress": "0xfFCb67cdf3803d05DBD74180c6A9281A255F59bB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Boku No Pico",
+  "symbol": "Boku No Pico",
+  "decimals": 18,
+  "description": "Boku No Pico is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boku%20No%20Pico",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boku No Pico",
+  "addresses": {
+    "8453": "0x40f6635c83e327011de840fe95788e6dba643f2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boku No Pico",
+    "sanitizedSymbol": "BOKU_NO_PICO_1",
+    "created_at": "2024-12-12T04:57:43.30438",
+    "deployer": "0x7443aBD300fc3B6FdE62AAC21aCAB0b9D6D2120f",
+    "lpNftId": "1429270",
+    "lockerAddress": "0xe723BE9e243A8e1fF395A20AFFB2f3000D820ffb"
+  },
+  "clankerInfo": null
+}

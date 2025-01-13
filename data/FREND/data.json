@@ -1,0 +1,22 @@
+{
+  "name": "frend",
+  "symbol": "frend",
+  "decimals": 18,
+  "description": "frend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=frend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "frend",
+  "addresses": {
+    "8453": "0x3f890337ccf70a2cb14d2f3d7ea9f8974cec05c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "frend",
+    "sanitizedSymbol": "FREND",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xcBd28aBB72Ea2a4edEbB2bE5D8BcEd06329D83b1",
+    "lpNftId": "1230254",
+    "lockerAddress": "0x0fc12087D52A55917d97e564a8b8413de41726e3"
+  },
+  "clankerInfo": null
+}

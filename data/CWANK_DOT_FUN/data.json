@@ -1,0 +1,22 @@
+{
+  "name": "CWANK DOT FUN",
+  "symbol": "CWANK DOT FUN",
+  "decimals": 18,
+  "description": "CWANK DOT FUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CWANK%20DOT%20FUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CWANK DOT FUN",
+  "addresses": {
+    "8453": "0x41f0fb36b2c695e5e6fc70993ee9cd9fb88408d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CWANK DOT FUN",
+    "sanitizedSymbol": "CWANK_DOT_FUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x5159aE3742346400A9d76edaDa749255e77D6f50",
+    "lpNftId": "1250483",
+    "lockerAddress": "0xAef87329A2DB2320F3C077Bb2DaAfef959D31664"
+  },
+  "clankerInfo": null
+}

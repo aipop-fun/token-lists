@@ -1,0 +1,22 @@
+{
+  "name": "Proton",
+  "symbol": "Proton",
+  "decimals": 18,
+  "description": "Proton is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Proton",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Proton",
+  "addresses": {
+    "8453": "0x321a656464f3648d24a571e94b96da9419c832ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Proton",
+    "sanitizedSymbol": "PROTON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222334",
+    "lockerAddress": "0xdC2B01e3E28Ed916c840bBfB1d2002A93DB9c6d0"
+  },
+  "clankerInfo": null
+}

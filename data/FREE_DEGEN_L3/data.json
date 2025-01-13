@@ -1,0 +1,22 @@
+{
+  "name": "FREE DEGEN L3",
+  "symbol": "FREE DEGEN L3",
+  "decimals": 18,
+  "description": "FREE DEGEN L3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FREE%20DEGEN%20L3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FREE DEGEN L3",
+  "addresses": {
+    "8453": "0x13010d76f8c88d2c46ed5b5aa7a3890a91deebb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FREE DEGEN L3",
+    "sanitizedSymbol": "FREE_DEGEN_L3",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124973",
+    "lockerAddress": "0x9254F2e310Ab8A86832C1fA64b754E8d3389d9D2"
+  },
+  "clankerInfo": null
+}

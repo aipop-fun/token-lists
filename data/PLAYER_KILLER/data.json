@@ -1,0 +1,22 @@
+{
+  "name": "Player Killer",
+  "symbol": "Player Killer",
+  "decimals": 18,
+  "description": "Player Killer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Player%20Killer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Player Killer",
+  "addresses": {
+    "8453": "0x1066b595bcc9fb39e88d9fe6247385a6e4de7de7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Player Killer",
+    "sanitizedSymbol": "PLAYER_KILLER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaC1C4Bed1c7C71Fd3aFDe11e2bd4F18D969C843d",
+    "lpNftId": "1320011",
+    "lockerAddress": "0x499F1315fACE6073C01a61B0448E38BAea1a59Ed"
+  },
+  "clankerInfo": null
+}

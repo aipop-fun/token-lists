@@ -1,0 +1,22 @@
+{
+  "name": "CULTAi",
+  "symbol": "CULTAi",
+  "decimals": 18,
+  "description": "CULTAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CULTAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CULTAi",
+  "addresses": {
+    "8453": "0x276620eaf564f6eb653246e557d21d096df6dcd1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CULTAi",
+    "sanitizedSymbol": "CULTAI",
+    "created_at": "2024-12-09T05:45:39.748083",
+    "deployer": "0x73D1aA788C87CB2EF0843a8d638D7399b1608A65",
+    "lpNftId": "1383338",
+    "lockerAddress": "0xb9F0483372a8b3E8DC957b9DE6038ffbB0f992b5"
+  },
+  "clankerInfo": null
+}

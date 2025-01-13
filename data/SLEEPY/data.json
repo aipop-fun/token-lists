@@ -1,0 +1,22 @@
+{
+  "name": "sleepy",
+  "symbol": "sleepy",
+  "decimals": 18,
+  "description": "sleepy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sleepy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sleepy",
+  "addresses": {
+    "8453": "0x3650b8b0bfa0aac4ae66c995c6cc5cb33234e54a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sleepy",
+    "sanitizedSymbol": "SLEEPY",
+    "created_at": "2024-12-09T14:01:16.16071",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1387734",
+    "lockerAddress": "0x8600E1C94d682F4bF8F96a4C2a767CfDd67EE2ad"
+  },
+  "clankerInfo": null
+}

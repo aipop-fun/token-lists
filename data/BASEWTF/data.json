@@ -1,0 +1,22 @@
+{
+  "name": "BASEWTF",
+  "symbol": "BASEWTF",
+  "decimals": 18,
+  "description": "BASEWTF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASEWTF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASEWTF",
+  "addresses": {
+    "8453": "0x0426034e868bd3a462df4aa42d2a4c58ba7bd4ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASEWTF",
+    "sanitizedSymbol": "BASEWTF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219419",
+    "lockerAddress": "0xa911b747B5952DE72aA8409C3c7B74a2b167A358"
+  },
+  "clankerInfo": null
+}

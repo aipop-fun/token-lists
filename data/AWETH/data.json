@@ -1,0 +1,22 @@
+{
+  "name": "AWETH",
+  "symbol": "AWETH",
+  "decimals": 18,
+  "description": "AWETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AWETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AWETH",
+  "addresses": {
+    "8453": "0x1ddb6260b0381472bd9d75bb526db33bc96b520f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AWETH",
+    "sanitizedSymbol": "AWETH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3e4194FCa3c9F8a47f112Faa8Ff7aBD986B54050",
+    "lpNftId": "1329161",
+    "lockerAddress": "0x85F43004869931e026201B586A0fE41C9f524F24"
+  },
+  "clankerInfo": null
+}

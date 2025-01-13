@@ -1,0 +1,22 @@
+{
+  "name": "Virtual Token",
+  "symbol": "Virtual Token",
+  "decimals": 18,
+  "description": "Virtual Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Virtual%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Virtual Token",
+  "addresses": {
+    "8453": "0x1a1a996045f83354c4c94d8b839f93c0dade1181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Virtual Token",
+    "sanitizedSymbol": "VIRTUAL_TOKEN",
+    "created_at": "2024-12-12T16:45:20.423495",
+    "deployer": "0x755F2fe4beAD1BeFE9E1DB008cd2D9b0C0E12DC7",
+    "lpNftId": "1438836",
+    "lockerAddress": "0x15c889c4150a4F06296126BDF5074a8054675702"
+  },
+  "clankerInfo": null
+}

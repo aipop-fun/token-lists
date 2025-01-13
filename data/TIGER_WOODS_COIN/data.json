@@ -1,0 +1,22 @@
+{
+  "name": "Tiger Woods Coin",
+  "symbol": "Tiger Woods Coin",
+  "decimals": 18,
+  "description": "Tiger Woods Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiger%20Woods%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiger Woods Coin",
+  "addresses": {
+    "8453": "0x0e063765ea5ebac88e64c372f20358cbe9df4e05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiger Woods Coin",
+    "sanitizedSymbol": "TIGER_WOODS_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166560",
+    "lockerAddress": "0xf7FFce91dbC4251ff5cB81ed85E411de5A4eA7be"
+  },
+  "clankerInfo": null
+}

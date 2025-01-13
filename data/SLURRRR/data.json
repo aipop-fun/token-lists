@@ -1,0 +1,22 @@
+{
+  "name": "slurrrr",
+  "symbol": "slurrrr",
+  "decimals": 18,
+  "description": "slurrrr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slurrrr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slurrrr",
+  "addresses": {
+    "8453": "0x3e0b392efb583547915c445a42185ececb5a74a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slurrrr",
+    "sanitizedSymbol": "SLURRRR",
+    "created_at": "2024-12-12T07:25:30.021287",
+    "deployer": "0x2A7bcc1906e3E2058e5c4c2c53a9dA4C83207a10",
+    "lpNftId": "1429741",
+    "lockerAddress": "0x5823F6e4545Ca3fa4528C490bAF664262978938F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PTLarry",
+  "symbol": "PTLarry",
+  "decimals": 18,
+  "description": "PTLarry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PTLarry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PTLarry",
+  "addresses": {
+    "8453": "0x379dbadf6634c1c8da555f12baebd119931eef72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PTLarry",
+    "sanitizedSymbol": "PTLARRY",
+    "created_at": "2024-12-11T17:14:38.238878",
+    "deployer": "0xE3A493E7B368d62ef3338D6cA97e0BA9A94DDc62",
+    "lpNftId": "1422359",
+    "lockerAddress": "0x7A0F1AFD96f23B64cd7057e3E25eEcdFE085e19D"
+  },
+  "clankerInfo": null
+}

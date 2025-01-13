@@ -1,0 +1,22 @@
+{
+  "name": "WEEKEND DAY",
+  "symbol": "WEEKEND DAY",
+  "decimals": 18,
+  "description": "WEEKEND DAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEEKEND%20DAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEEKEND DAY",
+  "addresses": {
+    "8453": "0x336b49a78c2aec708c02c06fe5e99371bcd11fd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEEKEND DAY",
+    "sanitizedSymbol": "WEEKEND_DAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220735",
+    "lockerAddress": "0x328802F0496154Cef7Efe2506DcaE3FFCaD1ff91"
+  },
+  "clankerInfo": null
+}

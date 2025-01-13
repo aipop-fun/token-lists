@@ -1,0 +1,22 @@
+{
+  "name": "clank trump",
+  "symbol": "clank trump",
+  "decimals": 18,
+  "description": "clank trump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clank%20trump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clank trump",
+  "addresses": {
+    "8453": "0x05c804b42ba54716a3bd446220cccaf266105461"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clank trump",
+    "sanitizedSymbol": "CLANK_TRUMP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x029f4057F3A615108781ef907f9872A2983b4206",
+    "lpNftId": "1309318",
+    "lockerAddress": "0xcF9B8D64941E351F1Ac194403b50faff6874766d"
+  },
+  "clankerInfo": null
+}

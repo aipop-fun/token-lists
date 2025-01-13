@@ -1,0 +1,22 @@
+{
+  "name": "Doggy Black",
+  "symbol": "Doggy Black",
+  "decimals": 18,
+  "description": "Doggy Black is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20Black",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy Black",
+  "addresses": {
+    "8453": "0x36a45dc393a1dfecee941e31e9127e0ad351649f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy Black",
+    "sanitizedSymbol": "DOGGY_BLACK",
+    "created_at": "2024-12-11T18:39:25.256517",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1423989",
+    "lockerAddress": "0xa28bEa9c1BC272308c10dBacDFA33A956925370C"
+  },
+  "clankerInfo": null
+}

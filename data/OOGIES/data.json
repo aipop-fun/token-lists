@@ -1,0 +1,22 @@
+{
+  "name": "OOGIES",
+  "symbol": "OOGIES",
+  "decimals": 18,
+  "description": "OOGIES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OOGIES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OOGIES",
+  "addresses": {
+    "8453": "0x25d5aa724f1bd55b94ea5180d65d497cde555e9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OOGIES",
+    "sanitizedSymbol": "OOGIES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79C4550130cBc66b222e8A9AC8615Cda89F23968",
+    "lpNftId": "1289311",
+    "lockerAddress": "0x5EeB91eBc55fE99BCeD4E8ec3E3f7E3771caB76a"
+  },
+  "clankerInfo": null
+}

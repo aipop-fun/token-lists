@@ -1,0 +1,22 @@
+{
+  "name": "Adopt This dog",
+  "symbol": "Adopt This dog",
+  "decimals": 18,
+  "description": "Adopt This dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Adopt%20This%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Adopt This dog",
+  "addresses": {
+    "8453": "0x15c9c79d2ab5c6818e8c1883c93e01a3aee68ad7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Adopt This dog",
+    "sanitizedSymbol": "ADOPT_THIS_DOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162740",
+    "lockerAddress": "0x47F2451720fd25e0e3263A04d72Bb3C330E4aD79"
+  },
+  "clankerInfo": null
+}

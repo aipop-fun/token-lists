@@ -1,0 +1,22 @@
+{
+  "name": "RoboGuard",
+  "symbol": "RoboGuard",
+  "decimals": 18,
+  "description": "RoboGuard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RoboGuard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RoboGuard",
+  "addresses": {
+    "8453": "0x32df0488c944a8116178f5495283e552f480789a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RoboGuard",
+    "sanitizedSymbol": "ROBOGUARD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129032",
+    "lockerAddress": "0x23d96857588FA4E2874368a115253E198Fb3A62E"
+  },
+  "clankerInfo": null
+}

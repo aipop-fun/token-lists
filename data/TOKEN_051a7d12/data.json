@@ -1,0 +1,22 @@
+{
+  "name": "龙币",
+  "symbol": "龙币",
+  "decimals": 18,
+  "description": "龙币 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E9%BE%99%E5%B8%81",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "龙币",
+  "addresses": {
+    "8453": "0x3d3b7990a6c78c2b2cdf4c8dd1a67c6f64405450"
+  },
+  "tokenInfo": {
+    "originalSymbol": "龙币",
+    "sanitizedSymbol": "TOKEN_051a7d12",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210208",
+    "lockerAddress": "0xD603711dd1f148aE73155fd340df60121ABb1115"
+  },
+  "clankerInfo": null
+}

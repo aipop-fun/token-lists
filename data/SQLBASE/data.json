@@ -1,0 +1,22 @@
+{
+  "name": "sqlbase",
+  "symbol": "sqlbase",
+  "decimals": 18,
+  "description": "sqlbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sqlbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sqlbase",
+  "addresses": {
+    "8453": "0x24eb06590adef6a42309b9c7325ae9aab0c6d110"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sqlbase",
+    "sanitizedSymbol": "SQLBASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x10bcA16037C6826056c42bdABEACE88aF7b14F9A",
+    "lpNftId": "1285279",
+    "lockerAddress": "0x952cb09CB646cD20E256a79F258FC57daF94B7a4"
+  },
+  "clankerInfo": null
+}

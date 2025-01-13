@@ -1,0 +1,22 @@
+{
+  "name": "funnyhumor",
+  "symbol": "funnyhumor",
+  "decimals": 18,
+  "description": "funnyhumor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=funnyhumor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "funnyhumor",
+  "addresses": {
+    "8453": "0x3049b9f59d42184934bab382735aeaa3a8477c2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "funnyhumor",
+    "sanitizedSymbol": "FUNNYHUMOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1320846",
+    "lockerAddress": "0x7fB8A8c0Fdf9f7b5741D5492D5eC6E7F910Da6b0"
+  },
+  "clankerInfo": null
+}

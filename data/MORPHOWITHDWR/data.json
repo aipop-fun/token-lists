@@ -1,0 +1,22 @@
+{
+  "name": "MorphoWithDwr",
+  "symbol": "MorphoWithDwr",
+  "decimals": 18,
+  "description": "MorphoWithDwr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MorphoWithDwr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MorphoWithDwr",
+  "addresses": {
+    "8453": "0x0cfac28e986b952cd5464dadf23d729db5dc6c89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MorphoWithDwr",
+    "sanitizedSymbol": "MORPHOWITHDWR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x75138061cCCED6d438F67aff22b590Ec2d40A5b7",
+    "lpNftId": "1309718",
+    "lockerAddress": "0x204048f9343228D608896416F63eA511735F5f79"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sneaky",
+  "symbol": "Sneaky",
+  "decimals": 18,
+  "description": "Sneaky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sneaky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sneaky",
+  "addresses": {
+    "8453": "0x1c4903f422a8b644c2ebd2047eb87cef77e8fb96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sneaky",
+    "sanitizedSymbol": "SNEAKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218021",
+    "lockerAddress": "0xC6F5B7fd78B43C9868988991938BA92891Dd7823"
+  },
+  "clankerInfo": null
+}

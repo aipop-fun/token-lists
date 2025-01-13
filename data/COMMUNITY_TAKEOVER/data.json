@@ -1,0 +1,22 @@
+{
+  "name": "Community Takeover",
+  "symbol": "Community Takeover",
+  "decimals": 18,
+  "description": "Community Takeover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Community%20Takeover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Community Takeover",
+  "addresses": {
+    "8453": "0x11c115f02c26fc0e35faa5565766b64573efdd41"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Community Takeover",
+    "sanitizedSymbol": "COMMUNITY_TAKEOVER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201117",
+    "lockerAddress": "0xBE00A2C6A101d5E964F797Dff60C1c80dF9cf29d"
+  },
+  "clankerInfo": null
+}

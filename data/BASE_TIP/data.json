@@ -1,0 +1,22 @@
+{
+  "name": "Base Tip",
+  "symbol": "Base Tip",
+  "decimals": 18,
+  "description": "Base Tip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Tip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Tip",
+  "addresses": {
+    "8453": "0x3fac780b768f6f3079d30c348715498bf5a021d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Tip",
+    "sanitizedSymbol": "BASE_TIP",
+    "created_at": "2024-12-10T02:59:59.047025",
+    "deployer": "0xEDbf72f88E72133b10CdDded385D2b0f7b27f588",
+    "lpNftId": "1395410",
+    "lockerAddress": "0xDaaafFe019261C3Cb8f2bf3577AfCEAcA55B6C2b"
+  },
+  "clankerInfo": null
+}

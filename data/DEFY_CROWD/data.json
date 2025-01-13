@@ -1,0 +1,22 @@
+{
+  "name": "DEFY CROWD",
+  "symbol": "DEFY CROWD",
+  "decimals": 18,
+  "description": "DEFY CROWD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEFY%20CROWD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEFY CROWD",
+  "addresses": {
+    "8453": "0x19cf706b62d3be164764fe6d97b1baf402b5394a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEFY CROWD",
+    "sanitizedSymbol": "DEFY_CROWD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1320749",
+    "lockerAddress": "0xA218afCC50F257576331062E38D17a6926285E5a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anon Bang",
+  "symbol": "Anon Bang",
+  "decimals": 18,
+  "description": "Anon Bang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Bang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Bang",
+  "addresses": {
+    "8453": "0x2a8fa734d0e0785fca704d178e36941f09f8d41b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Bang",
+    "sanitizedSymbol": "ANON_BANG",
+    "created_at": "2024-12-10T03:22:33.89101",
+    "deployer": "0x722aB637320aFB42c27172a07e039d513837f0Ea",
+    "lpNftId": "1395644",
+    "lockerAddress": "0x81b65A8F09AA59042433204FB9E06326b9506A9b"
+  },
+  "clankerInfo": null
+}

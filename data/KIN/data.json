@@ -1,0 +1,22 @@
+{
+  "name": "Kin",
+  "symbol": "Kin",
+  "decimals": 18,
+  "description": "Kin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kin",
+  "addresses": {
+    "8453": "0x3f27c3c0cb6251fdac0a840f070c020e3785458e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kin",
+    "sanitizedSymbol": "KIN",
+    "created_at": "2024-12-12T17:14:25.108629",
+    "deployer": "0x27C297A21eFC5D9E98A5c74930f3011488536ec5",
+    "lpNftId": "1439237",
+    "lockerAddress": "0x1E50223dB67a995a60F638612d203b536d4979F1"
+  },
+  "clankerInfo": null
+}

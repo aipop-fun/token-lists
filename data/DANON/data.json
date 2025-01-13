@@ -1,0 +1,22 @@
+{
+  "name": "Danon",
+  "symbol": "Danon",
+  "decimals": 18,
+  "description": "Danon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Danon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Danon",
+  "addresses": {
+    "8453": "0x0179daebc4567afe1292aeeac4abcd07c8bd3367"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Danon",
+    "sanitizedSymbol": "DANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192860",
+    "lockerAddress": "0x4D5e6c2503bfd7B12361a817Bb0942Aa1656Ba30"
+  },
+  "clankerInfo": null
+}

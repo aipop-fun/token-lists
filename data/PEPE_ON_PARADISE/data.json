@@ -1,0 +1,22 @@
+{
+  "name": "Pepe on Paradise",
+  "symbol": "Pepe on Paradise",
+  "decimals": 18,
+  "description": "Pepe on Paradise is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20on%20Paradise",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe on Paradise",
+  "addresses": {
+    "8453": "0x2d691f5d4d468efdbacebe7cfb79505864fbf335"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe on Paradise",
+    "sanitizedSymbol": "PEPE_ON_PARADISE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237334",
+    "lockerAddress": "0x3D920Aeb7aD5FAAd71d1571F41C967c630A86528"
+  },
+  "clankerInfo": null
+}

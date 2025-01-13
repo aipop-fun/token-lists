@@ -1,0 +1,22 @@
+{
+  "name": "FOMO INU",
+  "symbol": "FOMO INU",
+  "decimals": 18,
+  "description": "FOMO INU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOMO%20INU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOMO INU",
+  "addresses": {
+    "8453": "0x00145c10bfe42afe88fab2ea1d5b2c48a7deae0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOMO INU",
+    "sanitizedSymbol": "FOMO_INU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1328086",
+    "lockerAddress": "0xF82c8bF12f754eF6b3655ce93B9a97A306a17f82"
+  },
+  "clankerInfo": null
+}

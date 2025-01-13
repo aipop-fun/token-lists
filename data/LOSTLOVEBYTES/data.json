@@ -1,0 +1,22 @@
+{
+  "name": "LostLoveBytes",
+  "symbol": "LostLoveBytes",
+  "decimals": 18,
+  "description": "LostLoveBytes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LostLoveBytes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LostLoveBytes",
+  "addresses": {
+    "8453": "0x2cc11228af75cfd117c2c5f75a7424966061d612"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LostLoveBytes",
+    "sanitizedSymbol": "LOSTLOVEBYTES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1215325",
+    "lockerAddress": "0x763619ed351f4c893ad20282C9cf770dA07177Fe"
+  },
+  "clankerInfo": null
+}

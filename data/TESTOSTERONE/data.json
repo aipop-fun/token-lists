@@ -1,0 +1,22 @@
+{
+  "name": "TESTOSTERONE",
+  "symbol": "TESTOSTERONE",
+  "decimals": 18,
+  "description": "TESTOSTERONE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESTOSTERONE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESTOSTERONE",
+  "addresses": {
+    "8453": "0x17bbda729ed40ccbeab1289fd0692b381951f1a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESTOSTERONE",
+    "sanitizedSymbol": "TESTOSTERONE",
+    "created_at": "2024-12-11T22:31:13.051097",
+    "deployer": "0x071a66F1E82033102BB5BC7a2d08Fa1D4324F8A8",
+    "lpNftId": "1427342",
+    "lockerAddress": "0x514d30dE1c2baadaed557885cF1a4Bac7b9f6B56"
+  },
+  "clankerInfo": null
+}

@@ -1,14 +1,22 @@
 {
-  "name": "SuperVerse",
-  "symbol": "SUPER",
+  "name": "/super",
+  "symbol": "/super",
   "decimals": 18,
-  "description": "SuperVerse unites the biggest web3 community with the best crypto games.",
-  "website": "https://superverse.co/",
-  "twitter": "https://x.com/superverse",
-  "logoURI": "https://res.cloudinary.com/supermigrate/image/upload/v1734474853/migrations/bq0nbnp31jonq5ogduqb.svg",
-  "opTokenId": "SUPER",
+  "description": "/super is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%2Fsuper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "/super",
   "addresses": {
-    "1": "0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55",
-    "8453": "0x391359ab0ccef572dcac78f74e47d7c06db0b982"
-  }
+    "8453": "0x1e886b0171852a4796e0313eabd956714d7f5093"
+  },
+  "tokenInfo": {
+    "originalSymbol": "/super",
+    "sanitizedSymbol": "SUPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236009",
+    "lockerAddress": "0x608D2F70bB32F06F6122e2ba4A7b262086Ef7E65"
+  },
+  "clankerInfo": null
 }

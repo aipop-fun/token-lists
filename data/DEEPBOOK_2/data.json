@@ -1,0 +1,22 @@
+{
+  "name": "DeepBook",
+  "symbol": "DeepBook",
+  "decimals": 18,
+  "description": "DeepBook is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DeepBook",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DeepBook",
+  "addresses": {
+    "8453": "0x34ba8a5fb2173ca9d79f45f0b88af9800a1bfff2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DeepBook",
+    "sanitizedSymbol": "DEEPBOOK_2",
+    "created_at": "2024-12-12T19:47:28.426114",
+    "deployer": "0x676C4f2c77F2ed2Cf046F92747AF654A1b40AabE",
+    "lpNftId": "1441877",
+    "lockerAddress": "0x41E1F0ff30078839Be3029836744192b7398CEE9"
+  },
+  "clankerInfo": null
+}

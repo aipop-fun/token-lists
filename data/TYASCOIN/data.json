@@ -1,0 +1,22 @@
+{
+  "name": "Tyascoin",
+  "symbol": "Tyascoin",
+  "decimals": 18,
+  "description": "Tyascoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tyascoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tyascoin",
+  "addresses": {
+    "8453": "0x10a79d978a5d5fce3805127a49e27cdf2bb210f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tyascoin",
+    "sanitizedSymbol": "TYASCOIN",
+    "created_at": "2024-12-11T02:54:29.062796",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411248",
+    "lockerAddress": "0x3491CE24ecEc494EB5A760e4EAba40F154cf99e9"
+  },
+  "clankerInfo": null
+}

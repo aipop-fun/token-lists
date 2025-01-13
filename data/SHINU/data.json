@@ -1,0 +1,22 @@
+{
+  "name": "Shinu",
+  "symbol": "Shinu",
+  "decimals": 18,
+  "description": "Shinu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shinu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shinu",
+  "addresses": {
+    "8453": "0x2801200371d2ce3aa98a5f1e96f31ef80120550a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shinu",
+    "sanitizedSymbol": "SHINU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe6F54Fb2c2DA220731D1fb6568dA586512914DBd",
+    "lpNftId": "1314012",
+    "lockerAddress": "0x32FE18F6a1eCFFbbD63365B23A93D3EaF20E0E7A"
+  },
+  "clankerInfo": null
+}

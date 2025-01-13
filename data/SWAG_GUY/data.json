@@ -1,0 +1,22 @@
+{
+  "name": "Swag Guy",
+  "symbol": "Swag Guy",
+  "decimals": 18,
+  "description": "Swag Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Swag%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Swag Guy",
+  "addresses": {
+    "8453": "0x02e155082a4f0e6d09866761237ea614c67933c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Swag Guy",
+    "sanitizedSymbol": "SWAG_GUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1362424",
+    "lockerAddress": "0xa2169CbbfCa0cf897877FFF3bdD320f8A4264Eb3"
+  },
+  "clankerInfo": null
+}

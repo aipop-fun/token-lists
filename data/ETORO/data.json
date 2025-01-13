@@ -1,0 +1,22 @@
+{
+  "name": "etoro",
+  "symbol": "etoro",
+  "decimals": 18,
+  "description": "etoro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=etoro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "etoro",
+  "addresses": {
+    "8453": "0x2a607a7b072a689e4f171bd4dd5da5ca9169099e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "etoro",
+    "sanitizedSymbol": "ETORO",
+    "created_at": "2024-12-10T14:33:43.86753",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401807",
+    "lockerAddress": "0x09dc2D2D5275985B57840F8B978b06f6bc5A923A"
+  },
+  "clankerInfo": null
+}

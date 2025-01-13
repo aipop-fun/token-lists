@@ -1,0 +1,22 @@
+{
+  "name": "Sui",
+  "symbol": "Sui",
+  "decimals": 18,
+  "description": "Sui is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sui",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sui",
+  "addresses": {
+    "8453": "0x34bc993a29c8220e2e48a45f4b782e5e8c457e0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sui",
+    "sanitizedSymbol": "SUI",
+    "created_at": "2024-12-12T04:29:03.018008",
+    "deployer": "0xF68c3d3003fBeC7682cf240e5395Ec138d731a47",
+    "lpNftId": "1429157",
+    "lockerAddress": "0xc159d4dAE39F285b153AC85723342Bd36A759A47"
+  },
+  "clankerInfo": null
+}

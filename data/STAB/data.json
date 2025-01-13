@@ -1,0 +1,22 @@
+{
+  "name": "STAB",
+  "symbol": "STAB",
+  "decimals": 18,
+  "description": "STAB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STAB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STAB",
+  "addresses": {
+    "8453": "0x12647a608b795b6e5f0ee7a9e4f728f81ca49d0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STAB",
+    "sanitizedSymbol": "STAB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB97FD7036E9C8a24A3A8C1e541678d27aFE477ce",
+    "lpNftId": "1283689",
+    "lockerAddress": "0x8797C85B472C7586De8f98BcfDb46E3B6CcF09D7"
+  },
+  "clankerInfo": null
+}

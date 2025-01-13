@@ -1,0 +1,22 @@
+{
+  "name": "Black Panther",
+  "symbol": "Black Panther",
+  "decimals": 18,
+  "description": "Black Panther is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Panther",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Panther",
+  "addresses": {
+    "8453": "0x1d3dfb1eb36f350686821f0b4b38afaa5093d443"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Panther",
+    "sanitizedSymbol": "BLACK_PANTHER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221473",
+    "lockerAddress": "0x6Fbc8eB25Ad188Ce9b31d5b31f3795358941Afd6"
+  },
+  "clankerInfo": null
+}

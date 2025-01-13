@@ -1,0 +1,22 @@
+{
+  "name": "FAI",
+  "symbol": "FAI",
+  "decimals": 18,
+  "description": "FAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAI",
+  "addresses": {
+    "8453": "0x3b080dfb702c9cb6ed39f3cd295791096ae825f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAI",
+    "sanitizedSymbol": "FAI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB42b0b1D0F3946B96ed9c741f7Ef71DAe767541b",
+    "lpNftId": "1252359",
+    "lockerAddress": "0xc5Cf439d7Ad13A7ad5926417Fd4F53C45e0D0DB3"
+  },
+  "clankerInfo": null
+}

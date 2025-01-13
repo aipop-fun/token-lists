@@ -1,0 +1,22 @@
+{
+  "name": "FishEye",
+  "symbol": "FishEye",
+  "decimals": 18,
+  "description": "FishEye is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FishEye",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FishEye",
+  "addresses": {
+    "8453": "0x3800f7b7ff75efe388eb49dbdf25897f9bd8f865"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FishEye",
+    "sanitizedSymbol": "FISHEYE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x710ce330e997aeBdf895381d5b069d2EA3B2B301",
+    "lpNftId": "1263730",
+    "lockerAddress": "0x781a9c1940220ed5BfE6b05e6DCae17060C1E6e3"
+  },
+  "clankerInfo": null
+}

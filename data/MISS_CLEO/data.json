@@ -1,0 +1,22 @@
+{
+  "name": "Miss Cleo",
+  "symbol": "Miss Cleo",
+  "decimals": 18,
+  "description": "Miss Cleo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miss%20Cleo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miss Cleo",
+  "addresses": {
+    "8453": "0x22f08bdebf34ff6ab30290be0a9d6ef4a2521989"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miss Cleo",
+    "sanitizedSymbol": "MISS_CLEO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1d671d1B191323A38490972D58354971E5c1cd2A",
+    "lpNftId": "1348198",
+    "lockerAddress": "0x5fa95e7781c15e4c19D8C38e4bD9Af146b96fC0F"
+  },
+  "clankerInfo": null
+}

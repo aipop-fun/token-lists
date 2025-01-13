@@ -1,0 +1,22 @@
+{
+  "name": "lestgo",
+  "symbol": "lestgo",
+  "decimals": 18,
+  "description": "lestgo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lestgo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lestgo",
+  "addresses": {
+    "8453": "0x3697ce46edb479f4bd25ab87f8d2bb95279a36ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lestgo",
+    "sanitizedSymbol": "LESTGO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xBF1090326B3709DbfD57f07Ecbe81498F5cDA6c8",
+    "lpNftId": "1263759",
+    "lockerAddress": "0xD446Accba0E9845099c8C2d5d424420e4e4D08d8"
+  },
+  "clankerInfo": null
+}

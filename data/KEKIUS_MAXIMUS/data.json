@@ -1,0 +1,22 @@
+{
+  "name": "Kekius Maximus",
+  "symbol": "Kekius Maximus",
+  "decimals": 18,
+  "description": "Kekius Maximus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kekius%20Maximus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kekius Maximus",
+  "addresses": {
+    "8453": "0x3f5f241e7cce850767a0f8a70c87895d7efc8edb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kekius Maximus",
+    "sanitizedSymbol": "KEKIUS_MAXIMUS",
+    "created_at": "2024-12-10T08:38:32.118623",
+    "deployer": "0x00Be49DBa98254e508e13226dC9F459E62E2c934",
+    "lpNftId": "1398877",
+    "lockerAddress": "0xfD6c541071Af293187F9a90968Fde6038d44A128"
+  },
+  "clankerInfo": null
+}

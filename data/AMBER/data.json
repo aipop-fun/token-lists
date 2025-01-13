@@ -1,0 +1,22 @@
+{
+  "name": "Amber",
+  "symbol": "Amber",
+  "decimals": 18,
+  "description": "Amber is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Amber",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Amber",
+  "addresses": {
+    "8453": "0x1c27e9bd82b851b34af4c98b0a9ebbc763f6f36b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Amber",
+    "sanitizedSymbol": "AMBER",
+    "created_at": "2024-12-12T07:27:17.756657",
+    "deployer": "0x28eb2375Ba9b8bfA683f6DF1AceFAA8529038638",
+    "lpNftId": "1429746",
+    "lockerAddress": "0x03D1515eF4DA9694f3D3e84cc695cC41C0032b2B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BONKKBOT.AI",
+  "symbol": "BONKKBOT.AI",
+  "decimals": 18,
+  "description": "BONKKBOT.AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BONKKBOT.AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BONKKBOT.AI",
+  "addresses": {
+    "8453": "0x3cbe7a349f21be0a9ed988488784a71db511bdc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BONKKBOT.AI",
+    "sanitizedSymbol": "BONKKBOT_AI",
+    "created_at": "2024-12-11T07:49:51.274924",
+    "deployer": "0x5A7FA10aA60971a7322888147DB233FC63e3A66e",
+    "lpNftId": "1414270",
+    "lockerAddress": "0xE34B15B0E3bb06F2a7FDd78F08746E9daB03F694"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CassieHeart",
+  "symbol": "CassieHeart",
+  "decimals": 18,
+  "description": "CassieHeart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CassieHeart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CassieHeart",
+  "addresses": {
+    "8453": "0x20fcb50a983ba03227b1f12778f9a38ee837da5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CassieHeart",
+    "sanitizedSymbol": "CASSIEHEART",
+    "created_at": "2024-12-11T07:22:13.513314",
+    "deployer": "0x74cF0831CE7542BbD2AC23450A37FAA54c03195b",
+    "lpNftId": "1414054",
+    "lockerAddress": "0x513cA0Ae3C3eDE34788a1E96D96381b7A7c7b5D5"
+  },
+  "clankerInfo": null
+}

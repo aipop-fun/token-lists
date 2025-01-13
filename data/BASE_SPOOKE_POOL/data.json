@@ -1,0 +1,22 @@
+{
+  "name": "BASE SPOOKE POOL",
+  "symbol": "BASE SPOOKE POOL",
+  "decimals": 18,
+  "description": "BASE SPOOKE POOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20SPOOKE%20POOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE SPOOKE POOL",
+  "addresses": {
+    "8453": "0x0ed04a6238afd83ca5cd1a16f7575ef7d056425f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE SPOOKE POOL",
+    "sanitizedSymbol": "BASE_SPOOKE_POOL",
+    "created_at": "2024-12-12T20:19:47.179387",
+    "deployer": "0x2797d6eC601700A0E3BE59Ae127bfe8F01660d51",
+    "lpNftId": "1442196",
+    "lockerAddress": "0x2a44483F232D6fe7446Fa4F38BdCd88CdF804c83"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RocketMoon",
+  "symbol": "RocketMoon",
+  "decimals": 18,
+  "description": "RocketMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RocketMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RocketMoon",
+  "addresses": {
+    "8453": "0x30c861e711e36fbb3c977e967f9136ad5cc50bb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RocketMoon",
+    "sanitizedSymbol": "ROCKETMOON",
+    "created_at": "2024-12-12T15:35:36.093625",
+    "deployer": "0x8571ab69c0A882bc93CbFf277a5797C2d86F8a6f",
+    "lpNftId": "1437185",
+    "lockerAddress": "0x170BAF1cA757539212e9455664e3e4Dd510CF41E"
+  },
+  "clankerInfo": null
+}

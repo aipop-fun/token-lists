@@ -1,0 +1,22 @@
+{
+  "name": "DUREV",
+  "symbol": "DUREV",
+  "decimals": 18,
+  "description": "DUREV is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUREV",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUREV",
+  "addresses": {
+    "8453": "0x205fc98959c0268a3cb4d7776c50070f1b19e1ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUREV",
+    "sanitizedSymbol": "DUREV_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x23d4631e648EBC749Fa9c56AD693293BdCCAC3F9",
+    "lpNftId": "1266846",
+    "lockerAddress": "0x7a85fa3497C31B6637f49caD7e274D4Eb3484794"
+  },
+  "clankerInfo": null
+}

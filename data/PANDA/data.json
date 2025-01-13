@@ -1,0 +1,22 @@
+{
+  "name": "Panda",
+  "symbol": "Panda",
+  "decimals": 18,
+  "description": "Panda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Panda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Panda",
+  "addresses": {
+    "8453": "0x30e5825d77b9e9c24796dd7b69e4ee7f3d465854"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Panda",
+    "sanitizedSymbol": "PANDA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231822",
+    "lockerAddress": "0xF126dF865B2914f9630Ba177E55249673Ba30F18"
+  },
+  "clankerInfo": null
+}

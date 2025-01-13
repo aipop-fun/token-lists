@@ -1,0 +1,22 @@
+{
+  "name": "Tin foil hat",
+  "symbol": "Tin foil hat",
+  "decimals": 18,
+  "description": "Tin foil hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tin%20foil%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tin foil hat",
+  "addresses": {
+    "8453": "0x078380cff507622887226f34ba3ea30bcb603e6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tin foil hat",
+    "sanitizedSymbol": "TIN_FOIL_HAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xbAcC138C9575699b187420F4796dF35df0851163",
+    "lpNftId": "1354964",
+    "lockerAddress": "0x74F6366f2ac9BadD733fDFbfDeF78409C0Ee9A10"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "gif",
+  "symbol": "gif",
+  "decimals": 18,
+  "description": "gif is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gif",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gif",
+  "addresses": {
+    "8453": "0x3f78888b3e5b3628e12752b87dfe8e5ad9b078e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gif",
+    "sanitizedSymbol": "GIF",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219722",
+    "lockerAddress": "0x2a8E82bFB8207A992cEE95b01f00E1e5B6700CA7"
+  },
+  "clankerInfo": null
+}

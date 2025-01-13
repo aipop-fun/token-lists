@@ -1,0 +1,22 @@
+{
+  "name": "woofer",
+  "symbol": "woofer",
+  "decimals": 18,
+  "description": "woofer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=woofer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "woofer",
+  "addresses": {
+    "8453": "0x04f250d90c4e8ee803d43fdc87113c22ee911e6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "woofer",
+    "sanitizedSymbol": "WOOFER",
+    "created_at": "2024-12-09T07:31:31.075389",
+    "deployer": "0x073cC8CD9816F9A36D179dB160B3FE22a0F01e12",
+    "lpNftId": "1384418",
+    "lockerAddress": "0x7C5e02112bB3A138378b205583413a2b58B71748"
+  },
+  "clankerInfo": null
+}

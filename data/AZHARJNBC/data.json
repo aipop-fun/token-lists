@@ -1,0 +1,22 @@
+{
+  "name": "AzharJNBC",
+  "symbol": "AzharJNBC",
+  "decimals": 18,
+  "description": "AzharJNBC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AzharJNBC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AzharJNBC",
+  "addresses": {
+    "8453": "0x24cea88088a754c8d83a47433e8576983b320ca6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AzharJNBC",
+    "sanitizedSymbol": "AZHARJNBC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x7B677363b2026065f28A3aB7C71B7Fac158b1F84",
+    "lpNftId": "1172722",
+    "lockerAddress": "0xbefa5f5a5062eAC8C84a543677963191B3670f49"
+  },
+  "clankerInfo": null
+}

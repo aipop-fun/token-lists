@@ -1,0 +1,22 @@
+{
+  "name": "nega",
+  "symbol": "nega",
+  "decimals": 18,
+  "description": "nega is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nega",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nega",
+  "addresses": {
+    "8453": "0x242fb8fd3d3805bb284654d453e60d9d827a7658"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nega",
+    "sanitizedSymbol": "NEGA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1309567",
+    "lockerAddress": "0xF45074D9d3b926999B90bE9D2874D7Af7C845d2C"
+  },
+  "clankerInfo": null
+}

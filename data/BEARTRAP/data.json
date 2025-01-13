@@ -1,0 +1,22 @@
+{
+  "name": "beartrap",
+  "symbol": "beartrap",
+  "decimals": 18,
+  "description": "beartrap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=beartrap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "beartrap",
+  "addresses": {
+    "8453": "0x0a8f5a6dea920efacccb2bea4234ca0ec5fb4bc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "beartrap",
+    "sanitizedSymbol": "BEARTRAP",
+    "created_at": "2024-12-10T02:53:18.156839",
+    "deployer": "0xB188E28d8701DFc67Bfa92d575fB6b6b69c77f5e",
+    "lpNftId": "1395382",
+    "lockerAddress": "0xC7608bbe31E6a966f913AEB25C9862F221dD96aC"
+  },
+  "clankerInfo": null
+}

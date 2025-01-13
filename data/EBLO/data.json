@@ -1,0 +1,22 @@
+{
+  "name": "eblo",
+  "symbol": "eblo",
+  "decimals": 18,
+  "description": "eblo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=eblo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "eblo",
+  "addresses": {
+    "8453": "0x41137013cf4294587dafdf57db4b9cc5f198678a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "eblo",
+    "sanitizedSymbol": "EBLO",
+    "created_at": "2024-12-11T05:27:32.755097",
+    "deployer": "0x594bf8496a39C5E5d5f0AB1eC00fD5004923BC31",
+    "lpNftId": "1413175",
+    "lockerAddress": "0xC4CFe7F20d68AEbDD7Fa1b045eb1833A6018fD6F"
+  },
+  "clankerInfo": null
+}

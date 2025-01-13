@@ -1,0 +1,22 @@
+{
+  "name": "FREE ROSS",
+  "symbol": "FREE ROSS",
+  "decimals": 18,
+  "description": "FREE ROSS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FREE%20ROSS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FREE ROSS",
+  "addresses": {
+    "8453": "0x1db3a3d56ce07ef1917d3bddb62d6d74be9f2b6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FREE ROSS",
+    "sanitizedSymbol": "FREE_ROSS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217975",
+    "lockerAddress": "0xD9AB57030069D9BC49Bdd4BBaf1E2CC4663F16ce"
+  },
+  "clankerInfo": null
+}

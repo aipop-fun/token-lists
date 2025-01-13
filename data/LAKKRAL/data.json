@@ -1,0 +1,22 @@
+{
+  "name": "LAKKRAL",
+  "symbol": "LAKKRAL",
+  "decimals": 18,
+  "description": "LAKKRAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAKKRAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAKKRAL",
+  "addresses": {
+    "8453": "0x29ff2f97eb64e93723476a0e61921e2c80cd5c9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAKKRAL",
+    "sanitizedSymbol": "LAKKRAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1196087",
+    "lockerAddress": "0xb3Ca70A4fd48D2703408dDE79fA3705BF9DfF0A4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bababoy",
+  "symbol": "Bababoy",
+  "decimals": 18,
+  "description": "Bababoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bababoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bababoy",
+  "addresses": {
+    "8453": "0x1d23d3ee5b39c37cafb8b2e66255d35e32af5523"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bababoy",
+    "sanitizedSymbol": "BABABOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E977a120F7eF3cf55C976AFe96ce160eD23Ec61",
+    "lpNftId": "1291549",
+    "lockerAddress": "0xBBAeab6BaE4E180b4B40330FD0EB78C3Ec68397b"
+  },
+  "clankerInfo": null
+}

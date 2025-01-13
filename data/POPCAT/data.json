@@ -1,0 +1,22 @@
+{
+  "name": "PopCat",
+  "symbol": "PopCat",
+  "decimals": 18,
+  "description": "PopCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PopCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PopCat",
+  "addresses": {
+    "8453": "0x3baa26716e708440098b127c940960f34ed03016"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PopCat",
+    "sanitizedSymbol": "POPCAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221698",
+    "lockerAddress": "0x545544353C926930BDf4319E118170544Cc87218"
+  },
+  "clankerInfo": null
+}

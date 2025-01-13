@@ -1,0 +1,22 @@
+{
+  "name": "xueyuanhuang",
+  "symbol": "xueyuanhuang",
+  "decimals": 18,
+  "description": "xueyuanhuang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xueyuanhuang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xueyuanhuang",
+  "addresses": {
+    "8453": "0x3645424d0d6364ca40f26b1cf7cbe02c97dde490"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xueyuanhuang",
+    "sanitizedSymbol": "XUEYUANHUANG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202369",
+    "lockerAddress": "0xE73C31B32cC4F4Bf01D477AA8EcDa83dC0762139"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VAN",
+  "symbol": "VAN",
+  "decimals": 18,
+  "description": "VAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VAN",
+  "addresses": {
+    "8453": "0x07ad94b8925cf38f1bbc47d0318ca972ff8d3af3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VAN",
+    "sanitizedSymbol": "VAN",
+    "created_at": "2024-12-09T11:47:35.451674",
+    "deployer": "0x64b61e3b8F1d5cb92641c92A447b2BB43972450D",
+    "lpNftId": "1386594",
+    "lockerAddress": "0x074b8534b0BEb0e37AE2e1b402C1EF9dD70b9ff4"
+  },
+  "clankerInfo": null
+}

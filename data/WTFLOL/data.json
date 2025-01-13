@@ -1,0 +1,22 @@
+{
+  "name": "WTFLOL",
+  "symbol": "WTFLOL",
+  "decimals": 18,
+  "description": "WTFLOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WTFLOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WTFLOL",
+  "addresses": {
+    "8453": "0x38e24c7c7988ea5396a8856978d32bd0e63b2181"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WTFLOL",
+    "sanitizedSymbol": "WTFLOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212319",
+    "lockerAddress": "0x1305681C8356Cf8eBda2feB1C8Ab9576e7E82ab6"
+  },
+  "clankerInfo": null
+}

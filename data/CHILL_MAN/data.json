@@ -1,0 +1,22 @@
+{
+  "name": "Chill man",
+  "symbol": "Chill man",
+  "decimals": 18,
+  "description": "Chill man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill man",
+  "addresses": {
+    "8453": "0x02c676dd0d4208a48567fc4478a651799cecab85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill man",
+    "sanitizedSymbol": "CHILL_MAN",
+    "created_at": "2024-12-10T20:23:54.344184",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1406752",
+    "lockerAddress": "0x93959568e60a65772f65385dCA74CED2E971929c"
+  },
+  "clankerInfo": null
+}

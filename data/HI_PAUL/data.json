@@ -1,0 +1,22 @@
+{
+  "name": "HI PAUL",
+  "symbol": "HI PAUL",
+  "decimals": 18,
+  "description": "HI PAUL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HI%20PAUL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HI PAUL",
+  "addresses": {
+    "8453": "0x0f1f15f77f89b24aa696982cda14baa96d7cca1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HI PAUL",
+    "sanitizedSymbol": "HI_PAUL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7c0f66Ae50B611ad06865a8B5E44B7bf33a47887",
+    "lpNftId": "1310386",
+    "lockerAddress": "0x4f64E10C3d93b63f99B1842B75B465b9b3be3688"
+  },
+  "clankerInfo": null
+}

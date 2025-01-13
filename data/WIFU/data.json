@@ -1,0 +1,22 @@
+{
+  "name": "WIFU",
+  "symbol": "WIFU",
+  "decimals": 18,
+  "description": "WIFU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WIFU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WIFU",
+  "addresses": {
+    "8453": "0x14e27b18ef776e6059911a6be62c49f45626a4c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WIFU",
+    "sanitizedSymbol": "WIFU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217375",
+    "lockerAddress": "0x1E6Cb96e045a451D6D9cC90009A334a8f037D6D9"
+  },
+  "clankerInfo": null
+}

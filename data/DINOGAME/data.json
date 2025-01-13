@@ -1,0 +1,22 @@
+{
+  "name": "DINOGAME",
+  "symbol": "DINOGAME",
+  "decimals": 18,
+  "description": "DINOGAME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DINOGAME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DINOGAME",
+  "addresses": {
+    "8453": "0x407b4c9f73acaa15cdaf8785db8cadeb2fae5e18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DINOGAME",
+    "sanitizedSymbol": "DINOGAME",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1324057",
+    "lockerAddress": "0x28019c1aF77dd17CA316acD469E4EC722576F854"
+  },
+  "clankerInfo": null
+}

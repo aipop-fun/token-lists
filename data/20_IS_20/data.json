@@ -1,0 +1,22 @@
+{
+  "name": "$20 is $20",
+  "symbol": "$20 is $20",
+  "decimals": 18,
+  "description": "$20 is $20 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%2420%20is%20%2420",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$20 is $20",
+  "addresses": {
+    "8453": "0x1c6b93ecc824bb611b8f3acb051fce1ffe6c7558"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$20 is $20",
+    "sanitizedSymbol": "20_IS_20",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x10c070f6690f1fB20dB2470Fba92C1515bF9A44d",
+    "lpNftId": "1303485",
+    "lockerAddress": "0x7254006cf6B1ff4E37bdAA73Db2509276f70AD74"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Last meal",
+  "symbol": "Last meal",
+  "decimals": 18,
+  "description": "Last meal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Last%20meal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Last meal",
+  "addresses": {
+    "8453": "0x066d1322953566f90afc51eb7b8b134e6672595e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Last meal",
+    "sanitizedSymbol": "LAST_MEAL",
+    "created_at": "2024-12-11T15:23:21.055902",
+    "deployer": "0xB525fCF5C508a7c4b878459736c7caA676247B50",
+    "lpNftId": "1420896",
+    "lockerAddress": "0x8517580CE22327354b171bF91a7F6009d7332039"
+  },
+  "clankerInfo": null
+}

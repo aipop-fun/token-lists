@@ -1,0 +1,22 @@
+{
+  "name": "Foo Was Here",
+  "symbol": "Foo Was Here",
+  "decimals": 18,
+  "description": "Foo Was Here is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Foo%20Was%20Here",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Foo Was Here",
+  "addresses": {
+    "8453": "0x017376139fd9c76dd81650b0f87b464aba60364a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Foo Was Here",
+    "sanitizedSymbol": "FOO_WAS_HERE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166651",
+    "lockerAddress": "0x1d384848Bd7f1aC0de53c40E32bf9312AB6e1418"
+  },
+  "clankerInfo": null
+}

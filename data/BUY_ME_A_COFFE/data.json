@@ -1,0 +1,22 @@
+{
+  "name": "buy me a coffe",
+  "symbol": "buy me a coffe",
+  "decimals": 18,
+  "description": "buy me a coffe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=buy%20me%20a%20coffe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "buy me a coffe",
+  "addresses": {
+    "8453": "0x23b450346d49ceeb547456634d13d207100db65c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "buy me a coffe",
+    "sanitizedSymbol": "BUY_ME_A_COFFE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x491dC8E39B7001aE3bFC1b5AdC871D238cA8256C",
+    "lpNftId": "1346352",
+    "lockerAddress": "0x69b27f83B28c5389FFAFD63531E24a63B7d412A0"
+  },
+  "clankerInfo": null
+}

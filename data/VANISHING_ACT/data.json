@@ -1,0 +1,22 @@
+{
+  "name": "Vanishing Act",
+  "symbol": "Vanishing Act",
+  "decimals": 18,
+  "description": "Vanishing Act is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vanishing%20Act",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vanishing Act",
+  "addresses": {
+    "8453": "0x061a586e307cc127cc2fed8e7b5ae38ea01f86b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vanishing Act",
+    "sanitizedSymbol": "VANISHING_ACT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2A23C62EF82930C4b4Fa1a6bb1aC497776E66285",
+    "lpNftId": "1315034",
+    "lockerAddress": "0x659bd5aac9d6D8b0463B6B776BE81806bDb3cD08"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASED",
+  "symbol": "BASED",
+  "decimals": 18,
+  "description": "BASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED",
+  "addresses": {
+    "8453": "0x213aa63e8656a5b47b3c05e02c00d7ef64cf12c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED",
+    "sanitizedSymbol": "BASED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156618",
+    "lockerAddress": "0xC77530f280013BaF5aD10F8A3e2406412356327E"
+  },
+  "clankerInfo": null
+}

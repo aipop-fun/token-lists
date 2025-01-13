@@ -1,0 +1,22 @@
+{
+  "name": "NYC-CABAL",
+  "symbol": "NYC-CABAL",
+  "decimals": 18,
+  "description": "NYC-CABAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NYC-CABAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NYC-CABAL",
+  "addresses": {
+    "8453": "0x0f32fa8883f6131afa8d246fabc806285d6eff28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NYC-CABAL",
+    "sanitizedSymbol": "NYC_CABAL",
+    "created_at": "2024-12-09T18:08:09.537492",
+    "deployer": "0x8aAa69aEc19f8812fe548424bE12259B6DC3576d",
+    "lpNftId": "1390036",
+    "lockerAddress": "0x670816D5D87556d83d191750ddf0814A777B1A12"
+  },
+  "clankerInfo": null
+}

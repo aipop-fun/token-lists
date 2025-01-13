@@ -1,0 +1,22 @@
+{
+  "name": "Boki",
+  "symbol": "Boki",
+  "decimals": 18,
+  "description": "Boki is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boki",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boki",
+  "addresses": {
+    "8453": "0x2d37f414c1608d011b27b9d015d3236f68a21bbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boki",
+    "sanitizedSymbol": "BOKI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197137",
+    "lockerAddress": "0x05B68975103DdC0dC5E24eEa1F18E2a27B92E75b"
+  },
+  "clankerInfo": null
+}

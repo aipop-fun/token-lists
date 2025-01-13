@@ -1,0 +1,22 @@
+{
+  "name": "MeatCoin",
+  "symbol": "MeatCoin",
+  "decimals": 18,
+  "description": "MeatCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeatCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeatCoin",
+  "addresses": {
+    "8453": "0x30dc918d00bbeedebae32719da22b73cd5b05dbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeatCoin",
+    "sanitizedSymbol": "MEATCOIN",
+    "created_at": "2024-12-12T14:28:51.155133",
+    "deployer": "0x3b54621FE962ee8E5283f2429B800e2E212c9a02",
+    "lpNftId": "1435871",
+    "lockerAddress": "0x88AaDBA28892662af1D61e94b19D361C7D7290C5"
+  },
+  "clankerInfo": null
+}

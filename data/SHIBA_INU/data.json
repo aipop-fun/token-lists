@@ -1,0 +1,22 @@
+{
+  "name": "SHIBA INU",
+  "symbol": "SHIBA INU",
+  "decimals": 18,
+  "description": "SHIBA INU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHIBA%20INU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHIBA INU",
+  "addresses": {
+    "8453": "0x200df98d859967938f407e342823ca92ea8788eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHIBA INU",
+    "sanitizedSymbol": "SHIBA_INU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198834",
+    "lockerAddress": "0x738A2fDE01a17Ca2EafCE4Bc5D81b189bd751160"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Based Clanker",
+  "symbol": "Based Clanker",
+  "decimals": 18,
+  "description": "Based Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Clanker",
+  "addresses": {
+    "8453": "0x0bfaf3e3a79e6771795b0d0e9f78e555f7df705f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Clanker",
+    "sanitizedSymbol": "BASED_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216359",
+    "lockerAddress": "0x027d83aB6c1E68C7C8cf624825A3C7cf17c9B33E"
+  },
+  "clankerInfo": null
+}

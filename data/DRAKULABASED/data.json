@@ -1,0 +1,22 @@
+{
+  "name": "DRAKULABASED",
+  "symbol": "DRAKULABASED",
+  "decimals": 18,
+  "description": "DRAKULABASED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRAKULABASED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRAKULABASED",
+  "addresses": {
+    "8453": "0x173c2c2be960e10d511984b7338d6e0c711d869d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRAKULABASED",
+    "sanitizedSymbol": "DRAKULABASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA59cAD0d84735246140b5Fb278f468acdb61895B",
+    "lpNftId": "1318554",
+    "lockerAddress": "0xB291495214C47f78DBD015240edd41eA702f6232"
+  },
+  "clankerInfo": null
+}

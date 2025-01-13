@@ -1,0 +1,22 @@
+{
+  "name": "Ai4U",
+  "symbol": "Ai4U",
+  "decimals": 18,
+  "description": "Ai4U is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ai4U",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ai4U",
+  "addresses": {
+    "8453": "0x35458ddd614cfcd707035613bc4e6652ff26bbcb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ai4U",
+    "sanitizedSymbol": "AI4U",
+    "created_at": "2024-12-11T17:15:29.794563",
+    "deployer": "0xC7292c33fa4ED21b7DB0aEF23A98DA01362d4773",
+    "lpNftId": "1422362",
+    "lockerAddress": "0x78dD544111c61648e9CCf0c5fFAEDe6E0E7d49e8"
+  },
+  "clankerInfo": null
+}

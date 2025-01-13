@@ -1,0 +1,22 @@
+{
+  "name": "HUSKY",
+  "symbol": "HUSKY",
+  "decimals": 18,
+  "description": "HUSKY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HUSKY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HUSKY",
+  "addresses": {
+    "8453": "0x1520096ac6f0b5ac352d22c1b36da7582821f2f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HUSKY",
+    "sanitizedSymbol": "HUSKY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x20eFE3Df8F6A58d98a9F60CEF112AA74f9D074ea",
+    "lpNftId": "1332205",
+    "lockerAddress": "0xDb91e3c3c799377266bc00F2F82fAaC0BbbF3B06"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "My Own Client",
+  "symbol": "My Own Client",
+  "decimals": 18,
+  "description": "My Own Client is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Own%20Client",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Own Client",
+  "addresses": {
+    "8453": "0x342ba752a11f4e245719f94eb6e25e02e762cd32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Own Client",
+    "sanitizedSymbol": "MY_OWN_CLIENT",
+    "created_at": "2024-12-11T18:37:37.68882",
+    "deployer": "0x96168ACf7f3925e7A9eAA08Ddb21e59643da8097",
+    "lpNftId": "1423946",
+    "lockerAddress": "0x41d81AcE269915C407e1A16C906fBe44a3765260"
+  },
+  "clankerInfo": null
+}

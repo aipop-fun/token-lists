@@ -1,0 +1,22 @@
+{
+  "name": "Resilience Token",
+  "symbol": "Resilience Token",
+  "decimals": 18,
+  "description": "Resilience Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Resilience%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Resilience Token",
+  "addresses": {
+    "8453": "0x2817f8421146c9da61794c9125b6632e5cce5162"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Resilience Token",
+    "sanitizedSymbol": "RESILIENCE_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129949",
+    "lockerAddress": "0x940d4a4e60ed86e75629BA309fD70957ebb370A0"
+  },
+  "clankerInfo": null
+}

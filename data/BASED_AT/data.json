@@ -1,0 +1,22 @@
+{
+  "name": "Based_AT",
+  "symbol": "Based_AT",
+  "decimals": 18,
+  "description": "Based_AT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based_AT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based_AT",
+  "addresses": {
+    "8453": "0x2944724de4249ea795b50b2281a61bc7bfaabe91"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based_AT",
+    "sanitizedSymbol": "BASED_AT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119520",
+    "lockerAddress": "0x919EAd0cDc31c53aaC249a7932C5599715EC19B6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SCRMS",
+  "symbol": "SCRMS",
+  "decimals": 18,
+  "description": "SCRMS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCRMS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCRMS",
+  "addresses": {
+    "8453": "0x1c78d2321ce9b00b93ec58036e81eeffcae9458c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCRMS",
+    "sanitizedSymbol": "SCRMS",
+    "created_at": "2024-12-11T03:05:09.58357",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1411520",
+    "lockerAddress": "0x919a7C1ee5344704252896f9060E956c49AC692F"
+  },
+  "clankerInfo": null
+}

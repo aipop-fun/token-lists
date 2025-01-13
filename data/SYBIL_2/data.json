@@ -1,0 +1,22 @@
+{
+  "name": "Sybil",
+  "symbol": "Sybil",
+  "decimals": 18,
+  "description": "Sybil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sybil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sybil",
+  "addresses": {
+    "8453": "0x20c8e292210ad03665f59049cede108370728df3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sybil",
+    "sanitizedSymbol": "SYBIL_2",
+    "created_at": "2024-12-09T18:08:37.442513",
+    "deployer": "0x3beAB2b8a1Db9F91B773397A11A01C56949f0a16",
+    "lpNftId": "1390039",
+    "lockerAddress": "0xB1e7C9a09c8E26F9896e4871d5cdcDe0dabd001a"
+  },
+  "clankerInfo": null
+}

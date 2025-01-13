@@ -1,0 +1,22 @@
+{
+  "name": "Adrenaline",
+  "symbol": "Adrenaline",
+  "decimals": 18,
+  "description": "Adrenaline is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Adrenaline",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Adrenaline",
+  "addresses": {
+    "8453": "0x39dbbbb25095d51322dc4e50b0de19484c15ded0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Adrenaline",
+    "sanitizedSymbol": "ADRENALINE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1140f01a6ddeCca7804f00D5C2D63F18b70231e",
+    "lpNftId": "1287422",
+    "lockerAddress": "0xC93236f84d57A48fdc32c91608842A09C3930F1c"
+  },
+  "clankerInfo": null
+}

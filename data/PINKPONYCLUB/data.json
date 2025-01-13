@@ -1,0 +1,22 @@
+{
+  "name": "pinkponyclub",
+  "symbol": "pinkponyclub",
+  "decimals": 18,
+  "description": "pinkponyclub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pinkponyclub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pinkponyclub",
+  "addresses": {
+    "8453": "0x32d806badca3959d010a11f9998fd6e64fb2d273"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pinkponyclub",
+    "sanitizedSymbol": "PINKPONYCLUB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217902",
+    "lockerAddress": "0xDc52b07a5c210BFb792F4e7264e9EE1AE5Ac477d"
+  },
+  "clankerInfo": null
+}

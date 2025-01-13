@@ -1,0 +1,22 @@
+{
+  "name": "The Dealer",
+  "symbol": "The Dealer",
+  "decimals": 18,
+  "description": "The Dealer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Dealer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Dealer",
+  "addresses": {
+    "8453": "0x185d18aca75b227c6dcf192506f3591eb12ec249"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Dealer",
+    "sanitizedSymbol": "THE_DEALER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE603Dc0111Ff9f69E3F7904A82112f9CBdE8A947",
+    "lpNftId": "1300260",
+    "lockerAddress": "0x622a3E502d533b37D84Da49c2efBA6150d1caEE4"
+  },
+  "clankerInfo": null
+}

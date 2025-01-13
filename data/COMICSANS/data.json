@@ -1,0 +1,22 @@
+{
+  "name": "ComicSans",
+  "symbol": "ComicSans",
+  "decimals": 18,
+  "description": "ComicSans is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ComicSans",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ComicSans",
+  "addresses": {
+    "8453": "0x28c87cca66af5898eb3eb281913bbea3346f2cda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ComicSans",
+    "sanitizedSymbol": "COMICSANS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x183f147159D10b88f4fB27A00Bb5A491E16d69bb",
+    "lpNftId": "1296698",
+    "lockerAddress": "0x5f3119b327362193Abe1f358CbC422d900F33445"
+  },
+  "clankerInfo": null
+}

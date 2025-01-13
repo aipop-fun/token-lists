@@ -1,0 +1,22 @@
+{
+  "name": "Bird Coin",
+  "symbol": "Bird Coin",
+  "decimals": 18,
+  "description": "Bird Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bird%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bird Coin",
+  "addresses": {
+    "8453": "0x3be97dae7a1b788902d3b0c465eeb8fc28d37df7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bird Coin",
+    "sanitizedSymbol": "BIRD_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1318204",
+    "lockerAddress": "0xD142e36AfDB41009140a7bb2dbDF63567C1E5AB5"
+  },
+  "clankerInfo": null
+}

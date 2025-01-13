@@ -1,0 +1,22 @@
+{
+  "name": "FARCASTLE",
+  "symbol": "FARCASTLE",
+  "decimals": 18,
+  "description": "FARCASTLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCASTLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCASTLE",
+  "addresses": {
+    "8453": "0x2c9f96861b0b87de34b862e0d1bb86ab0b913c88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCASTLE",
+    "sanitizedSymbol": "FARCASTLE",
+    "created_at": "2024-12-11T11:40:45.912473",
+    "deployer": "0x9250fc79B14D7A111bB7E66291b53F23CC211b33",
+    "lpNftId": "1417145",
+    "lockerAddress": "0x8E6F580863813bBF8952248503D7B7328e5EC224"
+  },
+  "clankerInfo": null
+}

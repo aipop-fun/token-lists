@@ -1,0 +1,22 @@
+{
+  "name": "NX",
+  "symbol": "NX",
+  "decimals": 18,
+  "description": "NX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NX",
+  "addresses": {
+    "8453": "0x3b384f85600337b7416ed95805e03ac39e7282ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NX",
+    "sanitizedSymbol": "NX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204649",
+    "lockerAddress": "0xD8f92f620a176509c7E20c7778297c29914aa3c4"
+  },
+  "clankerInfo": null
+}

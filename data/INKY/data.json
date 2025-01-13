@@ -1,0 +1,22 @@
+{
+  "name": "Inky",
+  "symbol": "Inky",
+  "decimals": 18,
+  "description": "Inky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Inky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Inky",
+  "addresses": {
+    "8453": "0x41a399eac3d40249032d47bc8685eef8634bd898"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Inky",
+    "sanitizedSymbol": "INKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233179",
+    "lockerAddress": "0x6ACa785916C5ec55a72cDF7503F90b8d261C3Ac5"
+  },
+  "clankerInfo": null
+}

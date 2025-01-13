@@ -1,0 +1,22 @@
+{
+  "name": "wCLANKER",
+  "symbol": "wCLANKER",
+  "decimals": 18,
+  "description": "wCLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wCLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wCLANKER",
+  "addresses": {
+    "8453": "0x29daad687b2a8ae42216fcfdab6cf52ff5b0ce83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wCLANKER",
+    "sanitizedSymbol": "WCLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBf5288Ca06D08B19885B107d51b81462f3AF4D84",
+    "lpNftId": "1308864",
+    "lockerAddress": "0x27F31B392852A05B4f0Cb41A4C8aEf451d089f2B"
+  },
+  "clankerInfo": null
+}

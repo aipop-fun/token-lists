@@ -1,0 +1,22 @@
+{
+  "name": "Manaj",
+  "symbol": "Manaj",
+  "decimals": 18,
+  "description": "Manaj is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Manaj",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Manaj",
+  "addresses": {
+    "8453": "0x3a15d591feac85a9f6b5904a1da3f550a60b5152"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Manaj",
+    "sanitizedSymbol": "MANAJ",
+    "created_at": "2024-12-12T15:41:26.768884",
+    "deployer": "0xeADa460F552A2074B723fa4E232BDc1f7852acDc",
+    "lpNftId": "1437284",
+    "lockerAddress": "0x55D90C32791a8f7572A91310C8154f7910583a4F"
+  },
+  "clankerInfo": null
+}

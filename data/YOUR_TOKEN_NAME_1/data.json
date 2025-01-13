@@ -1,0 +1,22 @@
+{
+  "name": "Your Token Name",
+  "symbol": "Your Token Name",
+  "decimals": 18,
+  "description": "Your Token Name is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Your%20Token%20Name",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Your Token Name",
+  "addresses": {
+    "8453": "0x03c1a59a0d88c61687c05a94ee8d8e1615791d45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Your Token Name",
+    "sanitizedSymbol": "YOUR_TOKEN_NAME_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124256",
+    "lockerAddress": "0x25272E4ba75F03Ae7C8D0c6dE2Ca0e7E28C28Fe1"
+  },
+  "clankerInfo": null
+}

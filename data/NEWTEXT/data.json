@@ -1,0 +1,22 @@
+{
+  "name": "newtext",
+  "symbol": "newtext",
+  "decimals": 18,
+  "description": "newtext is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=newtext",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "newtext",
+  "addresses": {
+    "8453": "0x391213f6b2f53469ad55887833a6a05fc67ab571"
+  },
+  "tokenInfo": {
+    "originalSymbol": "newtext",
+    "sanitizedSymbol": "NEWTEXT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAff3d8f4525E6A334BA8ec9cC9A1692aA61EA03f",
+    "lpNftId": "1319816",
+    "lockerAddress": "0x586e110832bb3a0F89932008cD4C20E30D74C818"
+  },
+  "clankerInfo": null
+}

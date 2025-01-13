@@ -1,0 +1,22 @@
+{
+  "name": "Truckers",
+  "symbol": "Truckers",
+  "decimals": 18,
+  "description": "Truckers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Truckers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Truckers",
+  "addresses": {
+    "8453": "0x25f7dba0fef40ae89f41e97dba9d06ccc4b4263a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Truckers",
+    "sanitizedSymbol": "TRUCKERS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x33aCF8197D4DeD5E0C0354f22e8504d2798690EA",
+    "lpNftId": "1265761",
+    "lockerAddress": "0x8618A75D4F3a6c74A790419340140907eCeA05af"
+  },
+  "clankerInfo": null
+}

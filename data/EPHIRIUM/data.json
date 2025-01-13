@@ -1,0 +1,22 @@
+{
+  "name": "EPHIRIUM",
+  "symbol": "EPHIRIUM",
+  "decimals": 18,
+  "description": "EPHIRIUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EPHIRIUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EPHIRIUM",
+  "addresses": {
+    "8453": "0x0ff68d35bbd929dd6ffaaa605bb502065f54f679"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EPHIRIUM",
+    "sanitizedSymbol": "EPHIRIUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1322490",
+    "lockerAddress": "0xedf70685C6F3CE335f2bC069f104FbAC83876BA5"
+  },
+  "clankerInfo": null
+}

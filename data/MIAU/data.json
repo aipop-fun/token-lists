@@ -1,0 +1,22 @@
+{
+  "name": "Miau",
+  "symbol": "Miau",
+  "decimals": 18,
+  "description": "Miau is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miau",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miau",
+  "addresses": {
+    "8453": "0x2a461746eb29e308ecdcf04296dfe1141eeffa9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miau",
+    "sanitizedSymbol": "MIAU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151800",
+    "lockerAddress": "0x05484Ae0f9AA137B6D648f09e01212b08b6cfc18"
+  },
+  "clankerInfo": null
+}

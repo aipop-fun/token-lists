@@ -1,0 +1,22 @@
+{
+  "name": "Young Pely Base",
+  "symbol": "Young Pely Base",
+  "decimals": 18,
+  "description": "Young Pely Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Young%20Pely%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Young Pely Base",
+  "addresses": {
+    "8453": "0x30e31e608cbe41abbac12057a71fbadbfde2caa6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Young Pely Base",
+    "sanitizedSymbol": "YOUNG_PELY_BASE",
+    "created_at": "2024-12-10T07:21:03.235486",
+    "deployer": "0x46fA4606FCD4f26b60cDeF1D2C19C3A07b54418F",
+    "lpNftId": "1397851",
+    "lockerAddress": "0xF58F36fD04E8290C9D5E780d5914ce0B93c3C4a9"
+  },
+  "clankerInfo": null
+}

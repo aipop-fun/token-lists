@@ -1,0 +1,22 @@
+{
+  "name": "EthTurtle",
+  "symbol": "EthTurtle",
+  "decimals": 18,
+  "description": "EthTurtle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EthTurtle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EthTurtle",
+  "addresses": {
+    "8453": "0x11564082b9140680e53ec76a6d8dc44ee586b427"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EthTurtle",
+    "sanitizedSymbol": "ETHTURTLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231783",
+    "lockerAddress": "0xA36CAF8f4Afbc07fb0cf942655152d6B1b9FbA7b"
+  },
+  "clankerInfo": null
+}

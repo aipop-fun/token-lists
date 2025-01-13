@@ -1,0 +1,22 @@
+{
+  "name": "Eth to $4K",
+  "symbol": "Eth to $4K",
+  "decimals": 18,
+  "description": "Eth to $4K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eth%20to%20%244K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eth to $4K",
+  "addresses": {
+    "8453": "0x0fa9eea1221be54a0c879cf5c7c3f6637dd2eada"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eth to $4K",
+    "sanitizedSymbol": "ETH_TO_4K",
+    "created_at": "2024-12-12T17:20:34.91676",
+    "deployer": "0x946a9Ba3C8c3EEa5f9DCe3c65A0d77850187Cb1D",
+    "lpNftId": "1439374",
+    "lockerAddress": "0xD33959557CDf11E3F847Fd80203aB44Eac267A8F"
+  },
+  "clankerInfo": null
+}

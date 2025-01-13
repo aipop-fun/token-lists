@@ -1,0 +1,22 @@
+{
+  "name": "warpost",
+  "symbol": "warpost",
+  "decimals": 18,
+  "description": "warpost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=warpost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "warpost",
+  "addresses": {
+    "8453": "0x30c3d5bb21962a0349aff7d466b1705c4e6e0185"
+  },
+  "tokenInfo": {
+    "originalSymbol": "warpost",
+    "sanitizedSymbol": "WARPOST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159801",
+    "lockerAddress": "0xCe8ca42d47C9DDA1e5D4cb7D518e7c1968C1D387"
+  },
+  "clankerInfo": null
+}

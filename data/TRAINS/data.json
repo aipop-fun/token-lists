@@ -1,0 +1,22 @@
+{
+  "name": "trains",
+  "symbol": "trains",
+  "decimals": 18,
+  "description": "trains is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trains",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trains",
+  "addresses": {
+    "8453": "0x32c6ba896d7e248f52aefdc2312f708867fde8ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trains",
+    "sanitizedSymbol": "TRAINS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7cc4E967242E1CaD92152d47AE0bB9169e97d553",
+    "lpNftId": "1289826",
+    "lockerAddress": "0x6724fC63e15e445d6B8817d7F0256693Fc56cAbF"
+  },
+  "clankerInfo": null
+}

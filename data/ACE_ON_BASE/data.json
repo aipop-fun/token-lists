@@ -1,0 +1,22 @@
+{
+  "name": "Ace On Base",
+  "symbol": "Ace On Base",
+  "decimals": 18,
+  "description": "Ace On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ace%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ace On Base",
+  "addresses": {
+    "8453": "0x3597d909175ca03f8285450a2ddd7f643fbbfdb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ace On Base",
+    "sanitizedSymbol": "ACE_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219378",
+    "lockerAddress": "0xc788d7A2c3c648e98c993906d4eb195851da5D70"
+  },
+  "clankerInfo": null
+}

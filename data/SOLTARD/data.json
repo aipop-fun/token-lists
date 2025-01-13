@@ -1,0 +1,22 @@
+{
+  "name": "Soltard",
+  "symbol": "Soltard",
+  "decimals": 18,
+  "description": "Soltard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Soltard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Soltard",
+  "addresses": {
+    "8453": "0x18e39b878c9dcc7c568521143e094ec2782cb1a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Soltard",
+    "sanitizedSymbol": "SOLTARD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1319019",
+    "lockerAddress": "0x4E8911EF18F9CEC9531A1393bFc7fccc7e0aa257"
+  },
+  "clankerInfo": null
+}

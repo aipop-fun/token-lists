@@ -1,0 +1,22 @@
+{
+  "name": "UNACLIPPY",
+  "symbol": "UNACLIPPY",
+  "decimals": 18,
+  "description": "UNACLIPPY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNACLIPPY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNACLIPPY",
+  "addresses": {
+    "8453": "0x296acd3348dce16a8b6c9f045cc2b832e8402af6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNACLIPPY",
+    "sanitizedSymbol": "UNACLIPPY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3d95D4A6DbaE0Cd0643a82b13A13b08921D6ADf7",
+    "lpNftId": "1329073",
+    "lockerAddress": "0xBD8b6E3493c3dc08D89D6bE377a8aAd45F4dfb1C"
+  },
+  "clankerInfo": null
+}

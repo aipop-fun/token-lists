@@ -1,0 +1,22 @@
+{
+  "name": "Billy Buffalo",
+  "symbol": "Billy Buffalo",
+  "decimals": 18,
+  "description": "Billy Buffalo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Billy%20Buffalo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Billy Buffalo",
+  "addresses": {
+    "8453": "0x295a84d1fc5c1c08be52a21865b8e4aaef92f392"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Billy Buffalo",
+    "sanitizedSymbol": "BILLY_BUFFALO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8Ae349707ab1A3E868d3A6F6B934f177232D3d33",
+    "lpNftId": "1266753",
+    "lockerAddress": "0xB5C9F9B270435240C4d2d1796E05fE4954ec3451"
+  },
+  "clankerInfo": null
+}

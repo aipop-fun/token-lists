@@ -1,0 +1,22 @@
+{
+  "name": "RobbitHood",
+  "symbol": "RobbitHood",
+  "decimals": 18,
+  "description": "RobbitHood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RobbitHood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RobbitHood",
+  "addresses": {
+    "8453": "0x1bad376118a0951396e262c3916b7602f93c1994"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RobbitHood",
+    "sanitizedSymbol": "ROBBITHOOD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1374402",
+    "lockerAddress": "0x8a2E4d365c60EEBe11cd602eEC59c72e58e7448A"
+  },
+  "clankerInfo": null
+}

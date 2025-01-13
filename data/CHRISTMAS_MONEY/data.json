@@ -1,0 +1,22 @@
+{
+  "name": "Christmas Money",
+  "symbol": "Christmas Money",
+  "decimals": 18,
+  "description": "Christmas Money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Christmas%20Money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Christmas Money",
+  "addresses": {
+    "8453": "0x330f1965717cf2f09e9ff4945291babbce3def23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Christmas Money",
+    "sanitizedSymbol": "CHRISTMAS_MONEY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC1F8f30f261A53BF5C3a0711dC1157eDfD31b694",
+    "lpNftId": "1333307",
+    "lockerAddress": "0xBD4e1cD3847Fc0A7cd037d6C52364cd4D81d9071"
+  },
+  "clankerInfo": null
+}

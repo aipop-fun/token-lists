@@ -1,0 +1,22 @@
+{
+  "name": "Cult On Base",
+  "symbol": "Cult On Base",
+  "decimals": 18,
+  "description": "Cult On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cult%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cult On Base",
+  "addresses": {
+    "8453": "0x22cf5353264393b06907b7d27bca7c3a08476cc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cult On Base",
+    "sanitizedSymbol": "CULT_ON_BASE",
+    "created_at": "2024-12-09T14:46:33.749121",
+    "deployer": "0x3A7d19Ba6534ab149F8fE95F832cfF8D64A0321c",
+    "lpNftId": "1388132",
+    "lockerAddress": "0xDb23Dcf38279f0C472F800531c1cC54C4a53D905"
+  },
+  "clankerInfo": null
+}

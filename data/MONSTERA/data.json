@@ -1,0 +1,22 @@
+{
+  "name": "Monstera",
+  "symbol": "Monstera",
+  "decimals": 18,
+  "description": "Monstera is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monstera",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monstera",
+  "addresses": {
+    "8453": "0x35013e2b8c446ef9cba08d83679f3ee727d467f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monstera",
+    "sanitizedSymbol": "MONSTERA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157539",
+    "lockerAddress": "0xAf1B1A57ce2E65609604212e2e11B12B71db742e"
+  },
+  "clankerInfo": null
+}

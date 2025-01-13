@@ -1,0 +1,22 @@
+{
+  "name": "BABALUN",
+  "symbol": "BABALUN",
+  "decimals": 18,
+  "description": "BABALUN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABALUN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABALUN",
+  "addresses": {
+    "8453": "0x0efaa273c4535ee869e3037f0987a19ab090a5cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABALUN",
+    "sanitizedSymbol": "BABALUN",
+    "created_at": "2024-12-11T12:38:03.681917",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1418287",
+    "lockerAddress": "0x0f6C41D0904BF4d8B697Dd48475D7DcCB2AC4dC7"
+  },
+  "clankerInfo": null
+}

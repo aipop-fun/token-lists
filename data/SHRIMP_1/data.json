@@ -1,0 +1,22 @@
+{
+  "name": "SHRIMP",
+  "symbol": "SHRIMP",
+  "decimals": 18,
+  "description": "SHRIMP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHRIMP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHRIMP",
+  "addresses": {
+    "8453": "0x06ba5e08151f720afc6f1c9b902f6e7be7324b63"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHRIMP",
+    "sanitizedSymbol": "SHRIMP_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x03d746500894E8eF5041736Baf66D9AebdEE1898",
+    "lpNftId": "1343752",
+    "lockerAddress": "0x58631305392a4a67113BeA559cA6b3EBf9Bc4FFf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "RECAP",
+  "symbol": "RECAP",
+  "decimals": 18,
+  "description": "RECAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RECAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RECAP",
+  "addresses": {
+    "8453": "0x0a9931a9df3c2adc7d333d77d7509255cf8a8267"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RECAP",
+    "sanitizedSymbol": "RECAP",
+    "created_at": "2024-12-09T07:26:54.016906",
+    "deployer": "0x97300791462D8ACc2B7882726C2dCafE67a84E2D",
+    "lpNftId": "1384388",
+    "lockerAddress": "0xbb7dad028e97BBA06d0aB631567EA3dCAE79B84F"
+  },
+  "clankerInfo": null
+}

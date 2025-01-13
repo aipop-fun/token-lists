@@ -1,0 +1,22 @@
+{
+  "name": "NICE",
+  "symbol": "NICE",
+  "decimals": 18,
+  "description": "NICE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NICE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NICE",
+  "addresses": {
+    "8453": "0x18ef348f2c53134a0d825f995e93652341b460d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NICE",
+    "sanitizedSymbol": "NICE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x38cD604670Bbd1993C91E25125bdB2054CD2B65F",
+    "lpNftId": "1354820",
+    "lockerAddress": "0x7E9D367D61b221a130FD70db05FfD907Cb484695"
+  },
+  "clankerInfo": null
+}

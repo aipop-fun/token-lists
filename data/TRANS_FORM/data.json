@@ -1,0 +1,22 @@
+{
+  "name": "Trans-Form",
+  "symbol": "Trans-Form",
+  "decimals": 18,
+  "description": "Trans-Form is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trans-Form",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trans-Form",
+  "addresses": {
+    "8453": "0x221f6d07d1a2a28422f368d9be336afb0599c0af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trans-Form",
+    "sanitizedSymbol": "TRANS_FORM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62d517B3913f9d8f04e2ff70Dc5FbBE73119FF6f",
+    "lpNftId": "1320061",
+    "lockerAddress": "0x9b7B5c6cb970d975C5dE2D7F38C4aB2C822C7a00"
+  },
+  "clankerInfo": null
+}

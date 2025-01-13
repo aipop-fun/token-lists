@@ -1,0 +1,22 @@
+{
+  "name": "Him",
+  "symbol": "Him",
+  "decimals": 18,
+  "description": "Him is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Him",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Him",
+  "addresses": {
+    "8453": "0x3d26d7707bf535a631b31b4da7bd68910c3b2043"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Him",
+    "sanitizedSymbol": "HIM_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158396",
+    "lockerAddress": "0x3f3C8674722B1A7593511a08AC06F5622e597111"
+  },
+  "clankerInfo": null
+}

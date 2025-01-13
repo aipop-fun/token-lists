@@ -1,0 +1,22 @@
+{
+  "name": "WORLD COIN",
+  "symbol": "WORLD COIN",
+  "decimals": 18,
+  "description": "WORLD COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WORLD%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WORLD COIN",
+  "addresses": {
+    "8453": "0x02dc4a4abc408c92aafb1fd5269cc7382af5afc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WORLD COIN",
+    "sanitizedSymbol": "WORLD_COIN",
+    "created_at": "2024-12-11T08:30:57.456522",
+    "deployer": "0x6ADF9DDAEb5178510149E92aF66207A8a307F6aB",
+    "lpNftId": "1415001",
+    "lockerAddress": "0x3c236C4a862C61396cA311fa6a017dA102e3c15F"
+  },
+  "clankerInfo": null
+}

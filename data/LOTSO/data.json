@@ -1,0 +1,22 @@
+{
+  "name": "Lotso",
+  "symbol": "Lotso",
+  "decimals": 18,
+  "description": "Lotso is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lotso",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lotso",
+  "addresses": {
+    "8453": "0x2cd00047cfb823b129b36b8edb37fe3ecd5b3766"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lotso",
+    "sanitizedSymbol": "LOTSO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x20eFE3Df8F6A58d98a9F60CEF112AA74f9D074ea",
+    "lpNftId": "1318741",
+    "lockerAddress": "0x619263Ea116D30c784F0Ac79717251e069883E7a"
+  },
+  "clankerInfo": null
+}

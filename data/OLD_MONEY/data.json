@@ -1,0 +1,22 @@
+{
+  "name": "$OLD-MONEY",
+  "symbol": "$OLD-MONEY",
+  "decimals": 18,
+  "description": "$OLD-MONEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24OLD-MONEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$OLD-MONEY",
+  "addresses": {
+    "8453": "0x3a8e335f5e384dfad44ee0d749744d313ef10567"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$OLD-MONEY",
+    "sanitizedSymbol": "OLD_MONEY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217644",
+    "lockerAddress": "0x82cb49d548F558e721F381406125418219268a5B"
+  },
+  "clankerInfo": null
+}

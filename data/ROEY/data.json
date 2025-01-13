@@ -1,0 +1,22 @@
+{
+  "name": "roey",
+  "symbol": "roey",
+  "decimals": 18,
+  "description": "roey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=roey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "roey",
+  "addresses": {
+    "8453": "0x24e34a84156bd9ea55d4a5a89c46e3ba148e8645"
+  },
+  "tokenInfo": {
+    "originalSymbol": "roey",
+    "sanitizedSymbol": "ROEY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc14Fb3F6cb9Fed43021f57CA6092FEEA841978b9",
+    "lpNftId": "1325088",
+    "lockerAddress": "0x486f884C547bAB50C114A8c4e60EF6A4a80FfBFF"
+  },
+  "clankerInfo": null
+}

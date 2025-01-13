@@ -1,0 +1,22 @@
+{
+  "name": "AskMeAnything",
+  "symbol": "AskMeAnything",
+  "decimals": 18,
+  "description": "AskMeAnything is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AskMeAnything",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AskMeAnything",
+  "addresses": {
+    "8453": "0x36f7cfcc6e794139dbfb7136420cb6d90a8f0720"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AskMeAnything",
+    "sanitizedSymbol": "ASKMEANYTHING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221846",
+    "lockerAddress": "0xD8d567496DE21e7A82c6843dEf769D9B8ce14Bc6"
+  },
+  "clankerInfo": null
+}

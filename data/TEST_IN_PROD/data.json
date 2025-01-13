@@ -1,0 +1,22 @@
+{
+  "name": "test in prod",
+  "symbol": "test in prod",
+  "decimals": 18,
+  "description": "test in prod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=test%20in%20prod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "test in prod",
+  "addresses": {
+    "8453": "0x135394779e1ad400a708a938647872f353265311"
+  },
+  "tokenInfo": {
+    "originalSymbol": "test in prod",
+    "sanitizedSymbol": "TEST_IN_PROD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236420",
+    "lockerAddress": "0x85836820132172e2B401ed873429820b24cbAfDE"
+  },
+  "clankerInfo": null
+}

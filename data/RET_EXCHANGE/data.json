@@ -1,0 +1,22 @@
+{
+  "name": "RET EXCHANGE",
+  "symbol": "RET EXCHANGE",
+  "decimals": 18,
+  "description": "RET EXCHANGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RET%20EXCHANGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RET EXCHANGE",
+  "addresses": {
+    "8453": "0x039559fdcdbfaa0a6309e7c067b9e5e1339bacb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RET EXCHANGE",
+    "sanitizedSymbol": "RET_EXCHANGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195221",
+    "lockerAddress": "0x9534A772c984c40bfcE8635d8030Eb666F77EAFe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shizuku",
+  "symbol": "Shizuku",
+  "decimals": 18,
+  "description": "Shizuku is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shizuku",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shizuku",
+  "addresses": {
+    "8453": "0x00b53e8f322846022ba45dd5e20518e73720fe86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shizuku",
+    "sanitizedSymbol": "SHIZUKU",
+    "created_at": "2024-12-12T02:59:10.54913",
+    "deployer": "0x000db64c851614e8518173b1720CAc509177D404",
+    "lpNftId": "1428754",
+    "lockerAddress": "0x6db2b1C90ef3499f9aDdA7aEe7e8146c2a00cC70"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sky's the Limit",
+  "symbol": "Sky's the Limit",
+  "decimals": 18,
+  "description": "Sky's the Limit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sky's%20the%20Limit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sky's the Limit",
+  "addresses": {
+    "8453": "0x1255fac2c6755779dc53e9e81fe1587ac5fc881a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sky's the Limit",
+    "sanitizedSymbol": "SKY_S_THE_LIMIT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235721",
+    "lockerAddress": "0x71727498c10D46f6C408208a39B89D5E43a5846f"
+  },
+  "clankerInfo": null
+}

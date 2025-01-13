@@ -1,0 +1,22 @@
+{
+  "name": "Jaionahorse",
+  "symbol": "Jaionahorse",
+  "decimals": 18,
+  "description": "Jaionahorse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jaionahorse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jaionahorse",
+  "addresses": {
+    "8453": "0x2c112316bcd67f8ffd0995665c073d44cb0b7d8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jaionahorse",
+    "sanitizedSymbol": "JAIONAHORSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219607",
+    "lockerAddress": "0x9f2a440C29A92e241986b60e55c48804c5b8Fb52"
+  },
+  "clankerInfo": null
+}

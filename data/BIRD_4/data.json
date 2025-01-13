@@ -1,0 +1,22 @@
+{
+  "name": "bird",
+  "symbol": "bird",
+  "decimals": 18,
+  "description": "bird is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bird",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bird",
+  "addresses": {
+    "8453": "0x309cf27cef80475f4dc4f8c78d4e9155b276a344"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bird",
+    "sanitizedSymbol": "BIRD_4",
+    "created_at": "2024-12-10T14:11:49.309606",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401722",
+    "lockerAddress": "0x63C15391Cb13088f2FC09c2aAE3210571560Af1B"
+  },
+  "clankerInfo": null
+}

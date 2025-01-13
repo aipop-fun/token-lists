@@ -1,0 +1,22 @@
+{
+  "name": "Butterbear",
+  "symbol": "Butterbear",
+  "decimals": 18,
+  "description": "Butterbear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Butterbear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Butterbear",
+  "addresses": {
+    "8453": "0x08f525d5d350ff96f3c803d6abd8f44570c1e466"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Butterbear",
+    "sanitizedSymbol": "BUTTERBEAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219535",
+    "lockerAddress": "0xBc18C25012589a9AaE3693c63E47d8c7C90029Cc"
+  },
+  "clankerInfo": null
+}

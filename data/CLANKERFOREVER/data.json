@@ -1,0 +1,22 @@
+{
+  "name": "ClankerForever",
+  "symbol": "ClankerForever",
+  "decimals": 18,
+  "description": "ClankerForever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerForever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerForever",
+  "addresses": {
+    "8453": "0x36d6959599086b8d35f682f9b03981bb0414dcb0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerForever",
+    "sanitizedSymbol": "CLANKERFOREVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x5ec874D76AF49F53E7b2F8BB07d1180874886f87",
+    "lpNftId": "1250475",
+    "lockerAddress": "0x211a5fA0fc609ACa67e256d0CB64DB1b9eb30014"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dude Dev FC",
+  "symbol": "Dude Dev FC",
+  "decimals": 18,
+  "description": "Dude Dev FC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dude%20Dev%20FC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dude Dev FC",
+  "addresses": {
+    "8453": "0x1b00dd3508453bcbd96b56ff717557e94f496d00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dude Dev FC",
+    "sanitizedSymbol": "DUDE_DEV_FC",
+    "created_at": "2024-12-12T16:41:34.857861",
+    "deployer": "0xB3580458B303D12467CA0f79818801aa5780A2A3",
+    "lpNftId": "1438785",
+    "lockerAddress": "0x17BAFD0e51dFB6763836f01A7c73D33FbCb5979a"
+  },
+  "clankerInfo": null
+}

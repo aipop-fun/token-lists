@@ -1,0 +1,22 @@
+{
+  "name": "sigma boy",
+  "symbol": "sigma boy",
+  "decimals": 18,
+  "description": "sigma boy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sigma%20boy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sigma boy",
+  "addresses": {
+    "8453": "0x082bbf0782ac523b443ed88b46cefdbd230f41cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sigma boy",
+    "sanitizedSymbol": "SIGMA_BOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1309571",
+    "lockerAddress": "0x0a1A4673C675c4c86d0Aa0dA5BB79d32a4EDE4ec"
+  },
+  "clankerInfo": null
+}

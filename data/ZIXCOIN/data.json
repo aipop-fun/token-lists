@@ -1,0 +1,22 @@
+{
+  "name": "Zixcoin",
+  "symbol": "Zixcoin",
+  "decimals": 18,
+  "description": "Zixcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zixcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zixcoin",
+  "addresses": {
+    "8453": "0x137201716a2d117715a370954e2dc16884923831"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zixcoin",
+    "sanitizedSymbol": "ZIXCOIN",
+    "created_at": "2024-12-11T02:39:27.21836",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1410911",
+    "lockerAddress": "0x0234262D97198210A506B28b2dBc50a0f4a925EB"
+  },
+  "clankerInfo": null
+}

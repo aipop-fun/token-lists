@@ -1,0 +1,22 @@
+{
+  "name": "Trytosnipe",
+  "symbol": "Trytosnipe",
+  "decimals": 18,
+  "description": "Trytosnipe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trytosnipe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trytosnipe",
+  "addresses": {
+    "8453": "0x1d0435dbeb3785f4a1f0902677305e90d6c91d19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trytosnipe",
+    "sanitizedSymbol": "TRYTOSNIPE_4",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x05Ec339b8401724858DbCF6408fAb221bf54d465",
+    "lpNftId": "1157202",
+    "lockerAddress": "0xCA246312A4bbcF68e1b35aaC1e5e440939C3Fd9E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Black Wolf",
+  "symbol": "Black Wolf",
+  "decimals": 18,
+  "description": "Black Wolf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Wolf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Wolf",
+  "addresses": {
+    "8453": "0x1fd347c344981e4e6f9ff65cbdf38632f134d31d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Wolf",
+    "sanitizedSymbol": "BLACK_WOLF",
+    "created_at": "2024-12-12T15:57:14.703113",
+    "deployer": "0x0e43b2f09BCB18C65EAE18B7F7c0b5D04088Ea7F",
+    "lpNftId": "1437689",
+    "lockerAddress": "0x26D92B89ee3FB569197dE1440dfEc4199920013d"
+  },
+  "clankerInfo": null
+}

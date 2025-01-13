@@ -1,0 +1,22 @@
+{
+  "name": "Genesis Bot",
+  "symbol": "Genesis Bot",
+  "decimals": 18,
+  "description": "Genesis Bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Genesis%20Bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Genesis Bot",
+  "addresses": {
+    "8453": "0x15497184d6a7d691e8b341cb65af46ff3239f4b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Genesis Bot",
+    "sanitizedSymbol": "GENESIS_BOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193421",
+    "lockerAddress": "0x449E131830eda5932f973e11069EE4B40A5eD227"
+  },
+  "clankerInfo": null
+}

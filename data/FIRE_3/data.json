@@ -1,0 +1,22 @@
+{
+  "name": "$Fire",
+  "symbol": "$Fire",
+  "decimals": 18,
+  "description": "$Fire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24Fire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$Fire",
+  "addresses": {
+    "8453": "0x2921ee70dc91528b285510ee98804d368459553b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$Fire",
+    "sanitizedSymbol": "FIRE_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF61F275b7885d7F96B53aE7Ad3C0D15833bcB2b5",
+    "lpNftId": "1326570",
+    "lockerAddress": "0xba96d4025b15c8dBe80e68c7E87055c8d84E12f4"
+  },
+  "clankerInfo": null
+}

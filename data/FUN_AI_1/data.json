@@ -1,0 +1,22 @@
+{
+  "name": "FUN AI",
+  "symbol": "FUN AI",
+  "decimals": 18,
+  "description": "FUN AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUN%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUN AI",
+  "addresses": {
+    "8453": "0x1ff53050fe480d598e87ce5c35e4506cf32b596b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUN AI",
+    "sanitizedSymbol": "FUN_AI_1",
+    "created_at": "2024-12-12T19:47:49.528959",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1441878",
+    "lockerAddress": "0x38D127646D3eb29a7AB9A9224a84a36A4aCEc096"
+  },
+  "clankerInfo": null
+}

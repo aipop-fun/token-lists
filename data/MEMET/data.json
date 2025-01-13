@@ -1,0 +1,22 @@
+{
+  "name": "memet",
+  "symbol": "memet",
+  "decimals": 18,
+  "description": "memet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=memet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "memet",
+  "addresses": {
+    "8453": "0x2e85ecc82a1cfa56704b4fce43eb410e9b8be220"
+  },
+  "tokenInfo": {
+    "originalSymbol": "memet",
+    "sanitizedSymbol": "MEMET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1124267",
+    "lockerAddress": "0x3DFcD07BB8F03fA9cc9a976aEAB8550ee12edC74"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Champion Barcelona Coin",
+  "symbol": "Champion Barcelona Coin",
+  "decimals": 18,
+  "description": "Champion Barcelona Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Champion%20Barcelona%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Champion Barcelona Coin",
+  "addresses": {
+    "8453": "0x3ac40a516451710f4415c23105535d37842603c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Champion Barcelona Coin",
+    "sanitizedSymbol": "CHAMPION_BARCELONA_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234275",
+    "lockerAddress": "0x72e1909FDB3E128f2C79e94bd42b67Fdf605A068"
+  },
+  "clankerInfo": null
+}

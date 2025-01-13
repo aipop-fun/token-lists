@@ -1,0 +1,22 @@
+{
+  "name": "GhostHold",
+  "symbol": "GhostHold",
+  "decimals": 18,
+  "description": "GhostHold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GhostHold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GhostHold",
+  "addresses": {
+    "8453": "0x316da1528b632810bdba200e01c0939eeec4a5f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GhostHold",
+    "sanitizedSymbol": "GHOSTHOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3Cf7D788960A44c3da4E25fBEA530D78E61e3853",
+    "lpNftId": "1315115",
+    "lockerAddress": "0x9468107AeFfcBa0B8db5FE8D7101DAf33C270e59"
+  },
+  "clankerInfo": null
+}

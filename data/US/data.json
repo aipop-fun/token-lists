@@ -1,0 +1,22 @@
+{
+  "name": "us",
+  "symbol": "us",
+  "decimals": 18,
+  "description": "us is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=us",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "us",
+  "addresses": {
+    "8453": "0x14128df5a2f05315dfd5b12dbbd992186e40bc7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "us",
+    "sanitizedSymbol": "US",
+    "created_at": "2024-12-12T10:32:41.721924",
+    "deployer": "0xCb4328Df3a5A6522BF41fD4Ab1E720CffC2a1F76",
+    "lpNftId": "1432715",
+    "lockerAddress": "0xbcB315cdAFc1f841156f65A310281a32e79D50c2"
+  },
+  "clankerInfo": null
+}

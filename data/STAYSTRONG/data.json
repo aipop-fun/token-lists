@@ -1,0 +1,22 @@
+{
+  "name": "STAYSTRONG",
+  "symbol": "STAYSTRONG",
+  "decimals": 18,
+  "description": "STAYSTRONG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STAYSTRONG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STAYSTRONG",
+  "addresses": {
+    "8453": "0x088b3efd28c71f3092dffed1a56b3c73d7c41c32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STAYSTRONG",
+    "sanitizedSymbol": "STAYSTRONG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x61AdceE0922DEA2FC417803A661111554CD5F7c2",
+    "lpNftId": "1250469",
+    "lockerAddress": "0x664c0092aB288413cC032B508DB111082416D146"
+  },
+  "clankerInfo": null
+}

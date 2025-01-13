@@ -1,0 +1,22 @@
+{
+  "name": "CastCat",
+  "symbol": "CastCat",
+  "decimals": 18,
+  "description": "CastCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CastCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CastCat",
+  "addresses": {
+    "8453": "0x110f62955e6860cd922cec145c0eff9ae1d0dd0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CastCat",
+    "sanitizedSymbol": "CASTCAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1362087",
+    "lockerAddress": "0x9D3Fde55cd638288CEeAeEb68005b829fee3b70F"
+  },
+  "clankerInfo": null
+}

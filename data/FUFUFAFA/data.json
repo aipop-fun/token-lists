@@ -1,0 +1,22 @@
+{
+  "name": "FufuFafa",
+  "symbol": "FufuFafa",
+  "decimals": 18,
+  "description": "FufuFafa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FufuFafa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FufuFafa",
+  "addresses": {
+    "8453": "0x02df649e63e3eab72b62f6e4f4c2a11570601323"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FufuFafa",
+    "sanitizedSymbol": "FUFUFAFA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x337789500B26DEa7a602d8Cd50Ee40a008fb0523",
+    "lpNftId": "1329284",
+    "lockerAddress": "0x84FF631225d0050091e83331f59F23fD2F48b240"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cosmogirl",
+  "symbol": "cosmogirl",
+  "decimals": 18,
+  "description": "cosmogirl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cosmogirl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cosmogirl",
+  "addresses": {
+    "8453": "0x2502085b5da232e6dee30ddd9f6b1ad7b71f0961"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cosmogirl",
+    "sanitizedSymbol": "COSMOGIRL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa9daE0C8F1780FFFf312520795619ba133a6d962",
+    "lpNftId": "1292292",
+    "lockerAddress": "0x4513B11EE360D819CAbd8A4A8372a2c591d5Ea10"
+  },
+  "clankerInfo": null
+}

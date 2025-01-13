@@ -1,0 +1,22 @@
+{
+  "name": "MISS",
+  "symbol": "MISS",
+  "decimals": 18,
+  "description": "MISS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MISS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MISS",
+  "addresses": {
+    "8453": "0x1f445d95408b18934f9bde2bd1ab271cc2becd08"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MISS",
+    "sanitizedSymbol": "MISS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2e1F7d8082fc91E880DFa63F6C42737D580cB227",
+    "lpNftId": "1311154",
+    "lockerAddress": "0xcbC2E27b52A306b4f919b315E19766Df576bB472"
+  },
+  "clankerInfo": null
+}

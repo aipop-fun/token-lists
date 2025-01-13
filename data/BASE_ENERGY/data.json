@@ -1,0 +1,22 @@
+{
+  "name": "BASE ENERGY",
+  "symbol": "BASE ENERGY",
+  "decimals": 18,
+  "description": "BASE ENERGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20ENERGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE ENERGY",
+  "addresses": {
+    "8453": "0x33f7d68d3408ebe4b70a7a27bbbda93189dcdb65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE ENERGY",
+    "sanitizedSymbol": "BASE_ENERGY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1162798",
+    "lockerAddress": "0x2F3b67c873089CaB7005A5262c76746D06e065b1"
+  },
+  "clankerInfo": null
+}

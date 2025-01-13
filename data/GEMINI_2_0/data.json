@@ -1,0 +1,22 @@
+{
+  "name": "Gemini 2.0",
+  "symbol": "Gemini 2.0",
+  "decimals": 18,
+  "description": "Gemini 2.0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gemini%202.0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gemini 2.0",
+  "addresses": {
+    "8453": "0x3913bbe1239bd56543174af84342a22f02e77dc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gemini 2.0",
+    "sanitizedSymbol": "GEMINI_2_0",
+    "created_at": "2024-12-11T20:56:20.005025",
+    "deployer": "0x8fe119C244EdEf526eFC2739a2b2e56Cd7aaE80d",
+    "lpNftId": "1425754",
+    "lockerAddress": "0x7719d6e1b46247DAE8106605aDcb7997B0e56F38"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bo_Obs",
+  "symbol": "bo_Obs",
+  "decimals": 18,
+  "description": "bo_Obs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bo_Obs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bo_Obs",
+  "addresses": {
+    "8453": "0x3d4e2953d6242be0216b29bb0f92588613956ecb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bo_Obs",
+    "sanitizedSymbol": "BO_OBS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223911",
+    "lockerAddress": "0x90935594b895Da12d0D25Fb842DD7fc5B1fe74b3"
+  },
+  "clankerInfo": null
+}

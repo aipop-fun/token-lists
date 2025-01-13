@@ -1,0 +1,22 @@
+{
+  "name": "Smoky The Dog",
+  "symbol": "Smoky The Dog",
+  "decimals": 18,
+  "description": "Smoky The Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Smoky%20The%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Smoky The Dog",
+  "addresses": {
+    "8453": "0x0337030b5ee10960eaad6d97c41c14bde3a7e6c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Smoky The Dog",
+    "sanitizedSymbol": "SMOKY_THE_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222787",
+    "lockerAddress": "0x2Cc6175a8BF826048Aa169f7951A820d915c304E"
+  },
+  "clankerInfo": null
+}

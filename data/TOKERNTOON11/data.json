@@ -1,0 +1,22 @@
+{
+  "name": "tokerntoon11",
+  "symbol": "tokerntoon11",
+  "decimals": 18,
+  "description": "tokerntoon11 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tokerntoon11",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tokerntoon11",
+  "addresses": {
+    "8453": "0x04b52be36a5ed39a6d7d6aa59078371ce67a3dfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tokerntoon11",
+    "sanitizedSymbol": "TOKERNTOON11",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234611",
+    "lockerAddress": "0x02E831D5e8d660E7e052b31B4565308a050daa68"
+  },
+  "clankerInfo": null
+}

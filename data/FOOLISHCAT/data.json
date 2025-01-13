@@ -1,0 +1,22 @@
+{
+  "name": "FoolishCat",
+  "symbol": "FoolishCat",
+  "decimals": 18,
+  "description": "FoolishCat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FoolishCat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FoolishCat",
+  "addresses": {
+    "8453": "0x1661aa8be784aa097ee0178a10a60805b1bbd74f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FoolishCat",
+    "sanitizedSymbol": "FOOLISHCAT",
+    "created_at": "2024-12-10T10:14:50.700243",
+    "deployer": "0x3CbB410c69832a7058BC68C84aBfceb8456AFE4A",
+    "lpNftId": "1399587",
+    "lockerAddress": "0x879c9800D19F8108DfE11520729E8bC1C4adDDfF"
+  },
+  "clankerInfo": null
+}

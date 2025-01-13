@@ -1,0 +1,22 @@
+{
+  "name": "Charizard",
+  "symbol": "Charizard",
+  "decimals": 18,
+  "description": "Charizard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Charizard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Charizard",
+  "addresses": {
+    "8453": "0x3778e50d8b45784f42c3f83194e144f66e3ca18d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Charizard",
+    "sanitizedSymbol": "CHARIZARD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa7cd8ECdAAe6C29971794cE9A50Ffe9C4b3741B9",
+    "lpNftId": "1323642",
+    "lockerAddress": "0x78D6444a300b0812Bb49Da17D0927B550f79bb9E"
+  },
+  "clankerInfo": null
+}

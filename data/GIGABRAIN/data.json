@@ -1,0 +1,22 @@
+{
+  "name": "GIGABRAIN",
+  "symbol": "GIGABRAIN",
+  "decimals": 18,
+  "description": "GIGABRAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIGABRAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIGABRAIN",
+  "addresses": {
+    "8453": "0x40b916acbc5a78439d4814a41732ef8122e609e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIGABRAIN",
+    "sanitizedSymbol": "GIGABRAIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x612bD7CA04bA15E1ee37D52643A2f8321226dF38",
+    "lpNftId": "1312234",
+    "lockerAddress": "0x3e9a52747651Cfd6be43528682991eD492F11bb5"
+  },
+  "clankerInfo": null
+}

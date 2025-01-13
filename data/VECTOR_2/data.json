@@ -1,0 +1,22 @@
+{
+  "name": "VECTOR",
+  "symbol": "VECTOR",
+  "decimals": 18,
+  "description": "VECTOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VECTOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VECTOR",
+  "addresses": {
+    "8453": "0x31558228f874817735c488212856abfe7aaafeb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VECTOR",
+    "sanitizedSymbol": "VECTOR_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1326314",
+    "lockerAddress": "0x5f08e4879B6F2836f1B6786367a2AF8EAd352914"
+  },
+  "clankerInfo": null
+}

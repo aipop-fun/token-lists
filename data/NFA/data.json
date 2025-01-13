@@ -1,0 +1,22 @@
+{
+  "name": "nfa",
+  "symbol": "nfa",
+  "decimals": 18,
+  "description": "nfa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nfa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nfa",
+  "addresses": {
+    "8453": "0x0920025b2779c2a5b714fe81bb2c64478f189c90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nfa",
+    "sanitizedSymbol": "NFA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231652",
+    "lockerAddress": "0x4E673957631E660209745614Dd649A1832ee6dDd"
+  },
+  "clankerInfo": null
+}

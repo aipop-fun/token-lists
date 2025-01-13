@@ -1,0 +1,22 @@
+{
+  "name": "Guitar Track",
+  "symbol": "Guitar Track",
+  "decimals": 18,
+  "description": "Guitar Track is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Guitar%20Track",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Guitar Track",
+  "addresses": {
+    "8453": "0x09598e8239377e52607573b58991d9138de15172"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Guitar Track",
+    "sanitizedSymbol": "GUITAR_TRACK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcc72EC07Ac9852AD696d532708888c0486459088",
+    "lpNftId": "1308758",
+    "lockerAddress": "0x544277D037dD8c5CCCd4409Ce4C430Ce45759e3a"
+  },
+  "clankerInfo": null
+}

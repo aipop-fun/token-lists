@@ -1,0 +1,22 @@
+{
+  "name": "You Only Live Once",
+  "symbol": "You Only Live Once",
+  "decimals": 18,
+  "description": "You Only Live Once is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=You%20Only%20Live%20Once",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "You Only Live Once",
+  "addresses": {
+    "8453": "0x0e6d5cc1d39c1143fcd1144cb59220b21f8de7d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "You Only Live Once",
+    "sanitizedSymbol": "YOU_ONLY_LIVE_ONCE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217120",
+    "lockerAddress": "0x553Add4245D4BA3B7cf589C2209cEf95C1F4bEeD"
+  },
+  "clankerInfo": null
+}

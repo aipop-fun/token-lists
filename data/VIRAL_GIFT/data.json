@@ -1,0 +1,22 @@
+{
+  "name": "Viral Gift",
+  "symbol": "Viral Gift",
+  "decimals": 18,
+  "description": "Viral Gift is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Viral%20Gift",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Viral Gift",
+  "addresses": {
+    "8453": "0x3b3d18942937a33b112a7c29af0d88df8e191c43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Viral Gift",
+    "sanitizedSymbol": "VIRAL_GIFT",
+    "created_at": "2024-12-11T18:53:29.136209",
+    "deployer": "0xa81c4D9526D38876bEa6123870d425291A7a5e6C",
+    "lpNftId": "1424239",
+    "lockerAddress": "0x69E16bdB804d6353d87c9Dd92B2D359a5C820868"
+  },
+  "clankerInfo": null
+}

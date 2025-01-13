@@ -1,0 +1,22 @@
+{
+  "name": "AKEFISH",
+  "symbol": "AKEFISH",
+  "decimals": 18,
+  "description": "AKEFISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AKEFISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AKEFISH",
+  "addresses": {
+    "8453": "0x07c73d628f2f9a45399adf40cbb0c7d43f11bea0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AKEFISH",
+    "sanitizedSymbol": "AKEFISH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0b8cf1dC5AE5490f60f1d594DDaa7EdA921Fd04D",
+    "lpNftId": "1250769",
+    "lockerAddress": "0x1D9563CDFc039121E99C4385756572621D752249"
+  },
+  "clankerInfo": null
+}

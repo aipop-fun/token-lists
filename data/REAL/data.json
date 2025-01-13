@@ -1,0 +1,22 @@
+{
+  "name": "Real",
+  "symbol": "Real",
+  "decimals": 18,
+  "description": "Real is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Real",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Real",
+  "addresses": {
+    "8453": "0x2f4d72f017ebf74d4ad6b7d34810d04186f5ac8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Real",
+    "sanitizedSymbol": "REAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1144156",
+    "lockerAddress": "0x7D04D9a8BeFB1F11f603775D36011AbdDA463A3b"
+  },
+  "clankerInfo": null
+}

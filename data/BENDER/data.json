@@ -1,0 +1,22 @@
+{
+  "name": "Bender",
+  "symbol": "Bender",
+  "decimals": 18,
+  "description": "Bender is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bender",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bender",
+  "addresses": {
+    "8453": "0x233edf0e83591da682a1b7efb9e374f1a3e171ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bender",
+    "sanitizedSymbol": "BENDER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119880",
+    "lockerAddress": "0x83e98c07EB0454A41B68e1243e9B8495cdD10916"
+  },
+  "clankerInfo": null
+}

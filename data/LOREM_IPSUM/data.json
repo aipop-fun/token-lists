@@ -1,0 +1,22 @@
+{
+  "name": "Lorem Ipsum",
+  "symbol": "Lorem Ipsum",
+  "decimals": 18,
+  "description": "Lorem Ipsum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lorem%20Ipsum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lorem Ipsum",
+  "addresses": {
+    "8453": "0x08d53b009b309cb9a36a9bbfc72cfc36f76e73d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lorem Ipsum",
+    "sanitizedSymbol": "LOREM_IPSUM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221531",
+    "lockerAddress": "0xdEDd3638eF5097afbeA6bF8C617Eb364cB4d03B4"
+  },
+  "clankerInfo": null
+}

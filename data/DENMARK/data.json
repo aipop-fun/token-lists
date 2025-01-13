@@ -1,0 +1,22 @@
+{
+  "name": "Denmark",
+  "symbol": "Denmark",
+  "decimals": 18,
+  "description": "Denmark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Denmark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Denmark",
+  "addresses": {
+    "8453": "0x217525cef7bfc00f945aed12225a9fdf91e2c247"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Denmark",
+    "sanitizedSymbol": "DENMARK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198907",
+    "lockerAddress": "0xe593582B6c9F4dcEd531B8Ce8aE5c5aA7Bf5618e"
+  },
+  "clankerInfo": null
+}

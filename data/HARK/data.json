@@ -1,0 +1,22 @@
+{
+  "name": "$HARK",
+  "symbol": "$HARK",
+  "decimals": 18,
+  "description": "$HARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24HARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$HARK",
+  "addresses": {
+    "8453": "0x2de23446c179df44340ce06d9449dfbb4736178f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$HARK",
+    "sanitizedSymbol": "HARK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9330AB62019006A977Fe2aFe844A123aDAAe1287",
+    "lpNftId": "1294766",
+    "lockerAddress": "0x2794b7fAea644CA9DF3924B4bB2eE726ef735F59"
+  },
+  "clankerInfo": null
+}

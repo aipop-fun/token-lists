@@ -1,0 +1,22 @@
+{
+  "name": "Apples",
+  "symbol": "Apples",
+  "decimals": 18,
+  "description": "Apples is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apples",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apples",
+  "addresses": {
+    "8453": "0x2fa18605fc8b109b7037902085a6817ca1a9e148"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apples",
+    "sanitizedSymbol": "APPLES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114882",
+    "lockerAddress": "0x57040fF9ad203A34E2C1245Fd0559e1F02480dD8"
+  },
+  "clankerInfo": null
+}

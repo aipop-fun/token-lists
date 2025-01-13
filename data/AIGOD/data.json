@@ -1,0 +1,22 @@
+{
+  "name": "AIGod",
+  "symbol": "AIGod",
+  "decimals": 18,
+  "description": "AIGod is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIGod",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIGod",
+  "addresses": {
+    "8453": "0x0b93befad1a9064a2fcde63b80999382f1d78592"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIGod",
+    "sanitizedSymbol": "AIGOD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc2335131173F35b0895D169428004Cf579B594d5",
+    "lpNftId": "1286550",
+    "lockerAddress": "0x36c82835263C499D6F7E7cd7E8Ad4486504167ec"
+  },
+  "clankerInfo": null
+}

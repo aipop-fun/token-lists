@@ -1,0 +1,22 @@
+{
+  "name": "proxystudio.eth",
+  "symbol": "proxystudio.eth",
+  "decimals": 18,
+  "description": "proxystudio.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=proxystudio.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "proxystudio.eth",
+  "addresses": {
+    "8453": "0x357560eef27c909725de3be4caf69415abc0e4c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "proxystudio.eth",
+    "sanitizedSymbol": "PROXYSTUDIO_ETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166727",
+    "lockerAddress": "0x6B09fa6F6D3e1aEa8CbEF8581209E109E70A1491"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BRICS Currency",
+  "symbol": "BRICS Currency",
+  "decimals": 18,
+  "description": "BRICS Currency is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BRICS%20Currency",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BRICS Currency",
+  "addresses": {
+    "8453": "0x0cdb9a7490948f2912a193bb5ef439897d08b045"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BRICS Currency",
+    "sanitizedSymbol": "BRICS_CURRENCY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB5592f774757Dc60c1601895e8E339C50916A563",
+    "lpNftId": "1273135",
+    "lockerAddress": "0x5CabB6dfA1931a6820e2a6513d4270a24AA09995"
+  },
+  "clankerInfo": null
+}

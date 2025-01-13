@@ -1,0 +1,22 @@
+{
+  "name": "SUPER CHAIN",
+  "symbol": "SUPER CHAIN",
+  "decimals": 18,
+  "description": "SUPER CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPER%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPER CHAIN",
+  "addresses": {
+    "8453": "0x108b00a323fc5939dbaa106bbd949e18e5b2fd50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPER CHAIN",
+    "sanitizedSymbol": "SUPER_CHAIN_1",
+    "created_at": "2024-12-12T22:08:47.261109",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1444394",
+    "lockerAddress": "0xa31cc1f424DBA7bcFC7b3eF918c59CCfe03F1E8a"
+  },
+  "clankerInfo": null
+}

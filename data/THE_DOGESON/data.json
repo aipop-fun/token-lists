@@ -1,0 +1,22 @@
+{
+  "name": "The Dogeson",
+  "symbol": "The Dogeson",
+  "decimals": 18,
+  "description": "The Dogeson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Dogeson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Dogeson",
+  "addresses": {
+    "8453": "0x384fb5e978585549cf4e7beb0e93ada9cf2f4d3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Dogeson",
+    "sanitizedSymbol": "THE_DOGESON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBe99589cF9173Ea24ae1E1178dB54Bc6befA6fAA",
+    "lpNftId": "1367221",
+    "lockerAddress": "0x6bb82Df91B3901cB9eCB70D41D600ce3Bb7A2bbC"
+  },
+  "clankerInfo": null
+}

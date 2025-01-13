@@ -1,0 +1,22 @@
+{
+  "name": "Hunter",
+  "symbol": "Hunter",
+  "decimals": 18,
+  "description": "Hunter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hunter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hunter",
+  "addresses": {
+    "8453": "0x1db74a37b039aba4d640c02a12c148dc1557ff75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hunter",
+    "sanitizedSymbol": "HUNTER_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232398",
+    "lockerAddress": "0x0829866031a6B600Ac9925604b02ff0a721D71d6"
+  },
+  "clankerInfo": null
+}

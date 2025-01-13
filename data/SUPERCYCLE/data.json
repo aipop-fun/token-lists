@@ -1,0 +1,22 @@
+{
+  "name": "Supercycle",
+  "symbol": "Supercycle",
+  "decimals": 18,
+  "description": "Supercycle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Supercycle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Supercycle",
+  "addresses": {
+    "8453": "0x12b5e032dac114502a5182b6e37f439311f72cb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Supercycle",
+    "sanitizedSymbol": "SUPERCYCLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202397",
+    "lockerAddress": "0x77B6a85d694164a17f1b63b66b511eBeAf637133"
+  },
+  "clankerInfo": null
+}

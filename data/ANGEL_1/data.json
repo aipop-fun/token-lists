@@ -1,0 +1,22 @@
+{
+  "name": "Angel",
+  "symbol": "Angel",
+  "decimals": 18,
+  "description": "Angel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Angel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Angel",
+  "addresses": {
+    "8453": "0x27d1b6990e4d33c8ec07a4201809e7cbfcc86941"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Angel",
+    "sanitizedSymbol": "ANGEL_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDC8C6cc44CEBB2fEfc2aEf2B0A13996FF83B61Fe",
+    "lpNftId": "1282595",
+    "lockerAddress": "0x24F145d6b4aD6ab220c73791D3Af96197B3Db666"
+  },
+  "clankerInfo": null
+}

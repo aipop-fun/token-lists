@@ -1,0 +1,22 @@
+{
+  "name": "ABRACADABRA",
+  "symbol": "ABRACADABRA",
+  "decimals": 18,
+  "description": "ABRACADABRA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ABRACADABRA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ABRACADABRA",
+  "addresses": {
+    "8453": "0x3bb93fe462b2542cd97644d4e55d23302c833d42"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ABRACADABRA",
+    "sanitizedSymbol": "ABRACADABRA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143682",
+    "lockerAddress": "0x2A772D3FB7ee791A6cdc635ea5704aE8B81BDDFF"
+  },
+  "clankerInfo": null
+}

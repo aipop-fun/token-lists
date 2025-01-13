@@ -1,0 +1,22 @@
+{
+  "name": "SNOWMAN",
+  "symbol": "SNOWMAN",
+  "decimals": 18,
+  "description": "SNOWMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SNOWMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SNOWMAN",
+  "addresses": {
+    "8453": "0x0aade35bf7d958afc851ce2306b737e468f2a236"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SNOWMAN",
+    "sanitizedSymbol": "SNOWMAN_1",
+    "created_at": "2024-12-12T18:01:18.033508",
+    "deployer": "0xC83F5aC04dA5F9b79eE71EbEfb100D14bc2C5b76",
+    "lpNftId": "1440374",
+    "lockerAddress": "0x58928a98726e6AF74f801f57C5AEC25B6a4F3247"
+  },
+  "clankerInfo": null
+}

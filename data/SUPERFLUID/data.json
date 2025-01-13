@@ -1,0 +1,22 @@
+{
+  "name": "SUPERFLUID",
+  "symbol": "SUPERFLUID",
+  "decimals": 18,
+  "description": "SUPERFLUID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPERFLUID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPERFLUID",
+  "addresses": {
+    "8453": "0x2ff8554fb2be447ecfc02aa1b3a6d92e9a930994"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPERFLUID",
+    "sanitizedSymbol": "SUPERFLUID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1298034",
+    "lockerAddress": "0xc57aB202EC98c6d231F9368a2BC0440De592b450"
+  },
+  "clankerInfo": null
+}

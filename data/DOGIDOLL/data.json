@@ -1,0 +1,22 @@
+{
+  "name": "dogidoll",
+  "symbol": "dogidoll",
+  "decimals": 18,
+  "description": "dogidoll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogidoll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogidoll",
+  "addresses": {
+    "8453": "0x1e17ef755bff194fae2b05e85f21ed46f36b261a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogidoll",
+    "sanitizedSymbol": "DOGIDOLL",
+    "created_at": "2024-12-12T17:31:44.019068",
+    "deployer": "0x6F1eE3ADF48c47bDd113b68FE39BbFB2a40af850",
+    "lpNftId": "1439576",
+    "lockerAddress": "0xCB68463E3Ef962d0E0B0beCC7a9C3A5657768F4c"
+  },
+  "clankerInfo": null
+}

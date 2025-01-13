@@ -1,0 +1,22 @@
+{
+  "name": "CROCCAT",
+  "symbol": "CROCCAT",
+  "decimals": 18,
+  "description": "CROCCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CROCCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CROCCAT",
+  "addresses": {
+    "8453": "0x21cf46b5e59475de97ace4aec8447e769a703011"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CROCCAT",
+    "sanitizedSymbol": "CROCCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x56f2068cc4E91cc1dB06193D5485AC13F470d246",
+    "lpNftId": "1284619",
+    "lockerAddress": "0x6962F85ba9149D5E75Cc27230C50cc774b35d5D3"
+  },
+  "clankerInfo": null
+}

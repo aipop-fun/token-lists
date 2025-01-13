@@ -1,0 +1,22 @@
+{
+  "name": "Systematic Risk",
+  "symbol": "Systematic Risk",
+  "decimals": 18,
+  "description": "Systematic Risk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Systematic%20Risk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Systematic Risk",
+  "addresses": {
+    "8453": "0x0d834bfbb5f43937fb09c51900ada89e7b3b7600"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Systematic Risk",
+    "sanitizedSymbol": "SYSTEMATIC_RISK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220541",
+    "lockerAddress": "0x6548a8f1A4027F30327e79A49d61E133079dEa05"
+  },
+  "clankerInfo": null
+}

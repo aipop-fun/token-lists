@@ -1,0 +1,22 @@
+{
+  "name": "Oompa",
+  "symbol": "Oompa",
+  "decimals": 18,
+  "description": "Oompa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oompa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oompa",
+  "addresses": {
+    "8453": "0x00e7951c90d8797d71887b8d29342ae639072086"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oompa",
+    "sanitizedSymbol": "OOMPA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFBDF556EDeD78C467f58Be91d6d56F6eaFb16DC1",
+    "lpNftId": "1339296",
+    "lockerAddress": "0x7A0a12B6316efd523F0FDD136D3Ec1E714Fa7543"
+  },
+  "clankerInfo": null
+}

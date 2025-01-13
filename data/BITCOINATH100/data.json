@@ -1,0 +1,22 @@
+{
+  "name": "BitcoinATH100",
+  "symbol": "BitcoinATH100",
+  "decimals": 18,
+  "description": "BitcoinATH100 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BitcoinATH100",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BitcoinATH100",
+  "addresses": {
+    "8453": "0x01c84f2b26c7e4e50d9d739dc56604ac85c57086"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BitcoinATH100",
+    "sanitizedSymbol": "BITCOINATH100",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C5aF5FFE13e7BE9bFeF1862e6F80769c69a9206",
+    "lpNftId": "1329970",
+    "lockerAddress": "0x0CB7794326A17401c7714f2D04F6016a53e40114"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Martian",
+  "symbol": "Martian",
+  "decimals": 18,
+  "description": "Martian is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Martian",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Martian",
+  "addresses": {
+    "8453": "0x22175377c1de9fea4f096b517db3d6e9f8d0df32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Martian",
+    "sanitizedSymbol": "MARTIAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA7cd943BA0bfAf5a538Ec5E062bA30Bab8CAA751",
+    "lpNftId": "1320893",
+    "lockerAddress": "0xef80F3b80EeABe540AbC5cBd68050F3d11EC40AC"
+  },
+  "clankerInfo": null
+}

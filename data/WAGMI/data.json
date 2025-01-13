@@ -1,0 +1,22 @@
+{
+  "name": "WAGMI",
+  "symbol": "WAGMI",
+  "decimals": 18,
+  "description": "WAGMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WAGMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WAGMI",
+  "addresses": {
+    "8453": "0x4177d9d8d3816fbab796eef370788186a56c4fe4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WAGMI",
+    "sanitizedSymbol": "WAGMI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173235",
+    "lockerAddress": "0xE318eba8aC206D28BD2275640C560FEfe6379a3D"
+  },
+  "clankerInfo": null
+}

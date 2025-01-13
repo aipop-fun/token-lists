@@ -1,0 +1,22 @@
+{
+  "name": "ajcaha",
+  "symbol": "ajcaha",
+  "decimals": 18,
+  "description": "ajcaha is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ajcaha",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ajcaha",
+  "addresses": {
+    "8453": "0x4107b4e1643e2ad137e144b55cb711251c6aa1ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ajcaha",
+    "sanitizedSymbol": "AJCAHA",
+    "created_at": "2024-12-12T16:26:37.258581",
+    "deployer": "0x557c4816d619E527E78f00262c5EA784065e7570",
+    "lpNftId": "1438563",
+    "lockerAddress": "0xa1a0EAb546EC059105315Ce678b1941aD029B612"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BITCOIN ATH $100K",
+  "symbol": "BITCOIN ATH $100K",
+  "decimals": 18,
+  "description": "BITCOIN ATH $100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITCOIN%20ATH%20%24100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITCOIN ATH $100K",
+  "addresses": {
+    "8453": "0x0625008bd1314553a0ba3614ebcab098666d28a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITCOIN ATH $100K",
+    "sanitizedSymbol": "BITCOIN_ATH_100K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe1e3d0C2548762d495e0D2564A17E54B155E6fd4",
+    "lpNftId": "1335913",
+    "lockerAddress": "0x1cFf22A266Aa84820802e308c276b788F6d74085"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ETH",
+  "symbol": "ETH",
+  "decimals": 18,
+  "description": "ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETH",
+  "addresses": {
+    "8453": "0x29b2311a33453b878d1c33b8aac697f1fc49a326"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETH",
+    "sanitizedSymbol": "ETH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x11849573966d4a16C2196D32e79164087b23E202",
+    "lpNftId": "1312217",
+    "lockerAddress": "0x03f6dE9aC3e1741866B0D67210689C26e322bcA7"
+  },
+  "clankerInfo": null
+}

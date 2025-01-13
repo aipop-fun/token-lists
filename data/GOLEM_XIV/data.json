@@ -1,0 +1,22 @@
+{
+  "name": "Golem XIV",
+  "symbol": "Golem XIV",
+  "decimals": 18,
+  "description": "Golem XIV is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golem%20XIV",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golem XIV",
+  "addresses": {
+    "8453": "0x0a309f1d9353174f910892cfa84ff5f7cb590ec6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golem XIV",
+    "sanitizedSymbol": "GOLEM_XIV",
+    "created_at": "2024-12-10T14:38:24.304492",
+    "deployer": "0x22a8139387e08D802f772048B12D3f17535FFAf8",
+    "lpNftId": "1401823",
+    "lockerAddress": "0xd515ec98545b5A00384D4abB25443a5990641999"
+  },
+  "clankerInfo": null
+}

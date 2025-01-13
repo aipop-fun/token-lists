@@ -1,0 +1,22 @@
+{
+  "name": "Dogekun",
+  "symbol": "Dogekun",
+  "decimals": 18,
+  "description": "Dogekun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogekun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogekun",
+  "addresses": {
+    "8453": "0x0c24c7ab2432ca90ff553d4e6040553803f4830b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogekun",
+    "sanitizedSymbol": "DOGEKUN",
+    "created_at": "2024-12-12T00:55:16.30252",
+    "deployer": "0xa81E18178b3ebd62a394A06ed87A6Cd73397841f",
+    "lpNftId": "1428275",
+    "lockerAddress": "0xD9bFbEfb3aFeb7f989d40d1733B5472515289bBD"
+  },
+  "clankerInfo": null
+}

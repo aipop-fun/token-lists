@@ -1,0 +1,22 @@
+{
+  "name": "BITCOIN DAY",
+  "symbol": "BITCOIN DAY",
+  "decimals": 18,
+  "description": "BITCOIN DAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITCOIN%20DAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITCOIN DAY",
+  "addresses": {
+    "8453": "0x3c7f83c17d6e90b9ab8e9e8b3db152078a59e057"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITCOIN DAY",
+    "sanitizedSymbol": "BITCOIN_DAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6110DFca53554486489E07dFFde2E384AFe99827",
+    "lpNftId": "1330605",
+    "lockerAddress": "0x68533606641913cb24368cCc35ac0F2D5820d894"
+  },
+  "clankerInfo": null
+}

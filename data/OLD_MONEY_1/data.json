@@ -1,0 +1,22 @@
+{
+  "name": "OLD MONEY",
+  "symbol": "OLD MONEY",
+  "decimals": 18,
+  "description": "OLD MONEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OLD%20MONEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OLD MONEY",
+  "addresses": {
+    "8453": "0x07ffe3b9cc889224c6b8237ffa7805e8b3229ecf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OLD MONEY",
+    "sanitizedSymbol": "OLD_MONEY_1",
+    "created_at": "2024-12-11T15:00:37.850272",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1420769",
+    "lockerAddress": "0xeC485a5F5e79EAb2C1e5972F003DC5BCFb6DCFA6"
+  },
+  "clankerInfo": null
+}

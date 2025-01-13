@@ -1,0 +1,22 @@
+{
+  "name": "Lampaka",
+  "symbol": "Lampaka",
+  "decimals": 18,
+  "description": "Lampaka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lampaka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lampaka",
+  "addresses": {
+    "8453": "0x3a806efe0c18d917ce81dfab6e3f3d52f14aaa0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lampaka",
+    "sanitizedSymbol": "LAMPAKA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4763000409b99FA043098596Dc57A79005E703aC",
+    "lpNftId": "1286573",
+    "lockerAddress": "0xFE6E73bEA395B082b1Ec45368294a4a0e4495738"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Big Cat",
+  "symbol": "Big Cat",
+  "decimals": 18,
+  "description": "Big Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big Cat",
+  "addresses": {
+    "8453": "0x388060ed3c9cec4ac6b3a9bae49227d5d1d92cb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big Cat",
+    "sanitizedSymbol": "BIG_CAT",
+    "created_at": "2024-12-11T03:02:27.237426",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1411481",
+    "lockerAddress": "0xeCC64e7796418927B71038A817C6C57e519a24F2"
+  },
+  "clankerInfo": null
+}

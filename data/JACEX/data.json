@@ -1,0 +1,22 @@
+{
+  "name": "Jacex",
+  "symbol": "Jacex",
+  "decimals": 18,
+  "description": "Jacex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jacex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jacex",
+  "addresses": {
+    "8453": "0x362276a19c6cad7cf66899faa6007d03a69c7868"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jacex",
+    "sanitizedSymbol": "JACEX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220035",
+    "lockerAddress": "0x2B1302f80A88bb21CCf1172269cbEE564fA6eB12"
+  },
+  "clankerInfo": null
+}

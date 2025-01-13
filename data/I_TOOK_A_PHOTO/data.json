@@ -1,0 +1,22 @@
+{
+  "name": "I took a photo",
+  "symbol": "I took a photo",
+  "decimals": 18,
+  "description": "I took a photo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20took%20a%20photo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I took a photo",
+  "addresses": {
+    "8453": "0x3235e470cb3e791094557469f22bc2066c0e4708"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I took a photo",
+    "sanitizedSymbol": "I_TOOK_A_PHOTO",
+    "created_at": "2024-12-09T18:28:36.768062",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1390213",
+    "lockerAddress": "0xF684265dd05BfE794Dd77d82f900958501DD3037"
+  },
+  "clankerInfo": null
+}

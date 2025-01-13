@@ -1,0 +1,22 @@
+{
+  "name": "glonkybot",
+  "symbol": "glonkybot",
+  "decimals": 18,
+  "description": "glonkybot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=glonkybot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "glonkybot",
+  "addresses": {
+    "8453": "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "glonkybot",
+    "sanitizedSymbol": "GLONKYBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7f6Bec66a7512979a3Eb634c53eF9b89FB71A4d0",
+    "lpNftId": "1289549",
+    "lockerAddress": "0x3B1692d9C63Ec962c0d9ddd2c2eB251557f4865b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OkayCoin",
+  "symbol": "OkayCoin",
+  "decimals": 18,
+  "description": "OkayCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OkayCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OkayCoin",
+  "addresses": {
+    "8453": "0x0d145a34347a5f0bcd478c174af7819e0f997fa5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OkayCoin",
+    "sanitizedSymbol": "OKAYCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166303",
+    "lockerAddress": "0x591aD1C9cd68BD4646058C3C0B4b88bC5b4A0cDc"
+  },
+  "clankerInfo": null
+}

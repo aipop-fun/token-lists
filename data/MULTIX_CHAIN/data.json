@@ -1,0 +1,22 @@
+{
+  "name": "MULTIX CHAIN",
+  "symbol": "MULTIX CHAIN",
+  "decimals": 18,
+  "description": "MULTIX CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MULTIX%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MULTIX CHAIN",
+  "addresses": {
+    "8453": "0x02f4d4e63d4c9f3690a92885b804e015c202fa69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MULTIX CHAIN",
+    "sanitizedSymbol": "MULTIX_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xd8bc1E2b17cd847f109aCc162704ed3cB35892B6",
+    "lpNftId": "1195109",
+    "lockerAddress": "0xA1fB2Ea9981262F6A87832d8078cf30a8d4390C5"
+  },
+  "clankerInfo": null
+}

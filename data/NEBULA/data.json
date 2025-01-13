@@ -1,0 +1,22 @@
+{
+  "name": "Nebula",
+  "symbol": "Nebula",
+  "decimals": 18,
+  "description": "Nebula is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nebula",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nebula",
+  "addresses": {
+    "8453": "0x24613c5625bdf6fd60c68968fb9b672e970ccede"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nebula",
+    "sanitizedSymbol": "NEBULA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218835",
+    "lockerAddress": "0x0AE14019e8244502FF38301668e54Db375c888a6"
+  },
+  "clankerInfo": null
+}

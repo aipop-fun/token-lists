@@ -1,0 +1,22 @@
+{
+  "name": "Jesse Bought It",
+  "symbol": "Jesse Bought It",
+  "decimals": 18,
+  "description": "Jesse Bought It is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jesse%20Bought%20It",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jesse Bought It",
+  "addresses": {
+    "8453": "0x0fe32dc6dce93f579962b8e1e36178059d8b031e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jesse Bought It",
+    "sanitizedSymbol": "JESSE_BOUGHT_IT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229236",
+    "lockerAddress": "0x2c6C9dDD6dEAFD5Db4f11976116fa0ecD6eBE6f0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OOKI",
+  "symbol": "OOKI",
+  "decimals": 18,
+  "description": "OOKI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OOKI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OOKI",
+  "addresses": {
+    "8453": "0x0ae1300572a70e7106b1cf5bfefe49e6de99282b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OOKI",
+    "sanitizedSymbol": "OOKI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0c0286d46B4842Fe0b70bab5fAc420941f27868c",
+    "lpNftId": "1268969",
+    "lockerAddress": "0xBED52eA6eae3b14ef0eA23bb8e42479826F27038"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "lancebot",
+  "symbol": "lancebot",
+  "decimals": 18,
+  "description": "lancebot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lancebot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lancebot",
+  "addresses": {
+    "8453": "0x01017c628ecebe08746cb5c9fa29de29afe41906"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lancebot",
+    "sanitizedSymbol": "LANCEBOT",
+    "created_at": "2024-12-09T05:51:24.045112",
+    "deployer": "0xa635a137bbddC01a7a8A09680a91DD72cb71c100",
+    "lpNftId": "1383398",
+    "lockerAddress": "0x7e3f69b9FBa2533fE4a87287bc2e1D53484a5E2C"
+  },
+  "clankerInfo": null
+}

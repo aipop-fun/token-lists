@@ -1,0 +1,22 @@
+{
+  "name": "World Ethereum Forum",
+  "symbol": "World Ethereum Forum",
+  "decimals": 18,
+  "description": "World Ethereum Forum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20Ethereum%20Forum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World Ethereum Forum",
+  "addresses": {
+    "8453": "0x053909a46260f4238a6904f4ca0c1812e2889040"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World Ethereum Forum",
+    "sanitizedSymbol": "WORLD_ETHEREUM_FORUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2A23C62EF82930C4b4Fa1a6bb1aC497776E66285",
+    "lpNftId": "1354775",
+    "lockerAddress": "0xe2Cd8f7909271f2398FeE1c457c5f0ecb654eD9A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Entity",
+  "symbol": "Entity",
+  "decimals": 18,
+  "description": "Entity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Entity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Entity",
+  "addresses": {
+    "8453": "0x2ca88048b18852a5e24e8e5dbe0b11e4fefb1bf1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Entity",
+    "sanitizedSymbol": "ENTITY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223820",
+    "lockerAddress": "0xAf248d6A3A901cce444aDc21C019B3a701D57Fa2"
+  },
+  "clankerInfo": null
+}

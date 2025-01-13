@@ -1,0 +1,22 @@
+{
+  "name": "Ecstatic Rush",
+  "symbol": "Ecstatic Rush",
+  "decimals": 18,
+  "description": "Ecstatic Rush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ecstatic%20Rush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ecstatic Rush",
+  "addresses": {
+    "8453": "0x091e720274b4f8672d2fe5a2ff72bfce0743a0fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ecstatic Rush",
+    "sanitizedSymbol": "ECSTATIC_RUSH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167298",
+    "lockerAddress": "0x4EBec33FCacFC12E36E115d20E90002b4e4fe1Cc"
+  },
+  "clankerInfo": null
+}

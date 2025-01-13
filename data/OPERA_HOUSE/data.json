@@ -1,0 +1,22 @@
+{
+  "name": "Opera House",
+  "symbol": "Opera House",
+  "decimals": 18,
+  "description": "Opera House is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Opera%20House",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Opera House",
+  "addresses": {
+    "8453": "0x323d9d3b819690d1c4bd551c4b06d4b9d2680ff2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Opera House",
+    "sanitizedSymbol": "OPERA_HOUSE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219110",
+    "lockerAddress": "0x68345a67D7Ce1D78A462b618D2b3C9CaE161f9eD"
+  },
+  "clankerInfo": null
+}

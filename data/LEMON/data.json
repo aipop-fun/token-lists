@@ -1,0 +1,22 @@
+{
+  "name": "LEMON",
+  "symbol": "LEMON",
+  "decimals": 18,
+  "description": "LEMON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEMON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEMON",
+  "addresses": {
+    "8453": "0x001859039a2d73d741d8143a3603cf92cff048aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEMON",
+    "sanitizedSymbol": "LEMON",
+    "created_at": "2024-12-12T13:06:33.420517",
+    "deployer": "0xf40A1A549bf702B74e70F9E0329Db5ccc6839d42",
+    "lpNftId": "1434686",
+    "lockerAddress": "0x5250980aE8F139Ce34A2EEaC584F03cA4a5e2180"
+  },
+  "clankerInfo": null
+}

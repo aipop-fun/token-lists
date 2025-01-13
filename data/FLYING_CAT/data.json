@@ -1,0 +1,22 @@
+{
+  "name": "Flying Cat",
+  "symbol": "Flying Cat",
+  "decimals": 18,
+  "description": "Flying Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flying%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flying Cat",
+  "addresses": {
+    "8453": "0x09579aa0608d28bbe0af5808c4d28b88a546b67e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flying Cat",
+    "sanitizedSymbol": "FLYING_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1311997",
+    "lockerAddress": "0x86E3DDc796Bbd6038048809B8Fa625a5a28CDe64"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "bullrun on base",
+  "symbol": "bullrun on base",
+  "decimals": 18,
+  "description": "bullrun on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bullrun%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bullrun on base",
+  "addresses": {
+    "8453": "0x34849d42478e4e279d791a14a94c6bf8311192d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bullrun on base",
+    "sanitizedSymbol": "BULLRUN_ON_BASE",
+    "created_at": "2024-12-11T20:42:37.549453",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1425572",
+    "lockerAddress": "0x4d87919583B81D90B5d7a22383607c7D6612d78D"
+  },
+  "clankerInfo": null
+}

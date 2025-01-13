@@ -1,0 +1,22 @@
+{
+  "name": "SUNITY",
+  "symbol": "SUNITY",
+  "decimals": 18,
+  "description": "SUNITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUNITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUNITY",
+  "addresses": {
+    "8453": "0x3c981022f4a012db7f906e4f3532b453035ae8be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUNITY",
+    "sanitizedSymbol": "SUNITY",
+    "created_at": "2024-12-12T13:37:41.690867",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1435205",
+    "lockerAddress": "0x304eBAbce43538AC7a27Ef688fcF831B65125D84"
+  },
+  "clankerInfo": null
+}

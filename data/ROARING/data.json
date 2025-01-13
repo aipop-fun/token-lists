@@ -1,0 +1,22 @@
+{
+  "name": "Roaring",
+  "symbol": "Roaring",
+  "decimals": 18,
+  "description": "Roaring is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Roaring",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Roaring",
+  "addresses": {
+    "8453": "0x3016c19c04efcaf5a3f2d2a99951a22bc920695e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Roaring",
+    "sanitizedSymbol": "ROARING",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193247",
+    "lockerAddress": "0x6e297316e2c2440F587deE9C391e73118A274df2"
+  },
+  "clankerInfo": null
+}

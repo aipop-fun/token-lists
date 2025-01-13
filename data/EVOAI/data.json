@@ -1,0 +1,22 @@
+{
+  "name": "EVOai",
+  "symbol": "EVOai",
+  "decimals": 18,
+  "description": "EVOai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EVOai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EVOai",
+  "addresses": {
+    "8453": "0x2c7aa4b34bda611eb042bd26f458d57e4be2d0d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EVOai",
+    "sanitizedSymbol": "EVOAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C20aDE9D7073c68f35A84EBAf22a0518ac6f112",
+    "lpNftId": "1316451",
+    "lockerAddress": "0x5Ed1FDCEECF0319535649d6638bc5Fe51226De49"
+  },
+  "clankerInfo": null
+}

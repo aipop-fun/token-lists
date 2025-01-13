@@ -1,0 +1,22 @@
+{
+  "name": "Basescan",
+  "symbol": "Basescan",
+  "decimals": 18,
+  "description": "Basescan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Basescan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Basescan",
+  "addresses": {
+    "8453": "0x2a32f5d66fc59d420acdef98e1021381d008c4db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Basescan",
+    "sanitizedSymbol": "BASESCAN",
+    "created_at": "2024-12-09T10:53:37.083312",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1386128",
+    "lockerAddress": "0xc5a38357c88CFfB40D4D587DB36cA42b743d5F36"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WallstreetGuy",
+  "symbol": "WallstreetGuy",
+  "decimals": 18,
+  "description": "WallstreetGuy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WallstreetGuy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WallstreetGuy",
+  "addresses": {
+    "8453": "0x2d911cbc1b0215c7d06078e6b2169f1cbf6ef9df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WallstreetGuy",
+    "sanitizedSymbol": "WALLSTREETGUY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202600",
+    "lockerAddress": "0x6210C0df5CecF078F5Aa4F87B538458737EFb1d2"
+  },
+  "clankerInfo": null
+}

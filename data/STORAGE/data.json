@@ -1,0 +1,22 @@
+{
+  "name": "Storage",
+  "symbol": "Storage",
+  "decimals": 18,
+  "description": "Storage is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Storage",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Storage",
+  "addresses": {
+    "8453": "0x0ceb7b442e35f096f7296da096baf2bca0f25c51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Storage",
+    "sanitizedSymbol": "STORAGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1317197",
+    "lockerAddress": "0xDC3d8dfD0Bf7c4092b230aDC19a89A2814e128e0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ChungusDAO",
+  "symbol": "ChungusDAO",
+  "decimals": 18,
+  "description": "ChungusDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ChungusDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ChungusDAO",
+  "addresses": {
+    "8453": "0x39b80f4ac0c1d56bdc5533a400677f521e70a854"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ChungusDAO",
+    "sanitizedSymbol": "CHUNGUSDAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166266",
+    "lockerAddress": "0xD551c77a3679FeAd8f0d33EFDb22ED7Cda0BD1Fe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Unreal World Asset",
+  "symbol": "Unreal World Asset",
+  "decimals": 18,
+  "description": "Unreal World Asset is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unreal%20World%20Asset",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unreal World Asset",
+  "addresses": {
+    "8453": "0x109cff8fef1e88044e7c594a6dcfc85fd84c160f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unreal World Asset",
+    "sanitizedSymbol": "UNREAL_WORLD_ASSET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x95aa6CF80aa61c3433215c7b8330C065eD29CE97",
+    "lpNftId": "1306949",
+    "lockerAddress": "0x75b568413A71baFEA06A346674c8d0e97422f60d"
+  },
+  "clankerInfo": null
+}

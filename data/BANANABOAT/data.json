@@ -1,0 +1,22 @@
+{
+  "name": "BananaBoat",
+  "symbol": "BananaBoat",
+  "decimals": 18,
+  "description": "BananaBoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BananaBoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BananaBoat",
+  "addresses": {
+    "8453": "0x15805596ea76bd02b2fdb1addf65df10c22eaf47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BananaBoat",
+    "sanitizedSymbol": "BANANABOAT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1252626",
+    "lockerAddress": "0xe159c2EA76CD17e2D5C88D97d77bBe30cab33339"
+  },
+  "clankerInfo": null
+}

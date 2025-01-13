@@ -1,0 +1,22 @@
+{
+  "name": "Let's Fucking Base",
+  "symbol": "Let's Fucking Base",
+  "decimals": 18,
+  "description": "Let's Fucking Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Let's%20Fucking%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Let's Fucking Base",
+  "addresses": {
+    "8453": "0x3e919623e774eef5a1e5a9806c32d13ead88c5a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Let's Fucking Base",
+    "sanitizedSymbol": "LET_S_FUCKING_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA6c4cd1C1982d2630A8c726e9FceFf37f615a70b",
+    "lpNftId": "1313404",
+    "lockerAddress": "0xfa01AB0dB896C8d79AFC8121160C4D1469F372a9"
+  },
+  "clankerInfo": null
+}

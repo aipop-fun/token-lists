@@ -1,0 +1,22 @@
+{
+  "name": "Ticker Long",
+  "symbol": "Ticker Long",
+  "decimals": 18,
+  "description": "Ticker Long is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ticker%20Long",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ticker Long",
+  "addresses": {
+    "8453": "0x0d2bb0fb70a7d1602913ebb26269fa8495c126bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ticker Long",
+    "sanitizedSymbol": "TICKER_LONG",
+    "created_at": "2024-12-10T01:30:01.022405",
+    "deployer": "0x449b46E26f82C4b2132c017171EF7Ae09E242077",
+    "lpNftId": "1394291",
+    "lockerAddress": "0x246F2F8024069a18a14F22827Fe930388DC7E9F6"
+  },
+  "clankerInfo": null
+}

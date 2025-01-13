@@ -1,0 +1,22 @@
+{
+  "name": "Big Clankers",
+  "symbol": "Big Clankers",
+  "decimals": 18,
+  "description": "Big Clankers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20Clankers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big Clankers",
+  "addresses": {
+    "8453": "0x1d4655e3c1867b181d01bc6250f7eb4f5c94f0b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big Clankers",
+    "sanitizedSymbol": "BIG_CLANKERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223015",
+    "lockerAddress": "0x672dC0f35D48382aB76DF599dA09a09606Fc28F7"
+  },
+  "clankerInfo": null
+}

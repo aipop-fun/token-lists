@@ -1,0 +1,22 @@
+{
+  "name": "degen anniversary",
+  "symbol": "degen anniversary",
+  "decimals": 18,
+  "description": "degen anniversary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=degen%20anniversary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "degen anniversary",
+  "addresses": {
+    "8453": "0x0b99c606aceeff993f2163cc4f6bca02129a9d59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "degen anniversary",
+    "sanitizedSymbol": "DEGEN_ANNIVERSARY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1330709",
+    "lockerAddress": "0xf0582D0750bD035A7f45F7451dc372EcC50ABe3C"
+  },
+  "clankerInfo": null
+}

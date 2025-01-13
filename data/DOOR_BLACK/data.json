@@ -1,0 +1,22 @@
+{
+  "name": "DOOR Black",
+  "symbol": "DOOR Black",
+  "decimals": 18,
+  "description": "DOOR Black is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOOR%20Black",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOOR Black",
+  "addresses": {
+    "8453": "0x1c57920b35322868d88a6378d603e1ccc1730ef3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOOR Black",
+    "sanitizedSymbol": "DOOR_BLACK",
+    "created_at": "2024-12-12T03:04:08.783913",
+    "deployer": "0x5573AC6Efcc401881b4922ede2DaEbb75bb5ba8e",
+    "lpNftId": "1428780",
+    "lockerAddress": "0x4595C26d65FeE1C95396B75279A266cC6eE7E274"
+  },
+  "clankerInfo": null
+}

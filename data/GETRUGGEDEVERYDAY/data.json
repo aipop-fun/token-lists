@@ -1,0 +1,22 @@
+{
+  "name": "GetRuggedEveryday",
+  "symbol": "GetRuggedEveryday",
+  "decimals": 18,
+  "description": "GetRuggedEveryday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GetRuggedEveryday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GetRuggedEveryday",
+  "addresses": {
+    "8453": "0x07d62aaf85bcc15e0a55624b5047b0bb116192f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GetRuggedEveryday",
+    "sanitizedSymbol": "GETRUGGEDEVERYDAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234629",
+    "lockerAddress": "0x56e73f1a7f20d8650Ca489F95DA1c64dEB677609"
+  },
+  "clankerInfo": null
+}

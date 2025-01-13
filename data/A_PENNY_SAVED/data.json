@@ -1,0 +1,22 @@
+{
+  "name": "A Penny Saved",
+  "symbol": "A Penny Saved",
+  "decimals": 18,
+  "description": "A Penny Saved is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20Penny%20Saved",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A Penny Saved",
+  "addresses": {
+    "8453": "0x31cc3e8356d883978cb3dff990605e9074bee16b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A Penny Saved",
+    "sanitizedSymbol": "A_PENNY_SAVED",
+    "created_at": "2024-12-10T08:27:02.707056",
+    "deployer": "0x0bA64FE0Ed7ceDe265336a74dE92a25E143504aA",
+    "lpNftId": "1398792",
+    "lockerAddress": "0xc73776d32756a99611D9F41f7968Fa9E1e22d9D4"
+  },
+  "clankerInfo": null
+}

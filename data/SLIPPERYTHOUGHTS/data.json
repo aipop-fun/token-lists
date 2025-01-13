@@ -1,0 +1,22 @@
+{
+  "name": "SlipperyThoughts",
+  "symbol": "SlipperyThoughts",
+  "decimals": 18,
+  "description": "SlipperyThoughts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SlipperyThoughts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SlipperyThoughts",
+  "addresses": {
+    "8453": "0x0516ba960d56603ebde64cab712a29e70687213e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SlipperyThoughts",
+    "sanitizedSymbol": "SLIPPERYTHOUGHTS",
+    "created_at": "2024-12-11T19:18:00.783512",
+    "deployer": "0xA9A4a3D388b8C99b75F012a7dc32972188cDC557",
+    "lpNftId": "1424650",
+    "lockerAddress": "0xd29DA907311107ba771202B4291DB476f971Dd5e"
+  },
+  "clankerInfo": null
+}

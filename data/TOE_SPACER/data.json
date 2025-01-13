@@ -1,0 +1,22 @@
+{
+  "name": "toe-spacer",
+  "symbol": "toe-spacer",
+  "decimals": 18,
+  "description": "toe-spacer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=toe-spacer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "toe-spacer",
+  "addresses": {
+    "8453": "0x06649dc431d374597c45513da7990df9c8531e49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "toe-spacer",
+    "sanitizedSymbol": "TOE_SPACER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219642",
+    "lockerAddress": "0x3fA736dcb3CFe782cA39dd016326296239713541"
+  },
+  "clankerInfo": null
+}

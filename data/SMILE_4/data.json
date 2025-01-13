@@ -1,0 +1,22 @@
+{
+  "name": "SMILE",
+  "symbol": "SMILE",
+  "decimals": 18,
+  "description": "SMILE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SMILE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SMILE",
+  "addresses": {
+    "8453": "0x10f4ff3b74f16c208549d14be51bacc21d63f21c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SMILE",
+    "sanitizedSymbol": "SMILE_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1376529",
+    "lockerAddress": "0xA990a3Ab77670C2fCc38d5e11fD74FCA59d6057b"
+  },
+  "clankerInfo": null
+}

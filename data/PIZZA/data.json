@@ -1,0 +1,22 @@
+{
+  "name": "Pizza",
+  "symbol": "Pizza",
+  "decimals": 18,
+  "description": "Pizza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pizza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pizza",
+  "addresses": {
+    "8453": "0x27ddbb89386caa6c295398536bde97f42109c55e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pizza",
+    "sanitizedSymbol": "PIZZA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123218",
+    "lockerAddress": "0x813Ee81cFCf22570cbEEEd8AF680009FBbA68C13"
+  },
+  "clankerInfo": null
+}

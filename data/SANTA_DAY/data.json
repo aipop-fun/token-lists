@@ -1,0 +1,22 @@
+{
+  "name": "SANTA DAY",
+  "symbol": "SANTA DAY",
+  "decimals": 18,
+  "description": "SANTA DAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA%20DAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA DAY",
+  "addresses": {
+    "8453": "0x2eaf44a93145af842fcf70c4f871f8a1e4afc865"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA DAY",
+    "sanitizedSymbol": "SANTA_DAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1369916",
+    "lockerAddress": "0x7dA02d45FD75A6F9720F1246929315Ba5BF5f323"
+  },
+  "clankerInfo": null
+}

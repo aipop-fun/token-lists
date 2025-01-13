@@ -1,0 +1,22 @@
+{
+  "name": "ABB",
+  "symbol": "ABB",
+  "decimals": 18,
+  "description": "ABB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ABB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ABB",
+  "addresses": {
+    "8453": "0x135bea5efa1da30b5a39e5d57db4a31d4d4a8cd7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ABB",
+    "sanitizedSymbol": "ABB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204391",
+    "lockerAddress": "0x7234C52B0565Bbc36D1b5CCfEfcc6cb157CA863b"
+  },
+  "clankerInfo": null
+}

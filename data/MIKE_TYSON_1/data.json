@@ -1,0 +1,22 @@
+{
+  "name": "Mike Tyson",
+  "symbol": "Mike Tyson",
+  "decimals": 18,
+  "description": "Mike Tyson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mike%20Tyson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mike Tyson",
+  "addresses": {
+    "8453": "0x29db25a4312153a47e06cdb6952ebbde057a616f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mike Tyson",
+    "sanitizedSymbol": "MIKE_TYSON_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166724",
+    "lockerAddress": "0xCc2B18077ad0FAfe4ee1539Be562E37a23ec89C1"
+  },
+  "clankerInfo": null
+}

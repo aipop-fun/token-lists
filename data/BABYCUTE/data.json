@@ -1,0 +1,22 @@
+{
+  "name": "Babycute",
+  "symbol": "Babycute",
+  "decimals": 18,
+  "description": "Babycute is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babycute",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babycute",
+  "addresses": {
+    "8453": "0x09fef67a0bc3779af4a4a6fccfd285803c86317f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babycute",
+    "sanitizedSymbol": "BABYCUTE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x873eC853A4545DdC1D8568988b72782798B22dB2",
+    "lpNftId": "1251010",
+    "lockerAddress": "0x79667f92602E90fa2f884a2CB8160cD1557BD7A5"
+  },
+  "clankerInfo": null
+}

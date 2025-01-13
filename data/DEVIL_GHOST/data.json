@@ -1,0 +1,22 @@
+{
+  "name": "Devil Ghost",
+  "symbol": "Devil Ghost",
+  "decimals": 18,
+  "description": "Devil Ghost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Devil%20Ghost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Devil Ghost",
+  "addresses": {
+    "8453": "0x390fe2967674eb982c8098607aa9cb25f3b4f24f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Devil Ghost",
+    "sanitizedSymbol": "DEVIL_GHOST",
+    "created_at": "2024-12-09T07:52:26.101176",
+    "deployer": "0xac7146182aBCb40cf6E5DAda776F59Bfd0AFeA00",
+    "lpNftId": "1384512",
+    "lockerAddress": "0x1Be34c158C478b8467B6A257f407e629D5fE8c35"
+  },
+  "clankerInfo": null
+}

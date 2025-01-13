@@ -1,0 +1,22 @@
+{
+  "name": "WriteBot",
+  "symbol": "WriteBot",
+  "decimals": 18,
+  "description": "WriteBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WriteBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WriteBot",
+  "addresses": {
+    "8453": "0x1c531d646e4237c60d26861340d4fb8a964e4fb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WriteBot",
+    "sanitizedSymbol": "WRITEBOT",
+    "created_at": "2024-12-12T21:42:21.429889",
+    "deployer": "0x481154Ac39A6D631b99d3d7Fd4e455544e30C3cb",
+    "lpNftId": "1444056",
+    "lockerAddress": "0x12332f1B1457f1d6002F489a788Dc0f29CC38879"
+  },
+  "clankerInfo": null
+}

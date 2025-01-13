@@ -1,0 +1,22 @@
+{
+  "name": "OKX MASCOT",
+  "symbol": "OKX MASCOT",
+  "decimals": 18,
+  "description": "OKX MASCOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OKX%20MASCOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OKX MASCOT",
+  "addresses": {
+    "8453": "0x3b5ee3f46e556cdb2cd2f353cca9ad0df4212732"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OKX MASCOT",
+    "sanitizedSymbol": "OKX_MASCOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166856",
+    "lockerAddress": "0x7249e27d304dA5395e562039416F9636D718B6A2"
+  },
+  "clankerInfo": null
+}

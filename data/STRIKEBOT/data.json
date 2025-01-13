@@ -1,0 +1,22 @@
+{
+  "name": "StrikeBot",
+  "symbol": "StrikeBot",
+  "decimals": 18,
+  "description": "StrikeBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StrikeBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StrikeBot",
+  "addresses": {
+    "8453": "0x056caafb5b611a91d2f4a5823f9d6fc0014245f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StrikeBot",
+    "sanitizedSymbol": "STRIKEBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129043",
+    "lockerAddress": "0xf4B70DC7174F695E77ee805672424BB95287B4bd"
+  },
+  "clankerInfo": null
+}

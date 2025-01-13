@@ -1,0 +1,22 @@
+{
+  "name": "MOAR",
+  "symbol": "MOAR",
+  "decimals": 18,
+  "description": "MOAR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOAR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOAR",
+  "addresses": {
+    "8453": "0x1384f15fe8cbc56b14d74eec624230b6b2be53ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOAR",
+    "sanitizedSymbol": "MOAR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226166",
+    "lockerAddress": "0x6ceE74808DE831FB2A9618fE181330f680baBb13"
+  },
+  "clankerInfo": null
+}

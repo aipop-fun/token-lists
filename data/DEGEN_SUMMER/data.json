@@ -1,0 +1,22 @@
+{
+  "name": "Degen Summer",
+  "symbol": "Degen Summer",
+  "decimals": 18,
+  "description": "Degen Summer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Summer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Summer",
+  "addresses": {
+    "8453": "0x1d9dc149b82450329bed3657db1cf68f0c0d8284"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Summer",
+    "sanitizedSymbol": "DEGEN_SUMMER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x26d63D6E4644700653df283089Bf38F02769FCe5",
+    "lpNftId": "1323434",
+    "lockerAddress": "0x05b1463cC2B9c9F26d2647Dac5a7E6171d3c502c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Red Punch",
+  "symbol": "Red Punch",
+  "decimals": 18,
+  "description": "Red Punch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Punch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Punch",
+  "addresses": {
+    "8453": "0x3ae48f61b733b94e7f2d9a3b986c11091f3e9086"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Punch",
+    "sanitizedSymbol": "RED_PUNCH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x484C25bCA391FC16D8Ee73a604E9f8f2c1e3D528",
+    "lpNftId": "1264401",
+    "lockerAddress": "0xC98Ea2d721d0969eD9Aa380B8D05446541Fe8fB9"
+  },
+  "clankerInfo": null
+}

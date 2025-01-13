@@ -1,0 +1,22 @@
+{
+  "name": "shop",
+  "symbol": "shop",
+  "decimals": 18,
+  "description": "shop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=shop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "shop",
+  "addresses": {
+    "8453": "0x41f436cbb3155d07bb9b5ab70d31c1fb78bfcbe0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "shop",
+    "sanitizedSymbol": "SHOP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB0bE4705C7d688363704392E84aB897bAC1bEa34",
+    "lpNftId": "1309129",
+    "lockerAddress": "0x6EB4241E9D5a7d5335EBf9f0348777F07Fe26915"
+  },
+  "clankerInfo": null
+}

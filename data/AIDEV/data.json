@@ -1,0 +1,22 @@
+{
+  "name": "AIDev",
+  "symbol": "AIDev",
+  "decimals": 18,
+  "description": "AIDev is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIDev",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIDev",
+  "addresses": {
+    "8453": "0x19154dc3e904c2d2edcc07bcf03020baecd13a8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIDev",
+    "sanitizedSymbol": "AIDEV",
+    "created_at": "2024-12-12T21:58:41.519053",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1444248",
+    "lockerAddress": "0x997784e02D5f8Ad50fdDCEC9CbDbA0B7DA43868a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "IKUZOO",
+  "symbol": "IKUZOO",
+  "decimals": 18,
+  "description": "IKUZOO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IKUZOO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IKUZOO",
+  "addresses": {
+    "8453": "0x3d79de62424c8e4550139ebc0c9707cdba71860a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IKUZOO",
+    "sanitizedSymbol": "IKUZOO",
+    "created_at": "2024-12-12T19:58:36.476395",
+    "deployer": "0xA4c0238f7976031AfA424259E9123E0188438F68",
+    "lpNftId": "1441968",
+    "lockerAddress": "0x05813812629E6730490c82f745cE9D72dB13c415"
+  },
+  "clankerInfo": null
+}

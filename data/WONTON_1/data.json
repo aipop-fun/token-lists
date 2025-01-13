@@ -1,0 +1,22 @@
+{
+  "name": "WONTON",
+  "symbol": "WONTON",
+  "decimals": 18,
+  "description": "WONTON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WONTON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WONTON",
+  "addresses": {
+    "8453": "0x2987bb8162a10bd264c3f56f5b68195a27e5ddfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WONTON",
+    "sanitizedSymbol": "WONTON_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xfBb6BFe2d09A10913db4400cDe3979Bd401f7310",
+    "lpNftId": "1322622",
+    "lockerAddress": "0x1FD0575E24034Eecb219A3084464744e20162bC0"
+  },
+  "clankerInfo": null
+}

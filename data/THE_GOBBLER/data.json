@@ -1,0 +1,22 @@
+{
+  "name": "The gobbler",
+  "symbol": "The gobbler",
+  "decimals": 18,
+  "description": "The gobbler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20gobbler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The gobbler",
+  "addresses": {
+    "8453": "0x148d5760e24ba6d8c7618147ed907492037c8204"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The gobbler",
+    "sanitizedSymbol": "THE_GOBBLER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0Aa55B5405e21Dd0C3EBCD06A5d0a982Fdb44eEA",
+    "lpNftId": "1264941",
+    "lockerAddress": "0x96e6D6A06a99e2D9b3F10eBBE1380D9db71036Cf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Oopsie",
+  "symbol": "Oopsie",
+  "decimals": 18,
+  "description": "Oopsie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oopsie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oopsie",
+  "addresses": {
+    "8453": "0x22d96b41aa9801f0d11dcaac506c90989cc3e620"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oopsie",
+    "sanitizedSymbol": "OOPSIE",
+    "created_at": "2024-12-10T05:52:49.178494",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397184",
+    "lockerAddress": "0xd80cAD9257b0F1F361e9b204E67dFDca261aD9Dc"
+  },
+  "clankerInfo": null
+}

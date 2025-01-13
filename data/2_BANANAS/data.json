@@ -1,0 +1,22 @@
+{
+  "name": "2 bananas",
+  "symbol": "2 bananas",
+  "decimals": 18,
+  "description": "2 bananas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2%20bananas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2 bananas",
+  "addresses": {
+    "8453": "0x2b92b3c4e86e15ea1082c76dd210b41543ff024e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2 bananas",
+    "sanitizedSymbol": "2_BANANAS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229413",
+    "lockerAddress": "0x7F41950021726B1133B43CdF8A733f01485bB090"
+  },
+  "clankerInfo": null
+}

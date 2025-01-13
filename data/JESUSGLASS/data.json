@@ -1,0 +1,22 @@
+{
+  "name": "JesusGlass",
+  "symbol": "JesusGlass",
+  "decimals": 18,
+  "description": "JesusGlass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JesusGlass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JesusGlass",
+  "addresses": {
+    "8453": "0x1bbee6402a6c1f75a36826e956fbede32548a2d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JesusGlass",
+    "sanitizedSymbol": "JESUSGLASS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219452",
+    "lockerAddress": "0xFf717414Cb4479790d324231d9ED0ccD41395269"
+  },
+  "clankerInfo": null
+}

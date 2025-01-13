@@ -1,0 +1,22 @@
+{
+  "name": "WERTH",
+  "symbol": "WERTH",
+  "decimals": 18,
+  "description": "WERTH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WERTH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WERTH",
+  "addresses": {
+    "8453": "0x30010e7974033052f76ef50a828f75f5e68c6aec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WERTH",
+    "sanitizedSymbol": "WERTH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4155fFd04d1cff0617D93eB1172D74F2BB994343",
+    "lpNftId": "1292290",
+    "lockerAddress": "0x73e1B7aE66665805BF4Af7109a900Ffa6095B42F"
+  },
+  "clankerInfo": null
+}

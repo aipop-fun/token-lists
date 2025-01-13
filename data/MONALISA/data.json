@@ -1,0 +1,22 @@
+{
+  "name": "MONALISA",
+  "symbol": "MONALISA",
+  "decimals": 18,
+  "description": "MONALISA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONALISA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONALISA",
+  "addresses": {
+    "8453": "0x344e6671e61e45affa00ac32a601ddf9f2f31d51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONALISA",
+    "sanitizedSymbol": "MONALISA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x39E28725B36F69E556278A0aE3B444F4Fb74471E",
+    "lpNftId": "1264504",
+    "lockerAddress": "0x0A848037cB3a24aFB522591578fc1DFCadbc1126"
+  },
+  "clankerInfo": null
+}

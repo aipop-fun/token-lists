@@ -1,0 +1,22 @@
+{
+  "name": "PhilGetspuss",
+  "symbol": "PhilGetspuss",
+  "decimals": 18,
+  "description": "PhilGetspuss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PhilGetspuss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PhilGetspuss",
+  "addresses": {
+    "8453": "0x13807038b469a8ecf2115ff6fdc968700f69e8ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PhilGetspuss",
+    "sanitizedSymbol": "PHILGETSPUSS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158450",
+    "lockerAddress": "0x02f3125F683bf1149A45684233596D55ded1a37F"
+  },
+  "clankerInfo": null
+}

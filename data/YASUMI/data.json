@@ -1,0 +1,22 @@
+{
+  "name": "YASUMI",
+  "symbol": "YASUMI",
+  "decimals": 18,
+  "description": "YASUMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YASUMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YASUMI",
+  "addresses": {
+    "8453": "0x275f9ad2a98b3c43f93c92dafa50806d7c742087"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YASUMI",
+    "sanitizedSymbol": "YASUMI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x59a31D9791B622E63351e3B284B3F149Fcc52171",
+    "lpNftId": "1253026",
+    "lockerAddress": "0x9ED4E92257a8B64D97BE9646556d0Bd98985bC0E"
+  },
+  "clankerInfo": null
+}

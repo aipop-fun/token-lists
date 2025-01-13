@@ -1,0 +1,22 @@
+{
+  "name": "tyoncoin",
+  "symbol": "tyoncoin",
+  "decimals": 18,
+  "description": "tyoncoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tyoncoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tyoncoin",
+  "addresses": {
+    "8453": "0x0cb440ac598ac3fa87ecfd381bb792f9f2719e82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tyoncoin",
+    "sanitizedSymbol": "TYONCOIN",
+    "created_at": "2024-12-11T03:11:38.938901",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1411656",
+    "lockerAddress": "0x69afC2F4889BF63F4Cde2a8A58ed1441E9443fFC"
+  },
+  "clankerInfo": null
+}

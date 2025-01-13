@@ -1,0 +1,22 @@
+{
+  "name": "PLN Must",
+  "symbol": "PLN Must",
+  "decimals": 18,
+  "description": "PLN Must is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PLN%20Must",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PLN Must",
+  "addresses": {
+    "8453": "0x3d0f104e86f704c6421b75bce499a00c20954714"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PLN Must",
+    "sanitizedSymbol": "PLN_MUST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216890",
+    "lockerAddress": "0x571d753D9a071bd04f5cd722762bcf8774cD3ffA"
+  },
+  "clankerInfo": null
+}

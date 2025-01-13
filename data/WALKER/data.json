@@ -1,0 +1,22 @@
+{
+  "name": "Walker",
+  "symbol": "Walker",
+  "decimals": 18,
+  "description": "Walker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Walker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Walker",
+  "addresses": {
+    "8453": "0x08618f886a41690728122d6b29d8e7e518987b9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Walker",
+    "sanitizedSymbol": "WALKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119431",
+    "lockerAddress": "0xE3B9A9860baf3708369FE69A03941CfbE964aBa1"
+  },
+  "clankerInfo": null
+}

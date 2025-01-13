@@ -1,0 +1,22 @@
+{
+  "name": "Strawhat",
+  "symbol": "Strawhat",
+  "decimals": 18,
+  "description": "Strawhat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Strawhat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Strawhat",
+  "addresses": {
+    "8453": "0x28f5fbd1c180b14287f0a112a010e01e258f76f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Strawhat",
+    "sanitizedSymbol": "STRAWHAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB1E9dAf9E89769C8AfDBf3Ee5FAf868A8F42aBF0",
+    "lpNftId": "1330402",
+    "lockerAddress": "0x2F5AB3f7c7257C14774FC291D9526c8b81e18e22"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "futarchy",
+  "symbol": "futarchy",
+  "decimals": 18,
+  "description": "futarchy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=futarchy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "futarchy",
+  "addresses": {
+    "8453": "0x3bb87b5f9227eb1ae3433283d44eabbc4e46b979"
+  },
+  "tokenInfo": {
+    "originalSymbol": "futarchy",
+    "sanitizedSymbol": "FUTARCHY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x36de990133D36d7E3DF9a820aA3eDE5a2320De71",
+    "lpNftId": "1334338",
+    "lockerAddress": "0x27Df20BAC2824F0d5143aE7d0D7A59a1dDcd4E4D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "VcNj",
+  "symbol": "VcNj",
+  "decimals": 18,
+  "description": "VcNj is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VcNj",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VcNj",
+  "addresses": {
+    "8453": "0x0f3a18c49f428e6fb02022bb4596369fbd89b6ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VcNj",
+    "sanitizedSymbol": "VCNJ",
+    "created_at": "2024-12-12T15:39:37.414469",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1437216",
+    "lockerAddress": "0x58708dB3e6A59ECC58Cb302f2f120b8C0Cc0Aad7"
+  },
+  "clankerInfo": null
+}

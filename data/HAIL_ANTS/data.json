@@ -1,0 +1,22 @@
+{
+  "name": "Hail Ants",
+  "symbol": "Hail Ants",
+  "decimals": 18,
+  "description": "Hail Ants is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hail%20Ants",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hail Ants",
+  "addresses": {
+    "8453": "0x0b418878eb05a214285ff8aba17821cbf22a07c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hail Ants",
+    "sanitizedSymbol": "HAIL_ANTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb15777be63bd2B43D376269b8323dE98F7D7F2D5",
+    "lpNftId": "1288414",
+    "lockerAddress": "0xe7912EB68C4bE18D9f7DfD1E896aA59DD92a662a"
+  },
+  "clankerInfo": null
+}

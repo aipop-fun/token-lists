@@ -1,0 +1,22 @@
+{
+  "name": "mferverse",
+  "symbol": "mferverse",
+  "decimals": 18,
+  "description": "mferverse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mferverse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mferverse",
+  "addresses": {
+    "8453": "0x1142c6fc1fa893b508d5ac3a2d715a61104722e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mferverse",
+    "sanitizedSymbol": "MFERVERSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128598",
+    "lockerAddress": "0x5F43D234235caEbbF16C5dd8f8A6C9699Fc36dE9"
+  },
+  "clankerInfo": null
+}

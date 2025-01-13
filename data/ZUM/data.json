@@ -1,0 +1,22 @@
+{
+  "name": "zUM",
+  "symbol": "zUM",
+  "decimals": 18,
+  "description": "zUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zUM",
+  "addresses": {
+    "8453": "0x3e0b25950d8f72a5f838c59272c60ccd3f26e746"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zUM",
+    "sanitizedSymbol": "ZUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1124132",
+    "lockerAddress": "0x4DA79c8C3961EC1F1f38393bA7d19e36051dbc45"
+  },
+  "clankerInfo": null
+}

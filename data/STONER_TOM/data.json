@@ -1,0 +1,22 @@
+{
+  "name": "Stoner Tom",
+  "symbol": "Stoner Tom",
+  "decimals": 18,
+  "description": "Stoner Tom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stoner%20Tom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stoner Tom",
+  "addresses": {
+    "8453": "0x3b5666d43793445c511e1a3417bfb6aae6f75007"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stoner Tom",
+    "sanitizedSymbol": "STONER_TOM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9CCF767f66812D656B2F2EbE30c1987d61393eCd",
+    "lpNftId": "1312654",
+    "lockerAddress": "0x0D673460aCEa60e846Bbf7A1be216Ee1Ae2E6746"
+  },
+  "clankerInfo": null
+}

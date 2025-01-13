@@ -1,0 +1,22 @@
+{
+  "name": "WojakChain",
+  "symbol": "WojakChain",
+  "decimals": 18,
+  "description": "WojakChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WojakChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WojakChain",
+  "addresses": {
+    "8453": "0x2929cc0c76ef004bdaade01060bff78ede5e1ba3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WojakChain",
+    "sanitizedSymbol": "WOJAKCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166146",
+    "lockerAddress": "0x7a258E8ef43113b35b62E709D25Ca050ba15dEd8"
+  },
+  "clankerInfo": null
+}

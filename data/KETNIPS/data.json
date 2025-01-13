@@ -1,0 +1,22 @@
+{
+  "name": "KETNIPS",
+  "symbol": "KETNIPS",
+  "decimals": 18,
+  "description": "KETNIPS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KETNIPS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KETNIPS",
+  "addresses": {
+    "8453": "0x02dc87ae90de5d78d3dc55619e6287989682e376"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KETNIPS",
+    "sanitizedSymbol": "KETNIPS",
+    "created_at": "2024-12-11T11:35:13.818819",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1417086",
+    "lockerAddress": "0x8934E13315e3F7e7218d5EFB51c0B66c82C0E7ED"
+  },
+  "clankerInfo": null
+}

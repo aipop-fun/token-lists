@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Czar",
+  "symbol": "Crypto Czar",
+  "decimals": 18,
+  "description": "Crypto Czar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Czar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Czar",
+  "addresses": {
+    "8453": "0x1cf70e2d307d061d895dbaeafe2e0ddfa33992e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Czar",
+    "sanitizedSymbol": "CRYPTO_CZAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7FA6E5f1d1F830524F7201Ac3BA85bEB05d014E3",
+    "lpNftId": "1340483",
+    "lockerAddress": "0x048f1BeBEC4b16C22653fa6bA6f8811E70C320aA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "POKACHU",
+  "symbol": "POKACHU",
+  "decimals": 18,
+  "description": "POKACHU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POKACHU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POKACHU",
+  "addresses": {
+    "8453": "0x24d9413a597f0422cc703f87ade7cec9ec4a5981"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POKACHU",
+    "sanitizedSymbol": "POKACHU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1333006",
+    "lockerAddress": "0x83a6537Ad58DFf953868e33A11992d64B1fdfeB5"
+  },
+  "clankerInfo": null
+}

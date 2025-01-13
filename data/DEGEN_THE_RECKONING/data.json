@@ -1,0 +1,22 @@
+{
+  "name": "Degen: The Reckoning",
+  "symbol": "Degen: The Reckoning",
+  "decimals": 18,
+  "description": "Degen: The Reckoning is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%3A%20The%20Reckoning",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen: The Reckoning",
+  "addresses": {
+    "8453": "0x3286b8173885073c797b7c787b969be5b6cb7347"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen: The Reckoning",
+    "sanitizedSymbol": "DEGEN_THE_RECKONING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224185",
+    "lockerAddress": "0x2aE435F4c1f9ff5091b9ddA59c31601d2154Fb69"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fool's Gold",
+  "symbol": "Fool's Gold",
+  "decimals": 18,
+  "description": "Fool's Gold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fool's%20Gold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fool's Gold",
+  "addresses": {
+    "8453": "0x089fa6594016c0045e5504d64403f60f67674f3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fool's Gold",
+    "sanitizedSymbol": "FOOL_S_GOLD",
+    "created_at": "2024-12-12T21:01:56.42472",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1443005",
+    "lockerAddress": "0xA16a1BBB016cF9f43e95E352e24cB83Fa6157f2A"
+  },
+  "clankerInfo": null
+}

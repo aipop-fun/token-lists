@@ -1,0 +1,22 @@
+{
+  "name": "MockingCoin",
+  "symbol": "MockingCoin",
+  "decimals": 18,
+  "description": "MockingCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MockingCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MockingCoin",
+  "addresses": {
+    "8453": "0x0cb4d28f8f56bdc433fcc4678125b7ea5b3e6e2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MockingCoin",
+    "sanitizedSymbol": "MOCKINGCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166217",
+    "lockerAddress": "0x33bd5A3a4A86D71987B44BD76BAc958dBAb9a148"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WINWIN",
+  "symbol": "WINWIN",
+  "decimals": 18,
+  "description": "WINWIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WINWIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WINWIN",
+  "addresses": {
+    "8453": "0x142645e5abed86df521fbc53d27e4da1ea11d0cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WINWIN",
+    "sanitizedSymbol": "WINWIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79040BFf41Ee0c863bB1f0569320D3b5F6DFbD56",
+    "lpNftId": "1312229",
+    "lockerAddress": "0x1047a06501BF17Df04E7f9CD44c9F77f528675f6"
+  },
+  "clankerInfo": null
+}

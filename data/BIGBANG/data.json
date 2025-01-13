@@ -1,0 +1,22 @@
+{
+  "name": "BIGBANG",
+  "symbol": "BIGBANG",
+  "decimals": 18,
+  "description": "BIGBANG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIGBANG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIGBANG",
+  "addresses": {
+    "8453": "0x0a9a7e9c43f0a391546aaeab6baf03e12a7d3422"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIGBANG",
+    "sanitizedSymbol": "BIGBANG",
+    "created_at": "2024-12-09T17:56:24.053137",
+    "deployer": "0x0b5fa155785fcb3deD40e6e138BedEdC9Df1CFe9",
+    "lpNftId": "1389961",
+    "lockerAddress": "0xb05c64497656e8AebF019990E3D5fe4a3Bc80F95"
+  },
+  "clankerInfo": null
+}

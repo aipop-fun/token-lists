@@ -1,0 +1,22 @@
+{
+  "name": "W-COIN",
+  "symbol": "W-COIN",
+  "decimals": 18,
+  "description": "W-COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=W-COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "W-COIN",
+  "addresses": {
+    "8453": "0x021c3c2bf57bf71d054e0c327208efaea0e8a35c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "W-COIN",
+    "sanitizedSymbol": "W_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x92FBD7C2E20f5e55Bb0AD158F2661E32d628C315",
+    "lpNftId": "1324188",
+    "lockerAddress": "0x951b85cB57F1dBa710760c4989D77fc797cF70E6"
+  },
+  "clankerInfo": null
+}

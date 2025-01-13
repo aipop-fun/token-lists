@@ -1,0 +1,22 @@
+{
+  "name": "A Gambler",
+  "symbol": "A Gambler",
+  "decimals": 18,
+  "description": "A Gambler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=A%20Gambler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "A Gambler",
+  "addresses": {
+    "8453": "0x3dbffe18852adedbc596f846e2a348a3bb252244"
+  },
+  "tokenInfo": {
+    "originalSymbol": "A Gambler",
+    "sanitizedSymbol": "A_GAMBLER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220830",
+    "lockerAddress": "0xaBB1D64848763cdD8952eD67156C07Ba6EcFdc5D"
+  },
+  "clankerInfo": null
+}

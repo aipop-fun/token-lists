@@ -1,0 +1,22 @@
+{
+  "name": "GEARS",
+  "symbol": "GEARS",
+  "decimals": 18,
+  "description": "GEARS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GEARS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GEARS",
+  "addresses": {
+    "8453": "0x1a6e5310ab318120493c428e812761ccffd59ffe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GEARS",
+    "sanitizedSymbol": "GEARS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4EB7270664fE43af587e9a971aCbf562f3E7FC01",
+    "lpNftId": "1375998",
+    "lockerAddress": "0x95Fc7EE1575afec97e6eD50DF3e044D1E547C07e"
+  },
+  "clankerInfo": null
+}

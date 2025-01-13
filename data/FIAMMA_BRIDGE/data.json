@@ -1,0 +1,22 @@
+{
+  "name": "Fiamma Bridge",
+  "symbol": "Fiamma Bridge",
+  "decimals": 18,
+  "description": "Fiamma Bridge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fiamma%20Bridge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fiamma Bridge",
+  "addresses": {
+    "8453": "0x08d93cbe318a942e66e14403bb0f8709380a8884"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fiamma Bridge",
+    "sanitizedSymbol": "FIAMMA_BRIDGE",
+    "created_at": "2024-12-10T18:35:02.878442",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1405587",
+    "lockerAddress": "0xDf5E7EA372201D1aCf421D13aD83C7607F25FaD4"
+  },
+  "clankerInfo": null
+}

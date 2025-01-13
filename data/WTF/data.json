@@ -1,0 +1,22 @@
+{
+  "name": "wtf",
+  "symbol": "wtf",
+  "decimals": 18,
+  "description": "wtf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wtf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wtf",
+  "addresses": {
+    "8453": "0x142b2b3d11fab8d48106f3352db589528bae9662"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wtf",
+    "sanitizedSymbol": "WTF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119585",
+    "lockerAddress": "0xE02c58BECE173215464d9857Cc6F8BF1e335cdD9"
+  },
+  "clankerInfo": null
+}

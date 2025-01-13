@@ -1,0 +1,22 @@
+{
+  "name": "King Musk",
+  "symbol": "King Musk",
+  "decimals": 18,
+  "description": "King Musk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=King%20Musk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "King Musk",
+  "addresses": {
+    "8453": "0x1a8875aec4e3b162a1674c9df9f3c627a345798d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "King Musk",
+    "sanitizedSymbol": "KING_MUSK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x09A9b7472358b4439B606B651DBe03911f714BE1",
+    "lpNftId": "1317201",
+    "lockerAddress": "0x250EFf438C825658c0AB8d06E10DF2cBd638Eadf"
+  },
+  "clankerInfo": null
+}

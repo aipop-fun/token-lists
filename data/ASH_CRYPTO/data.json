@@ -1,0 +1,22 @@
+{
+  "name": "Ash Crypto",
+  "symbol": "Ash Crypto",
+  "decimals": 18,
+  "description": "Ash Crypto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ash%20Crypto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ash Crypto",
+  "addresses": {
+    "8453": "0x1c06951bbbe5c7cbd8bfa3fb92f83866164a2dbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ash Crypto",
+    "sanitizedSymbol": "ASH_CRYPTO",
+    "created_at": "2024-12-11T12:51:55.268213",
+    "deployer": "0xDbd88e1e4f4222Bb0e6641bb545cD509F62471cB",
+    "lpNftId": "1418556",
+    "lockerAddress": "0xB9E1b52ED115Ddc687e62e848149eAbf17D7c97d"
+  },
+  "clankerInfo": null
+}

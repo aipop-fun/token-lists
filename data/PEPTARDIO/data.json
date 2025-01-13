@@ -1,0 +1,22 @@
+{
+  "name": "Peptardio",
+  "symbol": "Peptardio",
+  "decimals": 18,
+  "description": "Peptardio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Peptardio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Peptardio",
+  "addresses": {
+    "8453": "0x19665dc8985309e91cbaad587dfc05b6b882e47a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Peptardio",
+    "sanitizedSymbol": "PEPTARDIO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232303",
+    "lockerAddress": "0x94A5cFc8433918a2BA6f5C2732a80C02A0DAF03F"
+  },
+  "clankerInfo": null
+}

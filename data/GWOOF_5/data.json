@@ -1,0 +1,22 @@
+{
+  "name": "GWOOF",
+  "symbol": "GWOOF",
+  "decimals": 18,
+  "description": "GWOOF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GWOOF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GWOOF",
+  "addresses": {
+    "8453": "0x2b713cec38770c05a7fac157c7db68a2a88adb65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GWOOF",
+    "sanitizedSymbol": "GWOOF_5",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x575BAb8F7Ee38Cd306a138C968bfd5FafDC43A0a",
+    "lpNftId": "1265948",
+    "lockerAddress": "0x47d27F153D8506E57AcE462B6CCCE5289021d9Ce"
+  },
+  "clankerInfo": null
+}

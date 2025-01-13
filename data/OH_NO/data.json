@@ -1,0 +1,22 @@
+{
+  "name": "Oh No",
+  "symbol": "Oh No",
+  "decimals": 18,
+  "description": "Oh No is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oh%20No",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oh No",
+  "addresses": {
+    "8453": "0x032bf141f67fe5700c48750781634e7c1d1e990d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oh No",
+    "sanitizedSymbol": "OH_NO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124762",
+    "lockerAddress": "0xF770793BeD9d57aB1139645B7FBBeC2BBCd9FD9e"
+  },
+  "clankerInfo": null
+}

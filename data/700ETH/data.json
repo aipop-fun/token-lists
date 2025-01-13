@@ -1,0 +1,22 @@
+{
+  "name": "700ETH",
+  "symbol": "700ETH",
+  "decimals": 18,
+  "description": "700ETH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=700ETH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "700ETH",
+  "addresses": {
+    "8453": "0x292f471fc5972d34189700fb8f3c1ed24ea9e7bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "700ETH",
+    "sanitizedSymbol": "700ETH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x56f1f5C3dC7dcB9389759007B6Ef9512144C461f",
+    "lpNftId": "1370350",
+    "lockerAddress": "0x905447e26785b399F5ff3b367b17e77A9BaD39cf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DRIP",
+  "symbol": "DRIP",
+  "decimals": 18,
+  "description": "DRIP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DRIP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DRIP",
+  "addresses": {
+    "8453": "0x0b37a0a1d4ac7736b17bb21fa6c0ae6120f9e62a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DRIP",
+    "sanitizedSymbol": "DRIP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB4c10FA368b8db73365a43d050295e142E2f0BAf",
+    "lpNftId": "1312879",
+    "lockerAddress": "0xAC13a2EBfdEdb57f5A70C523F6919feb4AEe8A35"
+  },
+  "clankerInfo": null
+}

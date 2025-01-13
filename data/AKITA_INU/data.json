@@ -1,0 +1,22 @@
+{
+  "name": "Akita-inu",
+  "symbol": "Akita-inu",
+  "decimals": 18,
+  "description": "Akita-inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Akita-inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Akita-inu",
+  "addresses": {
+    "8453": "0x16c27a975314df8150acdb96b56cc2aa1c44c0fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Akita-inu",
+    "sanitizedSymbol": "AKITA_INU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC941fE4c308308Ed206Dbe8ac19c7d55734f815A",
+    "lpNftId": "1320558",
+    "lockerAddress": "0x77FC4e9283B7a23bB0375b375A63301477E04f42"
+  },
+  "clankerInfo": null
+}

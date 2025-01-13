@@ -1,0 +1,22 @@
+{
+  "name": "Anon Catt",
+  "symbol": "Anon Catt",
+  "decimals": 18,
+  "description": "Anon Catt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Catt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Catt",
+  "addresses": {
+    "8453": "0x0bfc0d5e4584f7596007544c616bfc128a3d007d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Catt",
+    "sanitizedSymbol": "ANON_CATT",
+    "created_at": "2024-12-10T18:26:53.250515",
+    "deployer": "0x3eD4a2a9D180C6b0d436e973de09189e0b4dAeF8",
+    "lpNftId": "1405502",
+    "lockerAddress": "0xB46Ff3051Bc3AB6D78494f13559A136d6129e232"
+  },
+  "clankerInfo": null
+}

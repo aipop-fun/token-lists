@@ -1,0 +1,22 @@
+{
+  "name": "SEPH",
+  "symbol": "SEPH",
+  "decimals": 18,
+  "description": "SEPH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SEPH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SEPH",
+  "addresses": {
+    "8453": "0x414ebde8ee7eeb8b9e5d9fda7bc37dc49c87b616"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SEPH",
+    "sanitizedSymbol": "SEPH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xccc708F51F27DFB18F24dCe50B3e378C1a49839d",
+    "lpNftId": "1266673",
+    "lockerAddress": "0xb1343177f50138668c63969Fe41aaDB9Ba020609"
+  },
+  "clankerInfo": null
+}

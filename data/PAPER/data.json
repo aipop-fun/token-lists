@@ -1,0 +1,22 @@
+{
+  "name": "PAPER",
+  "symbol": "PAPER",
+  "decimals": 18,
+  "description": "PAPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PAPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PAPER",
+  "addresses": {
+    "8453": "0x0212795deeb2688512594cd6406087f101d03de9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PAPER",
+    "sanitizedSymbol": "PAPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224394",
+    "lockerAddress": "0xaDc449f2aCb21b5B86074C20a93265a3e9B86D5e"
+  },
+  "clankerInfo": null
+}

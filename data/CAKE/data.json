@@ -1,0 +1,22 @@
+{
+  "name": "Cake",
+  "symbol": "Cake",
+  "decimals": 18,
+  "description": "Cake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cake",
+  "addresses": {
+    "8453": "0x41a07c1d4de196a1f1a9309bd1c4ad050f0b6da8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cake",
+    "sanitizedSymbol": "CAKE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212247",
+    "lockerAddress": "0x0Da92cCFb1F52c93fB66d2bF0cC408BF54Ae0E77"
+  },
+  "clankerInfo": null
+}

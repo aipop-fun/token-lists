@@ -1,0 +1,22 @@
+{
+  "name": "ANTOBY",
+  "symbol": "ANTOBY",
+  "decimals": 18,
+  "description": "ANTOBY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANTOBY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANTOBY",
+  "addresses": {
+    "8453": "0x1c142799b74e31f340165ffa1400615446a0a6d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANTOBY",
+    "sanitizedSymbol": "ANTOBY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1304392",
+    "lockerAddress": "0x78856ABaB744bb8c965473a8F7Db0BD7dDeEF57B"
+  },
+  "clankerInfo": null
+}

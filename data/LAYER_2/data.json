@@ -1,0 +1,22 @@
+{
+  "name": "Layer-2",
+  "symbol": "Layer-2",
+  "decimals": 18,
+  "description": "Layer-2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Layer-2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Layer-2",
+  "addresses": {
+    "8453": "0x2466b4669057f46669e9fb09a726e2e7f2751721"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Layer-2",
+    "sanitizedSymbol": "LAYER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x58085DdC6050825495060735B8a41999150879E2",
+    "lpNftId": "1311485",
+    "lockerAddress": "0x4e3868AdA459548Cc44E4A1A6620608c65427535"
+  },
+  "clankerInfo": null
+}

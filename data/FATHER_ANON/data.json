@@ -1,0 +1,22 @@
+{
+  "name": "Father Anon",
+  "symbol": "Father Anon",
+  "decimals": 18,
+  "description": "Father Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Father%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Father Anon",
+  "addresses": {
+    "8453": "0x06910bfd3ca4f1de8d1fa62d57bbb84eab0a77f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Father Anon",
+    "sanitizedSymbol": "FATHER_ANON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0772f0ad91F024031769EF0338316f7Ee8B86F0F",
+    "lpNftId": "1323844",
+    "lockerAddress": "0xB9b55fA321082C9a2510317604D4bEbC02F9eEc5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XionScum",
+  "symbol": "XionScum",
+  "decimals": 18,
+  "description": "XionScum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XionScum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XionScum",
+  "addresses": {
+    "8453": "0x111584cb682b452115a60cd7bd414e22b42adb9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XionScum",
+    "sanitizedSymbol": "XIONSCUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC1d02aBAdc2fed2619512ADeA1418Bd83490E66d",
+    "lpNftId": "1331838",
+    "lockerAddress": "0xdFfFFc60CD41F7163269a0F3E7daDFB8bF6B26E8"
+  },
+  "clankerInfo": null
+}

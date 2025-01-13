@@ -1,0 +1,22 @@
+{
+  "name": "Luna By Virtual",
+  "symbol": "Luna By Virtual",
+  "decimals": 18,
+  "description": "Luna By Virtual is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luna%20By%20Virtual",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luna By Virtual",
+  "addresses": {
+    "8453": "0x08054e5f43be37c7169797fc7e6f022813fbf339"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luna By Virtual",
+    "sanitizedSymbol": "LUNA_BY_VIRTUAL",
+    "created_at": "2024-12-10T05:40:53.642996",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1397095",
+    "lockerAddress": "0x739De2d71C9c16d48cf7505c796ec22A0159506a"
+  },
+  "clankerInfo": null
+}

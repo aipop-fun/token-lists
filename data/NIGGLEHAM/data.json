@@ -1,0 +1,22 @@
+{
+  "name": "niggleham",
+  "symbol": "niggleham",
+  "decimals": 18,
+  "description": "niggleham is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=niggleham",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "niggleham",
+  "addresses": {
+    "8453": "0x2224197d96b46226ec140e2752422527e0abcc0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "niggleham",
+    "sanitizedSymbol": "NIGGLEHAM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x345b0A1A50017De69C05a7a104045a36dF4B801e",
+    "lpNftId": "1326861",
+    "lockerAddress": "0x34365Fa364a63709b7833137478Cae501A75b281"
+  },
+  "clankerInfo": null
+}

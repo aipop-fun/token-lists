@@ -1,0 +1,22 @@
+{
+  "name": "3-Leaf Clover",
+  "symbol": "3-Leaf Clover",
+  "decimals": 18,
+  "description": "3-Leaf Clover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=3-Leaf%20Clover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "3-Leaf Clover",
+  "addresses": {
+    "8453": "0x37a1d1ce0b8f63a70ef2847af03f411e192afa69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "3-Leaf Clover",
+    "sanitizedSymbol": "3_LEAF_CLOVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229383",
+    "lockerAddress": "0x8d9f10B89F664576EA64fF942884FC1bcb649abB"
+  },
+  "clankerInfo": null
+}

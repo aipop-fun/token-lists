@@ -1,0 +1,22 @@
+{
+  "name": "Eyesphere",
+  "symbol": "Eyesphere",
+  "decimals": 18,
+  "description": "Eyesphere is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eyesphere",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eyesphere",
+  "addresses": {
+    "8453": "0x344306aab722bf1bf58ddb512b9228b23d28bbc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eyesphere",
+    "sanitizedSymbol": "EYESPHERE",
+    "created_at": "2024-12-12T14:41:53.713825",
+    "deployer": "0xc0E46e817daaab13c6B6424BeeB0E053C5f32C3B",
+    "lpNftId": "1436139",
+    "lockerAddress": "0xFd8CcDDF200db188051b9A0654e716ea0866910b"
+  },
+  "clankerInfo": null
+}

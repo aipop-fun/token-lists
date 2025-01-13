@@ -1,0 +1,22 @@
+{
+  "name": "Base Turbos",
+  "symbol": "Base Turbos",
+  "decimals": 18,
+  "description": "Base Turbos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20Turbos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base Turbos",
+  "addresses": {
+    "8453": "0x2ecaf38320d21b498a0381a8566a30887e1593dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base Turbos",
+    "sanitizedSymbol": "BASE_TURBOS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1323907",
+    "lockerAddress": "0xcF9E25e096efe63b82a7e4FAfaAb20f18ae874f4"
+  },
+  "clankerInfo": null
+}

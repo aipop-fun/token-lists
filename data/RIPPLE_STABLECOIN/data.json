@@ -1,0 +1,22 @@
+{
+  "name": "Ripple stablecoin",
+  "symbol": "Ripple stablecoin",
+  "decimals": 18,
+  "description": "Ripple stablecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ripple%20stablecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ripple stablecoin",
+  "addresses": {
+    "8453": "0x3ea828723d70b406041f055d007e39fe302e0715"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ripple stablecoin",
+    "sanitizedSymbol": "RIPPLE_STABLECOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3937A5A5f2DC66f726ec9a57b70BC01681203aD7",
+    "lpNftId": "1316066",
+    "lockerAddress": "0xB8f342193665574b4ee7270473B34742216E8530"
+  },
+  "clankerInfo": null
+}

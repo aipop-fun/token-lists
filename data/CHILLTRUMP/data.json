@@ -1,0 +1,22 @@
+{
+  "name": "chillTrump",
+  "symbol": "chillTrump",
+  "decimals": 18,
+  "description": "chillTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillTrump",
+  "addresses": {
+    "8453": "0x1a032e38dfd3096f36b78bece799778c663856ab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillTrump",
+    "sanitizedSymbol": "CHILLTRUMP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8069EEA3E3e125752425a954DCee502fe33e765B",
+    "lpNftId": "1305990",
+    "lockerAddress": "0xa0fDE3Ed6352D644b9133a7BA74c1c48b57dd2f2"
+  },
+  "clankerInfo": null
+}

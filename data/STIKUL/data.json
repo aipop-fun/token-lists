@@ -1,0 +1,22 @@
+{
+  "name": "STIKUL",
+  "symbol": "STIKUL",
+  "decimals": 18,
+  "description": "STIKUL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STIKUL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STIKUL",
+  "addresses": {
+    "8453": "0x0189d29a38fe2350882c64892db527496db3e365"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STIKUL",
+    "sanitizedSymbol": "STIKUL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1284267",
+    "lockerAddress": "0xA1306E9d11f32b8B8FeF9dbd4CA1277F8341970D"
+  },
+  "clankerInfo": null
+}

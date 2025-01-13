@@ -1,0 +1,22 @@
+{
+  "name": "Seed Bird",
+  "symbol": "Seed Bird",
+  "decimals": 18,
+  "description": "Seed Bird is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Seed%20Bird",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Seed Bird",
+  "addresses": {
+    "8453": "0x302ee8f625695507b0ab6059379bf1b3c13ca382"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Seed Bird",
+    "sanitizedSymbol": "SEED_BIRD",
+    "created_at": "2024-12-11T22:41:17.752545",
+    "deployer": "0xc6773d25F31b1a7FE4E4C97B39C10D984F39c069",
+    "lpNftId": "1427424",
+    "lockerAddress": "0x9B702FDb701fd74d20fc89D0b0fbcb18B3dE4E85"
+  },
+  "clankerInfo": null
+}

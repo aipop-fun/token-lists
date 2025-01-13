@@ -1,0 +1,22 @@
+{
+  "name": "BeepBoop",
+  "symbol": "BeepBoop",
+  "decimals": 18,
+  "description": "BeepBoop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BeepBoop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BeepBoop",
+  "addresses": {
+    "8453": "0x2f9a1f4597a70b18d2320c59c10ab8c6fa94beb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BeepBoop",
+    "sanitizedSymbol": "BEEPBOOP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31Cb82d8F4D40034cb1FAf00eC4A173f504d27eA",
+    "lpNftId": "1286741",
+    "lockerAddress": "0x223Eee83346b54Cd0364035beDeDf93814F774e2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chrome",
+  "symbol": "chrome",
+  "decimals": 18,
+  "description": "chrome is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chrome",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chrome",
+  "addresses": {
+    "8453": "0x3382086810ddddb8add56a6fc37f627e05589be9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chrome",
+    "sanitizedSymbol": "CHROME_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x84ce35C1093C366a8f55E9BD5290ae7E32B486De",
+    "lpNftId": "1327901",
+    "lockerAddress": "0xC28074c05DF4eD5f32a1fc4529882cA6c57E62B0"
+  },
+  "clankerInfo": null
+}

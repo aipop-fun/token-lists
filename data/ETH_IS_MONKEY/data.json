@@ -1,0 +1,22 @@
+{
+  "name": "ETH IS MONKEY",
+  "symbol": "ETH IS MONKEY",
+  "decimals": 18,
+  "description": "ETH IS MONKEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETH%20IS%20MONKEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETH IS MONKEY",
+  "addresses": {
+    "8453": "0x13b288498c7a7b084b45545a7d2282075372b9c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETH IS MONKEY",
+    "sanitizedSymbol": "ETH_IS_MONKEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166739",
+    "lockerAddress": "0x92557Ac0330FA05e18a601bbA9956F9f58e43b95"
+  },
+  "clankerInfo": null
+}

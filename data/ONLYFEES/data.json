@@ -1,0 +1,22 @@
+{
+  "name": "OnlyFees",
+  "symbol": "OnlyFees",
+  "decimals": 18,
+  "description": "OnlyFees is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyFees",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyFees",
+  "addresses": {
+    "8453": "0x0974cbd61a3031b142dc1db6afb863af3d877e18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyFees",
+    "sanitizedSymbol": "ONLYFEES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3A7d19Ba6534ab149F8fE95F832cfF8D64A0321c",
+    "lpNftId": "1329121",
+    "lockerAddress": "0x1cc4034053904FbEc2C1f8dcfE04cF1659cfa39b"
+  },
+  "clankerInfo": null
+}

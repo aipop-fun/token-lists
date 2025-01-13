@@ -1,0 +1,22 @@
+{
+  "name": "EternalHunter",
+  "symbol": "EternalHunter",
+  "decimals": 18,
+  "description": "EternalHunter is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EternalHunter",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EternalHunter",
+  "addresses": {
+    "8453": "0x1777995b5d6e5be2d481548a832b40c6b3034474"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EternalHunter",
+    "sanitizedSymbol": "ETERNALHUNTER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234234",
+    "lockerAddress": "0xF9b218460dB1212697DCBad6d923973885e5581F"
+  },
+  "clankerInfo": null
+}

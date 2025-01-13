@@ -1,0 +1,22 @@
+{
+  "name": "QuantumQuip",
+  "symbol": "QuantumQuip",
+  "decimals": 18,
+  "description": "QuantumQuip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QuantumQuip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QuantumQuip",
+  "addresses": {
+    "8453": "0x0e4b80cc0d6d59ad0e553878ba3865cb8566774c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QuantumQuip",
+    "sanitizedSymbol": "QUANTUMQUIP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150727",
+    "lockerAddress": "0xB2d92329993F2e594dBBf6bC1A85dEafd94FE841"
+  },
+  "clankerInfo": null
+}

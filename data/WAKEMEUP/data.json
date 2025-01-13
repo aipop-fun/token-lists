@@ -1,0 +1,22 @@
+{
+  "name": "Wakemeup",
+  "symbol": "Wakemeup",
+  "decimals": 18,
+  "description": "Wakemeup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wakemeup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wakemeup",
+  "addresses": {
+    "8453": "0x3e5ac77b49fa55e981171799d82d5ae131a21117"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wakemeup",
+    "sanitizedSymbol": "WAKEMEUP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDc2FcE5A7C3978080992529a2AFA741E2a13009E",
+    "lpNftId": "1285429",
+    "lockerAddress": "0x9c42B0952Ed45c50266160779dfd4Da22cd857F8"
+  },
+  "clankerInfo": null
+}

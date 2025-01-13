@@ -1,0 +1,22 @@
+{
+  "name": "thinkpad",
+  "symbol": "thinkpad",
+  "decimals": 18,
+  "description": "thinkpad is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=thinkpad",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "thinkpad",
+  "addresses": {
+    "8453": "0x0a05e0e56f2f696a83b067c137c17e812e5d9627"
+  },
+  "tokenInfo": {
+    "originalSymbol": "thinkpad",
+    "sanitizedSymbol": "THINKPAD",
+    "created_at": "2024-12-10T07:35:37.902024",
+    "deployer": "0x9B6f01a888FD5B96D4D0FF67716496c01000e0CE",
+    "lpNftId": "1398059",
+    "lockerAddress": "0x74B45fFb5e79DcAe8E80d9F1733B7D629F6d5e64"
+  },
+  "clankerInfo": null
+}

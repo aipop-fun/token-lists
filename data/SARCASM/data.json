@@ -1,0 +1,22 @@
+{
+  "name": "sarcasm",
+  "symbol": "sarcasm",
+  "decimals": 18,
+  "description": "sarcasm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sarcasm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sarcasm",
+  "addresses": {
+    "8453": "0x00d32574e13802226c9924cde23f2621bcb8e20c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sarcasm",
+    "sanitizedSymbol": "SARCASM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98dc27fA946F1E5911354Bf866eE3302091D976E",
+    "lpNftId": "1331248",
+    "lockerAddress": "0xD81caA0bd7eB1B9cBacd2eAEcBE771699e54f70F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ANON LEGS",
+  "symbol": "ANON LEGS",
+  "decimals": 18,
+  "description": "ANON LEGS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANON%20LEGS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANON LEGS",
+  "addresses": {
+    "8453": "0x10062d4208035a5906f430b1f4a2307bbf2d0b6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANON LEGS",
+    "sanitizedSymbol": "ANON_LEGS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaa01bbB38Fc52095185fAD0C625b5CaEDE05C93A",
+    "lpNftId": "1311778",
+    "lockerAddress": "0x917d3bb54d8023335Db19459D52eB9F304781cAe"
+  },
+  "clankerInfo": null
+}

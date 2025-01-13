@@ -1,0 +1,22 @@
+{
+  "name": "Gojo",
+  "symbol": "Gojo",
+  "decimals": 18,
+  "description": "Gojo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gojo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gojo",
+  "addresses": {
+    "8453": "0x1f6568c75ed946e0312291d5345e7aaa77828637"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gojo",
+    "sanitizedSymbol": "GOJO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x747b42972Bfe443225778E5526FDa3D473eaC22e",
+    "lpNftId": "1329975",
+    "lockerAddress": "0xa501022b9018C7e5483a74286622663e3a282C02"
+  },
+  "clankerInfo": null
+}

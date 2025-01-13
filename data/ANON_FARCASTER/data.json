@@ -1,0 +1,22 @@
+{
+  "name": "Anon Farcaster",
+  "symbol": "Anon Farcaster",
+  "decimals": 18,
+  "description": "Anon Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Farcaster",
+  "addresses": {
+    "8453": "0x2622f77798ab241db11e4c5de30469d72ac65e3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Farcaster",
+    "sanitizedSymbol": "ANON_FARCASTER",
+    "created_at": "2024-12-11T04:41:09.306093",
+    "deployer": "0xA91903Ba2eB4Dd93F734BD40e25FCccCD32c7a47",
+    "lpNftId": "1412663",
+    "lockerAddress": "0x642CC41579CfB6DE65DAf792c4a5d1e710e1DB0A"
+  },
+  "clankerInfo": null
+}

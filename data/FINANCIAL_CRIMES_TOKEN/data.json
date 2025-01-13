@@ -1,0 +1,22 @@
+{
+  "name": "Financial Crimes Token",
+  "symbol": "Financial Crimes Token",
+  "decimals": 18,
+  "description": "Financial Crimes Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Financial%20Crimes%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Financial Crimes Token",
+  "addresses": {
+    "8453": "0x386ba1edebd0db0f7ca2919e545929e2060c85c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Financial Crimes Token",
+    "sanitizedSymbol": "FINANCIAL_CRIMES_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234708",
+    "lockerAddress": "0x6A788ADDA8FCD9802B71240fc57e97239a6107F9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ClankerTech",
+  "symbol": "ClankerTech",
+  "decimals": 18,
+  "description": "ClankerTech is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerTech",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerTech",
+  "addresses": {
+    "8453": "0x2451099878abb028e7fa480fa37dd7f814c1ef51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerTech",
+    "sanitizedSymbol": "CLANKERTECH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x49a9589225cA3371f38E1B8F908715c41D94228c",
+    "lpNftId": "1289299",
+    "lockerAddress": "0xf133F50cC85a4aaf65348aD9E1DAF05dD22028aB"
+  },
+  "clankerInfo": null
+}

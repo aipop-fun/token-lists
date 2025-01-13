@@ -1,0 +1,22 @@
+{
+  "name": "On my way!",
+  "symbol": "On my way!",
+  "decimals": 18,
+  "description": "On my way! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=On%20my%20way!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "On my way!",
+  "addresses": {
+    "8453": "0x2360259cc9fb21d50e777d66c7bc565a7506bbfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "On my way!",
+    "sanitizedSymbol": "ON_MY_WAY",
+    "created_at": "2024-12-09T13:26:27.420164",
+    "deployer": "0x5229496eB5572126E7A8fD4ED8F4Fb9FC9a7b272",
+    "lpNftId": "1387422",
+    "lockerAddress": "0xdDadf93Dd3834e8f8d8C1c3Df00d2C2bc5B35B77"
+  },
+  "clankerInfo": null
+}

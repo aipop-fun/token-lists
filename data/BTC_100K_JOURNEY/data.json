@@ -1,0 +1,22 @@
+{
+  "name": "BTC 100k Journey",
+  "symbol": "BTC 100k Journey",
+  "decimals": 18,
+  "description": "BTC 100k Journey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC%20100k%20Journey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC 100k Journey",
+  "addresses": {
+    "8453": "0x2add51266d41457aae9fba953df6cb35570a3721"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC 100k Journey",
+    "sanitizedSymbol": "BTC_100K_JOURNEY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218381",
+    "lockerAddress": "0x91127016C92a5a0F7539D4fFc0558c82bCd5A906"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bunglecoins",
+  "symbol": "Bunglecoins",
+  "decimals": 18,
+  "description": "Bunglecoins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bunglecoins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bunglecoins",
+  "addresses": {
+    "8453": "0x188b1ebf8fe31fdc0fa42aabbffbacc591bd6c5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bunglecoins",
+    "sanitizedSymbol": "BUNGLECOINS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C515F7776F41FFC9Df45a4BBD515C85e21ABA62",
+    "lpNftId": "1347734",
+    "lockerAddress": "0xF4B10615956cB784183C16e8a3351b7EAaD8769e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "STAY FROSTY",
+  "symbol": "STAY FROSTY",
+  "decimals": 18,
+  "description": "STAY FROSTY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STAY%20FROSTY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STAY FROSTY",
+  "addresses": {
+    "8453": "0x001dc4cec47cd7b431171fe9350338b68b41ec10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STAY FROSTY",
+    "sanitizedSymbol": "STAY_FROSTY",
+    "created_at": "2024-12-09T19:46:08.696792",
+    "deployer": "0xA6c4cd1C1982d2630A8c726e9FceFf37f615a70b",
+    "lpNftId": "1391111",
+    "lockerAddress": "0x82193f50b24b1FDe29070Cf97Cc3039d448BCA4c"
+  },
+  "clankerInfo": null
+}

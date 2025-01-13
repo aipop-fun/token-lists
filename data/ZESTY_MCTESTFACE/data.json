@@ -1,0 +1,22 @@
+{
+  "name": "Zesty McTestFace",
+  "symbol": "Zesty McTestFace",
+  "decimals": 18,
+  "description": "Zesty McTestFace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zesty%20McTestFace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zesty McTestFace",
+  "addresses": {
+    "8453": "0x06436e5fb83250d7b39ff09367eef1803de719d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zesty McTestFace",
+    "sanitizedSymbol": "ZESTY_MCTESTFACE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x58680976F5B3263E5eE7C7D05A6019bb2687189a",
+    "lpNftId": "1226224",
+    "lockerAddress": "0xE9A176A1B98fC5d9487D8E727720c4C87e812e42"
+  },
+  "clankerInfo": null
+}

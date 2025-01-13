@@ -1,0 +1,22 @@
+{
+  "name": "Afrodog",
+  "symbol": "Afrodog",
+  "decimals": 18,
+  "description": "Afrodog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Afrodog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Afrodog",
+  "addresses": {
+    "8453": "0x3bfcecd18e5d65f03f247e7c6af393404a8e4373"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Afrodog",
+    "sanitizedSymbol": "AFRODOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe1e3d0C2548762d495e0D2564A17E54B155E6fd4",
+    "lpNftId": "1320622",
+    "lockerAddress": "0xDeacb8FCf91537B5B458C744b4a94308F4Bd566F"
+  },
+  "clankerInfo": null
+}

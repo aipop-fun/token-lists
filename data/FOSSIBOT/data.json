@@ -1,0 +1,22 @@
+{
+  "name": "fossibot",
+  "symbol": "fossibot",
+  "decimals": 18,
+  "description": "fossibot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fossibot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fossibot",
+  "addresses": {
+    "8453": "0x34e7cbad302a137406590f0a6c4befe0222b1cbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fossibot",
+    "sanitizedSymbol": "FOSSIBOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x25441a8254AF607947c939eDa43364d55725125c",
+    "lpNftId": "1286277",
+    "lockerAddress": "0xbe13260f0F97731cB21B11DD1DA8128ce0f76da8"
+  },
+  "clankerInfo": null
+}

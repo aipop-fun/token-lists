@@ -1,0 +1,22 @@
+{
+  "name": "Dogger Dao",
+  "symbol": "Dogger Dao",
+  "decimals": 18,
+  "description": "Dogger Dao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogger%20Dao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogger Dao",
+  "addresses": {
+    "8453": "0x381a7b128eefa15390cc571a39b715434f10097f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogger Dao",
+    "sanitizedSymbol": "DOGGER_DAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1311950",
+    "lockerAddress": "0xe5D6b449657eDb91b53adF0947Ef3aC49E49Cf63"
+  },
+  "clankerInfo": null
+}

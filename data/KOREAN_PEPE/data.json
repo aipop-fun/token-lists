@@ -1,0 +1,22 @@
+{
+  "name": "Korean Pepe",
+  "symbol": "Korean Pepe",
+  "decimals": 18,
+  "description": "Korean Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Korean%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Korean Pepe",
+  "addresses": {
+    "8453": "0x338138bf8e519f07ac4835fe89fd16f2bde8ca0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Korean Pepe",
+    "sanitizedSymbol": "KOREAN_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2f0ed97e3bCF7cA01653FedC1C4A7a39329DF62D",
+    "lpNftId": "1308814",
+    "lockerAddress": "0xA43A6a95406DABe1221f842812B02Bd4f92e5B33"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OGDOG",
+  "symbol": "OGDOG",
+  "decimals": 18,
+  "description": "OGDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OGDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OGDOG",
+  "addresses": {
+    "8453": "0x3a56d3cf0dc9986ea04c51e28c9d36c28d717572"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OGDOG",
+    "sanitizedSymbol": "OGDOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3B932d65F279FC4A7fF381571881b54Fa2a66fcA",
+    "lpNftId": "1320660",
+    "lockerAddress": "0x21870F3788ef0aF7132cbC52618De1959e913683"
+  },
+  "clankerInfo": null
+}

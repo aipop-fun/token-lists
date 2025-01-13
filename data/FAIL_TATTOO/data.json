@@ -1,0 +1,22 @@
+{
+  "name": "Fail Tattoo",
+  "symbol": "Fail Tattoo",
+  "decimals": 18,
+  "description": "Fail Tattoo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fail%20Tattoo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fail Tattoo",
+  "addresses": {
+    "8453": "0x2faec00fc94ee636d904205f7d22d60b069cb01d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fail Tattoo",
+    "sanitizedSymbol": "FAIL_TATTOO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaD9f179e3383AD27F64A814b1ea07ff4785D9fE8",
+    "lpNftId": "1327295",
+    "lockerAddress": "0xaC33912727F551bB746e4d044D2D904525D5d052"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DOGEFLY",
+  "symbol": "DOGEFLY",
+  "decimals": 18,
+  "description": "DOGEFLY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGEFLY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGEFLY",
+  "addresses": {
+    "8453": "0x1cdee2639a12896730d07b092e78bd83785b8939"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGEFLY",
+    "sanitizedSymbol": "DOGEFLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173404",
+    "lockerAddress": "0xcD99B6D5ab7547E20a95B4f3484c6AfA840803fa"
+  },
+  "clankerInfo": null
+}

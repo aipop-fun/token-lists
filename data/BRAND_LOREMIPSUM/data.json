@@ -1,0 +1,22 @@
+{
+  "name": "Brand Loremipsum",
+  "symbol": "Brand Loremipsum",
+  "decimals": 18,
+  "description": "Brand Loremipsum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brand%20Loremipsum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brand Loremipsum",
+  "addresses": {
+    "8453": "0x408c2c91a0e95cfe4e5835e6cf98d03110e7f13f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brand Loremipsum",
+    "sanitizedSymbol": "BRAND_LOREMIPSUM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232981",
+    "lockerAddress": "0x97CFdAEFc8797d116D07584cBa829685350f2C26"
+  },
+  "clankerInfo": null
+}

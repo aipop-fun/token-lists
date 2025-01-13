@@ -1,0 +1,22 @@
+{
+  "name": "Blockchain by AI",
+  "symbol": "Blockchain by AI",
+  "decimals": 18,
+  "description": "Blockchain by AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blockchain%20by%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blockchain by AI",
+  "addresses": {
+    "8453": "0x25798a9d658ebbed72c5be5b4308ad7dcf62745e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blockchain by AI",
+    "sanitizedSymbol": "BLOCKCHAIN_BY_AI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219884",
+    "lockerAddress": "0x4640f42e82010AE8667ee46d1A550E1C2256A4F9"
+  },
+  "clankerInfo": null
+}

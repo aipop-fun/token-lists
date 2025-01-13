@@ -1,0 +1,22 @@
+{
+  "name": "Degen Capital",
+  "symbol": "Degen Capital",
+  "decimals": 18,
+  "description": "Degen Capital is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Capital",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Capital",
+  "addresses": {
+    "8453": "0x30632782ec3900b511f1f9200cb4924b535402a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Capital",
+    "sanitizedSymbol": "DEGEN_CAPITAL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193459",
+    "lockerAddress": "0x6aC7A6C384e7Be008f70735F23672B19650A4DC2"
+  },
+  "clankerInfo": null
+}

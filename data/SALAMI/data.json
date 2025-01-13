@@ -1,0 +1,22 @@
+{
+  "name": "Salami",
+  "symbol": "Salami",
+  "decimals": 18,
+  "description": "Salami is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Salami",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Salami",
+  "addresses": {
+    "8453": "0x2fdf390521b6719652bbfd4fd99eea624e8fe58b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Salami",
+    "sanitizedSymbol": "SALAMI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114722",
+    "lockerAddress": "0x71d84499aE9A83b43c410AFa60Adc63F6DA3E5a0"
+  },
+  "clankerInfo": null
+}

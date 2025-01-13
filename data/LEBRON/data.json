@@ -1,0 +1,22 @@
+{
+  "name": "LEBRON",
+  "symbol": "LEBRON",
+  "decimals": 18,
+  "description": "LEBRON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEBRON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEBRON",
+  "addresses": {
+    "8453": "0x16c53c7226f98bc654df81a73fb68959fced5ee9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEBRON",
+    "sanitizedSymbol": "LEBRON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x193BA5469dd547213eb3b4d4357bc286F00A0e1C",
+    "lpNftId": "1370299",
+    "lockerAddress": "0xD2959c0a5518A8B2E1e31ce098e884791147aFda"
+  },
+  "clankerInfo": null
+}

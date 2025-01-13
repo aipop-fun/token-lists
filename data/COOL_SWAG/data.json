@@ -1,0 +1,22 @@
+{
+  "name": "COOL SWAG",
+  "symbol": "COOL SWAG",
+  "decimals": 18,
+  "description": "COOL SWAG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COOL%20SWAG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COOL SWAG",
+  "addresses": {
+    "8453": "0x25b368f79477247766c3f53b90513e0001a9c6a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COOL SWAG",
+    "sanitizedSymbol": "COOL_SWAG",
+    "created_at": "2024-12-09T05:15:50.883581",
+    "deployer": "0x2273fAb4e5750689E81d99c454d7acFf04377d34",
+    "lpNftId": "1383046",
+    "lockerAddress": "0xcEd8581970604F43E4fdb7B053c3E05d2cB2f7DE"
+  },
+  "clankerInfo": null
+}

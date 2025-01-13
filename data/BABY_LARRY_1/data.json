@@ -1,0 +1,22 @@
+{
+  "name": "Baby Larry",
+  "symbol": "Baby Larry",
+  "decimals": 18,
+  "description": "Baby Larry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Larry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Larry",
+  "addresses": {
+    "8453": "0x14acd1396a4d7d6c7f16dfef93bfbaf7d1d3fa40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Larry",
+    "sanitizedSymbol": "BABY_LARRY_1",
+    "created_at": "2024-12-11T04:21:11.653699",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1412429",
+    "lockerAddress": "0xa1AeF61Ab6CF5D47b7933DBD9A41512F137a28AC"
+  },
+  "clankerInfo": null
+}

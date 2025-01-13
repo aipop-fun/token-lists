@@ -1,0 +1,22 @@
+{
+  "name": "horizon.ai",
+  "symbol": "horizon.ai",
+  "decimals": 18,
+  "description": "horizon.ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=horizon.ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "horizon.ai",
+  "addresses": {
+    "8453": "0x0d4c06c7def242e4f982fe4e5ef7db2dc75b0c44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "horizon.ai",
+    "sanitizedSymbol": "HORIZON_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa98966af18ECB6227a9f48d98fE8dE1Ad0620ba4",
+    "lpNftId": "1320531",
+    "lockerAddress": "0x12fC4Cd08Cc5678B24BeA52855627AAd3EE05d2e"
+  },
+  "clankerInfo": null
+}

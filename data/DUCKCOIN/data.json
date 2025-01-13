@@ -1,0 +1,22 @@
+{
+  "name": "Duckcoin",
+  "symbol": "Duckcoin",
+  "decimals": 18,
+  "description": "Duckcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Duckcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Duckcoin",
+  "addresses": {
+    "8453": "0x26cca90e88c94d00247416101b10caced93f07b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Duckcoin",
+    "sanitizedSymbol": "DUCKCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98bb6321AA10562ba458e9e449485a9D93520263",
+    "lpNftId": "1287379",
+    "lockerAddress": "0x63813f5023c8724d0C5736a5edb0BACf021296Cf"
+  },
+  "clankerInfo": null
+}

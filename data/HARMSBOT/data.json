@@ -1,0 +1,22 @@
+{
+  "name": "HARMSBOT",
+  "symbol": "HARMSBOT",
+  "decimals": 18,
+  "description": "HARMSBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HARMSBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HARMSBOT",
+  "addresses": {
+    "8453": "0x28fcf62a28b37430b6fa527fdc9ac80ab9d2e96c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HARMSBOT",
+    "sanitizedSymbol": "HARMSBOT",
+    "created_at": "2024-12-11T06:23:59.343952",
+    "deployer": "0x35659E1f527c37e9b7791665278542924d7179b2",
+    "lpNftId": "1413864",
+    "lockerAddress": "0xF00f4e1054898496F31F4C7aA3d65D67FB875531"
+  },
+  "clankerInfo": null
+}

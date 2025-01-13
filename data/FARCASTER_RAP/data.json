@@ -1,0 +1,22 @@
+{
+  "name": "FARCASTER RAP",
+  "symbol": "FARCASTER RAP",
+  "decimals": 18,
+  "description": "FARCASTER RAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCASTER%20RAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCASTER RAP",
+  "addresses": {
+    "8453": "0x044a6e1b1a24141062fe3e8e8335ec2e4840664b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCASTER RAP",
+    "sanitizedSymbol": "FARCASTER_RAP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237446",
+    "lockerAddress": "0x15387dEA40E78A43F8FE7961253A2258585a0D74"
+  },
+  "clankerInfo": null
+}

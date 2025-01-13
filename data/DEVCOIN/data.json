@@ -1,0 +1,22 @@
+{
+  "name": "devcoin",
+  "symbol": "devcoin",
+  "decimals": 18,
+  "description": "devcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=devcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "devcoin",
+  "addresses": {
+    "8453": "0x1ab309e6d6423ccf7c3ee8472c4348dd691012e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "devcoin",
+    "sanitizedSymbol": "DEVCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaC5d3F9f74c77821B624EC0830481E0608974fF7",
+    "lpNftId": "1287729",
+    "lockerAddress": "0x4566c5b76Fd0CA3F6fb9225D7937FdE4E75d33a5"
+  },
+  "clankerInfo": null
+}

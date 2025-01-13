@@ -1,0 +1,22 @@
+{
+  "name": "freeroll",
+  "symbol": "freeroll",
+  "decimals": 18,
+  "description": "freeroll is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=freeroll",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "freeroll",
+  "addresses": {
+    "8453": "0x05b7694396f92cd6e2027f55c52a7bef7ac0527a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "freeroll",
+    "sanitizedSymbol": "FREEROLL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223336",
+    "lockerAddress": "0x9E53ce6c72E2E8b19B241E20342F95715181C9F0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "dogwif",
+  "symbol": "dogwif",
+  "decimals": 18,
+  "description": "dogwif is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogwif",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogwif",
+  "addresses": {
+    "8453": "0x2fad28c40edb299eefd579def58c800ea1854206"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogwif",
+    "sanitizedSymbol": "DOGWIF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xb87A6029B7AA94aC56c40a4A7e5EB5781c3beC56",
+    "lpNftId": "1252837",
+    "lockerAddress": "0x4fA2f8cb2c18de122d378B376eb7A8F2A8706afB"
+  },
+  "clankerInfo": null
+}

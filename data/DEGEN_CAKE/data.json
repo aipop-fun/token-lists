@@ -1,0 +1,22 @@
+{
+  "name": "Degen cake",
+  "symbol": "Degen cake",
+  "decimals": 18,
+  "description": "Degen cake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20cake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen cake",
+  "addresses": {
+    "8453": "0x29682aaa3ce88341efc5f9e3ea57865502862ee2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen cake",
+    "sanitizedSymbol": "DEGEN_CAKE",
+    "created_at": "2024-12-10T07:08:28.047435",
+    "deployer": "0xC4300048bE0357C96e5503CECBe8a78f56Ab0902",
+    "lpNftId": "1397636",
+    "lockerAddress": "0xa2db87aE15Df68b0da1C45D75B89Fe27B0d98798"
+  },
+  "clankerInfo": null
+}

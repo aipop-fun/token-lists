@@ -1,0 +1,22 @@
+{
+  "name": "WILDWOLF",
+  "symbol": "WILDWOLF",
+  "decimals": 18,
+  "description": "WILDWOLF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WILDWOLF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WILDWOLF",
+  "addresses": {
+    "8453": "0x32e416c1d059b40cdb20220d678e99c4de618563"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WILDWOLF",
+    "sanitizedSymbol": "WILDWOLF",
+    "created_at": "2024-12-12T02:09:50.698358",
+    "deployer": "0x98bAE636d6a0edD9E0a14ab573D962B153A15a1B",
+    "lpNftId": "1428580",
+    "lockerAddress": "0x3DcCb3054bfa2550BCB13fB4bBf456d8B84E700f"
+  },
+  "clankerInfo": null
+}

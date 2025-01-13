@@ -1,0 +1,22 @@
+{
+  "name": "Deer",
+  "symbol": "Deer",
+  "decimals": 18,
+  "description": "Deer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deer",
+  "addresses": {
+    "8453": "0x1d4b7a8780619adfd1eba7b62a15bc0f2d69f3c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deer",
+    "sanitizedSymbol": "DEER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219217",
+    "lockerAddress": "0xCAD6Aa8EAaD5EDACa6113FA4F151Fc936e608733"
+  },
+  "clankerInfo": null
+}

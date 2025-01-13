@@ -1,0 +1,22 @@
+{
+  "name": "Meme Anarchic Numismatic Asset",
+  "symbol": "Meme Anarchic Numismatic Asset",
+  "decimals": 18,
+  "description": "Meme Anarchic Numismatic Asset is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meme%20Anarchic%20Numismatic%20Asset",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meme Anarchic Numismatic Asset",
+  "addresses": {
+    "8453": "0x1ba2c5e079921ae6a2003ea73456b21f06ecb22e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meme Anarchic Numismatic Asset",
+    "sanitizedSymbol": "MEME_ANARCHIC_NUMISMATIC_ASSET",
+    "created_at": "2024-12-10T07:14:43.538922",
+    "deployer": "0x79Dd647F008d7944DD78B7B2BA167a76CaB6e71B",
+    "lpNftId": "1397738",
+    "lockerAddress": "0xB258eEA4b516dA9fE198288A5aC50745E8b77caC"
+  },
+  "clankerInfo": null
+}

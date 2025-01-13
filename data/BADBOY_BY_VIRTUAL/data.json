@@ -1,0 +1,22 @@
+{
+  "name": "BadBoy By Virtual",
+  "symbol": "BadBoy By Virtual",
+  "decimals": 18,
+  "description": "BadBoy By Virtual is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BadBoy%20By%20Virtual",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BadBoy By Virtual",
+  "addresses": {
+    "8453": "0x3171fa5c84000476c85455f8ee7ae5901672cf6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BadBoy By Virtual",
+    "sanitizedSymbol": "BADBOY_BY_VIRTUAL",
+    "created_at": "2024-12-12T02:30:31.399983",
+    "deployer": "0xE296E0f4Cb3038682a9489bC0a4D2EaD8752703F",
+    "lpNftId": "1428637",
+    "lockerAddress": "0x0010cEFcD93810261958cA342645EAbe381aAbda"
+  },
+  "clankerInfo": null
+}

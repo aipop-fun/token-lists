@@ -1,0 +1,22 @@
+{
+  "name": "Uniswap X Zora",
+  "symbol": "Uniswap X Zora",
+  "decimals": 18,
+  "description": "Uniswap X Zora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uniswap%20X%20Zora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uniswap X Zora",
+  "addresses": {
+    "8453": "0x399c3bb8d0eac7d70a5c417c8fba155dfc3709f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uniswap X Zora",
+    "sanitizedSymbol": "UNISWAP_X_ZORA",
+    "created_at": "2024-12-12T04:06:20.600373",
+    "deployer": "0x2302f95e29EcFbC285969c93582337973A75Fb2f",
+    "lpNftId": "1429076",
+    "lockerAddress": "0x8A5F6972C4d78Fb07BE03d4928209834636b9d80"
+  },
+  "clankerInfo": null
+}

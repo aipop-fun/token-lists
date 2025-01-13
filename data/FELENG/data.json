@@ -1,0 +1,22 @@
+{
+  "name": "FELENG",
+  "symbol": "FELENG",
+  "decimals": 18,
+  "description": "FELENG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FELENG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FELENG",
+  "addresses": {
+    "8453": "0x17ec001ed01cd6a803a9ea63a0dcc6af8d6e604c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FELENG",
+    "sanitizedSymbol": "FELENG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaEaCab7CF6605fd77DceB1854810A9ddC1b95f1b",
+    "lpNftId": "1323356",
+    "lockerAddress": "0xdEd94731EA490A70392c385B78B2B3b587049384"
+  },
+  "clankerInfo": null
+}

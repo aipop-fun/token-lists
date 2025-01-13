@@ -1,0 +1,22 @@
+{
+  "name": "Earn With Clanker",
+  "symbol": "Earn With Clanker",
+  "decimals": 18,
+  "description": "Earn With Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Earn%20With%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Earn With Clanker",
+  "addresses": {
+    "8453": "0x41473eee652d9693b4ed158e1b59d6a91a95cba6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Earn With Clanker",
+    "sanitizedSymbol": "EARN_WITH_CLANKER",
+    "created_at": "2024-12-10T02:30:55.820212",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1395151",
+    "lockerAddress": "0xde5cfeadF222A4f576B5447e3240d4D570915F7b"
+  },
+  "clankerInfo": null
+}

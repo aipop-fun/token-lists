@@ -1,0 +1,22 @@
+{
+  "name": "WARP BALL",
+  "symbol": "WARP BALL",
+  "decimals": 18,
+  "description": "WARP BALL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARP%20BALL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARP BALL",
+  "addresses": {
+    "8453": "0x3a260d54d9a81982fe23c25f60292cb074c1c0ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARP BALL",
+    "sanitizedSymbol": "WARP_BALL",
+    "created_at": "2024-12-10T08:09:15.873731",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1398566",
+    "lockerAddress": "0x6ebFd25d6fCede17Db893D89b5bd4F39296DFBC8"
+  },
+  "clankerInfo": null
+}

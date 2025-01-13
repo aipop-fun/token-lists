@@ -1,0 +1,22 @@
+{
+  "name": "Ross Support",
+  "symbol": "Ross Support",
+  "decimals": 18,
+  "description": "Ross Support is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ross%20Support",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ross Support",
+  "addresses": {
+    "8453": "0x2bfbeaaca6d7a9dad017bed3bcd7f9076cd6ef48"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ross Support",
+    "sanitizedSymbol": "ROSS_SUPPORT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150289",
+    "lockerAddress": "0xcE6E42E2A09351d816B63Fd2B258F1Ce318daBfe"
+  },
+  "clankerInfo": null
+}

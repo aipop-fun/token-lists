@@ -1,0 +1,22 @@
+{
+  "name": "Bobome",
+  "symbol": "Bobome",
+  "decimals": 18,
+  "description": "Bobome is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bobome",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bobome",
+  "addresses": {
+    "8453": "0x068ef15d22a9c2c2b767b37616ca283192b079d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bobome",
+    "sanitizedSymbol": "BOBOME_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF92A65158BDbe416cFd9b62aEA527216Ad082612",
+    "lpNftId": "1268855",
+    "lockerAddress": "0x89c36c4c7e6852a0FB96C0EFC385c76943E8Ab7C"
+  },
+  "clankerInfo": null
+}

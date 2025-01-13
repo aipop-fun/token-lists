@@ -1,0 +1,22 @@
+{
+  "name": "lolyBase",
+  "symbol": "lolyBase",
+  "decimals": 18,
+  "description": "lolyBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lolyBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lolyBase",
+  "addresses": {
+    "8453": "0x1c6a64815218f4e8003240283482a79ebfd7c04f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lolyBase",
+    "sanitizedSymbol": "LOLYBASE",
+    "created_at": "2024-12-12T17:50:01.500938",
+    "deployer": "0x6F1eE3ADF48c47bDd113b68FE39BbFB2a40af850",
+    "lpNftId": "1440102",
+    "lockerAddress": "0x347aFB021D59885b9780B048D1E1a083186a1774"
+  },
+  "clankerInfo": null
+}

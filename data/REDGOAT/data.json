@@ -1,0 +1,22 @@
+{
+  "name": "RedGoat",
+  "symbol": "RedGoat",
+  "decimals": 18,
+  "description": "RedGoat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RedGoat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RedGoat",
+  "addresses": {
+    "8453": "0x06d83346ea937031beb824ff7f5f2b72fdc8650c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RedGoat",
+    "sanitizedSymbol": "REDGOAT",
+    "created_at": "2024-12-10T11:05:25.074193",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1400096",
+    "lockerAddress": "0xc237AaeAafF3a43304348F0209762f8393ae477B"
+  },
+  "clankerInfo": null
+}

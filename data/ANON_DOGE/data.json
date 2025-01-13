@@ -1,0 +1,22 @@
+{
+  "name": "Anon Doge",
+  "symbol": "Anon Doge",
+  "decimals": 18,
+  "description": "Anon Doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Doge",
+  "addresses": {
+    "8453": "0x049e8c0233d1ca12927b51babffe6047f17aaeef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Doge",
+    "sanitizedSymbol": "ANON_DOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3F10b9a596873db120633169C0701EE3d396CA90",
+    "lpNftId": "1324424",
+    "lockerAddress": "0x26DFf2Ed0ca9f48c0Db1F769b8502868b173defb"
+  },
+  "clankerInfo": null
+}

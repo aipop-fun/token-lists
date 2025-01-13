@@ -1,0 +1,22 @@
+{
+  "name": "PlebCoin",
+  "symbol": "PlebCoin",
+  "decimals": 18,
+  "description": "PlebCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PlebCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PlebCoin",
+  "addresses": {
+    "8453": "0x3831ffb76c035290f451df122ae63322a41e44eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PlebCoin",
+    "sanitizedSymbol": "PLEBCOIN",
+    "created_at": "2024-12-11T06:19:13.25545",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1413840",
+    "lockerAddress": "0xB61CB6498B1222a42350158961b02267D91727eb"
+  },
+  "clankerInfo": null
+}

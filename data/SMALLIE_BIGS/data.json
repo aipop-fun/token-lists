@@ -1,0 +1,22 @@
+{
+  "name": "Smallie Bigs",
+  "symbol": "Smallie Bigs",
+  "decimals": 18,
+  "description": "Smallie Bigs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Smallie%20Bigs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Smallie Bigs",
+  "addresses": {
+    "8453": "0x3e0712209190af38c43d443092f5415d7d9b1924"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Smallie Bigs",
+    "sanitizedSymbol": "SMALLIE_BIGS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236486",
+    "lockerAddress": "0x85810833f2dE449dD33566F4E5B3739bAF77a929"
+  },
+  "clankerInfo": null
+}

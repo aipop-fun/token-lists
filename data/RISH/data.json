@@ -1,0 +1,22 @@
+{
+  "name": "RISH",
+  "symbol": "RISH",
+  "decimals": 18,
+  "description": "RISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RISH",
+  "addresses": {
+    "8453": "0x3a4ac3b71cbc8bc248c64a693aeaa2ba3de75f35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RISH",
+    "sanitizedSymbol": "RISH",
+    "created_at": "2024-12-10T19:36:16.017754",
+    "deployer": "0x755F2fe4beAD1BeFE9E1DB008cd2D9b0C0E12DC7",
+    "lpNftId": "1406275",
+    "lockerAddress": "0xC9e5D585b806223B922Fe4b820F912c196Feca86"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "One Million and One",
+  "symbol": "One Million and One",
+  "decimals": 18,
+  "description": "One Million and One is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20Million%20and%20One",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One Million and One",
+  "addresses": {
+    "8453": "0x03cdb220d0f17c07ce151f025d57357c40d8f3b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One Million and One",
+    "sanitizedSymbol": "ONE_MILLION_AND_ONE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD039E7E515357271fAAD5A1760c0C9416c9445C8",
+    "lpNftId": "1326403",
+    "lockerAddress": "0x3a45001b7C9D0a027b0C0aF7e4f147f7B4Fac83b"
+  },
+  "clankerInfo": null
+}

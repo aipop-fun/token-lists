@@ -1,0 +1,22 @@
+{
+  "name": "Agents Banger",
+  "symbol": "Agents Banger",
+  "decimals": 18,
+  "description": "Agents Banger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Agents%20Banger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Agents Banger",
+  "addresses": {
+    "8453": "0x35bfe71fd5080e66b0b2dbabb5ad023dd8eb46d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Agents Banger",
+    "sanitizedSymbol": "AGENTS_BANGER",
+    "created_at": "2024-12-09T04:20:39.766601",
+    "deployer": "0x029f4057F3A615108781ef907f9872A2983b4206",
+    "lpNftId": "1381556",
+    "lockerAddress": "0x9c4cDD471130A1D4e4Cd245d22214213B4A90f1E"
+  },
+  "clankerInfo": null
+}

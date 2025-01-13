@@ -1,0 +1,22 @@
+{
+  "name": "ENTAB",
+  "symbol": "ENTAB",
+  "decimals": 18,
+  "description": "ENTAB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ENTAB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ENTAB",
+  "addresses": {
+    "8453": "0x3b11fc9b098ef5f9120f576ab58c0a9cbc39988d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ENTAB",
+    "sanitizedSymbol": "ENTAB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1196044",
+    "lockerAddress": "0x175db55886ee6F8ace83D2aD2Cd16bf2c859Bc0D"
+  },
+  "clankerInfo": null
+}

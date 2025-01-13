@@ -1,0 +1,22 @@
+{
+  "name": "Lux Token",
+  "symbol": "Lux Token",
+  "decimals": 18,
+  "description": "Lux Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lux%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lux Token",
+  "addresses": {
+    "8453": "0x33d27bb9eab2eec0b1104820b41112407b6b73a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lux Token",
+    "sanitizedSymbol": "LUX_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167534",
+    "lockerAddress": "0xcD725DB692c40E5A91808725EB4d9743675e173D"
+  },
+  "clankerInfo": null
+}

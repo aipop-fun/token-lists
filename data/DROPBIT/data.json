@@ -1,0 +1,22 @@
+{
+  "name": "Dropbit",
+  "symbol": "Dropbit",
+  "decimals": 18,
+  "description": "Dropbit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dropbit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dropbit",
+  "addresses": {
+    "8453": "0x0bfa1c96306f6553a3273f470900c1a085d48d0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dropbit",
+    "sanitizedSymbol": "DROPBIT",
+    "created_at": "2024-12-10T19:56:51.553026",
+    "deployer": "0x8CCE57930bC7dfcB133F5D34889D362cb1BC282D",
+    "lpNftId": "1406436",
+    "lockerAddress": "0xB22736132A96B55e5221A8389926417eE4c44AD9"
+  },
+  "clankerInfo": null
+}

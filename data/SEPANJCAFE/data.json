@@ -1,0 +1,22 @@
+{
+  "name": "SEPANJCAFE",
+  "symbol": "SEPANJCAFE",
+  "decimals": 18,
+  "description": "SEPANJCAFE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SEPANJCAFE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SEPANJCAFE",
+  "addresses": {
+    "8453": "0x05d8372eb624631824568c9426114f36d4cbb1e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SEPANJCAFE",
+    "sanitizedSymbol": "SEPANJCAFE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129195",
+    "lockerAddress": "0xD5574D9e8805c0c512c6E7cae51212183a54F0dD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MemeHash",
+  "symbol": "MemeHash",
+  "decimals": 18,
+  "description": "MemeHash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemeHash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemeHash",
+  "addresses": {
+    "8453": "0x1e92143c4c032e564b7b4dd8ba7040f5fb6ca3af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemeHash",
+    "sanitizedSymbol": "MEMEHASH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x377eFB92E4d0418585Ed9A6d81C90Cd987581625",
+    "lpNftId": "1312554",
+    "lockerAddress": "0x6366c4977e68D0c4bC9E04EA70f06543b77CbEBf"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clanking Pickaxe",
+  "symbol": "Clanking Pickaxe",
+  "decimals": 18,
+  "description": "Clanking Pickaxe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanking%20Pickaxe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanking Pickaxe",
+  "addresses": {
+    "8453": "0x040d9d3dca694bd928c7a072eb039c1e709b7e04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanking Pickaxe",
+    "sanitizedSymbol": "CLANKING_PICKAXE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231161",
+    "lockerAddress": "0xc61fFf80cc9374367e7104699B77267395ef0B96"
+  },
+  "clankerInfo": null
+}

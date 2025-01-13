@@ -1,0 +1,22 @@
+{
+  "name": "BullCoin",
+  "symbol": "BullCoin",
+  "decimals": 18,
+  "description": "BullCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BullCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BullCoin",
+  "addresses": {
+    "8453": "0x07a46470afe81c9efe1d7336bfb84462c25f47bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BullCoin",
+    "sanitizedSymbol": "BULLCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231497",
+    "lockerAddress": "0x4ab2fF3DC535AEe140Eee0Ef0F149636e0D0dFd9"
+  },
+  "clankerInfo": null
+}

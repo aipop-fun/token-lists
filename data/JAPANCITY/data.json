@@ -1,0 +1,22 @@
+{
+  "name": "JapanCity",
+  "symbol": "JapanCity",
+  "decimals": 18,
+  "description": "JapanCity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JapanCity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JapanCity",
+  "addresses": {
+    "8453": "0x0685f9d5f1184e41c5a93336bc2d43724a38043f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JapanCity",
+    "sanitizedSymbol": "JAPANCITY",
+    "created_at": "2024-12-10T11:54:26.666355",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1400441",
+    "lockerAddress": "0xD58D57B14B29ed582b9204267D659889ae093e63"
+  },
+  "clankerInfo": null
+}

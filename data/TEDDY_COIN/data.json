@@ -1,0 +1,22 @@
+{
+  "name": "Teddy Coin",
+  "symbol": "Teddy Coin",
+  "decimals": 18,
+  "description": "Teddy Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Teddy%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Teddy Coin",
+  "addresses": {
+    "8453": "0x3836871c438d5310bdc690df4d92938a6d032eb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Teddy Coin",
+    "sanitizedSymbol": "TEDDY_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230686",
+    "lockerAddress": "0x7789c39835790805922c2E300b21b86c1f7237E4"
+  },
+  "clankerInfo": null
+}

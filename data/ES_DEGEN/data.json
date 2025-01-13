@@ -1,0 +1,22 @@
+{
+  "name": "ES DEGEN",
+  "symbol": "ES DEGEN",
+  "decimals": 18,
+  "description": "ES DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ES%20DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ES DEGEN",
+  "addresses": {
+    "8453": "0x32a962f0b1bfc7fefe4955403f68e5594a942841"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ES DEGEN",
+    "sanitizedSymbol": "ES_DEGEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213301",
+    "lockerAddress": "0x557606051Aa583540fede9c6680D6cC13eD2A3F8"
+  },
+  "clankerInfo": null
+}

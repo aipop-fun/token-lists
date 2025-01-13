@@ -1,0 +1,22 @@
+{
+  "name": "Maretus AI Bot",
+  "symbol": "Maretus AI Bot",
+  "decimals": 18,
+  "description": "Maretus AI Bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Maretus%20AI%20Bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Maretus AI Bot",
+  "addresses": {
+    "8453": "0x411c85d1ec1cfdf9fbe49d6bfd9d0d44aa18fd0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Maretus AI Bot",
+    "sanitizedSymbol": "MARETUS_AI_BOT",
+    "created_at": "2024-12-12T00:13:33.662752",
+    "deployer": "0x1FD81B3905DBEE302aB4CC60a815d16c86A9c226",
+    "lpNftId": "1428091",
+    "lockerAddress": "0x0EB4fbcf036362556C98730E3BBE0427ffEb4FE3"
+  },
+  "clankerInfo": null
+}

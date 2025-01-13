@@ -1,0 +1,22 @@
+{
+  "name": "Banyan",
+  "symbol": "Banyan",
+  "decimals": 18,
+  "description": "Banyan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banyan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banyan",
+  "addresses": {
+    "8453": "0x10da2546c121ef7d13f92766808d969c5bd64a38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banyan",
+    "sanitizedSymbol": "BANYAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x825504eAD38043C7543331A14b6738B7Ae499c36",
+    "lpNftId": "1288257",
+    "lockerAddress": "0x3862F0116B3862F547f6Ac13CBd4447A36D6DBAa"
+  },
+  "clankerInfo": null
+}

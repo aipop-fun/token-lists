@@ -1,0 +1,22 @@
+{
+  "name": "Do Not Buy Seriously",
+  "symbol": "Do Not Buy Seriously",
+  "decimals": 18,
+  "description": "Do Not Buy Seriously is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Do%20Not%20Buy%20Seriously",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Do Not Buy Seriously",
+  "addresses": {
+    "8453": "0x10460a1c8554f0f13462a864e776067f3f89b5cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Do Not Buy Seriously",
+    "sanitizedSymbol": "DO_NOT_BUY_SERIOUSLY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123017",
+    "lockerAddress": "0x12c27929ec2c458c10e11892e325c09DBADaE045"
+  },
+  "clankerInfo": null
+}

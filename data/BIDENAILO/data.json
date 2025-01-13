@@ -1,0 +1,22 @@
+{
+  "name": "BIDENAILO",
+  "symbol": "BIDENAILO",
+  "decimals": 18,
+  "description": "BIDENAILO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BIDENAILO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BIDENAILO",
+  "addresses": {
+    "8453": "0x3fff9d0cdae5cdb75a96e90e0564ab92c52cc200"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BIDENAILO",
+    "sanitizedSymbol": "BIDENAILO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcAD1721Bd0AF83E08e89037DE805009596963B7C",
+    "lpNftId": "1263627",
+    "lockerAddress": "0xA302C60355A84a287eA0b92728E786426fA174f3"
+  },
+  "clankerInfo": null
+}

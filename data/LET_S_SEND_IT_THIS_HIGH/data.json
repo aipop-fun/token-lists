@@ -1,0 +1,22 @@
+{
+  "name": "let's send it this high",
+  "symbol": "let's send it this high",
+  "decimals": 18,
+  "description": "let's send it this high is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=let's%20send%20it%20this%20high",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "let's send it this high",
+  "addresses": {
+    "8453": "0x2a10344cef54c9052b0c0c3d38cbfa1199e3e67a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "let's send it this high",
+    "sanitizedSymbol": "LET_S_SEND_IT_THIS_HIGH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7Fe238f7b760ECF6774a6cF650C662328F104fCe",
+    "lpNftId": "1292550",
+    "lockerAddress": "0x1b014D09828C56c91CCAEF2866aDAf559A056BBD"
+  },
+  "clankerInfo": null
+}

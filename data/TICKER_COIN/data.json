@@ -1,0 +1,22 @@
+{
+  "name": "Ticker Coin",
+  "symbol": "Ticker Coin",
+  "decimals": 18,
+  "description": "Ticker Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ticker%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ticker Coin",
+  "addresses": {
+    "8453": "0x07ad9a2ac60479cc3cc072e7d752117b765f2e92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ticker Coin",
+    "sanitizedSymbol": "TICKER_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128945",
+    "lockerAddress": "0x6f1c8D2d00275D0448A8Dc52965B205f4Babba04"
+  },
+  "clankerInfo": null
+}

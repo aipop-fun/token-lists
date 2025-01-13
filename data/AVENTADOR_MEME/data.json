@@ -1,0 +1,22 @@
+{
+  "name": "AVENTADOR MEME",
+  "symbol": "AVENTADOR MEME",
+  "decimals": 18,
+  "description": "AVENTADOR MEME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AVENTADOR%20MEME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AVENTADOR MEME",
+  "addresses": {
+    "8453": "0x19a2a5866d7f6908b232b2b86112a406c340faca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AVENTADOR MEME",
+    "sanitizedSymbol": "AVENTADOR_MEME",
+    "created_at": "2024-12-12T16:47:09.053089",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1438845",
+    "lockerAddress": "0xdE6f779E5C0c74C7Bf31b72DAfEFDB742E89d89C"
+  },
+  "clankerInfo": null
+}

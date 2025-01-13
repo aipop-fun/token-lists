@@ -1,0 +1,22 @@
+{
+  "name": "Unnamed",
+  "symbol": "Unnamed",
+  "decimals": 18,
+  "description": "Unnamed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unnamed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unnamed",
+  "addresses": {
+    "8453": "0x0fb7ee672d12738761136360f0a060fa66762eab"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unnamed",
+    "sanitizedSymbol": "UNNAMED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x403089B876128B97012AEe31e3f91B4f6CfEBEde",
+    "lpNftId": "1318953",
+    "lockerAddress": "0x15af8541852f3b29C722E1331686026b0E3Ad2D3"
+  },
+  "clankerInfo": null
+}

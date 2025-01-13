@@ -1,0 +1,22 @@
+{
+  "name": "SAY HELLO",
+  "symbol": "SAY HELLO",
+  "decimals": 18,
+  "description": "SAY HELLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAY%20HELLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAY HELLO",
+  "addresses": {
+    "8453": "0x1ecbcecf3f5ecd7f95d35360a752a6d1d0fae072"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAY HELLO",
+    "sanitizedSymbol": "SAY_HELLO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x543A8d647fA60A94ba5E8D3dEc35C2cBF2B5cCeF",
+    "lpNftId": "1291876",
+    "lockerAddress": "0x6DCfC134D5b9f13E5eb2f1cB6c78389cD1Dd71ea"
+  },
+  "clankerInfo": null
+}

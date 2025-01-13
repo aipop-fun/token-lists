@@ -1,0 +1,22 @@
+{
+  "name": "Human or AI",
+  "symbol": "Human or AI",
+  "decimals": 18,
+  "description": "Human or AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Human%20or%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Human or AI",
+  "addresses": {
+    "8453": "0x00db8a5f157eb747993e14fdcce7f921f3169a67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Human or AI",
+    "sanitizedSymbol": "HUMAN_OR_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84813269551f7B46E319d5393fdbd41ce17b728D",
+    "lpNftId": "1311244",
+    "lockerAddress": "0x591A620fbA50aceCF8CB03Bf83B8618F95C94c75"
+  },
+  "clankerInfo": null
+}

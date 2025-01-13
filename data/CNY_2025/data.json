@@ -1,0 +1,22 @@
+{
+  "name": "CNY 2025",
+  "symbol": "CNY 2025",
+  "decimals": 18,
+  "description": "CNY 2025 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CNY%202025",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CNY 2025",
+  "addresses": {
+    "8453": "0x10d5d5df130c174beafbd88cf34fabc00332c8ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CNY 2025",
+    "sanitizedSymbol": "CNY_2025",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223405",
+    "lockerAddress": "0x6ad542663ba237108460A80F8f26Ee8543f8fFb8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "overinvested.base.eth",
+  "symbol": "overinvested.base.eth",
+  "decimals": 18,
+  "description": "overinvested.base.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=overinvested.base.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "overinvested.base.eth",
+  "addresses": {
+    "8453": "0x30a890ac13d3a44bc03775e26c58f81be1748b72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "overinvested.base.eth",
+    "sanitizedSymbol": "OVERINVESTED_BASE_ETH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152173",
+    "lockerAddress": "0x8fFc02E7666F1b091640d1850421eF42315689F8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PIKA",
+  "symbol": "PIKA",
+  "decimals": 18,
+  "description": "PIKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIKA",
+  "addresses": {
+    "8453": "0x009153869fc285807dd8b6ead02668d55c5a1d33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIKA",
+    "sanitizedSymbol": "PIKA",
+    "created_at": "2024-12-12T06:06:52.671749",
+    "deployer": "0xB0c1bA3A62FE87402620Aa9396642F2A4d3BCDF9",
+    "lpNftId": "1429498",
+    "lockerAddress": "0xA3e49Ffd2561c84AEdfd7af0287e4d1FfAdc594a"
+  },
+  "clankerInfo": null
+}

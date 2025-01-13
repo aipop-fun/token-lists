@@ -1,0 +1,22 @@
+{
+  "name": "RezaAtashbar",
+  "symbol": "RezaAtashbar",
+  "decimals": 18,
+  "description": "RezaAtashbar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RezaAtashbar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RezaAtashbar",
+  "addresses": {
+    "8453": "0x09a3bfdb5a8822b9b950bf18c236badab8dd738d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RezaAtashbar",
+    "sanitizedSymbol": "REZAATASHBAR_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202113",
+    "lockerAddress": "0xc3C99ac961A12129625339dfe180dad95a67e085"
+  },
+  "clankerInfo": null
+}

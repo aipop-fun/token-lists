@@ -1,0 +1,22 @@
+{
+  "name": "Winnaroo",
+  "symbol": "Winnaroo",
+  "decimals": 18,
+  "description": "Winnaroo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Winnaroo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Winnaroo",
+  "addresses": {
+    "8453": "0x350141f568ee65880f832b908591b7297ed479da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Winnaroo",
+    "sanitizedSymbol": "WINNAROO",
+    "created_at": "2024-12-10T03:16:52.23792",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395590",
+    "lockerAddress": "0xFC3728E4098d35cfaa351e0D6E00ca6B757f1BA2"
+  },
+  "clankerInfo": null
+}

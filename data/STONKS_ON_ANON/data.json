@@ -1,0 +1,22 @@
+{
+  "name": "Stonks On Anon",
+  "symbol": "Stonks On Anon",
+  "decimals": 18,
+  "description": "Stonks On Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stonks%20On%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stonks On Anon",
+  "addresses": {
+    "8453": "0x0c68405823942f357e76bf03a9ef044276e37719"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stonks On Anon",
+    "sanitizedSymbol": "STONKS_ON_ANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5259dAf51a4311637216Ece9c005e6f551114A4B",
+    "lpNftId": "1308661",
+    "lockerAddress": "0xBc8a19CFa60BEB13796F2e8935E8c309aAF4b209"
+  },
+  "clankerInfo": null
+}

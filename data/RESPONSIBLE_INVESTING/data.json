@@ -1,0 +1,22 @@
+{
+  "name": "Responsible Investing",
+  "symbol": "Responsible Investing",
+  "decimals": 18,
+  "description": "Responsible Investing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Responsible%20Investing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Responsible Investing",
+  "addresses": {
+    "8453": "0x21579b3ebbc846bbbf9488326f5ff777e2f8558c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Responsible Investing",
+    "sanitizedSymbol": "RESPONSIBLE_INVESTING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x267a6d0C65Fe804689Cb590967f536cd7f0d0c65",
+    "lpNftId": "1318792",
+    "lockerAddress": "0xbB01357337e22C81257DC2D334817A3d37BC306f"
+  },
+  "clankerInfo": null
+}

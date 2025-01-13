@@ -1,0 +1,22 @@
+{
+  "name": "Holding Space",
+  "symbol": "Holding Space",
+  "decimals": 18,
+  "description": "Holding Space is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Holding%20Space",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Holding Space",
+  "addresses": {
+    "8453": "0x3d62885502aba4d1dc371fc0f76ebfff987bee8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Holding Space",
+    "sanitizedSymbol": "HOLDING_SPACE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5237834ce7468435eF9254242914EAd203AA4771",
+    "lpNftId": "1289679",
+    "lockerAddress": "0x53F48404a2Eb7361Ed0140368Ee2207022c51428"
+  },
+  "clankerInfo": null
+}

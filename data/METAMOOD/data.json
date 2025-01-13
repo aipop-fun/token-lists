@@ -1,0 +1,22 @@
+{
+  "name": "MetaMood",
+  "symbol": "MetaMood",
+  "decimals": 18,
+  "description": "MetaMood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MetaMood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MetaMood",
+  "addresses": {
+    "8453": "0x0f3850d75b470632c21f08f12729f64f2a11213e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MetaMood",
+    "sanitizedSymbol": "METAMOOD",
+    "created_at": "2024-12-10T13:43:29.581021",
+    "deployer": "0x17cf66C63741a9d542bCe7744f34b2a62C06cb60",
+    "lpNftId": "1401553",
+    "lockerAddress": "0x0377f4fB5c8417a958d685C8bd84eef7F04a4007"
+  },
+  "clankerInfo": null
+}

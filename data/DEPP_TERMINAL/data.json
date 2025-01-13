@@ -1,0 +1,22 @@
+{
+  "name": "Depp Terminal",
+  "symbol": "Depp Terminal",
+  "decimals": 18,
+  "description": "Depp Terminal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Depp%20Terminal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Depp Terminal",
+  "addresses": {
+    "8453": "0x28090798af5243fcaab4aadff1facaf7d16ae8cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Depp Terminal",
+    "sanitizedSymbol": "DEPP_TERMINAL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226494",
+    "lockerAddress": "0x58Cd1a036eaFec137299CC83025a5244A68BF86e"
+  },
+  "clankerInfo": null
+}

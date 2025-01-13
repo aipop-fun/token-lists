@@ -1,0 +1,22 @@
+{
+  "name": "Max headroom",
+  "symbol": "Max headroom",
+  "decimals": 18,
+  "description": "Max headroom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Max%20headroom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Max headroom",
+  "addresses": {
+    "8453": "0x191fea997e11243d82768e37578c7c5e49bbc881"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Max headroom",
+    "sanitizedSymbol": "MAX_HEADROOM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229711",
+    "lockerAddress": "0x0BF44AF0C044f71E15af54F8F3abD7BFA58d41a2"
+  },
+  "clankerInfo": null
+}

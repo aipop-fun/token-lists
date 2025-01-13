@@ -1,0 +1,22 @@
+{
+  "name": "Degen to $1",
+  "symbol": "Degen to $1",
+  "decimals": 18,
+  "description": "Degen to $1 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20to%20%241",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen to $1",
+  "addresses": {
+    "8453": "0x31153b93b47fba113b5895bf57702038d8e500eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen to $1",
+    "sanitizedSymbol": "DEGEN_TO_1_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1343145",
+    "lockerAddress": "0xAC96583BE8BdB9cF15ddc1aDBd8C8b5934A80a0c"
+  },
+  "clankerInfo": null
+}

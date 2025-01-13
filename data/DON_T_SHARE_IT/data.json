@@ -1,0 +1,22 @@
+{
+  "name": "Don't share it",
+  "symbol": "Don't share it",
+  "decimals": 18,
+  "description": "Don't share it is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20share%20it",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't share it",
+  "addresses": {
+    "8453": "0x37c17eff88cf63a767354a602e6f8b8dadd7542b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't share it",
+    "sanitizedSymbol": "DON_T_SHARE_IT",
+    "created_at": "2024-12-08T23:59:25.988682",
+    "deployer": "0x8069EEA3E3e125752425a954DCee502fe33e765B",
+    "lpNftId": "1321556",
+    "lockerAddress": "0x9fDD0c1E8eDc8F77d1138667265505c528375932"
+  },
+  "clankerInfo": null
+}

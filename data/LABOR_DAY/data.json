@@ -1,0 +1,22 @@
+{
+  "name": "Labor Day",
+  "symbol": "Labor Day",
+  "decimals": 18,
+  "description": "Labor Day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Labor%20Day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Labor Day",
+  "addresses": {
+    "8453": "0x32ae73776dfe26201a7397129a635c4eab8998a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Labor Day",
+    "sanitizedSymbol": "LABOR_DAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x35b7E45eA858Ce46AEfF6f1059bC64e96dA7D40E",
+    "lpNftId": "1333159",
+    "lockerAddress": "0x125464Db31154B6DbC8a7e5F52dbFaB7E305330D"
+  },
+  "clankerInfo": null
+}

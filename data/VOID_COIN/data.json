@@ -1,0 +1,22 @@
+{
+  "name": "Void Coin",
+  "symbol": "Void Coin",
+  "decimals": 18,
+  "description": "Void Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Void%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Void Coin",
+  "addresses": {
+    "8453": "0x250a95c1c6559bef3450ca972631155f046417e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Void Coin",
+    "sanitizedSymbol": "VOID_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF46639514fd5E892a844645155ECB30aC4879159",
+    "lpNftId": "1251266",
+    "lockerAddress": "0x6Be980A962A1db95c2a2EEF4EcB4957bDFd90A6F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Suicde",
+  "symbol": "Suicde",
+  "decimals": 18,
+  "description": "Suicde is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Suicde",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Suicde",
+  "addresses": {
+    "8453": "0x38921cf749a371c7b25bf04a0c17fc5647bf30cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Suicde",
+    "sanitizedSymbol": "SUICDE",
+    "created_at": "2024-12-10T20:44:43.311395",
+    "deployer": "0x104D736A63AbA8B967C988E84Ec93aa74db252d8",
+    "lpNftId": "1407007",
+    "lockerAddress": "0x2406B7C699cC5E012a03F58f9A6114Cd7B524C01"
+  },
+  "clankerInfo": null
+}

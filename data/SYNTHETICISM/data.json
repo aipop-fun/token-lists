@@ -1,0 +1,22 @@
+{
+  "name": "Syntheticism",
+  "symbol": "Syntheticism",
+  "decimals": 18,
+  "description": "Syntheticism is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Syntheticism",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Syntheticism",
+  "addresses": {
+    "8453": "0x1e48a26a92b8cc91de43b8117b8d74c0b46427af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Syntheticism",
+    "sanitizedSymbol": "SYNTHETICISM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206344",
+    "lockerAddress": "0x8cA56f6fDdfA816C7f206AC23748036c25402b17"
+  },
+  "clankerInfo": null
+}

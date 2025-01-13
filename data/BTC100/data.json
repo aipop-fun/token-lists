@@ -1,0 +1,22 @@
+{
+  "name": "BTC100",
+  "symbol": "BTC100",
+  "decimals": 18,
+  "description": "BTC100 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC100",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC100",
+  "addresses": {
+    "8453": "0x08356280469337a2908b0ef614deeba0a5a0dd46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC100",
+    "sanitizedSymbol": "BTC100",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1F64D08198991C3c0D794D2fc52c458Ef807787c",
+    "lpNftId": "1332704",
+    "lockerAddress": "0x021e194891358F536a351cFE867e8eAb305eABfA"
+  },
+  "clankerInfo": null
+}

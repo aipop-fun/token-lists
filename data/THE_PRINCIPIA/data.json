@@ -1,0 +1,22 @@
+{
+  "name": "The Principia",
+  "symbol": "The Principia",
+  "decimals": 18,
+  "description": "The Principia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Principia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Principia",
+  "addresses": {
+    "8453": "0x2cafb777eb49c6a2ab9ef1793bb5ac34114fea3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Principia",
+    "sanitizedSymbol": "THE_PRINCIPIA",
+    "created_at": "2024-12-12T02:44:07.413854",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1428693",
+    "lockerAddress": "0x9d6a055a476c8B99D31A6f28e4f7ebae43A08B06"
+  },
+  "clankerInfo": null
+}

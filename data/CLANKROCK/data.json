@@ -1,0 +1,22 @@
+{
+  "name": "clankrock",
+  "symbol": "clankrock",
+  "decimals": 18,
+  "description": "clankrock is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankrock",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankrock",
+  "addresses": {
+    "8453": "0x121186c9203970680ea8b57b79bcaf5a395a5ecc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankrock",
+    "sanitizedSymbol": "CLANKROCK",
+    "created_at": "2024-12-12T09:37:45.463028",
+    "deployer": "0xb0e5A7aB88E5ce660C844c1AEF682b06cC146752",
+    "lpNftId": "1431508",
+    "lockerAddress": "0x0fB86b3cD539751B707B60476059F9d789386978"
+  },
+  "clankerInfo": null
+}

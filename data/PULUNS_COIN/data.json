@@ -1,0 +1,22 @@
+{
+  "name": "PULUNS COIN",
+  "symbol": "PULUNS COIN",
+  "decimals": 18,
+  "description": "PULUNS COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PULUNS%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PULUNS COIN",
+  "addresses": {
+    "8453": "0x228af4842d3d8b22d3158f1ddb6206b49c605256"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PULUNS COIN",
+    "sanitizedSymbol": "PULUNS_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x3304000131AB6ae477C9741FEDcFb6Aa93fc94Ef",
+    "lpNftId": "1209307",
+    "lockerAddress": "0xF3e83aC743263522cB7923fdaA84B9D61E7e0dFe"
+  },
+  "clankerInfo": null
+}

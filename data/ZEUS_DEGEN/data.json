@@ -1,0 +1,22 @@
+{
+  "name": "ZEUS DEGEN",
+  "symbol": "ZEUS DEGEN",
+  "decimals": 18,
+  "description": "ZEUS DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEUS%20DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEUS DEGEN",
+  "addresses": {
+    "8453": "0x34f047ce2c65f26890f0c2790e1adf67a5d39745"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEUS DEGEN",
+    "sanitizedSymbol": "ZEUS_DEGEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaee9df4554DF4DDB473E1713eC0BB2eAD5f8fC97",
+    "lpNftId": "1323921",
+    "lockerAddress": "0xA7A9B84EfEAABE1954b83BA53A144c5e661c4610"
+  },
+  "clankerInfo": null
+}

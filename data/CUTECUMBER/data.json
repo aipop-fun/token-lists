@@ -1,0 +1,22 @@
+{
+  "name": "CuteCumber",
+  "symbol": "CuteCumber",
+  "decimals": 18,
+  "description": "CuteCumber is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CuteCumber",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CuteCumber",
+  "addresses": {
+    "8453": "0x337810e5fe0f6688a420ad309279f7f4b2ef2c0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CuteCumber",
+    "sanitizedSymbol": "CUTECUMBER",
+    "created_at": "2024-12-12T13:51:55.589355",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1435335",
+    "lockerAddress": "0xc5be99259F23E3842003F95eBF628CeA3fA62De3"
+  },
+  "clankerInfo": null
+}

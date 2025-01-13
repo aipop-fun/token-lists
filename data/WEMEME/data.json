@@ -1,0 +1,22 @@
+{
+  "name": "WEMEME",
+  "symbol": "WEMEME",
+  "decimals": 18,
+  "description": "WEMEME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEMEME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEMEME",
+  "addresses": {
+    "8453": "0x0011ae75edc7c8e287ff3645bbc862f5fede959e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEMEME",
+    "sanitizedSymbol": "WEMEME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1310046",
+    "lockerAddress": "0x1D1CCAF59584781a5DCe6ea3ed703cb927Dc9787"
+  },
+  "clankerInfo": null
+}

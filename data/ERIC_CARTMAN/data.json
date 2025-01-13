@@ -1,0 +1,22 @@
+{
+  "name": "Eric Cartman",
+  "symbol": "Eric Cartman",
+  "decimals": 18,
+  "description": "Eric Cartman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Eric%20Cartman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Eric Cartman",
+  "addresses": {
+    "8453": "0x291715bccbd5cd9ff08d70a64ff7af6ca47458e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Eric Cartman",
+    "sanitizedSymbol": "ERIC_CARTMAN",
+    "created_at": "2024-12-12T11:51:04.99377",
+    "deployer": "0x98EC9f4D4cB6Be64335db6376C4c0bE91586D53E",
+    "lpNftId": "1433736",
+    "lockerAddress": "0x51AA6c773f9E415281e73a230F3cFA28ac009e34"
+  },
+  "clankerInfo": null
+}

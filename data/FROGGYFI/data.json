@@ -1,0 +1,22 @@
+{
+  "name": "FroggyFi",
+  "symbol": "FroggyFi",
+  "decimals": 18,
+  "description": "FroggyFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FroggyFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FroggyFi",
+  "addresses": {
+    "8453": "0x1261551b792966685068f2465aa70336063f58c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FroggyFi",
+    "sanitizedSymbol": "FROGGYFI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173278",
+    "lockerAddress": "0x686a1834C452E1e1E0114753B89A98fCeFD2e5f0"
+  },
+  "clankerInfo": null
+}

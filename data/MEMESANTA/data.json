@@ -1,0 +1,22 @@
+{
+  "name": "MemeSanta",
+  "symbol": "MemeSanta",
+  "decimals": 18,
+  "description": "MemeSanta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemeSanta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemeSanta",
+  "addresses": {
+    "8453": "0x1abb76f45b624234e41a16b13eb09cbc5da6eb6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemeSanta",
+    "sanitizedSymbol": "MEMESANTA",
+    "created_at": "2024-12-10T18:32:14.839196",
+    "deployer": "0xdE8668a54Fced968c9C2F43d62b1d2E6319a4Afe",
+    "lpNftId": "1405542",
+    "lockerAddress": "0xd12cFac9ec53d9C5f71ef7f9783413d9b9CABc21"
+  },
+  "clankerInfo": null
+}

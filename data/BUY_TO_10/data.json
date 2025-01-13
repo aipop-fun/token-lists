@@ -1,0 +1,22 @@
+{
+  "name": "BUY TO 10$",
+  "symbol": "BUY TO 10$",
+  "decimals": 18,
+  "description": "BUY TO 10$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUY%20TO%2010%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUY TO 10$",
+  "addresses": {
+    "8453": "0x3210124871bbd805b5bdafc37dcb497e5b211af8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUY TO 10$",
+    "sanitizedSymbol": "BUY_TO_10",
+    "created_at": "2024-12-12T16:06:44.188442",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1437907",
+    "lockerAddress": "0x3850151e32e318031af02e027D5015B9130ed6c1"
+  },
+  "clankerInfo": null
+}

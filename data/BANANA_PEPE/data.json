@@ -1,0 +1,22 @@
+{
+  "name": "banana Pepe",
+  "symbol": "banana Pepe",
+  "decimals": 18,
+  "description": "banana Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=banana%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "banana Pepe",
+  "addresses": {
+    "8453": "0x0ac2d28af28d2dd7b4e5c30b3ae2ffb8c71f4b12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "banana Pepe",
+    "sanitizedSymbol": "BANANA_PEPE",
+    "created_at": "2024-12-09T19:23:53.958439",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1390870",
+    "lockerAddress": "0xE0Fa7db6196a90db6F3cd5a9D5361f1F2D21Acc0"
+  },
+  "clankerInfo": null
+}

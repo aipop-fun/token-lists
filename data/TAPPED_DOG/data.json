@@ -1,0 +1,22 @@
+{
+  "name": "TAPPED DOG",
+  "symbol": "TAPPED DOG",
+  "decimals": 18,
+  "description": "TAPPED DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAPPED%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAPPED DOG",
+  "addresses": {
+    "8453": "0x110c593e8227548d816c110dd9cc7962fa2d4efd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAPPED DOG",
+    "sanitizedSymbol": "TAPPED_DOG",
+    "created_at": "2024-12-12T20:51:32.88676",
+    "deployer": "0xAF765025740331210c0D46d0E656dF7fa0f21e24",
+    "lpNftId": "1442754",
+    "lockerAddress": "0x13286Fd2E3234d6c575871ECC65e7261BC17b0c1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Punk Pup",
+  "symbol": "Punk Pup",
+  "decimals": 18,
+  "description": "Punk Pup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Punk%20Pup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Punk Pup",
+  "addresses": {
+    "8453": "0x1ff8a966f95cf24b6a4364523ec49731ea7b64b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Punk Pup",
+    "sanitizedSymbol": "PUNK_PUP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9D96cCF903807253b23371FFAF54F22f7c468c0F",
+    "lpNftId": "1376408",
+    "lockerAddress": "0x2Ce65DFb48913acd27167218BA8B35Fc6De3da9d"
+  },
+  "clankerInfo": null
+}

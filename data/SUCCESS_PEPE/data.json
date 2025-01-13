@@ -1,0 +1,22 @@
+{
+  "name": "Success Pepe",
+  "symbol": "Success Pepe",
+  "decimals": 18,
+  "description": "Success Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Success%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Success Pepe",
+  "addresses": {
+    "8453": "0x17d6a4efb3a847043798ac8301387bd09410a07d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Success Pepe",
+    "sanitizedSymbol": "SUCCESS_PEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5DF8aFd616a527aD58Bc6D6b4010cB4c73c1eEC4",
+    "lpNftId": "1330085",
+    "lockerAddress": "0xF10f7Ce2f9EB97eC7E37570a03821e9DeAf1bF3b"
+  },
+  "clankerInfo": null
+}

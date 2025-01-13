@@ -1,0 +1,22 @@
+{
+  "name": "MOSS AI",
+  "symbol": "MOSS AI",
+  "decimals": 18,
+  "description": "MOSS AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOSS%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOSS AI",
+  "addresses": {
+    "8453": "0x07e4633ec8d3231fb6a2dcf8382ddb8fd2bc1243"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOSS AI",
+    "sanitizedSymbol": "MOSS_AI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0f516eBb507F553ef0644D6E720A56Fb3dde760f",
+    "lpNftId": "1265251",
+    "lockerAddress": "0x70334B6D4Eb579dF9B85d6E8FaBFDeAccf73EB7F"
+  },
+  "clankerInfo": null
+}

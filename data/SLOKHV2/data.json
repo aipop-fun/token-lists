@@ -1,0 +1,22 @@
+{
+  "name": "slokhV2",
+  "symbol": "slokhV2",
+  "decimals": 18,
+  "description": "slokhV2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=slokhV2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "slokhV2",
+  "addresses": {
+    "8453": "0x407ceea87fcbd1580d42839590e6de0957fa193c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "slokhV2",
+    "sanitizedSymbol": "SLOKHV2",
+    "created_at": "2024-12-12T06:59:28.735575",
+    "deployer": "0x8B18C5bEebB7F6cb0c4e2046A6CcBC53f9b06455",
+    "lpNftId": "1429666",
+    "lockerAddress": "0x3233F81284f1F2bdFd049F1e42c4Dc7BF512bd52"
+  },
+  "clankerInfo": null
+}

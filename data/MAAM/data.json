@@ -1,0 +1,22 @@
+{
+  "name": "MAAM",
+  "symbol": "MAAM",
+  "decimals": 18,
+  "description": "MAAM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAAM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAAM",
+  "addresses": {
+    "8453": "0x1042a425e398954c3ad2b6271e94cdbe0a5ace5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAAM",
+    "sanitizedSymbol": "MAAM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223956",
+    "lockerAddress": "0x08a559Be724eAF7fcF12a9161c041a78ad1B0848"
+  },
+  "clankerInfo": null
+}

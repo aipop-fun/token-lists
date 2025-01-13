@@ -1,0 +1,22 @@
+{
+  "name": "Enron",
+  "symbol": "Enron",
+  "decimals": 18,
+  "description": "Enron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Enron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Enron",
+  "addresses": {
+    "8453": "0x173f9746fac82b2a1275e2f93d4fdd119651c22f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Enron",
+    "sanitizedSymbol": "ENRON_1",
+    "created_at": "2024-12-09T14:01:05.303473",
+    "deployer": "0xE172232c68d9759ccEA4A8757A86BA67E2baC76D",
+    "lpNftId": "1387722",
+    "lockerAddress": "0x8D8E9953Ba08E97B979365A0b6B9d0c3fD6BA15B"
+  },
+  "clankerInfo": null
+}

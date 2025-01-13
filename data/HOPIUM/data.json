@@ -1,0 +1,22 @@
+{
+  "name": "Hopium",
+  "symbol": "Hopium",
+  "decimals": 18,
+  "description": "Hopium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hopium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hopium",
+  "addresses": {
+    "8453": "0x3293c42952505cbdd6ba065d59a3ffa72c4c3132"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hopium",
+    "sanitizedSymbol": "HOPIUM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73605779985A11B8Fe32E6eD5ae5F249FFD0D7f0",
+    "lpNftId": "1310590",
+    "lockerAddress": "0xCB4e268521f1A23f5Fd13a8a20CD0Ea86Ff5F0F5"
+  },
+  "clankerInfo": null
+}

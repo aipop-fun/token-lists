@@ -1,0 +1,22 @@
+{
+  "name": "Captain Planet",
+  "symbol": "Captain Planet",
+  "decimals": 18,
+  "description": "Captain Planet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Captain%20Planet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Captain Planet",
+  "addresses": {
+    "8453": "0x352cf34984416621bcf98da93756ad383f8ae2ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Captain Planet",
+    "sanitizedSymbol": "CAPTAIN_PLANET",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0E3665F48425FdAb08F9C1bc5e00e3628cEeFC14",
+    "lpNftId": "1364012",
+    "lockerAddress": "0xAaddA5C192B725a0933d52840D38766fbE982c8F"
+  },
+  "clankerInfo": null
+}

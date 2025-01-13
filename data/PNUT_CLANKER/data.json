@@ -1,0 +1,22 @@
+{
+  "name": "PNUT CLANKER",
+  "symbol": "PNUT CLANKER",
+  "decimals": 18,
+  "description": "PNUT CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNUT%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNUT CLANKER",
+  "addresses": {
+    "8453": "0x0855bccdea8218de4939500bf66017be5a81ea24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNUT CLANKER",
+    "sanitizedSymbol": "PNUT_CLANKER",
+    "created_at": "2024-12-12T09:34:56.737941",
+    "deployer": "0x8B996ef121705a6618240d25B43903943AF56ed0",
+    "lpNftId": "1431487",
+    "lockerAddress": "0x5186490D357e5bccBaf8B0F01278f914175f6208"
+  },
+  "clankerInfo": null
+}

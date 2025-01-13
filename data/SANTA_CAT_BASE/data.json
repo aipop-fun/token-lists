@@ -1,0 +1,22 @@
+{
+  "name": "Santa Cat Base",
+  "symbol": "Santa Cat Base",
+  "decimals": 18,
+  "description": "Santa Cat Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20Cat%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa Cat Base",
+  "addresses": {
+    "8453": "0x05f22c3a82f031a61e801b858266941f3ee0b324"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa Cat Base",
+    "sanitizedSymbol": "SANTA_CAT_BASE",
+    "created_at": "2024-12-10T07:17:39.264911",
+    "deployer": "0x8F193fEA9EA9E11e79850c0a9EaBc7d7C06f8F02",
+    "lpNftId": "1397788",
+    "lockerAddress": "0x6964052134de23bDdF1944423E5DFdA3440E8b19"
+  },
+  "clankerInfo": null
+}

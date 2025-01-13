@@ -1,0 +1,22 @@
+{
+  "name": "Zidane",
+  "symbol": "Zidane",
+  "decimals": 18,
+  "description": "Zidane is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zidane",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zidane",
+  "addresses": {
+    "8453": "0x34d77201392e0324d91ecdb35ffe9c5d543f9e59"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zidane",
+    "sanitizedSymbol": "ZIDANE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x345b0A1A50017De69C05a7a104045a36dF4B801e",
+    "lpNftId": "1306631",
+    "lockerAddress": "0xd4FBc7B87d178C751b59f3df46fd004908516Ae2"
+  },
+  "clankerInfo": null
+}

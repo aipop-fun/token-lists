@@ -1,0 +1,22 @@
+{
+  "name": "owo",
+  "symbol": "owo",
+  "decimals": 18,
+  "description": "owo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=owo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "owo",
+  "addresses": {
+    "8453": "0x1b80872c6da4a59a98a382c4f89e33f5359a95c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "owo",
+    "sanitizedSymbol": "OWO",
+    "created_at": "2024-12-11T09:18:01.11393",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1415447",
+    "lockerAddress": "0xA10f55C606096Ef2DAa7B12043407c7f554bB7C5"
+  },
+  "clankerInfo": null
+}

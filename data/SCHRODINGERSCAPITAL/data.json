@@ -1,0 +1,22 @@
+{
+  "name": "SchrodingersCapital",
+  "symbol": "SchrodingersCapital",
+  "decimals": 18,
+  "description": "SchrodingersCapital is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SchrodingersCapital",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SchrodingersCapital",
+  "addresses": {
+    "8453": "0x0a1e729afdc900b447c8135862be6d73e9457d10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SchrodingersCapital",
+    "sanitizedSymbol": "SCHRODINGERSCAPITAL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9B50ae6227a1716a89d9e9478570676FD4FFAf20",
+    "lpNftId": "1376404",
+    "lockerAddress": "0x33154A632b234c954B6C85A0C4db391Bb8413d94"
+  },
+  "clankerInfo": null
+}

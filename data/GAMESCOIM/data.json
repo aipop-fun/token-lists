@@ -1,0 +1,22 @@
+{
+  "name": "gamescoim",
+  "symbol": "gamescoim",
+  "decimals": 18,
+  "description": "gamescoim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gamescoim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gamescoim",
+  "addresses": {
+    "8453": "0x3f08aa4f631e858ec5fdd3a3694115c621d41432"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gamescoim",
+    "sanitizedSymbol": "GAMESCOIM",
+    "created_at": "2024-12-11T12:55:45.09356",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418580",
+    "lockerAddress": "0x85fc1735A16dA858b575891d1f7ec533f811AF9D"
+  },
+  "clankerInfo": null
+}

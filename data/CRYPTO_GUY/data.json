@@ -1,0 +1,22 @@
+{
+  "name": "CRYPTO GUY",
+  "symbol": "CRYPTO GUY",
+  "decimals": 18,
+  "description": "CRYPTO GUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRYPTO%20GUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRYPTO GUY",
+  "addresses": {
+    "8453": "0x109d0f0221b77064e2905e63e50b79254ad45563"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRYPTO GUY",
+    "sanitizedSymbol": "CRYPTO_GUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76c2065dEE3180d1CCA91A965AB137c25CF74ea4",
+    "lpNftId": "1287581",
+    "lockerAddress": "0x6D47E25fE33303CC6d80CdB05f03F3452c907FD0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Copy Trade on Interface",
+  "symbol": "Copy Trade on Interface",
+  "decimals": 18,
+  "description": "Copy Trade on Interface is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Copy%20Trade%20on%20Interface",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Copy Trade on Interface",
+  "addresses": {
+    "8453": "0x3a2b8766746d719a911f0ccf9fd61655655aaeb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Copy Trade on Interface",
+    "sanitizedSymbol": "COPY_TRADE_ON_INTERFACE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128427",
+    "lockerAddress": "0xF5978B9678A0e28eA86685cb4A0c93CBcc9d7ff0"
+  },
+  "clankerInfo": null
+}

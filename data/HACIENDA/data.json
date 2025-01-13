@@ -1,0 +1,22 @@
+{
+  "name": "HACIENDA",
+  "symbol": "HACIENDA",
+  "decimals": 18,
+  "description": "HACIENDA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HACIENDA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HACIENDA",
+  "addresses": {
+    "8453": "0x15ba79c75ef62deca8cfc1d467ab9d8c7cae6d7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HACIENDA",
+    "sanitizedSymbol": "HACIENDA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3Cc1A943B27c2AF7c6dcF3Be0137f66c2f22E712",
+    "lpNftId": "1273201",
+    "lockerAddress": "0xA9e2B7BcfDbC597fE71656fdd586cA8C17C1198f"
+  },
+  "clankerInfo": null
+}

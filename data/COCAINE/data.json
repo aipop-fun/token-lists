@@ -1,0 +1,22 @@
+{
+  "name": "COCAINE",
+  "symbol": "COCAINE",
+  "decimals": 18,
+  "description": "COCAINE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COCAINE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COCAINE",
+  "addresses": {
+    "8453": "0x3f036c3d93cedb7d7724419fa90117e9a99b2c21"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COCAINE",
+    "sanitizedSymbol": "COCAINE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173858",
+    "lockerAddress": "0x397EEd9613723F1f3A0E0e495C6cbD751833aBf1"
+  },
+  "clankerInfo": null
+}

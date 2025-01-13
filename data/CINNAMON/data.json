@@ -1,0 +1,22 @@
+{
+  "name": "CINNAMON",
+  "symbol": "CINNAMON",
+  "decimals": 18,
+  "description": "CINNAMON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CINNAMON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CINNAMON",
+  "addresses": {
+    "8453": "0x38d2e484b82c56c13098cfe93dbd2354c70c40ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CINNAMON",
+    "sanitizedSymbol": "CINNAMON",
+    "created_at": "2024-12-12T04:14:38.827147",
+    "deployer": "0x01A29134723ef72a968838cb1DF498BC4f910bEc",
+    "lpNftId": "1429111",
+    "lockerAddress": "0x729aE8F98C047799fB8cEF55f96d17Eaf85b868e"
+  },
+  "clankerInfo": null
+}

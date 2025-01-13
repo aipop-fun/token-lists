@@ -1,0 +1,22 @@
+{
+  "name": "Whisper",
+  "symbol": "Whisper",
+  "decimals": 18,
+  "description": "Whisper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Whisper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Whisper",
+  "addresses": {
+    "8453": "0x3d85e7217a1621f4adee6981cdb85c94a7984987"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Whisper",
+    "sanitizedSymbol": "WHISPER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1292076",
+    "lockerAddress": "0x62A10E7a2Ad3Fb8A9e2EBbEE88457DdC5B63bC2C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SLOKH",
+  "symbol": "SLOKH",
+  "decimals": 18,
+  "description": "SLOKH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLOKH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLOKH",
+  "addresses": {
+    "8453": "0x0562bbe8da0effec9e040292b86cf364c067e440"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLOKH",
+    "sanitizedSymbol": "SLOKH",
+    "created_at": "2024-12-11T14:20:23.407296",
+    "deployer": "0x3327424DE9C9b6E60f0f948B327ac0c53f0AEAEF",
+    "lpNftId": "1420111",
+    "lockerAddress": "0x0aD91cC9b24c32B7c45493Af9caBE3A0F4386977"
+  },
+  "clankerInfo": null
+}

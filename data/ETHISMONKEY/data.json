@@ -1,0 +1,22 @@
+{
+  "name": "#EthIsMonkey",
+  "symbol": "#EthIsMonkey",
+  "decimals": 18,
+  "description": "#EthIsMonkey is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%23EthIsMonkey",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "#EthIsMonkey",
+  "addresses": {
+    "8453": "0x1bd27e4540e4789a1d2bef4555ab766cdef3d627"
+  },
+  "tokenInfo": {
+    "originalSymbol": "#EthIsMonkey",
+    "sanitizedSymbol": "ETHISMONKEY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211176",
+    "lockerAddress": "0xbB8F75da116de9Ee3B72F16A55d6aD59029C2134"
+  },
+  "clankerInfo": null
+}

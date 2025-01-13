@@ -1,0 +1,22 @@
+{
+  "name": "apartment",
+  "symbol": "apartment",
+  "decimals": 18,
+  "description": "apartment is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=apartment",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "apartment",
+  "addresses": {
+    "8453": "0x1e9e539acde7e9b718e37aa6c534c3d2bdf08a9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "apartment",
+    "sanitizedSymbol": "APARTMENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8ac1dF5D1a7C68f32152fF905D6Bce55C8DB76Cf",
+    "lpNftId": "1318469",
+    "lockerAddress": "0x9222026b509141781b60cE55642298Dbb5B266CD"
+  },
+  "clankerInfo": null
+}

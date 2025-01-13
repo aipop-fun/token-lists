@@ -1,0 +1,22 @@
+{
+  "name": "Existential Dread Coin",
+  "symbol": "Existential Dread Coin",
+  "decimals": 18,
+  "description": "Existential Dread Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Existential%20Dread%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Existential Dread Coin",
+  "addresses": {
+    "8453": "0x10903b285dd5fe3bc92a0f605d039c470bd45665"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Existential Dread Coin",
+    "sanitizedSymbol": "EXISTENTIAL_DREAD_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219457",
+    "lockerAddress": "0x852EB9dFfC87EA357899Cb93E828277278b2428B"
+  },
+  "clankerInfo": null
+}

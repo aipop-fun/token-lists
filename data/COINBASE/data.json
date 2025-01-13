@@ -1,0 +1,22 @@
+{
+  "name": "Coinbase",
+  "symbol": "Coinbase",
+  "decimals": 18,
+  "description": "Coinbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coinbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coinbase",
+  "addresses": {
+    "8453": "0x31ccea7a7b84c255132237c325dc88de3b4e2a3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coinbase",
+    "sanitizedSymbol": "COINBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB92519Eb7CfB381606df6759578Edbc84109e849",
+    "lpNftId": "1328389",
+    "lockerAddress": "0x5b343d09CBaE064CB917D872c14894EfeA2b36D0"
+  },
+  "clankerInfo": null
+}

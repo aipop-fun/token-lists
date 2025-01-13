@@ -1,0 +1,22 @@
+{
+  "name": "dogebrainlet",
+  "symbol": "dogebrainlet",
+  "decimals": 18,
+  "description": "dogebrainlet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogebrainlet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogebrainlet",
+  "addresses": {
+    "8453": "0x16d66ff25529d8d0fb392acc493c1319e5dd12dc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogebrainlet",
+    "sanitizedSymbol": "DOGEBRAINLET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6a7d8251e0fa95e771bf8a60AC9c25fE04B9e72f",
+    "lpNftId": "1308951",
+    "lockerAddress": "0xB9D8a1aeC7f83017d47600893BE222acc34789e9"
+  },
+  "clankerInfo": null
+}

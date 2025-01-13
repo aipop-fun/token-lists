@@ -1,0 +1,22 @@
+{
+  "name": "Methodical",
+  "symbol": "Methodical",
+  "decimals": 18,
+  "description": "Methodical is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Methodical",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Methodical",
+  "addresses": {
+    "8453": "0x3679fb39ae475e38d9b88c570a704671f87c2c6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Methodical",
+    "sanitizedSymbol": "METHODICAL",
+    "created_at": "2024-12-10T05:07:18.959286",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396728",
+    "lockerAddress": "0xB3cd77C0B59E16Cea8163Fc236dA7cE9DbB94ddd"
+  },
+  "clankerInfo": null
+}

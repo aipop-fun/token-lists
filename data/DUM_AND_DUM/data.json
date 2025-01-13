@@ -1,0 +1,22 @@
+{
+  "name": "DUM AND DUM",
+  "symbol": "DUM AND DUM",
+  "decimals": 18,
+  "description": "DUM AND DUM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DUM%20AND%20DUM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DUM AND DUM",
+  "addresses": {
+    "8453": "0x176ba1a31be26573be188f8d4a7e0d80cf8c1b72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DUM AND DUM",
+    "sanitizedSymbol": "DUM_AND_DUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcdEBddbbc3A2d522032B9Ee964321b7403B7181e",
+    "lpNftId": "1330218",
+    "lockerAddress": "0xC93A9F4c279905E19dc9F8eA91f29780B8A6Ec54"
+  },
+  "clankerInfo": null
+}

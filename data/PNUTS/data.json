@@ -1,0 +1,22 @@
+{
+  "name": "PNUTS",
+  "symbol": "PNUTS",
+  "decimals": 18,
+  "description": "PNUTS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNUTS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNUTS",
+  "addresses": {
+    "8453": "0x26731a4451c51f0e9541882491df96e315b34974"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNUTS",
+    "sanitizedSymbol": "PNUTS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x974302f763532D8344432BE9DA60F904038d3FBd",
+    "lpNftId": "1280734",
+    "lockerAddress": "0x28937C83c21c6E1c2531A6Bf6e8eFAFC0D2F1031"
+  },
+  "clankerInfo": null
+}

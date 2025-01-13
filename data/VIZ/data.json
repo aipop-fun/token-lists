@@ -1,0 +1,22 @@
+{
+  "name": "viz",
+  "symbol": "viz",
+  "decimals": 18,
+  "description": "viz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=viz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "viz",
+  "addresses": {
+    "8453": "0x295e898e0a7c902067c5669005b0603905039edb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "viz",
+    "sanitizedSymbol": "VIZ",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc14Fb3F6cb9Fed43021f57CA6092FEEA841978b9",
+    "lpNftId": "1310965",
+    "lockerAddress": "0x108e434202f7CbE0513634B1E26b3D7c073589bB"
+  },
+  "clankerInfo": null
+}

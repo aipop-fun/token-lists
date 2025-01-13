@@ -1,0 +1,22 @@
+{
+  "name": "ClankGear",
+  "symbol": "ClankGear",
+  "decimals": 18,
+  "description": "ClankGear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankGear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankGear",
+  "addresses": {
+    "8453": "0x3e9b1a6e6df005ac49db591fd508c809c0addb3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankGear",
+    "sanitizedSymbol": "CLANKGEAR",
+    "created_at": "2024-12-09T07:07:31.316674",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1384261",
+    "lockerAddress": "0xd5c897Ef78EE287988B5737bbCD5727aaD1e7b60"
+  },
+  "clankerInfo": null
+}

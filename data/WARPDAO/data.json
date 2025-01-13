@@ -1,0 +1,22 @@
+{
+  "name": "WarpDao",
+  "symbol": "WarpDao",
+  "decimals": 18,
+  "description": "WarpDao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpDao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpDao",
+  "addresses": {
+    "8453": "0x355e77bd86fab64d88e2ca4b7c00d3c1c86a72aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpDao",
+    "sanitizedSymbol": "WARPDAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA802EedBa8C8C9959cC7cb47CA536a06D485DcfB",
+    "lpNftId": "1316381",
+    "lockerAddress": "0xb3956a6C0208B090425fA5f51f77b3470FA7F0D9"
+  },
+  "clankerInfo": null
+}

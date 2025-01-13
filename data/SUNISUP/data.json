@@ -1,0 +1,22 @@
+{
+  "name": "Sunisup",
+  "symbol": "Sunisup",
+  "decimals": 18,
+  "description": "Sunisup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sunisup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sunisup",
+  "addresses": {
+    "8453": "0x3ca6f082ff1f5b749daecf8aa42d82039aa2d381"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sunisup",
+    "sanitizedSymbol": "SUNISUP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234079",
+    "lockerAddress": "0xF1B0cc526709f817267017861F11B4021ee2355a"
+  },
+  "clankerInfo": null
+}

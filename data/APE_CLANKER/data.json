@@ -1,0 +1,22 @@
+{
+  "name": "Ape Clanker",
+  "symbol": "Ape Clanker",
+  "decimals": 18,
+  "description": "Ape Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ape%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ape Clanker",
+  "addresses": {
+    "8453": "0x11296ea8a9a6f744486d0295f00246e59f5a6703"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ape Clanker",
+    "sanitizedSymbol": "APE_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2Fb0e475F6D495DFdfd9176aF9113f48F7687565",
+    "lpNftId": "1277953",
+    "lockerAddress": "0x1984559b56BC71Ce2104364145f8a92936E7Cd70"
+  },
+  "clankerInfo": null
+}

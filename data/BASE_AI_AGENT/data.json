@@ -1,0 +1,22 @@
+{
+  "name": "Base AI Agent",
+  "symbol": "Base AI Agent",
+  "decimals": 18,
+  "description": "Base AI Agent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20AI%20Agent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base AI Agent",
+  "addresses": {
+    "8453": "0x0c0439d3bd3125b9003cde584470c9318ff04477"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base AI Agent",
+    "sanitizedSymbol": "BASE_AI_AGENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1284716",
+    "lockerAddress": "0x3e0BeE0E2e8a30B1eAE32e7fEcEb27dc0Ab58b16"
+  },
+  "clankerInfo": null
+}

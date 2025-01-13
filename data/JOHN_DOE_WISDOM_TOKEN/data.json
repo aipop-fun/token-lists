@@ -1,0 +1,22 @@
+{
+  "name": "John Doe Wisdom Token",
+  "symbol": "John Doe Wisdom Token",
+  "decimals": 18,
+  "description": "John Doe Wisdom Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=John%20Doe%20Wisdom%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "John Doe Wisdom Token",
+  "addresses": {
+    "8453": "0x104f64d57bc6b3d0d4db3114aac99378325ed752"
+  },
+  "tokenInfo": {
+    "originalSymbol": "John Doe Wisdom Token",
+    "sanitizedSymbol": "JOHN_DOE_WISDOM_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151958",
+    "lockerAddress": "0x525F8e31d84F7b8bf4dCe3771Ac6C45F76abe611"
+  },
+  "clankerInfo": null
+}

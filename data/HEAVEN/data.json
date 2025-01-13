@@ -1,0 +1,22 @@
+{
+  "name": "Heaven",
+  "symbol": "Heaven",
+  "decimals": 18,
+  "description": "Heaven is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Heaven",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Heaven",
+  "addresses": {
+    "8453": "0x2e5ce2a0621bef687860e9b3356ecd98f66747f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Heaven",
+    "sanitizedSymbol": "HEAVEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129245",
+    "lockerAddress": "0x1Fb8692AD3326D8cdBA3907C206Fc79a001567F7"
+  },
+  "clankerInfo": null
+}

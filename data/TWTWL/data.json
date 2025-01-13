@@ -1,0 +1,22 @@
+{
+  "name": "twtwl",
+  "symbol": "twtwl",
+  "decimals": 18,
+  "description": "twtwl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=twtwl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "twtwl",
+  "addresses": {
+    "8453": "0x2f40be38e6b169442880d5022e3529c0e2f18a82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "twtwl",
+    "sanitizedSymbol": "TWTWL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x826bcE6f684D6D7bc7C80380A9E8c024D98CbA2B",
+    "lpNftId": "1253248",
+    "lockerAddress": "0xe7F7acd5aDdEd6CE6eCD20508989dc0d847c7F2F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SEKISO",
+  "symbol": "SEKISO",
+  "decimals": 18,
+  "description": "SEKISO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SEKISO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SEKISO",
+  "addresses": {
+    "8453": "0x3ff2904d70fcdc16a2880af173e137f566f53e8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SEKISO",
+    "sanitizedSymbol": "SEKISO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123495",
+    "lockerAddress": "0xf4001240Bf0Dee5f3A6ea5673c63bb746C6c5A81"
+  },
+  "clankerInfo": null
+}

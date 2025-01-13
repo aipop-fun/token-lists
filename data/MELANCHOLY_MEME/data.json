@@ -1,0 +1,22 @@
+{
+  "name": "Melancholy Meme",
+  "symbol": "Melancholy Meme",
+  "decimals": 18,
+  "description": "Melancholy Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Melancholy%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Melancholy Meme",
+  "addresses": {
+    "8453": "0x0005064d0968ef23cc31db4a361879299b07c7b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Melancholy Meme",
+    "sanitizedSymbol": "MELANCHOLY_MEME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230780",
+    "lockerAddress": "0x30c759031094eB0390082fDb5da3A3D47a5A7aaa"
+  },
+  "clankerInfo": null
+}

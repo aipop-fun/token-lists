@@ -1,0 +1,22 @@
+{
+  "name": "rug don't buy",
+  "symbol": "rug don't buy",
+  "decimals": 18,
+  "description": "rug don't buy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rug%20don't%20buy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rug don't buy",
+  "addresses": {
+    "8453": "0x0eba07ca0c719020638bdedd89e2d34bf27eb729"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rug don't buy",
+    "sanitizedSymbol": "RUG_DON_T_BUY",
+    "created_at": "2024-12-12T16:31:45.261591",
+    "deployer": "0x48a835FD8353e96E87f450e256d4d1C10e4895bA",
+    "lpNftId": "1438617",
+    "lockerAddress": "0x16811C556b0d0Ec5E155F43C5133bd0a536b88cb"
+  },
+  "clankerInfo": null
+}

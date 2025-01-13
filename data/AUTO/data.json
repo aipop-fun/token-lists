@@ -1,0 +1,22 @@
+{
+  "name": "auto",
+  "symbol": "auto",
+  "decimals": 18,
+  "description": "auto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=auto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "auto",
+  "addresses": {
+    "8453": "0x0c49ba96ef78fdf4f41b0175f8d9ae0bac1a011b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "auto",
+    "sanitizedSymbol": "AUTO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98D5A312d54e546cF530256e385480dDE97646A7",
+    "lpNftId": "1312774",
+    "lockerAddress": "0x59310fe0f0F5879d65e91a7e6e727AFBd8f72dA1"
+  },
+  "clankerInfo": null
+}

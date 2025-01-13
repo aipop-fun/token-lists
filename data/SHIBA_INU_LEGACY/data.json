@@ -1,0 +1,22 @@
+{
+  "name": "Shiba Inu Legacy",
+  "symbol": "Shiba Inu Legacy",
+  "decimals": 18,
+  "description": "Shiba Inu Legacy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shiba%20Inu%20Legacy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shiba Inu Legacy",
+  "addresses": {
+    "8453": "0x32882e04c483356ea97d931f7df4ee1b1765d325"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shiba Inu Legacy",
+    "sanitizedSymbol": "SHIBA_INU_LEGACY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xeFCc81B85EA60b0bf95A563D1DE3E14C05b821dd",
+    "lpNftId": "1265747",
+    "lockerAddress": "0x788cbe432E0AD876be5FdE96Ce775041558a7843"
+  },
+  "clankerInfo": null
+}

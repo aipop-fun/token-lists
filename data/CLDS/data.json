@@ -1,0 +1,22 @@
+{
+  "name": "CLDS",
+  "symbol": "CLDS",
+  "decimals": 18,
+  "description": "CLDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLDS",
+  "addresses": {
+    "8453": "0x097fa639c1e92082527260242d4ae908bb2838b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLDS",
+    "sanitizedSymbol": "CLDS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213540",
+    "lockerAddress": "0xeAC6115318e1164195018B3a180872DDd82cdC87"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "JEMBUT",
+  "symbol": "JEMBUT",
+  "decimals": 18,
+  "description": "JEMBUT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JEMBUT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JEMBUT",
+  "addresses": {
+    "8453": "0x253a566fe9851d4f985c7bc72cc148abcb6df1a9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JEMBUT",
+    "sanitizedSymbol": "JEMBUT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8e3a9381f5b8ff11d52007CaC71cbD95f65d3555",
+    "lpNftId": "1286518",
+    "lockerAddress": "0x784E9ffd66E3F2dC237b778F256974c8FA8D39d9"
+  },
+  "clankerInfo": null
+}

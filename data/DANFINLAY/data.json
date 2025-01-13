@@ -1,0 +1,22 @@
+{
+  "name": "Danfinlay",
+  "symbol": "Danfinlay",
+  "decimals": 18,
+  "description": "Danfinlay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Danfinlay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Danfinlay",
+  "addresses": {
+    "8453": "0x34547460d1f0471a2119a0067a9f5022d295af1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Danfinlay",
+    "sanitizedSymbol": "DANFINLAY",
+    "created_at": "2024-12-12T04:41:39.412925",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1429230",
+    "lockerAddress": "0xbdAb36439035A18CEc8e8945C4A53B4dD0ACE310"
+  },
+  "clankerInfo": null
+}

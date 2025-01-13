@@ -1,0 +1,22 @@
+{
+  "name": "Norman",
+  "symbol": "Norman",
+  "decimals": 18,
+  "description": "Norman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Norman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Norman",
+  "addresses": {
+    "8453": "0x283024e266b46c7b52bc4be4b1fd0f232deb219f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Norman",
+    "sanitizedSymbol": "NORMAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234188",
+    "lockerAddress": "0x62afED7fe8647fB15618eA5c623CC5baDEE34DBA"
+  },
+  "clankerInfo": null
+}

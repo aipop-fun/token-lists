@@ -1,0 +1,22 @@
+{
+  "name": "Bonsai Anon",
+  "symbol": "Bonsai Anon",
+  "decimals": 18,
+  "description": "Bonsai Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bonsai%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bonsai Anon",
+  "addresses": {
+    "8453": "0x38a055d67d69ade9f145257bc9f614882638cf0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bonsai Anon",
+    "sanitizedSymbol": "BONSAI_ANON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAD4c9F10a8d85c18D2B23379a27B0154fdDFeF42",
+    "lpNftId": "1317286",
+    "lockerAddress": "0x3C0ebd2029Cb8a29dbc322dADB2aB9a4F93473F5"
+  },
+  "clankerInfo": null
+}

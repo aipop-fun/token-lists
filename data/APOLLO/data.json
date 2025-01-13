@@ -1,0 +1,22 @@
+{
+  "name": "APOLLO",
+  "symbol": "APOLLO",
+  "decimals": 18,
+  "description": "APOLLO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APOLLO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APOLLO",
+  "addresses": {
+    "8453": "0x25b2807f201d45bc9b62abcb9b71b22343ce6e19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APOLLO",
+    "sanitizedSymbol": "APOLLO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1321176",
+    "lockerAddress": "0x0725c1D6A4163f994067404c838b4564A9f48b8A"
+  },
+  "clankerInfo": null
+}

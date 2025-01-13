@@ -1,0 +1,22 @@
+{
+  "name": "RAVEN",
+  "symbol": "RAVEN",
+  "decimals": 18,
+  "description": "RAVEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAVEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAVEN",
+  "addresses": {
+    "8453": "0x1847366aedf23fce252868bd71f01aec1c88f34e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAVEN",
+    "sanitizedSymbol": "RAVEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE5AC80a69E9fA7f6428480b2300338eE5136044d",
+    "lpNftId": "1310683",
+    "lockerAddress": "0xEEb5280174fD5Dc854Cb0FbDe4400A32d2e6A162"
+  },
+  "clankerInfo": null
+}

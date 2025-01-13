@@ -1,0 +1,22 @@
+{
+  "name": "SHA",
+  "symbol": "SHA",
+  "decimals": 18,
+  "description": "SHA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHA",
+  "addresses": {
+    "8453": "0x19a047d78d9cf34712aebe24e323dd7248c58f7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHA",
+    "sanitizedSymbol": "SHA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x17Df392799b896927c34171860FF246cdF18230a",
+    "lpNftId": "1318087",
+    "lockerAddress": "0xA63e4917dC9aC373DfB07D4880E957812E4b9084"
+  },
+  "clankerInfo": null
+}

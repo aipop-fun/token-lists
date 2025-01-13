@@ -1,0 +1,22 @@
+{
+  "name": "MetaBot",
+  "symbol": "MetaBot",
+  "decimals": 18,
+  "description": "MetaBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MetaBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MetaBot",
+  "addresses": {
+    "8453": "0x28d622aac66597acb1fd092443a4ed1fd20234c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MetaBot",
+    "sanitizedSymbol": "METABOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1312552",
+    "lockerAddress": "0xfdF6A69E8D3C8c4a67CAb38dBd4527658B64E310"
+  },
+  "clankerInfo": null
+}

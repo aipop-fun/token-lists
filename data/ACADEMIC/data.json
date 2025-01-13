@@ -1,0 +1,22 @@
+{
+  "name": "Academic",
+  "symbol": "Academic",
+  "decimals": 18,
+  "description": "Academic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Academic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Academic",
+  "addresses": {
+    "8453": "0x20dea363e581057dd8f9525fa45556dd5ae9112c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Academic",
+    "sanitizedSymbol": "ACADEMIC",
+    "created_at": "2024-12-11T17:00:31.695388",
+    "deployer": "0x47652B6b5d3b1EE71A7C105887B700e93b2C5818",
+    "lpNftId": "1422168",
+    "lockerAddress": "0xBDc253036F22a16d3B049B6b28C3A31C9bE056F3"
+  },
+  "clankerInfo": null
+}

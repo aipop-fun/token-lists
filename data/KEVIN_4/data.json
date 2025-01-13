@@ -1,0 +1,22 @@
+{
+  "name": "Kevin",
+  "symbol": "Kevin",
+  "decimals": 18,
+  "description": "Kevin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kevin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kevin",
+  "addresses": {
+    "8453": "0x2d7702e099716df46b610af782bb97727e3e8fe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kevin",
+    "sanitizedSymbol": "KEVIN_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCE4e2aa2A6613b942FeE2E36B70d08f4EAf0a5Ce",
+    "lpNftId": "1326494",
+    "lockerAddress": "0xdFAfbe439544E4ff701e75DfDF2B1075a336E3f4"
+  },
+  "clankerInfo": null
+}

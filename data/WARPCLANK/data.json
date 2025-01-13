@@ -1,0 +1,22 @@
+{
+  "name": "WARPCLANK",
+  "symbol": "WARPCLANK",
+  "decimals": 18,
+  "description": "WARPCLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARPCLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARPCLANK",
+  "addresses": {
+    "8453": "0x3b87f7ddffa26c6363cc6f3634ca3fb170950ac8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARPCLANK",
+    "sanitizedSymbol": "WARPCLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x18f28487d441F05B790BABF79c9FCDe40946CB70",
+    "lpNftId": "1314321",
+    "lockerAddress": "0x62991F3DED59398D2Fb564CbBd94a736E46bb5a8"
+  },
+  "clankerInfo": null
+}

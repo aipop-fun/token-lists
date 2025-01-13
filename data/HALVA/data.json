@@ -1,0 +1,22 @@
+{
+  "name": "HALVA",
+  "symbol": "HALVA",
+  "decimals": 18,
+  "description": "HALVA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HALVA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HALVA",
+  "addresses": {
+    "8453": "0x066fa7d0177a5d2ef97d659331de1f01c14d03e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HALVA",
+    "sanitizedSymbol": "HALVA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x772125F73A9660f296f1D1A0ad33c1010E0aE38C",
+    "lpNftId": "1307005",
+    "lockerAddress": "0xc9c688c895326c3A03975997691B121f28022708"
+  },
+  "clankerInfo": null
+}

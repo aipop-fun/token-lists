@@ -1,0 +1,22 @@
+{
+  "name": "SUPERGIRL",
+  "symbol": "SUPERGIRL",
+  "decimals": 18,
+  "description": "SUPERGIRL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPERGIRL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPERGIRL",
+  "addresses": {
+    "8453": "0x2c2714801c3920a2b38c201a90ca3eb2581c26c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPERGIRL",
+    "sanitizedSymbol": "SUPERGIRL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x033441cD8061544E1a013723C57A4AfD2E7BAA14",
+    "lpNftId": "1324599",
+    "lockerAddress": "0x65433E45252B061dfD25d56ED8fD23bd873cb2B9"
+  },
+  "clankerInfo": null
+}

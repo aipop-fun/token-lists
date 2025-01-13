@@ -1,0 +1,22 @@
+{
+  "name": "Brymz",
+  "symbol": "Brymz",
+  "decimals": 18,
+  "description": "Brymz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brymz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brymz",
+  "addresses": {
+    "8453": "0x3701189d8ab19fc0b442af1d18fe7dbb27a9c085"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brymz",
+    "sanitizedSymbol": "BRYMZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb200285cDf2F345E1b72514AeAD94ed9631884d4",
+    "lpNftId": "1333070",
+    "lockerAddress": "0x759a50194b5C00E4Bbe6a2176b591f6416F1639F"
+  },
+  "clankerInfo": null
+}

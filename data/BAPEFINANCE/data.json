@@ -1,0 +1,22 @@
+{
+  "name": "BapeFinance",
+  "symbol": "BapeFinance",
+  "decimals": 18,
+  "description": "BapeFinance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BapeFinance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BapeFinance",
+  "addresses": {
+    "8453": "0x2aa2f52642d0b057dcc5f25f75e814ab6be98514"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BapeFinance",
+    "sanitizedSymbol": "BAPEFINANCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198884",
+    "lockerAddress": "0x138B69Df862006d032431dBad57eCf1421A43BED"
+  },
+  "clankerInfo": null
+}

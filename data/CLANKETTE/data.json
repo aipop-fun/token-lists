@@ -1,0 +1,22 @@
+{
+  "name": "Clankette",
+  "symbol": "Clankette",
+  "decimals": 18,
+  "description": "Clankette is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankette",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankette",
+  "addresses": {
+    "8453": "0x2100adb831020dd87b69fb37f3e03e38bd3b6037"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankette",
+    "sanitizedSymbol": "CLANKETTE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231592",
+    "lockerAddress": "0x35a57aE69b0Bdfaff28c14EF6AB359AC3be9Ee83"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FANBASE",
+  "symbol": "FANBASE",
+  "decimals": 18,
+  "description": "FANBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FANBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FANBASE",
+  "addresses": {
+    "8453": "0x0024ccc2e97bdd1980c6aaa985b4dc832444b66b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FANBASE",
+    "sanitizedSymbol": "FANBASE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204245",
+    "lockerAddress": "0x3aa5027DDBfE19172BFDEe882eD54575b708328B"
+  },
+  "clankerInfo": null
+}

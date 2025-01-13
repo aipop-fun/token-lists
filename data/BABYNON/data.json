@@ -1,0 +1,22 @@
+{
+  "name": "Babynon",
+  "symbol": "Babynon",
+  "decimals": 18,
+  "description": "Babynon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Babynon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Babynon",
+  "addresses": {
+    "8453": "0x2373a6944121ffc6d9722c4b98f72e9b9bade93f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Babynon",
+    "sanitizedSymbol": "BABYNON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x40695c1E7B0AdEA247bD3c0F61189d6eb5851a38",
+    "lpNftId": "1311072",
+    "lockerAddress": "0x9cfc864F6F2e9C2850292b8589d7500f9890F6d9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "howow coin",
+  "symbol": "howow coin",
+  "decimals": 18,
+  "description": "howow coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=howow%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "howow coin",
+  "addresses": {
+    "8453": "0x037b403dc5fff1bd9c93a83a1bcee4e795774292"
+  },
+  "tokenInfo": {
+    "originalSymbol": "howow coin",
+    "sanitizedSymbol": "HOWOW_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9960b96dd6C7cA465b5bb96c3222373ed390Bf6a",
+    "lpNftId": "1333522",
+    "lockerAddress": "0x152725b66668a665158650009874133D34CB4D81"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "APEMAN",
+  "symbol": "APEMAN",
+  "decimals": 18,
+  "description": "APEMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APEMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APEMAN",
+  "addresses": {
+    "8453": "0x16e33a9cdf1471f29eb8f32b5376941b6bee12a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APEMAN",
+    "sanitizedSymbol": "APEMAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219317",
+    "lockerAddress": "0xb09Ec704134B59B99E52Df9Dab128c2b8f0B7555"
+  },
+  "clankerInfo": null
+}

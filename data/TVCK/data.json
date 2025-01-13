@@ -1,0 +1,22 @@
+{
+  "name": "TVCK",
+  "symbol": "TVCK",
+  "decimals": 18,
+  "description": "TVCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TVCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TVCK",
+  "addresses": {
+    "8453": "0x32bc3ab50a4c13ddd62e5a6eb8189d356992d90e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TVCK",
+    "sanitizedSymbol": "TVCK",
+    "created_at": "2024-12-11T17:50:55.926065",
+    "deployer": "0x4BF1BFe5Cf59d67879464cDF28d1De326F38B1E2",
+    "lpNftId": "1422936",
+    "lockerAddress": "0x933fdaD1b7cF61bAFD1A88FA1B5dEbab8d717C99"
+  },
+  "clankerInfo": null
+}

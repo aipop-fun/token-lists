@@ -1,0 +1,22 @@
+{
+  "name": "Sui Loves",
+  "symbol": "Sui Loves",
+  "decimals": 18,
+  "description": "Sui Loves is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sui%20Loves",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sui Loves",
+  "addresses": {
+    "8453": "0x02fe516054c5ac1e9bc263d7143f1a51364e5bc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sui Loves",
+    "sanitizedSymbol": "SUI_LOVES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151944",
+    "lockerAddress": "0xa3A889245850d0468A24D6FA0D7d880553B52d88"
+  },
+  "clankerInfo": null
+}

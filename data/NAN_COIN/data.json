@@ -1,0 +1,22 @@
+{
+  "name": "NAN COIN",
+  "symbol": "NAN COIN",
+  "decimals": 18,
+  "description": "NAN COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NAN%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NAN COIN",
+  "addresses": {
+    "8453": "0x0962881ed68b8633a5c50c9da45c9cb1b649bc16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NAN COIN",
+    "sanitizedSymbol": "NAN_COIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1233245",
+    "lockerAddress": "0xE677cE34ffbEd44b9BCf94DDFfa8f458dd1137D2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Degencast",
+  "symbol": "Degencast",
+  "decimals": 18,
+  "description": "Degencast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degencast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degencast",
+  "addresses": {
+    "8453": "0x3a01d2d77d6dad7da10fb67689b3b3b216ae889a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degencast",
+    "sanitizedSymbol": "DEGENCAST",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFa00aE0472C21E3653479FF0f5CCC963DF27c996",
+    "lpNftId": "1319211",
+    "lockerAddress": "0x56F8d8C7D1f3Ba23ab5Df738e8e06311EB2c72Eb"
+  },
+  "clankerInfo": null
+}

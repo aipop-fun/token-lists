@@ -1,0 +1,22 @@
+{
+  "name": "Picoc",
+  "symbol": "Picoc",
+  "decimals": 18,
+  "description": "Picoc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Picoc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Picoc",
+  "addresses": {
+    "8453": "0x3663ca76d664e32b0a5730cbc994bda03e79723c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Picoc",
+    "sanitizedSymbol": "PICOC",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x973F289aB9583f48BFE271f4555a80211115287a",
+    "lpNftId": "1250678",
+    "lockerAddress": "0x4bBC9116e4ccDc9D0a3de92239093ed04872055E"
+  },
+  "clankerInfo": null
+}

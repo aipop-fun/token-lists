@@ -1,0 +1,22 @@
+{
+  "name": "Brave",
+  "symbol": "Brave",
+  "decimals": 18,
+  "description": "Brave is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brave",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brave",
+  "addresses": {
+    "8453": "0x3793b1a488a9c3115f210e77b9adb309c0299f53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brave",
+    "sanitizedSymbol": "BRAVE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217809",
+    "lockerAddress": "0xF70b8CcdE8eD686cE1C4CEb5b1C96dD4a9167986"
+  },
+  "clankerInfo": null
+}

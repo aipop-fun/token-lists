@@ -1,0 +1,22 @@
+{
+  "name": "brother",
+  "symbol": "brother",
+  "decimals": 18,
+  "description": "brother is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brother",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brother",
+  "addresses": {
+    "8453": "0x0bb51c719bf567ec5055ebcb963a89265cc3920c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brother",
+    "sanitizedSymbol": "BROTHER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x594bf8496a39C5E5d5f0AB1eC00fD5004923BC31",
+    "lpNftId": "1321678",
+    "lockerAddress": "0x5e90f49C9A8E2a068007eCB1d96ff3c090aad259"
+  },
+  "clankerInfo": null
+}

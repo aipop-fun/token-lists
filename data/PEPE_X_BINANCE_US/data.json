@@ -1,0 +1,22 @@
+{
+  "name": "PEPE x Binance US",
+  "symbol": "PEPE x Binance US",
+  "decimals": 18,
+  "description": "PEPE x Binance US is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20x%20Binance%20US",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE x Binance US",
+  "addresses": {
+    "8453": "0x1296596a9c29d43ef6a7556027a83faea447d390"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE x Binance US",
+    "sanitizedSymbol": "PEPE_X_BINANCE_US",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0020AEB48e1bc0e058fCC848f29a963b28f082B6",
+    "lpNftId": "1321234",
+    "lockerAddress": "0x701f41240b6E951E53fE1AF89FE3757b089AB90F"
+  },
+  "clankerInfo": null
+}

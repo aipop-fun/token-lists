@@ -1,0 +1,22 @@
+{
+  "name": "VirginCoin",
+  "symbol": "VirginCoin",
+  "decimals": 18,
+  "description": "VirginCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VirginCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VirginCoin",
+  "addresses": {
+    "8453": "0x0e70e06ce9d0e135897eb9d38d97b1b8c62530aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VirginCoin",
+    "sanitizedSymbol": "VIRGINCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166340",
+    "lockerAddress": "0x8f22DEd3101ce8Ac45C0eFC5fbA3B30283649d56"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "huh",
+  "symbol": "huh",
+  "decimals": 18,
+  "description": "huh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=huh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "huh",
+  "addresses": {
+    "8453": "0x0e818cde96ca7804593e348de8244e71c5acb4a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "huh",
+    "sanitizedSymbol": "HUH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217134",
+    "lockerAddress": "0xd9A5417DFAAF34e036CD597596ff688239bE8755"
+  },
+  "clankerInfo": null
+}

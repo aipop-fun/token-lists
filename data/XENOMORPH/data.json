@@ -1,0 +1,22 @@
+{
+  "name": "Xenomorph",
+  "symbol": "Xenomorph",
+  "decimals": 18,
+  "description": "Xenomorph is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xenomorph",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xenomorph",
+  "addresses": {
+    "8453": "0x231e4ff5501e44de58bbb815b8de9ed221f4528c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xenomorph",
+    "sanitizedSymbol": "XENOMORPH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9E97ee514E81481D4D181d7b0CfB1bf635AAa549",
+    "lpNftId": "1269209",
+    "lockerAddress": "0x56732a6bf9AB3f72aAF0d26C327f55A6b2435371"
+  },
+  "clankerInfo": null
+}

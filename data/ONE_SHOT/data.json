@@ -1,0 +1,22 @@
+{
+  "name": "One Shot",
+  "symbol": "One Shot",
+  "decimals": 18,
+  "description": "One Shot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=One%20Shot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "One Shot",
+  "addresses": {
+    "8453": "0x2b53d0a3d07ed0c1b732202e9f97c59790c33d4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "One Shot",
+    "sanitizedSymbol": "ONE_SHOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1245944",
+    "lockerAddress": "0x611966f7B2051a85B372BFeD04b4792569f61f99"
+  },
+  "clankerInfo": null
+}

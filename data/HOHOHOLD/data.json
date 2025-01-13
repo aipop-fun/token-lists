@@ -1,0 +1,22 @@
+{
+  "name": "HoHoHold",
+  "symbol": "HoHoHold",
+  "decimals": 18,
+  "description": "HoHoHold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HoHoHold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HoHoHold",
+  "addresses": {
+    "8453": "0x2273342a27b017d7fe203abe44f6afe08d79044f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HoHoHold",
+    "sanitizedSymbol": "HOHOHOLD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2Ae5EecA93eE5eB1023cDD2BcF1B9cd4a45Aa50d",
+    "lpNftId": "1319626",
+    "lockerAddress": "0xdD64c07d50eA27B9E5297DF5bBc578A5571c42Af"
+  },
+  "clankerInfo": null
+}

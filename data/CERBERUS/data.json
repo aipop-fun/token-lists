@@ -1,0 +1,22 @@
+{
+  "name": "Cerberus",
+  "symbol": "Cerberus",
+  "decimals": 18,
+  "description": "Cerberus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cerberus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cerberus",
+  "addresses": {
+    "8453": "0x21a45ed3d972abb00321a1bd08a79686d9668db8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cerberus",
+    "sanitizedSymbol": "CERBERUS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224337",
+    "lockerAddress": "0x3AF7dc6cB29b75C7AC67eae812bE81E6C7273BD8"
+  },
+  "clankerInfo": null
+}

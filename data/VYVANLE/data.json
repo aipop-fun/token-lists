@@ -1,0 +1,22 @@
+{
+  "name": "VyVanLe",
+  "symbol": "VyVanLe",
+  "decimals": 18,
+  "description": "VyVanLe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VyVanLe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VyVanLe",
+  "addresses": {
+    "8453": "0x28681df6c2cc088884bf80826c5529c3779b1a14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VyVanLe",
+    "sanitizedSymbol": "VYVANLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129053",
+    "lockerAddress": "0xAc315b4C7b0d2339924484CF71fC28c3cB69EfD9"
+  },
+  "clankerInfo": null
+}

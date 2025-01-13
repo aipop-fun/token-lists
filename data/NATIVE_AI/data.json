@@ -1,0 +1,22 @@
+{
+  "name": "Native AI",
+  "symbol": "Native AI",
+  "decimals": 18,
+  "description": "Native AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Native%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Native AI",
+  "addresses": {
+    "8453": "0x08124d9d7ae757bc6ecc311bdc856ead7264de93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Native AI",
+    "sanitizedSymbol": "NATIVE_AI",
+    "created_at": "2024-12-12T00:21:21.189464",
+    "deployer": "0x75c6cD113290eA507e9466B613E9Bc9a46f0eB1b",
+    "lpNftId": "1428126",
+    "lockerAddress": "0x8452BA28b44a64e2D3f009d8Bb736f10d60b0EBE"
+  },
+  "clankerInfo": null
+}

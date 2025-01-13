@@ -1,0 +1,22 @@
+{
+  "name": "Ski Mask",
+  "symbol": "Ski Mask",
+  "decimals": 18,
+  "description": "Ski Mask is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ski%20Mask",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ski Mask",
+  "addresses": {
+    "8453": "0x13164bcfcac0630dc3e78ff38ad1a811e2185500"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ski Mask",
+    "sanitizedSymbol": "SKI_MASK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3F087a1c838c41e10323f6cB824C09C8BF6cA04C",
+    "lpNftId": "1324710",
+    "lockerAddress": "0x3305Ce22AB5FdbaE397D897922fA942EF9160043"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "camera anon",
+  "symbol": "camera anon",
+  "decimals": 18,
+  "description": "camera anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=camera%20anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "camera anon",
+  "addresses": {
+    "8453": "0x1067e47c1d0673148b03dabc9476a0b2b2e072e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "camera anon",
+    "sanitizedSymbol": "CAMERA_ANON",
+    "created_at": "2024-12-09T14:39:41.323979",
+    "deployer": "0x096E08bbDB3bb08eA7FE27C4E1E9012AB600940c",
+    "lpNftId": "1388084",
+    "lockerAddress": "0x3238bA6A6fB14b70B7b883856ea3dBE6acC8D2DD"
+  },
+  "clankerInfo": null
+}

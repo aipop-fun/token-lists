@@ -1,0 +1,22 @@
+{
+  "name": "deeper",
+  "symbol": "deeper",
+  "decimals": 18,
+  "description": "deeper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=deeper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "deeper",
+  "addresses": {
+    "8453": "0x2a785347b14e51448b9c9edd1951a99fa05b2abf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "deeper",
+    "sanitizedSymbol": "DEEPER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7e21862a84cdE077D7b198220110bF323CE0453C",
+    "lpNftId": "1323078",
+    "lockerAddress": "0x6E33a72F34385CdF6d64edB5a0Ce143bD0BDca16"
+  },
+  "clankerInfo": null
+}

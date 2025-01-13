@@ -1,0 +1,22 @@
+{
+  "name": "WenPengu",
+  "symbol": "WenPengu",
+  "decimals": 18,
+  "description": "WenPengu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WenPengu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WenPengu",
+  "addresses": {
+    "8453": "0x1383adbea9fab1c75eb5c861036fdeef1f46cf29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WenPengu",
+    "sanitizedSymbol": "WENPENGU",
+    "created_at": "2024-12-10T18:32:55.384614",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1405547",
+    "lockerAddress": "0xe2cB6d5aE63eA8288ce6f35414FFea0037be792d"
+  },
+  "clankerInfo": null
+}

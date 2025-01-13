@@ -1,0 +1,22 @@
+{
+  "name": "Oscillation Generator",
+  "symbol": "Oscillation Generator",
+  "decimals": 18,
+  "description": "Oscillation Generator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oscillation%20Generator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oscillation Generator",
+  "addresses": {
+    "8453": "0x12f1b9a5ae439fdf37ac0e99b331913791837b1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oscillation Generator",
+    "sanitizedSymbol": "OSCILLATION_GENERATOR",
+    "created_at": "2024-12-11T09:15:35.548889",
+    "deployer": "0x3007fc774Ea3eF2dda722Aac424C77ddF4690CAC",
+    "lpNftId": "1415417",
+    "lockerAddress": "0x17c5ac7c14196f7615d5AD9d8D42d4551847E0df"
+  },
+  "clankerInfo": null
+}

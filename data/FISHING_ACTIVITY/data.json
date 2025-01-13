@@ -1,0 +1,22 @@
+{
+  "name": "Fishing Activity",
+  "symbol": "Fishing Activity",
+  "decimals": 18,
+  "description": "Fishing Activity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fishing%20Activity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fishing Activity",
+  "addresses": {
+    "8453": "0x1d7239be06ab0ed2b33dafe97db56ab885e2b02b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fishing Activity",
+    "sanitizedSymbol": "FISHING_ACTIVITY",
+    "created_at": "2024-12-11T02:08:27.958354",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1410536",
+    "lockerAddress": "0x707C9A2498E37205BB01e3f0E5733a1F61c36DA7"
+  },
+  "clankerInfo": null
+}

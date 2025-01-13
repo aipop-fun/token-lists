@@ -1,0 +1,22 @@
+{
+  "name": "Mature",
+  "symbol": "Mature",
+  "decimals": 18,
+  "description": "Mature is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mature",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mature",
+  "addresses": {
+    "8453": "0x03f72e3c37322457e098f4543571d528cbf4bfc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mature",
+    "sanitizedSymbol": "MATURE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234623",
+    "lockerAddress": "0x0803C075bb8073C3E6bA861297e921b834C5eE29"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WuKong",
+  "symbol": "WuKong",
+  "decimals": 18,
+  "description": "WuKong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WuKong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WuKong",
+  "addresses": {
+    "8453": "0x121d15aa9cbddbf7aafc308fd1cb7d4398a2d1fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WuKong",
+    "sanitizedSymbol": "WUKONG",
+    "created_at": "2024-12-09T07:00:48.633222",
+    "deployer": "0x45e47f63D1D78772c8242DAEeebB6BBb4B23DB67",
+    "lpNftId": "1384215",
+    "lockerAddress": "0x80388dd86b39Bc6132f0bB96849e813bCad8ef4F"
+  },
+  "clankerInfo": null
+}

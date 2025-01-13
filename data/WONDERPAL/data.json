@@ -1,0 +1,22 @@
+{
+  "name": "Wonderpal",
+  "symbol": "Wonderpal",
+  "decimals": 18,
+  "description": "Wonderpal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wonderpal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wonderpal",
+  "addresses": {
+    "8453": "0x2956ef714bcb7817185a3dfa283a522ada3256f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wonderpal",
+    "sanitizedSymbol": "WONDERPAL",
+    "created_at": "2024-12-09T07:34:53.31825",
+    "deployer": "0xe8e3a64631Fc1b3E3670Eb76870cFcfb643303b3",
+    "lpNftId": "1384423",
+    "lockerAddress": "0xFb42dC54B434ed4Ec5E624FD8db0A4D26AA4860A"
+  },
+  "clankerInfo": null
+}

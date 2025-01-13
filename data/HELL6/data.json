@@ -1,0 +1,22 @@
+{
+  "name": "Hell6",
+  "symbol": "Hell6",
+  "decimals": 18,
+  "description": "Hell6 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hell6",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hell6",
+  "addresses": {
+    "8453": "0x3d246b379ed7ca0dcd1499fc45f38708650e6d57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hell6",
+    "sanitizedSymbol": "HELL6",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2957Fb9f9A4d91bcAa76778eD3f77437b170DF51",
+    "lpNftId": "1283877",
+    "lockerAddress": "0xdD2fc4d1ca3294A06a0423eeA42fA8E43e9F6db4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "rainbow hat",
+  "symbol": "rainbow hat",
+  "decimals": 18,
+  "description": "rainbow hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rainbow%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rainbow hat",
+  "addresses": {
+    "8453": "0x12552e92c8450cc1295487fbd285a6321f577a98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rainbow hat",
+    "sanitizedSymbol": "RAINBOW_HAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x90Fa9b6cDe840A219d2E6517122F3E908F794876",
+    "lpNftId": "1292589",
+    "lockerAddress": "0xa76DF59b159B91b9534677f70C25E17F6ffb30a1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "farezsky",
+  "symbol": "farezsky",
+  "decimals": 18,
+  "description": "farezsky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=farezsky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "farezsky",
+  "addresses": {
+    "8453": "0x1c215ea4e5dd04a448e3a6ff8fd4531f550aa302"
+  },
+  "tokenInfo": {
+    "originalSymbol": "farezsky",
+    "sanitizedSymbol": "FAREZSKY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4B42927f443981824718a5F13c6131Ac0a83c4B1",
+    "lpNftId": "1265599",
+    "lockerAddress": "0xC1F644a9B70894D62f7C076Fa958051984775980"
+  },
+  "clankerInfo": null
+}

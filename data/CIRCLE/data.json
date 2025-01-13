@@ -1,0 +1,22 @@
+{
+  "name": "CIRCLE",
+  "symbol": "CIRCLE",
+  "decimals": 18,
+  "description": "CIRCLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CIRCLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CIRCLE",
+  "addresses": {
+    "8453": "0x253e19aa28e0c04a5a01bcd5669e9ef09ffb281e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CIRCLE",
+    "sanitizedSymbol": "CIRCLE",
+    "created_at": "2024-12-09T18:21:41.990535",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1390148",
+    "lockerAddress": "0x17BA4abA303e05e57279b291E5B964002689CcA7"
+  },
+  "clankerInfo": null
+}

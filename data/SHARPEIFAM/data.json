@@ -1,0 +1,22 @@
+{
+  "name": "SharpeiFam",
+  "symbol": "SharpeiFam",
+  "decimals": 18,
+  "description": "SharpeiFam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SharpeiFam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SharpeiFam",
+  "addresses": {
+    "8453": "0x29f40dfae11881936006a9b42fc347774a1991c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SharpeiFam",
+    "sanitizedSymbol": "SHARPEIFAM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198005",
+    "lockerAddress": "0xe60AF2173cb7215D2Bdc64712b4438e44AfeeCBC"
+  },
+  "clankerInfo": null
+}

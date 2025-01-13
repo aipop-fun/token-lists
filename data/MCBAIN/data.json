@@ -1,0 +1,22 @@
+{
+  "name": "mcbain",
+  "symbol": "mcbain",
+  "decimals": 18,
+  "description": "mcbain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mcbain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mcbain",
+  "addresses": {
+    "8453": "0x111aaeaca99b1e2e471711815cac98548ec27cd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mcbain",
+    "sanitizedSymbol": "MCBAIN",
+    "created_at": "2024-12-11T06:44:55.565389",
+    "deployer": "0xa9aba953F395c816eed800af337F92E75Cf73232",
+    "lpNftId": "1413957",
+    "lockerAddress": "0x14D5cdb20dA51ED009C77c9C461EA61A0B1Df35B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "777 COIN",
+  "symbol": "777 COIN",
+  "decimals": 18,
+  "description": "777 COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=777%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "777 COIN",
+  "addresses": {
+    "8453": "0x1b350134d015e0639ae2c0a823229bfec8a9b4d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "777 COIN",
+    "sanitizedSymbol": "777_COIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x862a0CD90D504dc44751D799a38C43586bdF2ba4",
+    "lpNftId": "1276412",
+    "lockerAddress": "0xeE7Cf3b1BF445D509780a488A1D02011481D78fd"
+  },
+  "clankerInfo": null
+}

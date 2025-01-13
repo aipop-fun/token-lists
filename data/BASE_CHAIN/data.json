@@ -1,0 +1,22 @@
+{
+  "name": "BASE CHAIN",
+  "symbol": "BASE CHAIN",
+  "decimals": 18,
+  "description": "BASE CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE CHAIN",
+  "addresses": {
+    "8453": "0x0fcf433063568c7503a1034e038c21528d1b1802"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE CHAIN",
+    "sanitizedSymbol": "BASE_CHAIN",
+    "created_at": "2024-12-09T12:53:05.429665",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1387151",
+    "lockerAddress": "0x36aE069D0cf402C7610f86Ff7Cb10949638Fe021"
+  },
+  "clankerInfo": null
+}

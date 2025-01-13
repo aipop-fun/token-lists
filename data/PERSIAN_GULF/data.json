@@ -1,0 +1,22 @@
+{
+  "name": "Persian Gulf",
+  "symbol": "Persian Gulf",
+  "decimals": 18,
+  "description": "Persian Gulf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Persian%20Gulf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Persian Gulf",
+  "addresses": {
+    "8453": "0x12b0fc3290250935283fed7008279e7c49002d44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Persian Gulf",
+    "sanitizedSymbol": "PERSIAN_GULF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x119d7d618Fd4F18232F22431021E5535DA62D917",
+    "lpNftId": "1315589",
+    "lockerAddress": "0xFb85D2De6747B68213015A3Bb36994096AE3e399"
+  },
+  "clankerInfo": null
+}

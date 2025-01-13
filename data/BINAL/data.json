@@ -1,0 +1,22 @@
+{
+  "name": "BINAL",
+  "symbol": "BINAL",
+  "decimals": 18,
+  "description": "BINAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BINAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BINAL",
+  "addresses": {
+    "8453": "0x26828d3df780d69d680fb724100653c1089368ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BINAL",
+    "sanitizedSymbol": "BINAL",
+    "created_at": "2024-12-09T11:35:46.91566",
+    "deployer": "0x74f241e1A79aC4e4FdCC287d74DbBCA7669D299f",
+    "lpNftId": "1386529",
+    "lockerAddress": "0xf239F5975A3FDD660fabf79261A3B92e15A9d66A"
+  },
+  "clankerInfo": null
+}

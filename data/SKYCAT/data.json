@@ -1,0 +1,22 @@
+{
+  "name": "SKYCAT",
+  "symbol": "SKYCAT",
+  "decimals": 18,
+  "description": "SKYCAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SKYCAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SKYCAT",
+  "addresses": {
+    "8453": "0x21f2ace42031a916f70a060320a508464a85c834"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SKYCAT",
+    "sanitizedSymbol": "SKYCAT",
+    "created_at": "2024-12-09T16:27:04.068248",
+    "deployer": "0x504d1537eDaA08ADC950507c8Ad7a35C6581a379",
+    "lpNftId": "1389203",
+    "lockerAddress": "0x07E232878f1199CaC41110d4B3C4F63B9028E9B2"
+  },
+  "clankerInfo": null
+}

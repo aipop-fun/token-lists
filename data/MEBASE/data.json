@@ -1,0 +1,22 @@
+{
+  "name": "MEBASE",
+  "symbol": "MEBASE",
+  "decimals": 18,
+  "description": "MEBASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEBASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEBASE",
+  "addresses": {
+    "8453": "0x22cbd38a8375ab9c13cc01c74e25c77ec77b96b8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEBASE",
+    "sanitizedSymbol": "MEBASE",
+    "created_at": "2024-12-09T17:17:39.619751",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1389646",
+    "lockerAddress": "0x6A1f06AF00d690171e3Beec95429202C1EE052F1"
+  },
+  "clankerInfo": null
+}

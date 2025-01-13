@@ -1,0 +1,22 @@
+{
+  "name": "Skate or Die!",
+  "symbol": "Skate or Die!",
+  "decimals": 18,
+  "description": "Skate or Die! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skate%20or%20Die!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skate or Die!",
+  "addresses": {
+    "8453": "0x19958c089716603a1b7a0cb5156be612dc971929"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skate or Die!",
+    "sanitizedSymbol": "SKATE_OR_DIE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230626",
+    "lockerAddress": "0x9bE298E5374e34f0A1163d0deE3Bb9c407E04A54"
+  },
+  "clankerInfo": null
+}

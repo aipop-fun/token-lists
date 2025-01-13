@@ -1,0 +1,22 @@
+{
+  "name": "BullApe Wealth",
+  "symbol": "BullApe Wealth",
+  "decimals": 18,
+  "description": "BullApe Wealth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BullApe%20Wealth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BullApe Wealth",
+  "addresses": {
+    "8453": "0x14a6610062d62ad3848d1f0199d3f6a68145b7c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BullApe Wealth",
+    "sanitizedSymbol": "BULLAPE_WEALTH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160440",
+    "lockerAddress": "0x6Ccf2285B2fb66372bC7e52263C589B4A24748D4"
+  },
+  "clankerInfo": null
+}

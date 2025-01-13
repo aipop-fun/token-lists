@@ -1,0 +1,22 @@
+{
+  "name": "8 Ball Pool",
+  "symbol": "8 Ball Pool",
+  "decimals": 18,
+  "description": "8 Ball Pool is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=8%20Ball%20Pool",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "8 Ball Pool",
+  "addresses": {
+    "8453": "0x2abb0117e854982fd7a1bd698d916baed67c1237"
+  },
+  "tokenInfo": {
+    "originalSymbol": "8 Ball Pool",
+    "sanitizedSymbol": "8_BALL_POOL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1286569",
+    "lockerAddress": "0x99C7E0B627afE574f1991A13B2E75989Df73979f"
+  },
+  "clankerInfo": null
+}

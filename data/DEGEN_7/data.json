@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN",
+  "symbol": "DEGEN",
+  "decimals": 18,
+  "description": "DEGEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN",
+  "addresses": {
+    "8453": "0x1886a63c70ff7a179520ac49b9aa26e135712ef2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN",
+    "sanitizedSymbol": "DEGEN_7",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x17Df392799b896927c34171860FF246cdF18230a",
+    "lpNftId": "1329834",
+    "lockerAddress": "0x796FD18cDd663b4d438849A60E46ceC17CefB20c"
+  },
+  "clankerInfo": null
+}

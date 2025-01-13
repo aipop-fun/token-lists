@@ -1,0 +1,22 @@
+{
+  "name": "dotzora",
+  "symbol": "dotzora",
+  "decimals": 18,
+  "description": "dotzora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dotzora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dotzora",
+  "addresses": {
+    "8453": "0x25b5fa526a11cef4b1e35d1107e0fe3ec6c669f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dotzora",
+    "sanitizedSymbol": "DOTZORA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x007678a2Fb7EE0E04a6B1ae37ff7fd6CFb22046A",
+    "lpNftId": "1313035",
+    "lockerAddress": "0xa09e31B4282F8035ae2101f8d79Dd7dCFdf656Fa"
+  },
+  "clankerInfo": null
+}

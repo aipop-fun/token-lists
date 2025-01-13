@@ -1,0 +1,22 @@
+{
+  "name": "steppe",
+  "symbol": "steppe",
+  "decimals": 18,
+  "description": "steppe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=steppe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "steppe",
+  "addresses": {
+    "8453": "0x41c84c5f009493d0386a3540a4e7a7a348fe5338"
+  },
+  "tokenInfo": {
+    "originalSymbol": "steppe",
+    "sanitizedSymbol": "STEPPE",
+    "created_at": "2024-12-11T23:57:41.224254",
+    "deployer": "0x6D927bC4DE300eFbca7A597351C7c8Fb18313A89",
+    "lpNftId": "1428025",
+    "lockerAddress": "0x933e6Eacee69a0A7487808EDBa2B1179e6d07855"
+  },
+  "clankerInfo": null
+}

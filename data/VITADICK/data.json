@@ -1,0 +1,22 @@
+{
+  "name": "Vitadick",
+  "symbol": "Vitadick",
+  "decimals": 18,
+  "description": "Vitadick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitadick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitadick",
+  "addresses": {
+    "8453": "0x1ffbcddd96f714a7869a8edc50df3c1ea2e11fa5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitadick",
+    "sanitizedSymbol": "VITADICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x000009209E16dDF2e0abE52Fc2301f0f3c9A7D50",
+    "lpNftId": "1320275",
+    "lockerAddress": "0xc37d6AE8A7500DD199C3d4cE67D2ad5492A5e006"
+  },
+  "clankerInfo": null
+}

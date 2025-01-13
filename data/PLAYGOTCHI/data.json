@@ -1,0 +1,22 @@
+{
+  "name": "Playgotchi",
+  "symbol": "Playgotchi",
+  "decimals": 18,
+  "description": "Playgotchi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Playgotchi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Playgotchi",
+  "addresses": {
+    "8453": "0x20a3446abb8c4be2dee524321a8bb758f6623b7e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Playgotchi",
+    "sanitizedSymbol": "PLAYGOTCHI",
+    "created_at": "2024-12-09T03:33:19.366412",
+    "deployer": "0x245c1e57C442dbEB09aE6Dc5F15fA7C43F8267b5",
+    "lpNftId": "1380092",
+    "lockerAddress": "0x628fC80B9B874d9d9b039fe11b029E31357F4476"
+  },
+  "clankerInfo": null
+}

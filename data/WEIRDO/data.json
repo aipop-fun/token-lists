@@ -1,0 +1,22 @@
+{
+  "name": "weirdo",
+  "symbol": "weirdo",
+  "decimals": 18,
+  "description": "weirdo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=weirdo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "weirdo",
+  "addresses": {
+    "8453": "0x273fb0b32e9639143541c9365661abfb426099d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "weirdo",
+    "sanitizedSymbol": "WEIRDO",
+    "created_at": "2024-12-10T05:28:47.890193",
+    "deployer": "0x205b18c4F952E50b4514fE7E90FD70D4a0Cc4424",
+    "lpNftId": "1396964",
+    "lockerAddress": "0x00e24490F3010637D7bc0fC793bc0de5931Ff17C"
+  },
+  "clankerInfo": null
+}

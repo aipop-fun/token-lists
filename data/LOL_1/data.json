@@ -1,0 +1,22 @@
+{
+  "name": "LOL",
+  "symbol": "LOL",
+  "decimals": 18,
+  "description": "LOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOL",
+  "addresses": {
+    "8453": "0x21e13390555d3b71ff142155c5009c21f18e8a46"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOL",
+    "sanitizedSymbol": "LOL_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDb514Dcf68146a11C1911b18d8d2BBfeE5b81121",
+    "lpNftId": "1270111",
+    "lockerAddress": "0xF34FBf96cF451Af0A32C6676AB98926D1309Dbc1"
+  },
+  "clankerInfo": null
+}

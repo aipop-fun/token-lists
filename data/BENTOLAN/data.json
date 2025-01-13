@@ -1,0 +1,22 @@
+{
+  "name": "Bentolan",
+  "symbol": "Bentolan",
+  "decimals": 18,
+  "description": "Bentolan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bentolan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bentolan",
+  "addresses": {
+    "8453": "0x01460729bc9022788c124c162a3619f22dad7c58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bentolan",
+    "sanitizedSymbol": "BENTOLAN",
+    "created_at": "2024-12-12T05:12:37.197241",
+    "deployer": "0x368497B2a204a0Dc643B1Ac0258Ef943e23382c5",
+    "lpNftId": "1429325",
+    "lockerAddress": "0xBFf5895a9Ac32FEaF2Aa9324336C77dEf6892Ff0"
+  },
+  "clankerInfo": null
+}

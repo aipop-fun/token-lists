@@ -1,0 +1,22 @@
+{
+  "name": "CannonPepe",
+  "symbol": "CannonPepe",
+  "decimals": 18,
+  "description": "CannonPepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CannonPepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CannonPepe",
+  "addresses": {
+    "8453": "0x28befc907d5b9426153e5da4c65a1b391b411fa1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CannonPepe",
+    "sanitizedSymbol": "CANNONPEPE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98bb6321AA10562ba458e9e449485a9D93520263",
+    "lpNftId": "1327940",
+    "lockerAddress": "0x49bbD0deC08546E959b711115358f3EAbf5BF0cb"
+  },
+  "clankerInfo": null
+}

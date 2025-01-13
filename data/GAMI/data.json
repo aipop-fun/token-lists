@@ -1,0 +1,22 @@
+{
+  "name": "gami",
+  "symbol": "gami",
+  "decimals": 18,
+  "description": "gami is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gami",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gami",
+  "addresses": {
+    "8453": "0x1de5c4a103a4f2667438968debcc803c07d46b43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gami",
+    "sanitizedSymbol": "GAMI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x387a161C6b25aA854100aBaED39274e51aaffffd",
+    "lpNftId": "1268760",
+    "lockerAddress": "0xceEEa5C49B7F6014B3280B251c91e57c04be7380"
+  },
+  "clankerInfo": null
+}

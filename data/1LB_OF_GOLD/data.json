@@ -1,0 +1,22 @@
+{
+  "name": "1LB of Gold",
+  "symbol": "1LB of Gold",
+  "decimals": 18,
+  "description": "1LB of Gold is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1LB%20of%20Gold",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1LB of Gold",
+  "addresses": {
+    "8453": "0x3ea1ab95a511cb749ef98ef12390f40e92761083"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1LB of Gold",
+    "sanitizedSymbol": "1LB_OF_GOLD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232220",
+    "lockerAddress": "0x2c9bA19cd5c4aa8121e7e166Ef3F786e4a9b71c3"
+  },
+  "clankerInfo": null
+}

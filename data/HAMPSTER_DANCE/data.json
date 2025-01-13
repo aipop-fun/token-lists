@@ -1,0 +1,22 @@
+{
+  "name": "Hampster Dance",
+  "symbol": "Hampster Dance",
+  "decimals": 18,
+  "description": "Hampster Dance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hampster%20Dance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hampster Dance",
+  "addresses": {
+    "8453": "0x14d68eb6b4701e4b74e9aacdc8fffec6fdf1f922"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hampster Dance",
+    "sanitizedSymbol": "HAMPSTER_DANCE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218809",
+    "lockerAddress": "0xF78ddFaF4cdE9C7B06717aC4AF4c54A87640d0f0"
+  },
+  "clankerInfo": null
+}

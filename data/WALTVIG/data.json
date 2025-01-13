@@ -1,0 +1,22 @@
+{
+  "name": "waltvig",
+  "symbol": "waltvig",
+  "decimals": 18,
+  "description": "waltvig is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=waltvig",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "waltvig",
+  "addresses": {
+    "8453": "0x3ce8cfa3133852a4c343fb9028e8708f61e70185"
+  },
+  "tokenInfo": {
+    "originalSymbol": "waltvig",
+    "sanitizedSymbol": "WALTVIG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152220",
+    "lockerAddress": "0xdC2305c60D2289fC5A91b81fbC7545093b55C9Cb"
+  },
+  "clankerInfo": null
+}

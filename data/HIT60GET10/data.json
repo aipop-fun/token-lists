@@ -1,0 +1,22 @@
+{
+  "name": "Hit60Get10",
+  "symbol": "Hit60Get10",
+  "decimals": 18,
+  "description": "Hit60Get10 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hit60Get10",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hit60Get10",
+  "addresses": {
+    "8453": "0x2602373acf3a770baee87732a6ea0a242a1f8a87"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hit60Get10",
+    "sanitizedSymbol": "HIT60GET10",
+    "created_at": "2024-12-11T01:19:55.871433",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1409545",
+    "lockerAddress": "0xDF64c0b7940c373D23D936598c873362f5E6958C"
+  },
+  "clankerInfo": null
+}

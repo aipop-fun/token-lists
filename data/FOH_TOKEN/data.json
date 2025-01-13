@@ -1,0 +1,22 @@
+{
+  "name": "FOH Token",
+  "symbol": "FOH Token",
+  "decimals": 18,
+  "description": "FOH Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FOH%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FOH Token",
+  "addresses": {
+    "8453": "0x35dc1bac9143cc9cb10e7064a79443c8b5230116"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FOH Token",
+    "sanitizedSymbol": "FOH_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204255",
+    "lockerAddress": "0xDd43DC320d05D53aF1Df795A8f9caD93F361f84F"
+  },
+  "clankerInfo": null
+}

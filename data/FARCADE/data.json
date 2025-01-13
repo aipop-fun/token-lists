@@ -1,0 +1,22 @@
+{
+  "name": "FARCADE",
+  "symbol": "FARCADE",
+  "decimals": 18,
+  "description": "FARCADE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCADE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCADE",
+  "addresses": {
+    "8453": "0x0cb43a6f5c6132a0534930e11b3828b40d88635c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCADE",
+    "sanitizedSymbol": "FARCADE",
+    "created_at": "2024-12-10T20:37:03.627775",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1406917",
+    "lockerAddress": "0x365d35c5d6b00Ac473a07Df27d8Ef61e84107104"
+  },
+  "clankerInfo": null
+}

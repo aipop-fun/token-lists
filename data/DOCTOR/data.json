@@ -1,0 +1,22 @@
+{
+  "name": "doctor",
+  "symbol": "doctor",
+  "decimals": 18,
+  "description": "doctor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=doctor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "doctor",
+  "addresses": {
+    "8453": "0x2537a0847233ae6eb0dd1a6da7aba3613239adfb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "doctor",
+    "sanitizedSymbol": "DOCTOR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224664",
+    "lockerAddress": "0x7fEB73Fa1cCA8F9d22f150707e866CE3aAE05b35"
+  },
+  "clankerInfo": null
+}

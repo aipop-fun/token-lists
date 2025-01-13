@@ -1,0 +1,22 @@
+{
+  "name": "PeP Pork",
+  "symbol": "PeP Pork",
+  "decimals": 18,
+  "description": "PeP Pork is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PeP%20Pork",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PeP Pork",
+  "addresses": {
+    "8453": "0x2901bf31df3897f333f8e7f688fc1c3be09c7c12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PeP Pork",
+    "sanitizedSymbol": "PEP_PORK",
+    "created_at": "2024-12-12T04:15:54.144947",
+    "deployer": "0x333A926E76F434c054B79D21df8d1A85f8e79A5F",
+    "lpNftId": "1429116",
+    "lockerAddress": "0x7a44CDe1F63cE39A2EA891142D22AF4F1E82282F"
+  },
+  "clankerInfo": null
+}

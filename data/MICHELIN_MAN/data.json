@@ -1,0 +1,22 @@
+{
+  "name": "Michelin Man",
+  "symbol": "Michelin Man",
+  "decimals": 18,
+  "description": "Michelin Man is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Michelin%20Man",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Michelin Man",
+  "addresses": {
+    "8453": "0x0f70ab415b375f7567f8d4f9a419594c7d77d07a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Michelin Man",
+    "sanitizedSymbol": "MICHELIN_MAN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4DF4d6632cE45e98a8672d73Ae2A6Dad33C06710",
+    "lpNftId": "1326130",
+    "lockerAddress": "0x07A99281530f1b57F14f2f14cE570fBc9E9F7d72"
+  },
+  "clankerInfo": null
+}

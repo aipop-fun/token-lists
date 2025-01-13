@@ -1,0 +1,22 @@
+{
+  "name": "LEGO",
+  "symbol": "LEGO",
+  "decimals": 18,
+  "description": "LEGO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEGO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEGO",
+  "addresses": {
+    "8453": "0x0aeea183989bbb6b57a122739073f1f2701f01f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEGO",
+    "sanitizedSymbol": "LEGO_4",
+    "created_at": "2024-12-11T12:00:15.867159",
+    "deployer": "0x6F4BE11d63bA2fB47c21760259B7EFBed881BCa0",
+    "lpNftId": "1417301",
+    "lockerAddress": "0x5282d1e2973DABc76Bb5DA766B6f848fC59052Ea"
+  },
+  "clankerInfo": null
+}

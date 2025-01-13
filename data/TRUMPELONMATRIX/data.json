@@ -1,0 +1,22 @@
+{
+  "name": "TrumpElonMatrix",
+  "symbol": "TrumpElonMatrix",
+  "decimals": 18,
+  "description": "TrumpElonMatrix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrumpElonMatrix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrumpElonMatrix",
+  "addresses": {
+    "8453": "0x0aae08f56b1460dd95988f009296121e24515088"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrumpElonMatrix",
+    "sanitizedSymbol": "TRUMPELONMATRIX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219869",
+    "lockerAddress": "0x19856B74e0B8073c99A786D1f3A0D8B6846d273C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "World Computer Day",
+  "symbol": "World Computer Day",
+  "decimals": 18,
+  "description": "World Computer Day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=World%20Computer%20Day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "World Computer Day",
+  "addresses": {
+    "8453": "0x176415392edb3a550b35849a772e5d2e87875e89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "World Computer Day",
+    "sanitizedSymbol": "WORLD_COMPUTER_DAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230812",
+    "lockerAddress": "0x7Ba12CC33b5e5B517a7fA5a0cDd8F90433130BEf"
+  },
+  "clankerInfo": null
+}

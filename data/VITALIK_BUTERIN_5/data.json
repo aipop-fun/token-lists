@@ -1,0 +1,22 @@
+{
+  "name": "Vitalik Buterin",
+  "symbol": "Vitalik Buterin",
+  "decimals": 18,
+  "description": "Vitalik Buterin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vitalik%20Buterin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vitalik Buterin",
+  "addresses": {
+    "8453": "0x0f43200ad5bd34d1e1db337fcce42f1ad8380649"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vitalik Buterin",
+    "sanitizedSymbol": "VITALIK_BUTERIN_5",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB92519Eb7CfB381606df6759578Edbc84109e849",
+    "lpNftId": "1320907",
+    "lockerAddress": "0xd152CA78659A4aABbDf69700dFf892A9a970A86B"
+  },
+  "clankerInfo": null
+}

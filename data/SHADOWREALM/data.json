@@ -1,0 +1,22 @@
+{
+  "name": "ShadowRealm",
+  "symbol": "ShadowRealm",
+  "decimals": 18,
+  "description": "ShadowRealm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShadowRealm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShadowRealm",
+  "addresses": {
+    "8453": "0x3672d2bf4583bbf63b45d991564dcd15809bb024"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShadowRealm",
+    "sanitizedSymbol": "SHADOWREALM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1192854",
+    "lockerAddress": "0x161a3B54768616db60E1C3Ae0F0f21F91748Fc92"
+  },
+  "clankerInfo": null
+}

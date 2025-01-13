@@ -1,0 +1,22 @@
+{
+  "name": "BUY",
+  "symbol": "BUY",
+  "decimals": 18,
+  "description": "BUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUY",
+  "addresses": {
+    "8453": "0x14492294fa90792a676b4a5f55db1d6d89d20739"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUY",
+    "sanitizedSymbol": "BUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3E3E9683B706aB497fa1991c691F6CB072c75929",
+    "lpNftId": "1311650",
+    "lockerAddress": "0xB7DC6F2BfdB38B9Dac51929e0B847cB21951550a"
+  },
+  "clankerInfo": null
+}

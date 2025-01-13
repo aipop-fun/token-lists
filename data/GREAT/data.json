@@ -1,0 +1,22 @@
+{
+  "name": "GREAT",
+  "symbol": "GREAT",
+  "decimals": 18,
+  "description": "GREAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GREAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GREAT",
+  "addresses": {
+    "8453": "0x063931072950bb81054935608a3d61121b5396b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GREAT",
+    "sanitizedSymbol": "GREAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0f2aFB16F69F43c548bd049C46E3342Fadc8A0d7",
+    "lpNftId": "1299058",
+    "lockerAddress": "0x8F4fEFb63544b25F504d1eBA90D3b5B4f58f11D5"
+  },
+  "clankerInfo": null
+}

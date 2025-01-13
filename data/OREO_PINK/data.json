@@ -1,0 +1,22 @@
+{
+  "name": "oreo pink",
+  "symbol": "oreo pink",
+  "decimals": 18,
+  "description": "oreo pink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=oreo%20pink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "oreo pink",
+  "addresses": {
+    "8453": "0x0027b152a80ff929cc8b725ffe25d45581639b16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "oreo pink",
+    "sanitizedSymbol": "OREO_PINK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98dc27fA946F1E5911354Bf866eE3302091D976E",
+    "lpNftId": "1351724",
+    "lockerAddress": "0xc60D95a576EbAE8B42812932db4638710C44270f"
+  },
+  "clankerInfo": null
+}

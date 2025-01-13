@@ -1,0 +1,22 @@
+{
+  "name": "ANONCLANK",
+  "symbol": "ANONCLANK",
+  "decimals": 18,
+  "description": "ANONCLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONCLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONCLANK",
+  "addresses": {
+    "8453": "0x3d098a5db9a0afe6966a8b9fd7d46b87a987b853"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONCLANK",
+    "sanitizedSymbol": "ANONCLANK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x26f8840b82790c5b0bD4D6356C9eebF9F712125E",
+    "lpNftId": "1266525",
+    "lockerAddress": "0x1272E042E71545a3a2A9D2F6A44Ce2191d586A09"
+  },
+  "clankerInfo": null
+}

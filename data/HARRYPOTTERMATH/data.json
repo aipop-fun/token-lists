@@ -1,0 +1,22 @@
+{
+  "name": "HarryPotterMath",
+  "symbol": "HarryPotterMath",
+  "decimals": 18,
+  "description": "HarryPotterMath is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HarryPotterMath",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HarryPotterMath",
+  "addresses": {
+    "8453": "0x2a692be970733d4be7456d949d8e67bca6856f71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HarryPotterMath",
+    "sanitizedSymbol": "HARRYPOTTERMATH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124754",
+    "lockerAddress": "0x6bc3604dF117b5A911cb4DF17eCED7f2e15ff05E"
+  },
+  "clankerInfo": null
+}

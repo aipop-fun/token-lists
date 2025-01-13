@@ -1,0 +1,22 @@
+{
+  "name": "MOVEON",
+  "symbol": "MOVEON",
+  "decimals": 18,
+  "description": "MOVEON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOVEON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOVEON",
+  "addresses": {
+    "8453": "0x0443fa8250f0f3f1164f042a50b388fc59ac8877"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOVEON",
+    "sanitizedSymbol": "MOVEON_1",
+    "created_at": "2024-12-10T07:59:44.501224",
+    "deployer": "0x27Ee7aBd85D8286a0A13C3da5d223f0bFc2Bb556",
+    "lpNftId": "1398451",
+    "lockerAddress": "0xF4C69c9190Ce68aCB6d504fc9a877b2369C22E67"
+  },
+  "clankerInfo": null
+}

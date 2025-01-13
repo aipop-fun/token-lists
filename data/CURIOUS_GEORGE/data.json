@@ -1,0 +1,22 @@
+{
+  "name": "Curious George",
+  "symbol": "Curious George",
+  "decimals": 18,
+  "description": "Curious George is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Curious%20George",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Curious George",
+  "addresses": {
+    "8453": "0x00031fa62858a6757f55cc92766d3b796e681939"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Curious George",
+    "sanitizedSymbol": "CURIOUS_GEORGE",
+    "created_at": "2024-12-10T05:19:39.357933",
+    "deployer": "0x36f1dc06Cf03AC88f62dD39534746e3233fdCFBc",
+    "lpNftId": "1396839",
+    "lockerAddress": "0x1b7e7A2e770BeaF657400CaB4FB1057D3d259958"
+  },
+  "clankerInfo": null
+}

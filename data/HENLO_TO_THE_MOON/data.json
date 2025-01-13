@@ -1,0 +1,22 @@
+{
+  "name": "HENLO TO THE MOON",
+  "symbol": "HENLO TO THE MOON",
+  "decimals": 18,
+  "description": "HENLO TO THE MOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HENLO%20TO%20THE%20MOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HENLO TO THE MOON",
+  "addresses": {
+    "8453": "0x3c480d41d375d09e74ead0bba70cda2278daaf56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HENLO TO THE MOON",
+    "sanitizedSymbol": "HENLO_TO_THE_MOON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x35d2451Fc0709DD3A337C5c9fBA0Ed0969fe1646",
+    "lpNftId": "1279596",
+    "lockerAddress": "0xC61d5Ed5593dD16Af4086E2581AB2aEdAc4D3800"
+  },
+  "clankerInfo": null
+}

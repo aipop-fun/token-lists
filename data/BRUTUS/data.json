@@ -1,0 +1,22 @@
+{
+  "name": "Brutus",
+  "symbol": "Brutus",
+  "decimals": 18,
+  "description": "Brutus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brutus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brutus",
+  "addresses": {
+    "8453": "0x06b22f396d5abdf367fe58ecec1d802c828af2ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brutus",
+    "sanitizedSymbol": "BRUTUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211022",
+    "lockerAddress": "0x272610C351328BABe4D9a7104AaDF08B0A59e0bd"
+  },
+  "clankerInfo": null
+}

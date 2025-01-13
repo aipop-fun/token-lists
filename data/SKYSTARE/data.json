@@ -1,0 +1,22 @@
+{
+  "name": "Skystare",
+  "symbol": "Skystare",
+  "decimals": 18,
+  "description": "Skystare is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skystare",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skystare",
+  "addresses": {
+    "8453": "0x0d63ecc5278342e86cb5a99125e51a4b38f78e45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skystare",
+    "sanitizedSymbol": "SKYSTARE",
+    "created_at": "2024-12-10T03:44:07.18549",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395822",
+    "lockerAddress": "0xcB712C0690641C9a1aB4EaFba3C5D50dF468Fbe1"
+  },
+  "clankerInfo": null
+}

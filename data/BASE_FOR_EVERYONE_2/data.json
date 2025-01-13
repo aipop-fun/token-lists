@@ -1,0 +1,22 @@
+{
+  "name": "Base for everyone",
+  "symbol": "Base for everyone",
+  "decimals": 18,
+  "description": "Base for everyone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Base%20for%20everyone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Base for everyone",
+  "addresses": {
+    "8453": "0x38fb3cf1f19851ad3b4fbff13b669e7088d00805"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Base for everyone",
+    "sanitizedSymbol": "BASE_FOR_EVERYONE_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf6937c14bA709DC35cD367E31482fB2640ffdaaD",
+    "lpNftId": "1311059",
+    "lockerAddress": "0xEaC300791a886e44ade7b19dA1C9cDA9B3FcF7eb"
+  },
+  "clankerInfo": null
+}

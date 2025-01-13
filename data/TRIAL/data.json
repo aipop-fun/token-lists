@@ -1,0 +1,22 @@
+{
+  "name": "trial",
+  "symbol": "trial",
+  "decimals": 18,
+  "description": "trial is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=trial",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "trial",
+  "addresses": {
+    "8453": "0x41e057a14cfe762ea67b19e6d580dea22908e1be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "trial",
+    "sanitizedSymbol": "TRIAL",
+    "created_at": "2024-12-12T05:21:11.147252",
+    "deployer": "0x8b15229a2bb3dc037359A5dAdb938a1F7eF4882e",
+    "lpNftId": "1429365",
+    "lockerAddress": "0x2DeB5017a7bE6E5958F499FE9e11C9B2c5076264"
+  },
+  "clankerInfo": null
+}

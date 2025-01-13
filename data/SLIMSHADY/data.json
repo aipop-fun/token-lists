@@ -1,0 +1,22 @@
+{
+  "name": "SlimShady",
+  "symbol": "SlimShady",
+  "decimals": 18,
+  "description": "SlimShady is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SlimShady",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SlimShady",
+  "addresses": {
+    "8453": "0x1a973ac5aeca9d6a48bb6580b86f194133d4dc86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SlimShady",
+    "sanitizedSymbol": "SLIMSHADY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1364418",
+    "lockerAddress": "0xB1280aCA4C3242F70e89Aa2eF2213A1C0D33248F"
+  },
+  "clankerInfo": null
+}

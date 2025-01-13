@@ -1,0 +1,22 @@
+{
+  "name": "pump fun",
+  "symbol": "pump fun",
+  "decimals": 18,
+  "description": "pump fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pump%20fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pump fun",
+  "addresses": {
+    "8453": "0x250b083bd6da7be07dcbdb2968dfb8b887fd8163"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pump fun",
+    "sanitizedSymbol": "PUMP_FUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98D5A312d54e546cF530256e385480dDE97646A7",
+    "lpNftId": "1336998",
+    "lockerAddress": "0xDe8d2956E7e281ad4516e5E03f48dCd037674adE"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "puck",
+  "symbol": "puck",
+  "decimals": 18,
+  "description": "puck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=puck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "puck",
+  "addresses": {
+    "8453": "0x0f3734f96db0493a03d9ab04d9583277cc5aec00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "puck",
+    "sanitizedSymbol": "PUCK",
+    "created_at": "2024-12-10T08:06:41.730554",
+    "deployer": "0x9aeB385fe75f069F4b2af1E115A1f1F731230F62",
+    "lpNftId": "1398525",
+    "lockerAddress": "0xE63D7995a153Cd550c9B8a60C70b2C4127b8A8Ab"
+  },
+  "clankerInfo": null
+}

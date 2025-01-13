@@ -1,0 +1,22 @@
+{
+  "name": "OnlyBots",
+  "symbol": "OnlyBots",
+  "decimals": 18,
+  "description": "OnlyBots is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OnlyBots",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OnlyBots",
+  "addresses": {
+    "8453": "0x2fab730789616d9b74750548e8fac2357a6c5fc3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OnlyBots",
+    "sanitizedSymbol": "ONLYBOTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x07Bb4fCc27053BFB33CFA1b4A0B56a11e06e7e11",
+    "lpNftId": "1376454",
+    "lockerAddress": "0x4e0EA3072FA57c72F301d952f81aB87cE083063A"
+  },
+  "clankerInfo": null
+}

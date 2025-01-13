@@ -1,0 +1,22 @@
+{
+  "name": "sold early",
+  "symbol": "sold early",
+  "decimals": 18,
+  "description": "sold early is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sold%20early",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sold early",
+  "addresses": {
+    "8453": "0x0352c56cf276867e4230260396c226766b8d25bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sold early",
+    "sanitizedSymbol": "SOLD_EARLY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x28abA2DFcf42eAdfEe60CeBFA650aC7184652424",
+    "lpNftId": "1343543",
+    "lockerAddress": "0x764D0745f2C2fcb41e3592FA4844BBEc9AD7Ae9e"
+  },
+  "clankerInfo": null
+}

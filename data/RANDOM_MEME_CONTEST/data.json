@@ -1,0 +1,22 @@
+{
+  "name": "Random Meme Contest",
+  "symbol": "Random Meme Contest",
+  "decimals": 18,
+  "description": "Random Meme Contest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Random%20Meme%20Contest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Random Meme Contest",
+  "addresses": {
+    "8453": "0x12a21e2b558ab3ca1126e3c47ec8f8c5441c7609"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Random Meme Contest",
+    "sanitizedSymbol": "RANDOM_MEME_CONTEST",
+    "created_at": "2024-12-09T14:58:33.583335",
+    "deployer": "0xDa469A6C78D12996895721fceBA62E510b38FAf3",
+    "lpNftId": "1388228",
+    "lockerAddress": "0x94a2F85D950d0DfD069E284eeC6B1c2dfa4C3C3D"
+  },
+  "clankerInfo": null
+}

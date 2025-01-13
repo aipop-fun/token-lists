@@ -1,0 +1,22 @@
+{
+  "name": "Bugfix",
+  "symbol": "Bugfix",
+  "decimals": 18,
+  "description": "Bugfix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bugfix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bugfix",
+  "addresses": {
+    "8453": "0x26f1b36d4d54516ad8fd3a0e1a2d08aa441dccfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bugfix",
+    "sanitizedSymbol": "BUGFIX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x99E59aEcFce56021daBADe9d8BEE454D226d59e4",
+    "lpNftId": "1244618",
+    "lockerAddress": "0x01d9B3bED1E6522127534A4A91c02B2443a124AF"
+  },
+  "clankerInfo": null
+}

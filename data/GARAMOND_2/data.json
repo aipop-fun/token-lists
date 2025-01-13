@@ -1,0 +1,22 @@
+{
+  "name": "Garamond",
+  "symbol": "Garamond",
+  "decimals": 18,
+  "description": "Garamond is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Garamond",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Garamond",
+  "addresses": {
+    "8453": "0x2d0afcd3df3c80417ce44747e4d86ad05a008a11"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Garamond",
+    "sanitizedSymbol": "GARAMOND_2",
+    "created_at": "2024-12-11T01:52:34.039696",
+    "deployer": "0x3Af8d19299617C4741FE5836214fcC749F1c0741",
+    "lpNftId": "1410143",
+    "lockerAddress": "0x8c44A9C3f5502dde145CD01928743CbA10667368"
+  },
+  "clankerInfo": null
+}

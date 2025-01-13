@@ -1,0 +1,22 @@
+{
+  "name": "WeAreSoEarly",
+  "symbol": "WeAreSoEarly",
+  "decimals": 18,
+  "description": "WeAreSoEarly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WeAreSoEarly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WeAreSoEarly",
+  "addresses": {
+    "8453": "0x2cb0ec0c336c14b4a1b854d9bf1b0e3fa2b38fae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WeAreSoEarly",
+    "sanitizedSymbol": "WEARESOEARLY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xdC8186126C162fe1B81B6AE1ce9d09B5598710D4",
+    "lpNftId": "1252991",
+    "lockerAddress": "0x0A1B168D15dA085b0Fc5F4C72879C22B3702b3Cd"
+  },
+  "clankerInfo": null
+}

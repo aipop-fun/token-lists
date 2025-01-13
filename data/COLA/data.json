@@ -1,0 +1,22 @@
+{
+  "name": "cola",
+  "symbol": "cola",
+  "decimals": 18,
+  "description": "cola is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cola",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cola",
+  "addresses": {
+    "8453": "0x2b4bcad88a0c360093cfd7167b8994094345a57b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cola",
+    "sanitizedSymbol": "COLA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236714",
+    "lockerAddress": "0x5553C8E86Ad5d361c90cEc62C075d62FF43AbCAD"
+  },
+  "clankerInfo": null
+}

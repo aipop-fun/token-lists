@@ -1,0 +1,22 @@
+{
+  "name": "bolon",
+  "symbol": "bolon",
+  "decimals": 18,
+  "description": "bolon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bolon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bolon",
+  "addresses": {
+    "8453": "0x30b0fb2ae55299c5c52c839e64aa2336a16a2981"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bolon",
+    "sanitizedSymbol": "BOLON",
+    "created_at": "2024-12-11T07:00:33.599227",
+    "deployer": "0xDE25d943bC656d0eD18535A51BbA4e31024254Da",
+    "lpNftId": "1414000",
+    "lockerAddress": "0xBc3fDa760cd69439262C1B59E81001b430278109"
+  },
+  "clankerInfo": null
+}

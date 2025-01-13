@@ -1,0 +1,22 @@
+{
+  "name": "PandaCoin",
+  "symbol": "PandaCoin",
+  "decimals": 18,
+  "description": "PandaCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PandaCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PandaCoin",
+  "addresses": {
+    "8453": "0x11fa49317a0d3fbe991becba4ea7f02848f1b36e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PandaCoin",
+    "sanitizedSymbol": "PANDACOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD4f73B54D1bc004a4dFc49DC370767d304c2E4Fa",
+    "lpNftId": "1315255",
+    "lockerAddress": "0xBFbd2935beD2E2135B4bB234FaA20d8c48FD30B0"
+  },
+  "clankerInfo": null
+}

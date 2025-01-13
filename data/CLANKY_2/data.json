@@ -1,0 +1,22 @@
+{
+  "name": "Clanky",
+  "symbol": "Clanky",
+  "decimals": 18,
+  "description": "Clanky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanky",
+  "addresses": {
+    "8453": "0x280ee2e72cbd78d38438204eab0163fef2f2378f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanky",
+    "sanitizedSymbol": "CLANKY_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeF1ACC76f004EC43a3c3052f189956F995a9D134",
+    "lpNftId": "1302307",
+    "lockerAddress": "0x52C857545F564b907550424EbB2D618173Eb97E1"
+  },
+  "clankerInfo": null
+}

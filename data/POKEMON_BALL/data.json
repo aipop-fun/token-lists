@@ -1,0 +1,22 @@
+{
+  "name": "pokemon ball",
+  "symbol": "pokemon ball",
+  "decimals": 18,
+  "description": "pokemon ball is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pokemon%20ball",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pokemon ball",
+  "addresses": {
+    "8453": "0x377b18175615240bc489132f6b0828ea58f86ca0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pokemon ball",
+    "sanitizedSymbol": "POKEMON_BALL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1276877",
+    "lockerAddress": "0x80639104B796448C5488b3470B722D6D4EfE2E7f"
+  },
+  "clankerInfo": null
+}

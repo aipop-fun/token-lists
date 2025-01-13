@@ -1,0 +1,22 @@
+{
+  "name": "WDOGE",
+  "symbol": "WDOGE",
+  "decimals": 18,
+  "description": "WDOGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WDOGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WDOGE",
+  "addresses": {
+    "8453": "0x1d714248d54b001679c4ae28087efde5a3ebb06d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WDOGE",
+    "sanitizedSymbol": "WDOGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0e2AeEAa52752E111FFA3609409Bc6bB55A87cE7",
+    "lpNftId": "1306788",
+    "lockerAddress": "0x7f49359B61260021e60745B6571154DC2fc685B4"
+  },
+  "clankerInfo": null
+}

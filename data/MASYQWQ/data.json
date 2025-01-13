@@ -1,0 +1,22 @@
+{
+  "name": "masyqwq",
+  "symbol": "masyqwq",
+  "decimals": 18,
+  "description": "masyqwq is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=masyqwq",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "masyqwq",
+  "addresses": {
+    "8453": "0x29f41714ebce0766a38e384f54f3a824faccb2cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "masyqwq",
+    "sanitizedSymbol": "MASYQWQ",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x953BF40D6e1Bb817aFDe0e88B41e84eefC52C4b4",
+    "lpNftId": "1281832",
+    "lockerAddress": "0x68F710b706374f7C2cb6dF3809b54DFA7aA3FDF1"
+  },
+  "clankerInfo": null
+}

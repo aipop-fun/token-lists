@@ -1,0 +1,22 @@
+{
+  "name": "VC",
+  "symbol": "VC",
+  "decimals": 18,
+  "description": "VC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VC",
+  "addresses": {
+    "8453": "0x286edd131d12b9b17a4842640db306b664d53a85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VC",
+    "sanitizedSymbol": "VC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3a0B21d02754D329B4a8f98b3f1fd90543222917",
+    "lpNftId": "1315065",
+    "lockerAddress": "0x5D066dD21330d2052b487077F423C5CC9F6964dc"
+  },
+  "clankerInfo": null
+}

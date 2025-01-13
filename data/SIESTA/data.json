@@ -1,0 +1,22 @@
+{
+  "name": "Siesta",
+  "symbol": "Siesta",
+  "decimals": 18,
+  "description": "Siesta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Siesta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Siesta",
+  "addresses": {
+    "8453": "0x3928e1e7ac449c6f8178fc16f275a2ff205ffeb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Siesta",
+    "sanitizedSymbol": "SIESTA",
+    "created_at": "2024-12-10T11:55:30.839182",
+    "deployer": "0xae8578d42511290a200a1A2d5958C9bB782d9bC8",
+    "lpNftId": "1400449",
+    "lockerAddress": "0xCFe41F665373857EB2B449669fC264f02Df747d5"
+  },
+  "clankerInfo": null
+}

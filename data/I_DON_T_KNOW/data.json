@@ -1,0 +1,22 @@
+{
+  "name": "I Don't Know",
+  "symbol": "I Don't Know",
+  "decimals": 18,
+  "description": "I Don't Know is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20Don't%20Know",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I Don't Know",
+  "addresses": {
+    "8453": "0x2326542a2e1a394baf1212151e7f76cb4cc97f1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I Don't Know",
+    "sanitizedSymbol": "I_DON_T_KNOW",
+    "created_at": "2024-12-10T05:44:39.87631",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1397126",
+    "lockerAddress": "0x306aAB27670CDAc029ed4298E510f9c86Aca43B9"
+  },
+  "clankerInfo": null
+}

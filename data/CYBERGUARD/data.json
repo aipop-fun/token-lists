@@ -1,0 +1,22 @@
+{
+  "name": "CyberGuard",
+  "symbol": "CyberGuard",
+  "decimals": 18,
+  "description": "CyberGuard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CyberGuard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CyberGuard",
+  "addresses": {
+    "8453": "0x3e86b29782b82e32a7344a94b7503a2b9a086894"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CyberGuard",
+    "sanitizedSymbol": "CYBERGUARD",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129062",
+    "lockerAddress": "0xeB31AE745f819A6c3A915f3E19F73a0bDb10386b"
+  },
+  "clankerInfo": null
+}

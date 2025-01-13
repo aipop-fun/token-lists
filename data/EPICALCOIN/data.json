@@ -1,0 +1,22 @@
+{
+  "name": "epicalcoin",
+  "symbol": "epicalcoin",
+  "decimals": 18,
+  "description": "epicalcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=epicalcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "epicalcoin",
+  "addresses": {
+    "8453": "0x0c850a17c315922f9981844515f7722a2658a62b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "epicalcoin",
+    "sanitizedSymbol": "EPICALCOIN",
+    "created_at": "2024-12-11T12:44:19.270476",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1418366",
+    "lockerAddress": "0xCB70072e0FDe5313Ce7D88b521519C309443439c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "based ADA",
+  "symbol": "based ADA",
+  "decimals": 18,
+  "description": "based ADA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=based%20ADA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "based ADA",
+  "addresses": {
+    "8453": "0x2f0c89155ea73b9cee0d43a6a68764dc043945e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "based ADA",
+    "sanitizedSymbol": "BASED_ADA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB34e1df2Be83618aABd9bA8C6277B11f6Ccd6b8b",
+    "lpNftId": "1282696",
+    "lockerAddress": "0xFcBe27A7d195ac08ba2e54936D2d2c981da5fA03"
+  },
+  "clankerInfo": null
+}

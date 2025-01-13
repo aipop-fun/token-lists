@@ -1,0 +1,22 @@
+{
+  "name": "just buy $2",
+  "symbol": "just buy $2",
+  "decimals": 18,
+  "description": "just buy $2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=just%20buy%20%242",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "just buy $2",
+  "addresses": {
+    "8453": "0x3be00d4e90919e9f71cd1227686de011cd7c3c9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "just buy $2",
+    "sanitizedSymbol": "JUST_BUY_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x126C92Fe02303028842e5f1e705B276de2593300",
+    "lpNftId": "1316763",
+    "lockerAddress": "0xccB3AAadac02eD6597582f7383B9F70B3b531b6b"
+  },
+  "clankerInfo": null
+}

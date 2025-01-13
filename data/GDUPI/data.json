@@ -1,0 +1,22 @@
+{
+  "name": "gdupi",
+  "symbol": "gdupi",
+  "decimals": 18,
+  "description": "gdupi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gdupi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gdupi",
+  "addresses": {
+    "8453": "0x0a87ea5b048bc8ae6ccb216e23e79b81f0269b15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gdupi",
+    "sanitizedSymbol": "GDUPI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1333618",
+    "lockerAddress": "0xeD309869510b53AB25Fb2e5652CfA0835bF1A113"
+  },
+  "clankerInfo": null
+}

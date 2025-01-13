@@ -1,0 +1,22 @@
+{
+  "name": "SnIp",
+  "symbol": "SnIp",
+  "decimals": 18,
+  "description": "SnIp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SnIp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SnIp",
+  "addresses": {
+    "8453": "0x27c425016014b4b01a9126b628b1631d605930c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SnIp",
+    "sanitizedSymbol": "SNIP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231888",
+    "lockerAddress": "0x421BA4b3C1102A0CB9c90Ddc7639AC3cE2513923"
+  },
+  "clankerInfo": null
+}

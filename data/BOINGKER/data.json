@@ -1,0 +1,22 @@
+{
+  "name": "boingker",
+  "symbol": "boingker",
+  "decimals": 18,
+  "description": "boingker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boingker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boingker",
+  "addresses": {
+    "8453": "0x266f87c9ccd125e795e93474114baaf5ef14e8ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boingker",
+    "sanitizedSymbol": "BOINGKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x478bda0645A39895Fd7C1C5cF2b7d3fd02cE114d",
+    "lpNftId": "1318744",
+    "lockerAddress": "0xf94654d74c2B3cfadc9644270f6fbAc88B52203c"
+  },
+  "clankerInfo": null
+}

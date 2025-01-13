@@ -1,0 +1,22 @@
+{
+  "name": "Existential Dread",
+  "symbol": "Existential Dread",
+  "decimals": 18,
+  "description": "Existential Dread is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Existential%20Dread",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Existential Dread",
+  "addresses": {
+    "8453": "0x41170c89524cc56a14ab7629da47396cc5f6f2e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Existential Dread",
+    "sanitizedSymbol": "EXISTENTIAL_DREAD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xFBDF556EDeD78C467f58Be91d6d56F6eaFb16DC1",
+    "lpNftId": "1353827",
+    "lockerAddress": "0xA65B742A6621eBd461DaDA930670054D048fcAaC"
+  },
+  "clankerInfo": null
+}

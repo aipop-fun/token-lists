@@ -1,0 +1,22 @@
+{
+  "name": "Victory",
+  "symbol": "Victory",
+  "decimals": 18,
+  "description": "Victory is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Victory",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Victory",
+  "addresses": {
+    "8453": "0x3d1219eeb7f8bdb4a6d0d1206eb44b04f187df6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Victory",
+    "sanitizedSymbol": "VICTORY_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230536",
+    "lockerAddress": "0x221232a57F50DA52334d36837b36665155327990"
+  },
+  "clankerInfo": null
+}

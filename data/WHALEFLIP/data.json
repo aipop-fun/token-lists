@@ -1,0 +1,22 @@
+{
+  "name": "WHALEFLIP",
+  "symbol": "WHALEFLIP",
+  "decimals": 18,
+  "description": "WHALEFLIP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WHALEFLIP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WHALEFLIP",
+  "addresses": {
+    "8453": "0x3d1240b26e57222e82d3cfe767a3e1ae52558775"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WHALEFLIP",
+    "sanitizedSymbol": "WHALEFLIP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128545",
+    "lockerAddress": "0xAe4753aE07EAB174a7c795c5488089B5b452Ac71"
+  },
+  "clankerInfo": null
+}

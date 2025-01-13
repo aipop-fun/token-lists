@@ -1,0 +1,22 @@
+{
+  "name": "Italik",
+  "symbol": "Italik",
+  "decimals": 18,
+  "description": "Italik is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Italik",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Italik",
+  "addresses": {
+    "8453": "0x14ab64b69fef9b52d44e4c5b8b353307ca3160e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Italik",
+    "sanitizedSymbol": "ITALIK_1",
+    "created_at": "2024-12-12T12:03:36.036577",
+    "deployer": "0x658B13b773b0ceD400eC57cf7C03288d8Aa13805",
+    "lpNftId": "1433815",
+    "lockerAddress": "0xC227AAD96a38A56884Df6103a01B396CB42308D2"
+  },
+  "clankerInfo": null
+}

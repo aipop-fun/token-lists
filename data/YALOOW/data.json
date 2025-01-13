@@ -1,0 +1,22 @@
+{
+  "name": "Yaloow",
+  "symbol": "Yaloow",
+  "decimals": 18,
+  "description": "Yaloow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yaloow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yaloow",
+  "addresses": {
+    "8453": "0x3ce9cdd171c6e5bf73c3a885838a851bf44f9b05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yaloow",
+    "sanitizedSymbol": "YALOOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1196107",
+    "lockerAddress": "0x003cD027b3B5B2364cf071581B1CF40aA1957E36"
+  },
+  "clankerInfo": null
+}

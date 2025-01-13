@@ -1,0 +1,22 @@
+{
+  "name": "Lil Cats",
+  "symbol": "Lil Cats",
+  "decimals": 18,
+  "description": "Lil Cats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lil%20Cats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lil Cats",
+  "addresses": {
+    "8453": "0x12190770eb242255500d30e69ece4338d072d155"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lil Cats",
+    "sanitizedSymbol": "LIL_CATS",
+    "created_at": "2024-12-11T02:44:33.17919",
+    "deployer": "0xA8B3b9cEAF20Da5479e72e98869ae249B420F9F9",
+    "lpNftId": "1411094",
+    "lockerAddress": "0x535373A5F348A2623Ee980ec1A749694670aBB25"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Diogenes",
+  "symbol": "Diogenes",
+  "decimals": 18,
+  "description": "Diogenes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diogenes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diogenes",
+  "addresses": {
+    "8453": "0x04bd266f7b09ddc1e993651caa15bec7917a789d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diogenes",
+    "sanitizedSymbol": "DIOGENES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236951",
+    "lockerAddress": "0xa50F7394C7f39BbB0ed390117E9954ca80A3f9bd"
+  },
+  "clankerInfo": null
+}

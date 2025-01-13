@@ -1,0 +1,22 @@
+{
+  "name": "DiversityUnity",
+  "symbol": "DiversityUnity",
+  "decimals": 18,
+  "description": "DiversityUnity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DiversityUnity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DiversityUnity",
+  "addresses": {
+    "8453": "0x07652ed96279fef7c1d13b5d025e365820311c16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DiversityUnity",
+    "sanitizedSymbol": "DIVERSITYUNITY",
+    "created_at": "2024-12-12T14:46:51.237886",
+    "deployer": "0xC0338cC8307B2309c2A7f5bC020BB5477A629e6C",
+    "lpNftId": "1436261",
+    "lockerAddress": "0x6ee77e48A6d2ff5fb29d8054Fbf211081fC18E52"
+  },
+  "clankerInfo": null
+}

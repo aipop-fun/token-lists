@@ -1,0 +1,22 @@
+{
+  "name": "Mysterious Stranger",
+  "symbol": "Mysterious Stranger",
+  "decimals": 18,
+  "description": "Mysterious Stranger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mysterious%20Stranger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mysterious Stranger",
+  "addresses": {
+    "8453": "0x1ca219fcc7168c46a955ddaaf2422ac97d7dcb32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mysterious Stranger",
+    "sanitizedSymbol": "MYSTERIOUS_STRANGER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x17dAF278f0d4e406B435EA74387f52D0b18C5c25",
+    "lpNftId": "1327154",
+    "lockerAddress": "0x0a6576F5D0F336569b0fCbE3d46a3B5E2f293Fb7"
+  },
+  "clankerInfo": null
+}

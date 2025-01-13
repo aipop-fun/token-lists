@@ -1,0 +1,22 @@
+{
+  "name": "DEPE AI",
+  "symbol": "DEPE AI",
+  "decimals": 18,
+  "description": "DEPE AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEPE%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEPE AI",
+  "addresses": {
+    "8453": "0x07ca9fbe28fa133997e696a40f034be7351aac5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEPE AI",
+    "sanitizedSymbol": "DEPE_AI",
+    "created_at": "2024-12-12T22:06:36.002952",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1444359",
+    "lockerAddress": "0x27B0663910A79f2e2D9A6Ef68Fa9C6422fEFcB2A"
+  },
+  "clankerInfo": null
+}

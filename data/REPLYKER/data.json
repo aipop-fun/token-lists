@@ -1,0 +1,22 @@
+{
+  "name": "Replyker",
+  "symbol": "Replyker",
+  "decimals": 18,
+  "description": "Replyker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Replyker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Replyker",
+  "addresses": {
+    "8453": "0x0a332e0858c178fee61a9e5104e289e31b887bef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Replyker",
+    "sanitizedSymbol": "REPLYKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3937A5A5f2DC66f726ec9a57b70BC01681203aD7",
+    "lpNftId": "1327568",
+    "lockerAddress": "0x001201247138C0835F7330FAB1fc83D81E2fCb62"
+  },
+  "clankerInfo": null
+}

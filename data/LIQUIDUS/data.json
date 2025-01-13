@@ -1,0 +1,22 @@
+{
+  "name": "Liquidus",
+  "symbol": "Liquidus",
+  "decimals": 18,
+  "description": "Liquidus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liquidus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liquidus",
+  "addresses": {
+    "8453": "0x127ce793bb8fa829cbd4c4389338f965094ae405"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liquidus",
+    "sanitizedSymbol": "LIQUIDUS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeB7122BEB895f31aA83871cCd1219306d9e302Be",
+    "lpNftId": "1323102",
+    "lockerAddress": "0x46aE6748c241849cd58901D2018D32Ee9820dB70"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Systemtribe",
+  "symbol": "Systemtribe",
+  "decimals": 18,
+  "description": "Systemtribe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Systemtribe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Systemtribe",
+  "addresses": {
+    "8453": "0x399efba3b71f74aa9f7f5233ac81ab8d3aa97a0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Systemtribe",
+    "sanitizedSymbol": "SYSTEMTRIBE",
+    "created_at": "2024-12-11T06:24:09.178296",
+    "deployer": "0x58F15db990acb06A255DBf9Cb78b4f71C5254293",
+    "lpNftId": "1413865",
+    "lockerAddress": "0x30C392E21E9C816A6CC87Fb1e70030C0D1360EBf"
+  },
+  "clankerInfo": null
+}

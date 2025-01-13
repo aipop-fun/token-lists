@@ -1,0 +1,22 @@
+{
+  "name": "Malboro",
+  "symbol": "Malboro",
+  "decimals": 18,
+  "description": "Malboro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Malboro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Malboro",
+  "addresses": {
+    "8453": "0x10b203a39ef9d2a60cfee72070e091340cbed3cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Malboro",
+    "sanitizedSymbol": "MALBORO_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9848A20Bb70b1360b48f8131F1FC40aA8Cc19DD9",
+    "lpNftId": "1321742",
+    "lockerAddress": "0xa283a8cC0f5c9Cbc8a16917817dA60851C626604"
+  },
+  "clankerInfo": null
+}

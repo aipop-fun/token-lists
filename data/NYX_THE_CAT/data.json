@@ -1,0 +1,22 @@
+{
+  "name": "Nyx the Cat",
+  "symbol": "Nyx the Cat",
+  "decimals": 18,
+  "description": "Nyx the Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nyx%20the%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nyx the Cat",
+  "addresses": {
+    "8453": "0x35ddbd14651f3f0bb9f6f24a8ef00f84764fbd22"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nyx the Cat",
+    "sanitizedSymbol": "NYX_THE_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198892",
+    "lockerAddress": "0xc2C30037878Ecd79312283DF2547EEC609326BB7"
+  },
+  "clankerInfo": null
+}

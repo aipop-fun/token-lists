@@ -1,0 +1,22 @@
+{
+  "name": "ZEEKR",
+  "symbol": "ZEEKR",
+  "decimals": 18,
+  "description": "ZEEKR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ZEEKR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ZEEKR",
+  "addresses": {
+    "8453": "0x20c5cb3d7454cf30dded361091fdb4fb03a474c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ZEEKR",
+    "sanitizedSymbol": "ZEEKR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x072067D2DF7689D9a191944229DC24c665C056f2",
+    "lpNftId": "1313352",
+    "lockerAddress": "0x0Fc88a21A5Ec41e3433a037d1267249305D71B5D"
+  },
+  "clankerInfo": null
+}

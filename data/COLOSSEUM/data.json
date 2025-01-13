@@ -1,0 +1,22 @@
+{
+  "name": "Colosseum",
+  "symbol": "Colosseum",
+  "decimals": 18,
+  "description": "Colosseum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Colosseum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Colosseum",
+  "addresses": {
+    "8453": "0x13e1a052d48e1de818db788e831f156f34e4cfba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Colosseum",
+    "sanitizedSymbol": "COLOSSEUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x19008e616714d8Df0b69f23dB9aD779251923B84",
+    "lpNftId": "1372768",
+    "lockerAddress": "0xDCb1dB20125a1A39178F9a6E217aCA845c3508eD"
+  },
+  "clankerInfo": null
+}

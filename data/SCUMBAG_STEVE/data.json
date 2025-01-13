@@ -1,0 +1,22 @@
+{
+  "name": "Scumbag Steve",
+  "symbol": "Scumbag Steve",
+  "decimals": 18,
+  "description": "Scumbag Steve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Scumbag%20Steve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Scumbag Steve",
+  "addresses": {
+    "8453": "0x26d330f22a09876291c12e0444ae450746fe1d81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Scumbag Steve",
+    "sanitizedSymbol": "SCUMBAG_STEVE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x496505251A17845A2714A0D89e91475Dc1D79b30",
+    "lpNftId": "1319670",
+    "lockerAddress": "0x6f61F8226738a3652663f8452cb2D82f3a9AdD40"
+  },
+  "clankerInfo": null
+}

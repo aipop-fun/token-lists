@@ -1,0 +1,22 @@
+{
+  "name": "Griddy",
+  "symbol": "Griddy",
+  "decimals": 18,
+  "description": "Griddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Griddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Griddy",
+  "addresses": {
+    "8453": "0x0efaa19d4eaf5801b3f17e0af02a7e50c2b94da9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Griddy",
+    "sanitizedSymbol": "GRIDDY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205948",
+    "lockerAddress": "0xE0E7f8A07eba2e1e3d900094a52CB45296DBae52"
+  },
+  "clankerInfo": null
+}

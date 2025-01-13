@@ -1,0 +1,22 @@
+{
+  "name": "Horse",
+  "symbol": "Horse",
+  "decimals": 18,
+  "description": "Horse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Horse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Horse",
+  "addresses": {
+    "8453": "0x317081ce39c792230dc1d4a56312768b28fb9e0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Horse",
+    "sanitizedSymbol": "HORSE",
+    "created_at": "2024-12-10T14:21:20.907145",
+    "deployer": "0xd65A1Cf42967C404B8c2f294a85843E0b5D79E54",
+    "lpNftId": "1401760",
+    "lockerAddress": "0xC1a0d21084063DF9EbCf4D14611E8aDC42a8085c"
+  },
+  "clankerInfo": null
+}

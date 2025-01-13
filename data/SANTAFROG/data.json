@@ -1,0 +1,22 @@
+{
+  "name": "SantaFrog",
+  "symbol": "SantaFrog",
+  "decimals": 18,
+  "description": "SantaFrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaFrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaFrog",
+  "addresses": {
+    "8453": "0x303093f71b73a21c462471ca117c75674d6be1d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaFrog",
+    "sanitizedSymbol": "SANTAFROG",
+    "created_at": "2024-12-09T20:42:31.873429",
+    "deployer": "0x9250fc79B14D7A111bB7E66291b53F23CC211b33",
+    "lpNftId": "1391893",
+    "lockerAddress": "0x4927Cb70cC121c649bd49d371f46947286Dae60A"
+  },
+  "clankerInfo": null
+}

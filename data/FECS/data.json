@@ -1,0 +1,22 @@
+{
+  "name": "fecs",
+  "symbol": "fecs",
+  "decimals": 18,
+  "description": "fecs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fecs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fecs",
+  "addresses": {
+    "8453": "0x2735e1594fb1eb7425f9c6822746668539f685bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fecs",
+    "sanitizedSymbol": "FECS",
+    "created_at": "2024-12-12T16:22:31.345344",
+    "deployer": "0xb99E6E6f5b0965493fca702b7575877A0102814C",
+    "lpNftId": "1438457",
+    "lockerAddress": "0x7598cF22802dDfF47d1cbd0359428E93e27012A3"
+  },
+  "clankerInfo": null
+}

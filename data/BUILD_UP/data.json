@@ -1,0 +1,22 @@
+{
+  "name": "BUILD UP",
+  "symbol": "BUILD UP",
+  "decimals": 18,
+  "description": "BUILD UP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUILD%20UP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUILD UP",
+  "addresses": {
+    "8453": "0x30087861cd11e1d363a37cb08c3d15ffbcb2f37a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUILD UP",
+    "sanitizedSymbol": "BUILD_UP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8532DDe31dC62E65ba539F42D4B60B4b0159f354",
+    "lpNftId": "1319113",
+    "lockerAddress": "0x2791E0E5B2B6925795590F961d40F2d5de11E08e"
+  },
+  "clankerInfo": null
+}

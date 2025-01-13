@@ -1,0 +1,22 @@
+{
+  "name": "Red Phill",
+  "symbol": "Red Phill",
+  "decimals": 18,
+  "description": "Red Phill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Phill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Phill",
+  "addresses": {
+    "8453": "0x263de4d23fd27b4091872f0c2d5071e316025b82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Phill",
+    "sanitizedSymbol": "RED_PHILL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0051b228b8052ffB022b0456DFf0Abb9573BA6B7",
+    "lpNftId": "1316559",
+    "lockerAddress": "0x2b423230c79C2f54dAD0A06D15f25d22A3C1ead2"
+  },
+  "clankerInfo": null
+}

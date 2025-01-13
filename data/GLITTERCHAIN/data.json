@@ -1,0 +1,22 @@
+{
+  "name": "GlitterChain",
+  "symbol": "GlitterChain",
+  "decimals": 18,
+  "description": "GlitterChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GlitterChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GlitterChain",
+  "addresses": {
+    "8453": "0x2bf73dd18e52585351474bfef9abdb093afa8079"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GlitterChain",
+    "sanitizedSymbol": "GLITTERCHAIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1321120",
+    "lockerAddress": "0x557770065805bC6c279e092EF2a9CeA36A34AB3b"
+  },
+  "clankerInfo": null
+}

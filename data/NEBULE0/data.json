@@ -1,0 +1,22 @@
+{
+  "name": "Nebule0",
+  "symbol": "Nebule0",
+  "decimals": 18,
+  "description": "Nebule0 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nebule0",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nebule0",
+  "addresses": {
+    "8453": "0x2210eefd7ec3aecda1d7d05bc8145fad276e17fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nebule0",
+    "sanitizedSymbol": "NEBULE0",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234392",
+    "lockerAddress": "0xC748805155F82DDA60Ea3D16fbaAd942cF384384"
+  },
+  "clankerInfo": null
+}

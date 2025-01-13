@@ -1,0 +1,22 @@
+{
+  "name": "TOGA",
+  "symbol": "TOGA",
+  "decimals": 18,
+  "description": "TOGA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOGA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOGA",
+  "addresses": {
+    "8453": "0x20f13ccd9b503c426f8af16e98574265ed8531c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOGA",
+    "sanitizedSymbol": "TOGA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x89c93b0A105A065F9CC11Bd76079999999a77B99",
+    "lpNftId": "1123936",
+    "lockerAddress": "0x3c93be6F4649dCA9A8Aefd3f0A24Bc74B2a00d19"
+  },
+  "clankerInfo": null
+}

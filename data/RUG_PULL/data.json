@@ -1,0 +1,22 @@
+{
+  "name": "rug pull",
+  "symbol": "rug pull",
+  "decimals": 18,
+  "description": "rug pull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=rug%20pull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "rug pull",
+  "addresses": {
+    "8453": "0x028aac31e2c3aed2be419a5989e2de0b8a90ef58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "rug pull",
+    "sanitizedSymbol": "RUG_PULL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119756",
+    "lockerAddress": "0xC59EaAba6E5BF5f935aDfb5b68eF3A03A1613544"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BladeBot",
+  "symbol": "BladeBot",
+  "decimals": 18,
+  "description": "BladeBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BladeBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BladeBot",
+  "addresses": {
+    "8453": "0x10fc70baee7285c10f24a44e3c45fb76ec75ac35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BladeBot",
+    "sanitizedSymbol": "BLADEBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129064",
+    "lockerAddress": "0x2DB813bb8CddFd94C59FEcB159950990aaA6993f"
+  },
+  "clankerInfo": null
+}

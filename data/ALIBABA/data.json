@@ -1,0 +1,22 @@
+{
+  "name": "ALIBABA",
+  "symbol": "ALIBABA",
+  "decimals": 18,
+  "description": "ALIBABA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALIBABA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALIBABA",
+  "addresses": {
+    "8453": "0x1712bdd9ed95c95a9da555944635394a4adb4f83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALIBABA",
+    "sanitizedSymbol": "ALIBABA",
+    "created_at": "2024-12-09T15:00:23.939135",
+    "deployer": "0xeCA900CFfcbAEF049673Dcf4F431F50792eb3acC",
+    "lpNftId": "1388256",
+    "lockerAddress": "0x1528F4d9b3723A38cd805DA12fB637cE7A53D009"
+  },
+  "clankerInfo": null
+}

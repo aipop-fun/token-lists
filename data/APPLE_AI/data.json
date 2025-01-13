@@ -1,0 +1,22 @@
+{
+  "name": "Apple Ai",
+  "symbol": "Apple Ai",
+  "decimals": 18,
+  "description": "Apple Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Apple%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Apple Ai",
+  "addresses": {
+    "8453": "0x07eb37f32812de0ad8325659cdb1e2583d0fc0bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Apple Ai",
+    "sanitizedSymbol": "APPLE_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1318887",
+    "lockerAddress": "0x7Fc09240eb26aa47b8cC9a4b753A28B7321D8CA5"
+  },
+  "clankerInfo": null
+}

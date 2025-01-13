@@ -1,0 +1,22 @@
+{
+  "name": "Prism",
+  "symbol": "Prism",
+  "decimals": 18,
+  "description": "Prism is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Prism",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Prism",
+  "addresses": {
+    "8453": "0x10c9b5f13d9a44077c2139f064f60f7bf9b219a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Prism",
+    "sanitizedSymbol": "PRISM_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226313",
+    "lockerAddress": "0x55F06744eeD865EC764947038Ce8C2b11e45156B"
+  },
+  "clankerInfo": null
+}

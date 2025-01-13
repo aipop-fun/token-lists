@@ -1,0 +1,22 @@
+{
+  "name": "DegenWon",
+  "symbol": "DegenWon",
+  "decimals": 18,
+  "description": "DegenWon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenWon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenWon",
+  "addresses": {
+    "8453": "0x01234ff195f9fce98f086871727216efdf439781"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenWon",
+    "sanitizedSymbol": "DEGENWON",
+    "created_at": "2024-12-11T06:37:03.044018",
+    "deployer": "0x557c4816d619E527E78f00262c5EA784065e7570",
+    "lpNftId": "1413925",
+    "lockerAddress": "0xB0C5bd0CdE46BA17e81d90C21F863d8b2Caa8c36"
+  },
+  "clankerInfo": null
+}

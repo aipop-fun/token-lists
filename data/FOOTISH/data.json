@@ -1,0 +1,22 @@
+{
+  "name": "Footish",
+  "symbol": "Footish",
+  "decimals": 18,
+  "description": "Footish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Footish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Footish",
+  "addresses": {
+    "8453": "0x12be126f55c557eac96285b78d4f83a37ecfa517"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Footish",
+    "sanitizedSymbol": "FOOTISH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129242",
+    "lockerAddress": "0x6284F104680Ba4Ef4735f3BE44FDfB8728Dbe60E"
+  },
+  "clankerInfo": null
+}

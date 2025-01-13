@@ -1,0 +1,22 @@
+{
+  "name": "baarking",
+  "symbol": "baarking",
+  "decimals": 18,
+  "description": "baarking is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baarking",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baarking",
+  "addresses": {
+    "8453": "0x052a79fb5ce47f3cbd4c9d69ecafa734892c4c6d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baarking",
+    "sanitizedSymbol": "BAARKING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAff3d8f4525E6A334BA8ec9cC9A1692aA61EA03f",
+    "lpNftId": "1320797",
+    "lockerAddress": "0x509Af693b147Ef2bA3B57DF0fA40573f691f2E63"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Dolos",
+  "symbol": "Dolos",
+  "decimals": 18,
+  "description": "Dolos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dolos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dolos",
+  "addresses": {
+    "8453": "0x059ecefcc100e3af23f4ddb7753b419e819cd349"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dolos",
+    "sanitizedSymbol": "DOLOS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xadA21FeD02B955E4C7baaB6eEb9a1BeA16fa34AC",
+    "lpNftId": "1252987",
+    "lockerAddress": "0x495ae554d494B8F740a8a70dC16D22a0C2bD0e2b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Oddo",
+  "symbol": "Oddo",
+  "decimals": 18,
+  "description": "Oddo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Oddo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Oddo",
+  "addresses": {
+    "8453": "0x1b24bd8cf44f9d353cad4da9ccc2c706bae99b5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Oddo",
+    "sanitizedSymbol": "ODDO",
+    "created_at": "2024-12-10T07:55:33.388959",
+    "deployer": "0x8D7FF441241b2029E45b30F1E8024d0F3fbd48A0",
+    "lpNftId": "1398395",
+    "lockerAddress": "0xA5D3E732E31396FD8167860132ac12af2a4e61c6"
+  },
+  "clankerInfo": null
+}

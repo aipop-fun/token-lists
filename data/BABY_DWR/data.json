@@ -1,0 +1,22 @@
+{
+  "name": "BABY DWR",
+  "symbol": "BABY DWR",
+  "decimals": 18,
+  "description": "BABY DWR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20DWR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY DWR",
+  "addresses": {
+    "8453": "0x27241513fd4f588ccaddade127b415cea65a57ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY DWR",
+    "sanitizedSymbol": "BABY_DWR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1329382",
+    "lockerAddress": "0xA096B7295F5883858C7f28Ab98917926cb4Efe07"
+  },
+  "clankerInfo": null
+}

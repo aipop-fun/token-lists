@@ -1,0 +1,22 @@
+{
+  "name": "LowBarrier",
+  "symbol": "LowBarrier",
+  "decimals": 18,
+  "description": "LowBarrier is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LowBarrier",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LowBarrier",
+  "addresses": {
+    "8453": "0x147dc68709f920ece1d9646c5f167d9f3336c2cd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LowBarrier",
+    "sanitizedSymbol": "LOWBARRIER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEB7f37Af39245C27580bfcaecdBDAEdb612D9e9E",
+    "lpNftId": "1362119",
+    "lockerAddress": "0xD36f2876979bA20Bc2Ccba025128205d722F2101"
+  },
+  "clankerInfo": null
+}

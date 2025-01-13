@@ -1,0 +1,22 @@
+{
+  "name": "x still owes you money",
+  "symbol": "x still owes you money",
+  "decimals": 18,
+  "description": "x still owes you money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=x%20still%20owes%20you%20money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "x still owes you money",
+  "addresses": {
+    "8453": "0x04e3231c2005d5b902c988fa202bd1281d0fb06f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "x still owes you money",
+    "sanitizedSymbol": "X_STILL_OWES_YOU_MONEY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1353060",
+    "lockerAddress": "0xa411E485313700979212A82CD1A1775132F82bA3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Homer Loves Flanders",
+  "symbol": "Homer Loves Flanders",
+  "decimals": 18,
+  "description": "Homer Loves Flanders is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Homer%20Loves%20Flanders",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Homer Loves Flanders",
+  "addresses": {
+    "8453": "0x3ba0ce59853633d60a1bd3f5d3eb688b6660c299"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Homer Loves Flanders",
+    "sanitizedSymbol": "HOMER_LOVES_FLANDERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x003E72D0eCb10DF028aB970015Db5288881428Da",
+    "lpNftId": "1284401",
+    "lockerAddress": "0x7605b9dE44B2e828dd8dE2859351d37425c8301C"
+  },
+  "clankerInfo": null
+}

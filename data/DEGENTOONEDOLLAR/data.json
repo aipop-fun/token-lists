@@ -1,0 +1,22 @@
+{
+  "name": "DegenToOneDollar",
+  "symbol": "DegenToOneDollar",
+  "decimals": 18,
+  "description": "DegenToOneDollar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenToOneDollar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenToOneDollar",
+  "addresses": {
+    "8453": "0x3e2a6ea9a40e2cd81e9b06d702fa0c49ea2f0d4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenToOneDollar",
+    "sanitizedSymbol": "DEGENTOONEDOLLAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210606",
+    "lockerAddress": "0xbba93A09f99a7EF70c6f48e9B0449eCC4297D73E"
+  },
+  "clankerInfo": null
+}

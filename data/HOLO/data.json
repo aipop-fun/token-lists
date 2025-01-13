@@ -1,0 +1,22 @@
+{
+  "name": "Holo",
+  "symbol": "Holo",
+  "decimals": 18,
+  "description": "Holo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Holo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Holo",
+  "addresses": {
+    "8453": "0x20c9e6435a4dcbc2575a010aaf228c7d4bb459a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Holo",
+    "sanitizedSymbol": "HOLO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218970",
+    "lockerAddress": "0x59B84dEdcbd967e53890cAef995Ee2Fa5013024A"
+  },
+  "clankerInfo": null
+}

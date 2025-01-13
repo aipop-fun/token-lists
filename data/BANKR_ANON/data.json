@@ -1,0 +1,22 @@
+{
+  "name": "Bankr Anon",
+  "symbol": "Bankr Anon",
+  "decimals": 18,
+  "description": "Bankr Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bankr%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bankr Anon",
+  "addresses": {
+    "8453": "0x14bb75e51b1bff0ba8412ea2dac58bc0ba09fda2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bankr Anon",
+    "sanitizedSymbol": "BANKR_ANON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x626bfbac7135B235669f8Dbe8BD9Ce2B40991073",
+    "lpNftId": "1333181",
+    "lockerAddress": "0x67FcFf140EBb1CFf9a1B98077382b6F3C1dEDa03"
+  },
+  "clankerInfo": null
+}

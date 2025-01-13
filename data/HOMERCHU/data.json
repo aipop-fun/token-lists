@@ -1,0 +1,22 @@
+{
+  "name": "HOMERCHU",
+  "symbol": "HOMERCHU",
+  "decimals": 18,
+  "description": "HOMERCHU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOMERCHU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOMERCHU",
+  "addresses": {
+    "8453": "0x1817f3a96d4723e0bccc1ec1794f54b20c46c1b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOMERCHU",
+    "sanitizedSymbol": "HOMERCHU",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2439EE8e567c2aDe0b481Cad403Ff1F3ae65a73a",
+    "lpNftId": "1277516",
+    "lockerAddress": "0xCc40D62F81505E505211d52F2Fe4C744Ef1977D8"
+  },
+  "clankerInfo": null
+}

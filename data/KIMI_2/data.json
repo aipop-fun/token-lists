@@ -1,0 +1,22 @@
+{
+  "name": "KIMI",
+  "symbol": "KIMI",
+  "decimals": 18,
+  "description": "KIMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KIMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KIMI",
+  "addresses": {
+    "8453": "0x2d781fe5887bfdeb07ed0dc03e8e4c70f2588944"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KIMI",
+    "sanitizedSymbol": "KIMI_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x80910E11cD00672003EbaCdba8CdED7D47F733F7",
+    "lpNftId": "1320568",
+    "lockerAddress": "0xC98DAC364Dd68E863837D9895CC75d720674F07b"
+  },
+  "clankerInfo": null
+}

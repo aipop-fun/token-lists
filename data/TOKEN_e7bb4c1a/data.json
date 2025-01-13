@@ -1,0 +1,22 @@
+{
+  "name": "武财神",
+  "symbol": "武财神",
+  "decimals": 18,
+  "description": "武财神 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E6%AD%A6%E8%B4%A2%E7%A5%9E",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "武财神",
+  "addresses": {
+    "8453": "0x30a6f6617c2ca43667622a99878741ff427cf089"
+  },
+  "tokenInfo": {
+    "originalSymbol": "武财神",
+    "sanitizedSymbol": "TOKEN_e7bb4c1a",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0e7683B316012C225B0F052e4585C78c42C01a74",
+    "lpNftId": "1253085",
+    "lockerAddress": "0xC06578e82aF09b0feF13272517cd2E6f364c25FB"
+  },
+  "clankerInfo": null
+}

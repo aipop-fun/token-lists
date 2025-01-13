@@ -1,0 +1,22 @@
+{
+  "name": "Jupiter chain",
+  "symbol": "Jupiter chain",
+  "decimals": 18,
+  "description": "Jupiter chain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jupiter%20chain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jupiter chain",
+  "addresses": {
+    "8453": "0x3e5f042b0e5240387a4853a6fd433d89e67268fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jupiter chain",
+    "sanitizedSymbol": "JUPITER_CHAIN",
+    "created_at": "2024-12-12T16:56:08.720004",
+    "deployer": "0xa81c4D9526D38876bEa6123870d425291A7a5e6C",
+    "lpNftId": "1438968",
+    "lockerAddress": "0xdf1EC04Ce25BeDb1Bbc48BC8AB4066dbea9C7091"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@clanker x5000",
+  "symbol": "@clanker x5000",
+  "decimals": 18,
+  "description": "@clanker x5000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40clanker%20x5000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@clanker x5000",
+  "addresses": {
+    "8453": "0x3145c6d52dd9d7b91e5e93f7694cd14fd1db8c50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@clanker x5000",
+    "sanitizedSymbol": "CLANKER_X5000",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5227e065EE34136365F62E2512F7e9d7850017A2",
+    "lpNftId": "1264111",
+    "lockerAddress": "0xa6e41dCF3349b337E4Ab3C7De64A4A8d9293005E"
+  },
+  "clankerInfo": null
+}

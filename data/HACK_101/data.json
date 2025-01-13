@@ -1,0 +1,22 @@
+{
+  "name": "HACK 101",
+  "symbol": "HACK 101",
+  "decimals": 18,
+  "description": "HACK 101 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HACK%20101",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HACK 101",
+  "addresses": {
+    "8453": "0x20779cce1ecf24f1087ab60fa4b06189d59638f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HACK 101",
+    "sanitizedSymbol": "HACK_101",
+    "created_at": "2024-12-10T15:45:25.566333",
+    "deployer": "0xF88fA5DD818A5eb84BACB370e844688215f9F607",
+    "lpNftId": "1402943",
+    "lockerAddress": "0xe384fF31B5105aB15B7fc081B1A1D8469e595eac"
+  },
+  "clankerInfo": null
+}

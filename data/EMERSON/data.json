@@ -1,0 +1,22 @@
+{
+  "name": "Emerson",
+  "symbol": "Emerson",
+  "decimals": 18,
+  "description": "Emerson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Emerson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Emerson",
+  "addresses": {
+    "8453": "0x0933b7e9787783e7382dc35de76c7a9dc82c9c7f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Emerson",
+    "sanitizedSymbol": "EMERSON",
+    "created_at": "2024-12-12T21:36:20.815506",
+    "deployer": "0xe2525c510fedfE17BfC079EA8393e71E6de7CD86",
+    "lpNftId": "1443907",
+    "lockerAddress": "0xE5Be2cC7b81cD989eab813AcE99aD8de43EcD3E3"
+  },
+  "clankerInfo": null
+}

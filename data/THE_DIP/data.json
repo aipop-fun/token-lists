@@ -1,0 +1,22 @@
+{
+  "name": "the dip",
+  "symbol": "the dip",
+  "decimals": 18,
+  "description": "the dip is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=the%20dip",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "the dip",
+  "addresses": {
+    "8453": "0x2c44396054f321e9bf83e75fe9bc57dc791b9fbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "the dip",
+    "sanitizedSymbol": "THE_DIP",
+    "created_at": "2024-12-10T22:26:03.658365",
+    "deployer": "0xbAba775A0400A5E442335CEaa4820eDb1DeD8f73",
+    "lpNftId": "1407952",
+    "lockerAddress": "0x8474C283FF02f8a84EfE78a17513eC4Ab3EaD85f"
+  },
+  "clankerInfo": null
+}

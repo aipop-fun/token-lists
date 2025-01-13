@@ -1,0 +1,22 @@
+{
+  "name": "FARCATS",
+  "symbol": "FARCATS",
+  "decimals": 18,
+  "description": "FARCATS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCATS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCATS",
+  "addresses": {
+    "8453": "0x3f068b19e5c79e68c6f9788cc8dd09b60d3edce4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCATS",
+    "sanitizedSymbol": "FARCATS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x647B7881b8A63FD8C6AAb5b0244b9067223d0e12",
+    "lpNftId": "1320975",
+    "lockerAddress": "0xa030C6d15f26C30b635e0F002885c3Fdce4c8700"
+  },
+  "clankerInfo": null
+}

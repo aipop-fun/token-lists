@@ -1,0 +1,22 @@
+{
+  "name": "STREW CLANKER",
+  "symbol": "STREW CLANKER",
+  "decimals": 18,
+  "description": "STREW CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STREW%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STREW CLANKER",
+  "addresses": {
+    "8453": "0x0817d41485981c60b80ce619ab5d9284de8027f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STREW CLANKER",
+    "sanitizedSymbol": "STREW_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8ddE615413F33eF5b2c5b9Dd9ebeE15E1279A7C6",
+    "lpNftId": "1309060",
+    "lockerAddress": "0xF1B8299Df93b99d8ea22170b79333C3208A5834C"
+  },
+  "clankerInfo": null
+}

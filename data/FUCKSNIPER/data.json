@@ -1,0 +1,22 @@
+{
+  "name": "FUCKsniper",
+  "symbol": "FUCKsniper",
+  "decimals": 18,
+  "description": "FUCKsniper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUCKsniper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUCKsniper",
+  "addresses": {
+    "8453": "0x1df8ee8f3790a329c1aef3b733174324395e5b4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUCKsniper",
+    "sanitizedSymbol": "FUCKSNIPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159852",
+    "lockerAddress": "0x51f95E886EEE6b7c57344Aff81874346747C21AF"
+  },
+  "clankerInfo": null
+}

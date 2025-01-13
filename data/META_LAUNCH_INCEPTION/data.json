@@ -1,0 +1,22 @@
+{
+  "name": "Meta Launch Inception",
+  "symbol": "Meta Launch Inception",
+  "decimals": 18,
+  "description": "Meta Launch Inception is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meta%20Launch%20Inception",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meta Launch Inception",
+  "addresses": {
+    "8453": "0x2c12a9ac2f7dfebe466a7f08e7721e75362f0b83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meta Launch Inception",
+    "sanitizedSymbol": "META_LAUNCH_INCEPTION",
+    "created_at": "2024-12-10T16:12:17.714972",
+    "deployer": "0xF88fA5DD818A5eb84BACB370e844688215f9F607",
+    "lpNftId": "1403592",
+    "lockerAddress": "0x8d4cda54ebeA2ab16B730Fe9037813929077e7B8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ugly",
+  "symbol": "Ugly",
+  "decimals": 18,
+  "description": "Ugly is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ugly",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ugly",
+  "addresses": {
+    "8453": "0x2a7aeb91bded6f69e72f19fed50972e8917ab8de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ugly",
+    "sanitizedSymbol": "UGLY",
+    "created_at": "2024-12-09T20:41:55.120505",
+    "deployer": "0x2603c40Ef091c0e62ccBe921DB319114F1080a9E",
+    "lpNftId": "1391889",
+    "lockerAddress": "0x0C323912b7810A476B0E04D8E9b77D6468e8357B"
+  },
+  "clankerInfo": null
+}

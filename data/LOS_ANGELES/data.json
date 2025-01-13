@@ -1,0 +1,22 @@
+{
+  "name": "Los Angeles",
+  "symbol": "Los Angeles",
+  "decimals": 18,
+  "description": "Los Angeles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Los%20Angeles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Los Angeles",
+  "addresses": {
+    "8453": "0x24861b35912835eb576ef721a2670275431ec0a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Los Angeles",
+    "sanitizedSymbol": "LOS_ANGELES",
+    "created_at": "2024-12-09T19:28:01.562494",
+    "deployer": "0x5CBf3c93E1f3Af4c476D395D7457B61A18e349e9",
+    "lpNftId": "1390905",
+    "lockerAddress": "0x59cBC8A44D8417D0F5397351D1b9f143c9171EdA"
+  },
+  "clankerInfo": null
+}

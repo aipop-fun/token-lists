@@ -1,0 +1,22 @@
+{
+  "name": "LaserBot",
+  "symbol": "LaserBot",
+  "decimals": 18,
+  "description": "LaserBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LaserBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LaserBot",
+  "addresses": {
+    "8453": "0x07fb21dd4071c47e8034ae5f3943f34271c72326"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LaserBot",
+    "sanitizedSymbol": "LASERBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129048",
+    "lockerAddress": "0xCbee8160343763e49ac3f43257D3ef8de4Ae35E1"
+  },
+  "clankerInfo": null
+}

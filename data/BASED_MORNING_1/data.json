@@ -1,0 +1,22 @@
+{
+  "name": "Based Morning",
+  "symbol": "Based Morning",
+  "decimals": 18,
+  "description": "Based Morning is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Morning",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Morning",
+  "addresses": {
+    "8453": "0x270e9207889fb7d9a0ad246a1bba3d46a3e339f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Morning",
+    "sanitizedSymbol": "BASED_MORNING_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150674",
+    "lockerAddress": "0xeA343525368B9d2b77bFc9eF0902be8B2Eaae76E"
+  },
+  "clankerInfo": null
+}

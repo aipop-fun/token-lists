@@ -1,0 +1,22 @@
+{
+  "name": "ProxyTest",
+  "symbol": "ProxyTest",
+  "decimals": 18,
+  "description": "ProxyTest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ProxyTest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ProxyTest",
+  "addresses": {
+    "8453": "0x1c90e8d238edeb8af316adb2f568c501f76ae9d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ProxyTest",
+    "sanitizedSymbol": "PROXYTEST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1134900",
+    "lockerAddress": "0x3521bFEFdEEf813fe2237d7b0e4F4DaFF2e89c2b"
+  },
+  "clankerInfo": null
+}

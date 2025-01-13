@@ -1,0 +1,22 @@
+{
+  "name": "New @aethernet",
+  "symbol": "New @aethernet",
+  "decimals": 18,
+  "description": "New @aethernet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20%40aethernet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New @aethernet",
+  "addresses": {
+    "8453": "0x35eba389f0fe32a855f731841e2f05349aa68451"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New @aethernet",
+    "sanitizedSymbol": "NEW_AETHERNET",
+    "created_at": "2024-12-11T13:52:55.850545",
+    "deployer": "0xDC7b8F952760C4CBe72ca746afe86AeBCc17D2B7",
+    "lpNftId": "1419568",
+    "lockerAddress": "0x72e5a13Fe478b5fE184ECA8eeac3d6d78A748F80"
+  },
+  "clankerInfo": null
+}

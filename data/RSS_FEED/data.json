@@ -1,0 +1,22 @@
+{
+  "name": "RSS Feed",
+  "symbol": "RSS Feed",
+  "decimals": 18,
+  "description": "RSS Feed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RSS%20Feed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RSS Feed",
+  "addresses": {
+    "8453": "0x1472d8ff19c9229e45eccfa08a1a97425f5884fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RSS Feed",
+    "sanitizedSymbol": "RSS_FEED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221431",
+    "lockerAddress": "0x91F50b6875B7d94Df8D178637cfEbF4A30CCb211"
+  },
+  "clankerInfo": null
+}

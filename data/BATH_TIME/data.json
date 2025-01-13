@@ -1,0 +1,22 @@
+{
+  "name": "Bath Time",
+  "symbol": "Bath Time",
+  "decimals": 18,
+  "description": "Bath Time is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bath%20Time",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bath Time",
+  "addresses": {
+    "8453": "0x1604335866770783f55c612f6e8a4bc5e32b247b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bath Time",
+    "sanitizedSymbol": "BATH_TIME",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf33d9F9E7621842dB67D61fF5008BE996370BA77",
+    "lpNftId": "1270827",
+    "lockerAddress": "0xA479467C88EC15ef3244909C84baD098f9da2482"
+  },
+  "clankerInfo": null
+}

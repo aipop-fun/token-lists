@@ -1,0 +1,22 @@
+{
+  "name": "Stonks of Farcaster",
+  "symbol": "Stonks of Farcaster",
+  "decimals": 18,
+  "description": "Stonks of Farcaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stonks%20of%20Farcaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stonks of Farcaster",
+  "addresses": {
+    "8453": "0x28589a62257f2042e6f13ae19626ed1eed19db3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stonks of Farcaster",
+    "sanitizedSymbol": "STONKS_OF_FARCASTER",
+    "created_at": "2024-12-11T19:05:55.509651",
+    "deployer": "0xdAaF637bdfBf1e8337A7D78266D7dAF41cD014d0",
+    "lpNftId": "1424512",
+    "lockerAddress": "0x7668D486ed8F25ceE3190AeD3FfE92Fd2236eAE5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wormhole",
+  "symbol": "wormhole",
+  "decimals": 18,
+  "description": "wormhole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wormhole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wormhole",
+  "addresses": {
+    "8453": "0x3d3261280a70f96ca31b1055e9229d7ab1646acf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wormhole",
+    "sanitizedSymbol": "WORMHOLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230124",
+    "lockerAddress": "0xfbe16Fb24044143d29cF47004fca74EAC10be532"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Black Hole",
+  "symbol": "Black Hole",
+  "decimals": 18,
+  "description": "Black Hole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Hole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Hole",
+  "addresses": {
+    "8453": "0x0a564cda07f04d2ec415d492d1b3eb641c1857e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Hole",
+    "sanitizedSymbol": "BLACK_HOLE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0eABa1b83c3A54002B51dB725f5F48E523c5C6F1",
+    "lpNftId": "1373586",
+    "lockerAddress": "0x971eE29d538fB00b1bfBf2448674f0F18f64eA86"
+  },
+  "clankerInfo": null
+}

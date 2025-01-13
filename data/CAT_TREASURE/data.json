@@ -1,0 +1,22 @@
+{
+  "name": "Cat Treasure",
+  "symbol": "Cat Treasure",
+  "decimals": 18,
+  "description": "Cat Treasure is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Treasure",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Treasure",
+  "addresses": {
+    "8453": "0x11726ea73d2ef702685616624b40baf66967d8fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Treasure",
+    "sanitizedSymbol": "CAT_TREASURE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3B6a7fDeABd4405991bfb1c80E61e1056da20c9a",
+    "lpNftId": "1361101",
+    "lockerAddress": "0xA80539968a2d6095b5351157fEAf713036C9B80b"
+  },
+  "clankerInfo": null
+}

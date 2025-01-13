@@ -1,0 +1,22 @@
+{
+  "name": "GODGIFTED",
+  "symbol": "GODGIFTED",
+  "decimals": 18,
+  "description": "GODGIFTED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GODGIFTED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GODGIFTED",
+  "addresses": {
+    "8453": "0x1032cf05f2e5f8f96a6155fdf4caf0d0faaa96a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GODGIFTED",
+    "sanitizedSymbol": "GODGIFTED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaaC470fD12C2b7209BcE56E7356c4b343bC9D653",
+    "lpNftId": "1322263",
+    "lockerAddress": "0x291223d326df37A34C3f6ffbdDa900c3a7c80897"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hump",
+  "symbol": "Hump",
+  "decimals": 18,
+  "description": "Hump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hump",
+  "addresses": {
+    "8453": "0x1c393ddb43410327a8a3b2f19dc55e2767790dec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hump",
+    "sanitizedSymbol": "HUMP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x11849573966d4a16C2196D32e79164087b23E202",
+    "lpNftId": "1312250",
+    "lockerAddress": "0xb780bc72D337CE08B098170454173e70f9eeFf56"
+  },
+  "clankerInfo": null
+}

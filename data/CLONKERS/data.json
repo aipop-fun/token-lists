@@ -1,0 +1,22 @@
+{
+  "name": "Clonkers",
+  "symbol": "Clonkers",
+  "decimals": 18,
+  "description": "Clonkers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clonkers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clonkers",
+  "addresses": {
+    "8453": "0x0fdfd509c7d8b57aec45eac41cabe8987e41226d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clonkers",
+    "sanitizedSymbol": "CLONKERS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xF08C4dA84017FFbbD0211Cf35DBfe58cF49cbFEF",
+    "lpNftId": "1193728",
+    "lockerAddress": "0xED70bA367cF48FD020A8468De8e509617f323B8e"
+  },
+  "clankerInfo": null
+}

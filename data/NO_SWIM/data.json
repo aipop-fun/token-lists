@@ -1,0 +1,22 @@
+{
+  "name": "no swim",
+  "symbol": "no swim",
+  "decimals": 18,
+  "description": "no swim is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=no%20swim",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "no swim",
+  "addresses": {
+    "8453": "0x074bae8ba60cab50260886323b0fc63161ec7256"
+  },
+  "tokenInfo": {
+    "originalSymbol": "no swim",
+    "sanitizedSymbol": "NO_SWIM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x403089B876128B97012AEe31e3f91B4f6CfEBEde",
+    "lpNftId": "1318395",
+    "lockerAddress": "0x72a7B37C7208248E71DbEb33C269D1c87eC64229"
+  },
+  "clankerInfo": null
+}

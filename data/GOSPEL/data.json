@@ -1,0 +1,22 @@
+{
+  "name": "GOSPEL",
+  "symbol": "GOSPEL",
+  "decimals": 18,
+  "description": "GOSPEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOSPEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOSPEL",
+  "addresses": {
+    "8453": "0x0e11b726d62cc0fd39c36581acc2f65780027fa4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOSPEL",
+    "sanitizedSymbol": "GOSPEL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165156",
+    "lockerAddress": "0x1ddBa4D348B2EeA84044EA718cb26d7a744AafBD"
+  },
+  "clankerInfo": null
+}

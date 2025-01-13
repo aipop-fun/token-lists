@@ -1,0 +1,22 @@
+{
+  "name": "chillmaazz",
+  "symbol": "chillmaazz",
+  "decimals": 18,
+  "description": "chillmaazz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillmaazz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillmaazz",
+  "addresses": {
+    "8453": "0x36f82bd202bc0d1415cacfea4e0837911f9c7c67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillmaazz",
+    "sanitizedSymbol": "CHILLMAAZZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1324225",
+    "lockerAddress": "0x291Ea70698c1C4051fE60CE790006F890acA5FB3"
+  },
+  "clankerInfo": null
+}

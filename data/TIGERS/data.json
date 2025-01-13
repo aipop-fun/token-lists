@@ -1,0 +1,22 @@
+{
+  "name": "Tigers",
+  "symbol": "Tigers",
+  "decimals": 18,
+  "description": "Tigers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tigers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tigers",
+  "addresses": {
+    "8453": "0x1ba81e092bd4fd6d2bbf5c47b1553e2136be1c64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tigers",
+    "sanitizedSymbol": "TIGERS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234987",
+    "lockerAddress": "0x4bB54152dA3427B65aD374A694a0E90A2E74dff2"
+  },
+  "clankerInfo": null
+}

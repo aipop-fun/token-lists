@@ -1,0 +1,22 @@
+{
+  "name": "Mookie",
+  "symbol": "Mookie",
+  "decimals": 18,
+  "description": "Mookie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mookie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mookie",
+  "addresses": {
+    "8453": "0x2eb9944c9d1702e4c8bdaa81212a3fcef965c613"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mookie",
+    "sanitizedSymbol": "MOOKIE",
+    "created_at": "2024-12-12T21:07:59.321809",
+    "deployer": "0xCdDb4912DbAfccBAF6ec7b0191757b3Cf30d2595",
+    "lpNftId": "1443142",
+    "lockerAddress": "0xdc6d80A6B5F8c5ac07E01AB0A225d3aF16345ACe"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wheel of Fortune",
+  "symbol": "Wheel of Fortune",
+  "decimals": 18,
+  "description": "Wheel of Fortune is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wheel%20of%20Fortune",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wheel of Fortune",
+  "addresses": {
+    "8453": "0x07c9ef9e98f8a3be3e77e42080412cc9b913391b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wheel of Fortune",
+    "sanitizedSymbol": "WHEEL_OF_FORTUNE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123291",
+    "lockerAddress": "0x3110dDDCaE1a927F67a110618D6b13D79C711e42"
+  },
+  "clankerInfo": null
+}

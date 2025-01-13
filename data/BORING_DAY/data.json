@@ -1,0 +1,22 @@
+{
+  "name": "Boring Day",
+  "symbol": "Boring Day",
+  "decimals": 18,
+  "description": "Boring Day is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boring%20Day",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boring Day",
+  "addresses": {
+    "8453": "0x18ee20950e3b2080766cea162b892332dd618510"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boring Day",
+    "sanitizedSymbol": "BORING_DAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1242786",
+    "lockerAddress": "0xA8d802D257E8136880AaA140d213a22b642Bb55e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CALL",
+  "symbol": "CALL",
+  "decimals": 18,
+  "description": "CALL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CALL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CALL",
+  "addresses": {
+    "8453": "0x1294e90e484e93fdbdade1447741a096063c9410"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CALL",
+    "sanitizedSymbol": "CALL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x928a8918D31941FB6b7b1F5456964A8bcbCB2435",
+    "lpNftId": "1364917",
+    "lockerAddress": "0xa6881E3aD4705B96b6B40A9883813eb1EbEf4568"
+  },
+  "clankerInfo": null
+}

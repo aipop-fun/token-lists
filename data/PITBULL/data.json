@@ -1,0 +1,22 @@
+{
+  "name": "pitbull",
+  "symbol": "pitbull",
+  "decimals": 18,
+  "description": "pitbull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pitbull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pitbull",
+  "addresses": {
+    "8453": "0x029668e7b3c6f8fee69bf62d8d44c8872f5e13db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pitbull",
+    "sanitizedSymbol": "PITBULL",
+    "created_at": "2024-12-12T13:40:16.045257",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1435273",
+    "lockerAddress": "0x7188DA551C0C99D592bcc284172b511ddFB5C32E"
+  },
+  "clankerInfo": null
+}

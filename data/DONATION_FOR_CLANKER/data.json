@@ -1,0 +1,22 @@
+{
+  "name": "donation for clanker",
+  "symbol": "donation for clanker",
+  "decimals": 18,
+  "description": "donation for clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=donation%20for%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "donation for clanker",
+  "addresses": {
+    "8453": "0x0006779fe9fe3d178af554d36c8b771153c7f3d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "donation for clanker",
+    "sanitizedSymbol": "DONATION_FOR_CLANKER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232379",
+    "lockerAddress": "0xd4175aD94b71D9D69915d22A875aca5BAC887a73"
+  },
+  "clankerInfo": null
+}

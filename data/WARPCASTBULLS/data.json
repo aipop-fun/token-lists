@@ -1,0 +1,22 @@
+{
+  "name": "WarpcastBulls",
+  "symbol": "WarpcastBulls",
+  "decimals": 18,
+  "description": "WarpcastBulls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WarpcastBulls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WarpcastBulls",
+  "addresses": {
+    "8453": "0x144925827ffe9495828aa62d26500dc429598fe0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WarpcastBulls",
+    "sanitizedSymbol": "WARPCASTBULLS",
+    "created_at": "2024-12-11T23:56:00.770649",
+    "deployer": "0x7639b96593B2E34F27Ee57f4B1583c4b33dd9679",
+    "lpNftId": "1428016",
+    "lockerAddress": "0x00Ff110763215955F955Fc8839124981ffB62c0D"
+  },
+  "clankerInfo": null
+}

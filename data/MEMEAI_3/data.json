@@ -1,0 +1,22 @@
+{
+  "name": "MEMEAI",
+  "symbol": "MEMEAI",
+  "decimals": 18,
+  "description": "MEMEAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEMEAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEMEAI",
+  "addresses": {
+    "8453": "0x40f50a34921e8c673d655bd4731dfcb7f98bb97e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEMEAI",
+    "sanitizedSymbol": "MEMEAI_3",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4Dc8D5d2a6a0d925Cc3B09f23ab82f0d8c716550",
+    "lpNftId": "1266238",
+    "lockerAddress": "0xe75FF54851Fd63c96C1cCe3Ae0f80C3f5962C948"
+  },
+  "clankerInfo": null
+}

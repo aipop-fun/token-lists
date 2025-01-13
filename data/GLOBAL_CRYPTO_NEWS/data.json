@@ -1,0 +1,22 @@
+{
+  "name": "Global Crypto News",
+  "symbol": "Global Crypto News",
+  "decimals": 18,
+  "description": "Global Crypto News is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Global%20Crypto%20News",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Global Crypto News",
+  "addresses": {
+    "8453": "0x0de91df694dd28a2510586786c935267e0d00dc9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Global Crypto News",
+    "sanitizedSymbol": "GLOBAL_CRYPTO_NEWS",
+    "created_at": "2024-12-09T02:31:16.015316",
+    "deployer": "0x2D7c99bD362E50a05DC4EdBAB981B7D825CF4AA8",
+    "lpNftId": "1378602",
+    "lockerAddress": "0x4B9DC6EF61C83688D0beE588D9b4CA6E4BbE8B20"
+  },
+  "clankerInfo": null
+}

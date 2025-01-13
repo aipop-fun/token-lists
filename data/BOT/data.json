@@ -1,0 +1,22 @@
+{
+  "name": "Bot",
+  "symbol": "Bot",
+  "decimals": 18,
+  "description": "Bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bot",
+  "addresses": {
+    "8453": "0x1fbd56736082b62377d6f83ab19d0aa727c27817"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bot",
+    "sanitizedSymbol": "BOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125260",
+    "lockerAddress": "0xED714559f2772CBe08Ad6A5aE9CF11eD499194E5"
+  },
+  "clankerInfo": null
+}

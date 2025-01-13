@@ -1,0 +1,22 @@
+{
+  "name": "Wish",
+  "symbol": "Wish",
+  "decimals": 18,
+  "description": "Wish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wish",
+  "addresses": {
+    "8453": "0x19064712450dc3a7a284b88462167ac40809d120"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wish",
+    "sanitizedSymbol": "WISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x10CfBfe6e2fDF2e7adef48E35A5c325A50782ABF",
+    "lpNftId": "1322455",
+    "lockerAddress": "0x6331BEe38ae04930d77387c2b9602Fd6711Ac3Bb"
+  },
+  "clankerInfo": null
+}

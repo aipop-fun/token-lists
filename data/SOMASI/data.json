@@ -1,0 +1,22 @@
+{
+  "name": "Somasi",
+  "symbol": "Somasi",
+  "decimals": 18,
+  "description": "Somasi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Somasi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Somasi",
+  "addresses": {
+    "8453": "0x2406ed71160f2a6639ddce38d55d043280cf17f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Somasi",
+    "sanitizedSymbol": "SOMASI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x94f0BB2Bac6A1495638F0aF58E9539C4c618Ff1A",
+    "lpNftId": "1263688",
+    "lockerAddress": "0x544fCDaA7C787B2162979903598646DF12a2A78f"
+  },
+  "clankerInfo": null
+}

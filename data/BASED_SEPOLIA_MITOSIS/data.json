@@ -1,0 +1,22 @@
+{
+  "name": "Based Sepolia Mitosis",
+  "symbol": "Based Sepolia Mitosis",
+  "decimals": 18,
+  "description": "Based Sepolia Mitosis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Sepolia%20Mitosis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Sepolia Mitosis",
+  "addresses": {
+    "8453": "0x202be1c3a4690df8fc07988642faf3c4bff2932d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Sepolia Mitosis",
+    "sanitizedSymbol": "BASED_SEPOLIA_MITOSIS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4CCa3f44208bEe3C363868471956Af0c1E2FFf05",
+    "lpNftId": "1347751",
+    "lockerAddress": "0x145eC30878c384F57db9abBD2cb80b62abd43dD8"
+  },
+  "clankerInfo": null
+}

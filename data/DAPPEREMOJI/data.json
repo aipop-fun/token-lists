@@ -1,0 +1,22 @@
+{
+  "name": "DapperEmoji",
+  "symbol": "DapperEmoji",
+  "decimals": 18,
+  "description": "DapperEmoji is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DapperEmoji",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DapperEmoji",
+  "addresses": {
+    "8453": "0x173764661c1ff8bf3b25f446de2eb2e90c0c0832"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DapperEmoji",
+    "sanitizedSymbol": "DAPPEREMOJI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2251534E5b1efb939c712599e162FF6aDf1c3109",
+    "lpNftId": "1308762",
+    "lockerAddress": "0xBefdeDF082d026508F1D792aAce867AF038aC4eF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PigeonPaulie",
+  "symbol": "PigeonPaulie",
+  "decimals": 18,
+  "description": "PigeonPaulie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PigeonPaulie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PigeonPaulie",
+  "addresses": {
+    "8453": "0x34905b3295b95ccce8d1ddf25df5b85d0e6f5d07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PigeonPaulie",
+    "sanitizedSymbol": "PIGEONPAULIE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4F80864cD68782144e3736626896990acAe15a11",
+    "lpNftId": "1311879",
+    "lockerAddress": "0x0EEB0d2A061C24D0a718eA18B96a0f0B3338EF44"
+  },
+  "clankerInfo": null
+}

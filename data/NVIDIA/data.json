@@ -1,0 +1,22 @@
+{
+  "name": "NVIDIA",
+  "symbol": "NVIDIA",
+  "decimals": 18,
+  "description": "NVIDIA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NVIDIA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NVIDIA",
+  "addresses": {
+    "8453": "0x0a2a8ba3369e190696794488ac9fdc5c36a0bff3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NVIDIA",
+    "sanitizedSymbol": "NVIDIA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213610",
+    "lockerAddress": "0x8EB752636D33eFfc6f4D41E295D0d3242c5A9dBC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GLAMOUR",
+  "symbol": "GLAMOUR",
+  "decimals": 18,
+  "description": "GLAMOUR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GLAMOUR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GLAMOUR",
+  "addresses": {
+    "8453": "0x1b82eeb7c358d497cd90ab8f7d6053ecb45cddf0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GLAMOUR",
+    "sanitizedSymbol": "GLAMOUR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226910",
+    "lockerAddress": "0x08E37F13188c452A4ca643E922fd34cE4D546221"
+  },
+  "clankerInfo": null
+}

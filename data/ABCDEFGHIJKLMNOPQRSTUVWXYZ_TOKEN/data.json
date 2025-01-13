@@ -1,0 +1,22 @@
+{
+  "name": "ABCDEFGHIJKLMNOPQRSTUVWXYZ Token",
+  "symbol": "ABCDEFGHIJKLMNOPQRSTUVWXYZ Token",
+  "decimals": 18,
+  "description": "ABCDEFGHIJKLMNOPQRSTUVWXYZ Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ABCDEFGHIJKLMNOPQRSTUVWXYZ%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ABCDEFGHIJKLMNOPQRSTUVWXYZ Token",
+  "addresses": {
+    "8453": "0x3e6d0cb6d98eb4ab34a0d5a7e07ab2cb7a5ad44f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ABCDEFGHIJKLMNOPQRSTUVWXYZ Token",
+    "sanitizedSymbol": "ABCDEFGHIJKLMNOPQRSTUVWXYZ_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220200",
+    "lockerAddress": "0x069Bc8093eAFa43437F543E0c84b90EB48d48345"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Vinu",
+  "symbol": "Vinu",
+  "decimals": 18,
+  "description": "Vinu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vinu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vinu",
+  "addresses": {
+    "8453": "0x3336e8accb6f97ed3b5c383c610bfe9de752b239"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vinu",
+    "sanitizedSymbol": "VINU",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF1140f01a6ddeCca7804f00D5C2D63F18b70231e",
+    "lpNftId": "1323878",
+    "lockerAddress": "0xEBA6284738a1b7F69D4e095A6D18a6Cc0FbdFC75"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Robo Pup",
+  "symbol": "Robo Pup",
+  "decimals": 18,
+  "description": "Robo Pup is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Robo%20Pup",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Robo Pup",
+  "addresses": {
+    "8453": "0x112810f3754f2bd325582286cfbc9c7de84615db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Robo Pup",
+    "sanitizedSymbol": "ROBO_PUP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221886",
+    "lockerAddress": "0xeDb6F9eB50a558bcC5c4e1c00200eaD46c402bdC"
+  },
+  "clankerInfo": null
+}

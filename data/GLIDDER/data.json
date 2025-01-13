@@ -1,0 +1,22 @@
+{
+  "name": "Glidder",
+  "symbol": "Glidder",
+  "decimals": 18,
+  "description": "Glidder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Glidder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Glidder",
+  "addresses": {
+    "8453": "0x074a15725c0f09faf22dead28a5715de09fee259"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Glidder",
+    "sanitizedSymbol": "GLIDDER",
+    "created_at": "2024-12-10T02:19:22.008029",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1394961",
+    "lockerAddress": "0x909FB326F7440B402A6552F35009E334284eD6c6"
+  },
+  "clankerInfo": null
+}

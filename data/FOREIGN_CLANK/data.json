@@ -1,0 +1,22 @@
+{
+  "name": "foreign Clank",
+  "symbol": "foreign Clank",
+  "decimals": 18,
+  "description": "foreign Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=foreign%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "foreign Clank",
+  "addresses": {
+    "8453": "0x332bb1f858b8c56d8cdcf1c31d02a4aca234765b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "foreign Clank",
+    "sanitizedSymbol": "FOREIGN_CLANK",
+    "created_at": "2024-12-10T20:17:53.39988",
+    "deployer": "0xA116f9089c49224165393c76D0BD80694E530309",
+    "lpNftId": "1406686",
+    "lockerAddress": "0x22A1299706c2171A7F8e98097aCCc89E2F7aF16B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "The Bluest Meme",
+  "symbol": "The Bluest Meme",
+  "decimals": 18,
+  "description": "The Bluest Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=The%20Bluest%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "The Bluest Meme",
+  "addresses": {
+    "8453": "0x0fb3abe8823e7d598b24a9771170c30390c5c46b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "The Bluest Meme",
+    "sanitizedSymbol": "THE_BLUEST_MEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165177",
+    "lockerAddress": "0x5B7e405611cEe524a6feD01a2f877922D5F81c35"
+  },
+  "clankerInfo": null
+}

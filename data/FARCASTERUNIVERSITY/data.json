@@ -1,0 +1,22 @@
+{
+  "name": "FarcasterUniversity",
+  "symbol": "FarcasterUniversity",
+  "decimals": 18,
+  "description": "FarcasterUniversity is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarcasterUniversity",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarcasterUniversity",
+  "addresses": {
+    "8453": "0x2db0a534ad574e2e624a2f7b9ea5acfa515e7371"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarcasterUniversity",
+    "sanitizedSymbol": "FARCASTERUNIVERSITY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199531",
+    "lockerAddress": "0xfB3257D866bfD73A08B821d0Dc70Dc6dCCc3CAF4"
+  },
+  "clankerInfo": null
+}

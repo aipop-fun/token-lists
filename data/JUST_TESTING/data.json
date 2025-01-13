@@ -1,0 +1,22 @@
+{
+  "name": "Just testing!",
+  "symbol": "Just testing!",
+  "decimals": 18,
+  "description": "Just testing! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Just%20testing!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Just testing!",
+  "addresses": {
+    "8453": "0x14468b62d30de99fbbbbc60035d5408e09aaa3ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Just testing!",
+    "sanitizedSymbol": "JUST_TESTING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217208",
+    "lockerAddress": "0x35E5F376990a6B6C9cBd1fc0e5a01dabbc144252"
+  },
+  "clankerInfo": null
+}

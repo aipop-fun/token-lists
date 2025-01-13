@@ -1,0 +1,22 @@
+{
+  "name": "Don't Panic Yoon",
+  "symbol": "Don't Panic Yoon",
+  "decimals": 18,
+  "description": "Don't Panic Yoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Don't%20Panic%20Yoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Don't Panic Yoon",
+  "addresses": {
+    "8453": "0x0828a49378eff4052cf51fdba919e337bbb1b202"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Don't Panic Yoon",
+    "sanitizedSymbol": "DON_T_PANIC_YOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x111fCc91297153499B10E5d079F15aA14D7C3CDA",
+    "lpNftId": "1308245",
+    "lockerAddress": "0x69781056261FeAa163C42EdAA724cC550938B65d"
+  },
+  "clankerInfo": null
+}

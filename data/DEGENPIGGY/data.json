@@ -1,0 +1,22 @@
+{
+  "name": "DEGENPIGGY",
+  "symbol": "DEGENPIGGY",
+  "decimals": 18,
+  "description": "DEGENPIGGY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGENPIGGY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGENPIGGY",
+  "addresses": {
+    "8453": "0x0fe5d96c828b44f98c30e25d26d3d151cb69e6d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGENPIGGY",
+    "sanitizedSymbol": "DEGENPIGGY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5F9C7447129fA10Af4cB51e24Be323AbFf1759e5",
+    "lpNftId": "1332506",
+    "lockerAddress": "0x7A04B34A596807efD86d28EaE0FddcA203441CE2"
+  },
+  "clankerInfo": null
+}

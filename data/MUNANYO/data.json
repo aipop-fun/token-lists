@@ -1,0 +1,22 @@
+{
+  "name": "$MUNANYO",
+  "symbol": "$MUNANYO",
+  "decimals": 18,
+  "description": "$MUNANYO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24MUNANYO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$MUNANYO",
+  "addresses": {
+    "8453": "0x232c71619d9891fa704f8a1200649580b02b72b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$MUNANYO",
+    "sanitizedSymbol": "MUNANYO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7D3C347c6780AA2EDeaDaFcD1E8176bca8c10c10",
+    "lpNftId": "1330198",
+    "lockerAddress": "0x02C29a9c08654d34596C30e3441542447d5e28f3"
+  },
+  "clankerInfo": null
+}

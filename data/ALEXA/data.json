@@ -1,0 +1,22 @@
+{
+  "name": "Alexa",
+  "symbol": "Alexa",
+  "decimals": 18,
+  "description": "Alexa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alexa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alexa",
+  "addresses": {
+    "8453": "0x0284b05a43d618b4a2b8fab033d949cd98c16686"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alexa",
+    "sanitizedSymbol": "ALEXA",
+    "created_at": "2024-12-12T00:47:39.636118",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1428238",
+    "lockerAddress": "0xB9aD12150BA60c1DcEa549628F9E45B6Dbd32C5B"
+  },
+  "clankerInfo": null
+}

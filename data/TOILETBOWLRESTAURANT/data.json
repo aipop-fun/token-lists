@@ -1,0 +1,22 @@
+{
+  "name": "ToiletBowlRestaurant",
+  "symbol": "ToiletBowlRestaurant",
+  "decimals": 18,
+  "description": "ToiletBowlRestaurant is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ToiletBowlRestaurant",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ToiletBowlRestaurant",
+  "addresses": {
+    "8453": "0x0024e550fff335f3f2ff824df2298526390837f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ToiletBowlRestaurant",
+    "sanitizedSymbol": "TOILETBOWLRESTAURANT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBe14B9950dC61642a084EAB491FA516d8FE557e6",
+    "lpNftId": "1323877",
+    "lockerAddress": "0x8920069dc448BB99c30A1C5A90eD8fbAaA419D33"
+  },
+  "clankerInfo": null
+}

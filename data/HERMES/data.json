@@ -1,0 +1,22 @@
+{
+  "name": "Hermes",
+  "symbol": "Hermes",
+  "decimals": 18,
+  "description": "Hermes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hermes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hermes",
+  "addresses": {
+    "8453": "0x3e3fe0f530b7298a3ff89467b8290ad428bc11c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hermes",
+    "sanitizedSymbol": "HERMES",
+    "created_at": "2024-12-11T00:39:29.0092",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1408998",
+    "lockerAddress": "0xc2d96e75b1048D87c18591E96e2992006b3Fd431"
+  },
+  "clankerInfo": null
+}

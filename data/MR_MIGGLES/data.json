@@ -1,0 +1,22 @@
+{
+  "name": "Mr.Miggles",
+  "symbol": "Mr.Miggles",
+  "decimals": 18,
+  "description": "Mr.Miggles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.Miggles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr.Miggles",
+  "addresses": {
+    "8453": "0x0d46c58c78308e315701ba93b6bd213317faf287"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr.Miggles",
+    "sanitizedSymbol": "MR_MIGGLES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2Fb0e475F6D495DFdfd9176aF9113f48F7687565",
+    "lpNftId": "1362888",
+    "lockerAddress": "0xfA7cdEC6e2f6E441A83275F1d3f3b6164c2a2583"
+  },
+  "clankerInfo": null
+}

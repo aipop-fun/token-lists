@@ -1,0 +1,22 @@
+{
+  "name": "Degen San",
+  "symbol": "Degen San",
+  "decimals": 18,
+  "description": "Degen San is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20San",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen San",
+  "addresses": {
+    "8453": "0x381f91c8fb3b205642617d63982ab39d5ef1e6c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen San",
+    "sanitizedSymbol": "DEGEN_SAN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x66Cd110e1D009dcaF61A4e804DdD6Ae622d7432e",
+    "lpNftId": "1313705",
+    "lockerAddress": "0x40414D7e06929669ee40D401De52d3e882737cbE"
+  },
+  "clankerInfo": null
+}

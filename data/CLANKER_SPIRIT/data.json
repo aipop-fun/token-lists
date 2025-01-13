@@ -1,0 +1,22 @@
+{
+  "name": "clanker spirit",
+  "symbol": "clanker spirit",
+  "decimals": 18,
+  "description": "clanker spirit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20spirit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker spirit",
+  "addresses": {
+    "8453": "0x08b830b5ce924afbc37c645403294c1e20cdba32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker spirit",
+    "sanitizedSymbol": "CLANKER_SPIRIT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8ac1dF5D1a7C68f32152fF905D6Bce55C8DB76Cf",
+    "lpNftId": "1327730",
+    "lockerAddress": "0x2e55A8220fc825c2148bd00352ceb878a75bb16f"
+  },
+  "clankerInfo": null
+}

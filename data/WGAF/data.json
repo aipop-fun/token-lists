@@ -1,0 +1,22 @@
+{
+  "name": "WGAF",
+  "symbol": "WGAF",
+  "decimals": 18,
+  "description": "WGAF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WGAF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WGAF",
+  "addresses": {
+    "8453": "0x1923a7cb6585037fb0ffc2ab1400eb46ea26bf4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WGAF",
+    "sanitizedSymbol": "WGAF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199586",
+    "lockerAddress": "0xC1F724919911e3D7ef644AbB2762b6478f30a2F1"
+  },
+  "clankerInfo": null
+}

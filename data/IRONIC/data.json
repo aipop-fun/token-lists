@@ -1,0 +1,22 @@
+{
+  "name": "IRONIC",
+  "symbol": "IRONIC",
+  "decimals": 18,
+  "description": "IRONIC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IRONIC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IRONIC",
+  "addresses": {
+    "8453": "0x35bc73f1e9beee961c489ccd409e1554b760e50e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IRONIC",
+    "sanitizedSymbol": "IRONIC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193278",
+    "lockerAddress": "0xCA5f6687384cC9FE8b0972eD2b5ffEdA097d1F70"
+  },
+  "clankerInfo": null
+}

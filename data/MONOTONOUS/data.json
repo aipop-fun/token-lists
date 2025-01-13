@@ -1,0 +1,22 @@
+{
+  "name": "Monotonous",
+  "symbol": "Monotonous",
+  "decimals": 18,
+  "description": "Monotonous is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monotonous",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monotonous",
+  "addresses": {
+    "8453": "0x2163239cf62a86599f8edddc2ac2ebe36cd5676c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monotonous",
+    "sanitizedSymbol": "MONOTONOUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128869",
+    "lockerAddress": "0xf9B5c8382530C0A95b1C6cDa8906D6C73D0820F7"
+  },
+  "clankerInfo": null
+}

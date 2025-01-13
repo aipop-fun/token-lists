@@ -1,0 +1,22 @@
+{
+  "name": "TrumpCoin",
+  "symbol": "TrumpCoin",
+  "decimals": 18,
+  "description": "TrumpCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrumpCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrumpCoin",
+  "addresses": {
+    "8453": "0x3454b7e451e0c449ec154b45ad3a9b1a9ecf993f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrumpCoin",
+    "sanitizedSymbol": "TRUMPCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1309314",
+    "lockerAddress": "0x5C57EB5267cFD9BE3E615d35836D72139B589A4E"
+  },
+  "clankerInfo": null
+}

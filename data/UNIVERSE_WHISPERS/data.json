@@ -1,0 +1,22 @@
+{
+  "name": "Universe Whispers",
+  "symbol": "Universe Whispers",
+  "decimals": 18,
+  "description": "Universe Whispers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Universe%20Whispers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Universe Whispers",
+  "addresses": {
+    "8453": "0x3deba87bee96f032a9cd64e2bfd3ef524ce77882"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Universe Whispers",
+    "sanitizedSymbol": "UNIVERSE_WHISPERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x13c28134b1e195382117cBBF524E624f48699906",
+    "lpNftId": "1314333",
+    "lockerAddress": "0x8370Dc6ab52fE0c132CB51CcCCcc82b9131bBeE2"
+  },
+  "clankerInfo": null
+}

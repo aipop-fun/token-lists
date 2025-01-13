@@ -1,0 +1,22 @@
+{
+  "name": "ok bitcoin",
+  "symbol": "ok bitcoin",
+  "decimals": 18,
+  "description": "ok bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ok%20bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ok bitcoin",
+  "addresses": {
+    "8453": "0x2faa73686958ddc48682ae66f11113aec9877853"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ok bitcoin",
+    "sanitizedSymbol": "OK_BITCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216834",
+    "lockerAddress": "0xdD3A632e981D43eD1664A11b7684EBC58C4cC70f"
+  },
+  "clankerInfo": null
+}

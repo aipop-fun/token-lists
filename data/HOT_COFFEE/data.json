@@ -1,0 +1,22 @@
+{
+  "name": "hot coffee",
+  "symbol": "hot coffee",
+  "decimals": 18,
+  "description": "hot coffee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hot%20coffee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hot coffee",
+  "addresses": {
+    "8453": "0x017ccfe7628df72fc4e4ae58fad80f4a477a1047"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hot coffee",
+    "sanitizedSymbol": "HOT_COFFEE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc49d00D0289Fd1075819AC77E51eC6557c85c556",
+    "lpNftId": "1328370",
+    "lockerAddress": "0x1D93847b5a5Ded64ed499a61335F7D2613653fB1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Fun",
+  "symbol": "Fun",
+  "decimals": 18,
+  "description": "Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fun",
+  "addresses": {
+    "8453": "0x35745f74e52f5ffff61451b7980627a2cb2c2bbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fun",
+    "sanitizedSymbol": "FUN_2",
+    "created_at": "2024-12-12T05:57:51.70299",
+    "deployer": "0x04333a1788a47068b9102D2d35695c312A0b312F",
+    "lpNftId": "1429477",
+    "lockerAddress": "0x60428e0816CB1302e293c6ea9f1F43E5DB662170"
+  },
+  "clankerInfo": null
+}

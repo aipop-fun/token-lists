@@ -1,0 +1,22 @@
+{
+  "name": "CLANKRETT",
+  "symbol": "CLANKRETT",
+  "decimals": 18,
+  "description": "CLANKRETT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKRETT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKRETT",
+  "addresses": {
+    "8453": "0x0fc9bdc8f362a47562f0e011cba69734d2b0dfee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKRETT",
+    "sanitizedSymbol": "CLANKRETT",
+    "created_at": "2024-12-12T18:09:59.942504",
+    "deployer": "0xE456648751021FE0906a2B962Fd44E61999C115f",
+    "lpNftId": "1440541",
+    "lockerAddress": "0xD1E83BBE03a3Bd9DEeE0E1418d7868fc2829b2C9"
+  },
+  "clankerInfo": null
+}

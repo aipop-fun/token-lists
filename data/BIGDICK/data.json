@@ -1,0 +1,22 @@
+{
+  "name": "BigDick",
+  "symbol": "BigDick",
+  "decimals": 18,
+  "description": "BigDick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BigDick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BigDick",
+  "addresses": {
+    "8453": "0x3a358adef8eecf7c66a641713fa0da1791d92b5a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BigDick",
+    "sanitizedSymbol": "BIGDICK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125067",
+    "lockerAddress": "0x412e5447AB6750E400F62d91D379B6710368C97d"
+  },
+  "clankerInfo": null
+}

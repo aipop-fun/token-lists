@@ -1,0 +1,22 @@
+{
+  "name": "Bro",
+  "symbol": "Bro",
+  "decimals": 18,
+  "description": "Bro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bro",
+  "addresses": {
+    "8453": "0x026633afa1cda0411b577443ecbee67bfbec3a49"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bro",
+    "sanitizedSymbol": "BRO_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1320736",
+    "lockerAddress": "0x4A4bcd7133b403A2a8b15579258834e26a479388"
+  },
+  "clankerInfo": null
+}

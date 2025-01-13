@@ -1,0 +1,22 @@
+{
+  "name": "Первый русский токен",
+  "symbol": "Первый русский токен",
+  "decimals": 18,
+  "description": "Первый русский токен is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%82%D0%BE%D0%BA%D0%B5%D0%BD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Первый русский токен",
+  "addresses": {
+    "8453": "0x11aec74db0b66ddbf0369f4d07ea20cac2113406"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Первый русский токен",
+    "sanitizedSymbol": "TOKEN_d1257579",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD41cEF4f79a2cF4b9Ceb670E64029A93a62b8FB6",
+    "lpNftId": "1351359",
+    "lockerAddress": "0xA1e4a66DA507EFf3d7330F18F07CaFf1d67D58c6"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CryptoAirdrop",
+  "symbol": "CryptoAirdrop",
+  "decimals": 18,
+  "description": "CryptoAirdrop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoAirdrop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoAirdrop",
+  "addresses": {
+    "8453": "0x2f3921ef4480a33edb2733d3a4197d334fb892d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoAirdrop",
+    "sanitizedSymbol": "CRYPTOAIRDROP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd21005fbA48eE6d81259A1795e394E1aCc15A6F9",
+    "lpNftId": "1327577",
+    "lockerAddress": "0xbae22026416ddeE833774BAEF6D6D631844c12e1"
+  },
+  "clankerInfo": null
+}

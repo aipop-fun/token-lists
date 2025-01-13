@@ -1,0 +1,22 @@
+{
+  "name": "THE DOG",
+  "symbol": "THE DOG",
+  "decimals": 18,
+  "description": "THE DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THE%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THE DOG",
+  "addresses": {
+    "8453": "0x1430db46299aa0da07e3b5c0eb58989844bd55a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THE DOG",
+    "sanitizedSymbol": "THE_DOG_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x196D238b962e0E829a8918c41451599881Af9c23",
+    "lpNftId": "1324899",
+    "lockerAddress": "0xfb52A808284780a5D89BE0dbEd7cDc2CbecdeBf9"
+  },
+  "clankerInfo": null
+}

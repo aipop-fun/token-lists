@@ -1,0 +1,22 @@
+{
+  "name": "BOOB's",
+  "symbol": "BOOB's",
+  "decimals": 18,
+  "description": "BOOB's is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOOB's",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOOB's",
+  "addresses": {
+    "8453": "0x01731aec861a39e35a3d3b6e46a9f2a0ce255348"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOOB's",
+    "sanitizedSymbol": "BOOB_S",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226597",
+    "lockerAddress": "0x0639512E245016cA1932A8724261238ec9B0aB95"
+  },
+  "clankerInfo": null
+}

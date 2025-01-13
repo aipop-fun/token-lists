@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Party",
+  "symbol": "Clanker Party",
+  "decimals": 18,
+  "description": "Clanker Party is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Party",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Party",
+  "addresses": {
+    "8453": "0x12aa778eaa6470e35a79120221bee4f2f6bbcb9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Party",
+    "sanitizedSymbol": "CLANKER_PARTY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119534",
+    "lockerAddress": "0x358bF861256a25F07506E11d5cE85967D61F5aa7"
+  },
+  "clankerInfo": null
+}

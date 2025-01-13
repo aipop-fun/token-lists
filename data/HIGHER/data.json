@@ -1,0 +1,22 @@
+{
+  "name": "higher",
+  "symbol": "higher",
+  "decimals": 18,
+  "description": "higher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=higher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "higher",
+  "addresses": {
+    "8453": "0x1d4d060ecd8371422e3673cb3e56e55efc60178a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "higher",
+    "sanitizedSymbol": "HIGHER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224147",
+    "lockerAddress": "0x64FA5750f534dD36b4Df61a839566a06b9feB8C4"
+  },
+  "clankerInfo": null
+}

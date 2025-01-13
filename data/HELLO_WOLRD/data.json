@@ -1,0 +1,22 @@
+{
+  "name": "Hello Wolrd",
+  "symbol": "Hello Wolrd",
+  "decimals": 18,
+  "description": "Hello Wolrd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello%20Wolrd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello Wolrd",
+  "addresses": {
+    "8453": "0x19bdbcec345d254d9d6bc3c9f62475f38f1b79c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello Wolrd",
+    "sanitizedSymbol": "HELLO_WOLRD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD8F9f2544CC5E867bc0D4bD15cE69a480Dff4469",
+    "lpNftId": "1283829",
+    "lockerAddress": "0x37D670Baa368323ED84c0D0d322bbB98E42989ab"
+  },
+  "clankerInfo": null
+}

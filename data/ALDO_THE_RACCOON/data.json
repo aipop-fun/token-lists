@@ -1,0 +1,22 @@
+{
+  "name": "Aldo the Raccoon",
+  "symbol": "Aldo the Raccoon",
+  "decimals": 18,
+  "description": "Aldo the Raccoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aldo%20the%20Raccoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aldo the Raccoon",
+  "addresses": {
+    "8453": "0x0074947d78f14e37313a7d8c40383e6a97a65766"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aldo the Raccoon",
+    "sanitizedSymbol": "ALDO_THE_RACCOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5b41Cc4300003F383628c232a508E3D4C1dA5038",
+    "lpNftId": "1317464",
+    "lockerAddress": "0x20c1f1731692Fd55d258193d46306403DE8Af5ED"
+  },
+  "clankerInfo": null
+}

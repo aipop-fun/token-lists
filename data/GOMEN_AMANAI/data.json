@@ -1,0 +1,22 @@
+{
+  "name": "GOMEN AMANAI",
+  "symbol": "GOMEN AMANAI",
+  "decimals": 18,
+  "description": "GOMEN AMANAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOMEN%20AMANAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOMEN AMANAI",
+  "addresses": {
+    "8453": "0x01383d4bb9a060e76e48491bfa09e0bf4b71f9b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOMEN AMANAI",
+    "sanitizedSymbol": "GOMEN_AMANAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x7049Ca5fB32e15bf9bcc7062c1c8496fb4e748ee",
+    "lpNftId": "1250592",
+    "lockerAddress": "0xbeCfe17d0fc6d73C3015F42F3a4C2cB68eB05f49"
+  },
+  "clankerInfo": null
+}

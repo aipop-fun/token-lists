@@ -1,0 +1,22 @@
+{
+  "name": "LEGION",
+  "symbol": "LEGION",
+  "decimals": 18,
+  "description": "LEGION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LEGION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LEGION",
+  "addresses": {
+    "8453": "0x36bb23ee0ebd29deab887192c56f5e50840a874d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LEGION",
+    "sanitizedSymbol": "LEGION",
+    "created_at": "2024-12-09T20:06:59.535342",
+    "deployer": "0xf0a8322C50Bc72a1D69f7c1067C44a2814Eb311b",
+    "lpNftId": "1391395",
+    "lockerAddress": "0x74A30f2dF553FdD07AD45E4CF0A275EDcEC29C40"
+  },
+  "clankerInfo": null
+}

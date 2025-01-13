@@ -1,0 +1,22 @@
+{
+  "name": "tnx100",
+  "symbol": "tnx100",
+  "decimals": 18,
+  "description": "tnx100 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tnx100",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tnx100",
+  "addresses": {
+    "8453": "0x25a334f011709835ae1ae10d7477385ea4e83cfe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tnx100",
+    "sanitizedSymbol": "TNX100",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173730",
+    "lockerAddress": "0x7eC63DA82e45394a3884a48A2C5Aca9E551dF4Aa"
+  },
+  "clankerInfo": null
+}

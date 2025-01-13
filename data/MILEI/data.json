@@ -1,0 +1,22 @@
+{
+  "name": "MILEI",
+  "symbol": "MILEI",
+  "decimals": 18,
+  "description": "MILEI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILEI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILEI",
+  "addresses": {
+    "8453": "0x3e7d6a1ccee337a130046a22d1c73b2560ba40da"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILEI",
+    "sanitizedSymbol": "MILEI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167734",
+    "lockerAddress": "0x5a9C99B6ecdB732964d8A67B24E0Eb46A5C1E56e"
+  },
+  "clankerInfo": null
+}

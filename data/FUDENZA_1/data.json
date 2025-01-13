@@ -1,0 +1,22 @@
+{
+  "name": "FUDENZA",
+  "symbol": "FUDENZA",
+  "decimals": 18,
+  "description": "FUDENZA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUDENZA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUDENZA",
+  "addresses": {
+    "8453": "0x15011a9e77fce5f1efe2a36470cb35b734c3348d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUDENZA",
+    "sanitizedSymbol": "FUDENZA_1",
+    "created_at": "2024-12-11T03:43:09.01587",
+    "deployer": "0x2403E15c0C614a05C129dcbBec23c6A3c008445d",
+    "lpNftId": "1411891",
+    "lockerAddress": "0x2a1A6d7caEd0b1b939eE75a05a2C9b7790fD1c0a"
+  },
+  "clankerInfo": null
+}

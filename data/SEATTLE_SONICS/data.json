@@ -1,0 +1,22 @@
+{
+  "name": "Seattle Sonics",
+  "symbol": "Seattle Sonics",
+  "decimals": 18,
+  "description": "Seattle Sonics is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Seattle%20Sonics",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Seattle Sonics",
+  "addresses": {
+    "8453": "0x2a4b601bed227185b9c4e480c954fcc7cb4da99b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Seattle Sonics",
+    "sanitizedSymbol": "SEATTLE_SONICS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x66e75E94eEcCACb8708fA9C2fdF93750d770b0Fb",
+    "lpNftId": "1347061",
+    "lockerAddress": "0x61492750D2D7271c58C43E0cae8e0B194D3c884B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PinoVibes",
+  "symbol": "PinoVibes",
+  "decimals": 18,
+  "description": "PinoVibes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PinoVibes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PinoVibes",
+  "addresses": {
+    "8453": "0x2ba4e41b484562657966834635fe0c2abbcef8d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PinoVibes",
+    "sanitizedSymbol": "PINOVIBES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211060",
+    "lockerAddress": "0x34C89A7029FF96Bd231e6fE2aC51f758b10cDd4E"
+  },
+  "clankerInfo": null
+}

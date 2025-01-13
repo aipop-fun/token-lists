@@ -1,0 +1,22 @@
+{
+  "name": "Gladiator",
+  "symbol": "Gladiator",
+  "decimals": 18,
+  "description": "Gladiator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gladiator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gladiator",
+  "addresses": {
+    "8453": "0x34204ae09d38711ea762fd0be76299a841b523a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gladiator",
+    "sanitizedSymbol": "GLADIATOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199774",
+    "lockerAddress": "0x71d6E65BF676B766a68EcBaBfA6eD30a054892a0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OK CAT",
+  "symbol": "OK CAT",
+  "decimals": 18,
+  "description": "OK CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OK%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OK CAT",
+  "addresses": {
+    "8453": "0x1986d4949fb9e5c743630ed576b0225c74cff168"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OK CAT",
+    "sanitizedSymbol": "OK_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225195",
+    "lockerAddress": "0xe5400FD5e8c1741d65D793eA712c4685B62594b9"
+  },
+  "clankerInfo": null
+}

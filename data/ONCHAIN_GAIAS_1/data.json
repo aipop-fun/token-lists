@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Gaias",
+  "symbol": "Onchain Gaias",
+  "decimals": 18,
+  "description": "Onchain Gaias is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Gaias",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Gaias",
+  "addresses": {
+    "8453": "0x3c4f2262531698ad4dca36b7cb6b077ba368e327"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Gaias",
+    "sanitizedSymbol": "ONCHAIN_GAIAS_1",
+    "created_at": "2024-12-11T13:05:45.630075",
+    "deployer": "0xffA52D6fF5024E59a2A99F18eB867ce873729bDd",
+    "lpNftId": "1418730",
+    "lockerAddress": "0x5792F56bB364E83794B757600e0D742e02ca9266"
+  },
+  "clankerInfo": null
+}

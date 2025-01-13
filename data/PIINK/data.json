@@ -1,0 +1,22 @@
+{
+  "name": "piink",
+  "symbol": "piink",
+  "decimals": 18,
+  "description": "piink is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=piink",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "piink",
+  "addresses": {
+    "8453": "0x2bda6a2f88a2a7a0ad164b22507b236f83b1ddd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "piink",
+    "sanitizedSymbol": "PIINK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xA7efbb4a06A680F3B65c5861Ec387408CeafbEc8",
+    "lpNftId": "1337093",
+    "lockerAddress": "0xba23E6B9574C4a2bE2c8e5c78538Ff0d25a82692"
+  },
+  "clankerInfo": null
+}

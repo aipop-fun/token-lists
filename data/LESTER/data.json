@@ -1,0 +1,22 @@
+{
+  "name": "lester",
+  "symbol": "lester",
+  "decimals": 18,
+  "description": "lester is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lester",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lester",
+  "addresses": {
+    "8453": "0x21b44e5af5ebe640ab02d9dea74bcbd4c8c59007"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lester",
+    "sanitizedSymbol": "LESTER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xa3f2696aA391e3eDef54889B80d2B4aB5C9e57fE",
+    "lpNftId": "1170763",
+    "lockerAddress": "0xE91fbA0D6526780Fb60E621EbB9ea3a5C454566c"
+  },
+  "clankerInfo": null
+}

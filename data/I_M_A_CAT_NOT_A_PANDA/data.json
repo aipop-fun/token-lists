@@ -1,0 +1,22 @@
+{
+  "name": "I'm a cat, not a panda",
+  "symbol": "I'm a cat, not a panda",
+  "decimals": 18,
+  "description": "I'm a cat, not a panda is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I'm%20a%20cat%2C%20not%20a%20panda",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I'm a cat, not a panda",
+  "addresses": {
+    "8453": "0x37ada61996a766ce1f8a3c6761d4d922d83a0123"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I'm a cat, not a panda",
+    "sanitizedSymbol": "I_M_A_CAT_NOT_A_PANDA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7049Ca5fB32e15bf9bcc7062c1c8496fb4e748ee",
+    "lpNftId": "1314213",
+    "lockerAddress": "0x6135358503a7897C140333bE16110488B7dd89fF"
+  },
+  "clankerInfo": null
+}

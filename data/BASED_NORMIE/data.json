@@ -1,0 +1,22 @@
+{
+  "name": "Based Normie",
+  "symbol": "Based Normie",
+  "decimals": 18,
+  "description": "Based Normie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Normie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Normie",
+  "addresses": {
+    "8453": "0x1745359d25006e20871db29293d8c5f25fc7930e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Normie",
+    "sanitizedSymbol": "BASED_NORMIE",
+    "created_at": "2024-12-11T18:42:37.708943",
+    "deployer": "0xaaFeD113a0900617c499e94cc6D1d99fe28a651a",
+    "lpNftId": "1424084",
+    "lockerAddress": "0xd9f23A2Bf08d0D5DEaEb14b20a22f3Be2129239a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "alfafrens",
+  "symbol": "alfafrens",
+  "decimals": 18,
+  "description": "alfafrens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=alfafrens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "alfafrens",
+  "addresses": {
+    "8453": "0x2f7201a664e49f59cff5750e9d2b38da7a5b49f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "alfafrens",
+    "sanitizedSymbol": "ALFAFRENS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x84ce35C1093C366a8f55E9BD5290ae7E32B486De",
+    "lpNftId": "1316654",
+    "lockerAddress": "0x115E40f5115cD1A03be383A0AA419122230C3791"
+  },
+  "clankerInfo": null
+}

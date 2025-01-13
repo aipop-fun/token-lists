@@ -1,0 +1,22 @@
+{
+  "name": "RUGnotFun",
+  "symbol": "RUGnotFun",
+  "decimals": 18,
+  "description": "RUGnotFun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RUGnotFun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RUGnotFun",
+  "addresses": {
+    "8453": "0x06cd40e222b4302e957ff822efaa28096264d018"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RUGnotFun",
+    "sanitizedSymbol": "RUGNOTFUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212369",
+    "lockerAddress": "0x97358ca23d1a90f0B58E2fe5a2D5313E9A1C6c94"
+  },
+  "clankerInfo": null
+}

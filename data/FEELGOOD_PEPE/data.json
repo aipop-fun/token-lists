@@ -1,0 +1,22 @@
+{
+  "name": "FeelGood Pepe",
+  "symbol": "FeelGood Pepe",
+  "decimals": 18,
+  "description": "FeelGood Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FeelGood%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FeelGood Pepe",
+  "addresses": {
+    "8453": "0x1b01092f7a2941fc80038cb56f34cecb2fdb9342"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FeelGood Pepe",
+    "sanitizedSymbol": "FEELGOOD_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4cb35089CBBB1a8A46a9a7Db8694CbB048239938",
+    "lpNftId": "1319055",
+    "lockerAddress": "0xdF76c3404d7129B7AEB1b9778F156091F266A42d"
+  },
+  "clankerInfo": null
+}

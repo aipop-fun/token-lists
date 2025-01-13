@@ -1,0 +1,22 @@
+{
+  "name": "Aethernet AI",
+  "symbol": "Aethernet AI",
+  "decimals": 18,
+  "description": "Aethernet AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aethernet%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aethernet AI",
+  "addresses": {
+    "8453": "0x32fd95c049f07db912ecd9f900db7abd5cee1dbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aethernet AI",
+    "sanitizedSymbol": "AETHERNET_AI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1125289",
+    "lockerAddress": "0x142f541dca2186f41A282a2958579e01B8d1d35D"
+  },
+  "clankerInfo": null
+}

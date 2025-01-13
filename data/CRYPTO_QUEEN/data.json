@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Queen",
+  "symbol": "Crypto Queen",
+  "decimals": 18,
+  "description": "Crypto Queen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Queen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Queen",
+  "addresses": {
+    "8453": "0x1cc92e65fa5616223e81ddb1941814ad85574541"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Queen",
+    "sanitizedSymbol": "CRYPTO_QUEEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2251534E5b1efb939c712599e162FF6aDf1c3109",
+    "lpNftId": "1324420",
+    "lockerAddress": "0x77730304eCb4E614c30fFdf85F0F14659f472C1E"
+  },
+  "clankerInfo": null
+}

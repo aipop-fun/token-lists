@@ -1,0 +1,22 @@
+{
+  "name": "NOOB",
+  "symbol": "NOOB",
+  "decimals": 18,
+  "description": "NOOB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NOOB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NOOB",
+  "addresses": {
+    "8453": "0x16eec1a0aaccec4fcfb6ce4b4beadca7f2fbee58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NOOB",
+    "sanitizedSymbol": "NOOB",
+    "created_at": "2024-12-10T09:28:41.309431",
+    "deployer": "0x0177Beb7694aDBDEccCa72bb8793a84eeb0947F8",
+    "lpNftId": "1399236",
+    "lockerAddress": "0x4b248B2199b751fef05a7805b4d240cD18267bbb"
+  },
+  "clankerInfo": null
+}

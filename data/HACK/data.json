@@ -1,0 +1,22 @@
+{
+  "name": "HACK",
+  "symbol": "HACK",
+  "decimals": 18,
+  "description": "HACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HACK",
+  "addresses": {
+    "8453": "0x13a81a7028befad5c59d082b7274ed561e422517"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HACK",
+    "sanitizedSymbol": "HACK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE97496666fa6DD141b32dEdB59ADDf2A8ADe8b2b",
+    "lpNftId": "1324658",
+    "lockerAddress": "0x4607Efb54a5F29D8F1Ff2dC266adf56D32409Ef6"
+  },
+  "clankerInfo": null
+}

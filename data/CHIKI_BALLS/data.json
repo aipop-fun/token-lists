@@ -1,0 +1,22 @@
+{
+  "name": "chiki balls",
+  "symbol": "chiki balls",
+  "decimals": 18,
+  "description": "chiki balls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chiki%20balls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chiki balls",
+  "addresses": {
+    "8453": "0x0024532c82fbd1d8e478b6cf1498f19ded150056"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chiki balls",
+    "sanitizedSymbol": "CHIKI_BALLS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x13F750Dd96148E98bD87d3c123d4a2A77102f8cb",
+    "lpNftId": "1375902",
+    "lockerAddress": "0x054F427acA4B8e85c98a5d4984A35e5f47052452"
+  },
+  "clankerInfo": null
+}

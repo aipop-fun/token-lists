@@ -1,0 +1,22 @@
+{
+  "name": "BANANA CRaNK",
+  "symbol": "BANANA CRaNK",
+  "decimals": 18,
+  "description": "BANANA CRaNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANANA%20CRaNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANANA CRaNK",
+  "addresses": {
+    "8453": "0x076d44e82c6778468d39f5e0f0074f0a3d87602b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANANA CRaNK",
+    "sanitizedSymbol": "BANANA_CRANK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDA5DB043373654A5BAb0aFc57e21411B7b8bdEd2",
+    "lpNftId": "1252939",
+    "lockerAddress": "0xeFE533bEeAdd0Be908a79a749D8b3F151d71A6D9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "solana on base",
+  "symbol": "solana on base",
+  "decimals": 18,
+  "description": "solana on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=solana%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "solana on base",
+  "addresses": {
+    "8453": "0x1924b17ff0b31605b7561d3631b57bb3bdce9def"
+  },
+  "tokenInfo": {
+    "originalSymbol": "solana on base",
+    "sanitizedSymbol": "SOLANA_ON_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2EFCcE22a3F385da42C60f4064223C79CFa73d48",
+    "lpNftId": "1290407",
+    "lockerAddress": "0x2c86759fE7f3E684960315eFF4275873A69B69b4"
+  },
+  "clankerInfo": null
+}

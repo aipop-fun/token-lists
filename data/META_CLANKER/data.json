@@ -1,0 +1,22 @@
+{
+  "name": "Meta Clanker",
+  "symbol": "Meta Clanker",
+  "decimals": 18,
+  "description": "Meta Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meta%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meta Clanker",
+  "addresses": {
+    "8453": "0x4143fea2b9689fcbb60658563be1c565f782a6af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meta Clanker",
+    "sanitizedSymbol": "META_CLANKER",
+    "created_at": "2024-12-10T02:07:33.744954",
+    "deployer": "0x6E5Dc63Ec5DDcb6F6F6f909d15D545671c435974",
+    "lpNftId": "1394719",
+    "lockerAddress": "0x5F2cfA29532bE2dDAbfb75300d192b4b50ae208B"
+  },
+  "clankerInfo": null
+}

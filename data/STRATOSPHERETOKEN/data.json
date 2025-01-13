@@ -1,0 +1,22 @@
+{
+  "name": "StratosphereToken",
+  "symbol": "StratosphereToken",
+  "decimals": 18,
+  "description": "StratosphereToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=StratosphereToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "StratosphereToken",
+  "addresses": {
+    "8453": "0x0d674c5fae4cc896f5ad28d15bcf32f3592ef5be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "StratosphereToken",
+    "sanitizedSymbol": "STRATOSPHERETOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118312",
+    "lockerAddress": "0xF9B896f4A66A30965F51B0654e9cB0a2cD7312A0"
+  },
+  "clankerInfo": null
+}

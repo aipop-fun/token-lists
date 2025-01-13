@@ -1,0 +1,22 @@
+{
+  "name": "BGUY",
+  "symbol": "BGUY",
+  "decimals": 18,
+  "description": "BGUY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BGUY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BGUY",
+  "addresses": {
+    "8453": "0x000dccbc2a6cca3cd908196d4287fee5478f3a6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BGUY",
+    "sanitizedSymbol": "BGUY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1120f1aD6792fE024DF86c0e9A4ea6410dea4DB6",
+    "lpNftId": "1331289",
+    "lockerAddress": "0x2F960CABb4dbF39ba7a486a050c5B59c231c0DDB"
+  },
+  "clankerInfo": null
+}

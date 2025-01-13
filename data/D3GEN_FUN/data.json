@@ -1,0 +1,22 @@
+{
+  "name": "D3gen.fun",
+  "symbol": "D3gen.fun",
+  "decimals": 18,
+  "description": "D3gen.fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=D3gen.fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "D3gen.fun",
+  "addresses": {
+    "8453": "0x37af4dd5d0bffaa6e8a65aa9b4bd0a6d4359e5c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "D3gen.fun",
+    "sanitizedSymbol": "D3GEN_FUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa20767dbbf3e6F9d58cea40095AE82c379d9A7ad",
+    "lpNftId": "1324592",
+    "lockerAddress": "0xe7d34e9C5849be6bd9920BFa0AC2B62e039915cd"
+  },
+  "clankerInfo": null
+}

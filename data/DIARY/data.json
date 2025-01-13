@@ -1,0 +1,22 @@
+{
+  "name": "Diary",
+  "symbol": "Diary",
+  "decimals": 18,
+  "description": "Diary is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diary",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diary",
+  "addresses": {
+    "8453": "0x370934196f704a87f7deb69ae6f97568de8d9b3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diary",
+    "sanitizedSymbol": "DIARY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224156",
+    "lockerAddress": "0x21E3dB81E33EadC7770af008b405CfE1256040C7"
+  },
+  "clankerInfo": null
+}

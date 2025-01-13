@@ -1,0 +1,22 @@
+{
+  "name": "Pewcat",
+  "symbol": "Pewcat",
+  "decimals": 18,
+  "description": "Pewcat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pewcat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pewcat",
+  "addresses": {
+    "8453": "0x39fb0497ea76ed91aa54707159fefef5a2ddbff1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pewcat",
+    "sanitizedSymbol": "PEWCAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0f02Ecee93C306cad292CeeE54850bb62b4bB869",
+    "lpNftId": "1322684",
+    "lockerAddress": "0xCcF24cd72211d98bBc6c055A0df3D3A2d2540c5E"
+  },
+  "clankerInfo": null
+}

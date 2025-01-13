@@ -1,0 +1,22 @@
+{
+  "name": "Cartm",
+  "symbol": "Cartm",
+  "decimals": 18,
+  "description": "Cartm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cartm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cartm",
+  "addresses": {
+    "8453": "0x1a895212355d09e60c5a6e172eb08251e26052de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cartm",
+    "sanitizedSymbol": "CARTM",
+    "created_at": "2024-12-12T12:19:13.610055",
+    "deployer": "0xed5a00D39c87c1A4d0bea6f9c434f65F78c7334e",
+    "lpNftId": "1434056",
+    "lockerAddress": "0x5dDB501ef45893CCA532E349fB5b9c0397256793"
+  },
+  "clankerInfo": null
+}

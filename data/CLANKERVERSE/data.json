@@ -1,0 +1,22 @@
+{
+  "name": "ClankerVerse",
+  "symbol": "ClankerVerse",
+  "decimals": 18,
+  "description": "ClankerVerse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerVerse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerVerse",
+  "addresses": {
+    "8453": "0x100fbf55c6a854ef0970f88c43070b7b2f2a5020"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerVerse",
+    "sanitizedSymbol": "CLANKERVERSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205917",
+    "lockerAddress": "0x71cE942F1935f64d500d2805b5cB77ba423ea353"
+  },
+  "clankerInfo": null
+}

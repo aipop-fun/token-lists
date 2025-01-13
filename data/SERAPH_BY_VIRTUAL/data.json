@@ -1,0 +1,22 @@
+{
+  "name": "SERAPH BY VIRTUAL",
+  "symbol": "SERAPH BY VIRTUAL",
+  "decimals": 18,
+  "description": "SERAPH BY VIRTUAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SERAPH%20BY%20VIRTUAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SERAPH BY VIRTUAL",
+  "addresses": {
+    "8453": "0x35d3b55cbbd14288a15850d4324a02a25ff7e213"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SERAPH BY VIRTUAL",
+    "sanitizedSymbol": "SERAPH_BY_VIRTUAL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe07dA592d8B3108E01b54025bE260A51992e846D",
+    "lpNftId": "1294783",
+    "lockerAddress": "0x2397572cEC41D20CA80BB4d2830B11323365f318"
+  },
+  "clankerInfo": null
+}

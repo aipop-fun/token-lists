@@ -1,0 +1,22 @@
+{
+  "name": "Clankry",
+  "symbol": "Clankry",
+  "decimals": 18,
+  "description": "Clankry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankry",
+  "addresses": {
+    "8453": "0x23717eea34a9cf37a34f189e66f146edbae96770"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankry",
+    "sanitizedSymbol": "CLANKRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xBe99589cF9173Ea24ae1E1178dB54Bc6befA6fAA",
+    "lpNftId": "1332344",
+    "lockerAddress": "0x22084f1830fF0133B7e705802C80F77589a346aA"
+  },
+  "clankerInfo": null
+}

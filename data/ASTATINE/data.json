@@ -1,0 +1,22 @@
+{
+  "name": "Astatine",
+  "symbol": "Astatine",
+  "decimals": 18,
+  "description": "Astatine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Astatine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Astatine",
+  "addresses": {
+    "8453": "0x3c4e7fde1ee4af82789a5b06eeb2d48c78e0a306"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Astatine",
+    "sanitizedSymbol": "ASTATINE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231984",
+    "lockerAddress": "0x64ce0AD0Db57d93e9b1434CBB15966c7b9F64Af8"
+  },
+  "clankerInfo": null
+}

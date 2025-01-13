@@ -1,0 +1,22 @@
+{
+  "name": "lethal ignition",
+  "symbol": "lethal ignition",
+  "decimals": 18,
+  "description": "lethal ignition is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lethal%20ignition",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lethal ignition",
+  "addresses": {
+    "8453": "0x38bb6526e0697ecce5117cab34c4db71e514a4aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lethal ignition",
+    "sanitizedSymbol": "LETHAL_IGNITION",
+    "created_at": "2024-12-10T16:57:30.894182",
+    "deployer": "0x2A1315573FD2E3C3f549D0DFAFF2c1f210519584",
+    "lpNftId": "1404259",
+    "lockerAddress": "0x5088C75ae6D1DAD119f8e8586fc692E89147d5A9"
+  },
+  "clankerInfo": null
+}

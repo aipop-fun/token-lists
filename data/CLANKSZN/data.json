@@ -1,0 +1,22 @@
+{
+  "name": "clankszn",
+  "symbol": "clankszn",
+  "decimals": 18,
+  "description": "clankszn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankszn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankszn",
+  "addresses": {
+    "8453": "0x022995c318f48af961fdebea95282e8fd5b19aa0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankszn",
+    "sanitizedSymbol": "CLANKSZN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236906",
+    "lockerAddress": "0x9fa30644c8A74F8615D24796ff95a1400aE06F28"
+  },
+  "clankerInfo": null
+}

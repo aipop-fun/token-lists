@@ -1,0 +1,22 @@
+{
+  "name": "Lonely Bot",
+  "symbol": "Lonely Bot",
+  "decimals": 18,
+  "description": "Lonely Bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lonely%20Bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lonely Bot",
+  "addresses": {
+    "8453": "0x01c4fd309da183cb2c5b13636cc8821b6c8dcb05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lonely Bot",
+    "sanitizedSymbol": "LONELY_BOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217841",
+    "lockerAddress": "0xd0d60b49927ad02ea9C1FFa8d6F2A805CBd9Ca66"
+  },
+  "clankerInfo": null
+}

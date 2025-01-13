@@ -1,0 +1,22 @@
+{
+  "name": "Elephant Token",
+  "symbol": "Elephant Token",
+  "decimals": 18,
+  "description": "Elephant Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elephant%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elephant Token",
+  "addresses": {
+    "8453": "0x1a769408c4a367b2cef3b2f79d056e2dacd054b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elephant Token",
+    "sanitizedSymbol": "ELEPHANT_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x31Ce895C687eaa8D3AdEf9FE5e96A4810DfFCE3A",
+    "lpNftId": "1324931",
+    "lockerAddress": "0x9a94790a1b9216869E52045718aC869F26692460"
+  },
+  "clankerInfo": null
+}

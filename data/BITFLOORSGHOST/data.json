@@ -1,0 +1,22 @@
+{
+  "name": "BITFLOORSGHOST",
+  "symbol": "BITFLOORSGHOST",
+  "decimals": 18,
+  "description": "BITFLOORSGHOST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITFLOORSGHOST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITFLOORSGHOST",
+  "addresses": {
+    "8453": "0x38952005ee00da1f0d395992b621d94e67d9c994"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITFLOORSGHOST",
+    "sanitizedSymbol": "BITFLOORSGHOST",
+    "created_at": "2024-12-09T05:11:44.729487",
+    "deployer": "0xF68c3d3003fBeC7682cf240e5395Ec138d731a47",
+    "lpNftId": "1383008",
+    "lockerAddress": "0x169bf13a7cF1721f0C0B4804e0cD2e5eB31403B1"
+  },
+  "clankerInfo": null
+}

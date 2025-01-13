@@ -1,0 +1,22 @@
+{
+  "name": "TRUNK FUNK",
+  "symbol": "TRUNK FUNK",
+  "decimals": 18,
+  "description": "TRUNK FUNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRUNK%20FUNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRUNK FUNK",
+  "addresses": {
+    "8453": "0x202b762f8ce1430e1ad30acc7ebf2f2945c7a7e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRUNK FUNK",
+    "sanitizedSymbol": "TRUNK_FUNK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x33eEff4c681E195d395a9d98E7ed2d7F750eE3e6",
+    "lpNftId": "1345177",
+    "lockerAddress": "0x029ec9d58377AB9Ff785831fb874b384857A0c64"
+  },
+  "clankerInfo": null
+}

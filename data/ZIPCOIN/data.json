@@ -1,0 +1,22 @@
+{
+  "name": "zipcoin",
+  "symbol": "zipcoin",
+  "decimals": 18,
+  "description": "zipcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zipcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zipcoin",
+  "addresses": {
+    "8453": "0x08856f3a39fe2d4964e9f6d60e9497ec30e18f10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zipcoin",
+    "sanitizedSymbol": "ZIPCOIN",
+    "created_at": "2024-12-10T22:41:52.961773",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408069",
+    "lockerAddress": "0xCC3dF598CB31b8eE3cAD36c3b7498E8E3175Bca8"
+  },
+  "clankerInfo": null
+}

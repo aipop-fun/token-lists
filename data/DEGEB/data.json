@@ -1,0 +1,22 @@
+{
+  "name": "DEGEB",
+  "symbol": "DEGEB",
+  "decimals": 18,
+  "description": "DEGEB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEB",
+  "addresses": {
+    "8453": "0x19b7b9bff6dc1c81711a528b4348b596ab84d0d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEB",
+    "sanitizedSymbol": "DEGEB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbfbD69e77976530D33841690A94B16D8aaf0b033",
+    "lpNftId": "1309561",
+    "lockerAddress": "0x61FD8BB68CD3a6b787d029d82245bea8c29114d4"
+  },
+  "clankerInfo": null
+}

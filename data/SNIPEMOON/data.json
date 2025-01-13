@@ -1,0 +1,22 @@
+{
+  "name": "SnipeMoon",
+  "symbol": "SnipeMoon",
+  "decimals": 18,
+  "description": "SnipeMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SnipeMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SnipeMoon",
+  "addresses": {
+    "8453": "0x1e5b75a86965a747854059456942c6a6f0e06934"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SnipeMoon",
+    "sanitizedSymbol": "SNIPEMOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xe07B8AF9f28f928897C1D0F0e0C1eAf8c823b721",
+    "lpNftId": "1315011",
+    "lockerAddress": "0x459F03f518bB451b7C53dD59ffd8D089700a2C01"
+  },
+  "clankerInfo": null
+}

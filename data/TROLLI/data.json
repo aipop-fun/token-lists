@@ -1,0 +1,22 @@
+{
+  "name": "TROLLI",
+  "symbol": "TROLLI",
+  "decimals": 18,
+  "description": "TROLLI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TROLLI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TROLLI",
+  "addresses": {
+    "8453": "0x0838412b548b889ecf7a3f367f986f4b628c1664"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TROLLI",
+    "sanitizedSymbol": "TROLLI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x33aCF8197D4DeD5E0C0354f22e8504d2798690EA",
+    "lpNftId": "1281173",
+    "lockerAddress": "0xee79484Ce2B3E75Aa4FCc5c06d3E441D28E8d878"
+  },
+  "clankerInfo": null
+}

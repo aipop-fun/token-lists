@@ -1,0 +1,22 @@
+{
+  "name": "DANKJOKER",
+  "symbol": "DANKJOKER",
+  "decimals": 18,
+  "description": "DANKJOKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DANKJOKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DANKJOKER",
+  "addresses": {
+    "8453": "0x21a904d85b924c580483380d9342b64d2e05c68e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DANKJOKER",
+    "sanitizedSymbol": "DANKJOKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0dfE227fd474bA80Fa32Ea59eC9570A66e9aE167",
+    "lpNftId": "1323815",
+    "lockerAddress": "0xef839c1D5b97A873308907A6960F1544453e057c"
+  },
+  "clankerInfo": null
+}

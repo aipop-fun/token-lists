@@ -1,0 +1,22 @@
+{
+  "name": "GREED",
+  "symbol": "GREED",
+  "decimals": 18,
+  "description": "GREED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GREED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GREED",
+  "addresses": {
+    "8453": "0x418bde94168d8e9a1469fa67e5dc06a73fc95dfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GREED",
+    "sanitizedSymbol": "GREED",
+    "created_at": "2024-12-09T18:07:22.637648",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1390034",
+    "lockerAddress": "0x650C9C33c95a6D3b7b666659a80BC7106f4468F4"
+  },
+  "clankerInfo": null
+}

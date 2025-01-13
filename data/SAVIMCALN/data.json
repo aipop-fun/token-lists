@@ -1,0 +1,22 @@
+{
+  "name": "SavimCaln",
+  "symbol": "SavimCaln",
+  "decimals": 18,
+  "description": "SavimCaln is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SavimCaln",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SavimCaln",
+  "addresses": {
+    "8453": "0x1d0087750deeba06ab57e616a28f89f45504143e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SavimCaln",
+    "sanitizedSymbol": "SAVIMCALN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3F34CF6296EB6559d6A8b28Add2708299EFD87FF",
+    "lpNftId": "1327584",
+    "lockerAddress": "0x413d3C957419CC5E24850602e43b84d49c35595f"
+  },
+  "clankerInfo": null
+}

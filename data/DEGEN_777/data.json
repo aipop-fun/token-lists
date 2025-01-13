@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN 777",
+  "symbol": "DEGEN 777",
+  "decimals": 18,
+  "description": "DEGEN 777 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20777",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN 777",
+  "addresses": {
+    "8453": "0x1c0c19f3bf8ae8efe1515fffa1993560ecebdfb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN 777",
+    "sanitizedSymbol": "DEGEN_777",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe3d5054b876fA1fec2a407FFEB2916354776eB70",
+    "lpNftId": "1326399",
+    "lockerAddress": "0x227f4A596b8CffE2A321B46a30925dcb0507Eb4F"
+  },
+  "clankerInfo": null
+}

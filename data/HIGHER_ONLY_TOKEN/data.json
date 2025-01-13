@@ -1,0 +1,22 @@
+{
+  "name": "Higher Only Token",
+  "symbol": "Higher Only Token",
+  "decimals": 18,
+  "description": "Higher Only Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Higher%20Only%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Higher Only Token",
+  "addresses": {
+    "8453": "0x3ac368560dc067daa0607c9a652e79528bbf947d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Higher Only Token",
+    "sanitizedSymbol": "HIGHER_ONLY_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1343689",
+    "lockerAddress": "0x100f50D596f49e4885cf71b2396eBe96ced28cFD"
+  },
+  "clankerInfo": null
+}

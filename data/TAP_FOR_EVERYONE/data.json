@@ -1,0 +1,22 @@
+{
+  "name": "TAP FOR EVERYONE",
+  "symbol": "TAP FOR EVERYONE",
+  "decimals": 18,
+  "description": "TAP FOR EVERYONE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAP%20FOR%20EVERYONE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAP FOR EVERYONE",
+  "addresses": {
+    "8453": "0x0c715d858dc8b3cf9f5d18a184a8e4ce3aae0380"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAP FOR EVERYONE",
+    "sanitizedSymbol": "TAP_FOR_EVERYONE",
+    "created_at": "2024-12-11T16:35:37.782445",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1421931",
+    "lockerAddress": "0x26c4c2cA9Dfbee9eEDC095D54640893d83965F43"
+  },
+  "clankerInfo": null
+}

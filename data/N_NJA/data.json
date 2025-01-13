@@ -1,0 +1,22 @@
+{
+  "name": "NİNJA",
+  "symbol": "NİNJA",
+  "decimals": 18,
+  "description": "NİNJA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=N%C4%B0NJA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NİNJA",
+  "addresses": {
+    "8453": "0x35c4fe5283130644b7321f4732905ef33ecdd0c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NİNJA",
+    "sanitizedSymbol": "N_NJA",
+    "created_at": "2024-12-09T13:22:13.226357",
+    "deployer": "0xB22F9BaB1010075aEFc319A69eE2F66eC8a1Cea4",
+    "lpNftId": "1387376",
+    "lockerAddress": "0xA05b7CE00C3C916fD491Ad4ADA467A3b1d02716F"
+  },
+  "clankerInfo": null
+}

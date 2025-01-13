@@ -1,0 +1,22 @@
+{
+  "name": "Rabidcoin",
+  "symbol": "Rabidcoin",
+  "decimals": 18,
+  "description": "Rabidcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rabidcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rabidcoin",
+  "addresses": {
+    "8453": "0x2dc06fb29a60ebb4daa15d1b8e000e4c092bf14e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rabidcoin",
+    "sanitizedSymbol": "RABIDCOIN",
+    "created_at": "2024-12-10T23:19:23.190605",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408301",
+    "lockerAddress": "0xd56Ff8aebf3610c534CE996f70ed40290B2377B4"
+  },
+  "clankerInfo": null
+}

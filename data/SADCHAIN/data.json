@@ -1,0 +1,22 @@
+{
+  "name": "SadChain",
+  "symbol": "SadChain",
+  "decimals": 18,
+  "description": "SadChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SadChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SadChain",
+  "addresses": {
+    "8453": "0x10ce66008da2305d624c2f4d995f5b0947045626"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SadChain",
+    "sanitizedSymbol": "SADCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166332",
+    "lockerAddress": "0x5d50D8F84D3B9CD4a334a06A2768C248450a391f"
+  },
+  "clankerInfo": null
+}

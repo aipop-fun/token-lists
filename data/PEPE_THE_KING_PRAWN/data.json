@@ -1,0 +1,22 @@
+{
+  "name": "Pepe the King Prawn",
+  "symbol": "Pepe the King Prawn",
+  "decimals": 18,
+  "description": "Pepe the King Prawn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20the%20King%20Prawn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe the King Prawn",
+  "addresses": {
+    "8453": "0x360666c3163adb7469b1a6fb9583070fde90402f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe the King Prawn",
+    "sanitizedSymbol": "PEPE_THE_KING_PRAWN",
+    "created_at": "2024-12-11T01:33:39.307928",
+    "deployer": "0x4B09a379d88450bCE02DBA991DFCfF787d7B7ba6",
+    "lpNftId": "1409882",
+    "lockerAddress": "0x03e0833dd86A3f82073DE866A764f9EF822Bc697"
+  },
+  "clankerInfo": null
+}

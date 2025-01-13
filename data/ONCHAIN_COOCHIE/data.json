@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Coochie",
+  "symbol": "Onchain Coochie",
+  "decimals": 18,
+  "description": "Onchain Coochie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Coochie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Coochie",
+  "addresses": {
+    "8453": "0x0b5989b60cde892981a2983e4eca18df9cc9e710"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Coochie",
+    "sanitizedSymbol": "ONCHAIN_COOCHIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118517",
+    "lockerAddress": "0x24FC8E9DbeBc449967cC59858Be90575ca9dF0Bb"
+  },
+  "clankerInfo": null
+}

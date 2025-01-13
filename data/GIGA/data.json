@@ -1,0 +1,22 @@
+{
+  "name": "GIGA",
+  "symbol": "GIGA",
+  "decimals": 18,
+  "description": "GIGA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIGA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIGA",
+  "addresses": {
+    "8453": "0x10127c2cff3718d90b4cdc53daa879d64818fe51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIGA",
+    "sanitizedSymbol": "GIGA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143663",
+    "lockerAddress": "0x77459C6d4749b3cfD05c7D4680BEceD3BB26F330"
+  },
+  "clankerInfo": null
+}

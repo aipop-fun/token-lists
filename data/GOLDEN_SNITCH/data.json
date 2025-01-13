@@ -1,0 +1,22 @@
+{
+  "name": "Golden Snitch",
+  "symbol": "Golden Snitch",
+  "decimals": 18,
+  "description": "Golden Snitch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golden%20Snitch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golden Snitch",
+  "addresses": {
+    "8453": "0x11122d42c602c3e5b280c2ebd0dab02db4bb5199"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golden Snitch",
+    "sanitizedSymbol": "GOLDEN_SNITCH",
+    "created_at": "2024-12-09T20:17:19.518361",
+    "deployer": "0x92bA98347C909e1F599E3B6d254f6aeee5FA2b15",
+    "lpNftId": "1391529",
+    "lockerAddress": "0xf532cB0CbAbC326F0d53D53cEa7675bc7B9d91f8"
+  },
+  "clankerInfo": null
+}

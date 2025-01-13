@@ -1,0 +1,22 @@
+{
+  "name": "MobileLegend",
+  "symbol": "MobileLegend",
+  "decimals": 18,
+  "description": "MobileLegend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MobileLegend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MobileLegend",
+  "addresses": {
+    "8453": "0x0cd080da8fbf3c5e2bf879aacd4123a17e4230d6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MobileLegend",
+    "sanitizedSymbol": "MOBILELEGEND",
+    "created_at": "2024-12-12T15:39:08.867059",
+    "deployer": "0x096Ac509216968cd86194493D742E864DAAAff3f",
+    "lpNftId": "1437211",
+    "lockerAddress": "0x2ab952cf9e43CcCb80c2A7525d4d440Cec871A34"
+  },
+  "clankerInfo": null
+}

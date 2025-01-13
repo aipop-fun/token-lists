@@ -1,0 +1,22 @@
+{
+  "name": "LONG DUCK",
+  "symbol": "LONG DUCK",
+  "decimals": 18,
+  "description": "LONG DUCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LONG%20DUCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LONG DUCK",
+  "addresses": {
+    "8453": "0x41ac6858556fa4b3d699ee1ce28e36604edebf4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LONG DUCK",
+    "sanitizedSymbol": "LONG_DUCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5a47F1B48f8aD546Fb977cC89eC759F74C0E492A",
+    "lpNftId": "1327564",
+    "lockerAddress": "0x89DD54343e7175eC44c448b254FF5702183c8E75"
+  },
+  "clankerInfo": null
+}

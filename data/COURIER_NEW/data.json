@@ -1,0 +1,22 @@
+{
+  "name": "Courier New",
+  "symbol": "Courier New",
+  "decimals": 18,
+  "description": "Courier New is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Courier%20New",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Courier New",
+  "addresses": {
+    "8453": "0x349f451e949c5daf70056eba7e207fb80d8e9840"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Courier New",
+    "sanitizedSymbol": "COURIER_NEW",
+    "created_at": "2024-12-10T21:39:46.665533",
+    "deployer": "0x3F869D5824aD9D5F8BC1A9C1800f46Fca1B0cF7c",
+    "lpNftId": "1407397",
+    "lockerAddress": "0xBA0b8EAd33E20bcE6495e140f3b0bC380a0A4636"
+  },
+  "clankerInfo": null
+}

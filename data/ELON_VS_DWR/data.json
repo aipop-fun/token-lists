@@ -1,0 +1,22 @@
+{
+  "name": "ELON VS DWR",
+  "symbol": "ELON VS DWR",
+  "decimals": 18,
+  "description": "ELON VS DWR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ELON%20VS%20DWR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ELON VS DWR",
+  "addresses": {
+    "8453": "0x0f2fcc03b0bbd5d45102b84335d672cf59aba75b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ELON VS DWR",
+    "sanitizedSymbol": "ELON_VS_DWR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226427",
+    "lockerAddress": "0x01c0ee6dB8e2bAB0c46e0fB3A218372b5302deB0"
+  },
+  "clankerInfo": null
+}

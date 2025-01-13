@@ -1,0 +1,22 @@
+{
+  "name": "KITTENHAMMER",
+  "symbol": "KITTENHAMMER",
+  "decimals": 18,
+  "description": "KITTENHAMMER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KITTENHAMMER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KITTENHAMMER",
+  "addresses": {
+    "8453": "0x1a1bad2eac491111ce5f6e3dd524f38cb40ab1ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KITTENHAMMER",
+    "sanitizedSymbol": "KITTENHAMMER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90bD7151c2F0E4000C06254BBf25e6416d527b7d",
+    "lpNftId": "1330383",
+    "lockerAddress": "0xA9Ee22cd7905E3b8AD0bcD61aceB2A742e3921a7"
+  },
+  "clankerInfo": null
+}

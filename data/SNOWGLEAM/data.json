@@ -1,0 +1,22 @@
+{
+  "name": "SnowGleam",
+  "symbol": "SnowGleam",
+  "decimals": 18,
+  "description": "SnowGleam is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SnowGleam",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SnowGleam",
+  "addresses": {
+    "8453": "0x0c5ad3c79f85896f16a75e7ac4c3ba5781976cc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SnowGleam",
+    "sanitizedSymbol": "SNOWGLEAM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1320924",
+    "lockerAddress": "0xC60d5073f5075aaC784d17C21621d4782F79124b"
+  },
+  "clankerInfo": null
+}

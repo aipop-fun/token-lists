@@ -1,0 +1,22 @@
+{
+  "name": "Lightning X1000",
+  "symbol": "Lightning X1000",
+  "decimals": 18,
+  "description": "Lightning X1000 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lightning%20X1000",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lightning X1000",
+  "addresses": {
+    "8453": "0x30933bd4c94dca20df8f99495f5958f90649fdff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lightning X1000",
+    "sanitizedSymbol": "LIGHTNING_X1000",
+    "created_at": "2024-12-10T04:20:32.64807",
+    "deployer": "0xf0e2dDb3960E3B349EeF5EfE6e32471391055b17",
+    "lpNftId": "1396231",
+    "lockerAddress": "0x5f9978Afb08b053319b9029374B5bb20a65e7129"
+  },
+  "clankerInfo": null
+}

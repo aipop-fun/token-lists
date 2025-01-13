@@ -1,0 +1,22 @@
+{
+  "name": "Happy DMR",
+  "symbol": "Happy DMR",
+  "decimals": 18,
+  "description": "Happy DMR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happy%20DMR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happy DMR",
+  "addresses": {
+    "8453": "0x24298d905355ecf21b3c746e8258376cb8ea76c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happy DMR",
+    "sanitizedSymbol": "HAPPY_DMR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0bbB97f7Cb38030921F3ac0fbF8E91F7F18BFD7F",
+    "lpNftId": "1312098",
+    "lockerAddress": "0x40cFdC4024573D463c1B4aA9733Ca71CC3edd95c"
+  },
+  "clankerInfo": null
+}

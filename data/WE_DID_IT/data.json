@@ -1,0 +1,22 @@
+{
+  "name": "WE DID IT",
+  "symbol": "WE DID IT",
+  "decimals": 18,
+  "description": "WE DID IT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WE%20DID%20IT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WE DID IT",
+  "addresses": {
+    "8453": "0x1433e9d1edfc9eaa7410499fa5507625e1491d8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WE DID IT",
+    "sanitizedSymbol": "WE_DID_IT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0F23189b256939996dEc01766F6b2E581AFb5bB3",
+    "lpNftId": "1328208",
+    "lockerAddress": "0xD00C5d51228DA773f95Ae3E763a3D4b8aed6754A"
+  },
+  "clankerInfo": null
+}

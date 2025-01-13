@@ -1,0 +1,22 @@
+{
+  "name": "cheeseburger",
+  "symbol": "cheeseburger",
+  "decimals": 18,
+  "description": "cheeseburger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cheeseburger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cheeseburger",
+  "addresses": {
+    "8453": "0x367eca121b97689351654ca36b4d5704fe1e3069"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cheeseburger",
+    "sanitizedSymbol": "CHEESEBURGER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1110245",
+    "lockerAddress": "0x2E64E89e418f0Afb852cE9F01C28763a74AACbc6"
+  },
+  "clankerInfo": null
+}

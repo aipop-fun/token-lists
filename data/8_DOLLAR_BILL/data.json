@@ -1,0 +1,22 @@
+{
+  "name": "8 dollar bill",
+  "symbol": "8 dollar bill",
+  "decimals": 18,
+  "description": "8 dollar bill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=8%20dollar%20bill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "8 dollar bill",
+  "addresses": {
+    "8453": "0x3a3849358329b698b1d3397a9882d0be9352d555"
+  },
+  "tokenInfo": {
+    "originalSymbol": "8 dollar bill",
+    "sanitizedSymbol": "8_DOLLAR_BILL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1b3447e815642308B3867D7175CEab8ECEf8581",
+    "lpNftId": "1285170",
+    "lockerAddress": "0xbf68e993506782B99939Ff87c3f7bA8215282259"
+  },
+  "clankerInfo": null
+}

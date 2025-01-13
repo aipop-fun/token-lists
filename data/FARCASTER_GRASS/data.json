@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Grass",
+  "symbol": "Farcaster Grass",
+  "decimals": 18,
+  "description": "Farcaster Grass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Grass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Grass",
+  "addresses": {
+    "8453": "0x1310fe5d81b2559b0ce7eee759c40ceb69600814"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Grass",
+    "sanitizedSymbol": "FARCASTER_GRASS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210465",
+    "lockerAddress": "0xa89201D726aF3613eC942A23839A08ff9E745206"
+  },
+  "clankerInfo": null
+}

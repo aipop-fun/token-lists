@@ -1,0 +1,22 @@
+{
+  "name": "caffeine",
+  "symbol": "caffeine",
+  "decimals": 18,
+  "description": "caffeine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=caffeine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "caffeine",
+  "addresses": {
+    "8453": "0x13ec47be69599a9c421662175d96160d3898c1a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "caffeine",
+    "sanitizedSymbol": "CAFFEINE",
+    "created_at": "2024-12-10T02:32:53.697645",
+    "deployer": "0x2E793180531ADa813D0a7D49B849147e5288590d",
+    "lpNftId": "1395181",
+    "lockerAddress": "0xd4dB904aE3949F0e191c6ac79A5b90bf4a291841"
+  },
+  "clankerInfo": null
+}

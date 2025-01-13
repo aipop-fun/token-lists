@@ -1,0 +1,22 @@
+{
+  "name": "Wrapped Clanker",
+  "symbol": "Wrapped Clanker",
+  "decimals": 18,
+  "description": "Wrapped Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wrapped%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wrapped Clanker",
+  "addresses": {
+    "8453": "0x045cf44a4aa237133aadd53e52a8b67ba3620658"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wrapped Clanker",
+    "sanitizedSymbol": "WRAPPED_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x26f8840b82790c5b0bD4D6356C9eebF9F712125E",
+    "lpNftId": "1277709",
+    "lockerAddress": "0xf45C8284b03deE4CDF78930BC1079939f16236AA"
+  },
+  "clankerInfo": null
+}

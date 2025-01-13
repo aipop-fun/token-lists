@@ -1,0 +1,22 @@
+{
+  "name": "Meh",
+  "symbol": "Meh",
+  "decimals": 18,
+  "description": "Meh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meh",
+  "addresses": {
+    "8453": "0x3fc8d66999d2d5de1ef31b2a132d66f4c5dc6602"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meh",
+    "sanitizedSymbol": "MEH",
+    "created_at": "2024-12-10T17:22:49.948129",
+    "deployer": "0x0C32f7759B0f9035a7cD74238abC398a7e90a23E",
+    "lpNftId": "1404539",
+    "lockerAddress": "0xd1a687032081Bb872688989220385715Ee380324"
+  },
+  "clankerInfo": null
+}

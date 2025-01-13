@@ -1,0 +1,22 @@
+{
+  "name": "Magic Meme Beans",
+  "symbol": "Magic Meme Beans",
+  "decimals": 18,
+  "description": "Magic Meme Beans is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Meme%20Beans",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Meme Beans",
+  "addresses": {
+    "8453": "0x03ba8d95c6bae364328348b9aa502d385087c9b3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Meme Beans",
+    "sanitizedSymbol": "MAGIC_MEME_BEANS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x62AdDcd4928d535F4d6A5e3Da0a05846859A9F1e",
+    "lpNftId": "1313570",
+    "lockerAddress": "0x5a3bB3e399DA2C85C331649895d91153B2C2a6D0"
+  },
+  "clankerInfo": null
+}

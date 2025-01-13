@@ -1,0 +1,22 @@
+{
+  "name": "Ghost",
+  "symbol": "Ghost",
+  "decimals": 18,
+  "description": "Ghost is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ghost",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ghost",
+  "addresses": {
+    "8453": "0x364c21a21efd954ac216e85950edc498738c76c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ghost",
+    "sanitizedSymbol": "GHOST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225719",
+    "lockerAddress": "0x6a1c299AaE0C8B8617b8F4E807Fa11BD868a1F5b"
+  },
+  "clankerInfo": null
+}

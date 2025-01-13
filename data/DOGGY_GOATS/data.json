@@ -1,0 +1,22 @@
+{
+  "name": "Doggy Goats",
+  "symbol": "Doggy Goats",
+  "decimals": 18,
+  "description": "Doggy Goats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20Goats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy Goats",
+  "addresses": {
+    "8453": "0x0466342da85a7b4edb10588a82f3383dc52d9944"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy Goats",
+    "sanitizedSymbol": "DOGGY_GOATS",
+    "created_at": "2024-12-11T03:34:02.403826",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1411832",
+    "lockerAddress": "0x53E540fECe76C5c8F4bAdA27592887776F17584f"
+  },
+  "clankerInfo": null
+}

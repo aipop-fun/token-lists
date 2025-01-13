@@ -1,0 +1,22 @@
+{
+  "name": "TABOSHI",
+  "symbol": "TABOSHI",
+  "decimals": 18,
+  "description": "TABOSHI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TABOSHI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TABOSHI",
+  "addresses": {
+    "8453": "0x3be50d7dc6840e55dc07abe5e3e44cc98794ff14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TABOSHI",
+    "sanitizedSymbol": "TABOSHI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x326fb0EaB3645763bc7CC027864Ce89269838575",
+    "lpNftId": "1324920",
+    "lockerAddress": "0x0832E5FaF090e5E35C98e53Be0DF3F9a58920a7C"
+  },
+  "clankerInfo": null
+}

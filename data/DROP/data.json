@@ -1,0 +1,22 @@
+{
+  "name": "Drop",
+  "symbol": "Drop",
+  "decimals": 18,
+  "description": "Drop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Drop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Drop",
+  "addresses": {
+    "8453": "0x2da5042985f7f09d834995853aa95f044ef4dae0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Drop",
+    "sanitizedSymbol": "DROP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0671aEC56bc2E358448162677Bd110D673cD2937",
+    "lpNftId": "1303423",
+    "lockerAddress": "0xB865647Dd0f169e3299D81e572A12E0964f12512"
+  },
+  "clankerInfo": null
+}

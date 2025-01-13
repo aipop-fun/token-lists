@@ -1,0 +1,22 @@
+{
+  "name": "TokenBot_069",
+  "symbol": "TokenBot_069",
+  "decimals": 18,
+  "description": "TokenBot_069 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TokenBot_069",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TokenBot_069",
+  "addresses": {
+    "8453": "0x0d8ade88d2b39e5004a4108453c6ca7534773f8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TokenBot_069",
+    "sanitizedSymbol": "TOKENBOT_069",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198007",
+    "lockerAddress": "0x83F898f68DE9e94B3Efd74bB6DdC907B1015c3EF"
+  },
+  "clankerInfo": null
+}

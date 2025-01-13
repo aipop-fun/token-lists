@@ -1,0 +1,22 @@
+{
+  "name": "zoshua",
+  "symbol": "zoshua",
+  "decimals": 18,
+  "description": "zoshua is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zoshua",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zoshua",
+  "addresses": {
+    "8453": "0x19965659be1869fb44312b77b4a26a82f1c94b84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zoshua",
+    "sanitizedSymbol": "ZOSHUA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3D46c0bd3aCeE080942d0C6fC09cDFe4aF29320D",
+    "lpNftId": "1252161",
+    "lockerAddress": "0xdA4e4Aba7BeFa98e5147eF2F4C4EC50B5F428d29"
+  },
+  "clankerInfo": null
+}

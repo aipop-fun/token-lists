@@ -1,0 +1,22 @@
+{
+  "name": "Proxy gray clanker",
+  "symbol": "Proxy gray clanker",
+  "decimals": 18,
+  "description": "Proxy gray clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Proxy%20gray%20clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Proxy gray clanker",
+  "addresses": {
+    "8453": "0x05aba70e6cf12eadbdfe58b1486e7b595487fe04"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Proxy gray clanker",
+    "sanitizedSymbol": "PROXY_GRAY_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1327E45d97169521Ce965Cb5e90fFcF0a83Df54c",
+    "lpNftId": "1368515",
+    "lockerAddress": "0xB6f6111608208f4F52C7fAF71D70deA139eE970B"
+  },
+  "clankerInfo": null
+}

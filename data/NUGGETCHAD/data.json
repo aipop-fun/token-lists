@@ -1,0 +1,22 @@
+{
+  "name": "NuggetChad",
+  "symbol": "NuggetChad",
+  "decimals": 18,
+  "description": "NuggetChad is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NuggetChad",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NuggetChad",
+  "addresses": {
+    "8453": "0x18d0d0e2cc2a79cf62f929e435ad21c594dfed14"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NuggetChad",
+    "sanitizedSymbol": "NUGGETCHAD",
+    "created_at": "2024-12-11T19:31:23.989025",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1424708",
+    "lockerAddress": "0x23E4De4B761aF7CbC0eC6faA9A0C1B38b09EE922"
+  },
+  "clankerInfo": null
+}

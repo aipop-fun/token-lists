@@ -1,0 +1,22 @@
+{
+  "name": "Snooze",
+  "symbol": "Snooze",
+  "decimals": 18,
+  "description": "Snooze is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snooze",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snooze",
+  "addresses": {
+    "8453": "0x058d19589a3a9443866b4314bd427b6e20c9cb4c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snooze",
+    "sanitizedSymbol": "SNOOZE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166131",
+    "lockerAddress": "0xBeC32bDd76065A5dBe5fDc1A7ba5118d9F15266f"
+  },
+  "clankerInfo": null
+}

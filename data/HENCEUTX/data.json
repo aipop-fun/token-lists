@@ -1,0 +1,22 @@
+{
+  "name": "HENCEUTX",
+  "symbol": "HENCEUTX",
+  "decimals": 18,
+  "description": "HENCEUTX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HENCEUTX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HENCEUTX",
+  "addresses": {
+    "8453": "0x2344b87c165d544d66fc9168a3831928064f18fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HENCEUTX",
+    "sanitizedSymbol": "HENCEUTX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0f44e85777C3e78a1a5e7e5c9B50e867C0e8A55e",
+    "lpNftId": "1318230",
+    "lockerAddress": "0x097F7a0C22B7E0fECe67A3ee1BEf95F81FA8dd93"
+  },
+  "clankerInfo": null
+}

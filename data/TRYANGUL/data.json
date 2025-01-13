@@ -1,0 +1,22 @@
+{
+  "name": "Tryangul",
+  "symbol": "Tryangul",
+  "decimals": 18,
+  "description": "Tryangul is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tryangul",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tryangul",
+  "addresses": {
+    "8453": "0x2dee01f3b4d7f8a17bc532f5da7638e0e7dd5f5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tryangul",
+    "sanitizedSymbol": "TRYANGUL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaE1A5e3b9d469b7281455A62CD1F7879ff05c7c1",
+    "lpNftId": "1310797",
+    "lockerAddress": "0xb6F9B180d95B055d24C3251a46A6CC767E47bA71"
+  },
+  "clankerInfo": null
+}

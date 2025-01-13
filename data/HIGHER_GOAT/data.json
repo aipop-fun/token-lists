@@ -1,0 +1,22 @@
+{
+  "name": "HIGHER Goat",
+  "symbol": "HIGHER Goat",
+  "decimals": 18,
+  "description": "HIGHER Goat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HIGHER%20Goat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HIGHER Goat",
+  "addresses": {
+    "8453": "0x30a785e94118990c397c33c4b55fa886c25e2814"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HIGHER Goat",
+    "sanitizedSymbol": "HIGHER_GOAT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8E2FD8Df3fA9454E390887A86919bb7B86Cc1141",
+    "lpNftId": "1352635",
+    "lockerAddress": "0xEC0992877E0BDaf8831c2A1E3528eB21DF4CDE05"
+  },
+  "clankerInfo": null
+}

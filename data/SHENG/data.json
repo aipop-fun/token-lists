@@ -1,0 +1,22 @@
+{
+  "name": "Sheng",
+  "symbol": "Sheng",
+  "decimals": 18,
+  "description": "Sheng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sheng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sheng",
+  "addresses": {
+    "8453": "0x0e73b7301925d4a483310a63d3695e43d31c07bc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sheng",
+    "sanitizedSymbol": "SHENG",
+    "created_at": "2024-12-10T18:30:20.865278",
+    "deployer": "0x3d77D99CF84Eaca2FCA7B8386d96d48bd63b6cbb",
+    "lpNftId": "1405538",
+    "lockerAddress": "0xC7559547064dd99D638B1b29D6106389B61A20b9"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MOJO",
+  "symbol": "MOJO",
+  "decimals": 18,
+  "description": "MOJO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOJO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOJO",
+  "addresses": {
+    "8453": "0x3dfed3fad82b2f06421ac0a889f05a716f3ce561"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOJO",
+    "sanitizedSymbol": "MOJO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166376",
+    "lockerAddress": "0x7A726cD5FAA8BEF5772Db24bDAE407c60941f4A3"
+  },
+  "clankerInfo": null
+}

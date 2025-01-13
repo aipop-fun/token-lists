@@ -1,0 +1,22 @@
+{
+  "name": "Uwembe",
+  "symbol": "Uwembe",
+  "decimals": 18,
+  "description": "Uwembe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Uwembe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Uwembe",
+  "addresses": {
+    "8453": "0x2faf4997018da7ddeaefda72ec630a902f9e9286"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Uwembe",
+    "sanitizedSymbol": "UWEMBE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232957",
+    "lockerAddress": "0x737416D90082629572c62c72aD23C195598803c4"
+  },
+  "clankerInfo": null
+}

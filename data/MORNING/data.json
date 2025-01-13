@@ -1,0 +1,22 @@
+{
+  "name": "MORNING",
+  "symbol": "MORNING",
+  "decimals": 18,
+  "description": "MORNING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MORNING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MORNING",
+  "addresses": {
+    "8453": "0x3a047bd3dc61910c9f922d2ff780bd77ced8bbbb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MORNING",
+    "sanitizedSymbol": "MORNING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x466EAbfDb489138f968ab0049a96271d3151A5B2",
+    "lpNftId": "1298666",
+    "lockerAddress": "0x721c31F1E66D53E1196C1cD0Ed0b71462eb71737"
+  },
+  "clankerInfo": null
+}

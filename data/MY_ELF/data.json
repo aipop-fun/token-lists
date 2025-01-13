@@ -1,0 +1,22 @@
+{
+  "name": "My Elf",
+  "symbol": "My Elf",
+  "decimals": 18,
+  "description": "My Elf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Elf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Elf",
+  "addresses": {
+    "8453": "0x02a125c75bb6c645382571ff6fbe316bbc17b114"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Elf",
+    "sanitizedSymbol": "MY_ELF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C51532Ef51ab720514b5acAf97Fe6C600FbFb54",
+    "lpNftId": "1292387",
+    "lockerAddress": "0x2DA57FDc0361A4Bd04fBA7e1EC29f314bd905C62"
+  },
+  "clankerInfo": null
+}

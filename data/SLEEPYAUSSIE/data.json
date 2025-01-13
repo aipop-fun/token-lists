@@ -1,0 +1,22 @@
+{
+  "name": "$sleepyaussie",
+  "symbol": "$sleepyaussie",
+  "decimals": 18,
+  "description": "$sleepyaussie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24sleepyaussie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$sleepyaussie",
+  "addresses": {
+    "8453": "0x16ef84f4d7538fab5d2f76e2c41be2f8eb3748ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$sleepyaussie",
+    "sanitizedSymbol": "SLEEPYAUSSIE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6E905035a649AeB162D7F2fE50fcf2B92Aef84e9",
+    "lpNftId": "1274903",
+    "lockerAddress": "0xa313527180D0de9C0e59a4d04E482b9bBAE53Bb8"
+  },
+  "clankerInfo": null
+}

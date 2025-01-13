@@ -1,0 +1,22 @@
+{
+  "name": "WooJoo",
+  "symbol": "WooJoo",
+  "decimals": 18,
+  "description": "WooJoo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WooJoo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WooJoo",
+  "addresses": {
+    "8453": "0x09243756b44f63a21027e14a805aa3a55a09c94e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WooJoo",
+    "sanitizedSymbol": "WOOJOO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225838",
+    "lockerAddress": "0xa87298C1A763C90dbeafe7BcB26E5Cdb585a01Aa"
+  },
+  "clankerInfo": null
+}

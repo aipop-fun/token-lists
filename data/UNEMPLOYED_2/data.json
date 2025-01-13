@@ -1,0 +1,22 @@
+{
+  "name": "Unemployed",
+  "symbol": "Unemployed",
+  "decimals": 18,
+  "description": "Unemployed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unemployed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unemployed",
+  "addresses": {
+    "8453": "0x01c58d53bd9e9214e72baa0fe24ae2e0d9aa5cf2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unemployed",
+    "sanitizedSymbol": "UNEMPLOYED_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEb97c803A93653bEEE50fBf9d55ad7d93D8299dD",
+    "lpNftId": "1322067",
+    "lockerAddress": "0x8073049C2D5F79AE1fBcB176032623a13E5a73F0"
+  },
+  "clankerInfo": null
+}

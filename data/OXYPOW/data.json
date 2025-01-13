@@ -1,0 +1,22 @@
+{
+  "name": "oxypow",
+  "symbol": "oxypow",
+  "decimals": 18,
+  "description": "oxypow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=oxypow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "oxypow",
+  "addresses": {
+    "8453": "0x17567cc15c1cc63aaaa55cbb40f8c9d2aa64f483"
+  },
+  "tokenInfo": {
+    "originalSymbol": "oxypow",
+    "sanitizedSymbol": "OXYPOW",
+    "created_at": "2024-12-10T07:18:37.516733",
+    "deployer": "0x15f23C3fd67be3C04d743694F8Cff3Adf06cE400",
+    "lpNftId": "1397806",
+    "lockerAddress": "0x92B3bEDC24Ce4A01c27A84133ceCe2e61b2366B0"
+  },
+  "clankerInfo": null
+}

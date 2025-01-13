@@ -1,0 +1,22 @@
+{
+  "name": "MeatLlamaHat",
+  "symbol": "MeatLlamaHat",
+  "decimals": 18,
+  "description": "MeatLlamaHat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeatLlamaHat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeatLlamaHat",
+  "addresses": {
+    "8453": "0x02f647002e2ae443ac275842d4b37753a3834368"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeatLlamaHat",
+    "sanitizedSymbol": "MEATLLAMAHAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129415",
+    "lockerAddress": "0x9CcCE1E3d051026cF8EFA65F9919144e062bdf79"
+  },
+  "clankerInfo": null
+}

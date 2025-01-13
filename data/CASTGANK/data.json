@@ -1,0 +1,22 @@
+{
+  "name": "CASTGANK",
+  "symbol": "CASTGANK",
+  "decimals": 18,
+  "description": "CASTGANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CASTGANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CASTGANK",
+  "addresses": {
+    "8453": "0x2e740b89601c8beb7dbf8f8adedfbe84a5b76009"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CASTGANK",
+    "sanitizedSymbol": "CASTGANK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213875",
+    "lockerAddress": "0x65996118b32Df104F8232709E887e01aAF2E166f"
+  },
+  "clankerInfo": null
+}

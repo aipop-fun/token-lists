@@ -1,0 +1,22 @@
+{
+  "name": "nikita beer",
+  "symbol": "nikita beer",
+  "decimals": 18,
+  "description": "nikita beer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nikita%20beer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nikita beer",
+  "addresses": {
+    "8453": "0x17e2d87628676d72fda132ed5e2914adb9e14196"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nikita beer",
+    "sanitizedSymbol": "NIKITA_BEER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1366060",
+    "lockerAddress": "0x70CFB59f8AF873830AA57a20d500cE56cd2fbCCB"
+  },
+  "clankerInfo": null
+}

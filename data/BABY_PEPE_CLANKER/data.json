@@ -1,0 +1,22 @@
+{
+  "name": "Baby Pepe Clanker",
+  "symbol": "Baby Pepe Clanker",
+  "decimals": 18,
+  "description": "Baby Pepe Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Pepe%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Pepe Clanker",
+  "addresses": {
+    "8453": "0x18e34161a06fd98c47345e3c2d32e5cac2f462c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Pepe Clanker",
+    "sanitizedSymbol": "BABY_PEPE_CLANKER",
+    "created_at": "2024-12-12T05:16:25.519338",
+    "deployer": "0xae94aE16B7482F5e5F82e0b456EE1d3dC994a6f3",
+    "lpNftId": "1429341",
+    "lockerAddress": "0x2bde1096328F57131B64c626b76Ab06B886b580c"
+  },
+  "clankerInfo": null
+}

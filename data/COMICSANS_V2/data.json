@@ -1,0 +1,22 @@
+{
+  "name": "Comicsans v2",
+  "symbol": "Comicsans v2",
+  "decimals": 18,
+  "description": "Comicsans v2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Comicsans%20v2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Comicsans v2",
+  "addresses": {
+    "8453": "0x0cbbe99b1f2cf8c9698a1f8baa967b1078cfce62"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Comicsans v2",
+    "sanitizedSymbol": "COMICSANS_V2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x34876F7C9d38C8F2237423CDe23E89b06D02a26E",
+    "lpNftId": "1312714",
+    "lockerAddress": "0xEf7CAD71FeC0C0CE41Fd954F1c5ae61d754F1974"
+  },
+  "clankerInfo": null
+}

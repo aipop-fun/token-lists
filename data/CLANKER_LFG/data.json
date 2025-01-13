@@ -1,0 +1,22 @@
+{
+  "name": "Clanker LFG",
+  "symbol": "Clanker LFG",
+  "decimals": 18,
+  "description": "Clanker LFG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20LFG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker LFG",
+  "addresses": {
+    "8453": "0x3a89f481c7b694b1f300c8519d9486fc254def8c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker LFG",
+    "sanitizedSymbol": "CLANKER_LFG",
+    "created_at": "2024-12-12T06:40:23.148848",
+    "deployer": "0x40108B75fFe4f79D84A85093f6B17a804da74204",
+    "lpNftId": "1429625",
+    "lockerAddress": "0x2485d20efC6149F87745882b1D71F7C7d74E09de"
+  },
+  "clankerInfo": null
+}

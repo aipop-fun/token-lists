@@ -1,0 +1,22 @@
+{
+  "name": "farcast",
+  "symbol": "farcast",
+  "decimals": 18,
+  "description": "farcast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=farcast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "farcast",
+  "addresses": {
+    "8453": "0x0c3e6ab3401b4e85837aca0549911884d921f006"
+  },
+  "tokenInfo": {
+    "originalSymbol": "farcast",
+    "sanitizedSymbol": "FARCAST_2",
+    "created_at": "2024-12-11T03:00:42.762386",
+    "deployer": "0x677815c69018cbff0201374Dfd1a61d410049b7f",
+    "lpNftId": "1411407",
+    "lockerAddress": "0x34B905d8fc7ffFfDcDecB4C958b7Cc1C33138503"
+  },
+  "clankerInfo": null
+}

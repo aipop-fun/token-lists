@@ -1,0 +1,22 @@
+{
+  "name": "vibes",
+  "symbol": "vibes",
+  "decimals": 18,
+  "description": "vibes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vibes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vibes",
+  "addresses": {
+    "8453": "0x2647fdbf96c284854b91efef50a2b6b71d017707"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vibes",
+    "sanitizedSymbol": "VIBES_2",
+    "created_at": "2024-12-11T14:47:29.855703",
+    "deployer": "0x786200A1B260F6160903547B62DB09Be4D7776e9",
+    "lpNftId": "1420582",
+    "lockerAddress": "0x9030837Db4B6C9c3adbb56BD67457381c3D4152D"
+  },
+  "clankerInfo": null
+}

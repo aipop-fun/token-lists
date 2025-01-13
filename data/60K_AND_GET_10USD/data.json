@@ -1,0 +1,22 @@
+{
+  "name": "60K and get 10USD",
+  "symbol": "60K and get 10USD",
+  "decimals": 18,
+  "description": "60K and get 10USD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=60K%20and%20get%2010USD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "60K and get 10USD",
+  "addresses": {
+    "8453": "0x097f5d65a5edcca1aa8085ac4e3d236db84c8264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "60K and get 10USD",
+    "sanitizedSymbol": "60K_AND_GET_10USD",
+    "created_at": "2024-12-10T03:30:49.131961",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1395698",
+    "lockerAddress": "0x7516e890C6a45a1B765c726754cEf8351A31c04b"
+  },
+  "clankerInfo": null
+}

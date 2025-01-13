@@ -1,0 +1,22 @@
+{
+  "name": "WojakPump",
+  "symbol": "WojakPump",
+  "decimals": 18,
+  "description": "WojakPump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WojakPump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WojakPump",
+  "addresses": {
+    "8453": "0x1cb4070fc32a7c67d73c0ac187cf89d3edf50196"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WojakPump",
+    "sanitizedSymbol": "WOJAKPUMP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218945",
+    "lockerAddress": "0xB6CF0a878a834BC00a53933f0DaC18A5DC1DC44B"
+  },
+  "clankerInfo": null
+}

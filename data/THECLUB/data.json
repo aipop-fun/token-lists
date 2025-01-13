@@ -1,0 +1,22 @@
+{
+  "name": "theclub",
+  "symbol": "theclub",
+  "decimals": 18,
+  "description": "theclub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=theclub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "theclub",
+  "addresses": {
+    "8453": "0x2f44fbc02e624f53c95e2978123164daf683ad2d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "theclub",
+    "sanitizedSymbol": "THECLUB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x53902d0991ce4D679C5d8750fefE3d4417c9398a",
+    "lpNftId": "1309185",
+    "lockerAddress": "0xE7E92C6371c60B43A41f43Ad5F526008E4ea1096"
+  },
+  "clankerInfo": null
+}

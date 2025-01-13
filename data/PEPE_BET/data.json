@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Bet",
+  "symbol": "Pepe Bet",
+  "decimals": 18,
+  "description": "Pepe Bet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Bet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Bet",
+  "addresses": {
+    "8453": "0x08eeabdf58203b497d95fc585408296a44b23174"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Bet",
+    "sanitizedSymbol": "PEPE_BET",
+    "created_at": "2024-12-12T08:48:19.676586",
+    "deployer": "0x4a324171B064D2A0618289Dc4708c34Ff82D68A1",
+    "lpNftId": "1430188",
+    "lockerAddress": "0x18394CbDa08F143f5C192042c4DD34daA094A914"
+  },
+  "clankerInfo": null
+}

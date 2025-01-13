@@ -1,0 +1,22 @@
+{
+  "name": "PEPE GODZ",
+  "symbol": "PEPE GODZ",
+  "decimals": 18,
+  "description": "PEPE GODZ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20GODZ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE GODZ",
+  "addresses": {
+    "8453": "0x0dfabd5df152862a4f688a9fc37edaba9d0a0a07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE GODZ",
+    "sanitizedSymbol": "PEPE_GODZ",
+    "created_at": "2024-12-12T18:53:03.637518",
+    "deployer": "0x147f40AE62C8f1D7a1fB1f77562028dAeFfAdc47",
+    "lpNftId": "1441035",
+    "lockerAddress": "0xA709955846Db7467fE48F7733D6C005E40eb5845"
+  },
+  "clankerInfo": null
+}

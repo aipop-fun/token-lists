@@ -1,0 +1,22 @@
+{
+  "name": "WARTEG KRJ",
+  "symbol": "WARTEG KRJ",
+  "decimals": 18,
+  "description": "WARTEG KRJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARTEG%20KRJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARTEG KRJ",
+  "addresses": {
+    "8453": "0x408860d00deabf5ce5d566c83bed788fb5b0dc98"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARTEG KRJ",
+    "sanitizedSymbol": "WARTEG_KRJ",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235041",
+    "lockerAddress": "0xdA953d2Cf2Fe416bED41FDcc3cA182523e51cC28"
+  },
+  "clankerInfo": null
+}

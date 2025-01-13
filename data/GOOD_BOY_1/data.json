@@ -1,0 +1,22 @@
+{
+  "name": "Good boy",
+  "symbol": "Good boy",
+  "decimals": 18,
+  "description": "Good boy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Good%20boy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Good boy",
+  "addresses": {
+    "8453": "0x225735180039049d46bdae5a80e0b262d6858ed7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Good boy",
+    "sanitizedSymbol": "GOOD_BOY_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x64B75f5b37e7c5Ae9020A1a2C5700830eb8faD52",
+    "lpNftId": "1284704",
+    "lockerAddress": "0x11f1FE47cd03D067d4Cd6E539e9Ba92767C1477C"
+  },
+  "clankerInfo": null
+}

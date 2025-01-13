@@ -1,0 +1,22 @@
+{
+  "name": "BetterCallTrump",
+  "symbol": "BetterCallTrump",
+  "decimals": 18,
+  "description": "BetterCallTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BetterCallTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BetterCallTrump",
+  "addresses": {
+    "8453": "0x279f94172c8ae23f06a98f44c5644479c8c485de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BetterCallTrump",
+    "sanitizedSymbol": "BETTERCALLTRUMP",
+    "created_at": "2024-12-09T17:26:41.621892",
+    "deployer": "0x193BA5469dd547213eb3b4d4357bc286F00A0e1C",
+    "lpNftId": "1389745",
+    "lockerAddress": "0x5DdAdC139bD7b78F8CAfE9E4Fb827c3ea5ED416E"
+  },
+  "clankerInfo": null
+}

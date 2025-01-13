@@ -1,0 +1,22 @@
+{
+  "name": "TokenizeSJ",
+  "symbol": "TokenizeSJ",
+  "decimals": 18,
+  "description": "TokenizeSJ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TokenizeSJ",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TokenizeSJ",
+  "addresses": {
+    "8453": "0x116fb88e03f2c8d2afc3a0121e7cd5ebc264038e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TokenizeSJ",
+    "sanitizedSymbol": "TOKENIZESJ",
+    "created_at": "2024-12-10T18:40:11.285886",
+    "deployer": "0x896C20Da40c2A4df9B7C98B16a8D5A95129161a5",
+    "lpNftId": "1405630",
+    "lockerAddress": "0x2a820445CeB418b4d5c8be1C379e0545Ad7e1B17"
+  },
+  "clankerInfo": null
+}

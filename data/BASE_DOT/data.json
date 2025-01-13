@@ -1,0 +1,22 @@
+{
+  "name": "base dot",
+  "symbol": "base dot",
+  "decimals": 18,
+  "description": "base dot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20dot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base dot",
+  "addresses": {
+    "8453": "0x0f827c7655bdb0420d626e78a3d74705678017d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base dot",
+    "sanitizedSymbol": "BASE_DOT",
+    "created_at": "2024-12-09T11:10:30.143628",
+    "deployer": "0x4d321B10c85f9D4AdD9a5E6d6266161Da1F8E16a",
+    "lpNftId": "1386300",
+    "lockerAddress": "0x8bC39fFf41e160675cB1a9FBb4b701813f055716"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "All in Base",
+  "symbol": "All in Base",
+  "decimals": 18,
+  "description": "All in Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=All%20in%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "All in Base",
+  "addresses": {
+    "8453": "0x1761411e5135154443b14e271a418f23c0779ee2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "All in Base",
+    "sanitizedSymbol": "ALL_IN_BASE",
+    "created_at": "2024-12-12T06:20:37.605861",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1429551",
+    "lockerAddress": "0x936eDa9864140427D2595CC6270E91f52d5a274F"
+  },
+  "clankerInfo": null
+}

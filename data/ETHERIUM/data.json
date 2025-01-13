@@ -1,0 +1,22 @@
+{
+  "name": "Etherium",
+  "symbol": "Etherium",
+  "decimals": 18,
+  "description": "Etherium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Etherium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Etherium",
+  "addresses": {
+    "8453": "0x076efaa0b6fa7ff62bc31809e656709ff6c84556"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Etherium",
+    "sanitizedSymbol": "ETHERIUM",
+    "created_at": "2024-12-08T23:59:18.455658",
+    "deployer": "0x1Bd30CBAe55f3A49dd388bb254eC22949AD6Eb44",
+    "lpNftId": "1250746",
+    "lockerAddress": "0x1cDf484404654693Ff28D0c323ec29Ed96B7B130"
+  },
+  "clankerInfo": null
+}

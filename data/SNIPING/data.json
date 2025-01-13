@@ -1,0 +1,22 @@
+{
+  "name": "Sniping",
+  "symbol": "Sniping",
+  "decimals": 18,
+  "description": "Sniping is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sniping",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sniping",
+  "addresses": {
+    "8453": "0x1b7e17209682254d11a726776adfa0a6696981db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sniping",
+    "sanitizedSymbol": "SNIPING",
+    "created_at": "2024-12-09T03:57:47.94431",
+    "deployer": "0x603E4BA9Bc76103051eCA273Cb57641F16Ff743b",
+    "lpNftId": "1380781",
+    "lockerAddress": "0xf9b645E037581ea9e320A6e3b7fB267aC1D085e1"
+  },
+  "clankerInfo": null
+}

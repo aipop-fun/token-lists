@@ -1,0 +1,22 @@
+{
+  "name": "AI Hub by Clanker",
+  "symbol": "AI Hub by Clanker",
+  "decimals": 18,
+  "description": "AI Hub by Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20Hub%20by%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI Hub by Clanker",
+  "addresses": {
+    "8453": "0x273e529c378f949e404a351a66447842b03b0dc8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI Hub by Clanker",
+    "sanitizedSymbol": "AI_HUB_BY_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x704Cc226D514FB5CEB64afb60c7fb832672BD81e",
+    "lpNftId": "1285799",
+    "lockerAddress": "0xbe1510Ce2DD0c15B39333bCc96c76d1879a7CeFc"
+  },
+  "clankerInfo": null
+}

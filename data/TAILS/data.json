@@ -1,0 +1,22 @@
+{
+  "name": "Tails",
+  "symbol": "Tails",
+  "decimals": 18,
+  "description": "Tails is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tails",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tails",
+  "addresses": {
+    "8453": "0x301c41a9f6cc6fe387e6c77e65292563901d2bcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tails",
+    "sanitizedSymbol": "TAILS",
+    "created_at": "2024-12-12T18:59:56.992426",
+    "deployer": "0xEFEE404D58aD7614E894E55DF4E0434Eea985CFA",
+    "lpNftId": "1441163",
+    "lockerAddress": "0x7e47857176678fccea10319317E259B509ea1e57"
+  },
+  "clankerInfo": null
+}

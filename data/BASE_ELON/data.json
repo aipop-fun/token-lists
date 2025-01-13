@@ -1,0 +1,22 @@
+{
+  "name": "BASE ELON",
+  "symbol": "BASE ELON",
+  "decimals": 18,
+  "description": "BASE ELON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE%20ELON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE ELON",
+  "addresses": {
+    "8453": "0x28545f92ba4823cb9dfc379bbcee4d9a5d10914a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE ELON",
+    "sanitizedSymbol": "BASE_ELON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156470",
+    "lockerAddress": "0x201912f0bB65Cf6279B82024f7BC8157C9ff5458"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Hullo",
+  "symbol": "Hullo",
+  "decimals": 18,
+  "description": "Hullo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hullo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hullo",
+  "addresses": {
+    "8453": "0x2beb4a2e61ddb96b1ee1e1426bf30b694eddd439"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hullo",
+    "sanitizedSymbol": "HULLO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220084",
+    "lockerAddress": "0x7Bd4D2d2BA78ac421687fB18D8296b1A20903Ef8"
+  },
+  "clankerInfo": null
+}

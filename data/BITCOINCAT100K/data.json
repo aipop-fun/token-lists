@@ -1,0 +1,22 @@
+{
+  "name": "BitcoinCat100K",
+  "symbol": "BitcoinCat100K",
+  "decimals": 18,
+  "description": "BitcoinCat100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BitcoinCat100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BitcoinCat100K",
+  "addresses": {
+    "8453": "0x125d2e2a98bcfaca3822fa4e5d6c1701540dbeba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BitcoinCat100K",
+    "sanitizedSymbol": "BITCOINCAT100K",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x210812fBaC1A9074F785964e5D02e1e040aacdC3",
+    "lpNftId": "1328631",
+    "lockerAddress": "0xAF9150cA7EC0C68857182614910eE2262b79D564"
+  },
+  "clankerInfo": null
+}

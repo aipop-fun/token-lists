@@ -1,0 +1,22 @@
+{
+  "name": "420santa",
+  "symbol": "420santa",
+  "decimals": 18,
+  "description": "420santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=420santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "420santa",
+  "addresses": {
+    "8453": "0x208307f042769bd1a39b95a5fc362667c192a037"
+  },
+  "tokenInfo": {
+    "originalSymbol": "420santa",
+    "sanitizedSymbol": "420SANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd02E817f734ce42EbBeFfdB0D2dcC76E3D7182C0",
+    "lpNftId": "1285615",
+    "lockerAddress": "0xe0d2CdA2F613c3c2eb061b5599d372aB9A7a0e95"
+  },
+  "clankerInfo": null
+}

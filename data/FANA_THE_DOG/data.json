@@ -1,0 +1,22 @@
+{
+  "name": "Fana the Dog",
+  "symbol": "Fana the Dog",
+  "decimals": 18,
+  "description": "Fana the Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fana%20the%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fana the Dog",
+  "addresses": {
+    "8453": "0x34297a723b731a939a04c002ebc1fab26d841f0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fana the Dog",
+    "sanitizedSymbol": "FANA_THE_DOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237251",
+    "lockerAddress": "0x1E3954d07bFd64401ffBe14bD435f1289b40784e"
+  },
+  "clankerInfo": null
+}

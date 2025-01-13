@@ -1,0 +1,22 @@
+{
+  "name": "Hotdog",
+  "symbol": "Hotdog",
+  "decimals": 18,
+  "description": "Hotdog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hotdog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hotdog",
+  "addresses": {
+    "8453": "0x28b9c288fc9a16cff7e4d827692c07c85fa6c489"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hotdog",
+    "sanitizedSymbol": "HOTDOG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc2335131173F35b0895D169428004Cf579B594d5",
+    "lpNftId": "1253438",
+    "lockerAddress": "0x496f4443d062437DDB3D4E766531176c1EBe6e35"
+  },
+  "clankerInfo": null
+}

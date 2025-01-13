@@ -1,0 +1,22 @@
+{
+  "name": "Aristotle",
+  "symbol": "Aristotle",
+  "decimals": 18,
+  "description": "Aristotle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aristotle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aristotle",
+  "addresses": {
+    "8453": "0x210c135e6b9ea8f1bf243b2b4fb7a593182df074"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aristotle",
+    "sanitizedSymbol": "ARISTOTLE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212711",
+    "lockerAddress": "0xCB8Cd0790b2180b09aaeDD2e90C1C658E1B8E0F0"
+  },
+  "clankerInfo": null
+}

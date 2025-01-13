@@ -1,0 +1,22 @@
+{
+  "name": "clonks",
+  "symbol": "clonks",
+  "decimals": 18,
+  "description": "clonks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clonks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clonks",
+  "addresses": {
+    "8453": "0x35b83b5f5f69586a0b7fd7d3cc0d0e6ce69c54a0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clonks",
+    "sanitizedSymbol": "CLONKS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232476",
+    "lockerAddress": "0x32Ae873Fc8cbE1a87EAcfB4981fd7562d26c5570"
+  },
+  "clankerInfo": null
+}

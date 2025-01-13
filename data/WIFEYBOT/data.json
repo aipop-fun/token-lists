@@ -1,0 +1,22 @@
+{
+  "name": "Wifeybot",
+  "symbol": "Wifeybot",
+  "decimals": 18,
+  "description": "Wifeybot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wifeybot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wifeybot",
+  "addresses": {
+    "8453": "0x3ac19468ab4dcd20c2816d4d97ea4e2c623048c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wifeybot",
+    "sanitizedSymbol": "WIFEYBOT",
+    "created_at": "2024-12-10T04:53:16.301339",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396614",
+    "lockerAddress": "0x582EF6a106920a874EC7360F865B25d3823bF528"
+  },
+  "clankerInfo": null
+}

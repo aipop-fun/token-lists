@@ -1,0 +1,22 @@
+{
+  "name": "DADAVERSE",
+  "symbol": "DADAVERSE",
+  "decimals": 18,
+  "description": "DADAVERSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DADAVERSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DADAVERSE",
+  "addresses": {
+    "8453": "0x36666491efab19e4d5fd6e0784646e7e6070ce39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DADAVERSE",
+    "sanitizedSymbol": "DADAVERSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203306",
+    "lockerAddress": "0x350B8584c24Be06c54301c26331B001e7126Cb35"
+  },
+  "clankerInfo": null
+}

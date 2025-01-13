@@ -1,0 +1,22 @@
+{
+  "name": "Swag",
+  "symbol": "Swag",
+  "decimals": 18,
+  "description": "Swag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Swag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Swag",
+  "addresses": {
+    "8453": "0x1809ae39094aa6a9a40bc8d1772ffec84efb65f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Swag",
+    "sanitizedSymbol": "SWAG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc8fd8C157030f201571249662C7Dca293dA7d2db",
+    "lpNftId": "1310065",
+    "lockerAddress": "0x3D83F4fDC8bfa28113444ed7D193Ee4bb0ac464B"
+  },
+  "clankerInfo": null
+}

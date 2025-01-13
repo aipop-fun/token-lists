@@ -1,0 +1,22 @@
+{
+  "name": "Sunday coin",
+  "symbol": "Sunday coin",
+  "decimals": 18,
+  "description": "Sunday coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sunday%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sunday coin",
+  "addresses": {
+    "8453": "0x2c35c40a589672a3eebb04a4cd3927e7d1e76f9a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sunday coin",
+    "sanitizedSymbol": "SUNDAY_COIN",
+    "created_at": "2024-12-09T16:06:01.327381",
+    "deployer": "0x9e44938F1BFc12f35776571bb2b43368Ec366940",
+    "lpNftId": "1388946",
+    "lockerAddress": "0x56e453C9548A10898aBc94d95819bc61252E7c5D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Ducky",
+  "symbol": "Ducky",
+  "decimals": 18,
+  "description": "Ducky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ducky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ducky",
+  "addresses": {
+    "8453": "0x3c0d110a5a1a565e351a60570403bcd14c25ac79"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ducky",
+    "sanitizedSymbol": "DUCKY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211615",
+    "lockerAddress": "0xc935E095Ba1DF848F3C7FA57795d0C7875eD483B"
+  },
+  "clankerInfo": null
+}

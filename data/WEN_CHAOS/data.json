@@ -1,0 +1,22 @@
+{
+  "name": "wen chaos",
+  "symbol": "wen chaos",
+  "decimals": 18,
+  "description": "wen chaos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wen%20chaos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wen chaos",
+  "addresses": {
+    "8453": "0x3c6f7af519d0b54fddbe239ce828257ba9820e2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wen chaos",
+    "sanitizedSymbol": "WEN_CHAOS",
+    "created_at": "2024-12-11T15:38:07.181031",
+    "deployer": "0xC284A47f04cf8524B118FE4550005EBd15ab098a",
+    "lpNftId": "1421130",
+    "lockerAddress": "0xb04348652756Aa126E6971D10c9c7C580A5288d6"
+  },
+  "clankerInfo": null
+}

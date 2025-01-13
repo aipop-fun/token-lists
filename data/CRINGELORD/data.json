@@ -1,0 +1,22 @@
+{
+  "name": "Cringelord",
+  "symbol": "Cringelord",
+  "decimals": 18,
+  "description": "Cringelord is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cringelord",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cringelord",
+  "addresses": {
+    "8453": "0x3b42dc1188e08a922a6e7214032442101536646e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cringelord",
+    "sanitizedSymbol": "CRINGELORD",
+    "created_at": "2024-12-10T05:46:45.328742",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397143",
+    "lockerAddress": "0x6225A3c6AAd0a798f5948D3b459B62702A418d3a"
+  },
+  "clankerInfo": null
+}

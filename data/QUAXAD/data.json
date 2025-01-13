@@ -1,0 +1,22 @@
+{
+  "name": "quaxad",
+  "symbol": "quaxad",
+  "decimals": 18,
+  "description": "quaxad is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=quaxad",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "quaxad",
+  "addresses": {
+    "8453": "0x055910353bcef8f69915bfdab7db0af40074a6ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "quaxad",
+    "sanitizedSymbol": "QUAXAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234434",
+    "lockerAddress": "0x8B9475816E4D455Ce7DC0F8c9E5A89290988Ab95"
+  },
+  "clankerInfo": null
+}

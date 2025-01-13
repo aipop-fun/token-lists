@@ -1,0 +1,22 @@
+{
+  "name": "UFOcabbage",
+  "symbol": "UFOcabbage",
+  "decimals": 18,
+  "description": "UFOcabbage is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UFOcabbage",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UFOcabbage",
+  "addresses": {
+    "8453": "0x2dba7e35034192947212103b0840b24ce3ddfa57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UFOcabbage",
+    "sanitizedSymbol": "UFOCABBAGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98bb6321AA10562ba458e9e449485a9D93520263",
+    "lpNftId": "1314984",
+    "lockerAddress": "0xFB654c05b6911Af3fb3CF3eb04B76b66E6434414"
+  },
+  "clankerInfo": null
+}

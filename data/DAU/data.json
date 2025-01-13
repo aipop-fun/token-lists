@@ -1,0 +1,22 @@
+{
+  "name": "DAU",
+  "symbol": "DAU",
+  "decimals": 18,
+  "description": "DAU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DAU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DAU",
+  "addresses": {
+    "8453": "0x3f7dd82e431d2ea897d015821d687eeef042acf5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DAU",
+    "sanitizedSymbol": "DAU",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225507",
+    "lockerAddress": "0xe7B750042F3254E4FaF0a24409FD7097f5a3eA5c"
+  },
+  "clankerInfo": null
+}

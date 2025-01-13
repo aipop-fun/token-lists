@@ -1,0 +1,22 @@
+{
+  "name": "MURDERFLIP",
+  "symbol": "MURDERFLIP",
+  "decimals": 18,
+  "description": "MURDERFLIP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MURDERFLIP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MURDERFLIP",
+  "addresses": {
+    "8453": "0x0d861dd386efd4efe0f71393468cd9098a6a0c6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MURDERFLIP",
+    "sanitizedSymbol": "MURDERFLIP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226574",
+    "lockerAddress": "0xb95913900454B13E8574bB15ba96DC347f441df7"
+  },
+  "clankerInfo": null
+}

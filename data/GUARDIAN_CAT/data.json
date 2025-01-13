@@ -1,0 +1,22 @@
+{
+  "name": "Guardian Cat",
+  "symbol": "Guardian Cat",
+  "decimals": 18,
+  "description": "Guardian Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Guardian%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Guardian Cat",
+  "addresses": {
+    "8453": "0x32734ada70b89274ed7488e46b6af020323d31c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Guardian Cat",
+    "sanitizedSymbol": "GUARDIAN_CAT",
+    "created_at": "2024-12-11T12:03:19.402109",
+    "deployer": "0x7d847610CD861C9bCFC78b8aA417DDf867dFB73B",
+    "lpNftId": "1417383",
+    "lockerAddress": "0x0Dbb5E965f159B273335C98E09983E12cDEa73Cb"
+  },
+  "clankerInfo": null
+}

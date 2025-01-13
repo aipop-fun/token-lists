@@ -1,0 +1,22 @@
+{
+  "name": "Bath Llama",
+  "symbol": "Bath Llama",
+  "decimals": 18,
+  "description": "Bath Llama is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bath%20Llama",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bath Llama",
+  "addresses": {
+    "8453": "0x15cfbb20890f92850658cb0024423683c979625f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bath Llama",
+    "sanitizedSymbol": "BATH_LLAMA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135650",
+    "lockerAddress": "0x84A35CDc81e4102a9fe60dD8D44f4E38228C2f85"
+  },
+  "clankerInfo": null
+}

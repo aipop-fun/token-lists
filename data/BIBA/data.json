@@ -1,0 +1,22 @@
+{
+  "name": "biba",
+  "symbol": "biba",
+  "decimals": 18,
+  "description": "biba is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=biba",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "biba",
+  "addresses": {
+    "8453": "0x277554b3afd2ca2c8e0d72ba22361dc69ad8db81"
+  },
+  "tokenInfo": {
+    "originalSymbol": "biba",
+    "sanitizedSymbol": "BIBA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x326F28842aBEF56DadD9BF3A96D5bF6dA2891103",
+    "lpNftId": "1263815",
+    "lockerAddress": "0x5e7506046d2bcF7059d7606C0b9300D1862ddf24"
+  },
+  "clankerInfo": null
+}

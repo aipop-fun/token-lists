@@ -1,0 +1,22 @@
+{
+  "name": "OpenHeart",
+  "symbol": "OpenHeart",
+  "decimals": 18,
+  "description": "OpenHeart is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OpenHeart",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OpenHeart",
+  "addresses": {
+    "8453": "0x3c9a7d9f50836df7d2895694278face641d51e5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OpenHeart",
+    "sanitizedSymbol": "OPENHEART",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x92bA98347C909e1F599E3B6d254f6aeee5FA2b15",
+    "lpNftId": "1286928",
+    "lockerAddress": "0xE614d8D8e0c4FD7467e789208A29137A0CD9725F"
+  },
+  "clankerInfo": null
+}

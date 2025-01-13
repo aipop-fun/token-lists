@@ -1,0 +1,22 @@
+{
+  "name": "Big juicy burger",
+  "symbol": "Big juicy burger",
+  "decimals": 18,
+  "description": "Big juicy burger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20juicy%20burger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big juicy burger",
+  "addresses": {
+    "8453": "0x030115427322a8a5c0e7a602ffcfe90253c94f70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big juicy burger",
+    "sanitizedSymbol": "BIG_JUICY_BURGER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x88Fd52c4C766eacB16768e98373DBe0c7005e65F",
+    "lpNftId": "1323710",
+    "lockerAddress": "0xe038e020575865C96426b0a7048559212650De3B"
+  },
+  "clankerInfo": null
+}

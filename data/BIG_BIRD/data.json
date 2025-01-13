@@ -1,0 +1,22 @@
+{
+  "name": "Big Bird",
+  "symbol": "Big Bird",
+  "decimals": 18,
+  "description": "Big Bird is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20Bird",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big Bird",
+  "addresses": {
+    "8453": "0x290b489934cc26d06d1de3f18b2d717b9f385529"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big Bird",
+    "sanitizedSymbol": "BIG_BIRD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB6FbA009c0Dc55f4aD3b2109000f64862db293aB",
+    "lpNftId": "1315169",
+    "lockerAddress": "0xBA1d6CBF92Fdf941577a960c2230d795634673c0"
+  },
+  "clankerInfo": null
+}

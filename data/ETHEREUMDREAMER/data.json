@@ -1,0 +1,22 @@
+{
+  "name": "EthereumDreamer",
+  "symbol": "EthereumDreamer",
+  "decimals": 18,
+  "description": "EthereumDreamer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EthereumDreamer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EthereumDreamer",
+  "addresses": {
+    "8453": "0x40bfd9bbb5dfe9a747a6f83599b8caa4d50a4a19"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EthereumDreamer",
+    "sanitizedSymbol": "ETHEREUMDREAMER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1147830",
+    "lockerAddress": "0x0C7bfdAA12791427ea8123eaa24A9Bab90bcbdcE"
+  },
+  "clankerInfo": null
+}

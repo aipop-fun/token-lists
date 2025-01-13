@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Hands",
+  "symbol": "Farcaster Hands",
+  "decimals": 18,
+  "description": "Farcaster Hands is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Hands",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Hands",
+  "addresses": {
+    "8453": "0x204b33e6572103bf6c61d70345dd2d456c611b61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Hands",
+    "sanitizedSymbol": "FARCASTER_HANDS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x16047617d7e4dDdab60A12E5d53cf483162B9C5b",
+    "lpNftId": "1340610",
+    "lockerAddress": "0x130E094f953dbeC70Ea161F79dD6555DC2620B74"
+  },
+  "clankerInfo": null
+}

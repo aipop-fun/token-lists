@@ -1,0 +1,22 @@
+{
+  "name": "GHOSTT",
+  "symbol": "GHOSTT",
+  "decimals": 18,
+  "description": "GHOSTT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GHOSTT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GHOSTT",
+  "addresses": {
+    "8453": "0x3e3698d3e28cac02730ee74e08452057f797a5df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GHOSTT",
+    "sanitizedSymbol": "GHOSTT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x40D27d2fc73C67Ae1cC47629E5B3430479328dBc",
+    "lpNftId": "1251359",
+    "lockerAddress": "0x29c46CfF75367deD4128CCe2A6F4cf0e17609946"
+  },
+  "clankerInfo": null
+}

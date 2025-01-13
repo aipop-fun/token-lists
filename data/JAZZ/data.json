@@ -1,0 +1,22 @@
+{
+  "name": "jazz",
+  "symbol": "jazz",
+  "decimals": 18,
+  "description": "jazz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jazz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jazz",
+  "addresses": {
+    "8453": "0x2f92d62160fa7ba9207272715a10e9edbeaa86ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jazz",
+    "sanitizedSymbol": "JAZZ",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xf2bB9a9E3B31d57723113FB8dC34AD8fDe6BE1a8",
+    "lpNftId": "1329314",
+    "lockerAddress": "0xC78467d255270E70da2040855E073528AcA9553D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Not Clank",
+  "symbol": "Not Clank",
+  "decimals": 18,
+  "description": "Not Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Not%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Not Clank",
+  "addresses": {
+    "8453": "0x3b392c8c279dc729eb50467066c4b78d4ef2a7e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Not Clank",
+    "sanitizedSymbol": "NOT_CLANK",
+    "created_at": "2024-12-11T01:16:54.492485",
+    "deployer": "0x217107C6157b487fc55d99535141d9514c308F3b",
+    "lpNftId": "1409443",
+    "lockerAddress": "0x77065283d9512a984CC326dfb65c0EedeC94De13"
+  },
+  "clankerInfo": null
+}

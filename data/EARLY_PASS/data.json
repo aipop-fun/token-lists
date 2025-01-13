@@ -1,0 +1,22 @@
+{
+  "name": "Early Pass",
+  "symbol": "Early Pass",
+  "decimals": 18,
+  "description": "Early Pass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Early%20Pass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Early Pass",
+  "addresses": {
+    "8453": "0x11e3b3e6655fd07dae6f5d401dbd6583392aa213"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Early Pass",
+    "sanitizedSymbol": "EARLY_PASS",
+    "created_at": "2024-12-11T23:32:52.755601",
+    "deployer": "0x12f8026072fa10a5796deffE7d54b9Ea42Ff9ccD",
+    "lpNftId": "1427938",
+    "lockerAddress": "0x98676867bD29566691Df8Ddbc3FAAb444a981641"
+  },
+  "clankerInfo": null
+}

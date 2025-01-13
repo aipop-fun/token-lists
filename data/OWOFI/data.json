@@ -1,0 +1,22 @@
+{
+  "name": "OwoFi",
+  "symbol": "OwoFi",
+  "decimals": 18,
+  "description": "OwoFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OwoFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OwoFi",
+  "addresses": {
+    "8453": "0x1e5c900cf94e528f02ad482fdece860ddf0ef03d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OwoFi",
+    "sanitizedSymbol": "OWOFI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0Cb7672C3bDE1669E48C8b7964A7bb17258aFe45",
+    "lpNftId": "1327579",
+    "lockerAddress": "0x095151B4f51e5F0cac6B4356C4f05C9565bAC3b8"
+  },
+  "clankerInfo": null
+}

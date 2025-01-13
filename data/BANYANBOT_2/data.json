@@ -1,0 +1,22 @@
+{
+  "name": "BanyanBot",
+  "symbol": "BanyanBot",
+  "decimals": 18,
+  "description": "BanyanBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BanyanBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BanyanBot",
+  "addresses": {
+    "8453": "0x409ddf0a6bb3177721b17b679bd52ace7b158183"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BanyanBot",
+    "sanitizedSymbol": "BANYANBOT_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x418860e66F7b2D3E4c6C3469D13d10cD7e145Ee0",
+    "lpNftId": "1331698",
+    "lockerAddress": "0x5964c2b5b54E8C0f98c4e0Eb997508AdB38c44D3"
+  },
+  "clankerInfo": null
+}

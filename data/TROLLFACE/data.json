@@ -1,0 +1,22 @@
+{
+  "name": "TrollFace",
+  "symbol": "TrollFace",
+  "decimals": 18,
+  "description": "TrollFace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TrollFace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TrollFace",
+  "addresses": {
+    "8453": "0x2aff148136209074905fa0ead2a091d99b079572"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TrollFace",
+    "sanitizedSymbol": "TROLLFACE",
+    "created_at": "2024-12-11T15:39:27.380635",
+    "deployer": "0x50558fDFD8F064E2EE8974115172aCAA3a18eeE1",
+    "lpNftId": "1421144",
+    "lockerAddress": "0x09AcF69dC610FDbf39c887fe2c4366b01b9fa0b8"
+  },
+  "clankerInfo": null
+}

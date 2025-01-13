@@ -1,0 +1,22 @@
+{
+  "name": "GDP",
+  "symbol": "GDP",
+  "decimals": 18,
+  "description": "GDP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GDP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GDP",
+  "addresses": {
+    "8453": "0x1569a1d44daed087665ba10dc825e792d7115453"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GDP",
+    "sanitizedSymbol": "GDP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123410",
+    "lockerAddress": "0x6484201a5dBE6d3070E4618e9d9847Fc46F07C29"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DOGE CLANKER",
+  "symbol": "DOGE CLANKER",
+  "decimals": 18,
+  "description": "DOGE CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGE%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGE CLANKER",
+  "addresses": {
+    "8453": "0x295c51215e1f18bf71951809a6e492d9d7349693"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGE CLANKER",
+    "sanitizedSymbol": "DOGE_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5828Ff37Ff6932C614A50b2784dce352Dd882308",
+    "lpNftId": "1332550",
+    "lockerAddress": "0x5E418a5a47B15bae74f88ba5dc43B9Fc62f32fea"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "100K",
+  "symbol": "100K",
+  "decimals": 18,
+  "description": "100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "100K",
+  "addresses": {
+    "8453": "0x412d36b5a79ff76ccb09efb9dde8f3b54de465f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "100K",
+    "sanitizedSymbol": "100K_6",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1120f1aD6792fE024DF86c0e9A4ea6410dea4DB6",
+    "lpNftId": "1331302",
+    "lockerAddress": "0x06137cb379d1d3ccBbC76ccb4D6cE55d366Dfe7C"
+  },
+  "clankerInfo": null
+}

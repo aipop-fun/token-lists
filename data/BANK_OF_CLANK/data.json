@@ -1,0 +1,22 @@
+{
+  "name": "Bank Of Clank",
+  "symbol": "Bank Of Clank",
+  "decimals": 18,
+  "description": "Bank Of Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bank%20Of%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bank Of Clank",
+  "addresses": {
+    "8453": "0x0b3bc45971e2be8beccff66597c8053c5768430a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bank Of Clank",
+    "sanitizedSymbol": "BANK_OF_CLANK",
+    "created_at": "2024-12-12T03:39:05.114866",
+    "deployer": "0x071a09289ae784217e4A6B6795a8e8346f8Bfa28",
+    "lpNftId": "1428952",
+    "lockerAddress": "0x2761023B732B25782d38b63A10e66a18b4858036"
+  },
+  "clankerInfo": null
+}

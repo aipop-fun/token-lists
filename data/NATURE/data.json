@@ -1,0 +1,22 @@
+{
+  "name": "Nature",
+  "symbol": "Nature",
+  "decimals": 18,
+  "description": "Nature is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nature",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nature",
+  "addresses": {
+    "8453": "0x3ab7975ff043678f1ab1535811eebde3114f5a06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nature",
+    "sanitizedSymbol": "NATURE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205173",
+    "lockerAddress": "0x4aD2Ca202b95b6Edc71d0271660b17c98F946cbB"
+  },
+  "clankerInfo": null
+}

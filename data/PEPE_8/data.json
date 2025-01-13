@@ -1,0 +1,22 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "decimals": 18,
+  "description": "PEPE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE",
+  "addresses": {
+    "8453": "0x36661f04af8e935d3815cbbb55c1636940acad2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE",
+    "sanitizedSymbol": "PEPE_8",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x62b9ac35FAa5B39a66E13ff5A1Ca74E16f3E2aa1",
+    "lpNftId": "1250789",
+    "lockerAddress": "0xd1Fd74D4DEc22c79aB9da7dde5042f45f68698bd"
+  },
+  "clankerInfo": null
+}

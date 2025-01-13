@@ -1,0 +1,22 @@
+{
+  "name": "4chan stickman",
+  "symbol": "4chan stickman",
+  "decimals": 18,
+  "description": "4chan stickman is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=4chan%20stickman",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "4chan stickman",
+  "addresses": {
+    "8453": "0x41432ce507417997932d8064e2bf2a7caf5ced94"
+  },
+  "tokenInfo": {
+    "originalSymbol": "4chan stickman",
+    "sanitizedSymbol": "4CHAN_STICKMAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157540",
+    "lockerAddress": "0xbCE8A03d73eA206E0397328EDfc27a82F2835fef"
+  },
+  "clankerInfo": null
+}

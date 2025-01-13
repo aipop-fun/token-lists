@@ -1,0 +1,22 @@
+{
+  "name": "Save button",
+  "symbol": "Save button",
+  "decimals": 18,
+  "description": "Save button is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Save%20button",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Save button",
+  "addresses": {
+    "8453": "0x1a5f0fab3e175a40dc7d134b0050c4bf08eaa28a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Save button",
+    "sanitizedSymbol": "SAVE_BUTTON",
+    "created_at": "2024-12-09T13:16:05.9799",
+    "deployer": "0x85bc221AD8D3f1624E5B5Bab9e31D94ff8762135",
+    "lpNftId": "1387342",
+    "lockerAddress": "0xA80f3A7AA5643Ac3A92E80f45b3392FAd5d990EA"
+  },
+  "clankerInfo": null
+}

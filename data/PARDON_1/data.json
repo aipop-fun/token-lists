@@ -1,0 +1,22 @@
+{
+  "name": "PARDON",
+  "symbol": "PARDON",
+  "decimals": 18,
+  "description": "PARDON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PARDON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PARDON",
+  "addresses": {
+    "8453": "0x1df708e1464ae0aa79b2e2c609483d134bfc62d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PARDON",
+    "sanitizedSymbol": "PARDON_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6350F760C04A5845251dc4a23ADa123BCb1db2a1",
+    "lpNftId": "1376533",
+    "lockerAddress": "0x846dd98891Ea1Dfa64c8FcEA2d68A1E3e018D14f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wifi",
+  "symbol": "Wifi",
+  "decimals": 18,
+  "description": "Wifi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wifi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wifi",
+  "addresses": {
+    "8453": "0x1cc43cbe8a01050909a184e574e21bd78be7a875"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wifi",
+    "sanitizedSymbol": "WIFI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xf5FEfAa837d48f3E368fBaC546dcc562C3bf990f",
+    "lpNftId": "1250569",
+    "lockerAddress": "0x24fBf67E7e9b0BfCe4109e08Fa594a07D01Ba973"
+  },
+  "clankerInfo": null
+}

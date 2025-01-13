@@ -1,0 +1,22 @@
+{
+  "name": "pepegotchi",
+  "symbol": "pepegotchi",
+  "decimals": 18,
+  "description": "pepegotchi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pepegotchi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pepegotchi",
+  "addresses": {
+    "8453": "0x41c2c59d51ebc3e2f4315be95ba4a0a7ba5dda67"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pepegotchi",
+    "sanitizedSymbol": "PEPEGOTCHI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218723",
+    "lockerAddress": "0x1c578bfd9C2310C72d8baf31374a1Bd753EbA113"
+  },
+  "clankerInfo": null
+}

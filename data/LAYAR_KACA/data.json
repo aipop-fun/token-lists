@@ -1,0 +1,22 @@
+{
+  "name": "LAYAR-KACA",
+  "symbol": "LAYAR-KACA",
+  "decimals": 18,
+  "description": "LAYAR-KACA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAYAR-KACA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAYAR-KACA",
+  "addresses": {
+    "8453": "0x0bde82535a8f2463bccf8a641e81bb2515599512"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAYAR-KACA",
+    "sanitizedSymbol": "LAYAR_KACA",
+    "created_at": "2024-12-10T21:53:25.66901",
+    "deployer": "0xced325d7A10E8a2Abe8436a71a2c858292f851df",
+    "lpNftId": "1407562",
+    "lockerAddress": "0xDf6A97be920E09D3BCf7D235Df7bE51CB203856B"
+  },
+  "clankerInfo": null
+}

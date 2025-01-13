@@ -1,0 +1,22 @@
+{
+  "name": "@deployer crybaby",
+  "symbol": "@deployer crybaby",
+  "decimals": 18,
+  "description": "@deployer crybaby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40deployer%20crybaby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@deployer crybaby",
+  "addresses": {
+    "8453": "0x3354d1fa72c9e224fd7b00261962d528eed5c621"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@deployer crybaby",
+    "sanitizedSymbol": "DEPLOYER_CRYBABY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd7bB871F5637803207F9e4224a768A0A12db4ddE",
+    "lpNftId": "1340863",
+    "lockerAddress": "0x730d27b2bAfdB8c467A4cbfA5E9CBf44B0c437F1"
+  },
+  "clankerInfo": null
+}

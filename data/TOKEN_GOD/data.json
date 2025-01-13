@@ -1,0 +1,22 @@
+{
+  "name": "Token God",
+  "symbol": "Token God",
+  "decimals": 18,
+  "description": "Token God is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20God",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token God",
+  "addresses": {
+    "8453": "0x2eed14738b8d1bbbb78aa85111c6aca6cecb5a45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token God",
+    "sanitizedSymbol": "TOKEN_GOD",
+    "created_at": "2024-12-10T20:36:12.65535",
+    "deployer": "0xfAEe785c6B076052Bf1BAfbbc436AEEbDA69Db20",
+    "lpNftId": "1406903",
+    "lockerAddress": "0x625607856aE59b25De53c80c8a8a92B6F0641E0D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Warden",
+  "symbol": "Warden",
+  "decimals": 18,
+  "description": "Warden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warden",
+  "addresses": {
+    "8453": "0x11542e6f7ca6a4a75a023fa3fcd7c8ab1aac170c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warden",
+    "sanitizedSymbol": "WARDEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128978",
+    "lockerAddress": "0x8450a3943A736f39e482b2637BCD1cA76474C6F3"
+  },
+  "clankerInfo": null
+}

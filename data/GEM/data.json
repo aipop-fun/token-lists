@@ -1,0 +1,22 @@
+{
+  "name": "GEM",
+  "symbol": "GEM",
+  "decimals": 18,
+  "description": "GEM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GEM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GEM",
+  "addresses": {
+    "8453": "0x1bba70789f110e237cab78c8fcee9047ded31657"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GEM",
+    "sanitizedSymbol": "GEM",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x354d4D759c49094f60D537bfD7177c05b70c20cC",
+    "lpNftId": "1287253",
+    "lockerAddress": "0xdff6C3501DDa073769Bd15a14D28560C12621914"
+  },
+  "clankerInfo": null
+}

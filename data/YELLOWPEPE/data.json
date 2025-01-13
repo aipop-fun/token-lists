@@ -1,0 +1,22 @@
+{
+  "name": "YellowPepe",
+  "symbol": "YellowPepe",
+  "decimals": 18,
+  "description": "YellowPepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YellowPepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YellowPepe",
+  "addresses": {
+    "8453": "0x0c01f2c20bec9f0ed2cc53424885dfdfb0628e44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YellowPepe",
+    "sanitizedSymbol": "YELLOWPEPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0D810380C02b267AeD10Bc93196E5EcB3fb631EF",
+    "lpNftId": "1252801",
+    "lockerAddress": "0x5575706501da350dfBea7fEA8b9E5294B4d2B297"
+  },
+  "clankerInfo": null
+}

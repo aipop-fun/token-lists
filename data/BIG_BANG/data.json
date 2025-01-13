@@ -1,0 +1,22 @@
+{
+  "name": "Big Bang",
+  "symbol": "Big Bang",
+  "decimals": 18,
+  "description": "Big Bang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Big%20Bang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Big Bang",
+  "addresses": {
+    "8453": "0x028358fbd59120aeb057e79e8f2c21fb7bf4d78e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Big Bang",
+    "sanitizedSymbol": "BIG_BANG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9290aC75a56eE4Cd4BD5c3e9Fe183af9a2C15d3B",
+    "lpNftId": "1371038",
+    "lockerAddress": "0x2e65ef377Fbe0945A92f10911e2653048919a3a0"
+  },
+  "clankerInfo": null
+}

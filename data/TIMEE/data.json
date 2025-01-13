@@ -1,0 +1,22 @@
+{
+  "name": "timee",
+  "symbol": "timee",
+  "decimals": 18,
+  "description": "timee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=timee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "timee",
+  "addresses": {
+    "8453": "0x3ade188a0d6bf045de05f9718ee67a4f1f7df9a7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "timee",
+    "sanitizedSymbol": "TIMEE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB6956bF421730e5b619ccA3fbc6c5f3868F3b51E",
+    "lpNftId": "1316753",
+    "lockerAddress": "0x864A1F53417cc2117fDd4Fe24B86E3C3e5C6150f"
+  },
+  "clankerInfo": null
+}

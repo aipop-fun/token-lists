@@ -1,0 +1,22 @@
+{
+  "name": "Fate",
+  "symbol": "Fate",
+  "decimals": 18,
+  "description": "Fate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fate",
+  "addresses": {
+    "8453": "0x2c28b61fc89c7f0d3ac24db8eac26afecdf2643e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fate",
+    "sanitizedSymbol": "FATE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235727",
+    "lockerAddress": "0xAf67E4C653De81FdfdFACD68D6E65Ff97dC71237"
+  },
+  "clankerInfo": null
+}

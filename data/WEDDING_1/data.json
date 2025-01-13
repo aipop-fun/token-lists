@@ -1,0 +1,22 @@
+{
+  "name": "WEDDING",
+  "symbol": "WEDDING",
+  "decimals": 18,
+  "description": "WEDDING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEDDING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEDDING",
+  "addresses": {
+    "8453": "0x243437a248ba3015d6de9deb7dee493e965ef85f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEDDING",
+    "sanitizedSymbol": "WEDDING_1",
+    "created_at": "2024-12-10T14:34:06.023382",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1401808",
+    "lockerAddress": "0x6243Cb4a0B984D1EadEdce14B30abB3807f6570A"
+  },
+  "clankerInfo": null
+}

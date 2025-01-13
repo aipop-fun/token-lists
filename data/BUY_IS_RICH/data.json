@@ -1,0 +1,22 @@
+{
+  "name": "BUY IS RICH",
+  "symbol": "BUY IS RICH",
+  "decimals": 18,
+  "description": "BUY IS RICH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUY%20IS%20RICH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUY IS RICH",
+  "addresses": {
+    "8453": "0x106e5e5f156b3889252dee05a65244b6ae3aade9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUY IS RICH",
+    "sanitizedSymbol": "BUY_IS_RICH",
+    "created_at": "2024-12-09T10:29:31.42369",
+    "deployer": "0xf110B66Bc9492E62De8C6DD7d291cAe16F9F08f5",
+    "lpNftId": "1385887",
+    "lockerAddress": "0xa1A9E5fbb1ebBfeBBa5436753066395461D8e59C"
+  },
+  "clankerInfo": null
+}

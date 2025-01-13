@@ -1,0 +1,22 @@
+{
+  "name": "Say it back",
+  "symbol": "Say it back",
+  "decimals": 18,
+  "description": "Say it back is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Say%20it%20back",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Say it back",
+  "addresses": {
+    "8453": "0x1aee80520580e1e2fa030de158d37358b564265d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Say it back",
+    "sanitizedSymbol": "SAY_IT_BACK",
+    "created_at": "2024-12-09T10:39:34.876629",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1385963",
+    "lockerAddress": "0x3217F7929819d9D9f9A2AA37ab264d55698468A5"
+  },
+  "clankerInfo": null
+}

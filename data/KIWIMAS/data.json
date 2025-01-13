@@ -1,0 +1,22 @@
+{
+  "name": "$kiwimas",
+  "symbol": "$kiwimas",
+  "decimals": 18,
+  "description": "$kiwimas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24kiwimas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$kiwimas",
+  "addresses": {
+    "8453": "0x007fcf88ed8e2c31e22865df73c789c407579e5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$kiwimas",
+    "sanitizedSymbol": "KIWIMAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x828C3E780844673A9c142168120709Ab67df2E08",
+    "lpNftId": "1321003",
+    "lockerAddress": "0x83Cf56601289815b27fbd358938eF35AC924aa39"
+  },
+  "clankerInfo": null
+}

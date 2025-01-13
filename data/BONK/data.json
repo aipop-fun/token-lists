@@ -1,0 +1,22 @@
+{
+  "name": "Bonk",
+  "symbol": "Bonk",
+  "decimals": 18,
+  "description": "Bonk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bonk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bonk",
+  "addresses": {
+    "8453": "0x0a875714107f8bdbaa62a9521db131e917f88d7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bonk",
+    "sanitizedSymbol": "BONK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xB25721c79c6ba7AccDC1621cAD9649A21B6C35DE",
+    "lpNftId": "1231932",
+    "lockerAddress": "0xC1ed07120Da2C73162DBa99D02C10360BF88BA26"
+  },
+  "clankerInfo": null
+}

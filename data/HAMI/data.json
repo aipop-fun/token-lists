@@ -1,0 +1,22 @@
+{
+  "name": "HAMI",
+  "symbol": "HAMI",
+  "decimals": 18,
+  "description": "HAMI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMI",
+  "addresses": {
+    "8453": "0x091d284a9a1452022e1121603636d1d201706fb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMI",
+    "sanitizedSymbol": "HAMI",
+    "created_at": "2024-12-11T16:47:19.523481",
+    "deployer": "0xEeA497A33809238910083ca127C1D5Fe4EFc05CA",
+    "lpNftId": "1422051",
+    "lockerAddress": "0x82646675d07A256AB085288C240fAF2226d98C6C"
+  },
+  "clankerInfo": null
+}

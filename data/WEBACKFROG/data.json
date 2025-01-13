@@ -1,0 +1,22 @@
+{
+  "name": "WeBackFrog",
+  "symbol": "WeBackFrog",
+  "decimals": 18,
+  "description": "WeBackFrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WeBackFrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WeBackFrog",
+  "addresses": {
+    "8453": "0x3cde95ab3d01b45ad79fddd56e2cb27e75c293ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WeBackFrog",
+    "sanitizedSymbol": "WEBACKFROG",
+    "created_at": "2024-12-12T02:31:50.37568",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1428643",
+    "lockerAddress": "0xE5b385293C2281c7304Fce13C028a7Bba80e751a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ETH WIF HAT",
+  "symbol": "ETH WIF HAT",
+  "decimals": 18,
+  "description": "ETH WIF HAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETH%20WIF%20HAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETH WIF HAT",
+  "addresses": {
+    "8453": "0x36bf8dd23ce8596fca847698c7b290266eb83509"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETH WIF HAT",
+    "sanitizedSymbol": "ETH_WIF_HAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233877",
+    "lockerAddress": "0xdC92BcB9a791925c002977DA9C847a685bbC0175"
+  },
+  "clankerInfo": null
+}

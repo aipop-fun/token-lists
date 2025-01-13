@@ -1,0 +1,22 @@
+{
+  "name": "PEPE CASH",
+  "symbol": "PEPE CASH",
+  "decimals": 18,
+  "description": "PEPE CASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20CASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE CASH",
+  "addresses": {
+    "8453": "0x366ed426d13fc48e276bb54f0618a579e4c71f2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE CASH",
+    "sanitizedSymbol": "PEPE_CASH",
+    "created_at": "2024-12-10T09:54:27.327668",
+    "deployer": "0x01De35C70Ef47cb4F5D1D0a5402700aB67F51e54",
+    "lpNftId": "1399394",
+    "lockerAddress": "0x4dc0aFC0C3A737129AD75d64C797047E00921bA7"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Tiger Clanker Token",
+  "symbol": "Tiger Clanker Token",
+  "decimals": 18,
+  "description": "Tiger Clanker Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiger%20Clanker%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiger Clanker Token",
+  "addresses": {
+    "8453": "0x0dbeccf68fd3c028f562b7a2d184a4302ab642c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiger Clanker Token",
+    "sanitizedSymbol": "TIGER_CLANKER_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F10b9a596873db120633169C0701EE3d396CA90",
+    "lpNftId": "1308903",
+    "lockerAddress": "0x0588Dd653257864c0218bc8A373Dca3B41991A01"
+  },
+  "clankerInfo": null
+}

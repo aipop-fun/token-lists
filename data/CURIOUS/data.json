@@ -1,0 +1,22 @@
+{
+  "name": "Curious",
+  "symbol": "Curious",
+  "decimals": 18,
+  "description": "Curious is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Curious",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Curious",
+  "addresses": {
+    "8453": "0x33ca722717cf7f2e4e670bf51d7b596a6d1eaa36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Curious",
+    "sanitizedSymbol": "CURIOUS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198700",
+    "lockerAddress": "0xf1524Ba545aF6780Dab2eD7132B3c1e100d49CD1"
+  },
+  "clankerInfo": null
+}

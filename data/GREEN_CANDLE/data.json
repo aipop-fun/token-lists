@@ -1,0 +1,22 @@
+{
+  "name": "Green Candle",
+  "symbol": "Green Candle",
+  "decimals": 18,
+  "description": "Green Candle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Green%20Candle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Green Candle",
+  "addresses": {
+    "8453": "0x22e8a06b91e8715b28c3534633a7a17ca805437e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Green Candle",
+    "sanitizedSymbol": "GREEN_CANDLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205708",
+    "lockerAddress": "0x73b457e827548b1aC40c2cE8c6989749C0EeA4BF"
+  },
+  "clankerInfo": null
+}

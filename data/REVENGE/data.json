@@ -1,0 +1,22 @@
+{
+  "name": "Revenge",
+  "symbol": "Revenge",
+  "decimals": 18,
+  "description": "Revenge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Revenge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Revenge",
+  "addresses": {
+    "8453": "0x00f2a216987e187704a2b369e7d66d4b0670bc8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Revenge",
+    "sanitizedSymbol": "REVENGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB387175B8B9ec0534407CAfc2919E17aD89260cE",
+    "lpNftId": "1287634",
+    "lockerAddress": "0xe769B247e2C951600fC27EFd692036c1B7b5FeA1"
+  },
+  "clankerInfo": null
+}

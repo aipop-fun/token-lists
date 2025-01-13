@@ -1,0 +1,22 @@
+{
+  "name": "Best Banger",
+  "symbol": "Best Banger",
+  "decimals": 18,
+  "description": "Best Banger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Best%20Banger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Best Banger",
+  "addresses": {
+    "8453": "0x19c7f686f537132bd6ef73458e8ebcbfd80ba3bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Best Banger",
+    "sanitizedSymbol": "BEST_BANGER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1227026",
+    "lockerAddress": "0x83a8DdB7af68fA2ad84d086c59C5672e9C67eCbf"
+  },
+  "clankerInfo": null
+}

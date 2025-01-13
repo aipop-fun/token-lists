@@ -1,0 +1,22 @@
+{
+  "name": "Hi Larry",
+  "symbol": "Hi Larry",
+  "decimals": 18,
+  "description": "Hi Larry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hi%20Larry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hi Larry",
+  "addresses": {
+    "8453": "0x0265dd3f7cef8ba065f1aa47b578ad44c5ffcff1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hi Larry",
+    "sanitizedSymbol": "HI_LARRY",
+    "created_at": "2024-12-12T19:18:07.40807",
+    "deployer": "0xE3A493E7B368d62ef3338D6cA97e0BA9A94DDc62",
+    "lpNftId": "1441515",
+    "lockerAddress": "0x7e5E693f8C0a1487319c1ff9CD68CFCCfb2305a8"
+  },
+  "clankerInfo": null
+}

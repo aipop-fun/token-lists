@@ -1,0 +1,22 @@
+{
+  "name": "Jeetsdao",
+  "symbol": "Jeetsdao",
+  "decimals": 18,
+  "description": "Jeetsdao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jeetsdao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jeetsdao",
+  "addresses": {
+    "8453": "0x06942e772c3c887af7fc70329b56a586fb801d44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jeetsdao",
+    "sanitizedSymbol": "JEETSDAO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1284108",
+    "lockerAddress": "0x5eAC779BFBdDd5896096E92E5D87C55388782021"
+  },
+  "clankerInfo": null
+}

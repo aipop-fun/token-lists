@@ -1,0 +1,22 @@
+{
+  "name": "PONKE LABS",
+  "symbol": "PONKE LABS",
+  "decimals": 18,
+  "description": "PONKE LABS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PONKE%20LABS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PONKE LABS",
+  "addresses": {
+    "8453": "0x2450dd897253a2c14be877931711d89751195323"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PONKE LABS",
+    "sanitizedSymbol": "PONKE_LABS",
+    "created_at": "2024-12-10T10:44:13.038566",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1399984",
+    "lockerAddress": "0x43748b5Ad4C941347559D5625534Dc0e3AdA0D39"
+  },
+  "clankerInfo": null
+}

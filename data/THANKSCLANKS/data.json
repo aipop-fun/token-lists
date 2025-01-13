@@ -1,0 +1,22 @@
+{
+  "name": "ThanksClanks",
+  "symbol": "ThanksClanks",
+  "decimals": 18,
+  "description": "ThanksClanks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ThanksClanks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ThanksClanks",
+  "addresses": {
+    "8453": "0x00fb4ad654630ef7dfec3e321d065870866315de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ThanksClanks",
+    "sanitizedSymbol": "THANKSCLANKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203939",
+    "lockerAddress": "0x43C412D65D3e6B3C815b952aF84606753aAb749f"
+  },
+  "clankerInfo": null
+}

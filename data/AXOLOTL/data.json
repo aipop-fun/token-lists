@@ -1,0 +1,22 @@
+{
+  "name": "AXOLOTL",
+  "symbol": "AXOLOTL",
+  "decimals": 18,
+  "description": "AXOLOTL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AXOLOTL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AXOLOTL",
+  "addresses": {
+    "8453": "0x2417793dcaf5af9821e3ef294d6cff0abfaabdfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AXOLOTL",
+    "sanitizedSymbol": "AXOLOTL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF2A3d3b0D4296969ec3941Ff59236E3F2f5a8879",
+    "lpNftId": "1346784",
+    "lockerAddress": "0x91286b104E68A1f00A4553855f464819d838509E"
+  },
+  "clankerInfo": null
+}

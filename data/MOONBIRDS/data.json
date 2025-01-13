@@ -1,0 +1,22 @@
+{
+  "name": "MOONBIRDS",
+  "symbol": "MOONBIRDS",
+  "decimals": 18,
+  "description": "MOONBIRDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOONBIRDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOONBIRDS",
+  "addresses": {
+    "8453": "0x1a773acf5292c5eec20c7b31ea8f639d80649607"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOONBIRDS",
+    "sanitizedSymbol": "MOONBIRDS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x26fc2f9023893eAc5B3A59EE90F4e2Eb6dd28a1c",
+    "lpNftId": "1281072",
+    "lockerAddress": "0xC9c5B594D9Cc555E9BD0a318C5a417cabb6FF173"
+  },
+  "clankerInfo": null
+}

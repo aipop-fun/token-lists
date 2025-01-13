@@ -1,0 +1,22 @@
+{
+  "name": "HHH",
+  "symbol": "HHH",
+  "decimals": 18,
+  "description": "HHH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HHH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HHH",
+  "addresses": {
+    "8453": "0x0388a6744f80b63627bba9aedd6d44cc0750a8e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HHH",
+    "sanitizedSymbol": "HHH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166296",
+    "lockerAddress": "0x7807c0f128F7dcC02683BD8cBc3B9B4fe737cCEF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Univert",
+  "symbol": "Univert",
+  "decimals": 18,
+  "description": "Univert is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Univert",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Univert",
+  "addresses": {
+    "8453": "0x0e1cab502cb7543740e54b087b3cd8f217a4c63e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Univert",
+    "sanitizedSymbol": "UNIVERT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3CA02e7969841D1552035720f94610310C79163e",
+    "lpNftId": "1327530",
+    "lockerAddress": "0xD9bFaf01Ca61Fa362E08c1D3df090CfB20D6da76"
+  },
+  "clankerInfo": null
+}

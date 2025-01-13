@@ -1,0 +1,22 @@
+{
+  "name": "Truth",
+  "symbol": "Truth",
+  "decimals": 18,
+  "description": "Truth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Truth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Truth",
+  "addresses": {
+    "8453": "0x2929748e3bdc61e007fd88a914f24f1966ba9228"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Truth",
+    "sanitizedSymbol": "TRUTH_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120379",
+    "lockerAddress": "0x25b02ee39A9Ae89Cc00831034FB6ab449FDB0D55"
+  },
+  "clankerInfo": null
+}

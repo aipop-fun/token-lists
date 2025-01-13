@@ -1,0 +1,22 @@
+{
+  "name": "Coffee and POOL",
+  "symbol": "Coffee and POOL",
+  "decimals": 18,
+  "description": "Coffee and POOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coffee%20and%20POOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coffee and POOL",
+  "addresses": {
+    "8453": "0x22d978052d521210154ba8a4392f3213ad8e3369"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coffee and POOL",
+    "sanitizedSymbol": "COFFEE_AND_POOL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1360738",
+    "lockerAddress": "0x47eF81Ca973EaE5A98637f9A32caB245cB3d934b"
+  },
+  "clankerInfo": null
+}

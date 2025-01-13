@@ -1,0 +1,22 @@
+{
+  "name": "Bad Bitch Club",
+  "symbol": "Bad Bitch Club",
+  "decimals": 18,
+  "description": "Bad Bitch Club is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bad%20Bitch%20Club",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bad Bitch Club",
+  "addresses": {
+    "8453": "0x0e6ffe42edb6f44f39ebac0e905f908c93eb5ebc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bad Bitch Club",
+    "sanitizedSymbol": "BAD_BITCH_CLUB",
+    "created_at": "2024-12-11T15:45:43.788818",
+    "deployer": "0xaA45EF11aDAb70e90cc369ff25DEFf64a912B68E",
+    "lpNftId": "1421243",
+    "lockerAddress": "0xf3914C17707C8e088b61e683E10614b03e321D0E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CHARU",
+  "symbol": "CHARU",
+  "decimals": 18,
+  "description": "CHARU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHARU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHARU",
+  "addresses": {
+    "8453": "0x0a52a94c346fb738fa278808a683e14b8d6f2f7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHARU",
+    "sanitizedSymbol": "CHARU",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1196072",
+    "lockerAddress": "0xf83Da763eFF6CfC5120F64173aFc1499E4437A23"
+  },
+  "clankerInfo": null
+}

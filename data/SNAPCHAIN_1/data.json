@@ -1,0 +1,22 @@
+{
+  "name": "snapchain",
+  "symbol": "snapchain",
+  "decimals": 18,
+  "description": "snapchain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=snapchain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "snapchain",
+  "addresses": {
+    "8453": "0x0b3f0400fe976b98d2bc552a7a4b434d3579f32f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "snapchain",
+    "sanitizedSymbol": "SNAPCHAIN_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x28abA2DFcf42eAdfEe60CeBFA650aC7184652424",
+    "lpNftId": "1345410",
+    "lockerAddress": "0xAcCc94F85B12b9824837b13A38518614055F08b4"
+  },
+  "clankerInfo": null
+}

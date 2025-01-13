@@ -1,0 +1,22 @@
+{
+  "name": "Ren",
+  "symbol": "Ren",
+  "decimals": 18,
+  "description": "Ren is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ren",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ren",
+  "addresses": {
+    "8453": "0x1fd806802631fd1a5d253e073537b777f7212c35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ren",
+    "sanitizedSymbol": "REN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219255",
+    "lockerAddress": "0x987038ed7f34dEC6e476C3bEBDD1ca1288F52948"
+  },
+  "clankerInfo": null
+}

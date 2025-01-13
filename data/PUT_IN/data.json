@@ -1,0 +1,22 @@
+{
+  "name": "Put_In",
+  "symbol": "Put_In",
+  "decimals": 18,
+  "description": "Put_In is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Put_In",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Put_In",
+  "addresses": {
+    "8453": "0x3ff0ce1fba6743a3d519a885824f5db14ce31afa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Put_In",
+    "sanitizedSymbol": "PUT_IN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xEb6887509D0fd0C8189c6E9CBd5879D726D3c103",
+    "lpNftId": "1268397",
+    "lockerAddress": "0x844a868b1065C7A33396D93e00E305D17730bF71"
+  },
+  "clankerInfo": null
+}

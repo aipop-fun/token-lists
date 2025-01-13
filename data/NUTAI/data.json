@@ -1,0 +1,22 @@
+{
+  "name": "NutAi",
+  "symbol": "NutAi",
+  "decimals": 18,
+  "description": "NutAi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NutAi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NutAi",
+  "addresses": {
+    "8453": "0x34ed8f3f3cfa5e3263eeae171298c8fb5abf901f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NutAi",
+    "sanitizedSymbol": "NUTAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2dfD5D05fEb097bD2aC3900d9bB431074173b6E8",
+    "lpNftId": "1292425",
+    "lockerAddress": "0x2125bbCeFBE726F4740e021553BD89D3Af810017"
+  },
+  "clankerInfo": null
+}

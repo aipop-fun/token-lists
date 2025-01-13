@@ -1,0 +1,22 @@
+{
+  "name": "SunnyDay",
+  "symbol": "SunnyDay",
+  "decimals": 18,
+  "description": "SunnyDay is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SunnyDay",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SunnyDay",
+  "addresses": {
+    "8453": "0x3a22ef1d777be7bf6ee9a4771765ddc08703e970"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SunnyDay",
+    "sanitizedSymbol": "SUNNYDAY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5E5CA521193bd24Fb3124A419a3dca6D780F7A3e",
+    "lpNftId": "1283885",
+    "lockerAddress": "0x794e3f9f10920ca855ce5C5481C0b16372253f83"
+  },
+  "clankerInfo": null
+}

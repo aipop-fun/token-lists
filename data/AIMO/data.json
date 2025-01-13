@@ -1,0 +1,22 @@
+{
+  "name": "Aimo",
+  "symbol": "Aimo",
+  "decimals": 18,
+  "description": "Aimo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aimo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aimo",
+  "addresses": {
+    "8453": "0x082d94a191617bd4c995838a304079bc20b37c85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aimo",
+    "sanitizedSymbol": "AIMO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDb0be6aD001bA176Bac72110A86Ff39E403a090F",
+    "lpNftId": "1308882",
+    "lockerAddress": "0xcDa722DE6ED4988f9cF7bB271f1c4a49e849Ca63"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Snorlax",
+  "symbol": "Snorlax",
+  "decimals": 18,
+  "description": "Snorlax is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snorlax",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snorlax",
+  "addresses": {
+    "8453": "0x30c4814f27f0a52960d767e5ee30e798c674eceb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snorlax",
+    "sanitizedSymbol": "SNORLAX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153670",
+    "lockerAddress": "0xeDFB7E62e58ed00ad8F2eca9e03fa8d0E8077816"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "XRazer",
+  "symbol": "XRazer",
+  "decimals": 18,
+  "description": "XRazer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XRazer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XRazer",
+  "addresses": {
+    "8453": "0x208a709e27a4f16569c4a358eef97f382a9e6891"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XRazer",
+    "sanitizedSymbol": "XRAZER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x331849b0f2b051784534936816AaE16948cC419D",
+    "lpNftId": "1328088",
+    "lockerAddress": "0x6F1111D3B23cc85296F43ec6d06721884Ec50492"
+  },
+  "clankerInfo": null
+}

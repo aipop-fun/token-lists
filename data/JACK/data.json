@@ -1,0 +1,22 @@
+{
+  "name": "Jack",
+  "symbol": "Jack",
+  "decimals": 18,
+  "description": "Jack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jack",
+  "addresses": {
+    "8453": "0x3ffc0c633b376e5b4ff05b0181d776b5ad9fbe64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jack",
+    "sanitizedSymbol": "JACK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1135246",
+    "lockerAddress": "0x87B3a178AD3bCdD522d5244376363835998F4B80"
+  },
+  "clankerInfo": null
+}

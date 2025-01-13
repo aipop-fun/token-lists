@@ -1,0 +1,22 @@
+{
+  "name": "Token Child on Clanker",
+  "symbol": "Token Child on Clanker",
+  "decimals": 18,
+  "description": "Token Child on Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20Child%20on%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token Child on Clanker",
+  "addresses": {
+    "8453": "0x059c3f916ace0fd1b72bbff562c95d1a410d2f10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token Child on Clanker",
+    "sanitizedSymbol": "TOKEN_CHILD_ON_CLANKER",
+    "created_at": "2024-12-12T20:58:05.553922",
+    "deployer": "0x35f032525d115768547D388D2Cd56D3aAF924527",
+    "lpNftId": "1442935",
+    "lockerAddress": "0x92a9Adb739B01fFf3BB8D1D62E56E9A0F785D0E0"
+  },
+  "clankerInfo": null
+}

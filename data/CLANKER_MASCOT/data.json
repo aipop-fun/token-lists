@@ -1,0 +1,22 @@
+{
+  "name": "Clanker Mascot",
+  "symbol": "Clanker Mascot",
+  "decimals": 18,
+  "description": "Clanker Mascot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20Mascot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker Mascot",
+  "addresses": {
+    "8453": "0x2767e1e16adf4a3c807e85a0ddb681fc2bf074c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker Mascot",
+    "sanitizedSymbol": "CLANKER_MASCOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1287520",
+    "lockerAddress": "0x3F024982F551e523ad60Bc9cba56b65EBe939687"
+  },
+  "clankerInfo": null
+}

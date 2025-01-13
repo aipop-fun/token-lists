@@ -1,0 +1,22 @@
+{
+  "name": "FerCaggiano",
+  "symbol": "FerCaggiano",
+  "decimals": 18,
+  "description": "FerCaggiano is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FerCaggiano",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FerCaggiano",
+  "addresses": {
+    "8453": "0x1e5915775da13bcf4b35204b290868fe448be414"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FerCaggiano",
+    "sanitizedSymbol": "FERCAGGIANO",
+    "created_at": "2024-12-09T03:30:21.106509",
+    "deployer": "0x3aC61447a75149Ba67639100eCc92c76fb20941c",
+    "lpNftId": "1380044",
+    "lockerAddress": "0xB636177a5247677e7a245EED8b2c7C4eE6Fe4afB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FrogCaster",
+  "symbol": "FrogCaster",
+  "decimals": 18,
+  "description": "FrogCaster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrogCaster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrogCaster",
+  "addresses": {
+    "8453": "0x12156372546378325bf942cb64b12addefa710b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrogCaster",
+    "sanitizedSymbol": "FROGCASTER",
+    "created_at": "2024-12-12T16:10:16.222169",
+    "deployer": "0xAEA523e6fbe41a4CaF5570FA7BF18E41926817aA",
+    "lpNftId": "1437998",
+    "lockerAddress": "0xDFd147Ce11b1548D05e91b1D3B397b424f6FCAec"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Stringers",
+  "symbol": "Stringers",
+  "decimals": 18,
+  "description": "Stringers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stringers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stringers",
+  "addresses": {
+    "8453": "0x27d1cf7c6ff4d9a9d26e31a420e637a866219893"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stringers",
+    "sanitizedSymbol": "STRINGERS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x84865Bb349998D6b813DB7Cc0F722fD0A94e6e27",
+    "lpNftId": "1267806",
+    "lockerAddress": "0x4F1239f67b3e2a01186e2167dfD170422074276d"
+  },
+  "clankerInfo": null
+}

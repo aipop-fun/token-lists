@@ -1,0 +1,22 @@
+{
+  "name": "LastBang",
+  "symbol": "LastBang",
+  "decimals": 18,
+  "description": "LastBang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LastBang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LastBang",
+  "addresses": {
+    "8453": "0x24ffdb60273003ded837ede1c2109d0e27e6d509"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LastBang",
+    "sanitizedSymbol": "LASTBANG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE6543e28ee030fF3b12B964030E847798519a024",
+    "lpNftId": "1323526",
+    "lockerAddress": "0x7542432c99C5777D4Cc23BAf7679947B30399A8e"
+  },
+  "clankerInfo": null
+}

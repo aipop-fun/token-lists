@@ -1,0 +1,22 @@
+{
+  "name": "SHARK",
+  "symbol": "SHARK",
+  "decimals": 18,
+  "description": "SHARK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHARK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHARK",
+  "addresses": {
+    "8453": "0x0d2a61a623ee4ec780fea5d31cc53011b87b2a0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHARK",
+    "sanitizedSymbol": "SHARK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x326fb0EaB3645763bc7CC027864Ce89269838575",
+    "lpNftId": "1250535",
+    "lockerAddress": "0x9fe0c5E4Cdc3BB59eF3f2D863dBceAbF0043F19a"
+  },
+  "clankerInfo": null
+}

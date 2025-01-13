@@ -1,0 +1,22 @@
+{
+  "name": "GoPro",
+  "symbol": "GoPro",
+  "decimals": 18,
+  "description": "GoPro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoPro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoPro",
+  "addresses": {
+    "8453": "0x1e305dd9ee86d5a1a5942ae49e33d702e6e145d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoPro",
+    "sanitizedSymbol": "GOPRO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xeDB797dFab3c6fd90295e6264eC4D672D73Ac7D3",
+    "lpNftId": "1286195",
+    "lockerAddress": "0xCF6339cB26Fe30B71786A85B21b99c5Fe8DE96d8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "SantaCash",
+  "symbol": "SantaCash",
+  "decimals": 18,
+  "description": "SantaCash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SantaCash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SantaCash",
+  "addresses": {
+    "8453": "0x250540014d168a658bce23fb42d23d04074b6b64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SantaCash",
+    "sanitizedSymbol": "SANTACASH",
+    "created_at": "2024-12-09T19:54:17.799711",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1391242",
+    "lockerAddress": "0x48A4A0011f3264961f4a334B4971d8d11d51eFCf"
+  },
+  "clankerInfo": null
+}

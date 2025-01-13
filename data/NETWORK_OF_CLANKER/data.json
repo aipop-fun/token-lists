@@ -1,0 +1,22 @@
+{
+  "name": "NETWORK OF CLANKER",
+  "symbol": "NETWORK OF CLANKER",
+  "decimals": 18,
+  "description": "NETWORK OF CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NETWORK%20OF%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NETWORK OF CLANKER",
+  "addresses": {
+    "8453": "0x345f18380a984850ebef0d10e87b1157f787aa18"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NETWORK OF CLANKER",
+    "sanitizedSymbol": "NETWORK_OF_CLANKER",
+    "created_at": "2024-12-12T08:50:22.379932",
+    "deployer": "0x05F30135501EEa3b5701F80F79E082Ee0559Fce9",
+    "lpNftId": "1430194",
+    "lockerAddress": "0x768500d1325f0837F0FC47C69907d354433652eA"
+  },
+  "clankerInfo": null
+}

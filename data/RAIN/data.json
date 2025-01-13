@@ -1,0 +1,22 @@
+{
+  "name": "Rain",
+  "symbol": "Rain",
+  "decimals": 18,
+  "description": "Rain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rain",
+  "addresses": {
+    "8453": "0x0796f262ab55b301e555dc8cc9ef6941e9602137"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rain",
+    "sanitizedSymbol": "RAIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1251654",
+    "lockerAddress": "0x45C460C815a2f4Ac07D8E739bBF46166F1Ef0d5e"
+  },
+  "clankerInfo": null
+}

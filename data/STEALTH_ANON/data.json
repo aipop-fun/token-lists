@@ -1,0 +1,22 @@
+{
+  "name": "Stealth Anon",
+  "symbol": "Stealth Anon",
+  "decimals": 18,
+  "description": "Stealth Anon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stealth%20Anon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stealth Anon",
+  "addresses": {
+    "8453": "0x160b2312294824968981a32372b8e37b26f8680e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stealth Anon",
+    "sanitizedSymbol": "STEALTH_ANON",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB3467063df04b4392aEc4E4B685e7DaDb8Aa7D78",
+    "lpNftId": "1252110",
+    "lockerAddress": "0xb8966A763AE9115A413323d93058C4B960f06524"
+  },
+  "clankerInfo": null
+}

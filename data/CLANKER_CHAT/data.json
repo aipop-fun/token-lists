@@ -1,0 +1,22 @@
+{
+  "name": "clanker.chat",
+  "symbol": "clanker.chat",
+  "decimals": 18,
+  "description": "clanker.chat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker.chat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker.chat",
+  "addresses": {
+    "8453": "0x2e287e5c03020f1216c1d7cd719c6cfd179b10c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker.chat",
+    "sanitizedSymbol": "CLANKER_CHAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197963",
+    "lockerAddress": "0x67eAf3a5c792e2D00d0d126A635f06E96Ce2480f"
+  },
+  "clankerInfo": null
+}

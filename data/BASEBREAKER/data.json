@@ -1,0 +1,22 @@
+{
+  "name": "BaseBreaker",
+  "symbol": "BaseBreaker",
+  "decimals": 18,
+  "description": "BaseBreaker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseBreaker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseBreaker",
+  "addresses": {
+    "8453": "0x0a921a890b207729a680cebde4dedb564dda0867"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseBreaker",
+    "sanitizedSymbol": "BASEBREAKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153769",
+    "lockerAddress": "0x2263627A29454360d3Ad0dD1D44Da458A770D3D3"
+  },
+  "clankerInfo": null
+}

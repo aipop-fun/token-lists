@@ -1,0 +1,22 @@
+{
+  "name": "Too Many Cooks",
+  "symbol": "Too Many Cooks",
+  "decimals": 18,
+  "description": "Too Many Cooks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Too%20Many%20Cooks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Too Many Cooks",
+  "addresses": {
+    "8453": "0x2b82d4d4189aacf869309f1390c0513cc688a3a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Too Many Cooks",
+    "sanitizedSymbol": "TOO_MANY_COOKS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd66c3603aaeAe3d03BC521434AfF992a8aF6Af17",
+    "lpNftId": "1283790",
+    "lockerAddress": "0x4ef3eB5dF9fF1be7b8169C45ae4e7E9BF3960259"
+  },
+  "clankerInfo": null
+}

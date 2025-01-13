@@ -1,0 +1,22 @@
+{
+  "name": "Newyorkers",
+  "symbol": "Newyorkers",
+  "decimals": 18,
+  "description": "Newyorkers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Newyorkers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Newyorkers",
+  "addresses": {
+    "8453": "0x36fc84d85a01e06dd32b0cf20d484507c53c5f9b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Newyorkers",
+    "sanitizedSymbol": "NEWYORKERS",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA307C214E73483966F1B675602cEFB70127a348E",
+    "lpNftId": "1277948",
+    "lockerAddress": "0xA9491CBAE1CCDEfEDE7f61ec559e7fFB0D6708CA"
+  },
+  "clankerInfo": null
+}

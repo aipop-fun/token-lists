@@ -1,0 +1,22 @@
+{
+  "name": "Dobby",
+  "symbol": "Dobby",
+  "decimals": 18,
+  "description": "Dobby is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dobby",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dobby",
+  "addresses": {
+    "8453": "0x2b55cea165157c0fa77baee1a0eed90728b28d3e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dobby",
+    "sanitizedSymbol": "DOBBY",
+    "created_at": "2024-12-11T22:58:11.394782",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1427558",
+    "lockerAddress": "0xd3Efb0cD3c313745e5d83b91b94eAb1F2562D91b"
+  },
+  "clankerInfo": null
+}

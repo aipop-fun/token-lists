@@ -1,0 +1,22 @@
+{
+  "name": "PUPPY",
+  "symbol": "PUPPY",
+  "decimals": 18,
+  "description": "PUPPY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUPPY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUPPY",
+  "addresses": {
+    "8453": "0x0220e2e7dc74ba3c0a2cae0f91a840808e7b03ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUPPY",
+    "sanitizedSymbol": "PUPPY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1317209",
+    "lockerAddress": "0x4dba28515b1472F4712933f2a0b84B56719523D8"
+  },
+  "clankerInfo": null
+}

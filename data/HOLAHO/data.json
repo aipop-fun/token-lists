@@ -1,0 +1,22 @@
+{
+  "name": "Holaho",
+  "symbol": "Holaho",
+  "decimals": 18,
+  "description": "Holaho is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Holaho",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Holaho",
+  "addresses": {
+    "8453": "0x19d2e4c10627df5bdc5f37e8310f65aa4afe3e76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Holaho",
+    "sanitizedSymbol": "HOLAHO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xcD7FE4ea8e299Dc8AE351f2B5402461b46Beaf1A",
+    "lpNftId": "1268934",
+    "lockerAddress": "0x66f7219C7F2A9a6bb58c75c6c41Da19608296645"
+  },
+  "clankerInfo": null
+}

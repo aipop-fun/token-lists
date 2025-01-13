@@ -1,0 +1,22 @@
+{
+  "name": "Flooz",
+  "symbol": "Flooz",
+  "decimals": 18,
+  "description": "Flooz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Flooz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Flooz",
+  "addresses": {
+    "8453": "0x3674cafec8b2cbb9d17a323ae7559afa7c0f1881"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Flooz",
+    "sanitizedSymbol": "FLOOZ",
+    "created_at": "2024-12-12T20:39:00.553832",
+    "deployer": "0x8B18C5bEebB7F6cb0c4e2046A6CcBC53f9b06455",
+    "lpNftId": "1442486",
+    "lockerAddress": "0xB105BDC1aCDe8D7E939Ae360fE8D4e262b060219"
+  },
+  "clankerInfo": null
+}

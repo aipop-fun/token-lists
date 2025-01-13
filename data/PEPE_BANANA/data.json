@@ -1,0 +1,22 @@
+{
+  "name": "PEPE BANANA",
+  "symbol": "PEPE BANANA",
+  "decimals": 18,
+  "description": "PEPE BANANA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPE%20BANANA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPE BANANA",
+  "addresses": {
+    "8453": "0x39dcfd399be0f219073245e96db82211f8477bfa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPE BANANA",
+    "sanitizedSymbol": "PEPE_BANANA",
+    "created_at": "2024-12-12T21:24:36.504092",
+    "deployer": "0xE3E08541C658c5eBB95f99A47f6be2bc86fD4674",
+    "lpNftId": "1443586",
+    "lockerAddress": "0x094f12cbda93E9F5a0bD494b07bbB6ad50038c04"
+  },
+  "clankerInfo": null
+}

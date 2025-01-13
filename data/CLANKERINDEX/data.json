@@ -1,0 +1,22 @@
+{
+  "name": "ClankerIndex",
+  "symbol": "ClankerIndex",
+  "decimals": 18,
+  "description": "ClankerIndex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerIndex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerIndex",
+  "addresses": {
+    "8453": "0x1e26939c5c3dec88d1e2b567328b881bb75a2090"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerIndex",
+    "sanitizedSymbol": "CLANKERINDEX",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231123",
+    "lockerAddress": "0x5bcB663aDD1C656895bCeb7cbABeC9d0E6e5F3b8"
+  },
+  "clankerInfo": null
+}

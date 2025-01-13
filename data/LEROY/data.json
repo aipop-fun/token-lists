@@ -1,0 +1,22 @@
+{
+  "name": "Leroy",
+  "symbol": "Leroy",
+  "decimals": 18,
+  "description": "Leroy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Leroy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Leroy",
+  "addresses": {
+    "8453": "0x25a0e46103d8af68406a170012fcd23c5e03c9e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Leroy",
+    "sanitizedSymbol": "LEROY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x874C4Fa766a6eD25b14A24ae6F5B5c212DE47Ed0",
+    "lpNftId": "1289588",
+    "lockerAddress": "0x0eAC2dD32bb6ae308E8DD3f2A5dA75c7bA4EE285"
+  },
+  "clankerInfo": null
+}

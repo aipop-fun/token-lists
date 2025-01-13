@@ -1,0 +1,22 @@
+{
+  "name": "wanker",
+  "symbol": "wanker",
+  "decimals": 18,
+  "description": "wanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wanker",
+  "addresses": {
+    "8453": "0x1c28bdfe972a483c79bdc3834139a4e59c0c26ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wanker",
+    "sanitizedSymbol": "WANKER_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231140",
+    "lockerAddress": "0x0Afb451FBD6C589067e14d94cD5CDDD432cd6495"
+  },
+  "clankerInfo": null
+}

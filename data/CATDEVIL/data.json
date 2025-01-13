@@ -1,0 +1,22 @@
+{
+  "name": "CatDevil",
+  "symbol": "CatDevil",
+  "decimals": 18,
+  "description": "CatDevil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CatDevil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CatDevil",
+  "addresses": {
+    "8453": "0x09f4853822b3aec7a76f34c7a5064717f02a9d25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CatDevil",
+    "sanitizedSymbol": "CATDEVIL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x524b90AeAf7701A8D2aCDBb98310304D35943bC1",
+    "lpNftId": "1327764",
+    "lockerAddress": "0xcFB80b76fEEd2654AA1a636C35943E2248b4f695"
+  },
+  "clankerInfo": null
+}

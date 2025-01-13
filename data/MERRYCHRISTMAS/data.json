@@ -1,0 +1,22 @@
+{
+  "name": "MerryChristmas",
+  "symbol": "MerryChristmas",
+  "decimals": 18,
+  "description": "MerryChristmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MerryChristmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MerryChristmas",
+  "addresses": {
+    "8453": "0x034a1de55a3f8547bb3bc6aee8440d15a9722224"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MerryChristmas",
+    "sanitizedSymbol": "MERRYCHRISTMAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x710ce330e997aeBdf895381d5b069d2EA3B2B301",
+    "lpNftId": "1292153",
+    "lockerAddress": "0xde6cdE6F5fCF7818b386Ce511C69CA848044729b"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clankerdio",
+  "symbol": "Clankerdio",
+  "decimals": 18,
+  "description": "Clankerdio is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clankerdio",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clankerdio",
+  "addresses": {
+    "8453": "0x10488c233af56cfb6f29223e2a96ff99c4e804cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clankerdio",
+    "sanitizedSymbol": "CLANKERDIO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x829775e92Ae029475E71068A9eFa48e260a04f50",
+    "lpNftId": "1250567",
+    "lockerAddress": "0xAfd548f069a6C4D2377C56d55ED8EFe548E23978"
+  },
+  "clankerInfo": null
+}

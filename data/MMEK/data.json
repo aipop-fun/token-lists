@@ -1,0 +1,22 @@
+{
+  "name": "mmek",
+  "symbol": "mmek",
+  "decimals": 18,
+  "description": "mmek is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mmek",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mmek",
+  "addresses": {
+    "8453": "0x0858ba2c502893844de92608e5c988e04a82315c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mmek",
+    "sanitizedSymbol": "MMEK",
+    "created_at": "2024-12-09T17:49:12.925536",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1389933",
+    "lockerAddress": "0x5cefadC5da6E75596E199B2911A66a953F9F4998"
+  },
+  "clankerInfo": null
+}

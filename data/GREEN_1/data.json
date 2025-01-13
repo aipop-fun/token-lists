@@ -1,0 +1,22 @@
+{
+  "name": "GREEN",
+  "symbol": "GREEN",
+  "decimals": 18,
+  "description": "GREEN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GREEN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GREEN",
+  "addresses": {
+    "8453": "0x2b54fccad258d82601e75b5c54785fb7c44ea45f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GREEN",
+    "sanitizedSymbol": "GREEN_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x51B5be9a2df553DA112539B913BBbD86A442486a",
+    "lpNftId": "1291225",
+    "lockerAddress": "0xe4C0c4b7b3040A30F8Cb805930b3960Cb4a19BB8"
+  },
+  "clankerInfo": null
+}

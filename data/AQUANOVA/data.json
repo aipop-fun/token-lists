@@ -1,0 +1,22 @@
+{
+  "name": "AquaNova",
+  "symbol": "AquaNova",
+  "decimals": 18,
+  "description": "AquaNova is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AquaNova",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AquaNova",
+  "addresses": {
+    "8453": "0x05090a6600291299a0b92180adeb8910aef5e858"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AquaNova",
+    "sanitizedSymbol": "AQUANOVA",
+    "created_at": "2024-12-12T08:03:37.146529",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1429857",
+    "lockerAddress": "0x6AfD84db263a9B73B4fd96752E4cf78D71E869b0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "PACK",
+  "symbol": "PACK",
+  "decimals": 18,
+  "description": "PACK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PACK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PACK",
+  "addresses": {
+    "8453": "0x1adae8f0ba8e520c93dcac325887454758aaccfc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PACK",
+    "sanitizedSymbol": "PACK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x18EE5f41FF432eCB84ed0Eb210f95906A32b3D42",
+    "lpNftId": "1366789",
+    "lockerAddress": "0xe0C981b343ee0BdCA7dA0C8717749f3380542394"
+  },
+  "clankerInfo": null
+}

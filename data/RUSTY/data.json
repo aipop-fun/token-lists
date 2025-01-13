@@ -1,0 +1,22 @@
+{
+  "name": "Rusty",
+  "symbol": "Rusty",
+  "decimals": 18,
+  "description": "Rusty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rusty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rusty",
+  "addresses": {
+    "8453": "0x2c39962f1846bbc239890ea8bc607b864e49cc2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rusty",
+    "sanitizedSymbol": "RUSTY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152744",
+    "lockerAddress": "0xfBf64d3c261fDB8755fDa143A72511c38786727F"
+  },
+  "clankerInfo": null
+}

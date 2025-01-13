@@ -1,0 +1,22 @@
+{
+  "name": "$HIGHER BASE",
+  "symbol": "$HIGHER BASE",
+  "decimals": 18,
+  "description": "$HIGHER BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24HIGHER%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$HIGHER BASE",
+  "addresses": {
+    "8453": "0x2aabe4680f0331f2e68093a7335d91dc4fb915e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$HIGHER BASE",
+    "sanitizedSymbol": "HIGHER_BASE",
+    "created_at": "2024-12-11T22:30:54.687635",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1427340",
+    "lockerAddress": "0x2f59f57631fD9d72d9dc912D79D6FC00de8b51da"
+  },
+  "clankerInfo": null
+}

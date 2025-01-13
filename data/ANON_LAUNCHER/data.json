@@ -1,0 +1,22 @@
+{
+  "name": "Anon Launcher",
+  "symbol": "Anon Launcher",
+  "decimals": 18,
+  "description": "Anon Launcher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Launcher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Launcher",
+  "addresses": {
+    "8453": "0x13e80d042d80fd2034f8a5b035222c7e8299060b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Launcher",
+    "sanitizedSymbol": "ANON_LAUNCHER",
+    "created_at": "2024-12-10T16:46:38.664651",
+    "deployer": "0x98bAE636d6a0edD9E0a14ab573D962B153A15a1B",
+    "lpNftId": "1404178",
+    "lockerAddress": "0x5b4CBCB5Dba52052e9741343bFd63319C67A5529"
+  },
+  "clankerInfo": null
+}

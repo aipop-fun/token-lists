@@ -1,0 +1,22 @@
+{
+  "name": "Shadowbyte",
+  "symbol": "Shadowbyte",
+  "decimals": 18,
+  "description": "Shadowbyte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shadowbyte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shadowbyte",
+  "addresses": {
+    "8453": "0x0331f96c04b023f4a534ffe83a2b49a9255c1ada"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shadowbyte",
+    "sanitizedSymbol": "SHADOWBYTE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236202",
+    "lockerAddress": "0xEB5EE5F228DA105c80C2019CfE6ae0A2032B7F05"
+  },
+  "clankerInfo": null
+}

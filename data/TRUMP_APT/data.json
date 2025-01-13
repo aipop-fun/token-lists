@@ -1,0 +1,22 @@
+{
+  "name": "Trump APT",
+  "symbol": "Trump APT",
+  "decimals": 18,
+  "description": "Trump APT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trump%20APT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trump APT",
+  "addresses": {
+    "8453": "0x3ef5d7014cf34d6866970671fcf62a2b88a0f8c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trump APT",
+    "sanitizedSymbol": "TRUMP_APT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6128d63647679c581f111c524C7d3F25d8D200C6",
+    "lpNftId": "1263599",
+    "lockerAddress": "0xc43508128cb18dCfFE7D53558E15B94A186Fd71D"
+  },
+  "clankerInfo": null
+}

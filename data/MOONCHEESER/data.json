@@ -1,0 +1,22 @@
+{
+  "name": "MoonCheeser",
+  "symbol": "MoonCheeser",
+  "decimals": 18,
+  "description": "MoonCheeser is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MoonCheeser",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MoonCheeser",
+  "addresses": {
+    "8453": "0x32157aa3062c3d3dadc2647e77da40c70fd2a84c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MoonCheeser",
+    "sanitizedSymbol": "MOONCHEESER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9B6cB5ee13014110211304De0C5CEE1D9410a67f",
+    "lpNftId": "1267119",
+    "lockerAddress": "0x850a9A20a18AE90F99f73BEbaE75C76FFb331E8B"
+  },
+  "clankerInfo": null
+}

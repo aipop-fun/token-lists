@@ -1,0 +1,22 @@
+{
+  "name": "ANYA",
+  "symbol": "ANYA",
+  "decimals": 18,
+  "description": "ANYA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANYA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANYA",
+  "addresses": {
+    "8453": "0x22ecb857c807792598d3f2bb26fd37c6009844b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANYA",
+    "sanitizedSymbol": "ANYA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc8fA8708D243bD96E88c34Be3D6deA7872FcB8a9",
+    "lpNftId": "1327706",
+    "lockerAddress": "0xcEa5e9BB84D2610c945C67ae2f4fc8401CDB3d76"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OIIA CAT",
+  "symbol": "OIIA CAT",
+  "decimals": 18,
+  "description": "OIIA CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OIIA%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OIIA CAT",
+  "addresses": {
+    "8453": "0x29b4b2c0ec856888ceeadf6c6f7716e84c4291ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OIIA CAT",
+    "sanitizedSymbol": "OIIA_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222896",
+    "lockerAddress": "0x526D0f5c681309307Ad4b55da56dE9b9da29f760"
+  },
+  "clankerInfo": null
+}

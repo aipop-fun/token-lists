@@ -1,0 +1,22 @@
+{
+  "name": "HAMTARO",
+  "symbol": "HAMTARO",
+  "decimals": 18,
+  "description": "HAMTARO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAMTARO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAMTARO",
+  "addresses": {
+    "8453": "0x312b166fe04023e4c99aa8bae03fdd7a2006c5b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAMTARO",
+    "sanitizedSymbol": "HAMTARO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1335519",
+    "lockerAddress": "0x76015DF1a797f4b3098f92E42Cd1F2B198F0E418"
+  },
+  "clankerInfo": null
+}

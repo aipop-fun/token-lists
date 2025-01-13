@@ -1,0 +1,22 @@
+{
+  "name": "Based CULT",
+  "symbol": "Based CULT",
+  "decimals": 18,
+  "description": "Based CULT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20CULT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based CULT",
+  "addresses": {
+    "8453": "0x24000c65c06dd60324f987f18e20d171fffc6533"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based CULT",
+    "sanitizedSymbol": "BASED_CULT",
+    "created_at": "2024-12-09T09:43:37.885524",
+    "deployer": "0x8152dA697dF99c9E3306667a94a2a21dAD3bBA30",
+    "lpNftId": "1385355",
+    "lockerAddress": "0x01116a5A5B481572BE86D38dE2EfB0730c5c98dd"
+  },
+  "clankerInfo": null
+}

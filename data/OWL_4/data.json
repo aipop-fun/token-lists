@@ -1,0 +1,22 @@
+{
+  "name": "OWL",
+  "symbol": "OWL",
+  "decimals": 18,
+  "description": "OWL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OWL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OWL",
+  "addresses": {
+    "8453": "0x1e3a08140ea811a034175d5b466710f7e8e2bc9e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OWL",
+    "sanitizedSymbol": "OWL_4",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3A77FEff0b475ab67a451565B82A04d9F000A2E5",
+    "lpNftId": "1326981",
+    "lockerAddress": "0x7606CCe76f290cD41d216E9ffD2b192B107CBd02"
+  },
+  "clankerInfo": null
+}

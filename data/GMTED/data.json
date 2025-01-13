@@ -1,0 +1,22 @@
+{
+  "name": "GMTed",
+  "symbol": "GMTed",
+  "decimals": 18,
+  "description": "GMTed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GMTed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GMTed",
+  "addresses": {
+    "8453": "0x3caba3de722a7711b46ab180e063ff5930bdfd09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GMTed",
+    "sanitizedSymbol": "GMTED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1319725",
+    "lockerAddress": "0xDB31413455D0c5bC0127855b720fe57e7442c54E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FROGE",
+  "symbol": "FROGE",
+  "decimals": 18,
+  "description": "FROGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FROGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FROGE",
+  "addresses": {
+    "8453": "0x22757f2461603c6643e85aaba1aac2e195c4a383"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FROGE",
+    "sanitizedSymbol": "FROGE_3",
+    "created_at": "2024-12-12T06:07:31.073047",
+    "deployer": "0x1634E035eCE2fd6B51FfA10d297a1E11fc1e9D8C",
+    "lpNftId": "1429501",
+    "lockerAddress": "0x66f4cd9CAAD37747781c4061313E474D091D5e03"
+  },
+  "clankerInfo": null
+}

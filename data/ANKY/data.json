@@ -1,0 +1,22 @@
+{
+  "name": "@anky",
+  "symbol": "@anky",
+  "decimals": 18,
+  "description": "@anky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%40anky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "@anky",
+  "addresses": {
+    "8453": "0x1c2e890fa5c710f4e63576ae8567b6f5c4897c50"
+  },
+  "tokenInfo": {
+    "originalSymbol": "@anky",
+    "sanitizedSymbol": "ANKY",
+    "created_at": "2024-12-12T15:35:31.362694",
+    "deployer": "0xed21735DC192dC4eeAFd71b4Dc023bC53fE4DF15",
+    "lpNftId": "1437184",
+    "lockerAddress": "0x860274fDbce5db681bB9BB6A67E7C183c9dfF560"
+  },
+  "clankerInfo": null
+}

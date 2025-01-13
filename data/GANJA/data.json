@@ -1,0 +1,22 @@
+{
+  "name": "$GANJA",
+  "symbol": "$GANJA",
+  "decimals": 18,
+  "description": "$GANJA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24GANJA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$GANJA",
+  "addresses": {
+    "8453": "0x247e5308699e7a5ff732cfa8fc5d59ec4c2db1d1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$GANJA",
+    "sanitizedSymbol": "GANJA",
+    "created_at": "2024-12-11T17:12:41.237503",
+    "deployer": "0xB613521DD073ac8d5a72CCd7126a944956966b19",
+    "lpNftId": "1422339",
+    "lockerAddress": "0x54D4bA5613f462cda4C0F412F63f6e073C663Da4"
+  },
+  "clankerInfo": null
+}

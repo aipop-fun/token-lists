@@ -1,0 +1,22 @@
+{
+  "name": "PinnacleBase",
+  "symbol": "PinnacleBase",
+  "decimals": 18,
+  "description": "PinnacleBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PinnacleBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PinnacleBase",
+  "addresses": {
+    "8453": "0x25b5dd1cf6c8336efb4f5a185cdf0d25bb1ccb1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PinnacleBase",
+    "sanitizedSymbol": "PINNACLEBASE",
+    "created_at": "2024-12-12T16:45:38.960556",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1438838",
+    "lockerAddress": "0x199094F10876C0A490d12eFA062C0e228c6951cF"
+  },
+  "clankerInfo": null
+}

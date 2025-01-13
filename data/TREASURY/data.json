@@ -1,0 +1,22 @@
+{
+  "name": "TREASURY",
+  "symbol": "TREASURY",
+  "decimals": 18,
+  "description": "TREASURY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TREASURY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TREASURY",
+  "addresses": {
+    "8453": "0x2448be624251d6cebb6ce0381ae08aee6fd47bad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TREASURY",
+    "sanitizedSymbol": "TREASURY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120433",
+    "lockerAddress": "0x4489DC4c2a7Eb738DCBcb8c9c551CD46CB48d990"
+  },
+  "clankerInfo": null
+}

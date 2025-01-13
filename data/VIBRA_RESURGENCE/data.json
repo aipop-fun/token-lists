@@ -1,0 +1,22 @@
+{
+  "name": "Vibra Resurgence",
+  "symbol": "Vibra Resurgence",
+  "decimals": 18,
+  "description": "Vibra Resurgence is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Vibra%20Resurgence",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Vibra Resurgence",
+  "addresses": {
+    "8453": "0x40965dde2b662fda5350b62035badf6ba949a175"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Vibra Resurgence",
+    "sanitizedSymbol": "VIBRA_RESURGENCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167122",
+    "lockerAddress": "0xf0FfC02eeA9e5CE5c1C8e852Cf91c3c46666615D"
+  },
+  "clankerInfo": null
+}

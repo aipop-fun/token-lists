@@ -1,0 +1,22 @@
+{
+  "name": "Bull Clank",
+  "symbol": "Bull Clank",
+  "decimals": 18,
+  "description": "Bull Clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bull%20Clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bull Clank",
+  "addresses": {
+    "8453": "0x38d4b74938433908682f6c762dfd323074889c5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bull Clank",
+    "sanitizedSymbol": "BULL_CLANK",
+    "created_at": "2024-12-11T16:51:26.521132",
+    "deployer": "0xb832dEc07E0C3d41Be013963f8548613Ed4D25ac",
+    "lpNftId": "1422106",
+    "lockerAddress": "0xB683C009974b02B55E3456ca2Aa4D189B4bBF37E"
+  },
+  "clankerInfo": null
+}

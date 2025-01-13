@@ -1,0 +1,22 @@
+{
+  "name": "Skibob",
+  "symbol": "Skibob",
+  "decimals": 18,
+  "description": "Skibob is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skibob",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skibob",
+  "addresses": {
+    "8453": "0x308342a278850bd1ad478882b723600c748a0cc0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skibob",
+    "sanitizedSymbol": "SKIBOB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1319239",
+    "lockerAddress": "0x5322Ed2aEbF20368B062bB2259C56b7aF440B462"
+  },
+  "clankerInfo": null
+}

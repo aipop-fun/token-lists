@@ -1,0 +1,22 @@
+{
+  "name": "GENESIS",
+  "symbol": "GENESIS",
+  "decimals": 18,
+  "description": "GENESIS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GENESIS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GENESIS",
+  "addresses": {
+    "8453": "0x32779690c39c8dd884d13e6260853057536517e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GENESIS",
+    "sanitizedSymbol": "GENESIS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158991",
+    "lockerAddress": "0x717A45E68532d3d263230c7d29434A788872FBA4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "POVCLANKER",
+  "symbol": "POVCLANKER",
+  "decimals": 18,
+  "description": "POVCLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POVCLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POVCLANKER",
+  "addresses": {
+    "8453": "0x205ad857b4489250acc65e693e75728896f9c34b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POVCLANKER",
+    "sanitizedSymbol": "POVCLANKER",
+    "created_at": "2024-12-11T12:03:04.950568",
+    "deployer": "0x05F30135501EEa3b5701F80F79E082Ee0559Fce9",
+    "lpNftId": "1417369",
+    "lockerAddress": "0x191aC84E68bcaC3609eea77c98880f75C2c03C90"
+  },
+  "clankerInfo": null
+}

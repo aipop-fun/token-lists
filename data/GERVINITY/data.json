@@ -1,0 +1,22 @@
+{
+  "name": "GERVINITY",
+  "symbol": "GERVINITY",
+  "decimals": 18,
+  "description": "GERVINITY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GERVINITY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GERVINITY",
+  "addresses": {
+    "8453": "0x3978eefe051c1809eeaa833549b0b86914c407ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GERVINITY",
+    "sanitizedSymbol": "GERVINITY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1294185",
+    "lockerAddress": "0x0e46b62f38D3B0f5f909B20573CE9983Bda33654"
+  },
+  "clankerInfo": null
+}

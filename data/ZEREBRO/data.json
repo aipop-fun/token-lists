@@ -1,0 +1,22 @@
+{
+  "name": "zerebro",
+  "symbol": "zerebro",
+  "decimals": 18,
+  "description": "zerebro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=zerebro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "zerebro",
+  "addresses": {
+    "8453": "0x3d2acce8ecd0ad269124334a307194456e7ef5c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "zerebro",
+    "sanitizedSymbol": "ZEREBRO",
+    "created_at": "2024-12-12T21:31:15.440357",
+    "deployer": "0xB941fEDF98103C1269F2a3D21F9F6adDc879eB09",
+    "lpNftId": "1443793",
+    "lockerAddress": "0xC13d9263926be8e271C5a20ed3120F04a1758C21"
+  },
+  "clankerInfo": null
+}

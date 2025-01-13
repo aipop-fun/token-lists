@@ -1,0 +1,22 @@
+{
+  "name": "simucat",
+  "symbol": "simucat",
+  "decimals": 18,
+  "description": "simucat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=simucat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "simucat",
+  "addresses": {
+    "8453": "0x2265de31d7d397a53cd420b2abbb92a8d07b6b72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "simucat",
+    "sanitizedSymbol": "SIMUCAT",
+    "created_at": "2024-12-09T03:37:27.453714",
+    "deployer": "0x751814f2fe2Cdf48696621eE133BCad889BB6e8c",
+    "lpNftId": "1380197",
+    "lockerAddress": "0x8ecBB7444109913D712D3a0B44abfA17B951138d"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Deeplchain",
+  "symbol": "Deeplchain",
+  "decimals": 18,
+  "description": "Deeplchain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deeplchain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deeplchain",
+  "addresses": {
+    "8453": "0x13d37a161d1d14142f205199417cff40f118cdb5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deeplchain",
+    "sanitizedSymbol": "DEEPLCHAIN",
+    "created_at": "2024-12-10T07:31:02.843763",
+    "deployer": "0x705C71fc031B378586695c8f888231e9d24381b4",
+    "lpNftId": "1397992",
+    "lockerAddress": "0xD9155a406dF326c7Ff4c14F9A94105F518f2223E"
+  },
+  "clankerInfo": null
+}

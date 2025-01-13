@@ -1,0 +1,22 @@
+{
+  "name": "RED APE",
+  "symbol": "RED APE",
+  "decimals": 18,
+  "description": "RED APE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RED%20APE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RED APE",
+  "addresses": {
+    "8453": "0x40e50d5c6eaf25b86fddab639e7c5d953620b4ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RED APE",
+    "sanitizedSymbol": "RED_APE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195963",
+    "lockerAddress": "0x321c026EdCdbbE1954cC404Ba71d31DC39d917d3"
+  },
+  "clankerInfo": null
+}

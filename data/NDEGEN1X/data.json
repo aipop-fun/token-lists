@@ -1,0 +1,22 @@
+{
+  "name": "NDEGEN1X",
+  "symbol": "NDEGEN1X",
+  "decimals": 18,
+  "description": "NDEGEN1X is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NDEGEN1X",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NDEGEN1X",
+  "addresses": {
+    "8453": "0x3acdd532e23b08f786e6f5e3249aa14a86347722"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NDEGEN1X",
+    "sanitizedSymbol": "NDEGEN1X",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x57695440Be82cE3053493e01362F9202f8B9e2B0",
+    "lpNftId": "1319741",
+    "lockerAddress": "0xb5052742A8be2FAe17b87De3825E5a5487139b59"
+  },
+  "clankerInfo": null
+}

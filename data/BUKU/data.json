@@ -1,0 +1,22 @@
+{
+  "name": "buku",
+  "symbol": "buku",
+  "decimals": 18,
+  "description": "buku is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=buku",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "buku",
+  "addresses": {
+    "8453": "0x2f7b683641e5a45e8022a28c06e42f2afd394f09"
+  },
+  "tokenInfo": {
+    "originalSymbol": "buku",
+    "sanitizedSymbol": "BUKU",
+    "created_at": "2024-12-10T18:49:45.428249",
+    "deployer": "0xD67038CA1C83f63b5cd42e07224168016142Deab",
+    "lpNftId": "1405759",
+    "lockerAddress": "0x28672599a9d3343f057E6B9EE580E5Af39677Ddb"
+  },
+  "clankerInfo": null
+}

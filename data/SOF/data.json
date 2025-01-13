@@ -1,0 +1,22 @@
+{
+  "name": "SOF",
+  "symbol": "SOF",
+  "decimals": 18,
+  "description": "SOF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SOF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SOF",
+  "addresses": {
+    "8453": "0x1e1bc93fa22e3dba80c339efd4e2ffe5830c757a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SOF",
+    "sanitizedSymbol": "SOF",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x613DE6647eb62f65656E2015F395a020F4d98af6",
+    "lpNftId": "1266618",
+    "lockerAddress": "0x2C52c3d86E706c21987389a4bB7A490D5cc576b7"
+  },
+  "clankerInfo": null
+}

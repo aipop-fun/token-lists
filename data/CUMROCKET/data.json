@@ -1,0 +1,22 @@
+{
+  "name": "CUMROCKET",
+  "symbol": "CUMROCKET",
+  "decimals": 18,
+  "description": "CUMROCKET is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CUMROCKET",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CUMROCKET",
+  "addresses": {
+    "8453": "0x3b83392ceac991200a45da5a87158ebd5956fca7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CUMROCKET",
+    "sanitizedSymbol": "CUMROCKET",
+    "created_at": "2024-12-11T22:10:39.441773",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1427071",
+    "lockerAddress": "0xdd05A360Bb5b85Ef3AA4F9D0fBF9d57b0B63221C"
+  },
+  "clankerInfo": null
+}

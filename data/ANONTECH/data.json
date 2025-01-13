@@ -1,0 +1,22 @@
+{
+  "name": "Anontech",
+  "symbol": "Anontech",
+  "decimals": 18,
+  "description": "Anontech is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anontech",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anontech",
+  "addresses": {
+    "8453": "0x3534acba71e104ccbce07425f6539b510c8819d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anontech",
+    "sanitizedSymbol": "ANONTECH",
+    "created_at": "2024-12-11T00:32:15.287633",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1408969",
+    "lockerAddress": "0x3330c00dC8d2B1Ac5c55a4710B78aFE5509bB916"
+  },
+  "clankerInfo": null
+}

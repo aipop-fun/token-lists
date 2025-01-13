@@ -1,0 +1,22 @@
+{
+  "name": "Aw Nuts",
+  "symbol": "Aw Nuts",
+  "decimals": 18,
+  "description": "Aw Nuts is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aw%20Nuts",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aw Nuts",
+  "addresses": {
+    "8453": "0x21c7eaa831307e52fba8bacee50299a6a20bef45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aw Nuts",
+    "sanitizedSymbol": "AW_NUTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1C4fF86df55cfB102AEe3e6Dbd7f1eddF6b64a37",
+    "lpNftId": "1374689",
+    "lockerAddress": "0x4AC36404654E0dcF7e25aEFCEdDC062C6d3c31eC"
+  },
+  "clankerInfo": null
+}

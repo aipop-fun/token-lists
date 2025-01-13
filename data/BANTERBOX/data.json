@@ -1,0 +1,22 @@
+{
+  "name": "BanterBox",
+  "symbol": "BanterBox",
+  "decimals": 18,
+  "description": "BanterBox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BanterBox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BanterBox",
+  "addresses": {
+    "8453": "0x3cbbcf0b450544cd8a993fb05e031dce538ae0be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BanterBox",
+    "sanitizedSymbol": "BANTERBOX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173351",
+    "lockerAddress": "0xCd6036796cf2B7E8cEf7fceceFE01DDeF558F733"
+  },
+  "clankerInfo": null
+}

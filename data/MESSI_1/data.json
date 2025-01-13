@@ -1,0 +1,22 @@
+{
+  "name": "MESSI",
+  "symbol": "MESSI",
+  "decimals": 18,
+  "description": "MESSI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MESSI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MESSI",
+  "addresses": {
+    "8453": "0x08dc536be46355e51db2e88e8f6d65fd3022d850"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MESSI",
+    "sanitizedSymbol": "MESSI_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xEC933e40B7DBA745C3048E4938DeA2dd81a08753",
+    "lpNftId": "1121043",
+    "lockerAddress": "0x88134Af425b0c445A39F264202a8D8bAac90a887"
+  },
+  "clankerInfo": null
+}

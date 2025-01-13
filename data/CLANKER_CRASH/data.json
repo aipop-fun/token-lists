@@ -1,0 +1,22 @@
+{
+  "name": "clanker crash",
+  "symbol": "clanker crash",
+  "decimals": 18,
+  "description": "clanker crash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clanker%20crash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clanker crash",
+  "addresses": {
+    "8453": "0x22d27a853a6403b6233218714957bcd64583f56d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clanker crash",
+    "sanitizedSymbol": "CLANKER_CRASH",
+    "created_at": "2024-12-11T07:38:44.586242",
+    "deployer": "0x65F9Cc60087fEDC7B8d2245E824535A85d036824",
+    "lpNftId": "1414100",
+    "lockerAddress": "0xFE3B86A10ef7F9541d35951E7360B6f74fD4Abfd"
+  },
+  "clankerInfo": null
+}

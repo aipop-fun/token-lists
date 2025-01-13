@@ -1,0 +1,22 @@
+{
+  "name": "FrenchDev",
+  "symbol": "FrenchDev",
+  "decimals": 18,
+  "description": "FrenchDev is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrenchDev",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrenchDev",
+  "addresses": {
+    "8453": "0x2d4bb6e0cef9799964100c71ca3247f279b66d65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrenchDev",
+    "sanitizedSymbol": "FRENCHDEV",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130055",
+    "lockerAddress": "0x34fF813f401DcBca43F104A25668f17ca865f080"
+  },
+  "clankerInfo": null
+}

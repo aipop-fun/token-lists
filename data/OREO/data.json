@@ -1,0 +1,22 @@
+{
+  "name": "OREO",
+  "symbol": "OREO",
+  "decimals": 18,
+  "description": "OREO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OREO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OREO",
+  "addresses": {
+    "8453": "0x102a66a0bc30fa64c8bbccd7ae5ed3eda2c25a86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OREO",
+    "sanitizedSymbol": "OREO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x61FD6A1edB5B6CC1860ff7f2C7E3Fe4CbceA1c4e",
+    "lpNftId": "1264706",
+    "lockerAddress": "0xFebA6c36aE8311D7118915Ab51459F7392b797BD"
+  },
+  "clankerInfo": null
+}

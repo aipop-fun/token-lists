@@ -1,0 +1,22 @@
+{
+  "name": "BabyMeratus",
+  "symbol": "BabyMeratus",
+  "decimals": 18,
+  "description": "BabyMeratus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyMeratus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyMeratus",
+  "addresses": {
+    "8453": "0x3b1e9114de45f7b6b569a7f2779cc1eda64c143a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyMeratus",
+    "sanitizedSymbol": "BABYMERATUS",
+    "created_at": "2024-12-11T07:17:01.559494",
+    "deployer": "0xF68c3d3003fBeC7682cf240e5395Ec138d731a47",
+    "lpNftId": "1414039",
+    "lockerAddress": "0xA9677D387fEbd69ab283fdD59E3582843606a505"
+  },
+  "clankerInfo": null
+}

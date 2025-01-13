@@ -1,0 +1,22 @@
+{
+  "name": "Black Pepe",
+  "symbol": "Black Pepe",
+  "decimals": 18,
+  "description": "Black Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Black%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Black Pepe",
+  "addresses": {
+    "8453": "0x319f7faedfd2a8d2247f777d8bd8b38d4d793850"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Black Pepe",
+    "sanitizedSymbol": "BLACK_PEPE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x0A72898D7f63C066885f9cC680eFb5f188594b6C",
+    "lpNftId": "1265697",
+    "lockerAddress": "0xd6860FA7d9A50a78e409a4A599f700dA17141435"
+  },
+  "clankerInfo": null
+}

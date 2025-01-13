@@ -1,0 +1,22 @@
+{
+  "name": "Quick Fingers",
+  "symbol": "Quick Fingers",
+  "decimals": 18,
+  "description": "Quick Fingers is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quick%20Fingers",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quick Fingers",
+  "addresses": {
+    "8453": "0x15f0fb12bc3088251e7ef7363b72576bb457b5dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quick Fingers",
+    "sanitizedSymbol": "QUICK_FINGERS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x32fBC2b574428BDD8522E9584460cF9cdfd37588",
+    "lpNftId": "1285178",
+    "lockerAddress": "0xFcfEEC7DF5625CB3c5128E1f705Ad5f778A848a5"
+  },
+  "clankerInfo": null
+}

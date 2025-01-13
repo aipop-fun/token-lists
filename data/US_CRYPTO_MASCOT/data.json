@@ -1,0 +1,22 @@
+{
+  "name": "US Crypto Mascot",
+  "symbol": "US Crypto Mascot",
+  "decimals": 18,
+  "description": "US Crypto Mascot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=US%20Crypto%20Mascot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "US Crypto Mascot",
+  "addresses": {
+    "8453": "0x2b0d1a427d80ec5a3baf2af9aade7f533dbc3086"
+  },
+  "tokenInfo": {
+    "originalSymbol": "US Crypto Mascot",
+    "sanitizedSymbol": "US_CRYPTO_MASCOT",
+    "created_at": "2024-12-10T15:55:54.772823",
+    "deployer": "0xA6c4cd1C1982d2630A8c726e9FceFf37f615a70b",
+    "lpNftId": "1403200",
+    "lockerAddress": "0x70A9F5AeE5C43183B1eA976752508a7A1F75625A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LamboLaugh",
+  "symbol": "LamboLaugh",
+  "decimals": 18,
+  "description": "LamboLaugh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LamboLaugh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LamboLaugh",
+  "addresses": {
+    "8453": "0x3f3540ad00b767e242eb922b6ce87b5700dadfe0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LamboLaugh",
+    "sanitizedSymbol": "LAMBOLAUGH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x60d56CB2Eb8eb72EE0931ae4488B4fF5C98DC6f3",
+    "lpNftId": "1265133",
+    "lockerAddress": "0x512161a3E29ec044399798A37f688010fd931cda"
+  },
+  "clankerInfo": null
+}

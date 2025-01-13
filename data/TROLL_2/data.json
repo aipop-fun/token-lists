@@ -1,0 +1,22 @@
+{
+  "name": "TROLL",
+  "symbol": "TROLL",
+  "decimals": 18,
+  "description": "TROLL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TROLL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TROLL",
+  "addresses": {
+    "8453": "0x38f4d24ae7b13af2c361e4bf3a3366b29d6e5f77"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TROLL",
+    "sanitizedSymbol": "TROLL_2",
+    "created_at": "2024-12-11T02:40:03.073552",
+    "deployer": "0x2E5e1d7d74D17c5AB0376ca1D99cBc5619607672",
+    "lpNftId": "1410927",
+    "lockerAddress": "0xCD26343f6EE0F598bD28900190F1fCF19EdcB56e"
+  },
+  "clankerInfo": null
+}

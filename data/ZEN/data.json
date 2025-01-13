@@ -1,0 +1,22 @@
+{
+  "name": "Zen",
+  "symbol": "Zen",
+  "decimals": 18,
+  "description": "Zen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zen",
+  "addresses": {
+    "8453": "0x35ee128559f4e3285e6ba3beaa892fde999fd765"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zen",
+    "sanitizedSymbol": "ZEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0671aEC56bc2E358448162677Bd110D673cD2937",
+    "lpNftId": "1285337",
+    "lockerAddress": "0x0426ec3Cf343554A5a6E2B35c6c65c2Fdc387E1c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Monster Grover",
+  "symbol": "Monster Grover",
+  "decimals": 18,
+  "description": "Monster Grover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monster%20Grover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monster Grover",
+  "addresses": {
+    "8453": "0x34e7eb129f6314ca9621ef2abc84f2fe6b2055b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monster Grover",
+    "sanitizedSymbol": "MONSTER_GROVER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xaa627CA20ac56805D93d66660f9c9524add203b6",
+    "lpNftId": "1321718",
+    "lockerAddress": "0x22b6F64B2C0f15932A60d1f338dB997357Efa0BF"
+  },
+  "clankerInfo": null
+}

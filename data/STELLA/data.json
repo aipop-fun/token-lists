@@ -1,0 +1,22 @@
+{
+  "name": "STELLA",
+  "symbol": "STELLA",
+  "decimals": 18,
+  "description": "STELLA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STELLA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STELLA",
+  "addresses": {
+    "8453": "0x194bf4b9f55d6c302eb2c85fa37c2eaa4b9ed3cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STELLA",
+    "sanitizedSymbol": "STELLA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1289853",
+    "lockerAddress": "0xF9B9cB023e94dFC788C07e3823817507308E7aCB"
+  },
+  "clankerInfo": null
+}

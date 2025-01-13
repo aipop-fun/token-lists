@@ -1,0 +1,22 @@
+{
+  "name": "ClankerTest",
+  "symbol": "ClankerTest",
+  "decimals": 18,
+  "description": "ClankerTest is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerTest",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerTest",
+  "addresses": {
+    "8453": "0x0d0efb693699d5e61cd96613c82f49f217b1e51e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerTest",
+    "sanitizedSymbol": "CLANKERTEST",
+    "created_at": "2024-12-09T12:36:57.809671",
+    "deployer": "0xC14A874A16944A29843E860339E65d5ec44f8b30",
+    "lpNftId": "1387034",
+    "lockerAddress": "0x616BB24Da24D433fF99BA2F6a6058Cbdd0460532"
+  },
+  "clankerInfo": null
+}

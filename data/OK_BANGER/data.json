@@ -1,0 +1,22 @@
+{
+  "name": "ok banger",
+  "symbol": "ok banger",
+  "decimals": 18,
+  "description": "ok banger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ok%20banger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ok banger",
+  "addresses": {
+    "8453": "0x37b4008052bb1293c0a079d428c1565ddd3732b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ok banger",
+    "sanitizedSymbol": "OK_BANGER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222279",
+    "lockerAddress": "0xE0735e58Ec26673eC71728F3B8d531e8cCfE2af4"
+  },
+  "clankerInfo": null
+}

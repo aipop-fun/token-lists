@@ -1,0 +1,22 @@
+{
+  "name": "airstack clank",
+  "symbol": "airstack clank",
+  "decimals": 18,
+  "description": "airstack clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=airstack%20clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "airstack clank",
+  "addresses": {
+    "8453": "0x2a020739485f2924368a64ad0379a0db09830ea4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "airstack clank",
+    "sanitizedSymbol": "AIRSTACK_CLANK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x23d359b437e11251b280Ea1659f7be6B29586707",
+    "lpNftId": "1304391",
+    "lockerAddress": "0x1FC686109733A271428Ee5d0bEb7B71dD1009683"
+  },
+  "clankerInfo": null
+}

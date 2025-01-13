@@ -1,0 +1,22 @@
+{
+  "name": "Byrger",
+  "symbol": "Byrger",
+  "decimals": 18,
+  "description": "Byrger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Byrger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Byrger",
+  "addresses": {
+    "8453": "0x10f47d70e4e6dcfc4d6270ae17f1efa5dad6148e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Byrger",
+    "sanitizedSymbol": "BYRGER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xA216D96ff69D27857F047937e7Be1677C092F990",
+    "lpNftId": "1265243",
+    "lockerAddress": "0xb195d5C4302e0a395F13A83000FF8849C8E5dB4f"
+  },
+  "clankerInfo": null
+}

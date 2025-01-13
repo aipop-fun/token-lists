@@ -1,0 +1,22 @@
+{
+  "name": "Frictionless",
+  "symbol": "Frictionless",
+  "decimals": 18,
+  "description": "Frictionless is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frictionless",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frictionless",
+  "addresses": {
+    "8453": "0x32972d4a8ca8550d349630ba4ccb8f44e833c825"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frictionless",
+    "sanitizedSymbol": "FRICTIONLESS",
+    "created_at": "2024-12-12T10:54:40.601764",
+    "deployer": "0x1f317E6C8A7B92CE47A711E66aA5E5D34Fd11317",
+    "lpNftId": "1432871",
+    "lockerAddress": "0x753e7D1C13080Ea0229CA6D5Ae475971dA9D782f"
+  },
+  "clankerInfo": null
+}

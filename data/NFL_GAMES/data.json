@@ -1,0 +1,22 @@
+{
+  "name": "NFL games",
+  "symbol": "NFL games",
+  "decimals": 18,
+  "description": "NFL games is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NFL%20games",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NFL games",
+  "addresses": {
+    "8453": "0x3db40674a7182548fa97f06086f23c3261518f83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NFL games",
+    "sanitizedSymbol": "NFL_GAMES",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x21BAcBEfaE26ce58118c8a6061adf170c33D5cDA",
+    "lpNftId": "1251379",
+    "lockerAddress": "0xAbE909b8fb32fd46FF11c220c2382dCd59Fb5445"
+  },
+  "clankerInfo": null
+}

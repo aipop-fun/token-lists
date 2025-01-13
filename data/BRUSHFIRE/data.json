@@ -1,0 +1,22 @@
+{
+  "name": "BrushFire",
+  "symbol": "BrushFire",
+  "decimals": 18,
+  "description": "BrushFire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BrushFire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BrushFire",
+  "addresses": {
+    "8453": "0x1d34998aa0bee6190acfb5dec0d8d635b5dcddd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BrushFire",
+    "sanitizedSymbol": "BRUSHFIRE",
+    "created_at": "2024-12-10T01:49:21.611107",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1394480",
+    "lockerAddress": "0x107327ADFA883DBb8c0b4ed953803C4BD984e379"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MOKIE V2",
+  "symbol": "MOKIE V2",
+  "decimals": 18,
+  "description": "MOKIE V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOKIE%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOKIE V2",
+  "addresses": {
+    "8453": "0x29e30dec17e625c8d7966472b1c3a00719b6741a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOKIE V2",
+    "sanitizedSymbol": "MOKIE_V2",
+    "created_at": "2024-12-09T17:56:31.854633",
+    "deployer": "0x65F69C5ED64366C4d9229A6DF3fF8D4A18bd773b",
+    "lpNftId": "1389962",
+    "lockerAddress": "0xd3462770253d144c12e94C4129Eb44a9AF4cd990"
+  },
+  "clankerInfo": null
+}

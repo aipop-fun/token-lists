@@ -1,0 +1,22 @@
+{
+  "name": "Cobra Tate",
+  "symbol": "Cobra Tate",
+  "decimals": 18,
+  "description": "Cobra Tate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cobra%20Tate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cobra Tate",
+  "addresses": {
+    "8453": "0x33c801fea87c1485d4d4659f34d84009a8a9a46f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cobra Tate",
+    "sanitizedSymbol": "COBRA_TATE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129280",
+    "lockerAddress": "0x7addBE674b7f11e48af640f3cf26990f0F7d5dB2"
+  },
+  "clankerInfo": null
+}

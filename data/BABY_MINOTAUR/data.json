@@ -1,0 +1,22 @@
+{
+  "name": "Baby Minotaur",
+  "symbol": "Baby Minotaur",
+  "decimals": 18,
+  "description": "Baby Minotaur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Minotaur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Minotaur",
+  "addresses": {
+    "8453": "0x0b9ce9861af36e4c98cc7941c55afc39077dc4bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Minotaur",
+    "sanitizedSymbol": "BABY_MINOTAUR",
+    "created_at": "2024-12-09T19:54:56.371671",
+    "deployer": "0x2735D0A6e6AFF9eEdC40a9Dc859907dC36a97086",
+    "lpNftId": "1391245",
+    "lockerAddress": "0x8812C80821b17bba34eC320E9ac9F618822811dD"
+  },
+  "clankerInfo": null
+}

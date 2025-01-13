@@ -1,0 +1,22 @@
+{
+  "name": "braccon",
+  "symbol": "braccon",
+  "decimals": 18,
+  "description": "braccon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=braccon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "braccon",
+  "addresses": {
+    "8453": "0x0b81473120ba83668bdd105d0b887caa89eaa268"
+  },
+  "tokenInfo": {
+    "originalSymbol": "braccon",
+    "sanitizedSymbol": "BRACCON",
+    "created_at": "2024-12-09T17:27:21.145896",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1389750",
+    "lockerAddress": "0xF257C70Ee8B8D26a7f67989717AeaC5381a8527a"
+  },
+  "clankerInfo": null
+}

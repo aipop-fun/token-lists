@@ -1,0 +1,22 @@
+{
+  "name": "ValueBuilder",
+  "symbol": "ValueBuilder",
+  "decimals": 18,
+  "description": "ValueBuilder is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ValueBuilder",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ValueBuilder",
+  "addresses": {
+    "8453": "0x13347ae77909560b5222220d4b366b1aa46b9af5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ValueBuilder",
+    "sanitizedSymbol": "VALUEBUILDER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124995",
+    "lockerAddress": "0x67f622b1139d8a869d1DAcC0Fc85C4de8d235B32"
+  },
+  "clankerInfo": null
+}

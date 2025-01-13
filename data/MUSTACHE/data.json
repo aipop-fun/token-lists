@@ -1,0 +1,22 @@
+{
+  "name": "mustache",
+  "symbol": "mustache",
+  "decimals": 18,
+  "description": "mustache is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mustache",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mustache",
+  "addresses": {
+    "8453": "0x3f31ac0f9a7578f80afa5ae6d5d8e6229b97a5ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mustache",
+    "sanitizedSymbol": "MUSTACHE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf7714634c8b226e664AcE3468b907a9F4D2d0EEf",
+    "lpNftId": "1288192",
+    "lockerAddress": "0x7ec160687eeAec533EC9d4Ac4f83E76A70f700E1"
+  },
+  "clankerInfo": null
+}

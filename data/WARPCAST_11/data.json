@@ -1,0 +1,22 @@
+{
+  "name": "WARPCAST",
+  "symbol": "WARPCAST",
+  "decimals": 18,
+  "description": "WARPCAST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARPCAST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARPCAST",
+  "addresses": {
+    "8453": "0x347fc48abdc97f7b7adb3ae3d6ab2c5a70aec758"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARPCAST",
+    "sanitizedSymbol": "WARPCAST_11",
+    "created_at": "2024-12-12T17:13:48.853661",
+    "deployer": "0x3007fc774Ea3eF2dda722Aac424C77ddF4690CAC",
+    "lpNftId": "1439223",
+    "lockerAddress": "0x408eb710E610898CD299447C5595947cfcb73d8D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bored Pepe",
+  "symbol": "Bored Pepe",
+  "decimals": 18,
+  "description": "Bored Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bored%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bored Pepe",
+  "addresses": {
+    "8453": "0x012101a55f85b2fe9e1db8876de3a922e0513f6e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bored Pepe",
+    "sanitizedSymbol": "BORED_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9CBFc041C65b2C4a12FE3016726dFbEcAe7317A0",
+    "lpNftId": "1312964",
+    "lockerAddress": "0xdCf6A7783dfa424EFCfbe255fb4baF566C9c9B66"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "TRAD DEX",
+  "symbol": "TRAD DEX",
+  "decimals": 18,
+  "description": "TRAD DEX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRAD%20DEX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRAD DEX",
+  "addresses": {
+    "8453": "0x0fc8f672b0ea41e94c7a76035ad56cf9832c2d38"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRAD DEX",
+    "sanitizedSymbol": "TRAD_DEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195066",
+    "lockerAddress": "0x6be77b18c4fD261057acD30e3AE27cEbeAE81597"
+  },
+  "clankerInfo": null
+}

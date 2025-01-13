@@ -1,0 +1,22 @@
+{
+  "name": "Cackler",
+  "symbol": "Cackler",
+  "decimals": 18,
+  "description": "Cackler is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cackler",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cackler",
+  "addresses": {
+    "8453": "0x0c27db538d98381973af671f34332b5d5c58b22e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cackler",
+    "sanitizedSymbol": "CACKLER",
+    "created_at": "2024-12-10T23:30:49.365949",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408404",
+    "lockerAddress": "0x9696F1e0dB0BBC7E820d7611990edebEd661139D"
+  },
+  "clankerInfo": null
+}

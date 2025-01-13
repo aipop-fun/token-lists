@@ -1,0 +1,22 @@
+{
+  "name": "SHAMP2",
+  "symbol": "SHAMP2",
+  "decimals": 18,
+  "description": "SHAMP2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHAMP2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHAMP2",
+  "addresses": {
+    "8453": "0x139ffbca47db797184ac0906805071673ed4f1ea"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHAMP2",
+    "sanitizedSymbol": "SHAMP2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xb1F21bcDDB961760B1080d265Dd1F307396936a1",
+    "lpNftId": "1126007",
+    "lockerAddress": "0xAcbAe1DC93304E89321B103BCfc5b713459dF530"
+  },
+  "clankerInfo": null
+}

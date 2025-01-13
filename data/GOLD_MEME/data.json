@@ -1,0 +1,22 @@
+{
+  "name": "Gold Meme",
+  "symbol": "Gold Meme",
+  "decimals": 18,
+  "description": "Gold Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gold%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gold Meme",
+  "addresses": {
+    "8453": "0x0505d7f2fc486d436709e72182b577fe62f63463"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gold Meme",
+    "sanitizedSymbol": "GOLD_MEME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216231",
+    "lockerAddress": "0x05F51ef34687e384F5005342486e05c8793c3027"
+  },
+  "clankerInfo": null
+}

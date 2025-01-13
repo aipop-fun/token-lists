@@ -1,0 +1,22 @@
+{
+  "name": "smartdog",
+  "symbol": "smartdog",
+  "decimals": 18,
+  "description": "smartdog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smartdog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smartdog",
+  "addresses": {
+    "8453": "0x35a5eaae0140c0ffca745644be505e16aa5b9daa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smartdog",
+    "sanitizedSymbol": "SMARTDOG",
+    "created_at": "2024-12-09T05:44:39.667549",
+    "deployer": "0x882790d69985292647854f43B9E75c38C07Cfd8D",
+    "lpNftId": "1383334",
+    "lockerAddress": "0x984eD2187B4C782838D21d9938450BF36d4A617E"
+  },
+  "clankerInfo": null
+}

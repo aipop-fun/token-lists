@@ -1,0 +1,22 @@
+{
+  "name": "Arcadia",
+  "symbol": "Arcadia",
+  "decimals": 18,
+  "description": "Arcadia is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Arcadia",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Arcadia",
+  "addresses": {
+    "8453": "0x1a5bd0564b356a2b62206362ffc09ac9c12d2fe7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Arcadia",
+    "sanitizedSymbol": "ARCADIA",
+    "created_at": "2024-12-10T21:22:44.222772",
+    "deployer": "0x6ADF9DDAEb5178510149E92aF66207A8a307F6aB",
+    "lpNftId": "1407297",
+    "lockerAddress": "0xbAAbBb4BD4B9ecf131edcdef4AFE91eDA834989a"
+  },
+  "clankerInfo": null
+}

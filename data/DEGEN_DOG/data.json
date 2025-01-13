@@ -1,0 +1,22 @@
+{
+  "name": "Degen Dog",
+  "symbol": "Degen Dog",
+  "decimals": 18,
+  "description": "Degen Dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Degen%20Dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Degen Dog",
+  "addresses": {
+    "8453": "0x12a2add089f6e25bfbecadceb720a43c5e7802a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Degen Dog",
+    "sanitizedSymbol": "DEGEN_DOG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3DeAD638D4Fc6f6b0C75e5A2E759CE882c4c799e",
+    "lpNftId": "1299664",
+    "lockerAddress": "0x71AF161A857a4F3d482ac71c55f894894B22bDf0"
+  },
+  "clankerInfo": null
+}

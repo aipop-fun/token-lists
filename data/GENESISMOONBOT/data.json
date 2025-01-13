@@ -1,0 +1,22 @@
+{
+  "name": "GenesisMoonBOT",
+  "symbol": "GenesisMoonBOT",
+  "decimals": 18,
+  "description": "GenesisMoonBOT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GenesisMoonBOT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GenesisMoonBOT",
+  "addresses": {
+    "8453": "0x35f9c9f4d35d2bd4df2617f41c03d05c9e6439e0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GenesisMoonBOT",
+    "sanitizedSymbol": "GENESISMOONBOT",
+    "created_at": "2024-12-10T17:19:51.278288",
+    "deployer": "0x710ce330e997aeBdf895381d5b069d2EA3B2B301",
+    "lpNftId": "1404505",
+    "lockerAddress": "0xD84dE6e279f3c1fA76b03F391A51E0a614a37693"
+  },
+  "clankerInfo": null
+}

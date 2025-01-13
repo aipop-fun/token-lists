@@ -1,0 +1,22 @@
+{
+  "name": "Kenguin",
+  "symbol": "Kenguin",
+  "decimals": 18,
+  "description": "Kenguin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kenguin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kenguin",
+  "addresses": {
+    "8453": "0x1724f41b08d39066e5a7bdc61b327c7d8bfb3e07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kenguin",
+    "sanitizedSymbol": "KENGUIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124736",
+    "lockerAddress": "0x5B1288fC8F59c544b3f880f0560aACc75427BB68"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ticker meme",
+  "symbol": "ticker meme",
+  "decimals": 18,
+  "description": "ticker meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ticker%20meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ticker meme",
+  "addresses": {
+    "8453": "0x3a1ebd1ecd1bb3ed14d02f2093e6da6dab56469d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ticker meme",
+    "sanitizedSymbol": "TICKER_MEME",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224318",
+    "lockerAddress": "0x80ECf73b16C7177015963948fC22451BBB30DCFC"
+  },
+  "clankerInfo": null
+}

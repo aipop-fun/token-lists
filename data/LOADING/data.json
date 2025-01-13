@@ -1,0 +1,22 @@
+{
+  "name": "loading",
+  "symbol": "loading",
+  "decimals": 18,
+  "description": "loading is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=loading",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "loading",
+  "addresses": {
+    "8453": "0x01c8b9f74dad3a9de2ff4cebe7222a517cbf791c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "loading",
+    "sanitizedSymbol": "LOADING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236872",
+    "lockerAddress": "0x174774cEd810554F2857e3Cb3399f7a9157B090B"
+  },
+  "clankerInfo": null
+}

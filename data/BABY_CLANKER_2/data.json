@@ -1,0 +1,22 @@
+{
+  "name": "Baby Clanker",
+  "symbol": "Baby Clanker",
+  "decimals": 18,
+  "description": "Baby Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Clanker",
+  "addresses": {
+    "8453": "0x0437310a529e7cdb4caa584f953cefd6a0d30be7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Clanker",
+    "sanitizedSymbol": "BABY_CLANKER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE2c40be13a1A293942b60E210F50b128A55fA402",
+    "lpNftId": "1309800",
+    "lockerAddress": "0x0A46521D88Bc8A88a1497588Af654AD9703D1A4A"
+  },
+  "clankerInfo": null
+}

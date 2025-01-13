@@ -1,0 +1,22 @@
+{
+  "name": "BOBER",
+  "symbol": "BOBER",
+  "decimals": 18,
+  "description": "BOBER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOBER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOBER",
+  "addresses": {
+    "8453": "0x26435b36d61c8da4f90e47c8af0bd2fefbffd640"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOBER",
+    "sanitizedSymbol": "BOBER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234791",
+    "lockerAddress": "0x155570273CaFbedc11932E0e06920837274f7370"
+  },
+  "clankerInfo": null
+}

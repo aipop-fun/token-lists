@@ -1,0 +1,22 @@
+{
+  "name": "MARMI3",
+  "symbol": "MARMI3",
+  "decimals": 18,
+  "description": "MARMI3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MARMI3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MARMI3",
+  "addresses": {
+    "8453": "0x3a14335679b98c2a5ce82f829fab3c16f2842fe0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MARMI3",
+    "sanitizedSymbol": "MARMI3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2a0609a88B2e2a4B4beC22a67E816814722a1a84",
+    "lpNftId": "1332667",
+    "lockerAddress": "0x3Df45fEd88625502d8f7518A29BABD4fe14eF2c1"
+  },
+  "clankerInfo": null
+}

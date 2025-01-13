@@ -1,0 +1,22 @@
+{
+  "name": "gaias forever",
+  "symbol": "gaias forever",
+  "decimals": 18,
+  "description": "gaias forever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gaias%20forever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gaias forever",
+  "addresses": {
+    "8453": "0x4038fc4a00ad897a50caea2801d6860801221958"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gaias forever",
+    "sanitizedSymbol": "GAIAS_FOREVER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1316803",
+    "lockerAddress": "0x78c23cb8B1611c5aB2d5c05E59009C7550d9c8d8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "sXtremeDreams",
+  "symbol": "sXtremeDreams",
+  "decimals": 18,
+  "description": "sXtremeDreams is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sXtremeDreams",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sXtremeDreams",
+  "addresses": {
+    "8453": "0x0246a2d48e113329b399c56aab9e915fe8cf0103"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sXtremeDreams",
+    "sanitizedSymbol": "SXTREMEDREAMS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223588",
+    "lockerAddress": "0xB5FB3684362b0200B0a809c6ed2b33Db77A5d4e5"
+  },
+  "clankerInfo": null
+}

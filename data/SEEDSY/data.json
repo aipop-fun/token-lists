@@ -1,0 +1,22 @@
+{
+  "name": "Seedsy",
+  "symbol": "Seedsy",
+  "decimals": 18,
+  "description": "Seedsy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Seedsy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Seedsy",
+  "addresses": {
+    "8453": "0x133514631ebc47307b12ed8e7fdd3f0c98786166"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Seedsy",
+    "sanitizedSymbol": "SEEDSY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x700a15CE92C35d7D5DBF2284B669dCFC06E8060e",
+    "lpNftId": "1252204",
+    "lockerAddress": "0x187B842B479fCB77a6D8b08D361c0dB4DB281bf8"
+  },
+  "clankerInfo": null
+}

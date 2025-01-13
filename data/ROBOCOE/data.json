@@ -1,0 +1,22 @@
+{
+  "name": "ROBOCOE",
+  "symbol": "ROBOCOE",
+  "decimals": 18,
+  "description": "ROBOCOE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ROBOCOE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ROBOCOE",
+  "addresses": {
+    "8453": "0x0513130e0d180a87a86224031cf099266db041bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ROBOCOE",
+    "sanitizedSymbol": "ROBOCOE",
+    "created_at": "2024-12-12T15:45:12.802576",
+    "deployer": "0x98bAE636d6a0edD9E0a14ab573D962B153A15a1B",
+    "lpNftId": "1437314",
+    "lockerAddress": "0x9656a3C880Cf480D3Bd86Be98bf1d7B5C676FFf6"
+  },
+  "clankerInfo": null
+}

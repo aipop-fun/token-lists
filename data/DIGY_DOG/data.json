@@ -1,0 +1,22 @@
+{
+  "name": "digy dog",
+  "symbol": "digy dog",
+  "decimals": 18,
+  "description": "digy dog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=digy%20dog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "digy dog",
+  "addresses": {
+    "8453": "0x3baa78bc6faa48b1dbf11ed1e4ded2ee003223bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "digy dog",
+    "sanitizedSymbol": "DIGY_DOG",
+    "created_at": "2024-12-10T17:22:51.009626",
+    "deployer": "0x0cCe1bf28B673626F140b926d55d7F3A88AA0615",
+    "lpNftId": "1404542",
+    "lockerAddress": "0xAe91e7f803c0FeA53c33B231df9B12f299B0d642"
+  },
+  "clankerInfo": null
+}

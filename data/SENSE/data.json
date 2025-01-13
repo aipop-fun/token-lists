@@ -1,0 +1,22 @@
+{
+  "name": "sense",
+  "symbol": "sense",
+  "decimals": 18,
+  "description": "sense is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sense",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sense",
+  "addresses": {
+    "8453": "0x1b559e185a80de8a34e4d929a8f9d12f94367f37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sense",
+    "sanitizedSymbol": "SENSE",
+    "created_at": "2024-12-09T18:05:51.968041",
+    "deployer": "0x235d2C272d29c770d0e3B1057b1eA51d0444A78B",
+    "lpNftId": "1390014",
+    "lockerAddress": "0xD1A0F908C636d26693Eb28Db99F88327b2CcAE5a"
+  },
+  "clankerInfo": null
+}

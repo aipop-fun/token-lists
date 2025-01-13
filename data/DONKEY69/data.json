@@ -1,0 +1,22 @@
+{
+  "name": "Donkey69",
+  "symbol": "Donkey69",
+  "decimals": 18,
+  "description": "Donkey69 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Donkey69",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Donkey69",
+  "addresses": {
+    "8453": "0x35b5138a7c7f85682b006c271ba489e1310283d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Donkey69",
+    "sanitizedSymbol": "DONKEY69",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223692",
+    "lockerAddress": "0xde22d793a85d18b13D2cFc0B268B45E6E86505bc"
+  },
+  "clankerInfo": null
+}

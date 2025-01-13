@@ -1,0 +1,22 @@
+{
+  "name": "Boss Token",
+  "symbol": "Boss Token",
+  "decimals": 18,
+  "description": "Boss Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boss%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boss Token",
+  "addresses": {
+    "8453": "0x0359b1dc1ff286f4de4b925d2bd6f3d89aa1335f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boss Token",
+    "sanitizedSymbol": "BOSS_TOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123300",
+    "lockerAddress": "0xD4BffF498839bc55183D3Be1bc4F6C8f07817251"
+  },
+  "clankerInfo": null
+}

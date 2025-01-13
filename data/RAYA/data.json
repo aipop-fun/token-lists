@@ -1,0 +1,22 @@
+{
+  "name": "RAYA",
+  "symbol": "RAYA",
+  "decimals": 18,
+  "description": "RAYA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RAYA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RAYA",
+  "addresses": {
+    "8453": "0x11419060cdc71afbcf3e0ffa1eb82302186d00a5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RAYA",
+    "sanitizedSymbol": "RAYA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0A5d1822CC57114304F9f7da51eccd9bd11Db6d0",
+    "lpNftId": "1333123",
+    "lockerAddress": "0x69384f2F65AEA9F9F9C8f0E9A2F64035a3D45Db2"
+  },
+  "clankerInfo": null
+}

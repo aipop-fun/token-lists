@@ -1,0 +1,22 @@
+{
+  "name": "Church of Satoshi",
+  "symbol": "Church of Satoshi",
+  "decimals": 18,
+  "description": "Church of Satoshi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Church%20of%20Satoshi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Church of Satoshi",
+  "addresses": {
+    "8453": "0x11119fd03b7656e7d69c9a0fc69a74c4588ce9af"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Church of Satoshi",
+    "sanitizedSymbol": "CHURCH_OF_SATOSHI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6381a28DFa6Af6D609b8a079C9E92e3574Eb1a07",
+    "lpNftId": "1329267",
+    "lockerAddress": "0xCC36f9c2867F1B65DaC24f2d18094365da0C6ef6"
+  },
+  "clankerInfo": null
+}

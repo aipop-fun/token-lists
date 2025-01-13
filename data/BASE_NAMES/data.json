@@ -1,0 +1,22 @@
+{
+  "name": "base names",
+  "symbol": "base names",
+  "decimals": 18,
+  "description": "base names is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base%20names",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base names",
+  "addresses": {
+    "8453": "0x2762696984dbc1ce8cf418cd5e50fbfaea578aa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base names",
+    "sanitizedSymbol": "BASE_NAMES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218725",
+    "lockerAddress": "0x4193B3403C2A6101143e583b6F12a960F49F7cfd"
+  },
+  "clankerInfo": null
+}

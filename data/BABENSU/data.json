@@ -1,0 +1,22 @@
+{
+  "name": "babensu",
+  "symbol": "babensu",
+  "decimals": 18,
+  "description": "babensu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=babensu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "babensu",
+  "addresses": {
+    "8453": "0x17a9a5aa5e1d42f44159da17f4c879754ffa0f76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "babensu",
+    "sanitizedSymbol": "BABENSU",
+    "created_at": "2024-12-12T05:42:26.777792",
+    "deployer": "0x3E42B92fE2EBC56cE9Ef968579B216B3957a39FB",
+    "lpNftId": "1429437",
+    "lockerAddress": "0xe24Bc2cd8ec8b3C4764C17a2E5b978dC40CCe2Ae"
+  },
+  "clankerInfo": null
+}

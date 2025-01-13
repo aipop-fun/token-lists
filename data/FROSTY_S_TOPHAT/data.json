@@ -1,0 +1,22 @@
+{
+  "name": "Frosty's Tophat",
+  "symbol": "Frosty's Tophat",
+  "decimals": 18,
+  "description": "Frosty's Tophat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frosty's%20Tophat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frosty's Tophat",
+  "addresses": {
+    "8453": "0x151ce3905ba85c7bb10ba39ed0f562cd47ce4d15"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frosty's Tophat",
+    "sanitizedSymbol": "FROSTY_S_TOPHAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3D80Cd729f66155Eb4dFb647781F1470cCe47Ee6",
+    "lpNftId": "1313202",
+    "lockerAddress": "0x9cED52d746d7576cb47912E64e0245C756c15C36"
+  },
+  "clankerInfo": null
+}

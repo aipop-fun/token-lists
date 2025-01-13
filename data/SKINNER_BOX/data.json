@@ -1,0 +1,22 @@
+{
+  "name": "Skinner Box",
+  "symbol": "Skinner Box",
+  "decimals": 18,
+  "description": "Skinner Box is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Skinner%20Box",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Skinner Box",
+  "addresses": {
+    "8453": "0x25b9b0b967dce7ce87451e14a3a213f34bd5cc31"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Skinner Box",
+    "sanitizedSymbol": "SKINNER_BOX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210472",
+    "lockerAddress": "0xF830cA620d94f91f88DaB75718BCF77C20175ee0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Smart People Earn Dinero",
+  "symbol": "Smart People Earn Dinero",
+  "decimals": 18,
+  "description": "Smart People Earn Dinero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Smart%20People%20Earn%20Dinero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Smart People Earn Dinero",
+  "addresses": {
+    "8453": "0x0c644386070ffdf103a609155077a577b06bb303"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Smart People Earn Dinero",
+    "sanitizedSymbol": "SMART_PEOPLE_EARN_DINERO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1167980",
+    "lockerAddress": "0x91cD0Fe73b917CE2F69624eca61cD6a69779308A"
+  },
+  "clankerInfo": null
+}

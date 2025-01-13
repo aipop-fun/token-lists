@@ -1,0 +1,22 @@
+{
+  "name": "Baby XRP",
+  "symbol": "Baby XRP",
+  "decimals": 18,
+  "description": "Baby XRP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20XRP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby XRP",
+  "addresses": {
+    "8453": "0x3d3f2ef3488b15fa0dfba9c772e4e7253f537070"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby XRP",
+    "sanitizedSymbol": "BABY_XRP_1",
+    "created_at": "2024-12-11T06:40:23.177507",
+    "deployer": "0x54c558F1A3Ebfe0E40462969dd52641eA23C429a",
+    "lpNftId": "1413941",
+    "lockerAddress": "0xe6c7Cd64754eB74c1BA292d27E6cA8C54d1A59Ec"
+  },
+  "clankerInfo": null
+}

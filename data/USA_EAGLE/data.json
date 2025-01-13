@@ -1,0 +1,22 @@
+{
+  "name": "USA EAGLE",
+  "symbol": "USA EAGLE",
+  "decimals": 18,
+  "description": "USA EAGLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=USA%20EAGLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "USA EAGLE",
+  "addresses": {
+    "8453": "0x05c700915c49157ffb86d2c18140ca1928267595"
+  },
+  "tokenInfo": {
+    "originalSymbol": "USA EAGLE",
+    "sanitizedSymbol": "USA_EAGLE",
+    "created_at": "2024-12-10T16:23:35.058625",
+    "deployer": "0x2020d25530CF90f48F176DA7CD3d3C1cd282d400",
+    "lpNftId": "1403931",
+    "lockerAddress": "0x3Cf1B160F4F63f577fA0aF5CE5e3EFF2EE267FAd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FART on BASE",
+  "symbol": "FART on BASE",
+  "decimals": 18,
+  "description": "FART on BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FART%20on%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FART on BASE",
+  "addresses": {
+    "8453": "0x417d4942abba9b06d68b55c4a1a51b8aac049943"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FART on BASE",
+    "sanitizedSymbol": "FART_ON_BASE",
+    "created_at": "2024-12-12T07:10:03.988743",
+    "deployer": "0x832A1c22272Ba7d57223f05312A7352A8F83063E",
+    "lpNftId": "1429694",
+    "lockerAddress": "0xE2e9499BA58249d9924D79Efd98f228EE6298D09"
+  },
+  "clankerInfo": null
+}

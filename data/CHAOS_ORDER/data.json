@@ -1,0 +1,22 @@
+{
+  "name": "Chaos Order",
+  "symbol": "Chaos Order",
+  "decimals": 18,
+  "description": "Chaos Order is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chaos%20Order",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chaos Order",
+  "addresses": {
+    "8453": "0x328749b76963189942bc3fc9518626199b64ce39"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chaos Order",
+    "sanitizedSymbol": "CHAOS_ORDER",
+    "created_at": "2024-12-09T05:12:32.557875",
+    "deployer": "0x3B120B802081585c966e30f1FD116A0941461358",
+    "lpNftId": "1383026",
+    "lockerAddress": "0x8C10722F955497dD066299C4052d34225530efFF"
+  },
+  "clankerInfo": null
+}

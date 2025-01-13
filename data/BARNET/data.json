@@ -1,0 +1,22 @@
+{
+  "name": "Barnet",
+  "symbol": "Barnet",
+  "decimals": 18,
+  "description": "Barnet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Barnet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Barnet",
+  "addresses": {
+    "8453": "0x03169f383eef5812081e88b1654fefb5c831ecd2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Barnet",
+    "sanitizedSymbol": "BARNET",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE9d1f30574C4A39b8a5D720Aee2c84CeAbe1c93b",
+    "lpNftId": "1330526",
+    "lockerAddress": "0x618Bee0c2C378135CD56FFEE8D8655acAc361f46"
+  },
+  "clankerInfo": null
+}

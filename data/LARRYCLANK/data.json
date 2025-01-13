@@ -1,0 +1,22 @@
+{
+  "name": "LARRYCLANK",
+  "symbol": "LARRYCLANK",
+  "decimals": 18,
+  "description": "LARRYCLANK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LARRYCLANK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LARRYCLANK",
+  "addresses": {
+    "8453": "0x0c1a05328429522cebef49c3e21c6ac3375747fa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LARRYCLANK",
+    "sanitizedSymbol": "LARRYCLANK",
+    "created_at": "2024-12-12T04:26:53.034963",
+    "deployer": "0x751814f2fe2Cdf48696621eE133BCad889BB6e8c",
+    "lpNftId": "1429150",
+    "lockerAddress": "0xcd0C00884eC500605553479aF440c9cEd6dcAe36"
+  },
+  "clankerInfo": null
+}

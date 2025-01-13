@@ -1,0 +1,22 @@
+{
+  "name": "bigfrog",
+  "symbol": "bigfrog",
+  "decimals": 18,
+  "description": "bigfrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bigfrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bigfrog",
+  "addresses": {
+    "8453": "0x0ff61c2e1a4aaff1970211aad2b4a439d9d8549f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bigfrog",
+    "sanitizedSymbol": "BIGFROG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD39b213baD42378a740C3Ac2fb3895A9935b860b",
+    "lpNftId": "1329234",
+    "lockerAddress": "0xabbCdB32CB5100bd369663Dc3d26bDb9A18b775A"
+  },
+  "clankerInfo": null
+}

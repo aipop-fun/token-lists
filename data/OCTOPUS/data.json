@@ -1,0 +1,22 @@
+{
+  "name": "Octopus",
+  "symbol": "Octopus",
+  "decimals": 18,
+  "description": "Octopus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Octopus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Octopus",
+  "addresses": {
+    "8453": "0x2bd92fa513bd984533130d54654c738c93899bbd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Octopus",
+    "sanitizedSymbol": "OCTOPUS",
+    "created_at": "2024-12-12T17:31:22.500973",
+    "deployer": "0x2B83F654B3aA613D91a49fc323EBF8edC5592734",
+    "lpNftId": "1439561",
+    "lockerAddress": "0xAB010a0714926f61479b5a6FAAe53dEfCe254278"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CRABCOIN",
+  "symbol": "CRABCOIN",
+  "decimals": 18,
+  "description": "CRABCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CRABCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CRABCOIN",
+  "addresses": {
+    "8453": "0x0c611cfb7eae7bd6204e76d083db07125709d869"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CRABCOIN",
+    "sanitizedSymbol": "CRABCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5852479961b424f04f756f3a20eae98bd677A53C",
+    "lpNftId": "1281681",
+    "lockerAddress": "0xc44AD939CFb9060399b01aE57AADE3ddd894Facc"
+  },
+  "clankerInfo": null
+}

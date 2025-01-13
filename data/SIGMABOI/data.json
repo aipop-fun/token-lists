@@ -1,0 +1,22 @@
+{
+  "name": "SigmaBoi",
+  "symbol": "SigmaBoi",
+  "decimals": 18,
+  "description": "SigmaBoi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SigmaBoi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SigmaBoi",
+  "addresses": {
+    "8453": "0x0fc890523c7453e38df9947a0a293d01bfbedf3c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SigmaBoi",
+    "sanitizedSymbol": "SIGMABOI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4501457c36aE0647Cd43a1a81EA4e9E69604215f",
+    "lpNftId": "1266062",
+    "lockerAddress": "0x1a20A6049F0C479CDeFE9Dc8273Db30C5Fc0C824"
+  },
+  "clankerInfo": null
+}

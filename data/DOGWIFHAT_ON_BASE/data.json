@@ -1,0 +1,22 @@
+{
+  "name": "Dogwifhat on Base",
+  "symbol": "Dogwifhat on Base",
+  "decimals": 18,
+  "description": "Dogwifhat on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dogwifhat%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dogwifhat on Base",
+  "addresses": {
+    "8453": "0x1c0f09c43c7bad0ce87ff9f6ac01ff1ba2d83ad7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dogwifhat on Base",
+    "sanitizedSymbol": "DOGWIFHAT_ON_BASE",
+    "created_at": "2024-12-10T14:56:11.104415",
+    "deployer": "0x772C527b819cdcbFe6b48306D914dC03c7c2EF16",
+    "lpNftId": "1402247",
+    "lockerAddress": "0x8F7694b0f9a7790F0840602356b7Eb94f9F6ACE4"
+  },
+  "clankerInfo": null
+}

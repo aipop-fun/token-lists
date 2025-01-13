@@ -1,0 +1,22 @@
+{
+  "name": "NuttyCowboy",
+  "symbol": "NuttyCowboy",
+  "decimals": 18,
+  "description": "NuttyCowboy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NuttyCowboy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NuttyCowboy",
+  "addresses": {
+    "8453": "0x1bd6828c90360524bc08498a481e07f6fb06dae4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NuttyCowboy",
+    "sanitizedSymbol": "NUTTYCOWBOY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1143057",
+    "lockerAddress": "0x77080D68F4Ef4B7e1750ee18264C09A9bba3E108"
+  },
+  "clankerInfo": null
+}

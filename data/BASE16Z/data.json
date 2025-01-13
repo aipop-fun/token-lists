@@ -1,0 +1,22 @@
+{
+  "name": "base16z",
+  "symbol": "base16z",
+  "decimals": 18,
+  "description": "base16z is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=base16z",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "base16z",
+  "addresses": {
+    "8453": "0x2da5acdeb43ed44548bd4c4b63e7b0d7190d304d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "base16z",
+    "sanitizedSymbol": "BASE16Z",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1200273",
+    "lockerAddress": "0x4fC97E8e74aaD6F2b0CC295078F500F9690062e2"
+  },
+  "clankerInfo": null
+}

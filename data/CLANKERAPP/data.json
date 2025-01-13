@@ -1,0 +1,22 @@
+{
+  "name": "ClankerApp",
+  "symbol": "ClankerApp",
+  "decimals": 18,
+  "description": "ClankerApp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerApp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerApp",
+  "addresses": {
+    "8453": "0x32244c59e1835ec31eba71a3b55ff467ff34639a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerApp",
+    "sanitizedSymbol": "CLANKERAPP",
+    "created_at": "2024-12-12T07:52:07.565408",
+    "deployer": "0x21764097117f01cBb4785F516f2e2347A80b2DDF",
+    "lpNftId": "1429824",
+    "lockerAddress": "0x968A2Be4062e5065f61f439217d16b54c1bb686C"
+  },
+  "clankerInfo": null
+}

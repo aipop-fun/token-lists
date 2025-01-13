@@ -1,0 +1,22 @@
+{
+  "name": "Behind",
+  "symbol": "Behind",
+  "decimals": 18,
+  "description": "Behind is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Behind",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Behind",
+  "addresses": {
+    "8453": "0x06e8b7d3636676c4cf23c1bc4a6747713e2a7dcc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Behind",
+    "sanitizedSymbol": "BEHIND",
+    "created_at": "2024-12-09T11:30:08.127399",
+    "deployer": "0x2C3E2759B236b1AA23a0af75353c0fbAEFD78646",
+    "lpNftId": "1386481",
+    "lockerAddress": "0xDBD50971d402DFE949C15760a6A42D54570B83AE"
+  },
+  "clankerInfo": null
+}

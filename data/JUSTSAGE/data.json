@@ -1,0 +1,22 @@
+{
+  "name": "JUSTSAGE",
+  "symbol": "JUSTSAGE",
+  "decimals": 18,
+  "description": "JUSTSAGE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JUSTSAGE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JUSTSAGE",
+  "addresses": {
+    "8453": "0x2d479ca03cc92504ffa97ec64632aa25567d4e8d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JUSTSAGE",
+    "sanitizedSymbol": "JUSTSAGE",
+    "created_at": "2024-12-09T01:54:55.184548",
+    "deployer": "0x3b69543A11f813e5c5EC6B1EBe8e002Db5454Cc5",
+    "lpNftId": "1377698",
+    "lockerAddress": "0x1f4Dd252A2Bd8a328faF8F9a1E384eD5cB95a878"
+  },
+  "clankerInfo": null
+}

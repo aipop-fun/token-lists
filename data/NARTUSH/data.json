@@ -1,0 +1,22 @@
+{
+  "name": "nartush",
+  "symbol": "nartush",
+  "decimals": 18,
+  "description": "nartush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nartush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nartush",
+  "addresses": {
+    "8453": "0x2a3c32af136a2466d2191365556b62c13555e8cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nartush",
+    "sanitizedSymbol": "NARTUSH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb31Cf365b31B76D5f449FF79c6e2BB0AB06d968E",
+    "lpNftId": "1320593",
+    "lockerAddress": "0x0eD3810a94A4525eA211Ada1819dE0f6fdE75089"
+  },
+  "clankerInfo": null
+}

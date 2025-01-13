@@ -1,0 +1,22 @@
+{
+  "name": "CITADEL",
+  "symbol": "CITADEL",
+  "decimals": 18,
+  "description": "CITADEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CITADEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CITADEL",
+  "addresses": {
+    "8453": "0x04294a1d92091a64b1028f39bf950bc2e10daf2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CITADEL",
+    "sanitizedSymbol": "CITADEL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129180",
+    "lockerAddress": "0x46C6Fb3c9255Fe3AA633c9bc9528Cc0CbE8A92fF"
+  },
+  "clankerInfo": null
+}

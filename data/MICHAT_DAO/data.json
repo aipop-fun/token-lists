@@ -1,0 +1,22 @@
+{
+  "name": "MiChat DAO",
+  "symbol": "MiChat DAO",
+  "decimals": 18,
+  "description": "MiChat DAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MiChat%20DAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MiChat DAO",
+  "addresses": {
+    "8453": "0x343de378061a2c4ffc90680bf9822d92af6644d7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MiChat DAO",
+    "sanitizedSymbol": "MICHAT_DAO",
+    "created_at": "2024-12-12T03:41:42.921633",
+    "deployer": "0x36acec90bDf8C47D732ef57dc4ffb2AaE3080d24",
+    "lpNftId": "1428966",
+    "lockerAddress": "0x26c2768a06E2965d3480098Ad7682469382a5740"
+  },
+  "clankerInfo": null
+}

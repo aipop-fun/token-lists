@@ -1,0 +1,22 @@
+{
+  "name": "Bloo",
+  "symbol": "Bloo",
+  "decimals": 18,
+  "description": "Bloo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bloo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bloo",
+  "addresses": {
+    "8453": "0x18d4d8da84517c2315f7eab54b4176109c688f7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bloo",
+    "sanitizedSymbol": "BLOO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232017",
+    "lockerAddress": "0x9880BF5618B25C5A7e16B5B3d85B64263c109eac"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MOSTACHO",
+  "symbol": "MOSTACHO",
+  "decimals": 18,
+  "description": "MOSTACHO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MOSTACHO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MOSTACHO",
+  "addresses": {
+    "8453": "0x0b2a15d85dbe45b617bedbe5836d7a7f03fb16b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MOSTACHO",
+    "sanitizedSymbol": "MOSTACHO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226278",
+    "lockerAddress": "0xe46d3636c35e97Da5142eAF4E8E1fB9F40C90Ff7"
+  },
+  "clankerInfo": null
+}

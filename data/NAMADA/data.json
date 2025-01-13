@@ -1,0 +1,22 @@
+{
+  "name": "Namada",
+  "symbol": "Namada",
+  "decimals": 18,
+  "description": "Namada is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Namada",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Namada",
+  "addresses": {
+    "8453": "0x3459e9540a106d4901f2fb3c2c8a3e83179b8aff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Namada",
+    "sanitizedSymbol": "NAMADA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb81b1aB4f6d4F7A208778a52eB3cc0caff055b8C",
+    "lpNftId": "1283702",
+    "lockerAddress": "0x718C564D13e6d0d755b35Bdc8b4BE867f62dE2E7"
+  },
+  "clankerInfo": null
+}

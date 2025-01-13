@@ -1,0 +1,22 @@
+{
+  "name": "FARCARDS",
+  "symbol": "FARCARDS",
+  "decimals": 18,
+  "description": "FARCARDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FARCARDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FARCARDS",
+  "addresses": {
+    "8453": "0x15331eeadba28dd625751a312f665cfc1ffdc74b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FARCARDS",
+    "sanitizedSymbol": "FARCARDS",
+    "created_at": "2024-12-12T15:45:55.148011",
+    "deployer": "0x9F24A9e5E20C04E811829E44cE1d7406289c5066",
+    "lpNftId": "1437320",
+    "lockerAddress": "0x7B9e85625B3191044406da85db91f291C0ca1D15"
+  },
+  "clankerInfo": null
+}

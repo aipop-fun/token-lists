@@ -1,0 +1,22 @@
+{
+  "name": "涨",
+  "symbol": "涨",
+  "decimals": 18,
+  "description": "涨 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%E6%B6%A8",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "涨",
+  "addresses": {
+    "8453": "0x0eaf40f51d50fb67e0305bd5962766ab3c19dd9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "涨",
+    "sanitizedSymbol": "TOKEN_c2365150",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234081",
+    "lockerAddress": "0x024C60aD8CD1456b91E00F7f30C98B96e0EE0CcA"
+  },
+  "clankerInfo": null
+}

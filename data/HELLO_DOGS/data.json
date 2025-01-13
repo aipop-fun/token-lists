@@ -1,0 +1,22 @@
+{
+  "name": "Hello Dogs",
+  "symbol": "Hello Dogs",
+  "decimals": 18,
+  "description": "Hello Dogs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hello%20Dogs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hello Dogs",
+  "addresses": {
+    "8453": "0x14b0a0b8e5ccb57f7f50d34fd7b070173b2e5c65"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hello Dogs",
+    "sanitizedSymbol": "HELLO_DOGS",
+    "created_at": "2024-12-09T11:45:01.372537",
+    "deployer": "0x77c2f2073A9573f97DE4F2A5269357bD86b6979C",
+    "lpNftId": "1386581",
+    "lockerAddress": "0x208eC7C10cF444b9658c604b12F615060dBc5A93"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bluefin",
+  "symbol": "Bluefin",
+  "decimals": 18,
+  "description": "Bluefin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bluefin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bluefin",
+  "addresses": {
+    "8453": "0x1d5e0c8203ce31229905a9a5b0ffbf2fab6d44c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bluefin",
+    "sanitizedSymbol": "BLUEFIN",
+    "created_at": "2024-12-11T18:30:33.862694",
+    "deployer": "0xB88fb8Eab8Eb05689c61F657E368093b13Fd40c8",
+    "lpNftId": "1423833",
+    "lockerAddress": "0xC06ccE9aB7DF91FFEAD55F06EC369518723e8395"
+  },
+  "clankerInfo": null
+}

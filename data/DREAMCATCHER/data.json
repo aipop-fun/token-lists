@@ -1,0 +1,22 @@
+{
+  "name": "dreamcatcher",
+  "symbol": "dreamcatcher",
+  "decimals": 18,
+  "description": "dreamcatcher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dreamcatcher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dreamcatcher",
+  "addresses": {
+    "8453": "0x3127bcf5cff0e35c0d03fae7fe1fa7ffee5e652a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dreamcatcher",
+    "sanitizedSymbol": "DREAMCATCHER",
+    "created_at": "2024-12-09T12:57:57.786167",
+    "deployer": "0x6E24620a462De981953AE9bfBe4F47732FB4419C",
+    "lpNftId": "1387192",
+    "lockerAddress": "0x86525CE302981F37dA63a145Ec95179B23eF67af"
+  },
+  "clankerInfo": null
+}

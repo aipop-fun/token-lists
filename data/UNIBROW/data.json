@@ -1,0 +1,22 @@
+{
+  "name": "Unibrow",
+  "symbol": "Unibrow",
+  "decimals": 18,
+  "description": "Unibrow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unibrow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unibrow",
+  "addresses": {
+    "8453": "0x18dcc81259e5bcf2efb718eecc3d4c7d7e907229"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unibrow",
+    "sanitizedSymbol": "UNIBROW",
+    "created_at": "2024-12-11T15:50:43.500081",
+    "deployer": "0x6E44C9F85B1C68567a77cD2E1071aC9c78fd37d7",
+    "lpNftId": "1421295",
+    "lockerAddress": "0x3a93F2ECee0DeeF930ec11Cfe405E7EedC1d25Da"
+  },
+  "clankerInfo": null
+}

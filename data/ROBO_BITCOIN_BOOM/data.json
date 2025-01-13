@@ -1,0 +1,22 @@
+{
+  "name": "Robo-Bitcoin Boom",
+  "symbol": "Robo-Bitcoin Boom",
+  "decimals": 18,
+  "description": "Robo-Bitcoin Boom is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Robo-Bitcoin%20Boom",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Robo-Bitcoin Boom",
+  "addresses": {
+    "8453": "0x10d096fb0208bb34f17165c21f997bfcd126dc3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Robo-Bitcoin Boom",
+    "sanitizedSymbol": "ROBO_BITCOIN_BOOM",
+    "created_at": "2024-12-11T07:44:01.710435",
+    "deployer": "0x01efda1Da67caE2D4Cb2150DB53c846E9540a696",
+    "lpNftId": "1414177",
+    "lockerAddress": "0x74ad2a2AdBa6D3D1D9Ec792F2ABAcc57f428842f"
+  },
+  "clankerInfo": null
+}

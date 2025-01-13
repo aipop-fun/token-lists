@@ -1,0 +1,22 @@
+{
+  "name": "Doggie in hat",
+  "symbol": "Doggie in hat",
+  "decimals": 18,
+  "description": "Doggie in hat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggie%20in%20hat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggie in hat",
+  "addresses": {
+    "8453": "0x14b3f4133d09dfce40a3719be7faebbf9b2ef66d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggie in hat",
+    "sanitizedSymbol": "DOGGIE_IN_HAT",
+    "created_at": "2024-12-09T07:46:38.840961",
+    "deployer": "0x179053edb38a668AF000953aeE6584BCdEC830Ec",
+    "lpNftId": "1384474",
+    "lockerAddress": "0xD5d02F2EF0703b504683A9e5726C3C65865852DA"
+  },
+  "clankerInfo": null
+}

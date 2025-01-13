@@ -1,0 +1,22 @@
+{
+  "name": "bankrhigher",
+  "symbol": "bankrhigher",
+  "decimals": 18,
+  "description": "bankrhigher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bankrhigher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bankrhigher",
+  "addresses": {
+    "8453": "0x30dfdbe134360e259d108306aed3a40fc97cbdce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bankrhigher",
+    "sanitizedSymbol": "BANKRHIGHER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1310964",
+    "lockerAddress": "0x5b68046E74c0a368Ec4945d218D10a1134D7CEA2"
+  },
+  "clankerInfo": null
+}

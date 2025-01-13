@@ -1,0 +1,22 @@
+{
+  "name": "drops",
+  "symbol": "drops",
+  "decimals": 18,
+  "description": "drops is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=drops",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "drops",
+  "addresses": {
+    "8453": "0x19b2edd111cd11ab0772e306501c04780afb0bd8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "drops",
+    "sanitizedSymbol": "DROPS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB91923c1B04204059572d743441A82e7BDaA494C",
+    "lpNftId": "1284123",
+    "lockerAddress": "0xE0E5fFcDe0d1c3bd25d65F32595B8c2572B0E60D"
+  },
+  "clankerInfo": null
+}

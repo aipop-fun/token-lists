@@ -1,0 +1,22 @@
+{
+  "name": "Hat stays on",
+  "symbol": "Hat stays on",
+  "decimals": 18,
+  "description": "Hat stays on is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Hat%20stays%20on",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Hat stays on",
+  "addresses": {
+    "8453": "0x1b5340b977324c4dfa8c97e77b8b61299b5cfe60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Hat stays on",
+    "sanitizedSymbol": "HAT_STAYS_ON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173082",
+    "lockerAddress": "0x8Cf4A92d57F9fECDdafA04404ba3C89dd50e2676"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bounty Jesus",
+  "symbol": "Bounty Jesus",
+  "decimals": 18,
+  "description": "Bounty Jesus is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bounty%20Jesus",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bounty Jesus",
+  "addresses": {
+    "8453": "0x0e7ddbeccef22dd7a3842e7e924d5ecb395e3832"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bounty Jesus",
+    "sanitizedSymbol": "BOUNTY_JESUS",
+    "created_at": "2024-12-12T05:43:10.692933",
+    "deployer": "0x65eC89b829926DFAeD00B888B5d7E63Fb2904E3D",
+    "lpNftId": "1429443",
+    "lockerAddress": "0x2A4Cfd87742823Eae62F1F553E1e02b27cCaDBf1"
+  },
+  "clankerInfo": null
+}

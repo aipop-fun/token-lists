@@ -1,0 +1,22 @@
+{
+  "name": "Quontol",
+  "symbol": "Quontol",
+  "decimals": 18,
+  "description": "Quontol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Quontol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Quontol",
+  "addresses": {
+    "8453": "0x0535b5ad40163e59ff1aaadd76d150e368d3bc5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Quontol",
+    "sanitizedSymbol": "QUONTOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216670",
+    "lockerAddress": "0x56838C69b3f70b3552A8E001ffe6c03ce6330AB0"
+  },
+  "clankerInfo": null
+}

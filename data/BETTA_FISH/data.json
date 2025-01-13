@@ -1,0 +1,22 @@
+{
+  "name": "Betta Fish",
+  "symbol": "Betta Fish",
+  "decimals": 18,
+  "description": "Betta Fish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Betta%20Fish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Betta Fish",
+  "addresses": {
+    "8453": "0x29f2948abe9c1536d446b518459826d54ba846cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Betta Fish",
+    "sanitizedSymbol": "BETTA_FISH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD22A4B424351cc9fA5fa5374FA1b7273f047baa5",
+    "lpNftId": "1309568",
+    "lockerAddress": "0x1A0995A5BE40E0441f91EBfAd392A8e50A206Bc3"
+  },
+  "clankerInfo": null
+}

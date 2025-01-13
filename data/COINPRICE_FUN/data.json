@@ -1,0 +1,22 @@
+{
+  "name": "coinprice.fun",
+  "symbol": "coinprice.fun",
+  "decimals": 18,
+  "description": "coinprice.fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=coinprice.fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "coinprice.fun",
+  "addresses": {
+    "8453": "0x3b879fd4367925b9bf803f165ae4d41b8ec2163c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "coinprice.fun",
+    "sanitizedSymbol": "COINPRICE_FUN",
+    "created_at": "2024-12-09T12:17:13.358538",
+    "deployer": "0xDb0be6aD001bA176Bac72110A86Ff39E403a090F",
+    "lpNftId": "1386904",
+    "lockerAddress": "0x94bdA15626a7829b2469D4721dC4fcDeccd55387"
+  },
+  "clankerInfo": null
+}

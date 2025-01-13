@@ -1,0 +1,22 @@
+{
+  "name": "TAP",
+  "symbol": "TAP",
+  "decimals": 18,
+  "description": "TAP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAP",
+  "addresses": {
+    "8453": "0x2e21216883ea4a423e7b2e4d8c65871d78e333dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAP",
+    "sanitizedSymbol": "TAP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0b5fa155785fcb3deD40e6e138BedEdC9Df1CFe9",
+    "lpNftId": "1374358",
+    "lockerAddress": "0xE55419e4477D227197710ef6085099A056B63421"
+  },
+  "clankerInfo": null
+}

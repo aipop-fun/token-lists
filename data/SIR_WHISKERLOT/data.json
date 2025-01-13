@@ -1,0 +1,22 @@
+{
+  "name": "Sir Whiskerlot",
+  "symbol": "Sir Whiskerlot",
+  "decimals": 18,
+  "description": "Sir Whiskerlot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sir%20Whiskerlot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sir Whiskerlot",
+  "addresses": {
+    "8453": "0x228dafe00b087bc86c356c114b0387c9c13fca64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sir Whiskerlot",
+    "sanitizedSymbol": "SIR_WHISKERLOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232170",
+    "lockerAddress": "0x941067BB43288466B5B42003f889cb5495fAF196"
+  },
+  "clankerInfo": null
+}

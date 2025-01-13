@@ -1,0 +1,22 @@
+{
+  "name": "AI bonsai",
+  "symbol": "AI bonsai",
+  "decimals": 18,
+  "description": "AI bonsai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20bonsai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI bonsai",
+  "addresses": {
+    "8453": "0x08879d3d383e30601df010e59106cef0ed36ef0c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI bonsai",
+    "sanitizedSymbol": "AI_BONSAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x81fab1aA92BD4319C02Ec64cC2C689cd5a505194",
+    "lpNftId": "1285386",
+    "lockerAddress": "0x6fe718e972C5cCf7f0F104Bc19D2E42BC879F74F"
+  },
+  "clankerInfo": null
+}

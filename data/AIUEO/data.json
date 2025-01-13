@@ -1,0 +1,22 @@
+{
+  "name": "AIUEO",
+  "symbol": "AIUEO",
+  "decimals": 18,
+  "description": "AIUEO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIUEO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIUEO",
+  "addresses": {
+    "8453": "0x20778692629e2d42588439f0a8b6338c6cd41c40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIUEO",
+    "sanitizedSymbol": "AIUEO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218495",
+    "lockerAddress": "0x64Da8465433838Ccf74c4bc0fE1bDB78A62979C0"
+  },
+  "clankerInfo": null
+}

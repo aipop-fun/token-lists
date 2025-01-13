@@ -1,0 +1,22 @@
+{
+  "name": "Banana TDM",
+  "symbol": "Banana TDM",
+  "decimals": 18,
+  "description": "Banana TDM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banana%20TDM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banana TDM",
+  "addresses": {
+    "8453": "0x3a46674dc1e329cd5eaf9ad21f464029cdacf3cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banana TDM",
+    "sanitizedSymbol": "BANANA_TDM",
+    "created_at": "2024-12-10T07:18:29.704647",
+    "deployer": "0x946a9Ba3C8c3EEa5f9DCe3c65A0d77850187Cb1D",
+    "lpNftId": "1397793",
+    "lockerAddress": "0x57C65B9F4C2d6d4A236e2B50f0dBbf1aab98816A"
+  },
+  "clankerInfo": null
+}

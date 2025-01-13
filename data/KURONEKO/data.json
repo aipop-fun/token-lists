@@ -1,0 +1,22 @@
+{
+  "name": "KuroNeko",
+  "symbol": "KuroNeko",
+  "decimals": 18,
+  "description": "KuroNeko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KuroNeko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KuroNeko",
+  "addresses": {
+    "8453": "0x1cee6465e669b2f72e3e3074343812ff770aa66e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KuroNeko",
+    "sanitizedSymbol": "KURONEKO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa4e1104aEF4565b78Be45adAdE4bCa0214A60A61",
+    "lpNftId": "1284766",
+    "lockerAddress": "0x779e4002D2f107df6170225b9f5091308566Ccf5"
+  },
+  "clankerInfo": null
+}

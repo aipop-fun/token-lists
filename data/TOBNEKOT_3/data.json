@@ -1,0 +1,22 @@
+{
+  "name": "tobnekoT",
+  "symbol": "tobnekoT",
+  "decimals": 18,
+  "description": "tobnekoT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tobnekoT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tobnekoT",
+  "addresses": {
+    "8453": "0x401d88b59d1f246c16bb81188d59b090e7026c2c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tobnekoT",
+    "sanitizedSymbol": "TOBNEKOT_3",
+    "created_at": "2024-12-11T06:06:22.688682",
+    "deployer": "0x2B83F654B3aA613D91a49fc323EBF8edC5592734",
+    "lpNftId": "1413763",
+    "lockerAddress": "0x80fd2913a43B1fcc61c9F9cCa53867077ECE5880"
+  },
+  "clankerInfo": null
+}

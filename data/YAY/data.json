@@ -1,0 +1,22 @@
+{
+  "name": "YAY",
+  "symbol": "YAY",
+  "decimals": 18,
+  "description": "YAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YAY",
+  "addresses": {
+    "8453": "0x2056b05614cd7681b11724413d770f2e3e3b486e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YAY",
+    "sanitizedSymbol": "YAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224583",
+    "lockerAddress": "0xD2daa0649b2BFEe91bfff822d5Bc9D1f9eFD7fA9"
+  },
+  "clankerInfo": null
+}

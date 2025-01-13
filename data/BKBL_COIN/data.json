@@ -1,0 +1,22 @@
+{
+  "name": "BKBL.Coin",
+  "symbol": "BKBL.Coin",
+  "decimals": 18,
+  "description": "BKBL.Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BKBL.Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BKBL.Coin",
+  "addresses": {
+    "8453": "0x170a6bfad2800645b9244bfa24da38444d8edfb2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BKBL.Coin",
+    "sanitizedSymbol": "BKBL_COIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9960b96dd6C7cA465b5bb96c3222373ed390Bf6a",
+    "lpNftId": "1322450",
+    "lockerAddress": "0x1807BF5973213c9140202aed5F4d38041304ff5D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "melo",
+  "symbol": "melo",
+  "decimals": 18,
+  "description": "melo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=melo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "melo",
+  "addresses": {
+    "8453": "0x2204503722598b01bcc008e5258d71824bd96b8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "melo",
+    "sanitizedSymbol": "MELO",
+    "created_at": "2024-12-11T06:50:40.976855",
+    "deployer": "0x7F03A577266FC6a51724a9e27DE721EB7E1f3dD2",
+    "lpNftId": "1413973",
+    "lockerAddress": "0x3A47d8207CAFB25d85110CBebC5934d18DE7F4aF"
+  },
+  "clankerInfo": null
+}

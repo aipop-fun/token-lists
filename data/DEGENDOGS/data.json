@@ -1,0 +1,22 @@
+{
+  "name": "DegenDogs",
+  "symbol": "DegenDogs",
+  "decimals": 18,
+  "description": "DegenDogs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenDogs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenDogs",
+  "addresses": {
+    "8453": "0x058086565d8e1c0b3e83fbb6b03a3828964ab00b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenDogs",
+    "sanitizedSymbol": "DEGENDOGS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156612",
+    "lockerAddress": "0x9d2AF49CEBEF8e45fc6e23353D900de494417781"
+  },
+  "clankerInfo": null
+}

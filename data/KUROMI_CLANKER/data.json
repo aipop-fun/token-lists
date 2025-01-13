@@ -1,0 +1,22 @@
+{
+  "name": "KUROMI CLANKER",
+  "symbol": "KUROMI CLANKER",
+  "decimals": 18,
+  "description": "KUROMI CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KUROMI%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KUROMI CLANKER",
+  "addresses": {
+    "8453": "0x037ea4987a508fb41f7aa76ccb1ebe31356465e2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KUROMI CLANKER",
+    "sanitizedSymbol": "KUROMI_CLANKER",
+    "created_at": "2024-12-11T11:44:43.409501",
+    "deployer": "0xcFdda69723Fc8e9b86c0430E45b2dE6cA1B2f51F",
+    "lpNftId": "1417185",
+    "lockerAddress": "0x38959b30C35F375F9a7b6fab746F2C4AB6480bA2"
+  },
+  "clankerInfo": null
+}

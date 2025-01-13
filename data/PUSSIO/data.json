@@ -1,0 +1,22 @@
+{
+  "name": "PUSSIO",
+  "symbol": "PUSSIO",
+  "decimals": 18,
+  "description": "PUSSIO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUSSIO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUSSIO",
+  "addresses": {
+    "8453": "0x17cde65fc7a789c73afc2eadbfcb0752c4c331b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUSSIO",
+    "sanitizedSymbol": "PUSSIO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x694F933104625Ea59140140a0D36AeA45aD769ec",
+    "lpNftId": "1323989",
+    "lockerAddress": "0xfd5C20a21f777FdF28Ce08BBC53f96E056113A31"
+  },
+  "clankerInfo": null
+}

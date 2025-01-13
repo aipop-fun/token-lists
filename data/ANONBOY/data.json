@@ -1,0 +1,22 @@
+{
+  "name": "ANONBOY",
+  "symbol": "ANONBOY",
+  "decimals": 18,
+  "description": "ANONBOY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONBOY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONBOY",
+  "addresses": {
+    "8453": "0x22b09b083ded9d7b8f94d6a77eda5a26ad35b6e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONBOY",
+    "sanitizedSymbol": "ANONBOY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x16Ff7282FDC61C6E268Fa03fD562eBd8cA79F7D0",
+    "lpNftId": "1302040",
+    "lockerAddress": "0x9d4f88AC68Cb8103807f6F3548db05AB1b270BFF"
+  },
+  "clankerInfo": null
+}

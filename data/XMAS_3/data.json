@@ -1,0 +1,22 @@
+{
+  "name": "Xmas",
+  "symbol": "Xmas",
+  "decimals": 18,
+  "description": "Xmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xmas",
+  "addresses": {
+    "8453": "0x309422fc8402b855e018553e07186513c8622829"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xmas",
+    "sanitizedSymbol": "XMAS_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x35282D65dF0d7419001e44b9dF85330dA553B605",
+    "lpNftId": "1330565",
+    "lockerAddress": "0x61d5F1539d933Eb9Ee70Ee10fFf56694D43789D4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "1 Million ETH to Base",
+  "symbol": "1 Million ETH to Base",
+  "decimals": 18,
+  "description": "1 Million ETH to Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1%20Million%20ETH%20to%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1 Million ETH to Base",
+  "addresses": {
+    "8453": "0x40043203fa62b54d59cdb40ca03146638debf44b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1 Million ETH to Base",
+    "sanitizedSymbol": "1_MILLION_ETH_TO_BASE",
+    "created_at": "2024-12-12T03:28:46.477706",
+    "deployer": "0x29C33ac6Db1D16fdebe471c652585190905DfD04",
+    "lpNftId": "1428893",
+    "lockerAddress": "0x44fdf4ac7617b665Ce3aD9CF0047F558a799868d"
+  },
+  "clankerInfo": null
+}

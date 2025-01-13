@@ -1,0 +1,22 @@
+{
+  "name": "Blather",
+  "symbol": "Blather",
+  "decimals": 18,
+  "description": "Blather is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blather",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blather",
+  "addresses": {
+    "8453": "0x161cbae2184193527ae7af52ca3a37caa3082e12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blather",
+    "sanitizedSymbol": "BLATHER",
+    "created_at": "2024-12-10T05:52:31.040333",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1397183",
+    "lockerAddress": "0xC15c4080520BdE67f0A43Ba6588DE3c61CEB2e04"
+  },
+  "clankerInfo": null
+}

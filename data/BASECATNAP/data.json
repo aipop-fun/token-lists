@@ -1,0 +1,22 @@
+{
+  "name": "BaseCatnap",
+  "symbol": "BaseCatnap",
+  "decimals": 18,
+  "description": "BaseCatnap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseCatnap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseCatnap",
+  "addresses": {
+    "8453": "0x14dbf0d4f7a5407022b8cc8bbacdb5b019ade30f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseCatnap",
+    "sanitizedSymbol": "BASECATNAP",
+    "created_at": "2024-12-09T01:54:55.184548",
+    "deployer": "0x2475ebED7fDdBE7410d439F825d74fCAA4944541",
+    "lpNftId": "1377699",
+    "lockerAddress": "0x6491B5BDf208C2B4f460cB68533b35e6ecc2F35c"
+  },
+  "clankerInfo": null
+}

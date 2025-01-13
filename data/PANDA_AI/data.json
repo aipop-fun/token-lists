@@ -1,0 +1,22 @@
+{
+  "name": "Panda Ai",
+  "symbol": "Panda Ai",
+  "decimals": 18,
+  "description": "Panda Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Panda%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Panda Ai",
+  "addresses": {
+    "8453": "0x17d4f6972f5cc948daba06e1456c8ec671ea6d35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Panda Ai",
+    "sanitizedSymbol": "PANDA_AI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x66Cd110e1D009dcaF61A4e804DdD6Ae622d7432e",
+    "lpNftId": "1265533",
+    "lockerAddress": "0x10E25e4E97Df21C65f24a43D5f6A0D32B31A8928"
+  },
+  "clankerInfo": null
+}

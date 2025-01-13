@@ -1,0 +1,22 @@
+{
+  "name": "CyberCore",
+  "symbol": "CyberCore",
+  "decimals": 18,
+  "description": "CyberCore is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CyberCore",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CyberCore",
+  "addresses": {
+    "8453": "0x2ac9a2801a7f96df4f0075c1a385a40baf87ff3b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CyberCore",
+    "sanitizedSymbol": "CYBERCORE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5e15e09815e2135f6a14bdC0d431d39383bB4956",
+    "lpNftId": "1306739",
+    "lockerAddress": "0x4b4Ef8A474498E68e00a2bAe4b285DdE0bDEA8C8"
+  },
+  "clankerInfo": null
+}

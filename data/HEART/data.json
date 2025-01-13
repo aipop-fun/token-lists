@@ -1,0 +1,22 @@
+{
+  "name": "HEART",
+  "symbol": "HEART",
+  "decimals": 18,
+  "description": "HEART is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEART",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEART",
+  "addresses": {
+    "8453": "0x35fda8c232ae1dacb65c900d967b4227c73da406"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEART",
+    "sanitizedSymbol": "HEART",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198899",
+    "lockerAddress": "0x2083B12ae23c38bCF81bC405Ed0dA83411513Bf0"
+  },
+  "clankerInfo": null
+}

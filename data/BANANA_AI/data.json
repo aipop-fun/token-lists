@@ -1,0 +1,22 @@
+{
+  "name": "Banana Ai",
+  "symbol": "Banana Ai",
+  "decimals": 18,
+  "description": "Banana Ai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Banana%20Ai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Banana Ai",
+  "addresses": {
+    "8453": "0x1e564bf1c439cbbaa12020acc7c6134750f81cce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Banana Ai",
+    "sanitizedSymbol": "BANANA_AI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x192E12CAc6e84D4C29e2a503ef3E0C361C65f9B0",
+    "lpNftId": "1332432",
+    "lockerAddress": "0x4AC6672F2CA0eDE8f76c50fBB18390742BbF6351"
+  },
+  "clankerInfo": null
+}

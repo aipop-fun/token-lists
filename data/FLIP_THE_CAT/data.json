@@ -1,0 +1,22 @@
+{
+  "name": "FLIP THE CAT",
+  "symbol": "FLIP THE CAT",
+  "decimals": 18,
+  "description": "FLIP THE CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FLIP%20THE%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FLIP THE CAT",
+  "addresses": {
+    "8453": "0x2a5bd07ee5fa33e7d865dfeb6039596b775b3bd8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FLIP THE CAT",
+    "sanitizedSymbol": "FLIP_THE_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231279",
+    "lockerAddress": "0xA301fEBdc5eA96ed596eAa3B735C8a8F504BdCa4"
+  },
+  "clankerInfo": null
+}

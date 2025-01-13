@@ -1,0 +1,22 @@
+{
+  "name": "bufan-test-1212",
+  "symbol": "bufan-test-1212",
+  "decimals": 18,
+  "description": "bufan-test-1212 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bufan-test-1212",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bufan-test-1212",
+  "addresses": {
+    "8453": "0x3740105a85e7f1e53f61bbe2c3ee1b7a20c87423"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bufan-test-1212",
+    "sanitizedSymbol": "BUFAN_TEST_1212",
+    "created_at": "2024-12-12T06:42:58.928309",
+    "deployer": "0xA25532B1287dEe6501fFa13Ff457fFcc9a6Ca6B0",
+    "lpNftId": "1429631",
+    "lockerAddress": "0xb7239eBfab6858033aD58cb325F5D510FDD0fB33"
+  },
+  "clankerInfo": null
+}

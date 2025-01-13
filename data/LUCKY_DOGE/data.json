@@ -1,0 +1,22 @@
+{
+  "name": "lucky doge",
+  "symbol": "lucky doge",
+  "decimals": 18,
+  "description": "lucky doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lucky%20doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lucky doge",
+  "addresses": {
+    "8453": "0x0dc8e2b036900783ac0d06300b3d739282e43203"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lucky doge",
+    "sanitizedSymbol": "LUCKY_DOGE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233041",
+    "lockerAddress": "0x89F9d300102458f17658fF336267e8876101569F"
+  },
+  "clankerInfo": null
+}

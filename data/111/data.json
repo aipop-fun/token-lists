@@ -1,0 +1,22 @@
+{
+  "name": "111",
+  "symbol": "111",
+  "decimals": 18,
+  "description": "111 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=111",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "111",
+  "addresses": {
+    "8453": "0x350596419ec40ae9f12a4fbba609e514f7bfbbfd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "111",
+    "sanitizedSymbol": "111",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225133",
+    "lockerAddress": "0x93f6842295DeDfD8aB9d268f1BBf113691945594"
+  },
+  "clankerInfo": null
+}

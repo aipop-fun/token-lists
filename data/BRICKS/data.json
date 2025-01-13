@@ -1,0 +1,22 @@
+{
+  "name": "Bricks",
+  "symbol": "Bricks",
+  "decimals": 18,
+  "description": "Bricks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bricks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bricks",
+  "addresses": {
+    "8453": "0x3c3d00831a239440b7ae82251b89df1249904207"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bricks",
+    "sanitizedSymbol": "BRICKS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8a96Dbc8fAa42b67A1bE83Bd9a30160527E953Bc",
+    "lpNftId": "1305484",
+    "lockerAddress": "0x95fFf4e900494a01f13c2c711983e3c5DBAA045B"
+  },
+  "clankerInfo": null
+}

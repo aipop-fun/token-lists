@@ -1,0 +1,22 @@
+{
+  "name": "Son",
+  "symbol": "Son",
+  "decimals": 18,
+  "description": "Son is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Son",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Son",
+  "addresses": {
+    "8453": "0x41cb34e0eeb17302bdf68feaf1dde3d92aadeb44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Son",
+    "sanitizedSymbol": "SON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158100",
+    "lockerAddress": "0x7f16936A352a6081Bc125c01FABeE47542190e2B"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Sharka",
+  "symbol": "Sharka",
+  "decimals": 18,
+  "description": "Sharka is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sharka",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sharka",
+  "addresses": {
+    "8453": "0x0fffd5bdde5d00de2c8e14bf59ad1e47aa1fe0ec"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sharka",
+    "sanitizedSymbol": "SHARKA",
+    "created_at": "2024-12-11T06:58:05.614242",
+    "deployer": "0x95b4b1ba43AB40B98ED91307AC34B3A465f268e4",
+    "lpNftId": "1413993",
+    "lockerAddress": "0x53eD97Bcc583BDdaC71947696347770b7d47FB51"
+  },
+  "clankerInfo": null
+}

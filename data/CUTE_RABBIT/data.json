@@ -1,0 +1,22 @@
+{
+  "name": "cute rabbit",
+  "symbol": "cute rabbit",
+  "decimals": 18,
+  "description": "cute rabbit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cute%20rabbit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cute rabbit",
+  "addresses": {
+    "8453": "0x14f4e242ea66b6a14682858b4469d2e482be2e0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cute rabbit",
+    "sanitizedSymbol": "CUTE_RABBIT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210511",
+    "lockerAddress": "0x80A18B666Dfe02456ccD8259b045d9bF97Ea3496"
+  },
+  "clankerInfo": null
+}

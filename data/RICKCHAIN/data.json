@@ -1,0 +1,22 @@
+{
+  "name": "RickChain",
+  "symbol": "RickChain",
+  "decimals": 18,
+  "description": "RickChain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RickChain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RickChain",
+  "addresses": {
+    "8453": "0x39822cac0f2c92950e4c2bdce9fecbd3a573fe1a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RickChain",
+    "sanitizedSymbol": "RICKCHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166325",
+    "lockerAddress": "0x43202E56c39DbBA0F4eabbE6f1256cf2e150EeE1"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BaseCats",
+  "symbol": "BaseCats",
+  "decimals": 18,
+  "description": "BaseCats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseCats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseCats",
+  "addresses": {
+    "8453": "0x3b7aef3385aa8323249902d28976b73edf6ed2ee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseCats",
+    "sanitizedSymbol": "BASECATS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218408",
+    "lockerAddress": "0x4583f21679c137Bce8B84cF51B6254B8Eee1FFC3"
+  },
+  "clankerInfo": null
+}

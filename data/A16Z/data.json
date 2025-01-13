@@ -1,0 +1,22 @@
+{
+  "name": "a16z",
+  "symbol": "a16z",
+  "decimals": 18,
+  "description": "a16z is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=a16z",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "a16z",
+  "addresses": {
+    "8453": "0x17bf30d0dc63f488691ef84a73c7f3138d78db54"
+  },
+  "tokenInfo": {
+    "originalSymbol": "a16z",
+    "sanitizedSymbol": "A16Z",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156739",
+    "lockerAddress": "0x5500De64af104A07310702101223Ab589Caf1864"
+  },
+  "clankerInfo": null
+}

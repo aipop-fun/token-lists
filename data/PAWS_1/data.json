@@ -1,0 +1,22 @@
+{
+  "name": "Paws",
+  "symbol": "Paws",
+  "decimals": 18,
+  "description": "Paws is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Paws",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Paws",
+  "addresses": {
+    "8453": "0x293ee5d1bb888ce8128b5c6c9087fab17e89cc0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Paws",
+    "sanitizedSymbol": "PAWS_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x26d63D6E4644700653df283089Bf38F02769FCe5",
+    "lpNftId": "1309320",
+    "lockerAddress": "0x4bB68F271A86Dc49c7865f570df9c67e0c7091bA"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Yilan",
+  "symbol": "Yilan",
+  "decimals": 18,
+  "description": "Yilan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yilan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yilan",
+  "addresses": {
+    "8453": "0x1855986a7d8d2a5f4ca24459163053084414c508"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yilan",
+    "sanitizedSymbol": "YILAN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x58604DE4e48b81E2Ef05CB521df59A256667a650",
+    "lpNftId": "1251454",
+    "lockerAddress": "0x8AC8744dcEA3B11B7a98423c9286ea1A9e595765"
+  },
+  "clankerInfo": null
+}

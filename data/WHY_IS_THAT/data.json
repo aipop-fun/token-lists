@@ -1,0 +1,22 @@
+{
+  "name": "Why is that?",
+  "symbol": "Why is that?",
+  "decimals": 18,
+  "description": "Why is that? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Why%20is%20that%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Why is that?",
+  "addresses": {
+    "8453": "0x0d4a100736c2d2d7294b52b32b7580bd7cc3530e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Why is that?",
+    "sanitizedSymbol": "WHY_IS_THAT",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xDaA66340b34ce73f7F3B9cA844Cb3659Fc92434D",
+    "lpNftId": "1264125",
+    "lockerAddress": "0xE332D1BEbC9301946182F95a7Bb452e50cEe6c38"
+  },
+  "clankerInfo": null
+}

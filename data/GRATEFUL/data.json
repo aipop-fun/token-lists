@@ -1,0 +1,22 @@
+{
+  "name": "Grateful",
+  "symbol": "Grateful",
+  "decimals": 18,
+  "description": "Grateful is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Grateful",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Grateful",
+  "addresses": {
+    "8453": "0x27e8a5adaab7bd667b8670b9a616b50d4a6cef9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Grateful",
+    "sanitizedSymbol": "GRATEFUL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218868",
+    "lockerAddress": "0xD2d81402A2d870c4ba0A57Ec2d0Df279a087258E"
+  },
+  "clankerInfo": null
+}

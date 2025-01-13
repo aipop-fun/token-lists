@@ -1,0 +1,22 @@
+{
+  "name": "SHTY CAT",
+  "symbol": "SHTY CAT",
+  "decimals": 18,
+  "description": "SHTY CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHTY%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHTY CAT",
+  "addresses": {
+    "8453": "0x371b7052568867274489d628d14ba8c94cae3041"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHTY CAT",
+    "sanitizedSymbol": "SHTY_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224875",
+    "lockerAddress": "0x478171C20669ef89c5Af4bDeCDe9968E99ED44F5"
+  },
+  "clankerInfo": null
+}

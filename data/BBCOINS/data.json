@@ -1,0 +1,22 @@
+{
+  "name": "BBCOINS",
+  "symbol": "BBCOINS",
+  "decimals": 18,
+  "description": "BBCOINS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BBCOINS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BBCOINS",
+  "addresses": {
+    "8453": "0x1d02f12b5fd65740d13c9741f1d8b81746a2f472"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BBCOINS",
+    "sanitizedSymbol": "BBCOINS",
+    "created_at": "2024-12-09T00:50:49.21766",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1377109",
+    "lockerAddress": "0x09f9CB518E8AaC2790E3De2c15b5F64FD79B02D8"
+  },
+  "clankerInfo": null
+}

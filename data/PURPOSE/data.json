@@ -1,0 +1,22 @@
+{
+  "name": "PURPOSE",
+  "symbol": "PURPOSE",
+  "decimals": 18,
+  "description": "PURPOSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PURPOSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PURPOSE",
+  "addresses": {
+    "8453": "0x35e489ddded992dedad87ab18df85d321012efda"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PURPOSE",
+    "sanitizedSymbol": "PURPOSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120358",
+    "lockerAddress": "0xEC06288D17E270bBa136dBaEAa7D8922c3149579"
+  },
+  "clankerInfo": null
+}

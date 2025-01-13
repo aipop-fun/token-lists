@@ -1,0 +1,22 @@
+{
+  "name": "SANTA'S ELF",
+  "symbol": "SANTA'S ELF",
+  "decimals": 18,
+  "description": "SANTA'S ELF is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SANTA'S%20ELF",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SANTA'S ELF",
+  "addresses": {
+    "8453": "0x3940a1bdef2c8069b6b790c183bdc0b7daac956b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SANTA'S ELF",
+    "sanitizedSymbol": "SANTA_S_ELF",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x95eC9ed60386862e5dB1E3313D7D5019202c6059",
+    "lpNftId": "1301309",
+    "lockerAddress": "0x229469CDad280bc6E6F897023f14311Caa3C6c2A"
+  },
+  "clankerInfo": null
+}

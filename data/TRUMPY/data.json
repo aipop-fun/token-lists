@@ -1,0 +1,22 @@
+{
+  "name": "TRUMPY",
+  "symbol": "TRUMPY",
+  "decimals": 18,
+  "description": "TRUMPY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TRUMPY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TRUMPY",
+  "addresses": {
+    "8453": "0x306de10019aa1c49d62c8c84b0e47309102d9131"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TRUMPY",
+    "sanitizedSymbol": "TRUMPY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa8B8787700Bc549d9c717104aAA2C4c1cC0b089f",
+    "lpNftId": "1334383",
+    "lockerAddress": "0x5394cBAC385dfc5f820492089502027108a76d21"
+  },
+  "clankerInfo": null
+}

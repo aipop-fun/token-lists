@@ -1,0 +1,22 @@
+{
+  "name": "this will be worth billions",
+  "symbol": "this will be worth billions",
+  "decimals": 18,
+  "description": "this will be worth billions is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=this%20will%20be%20worth%20billions",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "this will be worth billions",
+  "addresses": {
+    "8453": "0x1f825a782860f4f0e75fdcfa0a36a25d1543d119"
+  },
+  "tokenInfo": {
+    "originalSymbol": "this will be worth billions",
+    "sanitizedSymbol": "THIS_WILL_BE_WORTH_BILLIONS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234476",
+    "lockerAddress": "0xbB8F4c7187E4220B22760d9E9E9f64899471c650"
+  },
+  "clankerInfo": null
+}

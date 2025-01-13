@@ -1,0 +1,22 @@
+{
+  "name": "GUD",
+  "symbol": "GUD",
+  "decimals": 18,
+  "description": "GUD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GUD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GUD",
+  "addresses": {
+    "8453": "0x332abee03d22477db32d1fdc9779585f8e04907f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GUD",
+    "sanitizedSymbol": "GUD",
+    "created_at": "2024-12-13T18:27:23.812832",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1456695",
+    "lockerAddress": "0x47FAc96A35598Bac3cb56f81Dc758eC9c9db63fA"
+  },
+  "clankerInfo": null
+}

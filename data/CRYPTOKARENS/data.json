@@ -1,0 +1,22 @@
+{
+  "name": "CryptoKarens",
+  "symbol": "CryptoKarens",
+  "decimals": 18,
+  "description": "CryptoKarens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoKarens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoKarens",
+  "addresses": {
+    "8453": "0x1ec402a13c437feb662b5b00f25f029571de647a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoKarens",
+    "sanitizedSymbol": "CRYPTOKARENS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173366",
+    "lockerAddress": "0x08aef8DD5c9C37451F243E403B90cb21276De0d0"
+  },
+  "clankerInfo": null
+}

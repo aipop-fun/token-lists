@@ -1,0 +1,22 @@
+{
+  "name": "MURFS",
+  "symbol": "MURFS",
+  "decimals": 18,
+  "description": "MURFS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MURFS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MURFS",
+  "addresses": {
+    "8453": "0x16d42846a472da7c3f9978f9f5c54a9f5a1627a8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MURFS",
+    "sanitizedSymbol": "MURFS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF2A3d3b0D4296969ec3941Ff59236E3F2f5a8879",
+    "lpNftId": "1326317",
+    "lockerAddress": "0x521d99711511cE36318aDF222744c2DA06319DFb"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mugo On Base",
+  "symbol": "Mugo On Base",
+  "decimals": 18,
+  "description": "Mugo On Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mugo%20On%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mugo On Base",
+  "addresses": {
+    "8453": "0x0de99883bbfc414ad5ed36fb657a97331cc6eebc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mugo On Base",
+    "sanitizedSymbol": "MUGO_ON_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213791",
+    "lockerAddress": "0xA368a2F72f7167801D5Dafd5e1f29E223d7c1390"
+  },
+  "clankerInfo": null
+}

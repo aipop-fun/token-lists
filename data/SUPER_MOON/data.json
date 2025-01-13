@@ -1,0 +1,22 @@
+{
+  "name": "Super Moon",
+  "symbol": "Super Moon",
+  "decimals": 18,
+  "description": "Super Moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Moon",
+  "addresses": {
+    "8453": "0x03e93e0a70931f32f00515b64865b679b8b3b934"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Moon",
+    "sanitizedSymbol": "SUPER_MOON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218632",
+    "lockerAddress": "0xE200930EF881D4765376391751582afB4846A07d"
+  },
+  "clankerInfo": null
+}

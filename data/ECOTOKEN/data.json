@@ -1,0 +1,22 @@
+{
+  "name": "EcoToken",
+  "symbol": "EcoToken",
+  "decimals": 18,
+  "description": "EcoToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EcoToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EcoToken",
+  "addresses": {
+    "8453": "0x340230b95193d0d1d2cb275f3caf7a43b69ecfc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EcoToken",
+    "sanitizedSymbol": "ECOTOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6fA77a17DbfC2b2F7e403F2b1C91c75bc592015",
+    "lpNftId": "1320216",
+    "lockerAddress": "0x46A9902EF9A39Beb75085A0924fCB88C0Ff1c00C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "All Inclusive",
+  "symbol": "All Inclusive",
+  "decimals": 18,
+  "description": "All Inclusive is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=All%20Inclusive",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "All Inclusive",
+  "addresses": {
+    "8453": "0x336d393f32565c8cca20d3980e4d33be1e67a3e3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "All Inclusive",
+    "sanitizedSymbol": "ALL_INCLUSIVE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221646",
+    "lockerAddress": "0xFaa21e8dCE387030B29374F4Ac305895d9ec3189"
+  },
+  "clankerInfo": null
+}

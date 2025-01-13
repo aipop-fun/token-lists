@@ -1,0 +1,22 @@
+{
+  "name": "djd78",
+  "symbol": "djd78",
+  "decimals": 18,
+  "description": "djd78 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=djd78",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "djd78",
+  "addresses": {
+    "8453": "0x0cf82bcc3a39d99b556c671ff2044391d65b9da6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "djd78",
+    "sanitizedSymbol": "DJD78",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x2aFabEA10C0545ECB6564eBbb4E7535D44c7C341",
+    "lpNftId": "1251791",
+    "lockerAddress": "0xf7a4C93da9bA02A8DC06e552aCBc47c7afF577bA"
+  },
+  "clankerInfo": null
+}

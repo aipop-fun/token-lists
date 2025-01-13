@@ -1,0 +1,22 @@
+{
+  "name": "Rosebud",
+  "symbol": "Rosebud",
+  "decimals": 18,
+  "description": "Rosebud is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rosebud",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rosebud",
+  "addresses": {
+    "8453": "0x028b7307c6e81364b0967eb8025acb616dd66727"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rosebud",
+    "sanitizedSymbol": "ROSEBUD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x581A47A8352d0798e6Ae9782E0199Dc55F152F86",
+    "lpNftId": "1308523",
+    "lockerAddress": "0xc6b7c12dC2CA21C5B8b3c02b0210d36078832c2D"
+  },
+  "clankerInfo": null
+}

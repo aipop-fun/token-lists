@@ -1,0 +1,22 @@
+{
+  "name": "Xandria",
+  "symbol": "Xandria",
+  "decimals": 18,
+  "description": "Xandria is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xandria",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xandria",
+  "addresses": {
+    "8453": "0x1b4c4b2a424a3c7b7a17cbc962b9ee16d81827bb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xandria",
+    "sanitizedSymbol": "XANDRIA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1313342",
+    "lockerAddress": "0xa2461Af12de19Abe174CF0909740F7a75509e0B1"
+  },
+  "clankerInfo": null
+}

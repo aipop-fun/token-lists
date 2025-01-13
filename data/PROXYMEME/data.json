@@ -1,0 +1,22 @@
+{
+  "name": "PROXYMEME",
+  "symbol": "PROXYMEME",
+  "decimals": 18,
+  "description": "PROXYMEME is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PROXYMEME",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PROXYMEME",
+  "addresses": {
+    "8453": "0x19a7b01e2a3e35ab86a5d765b5f265de13711ae3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PROXYMEME",
+    "sanitizedSymbol": "PROXYMEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124970",
+    "lockerAddress": "0x70004BF471129224e174003588fA3f70DfD40deD"
+  },
+  "clankerInfo": null
+}

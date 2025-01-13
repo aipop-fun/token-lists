@@ -1,0 +1,22 @@
+{
+  "name": "JUST",
+  "symbol": "JUST",
+  "decimals": 18,
+  "description": "JUST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JUST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JUST",
+  "addresses": {
+    "8453": "0x14d165049807109b997daa45decceb75382d8ad4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JUST",
+    "sanitizedSymbol": "JUST",
+    "created_at": "2024-12-11T22:26:47.306705",
+    "deployer": "0xFFdd1470d481AA7b7d1149A33c2A1e596fa62995",
+    "lpNftId": "1427325",
+    "lockerAddress": "0x1f948E0078603E979c182588c00B4d52804516d1"
+  },
+  "clankerInfo": null
+}

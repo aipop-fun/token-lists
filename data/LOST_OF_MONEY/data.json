@@ -1,0 +1,22 @@
+{
+  "name": "Lost of Money",
+  "symbol": "Lost of Money",
+  "decimals": 18,
+  "description": "Lost of Money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lost%20of%20Money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lost of Money",
+  "addresses": {
+    "8453": "0x27a6cf13ffc566f64a66cee08c7923e750563ac7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lost of Money",
+    "sanitizedSymbol": "LOST_OF_MONEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4fc85b537adc18Ff354a32C6E13BBDcDd94a6D01",
+    "lpNftId": "1262412",
+    "lockerAddress": "0x37F5749178991D02F97c6aA518986D5BEBdB605A"
+  },
+  "clankerInfo": null
+}

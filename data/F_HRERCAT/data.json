@@ -1,0 +1,22 @@
+{
+  "name": "Führercat",
+  "symbol": "Führercat",
+  "decimals": 18,
+  "description": "Führercat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=F%C3%BChrercat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Führercat",
+  "addresses": {
+    "8453": "0x3908d48e3e7ca2da61e4050198d4c1ad7e63100c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Führercat",
+    "sanitizedSymbol": "F_HRERCAT",
+    "created_at": "2024-12-11T01:58:19.020233",
+    "deployer": "0x7F96f3A24d19b39452ca9EAd66B9b20464FbE9f9",
+    "lpNftId": "1410287",
+    "lockerAddress": "0xD39FECAC82a914011869e005630180A643fB42b5"
+  },
+  "clankerInfo": null
+}

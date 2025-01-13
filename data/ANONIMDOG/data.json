@@ -1,0 +1,22 @@
+{
+  "name": "anonimDog",
+  "symbol": "anonimDog",
+  "decimals": 18,
+  "description": "anonimDog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anonimDog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anonimDog",
+  "addresses": {
+    "8453": "0x00d108877b174196ef686c76dcdc048f52d35092"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anonimDog",
+    "sanitizedSymbol": "ANONIMDOG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203363",
+    "lockerAddress": "0xfE0EFE40b8fEA00a6D7F4d931A7f7e190E883435"
+  },
+  "clankerInfo": null
+}

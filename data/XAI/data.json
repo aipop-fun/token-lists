@@ -1,0 +1,22 @@
+{
+  "name": "xAI",
+  "symbol": "xAI",
+  "decimals": 18,
+  "description": "xAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=xAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "xAI",
+  "addresses": {
+    "8453": "0x40178ddb26b2bb5a33a37eb034808f2ab907846a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "xAI",
+    "sanitizedSymbol": "XAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231523",
+    "lockerAddress": "0xfFDcA3Fa5B98E637a5128F32e6eacC0012A97352"
+  },
+  "clankerInfo": null
+}

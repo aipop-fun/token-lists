@@ -1,0 +1,22 @@
+{
+  "name": "HAYP",
+  "symbol": "HAYP",
+  "decimals": 18,
+  "description": "HAYP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAYP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAYP",
+  "addresses": {
+    "8453": "0x211b55c4e92a85d5e99d2c84bd37117830788df3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAYP",
+    "sanitizedSymbol": "HAYP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x305eC3f869c719a6821eD8b83A595Fb5dB406df0",
+    "lpNftId": "1329696",
+    "lockerAddress": "0x3A3a3f15f249aCac0d65B72f8620654A4e26A33F"
+  },
+  "clankerInfo": null
+}

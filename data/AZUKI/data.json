@@ -1,0 +1,22 @@
+{
+  "name": "AZUKI",
+  "symbol": "AZUKI",
+  "decimals": 18,
+  "description": "AZUKI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AZUKI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AZUKI",
+  "addresses": {
+    "8453": "0x17e7e768fd05677cce4b2e25cde9b4044c2ad35b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AZUKI",
+    "sanitizedSymbol": "AZUKI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd508Fe760Ac940F3256Ed294e8C005874201F3F2",
+    "lpNftId": "1375915",
+    "lockerAddress": "0x3c914BFA8FD922046f67c60dBA98c2c53c0e3E75"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MEOWMILLIONAIRE",
+  "symbol": "MEOWMILLIONAIRE",
+  "decimals": 18,
+  "description": "MEOWMILLIONAIRE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MEOWMILLIONAIRE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MEOWMILLIONAIRE",
+  "addresses": {
+    "8453": "0x4149f2d6b38932a4f0e0523fc77bd5c765fbf5f5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MEOWMILLIONAIRE",
+    "sanitizedSymbol": "MEOWMILLIONAIRE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225474",
+    "lockerAddress": "0x0E9bAb6ef7500feb90053c6ae07acf4D8eeAEcA7"
+  },
+  "clankerInfo": null
+}

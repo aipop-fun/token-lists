@@ -1,0 +1,22 @@
+{
+  "name": "BASEGOAT",
+  "symbol": "BASEGOAT",
+  "decimals": 18,
+  "description": "BASEGOAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASEGOAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASEGOAT",
+  "addresses": {
+    "8453": "0x3a6e7cf895e4821fc945152d5902dc0575ba968a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASEGOAT",
+    "sanitizedSymbol": "BASEGOAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41AB1D15fD3c4888b1c5d7E480df5233C82Aab48",
+    "lpNftId": "1301628",
+    "lockerAddress": "0xfD1B0Ae49215cea5227D6f121120310Aa0305Ef1"
+  },
+  "clankerInfo": null
+}

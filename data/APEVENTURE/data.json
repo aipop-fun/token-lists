@@ -1,0 +1,22 @@
+{
+  "name": "APEVENTURE",
+  "symbol": "APEVENTURE",
+  "decimals": 18,
+  "description": "APEVENTURE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APEVENTURE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APEVENTURE",
+  "addresses": {
+    "8453": "0x109fd635f6e9a9b7fa7280b070203c41472ced32"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APEVENTURE",
+    "sanitizedSymbol": "APEVENTURE",
+    "created_at": "2024-12-10T17:13:01.103228",
+    "deployer": "0x705C71fc031B378586695c8f888231e9d24381b4",
+    "lpNftId": "1404362",
+    "lockerAddress": "0xaed2A219c2a00BdA14f3Eca45c7e20E34E283758"
+  },
+  "clankerInfo": null
+}

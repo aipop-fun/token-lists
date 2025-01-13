@@ -1,0 +1,22 @@
+{
+  "name": "CHEESE",
+  "symbol": "CHEESE",
+  "decimals": 18,
+  "description": "CHEESE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHEESE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHEESE",
+  "addresses": {
+    "8453": "0x2bec02626a832ec8be6ddb9a11ed8de190e600c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHEESE",
+    "sanitizedSymbol": "CHEESE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201091",
+    "lockerAddress": "0xE1F1E6e50b19543402bC789d307e2c4E00EDdd92"
+  },
+  "clankerInfo": null
+}

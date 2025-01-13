@@ -1,0 +1,22 @@
+{
+  "name": "Rest in peace",
+  "symbol": "Rest in peace",
+  "decimals": 18,
+  "description": "Rest in peace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rest%20in%20peace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rest in peace",
+  "addresses": {
+    "8453": "0x01e73f7ae77e4bad31dd62feff6bcb5261108969"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rest in peace",
+    "sanitizedSymbol": "REST_IN_PEACE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230023",
+    "lockerAddress": "0x34b22627e1cA3645dE04E1A61eC6384ceF8AD5FA"
+  },
+  "clankerInfo": null
+}

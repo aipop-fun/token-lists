@@ -1,0 +1,22 @@
+{
+  "name": "SLASH",
+  "symbol": "SLASH",
+  "decimals": 18,
+  "description": "SLASH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SLASH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SLASH",
+  "addresses": {
+    "8453": "0x098db0f24858be0158236a8176cc3797d515a700"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SLASH",
+    "sanitizedSymbol": "SLASH",
+    "created_at": "2024-12-09T02:31:01.29785",
+    "deployer": "0x0b5fa155785fcb3deD40e6e138BedEdC9Df1CFe9",
+    "lpNftId": "1378590",
+    "lockerAddress": "0x37F20aB6B87376788e0d988E0B4fD3cA693766d9"
+  },
+  "clankerInfo": null
+}

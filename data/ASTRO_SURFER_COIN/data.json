@@ -1,0 +1,22 @@
+{
+  "name": "Astro Surfer Coin",
+  "symbol": "Astro Surfer Coin",
+  "decimals": 18,
+  "description": "Astro Surfer Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Astro%20Surfer%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Astro Surfer Coin",
+  "addresses": {
+    "8453": "0x22fd8a29c3901aed33d33f403c0310f3b254209c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Astro Surfer Coin",
+    "sanitizedSymbol": "ASTRO_SURFER_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123440",
+    "lockerAddress": "0xaC2976f57C5868a3fDbf5A9554E865fdBB6260E6"
+  },
+  "clankerInfo": null
+}

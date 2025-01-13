@@ -1,0 +1,22 @@
+{
+  "name": "makec",
+  "symbol": "makec",
+  "decimals": 18,
+  "description": "makec is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=makec",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "makec",
+  "addresses": {
+    "8453": "0x2bddaf4cb4e3a5bd7f698d4a96ae3e78dc7f52ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "makec",
+    "sanitizedSymbol": "MAKEC",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xC7358a7b3ABd31D5Ee66d8F6e643A6F56aEB2e59",
+    "lpNftId": "1252313",
+    "lockerAddress": "0xA60BD0EdaFaFCC36bA5D876D7e165C6319EA6296"
+  },
+  "clankerInfo": null
+}

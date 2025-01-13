@@ -1,0 +1,22 @@
+{
+  "name": "STAY CLANKER",
+  "symbol": "STAY CLANKER",
+  "decimals": 18,
+  "description": "STAY CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=STAY%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "STAY CLANKER",
+  "addresses": {
+    "8453": "0x392fd714f57621d831062171994def2009902a16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "STAY CLANKER",
+    "sanitizedSymbol": "STAY_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x626bfbac7135B235669f8Dbe8BD9Ce2B40991073",
+    "lpNftId": "1263853",
+    "lockerAddress": "0x25205746080fBBA2e56ebAED2961F1A0FB2e82CF"
+  },
+  "clankerInfo": null
+}

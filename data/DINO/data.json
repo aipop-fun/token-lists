@@ -1,0 +1,22 @@
+{
+  "name": "DINO",
+  "symbol": "DINO",
+  "decimals": 18,
+  "description": "DINO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DINO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DINO",
+  "addresses": {
+    "8453": "0x070c3efdca19ee6e120737f873fcb9c0d94f5f95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DINO",
+    "sanitizedSymbol": "DINO",
+    "created_at": "2024-12-11T08:26:12.098604",
+    "deployer": "0xd7b0f114fA75083533bE59e5316Cfab363278914",
+    "lpNftId": "1414918",
+    "lockerAddress": "0x3305f2b0D6759b8e37ef5B30F1B895702E811adD"
+  },
+  "clankerInfo": null
+}

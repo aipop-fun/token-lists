@@ -1,0 +1,22 @@
+{
+  "name": "BABY MUSH",
+  "symbol": "BABY MUSH",
+  "decimals": 18,
+  "description": "BABY MUSH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20MUSH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY MUSH",
+  "addresses": {
+    "8453": "0x2802cf11dc7085ba2a419189ec814e34f1f35adc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY MUSH",
+    "sanitizedSymbol": "BABY_MUSH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbAF94Ae78F82bFE1917A1736e5184fF4059959d6",
+    "lpNftId": "1311178",
+    "lockerAddress": "0x844e1C86f298625C8D9A06Dd9aB04e0427F295C4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Anon Plok",
+  "symbol": "Anon Plok",
+  "decimals": 18,
+  "description": "Anon Plok is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Plok",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Plok",
+  "addresses": {
+    "8453": "0x07fcc5b565a031ac2185b2edb3cfd4c0dba4ddaa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Plok",
+    "sanitizedSymbol": "ANON_PLOK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1332021",
+    "lockerAddress": "0xEd275Bd6D4f4F5Cf05CdC0a5e3DD64729C0A56B4"
+  },
+  "clankerInfo": null
+}

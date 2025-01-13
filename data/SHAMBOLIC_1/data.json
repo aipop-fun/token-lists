@@ -1,0 +1,22 @@
+{
+  "name": "Shambolic",
+  "symbol": "Shambolic",
+  "decimals": 18,
+  "description": "Shambolic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shambolic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shambolic",
+  "addresses": {
+    "8453": "0x1df64bdfc21bd2fac1a13a2d012dfbe58437c359"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shambolic",
+    "sanitizedSymbol": "SHAMBOLIC_1",
+    "created_at": "2024-12-10T05:28:33.207062",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1396963",
+    "lockerAddress": "0xb7Aa1E9d2dcDc5266Bc87b7B6ca7fB8b5317ea15"
+  },
+  "clankerInfo": null
+}

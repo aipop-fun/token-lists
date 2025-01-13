@@ -1,0 +1,22 @@
+{
+  "name": "Moron",
+  "symbol": "Moron",
+  "decimals": 18,
+  "description": "Moron is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moron",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moron",
+  "addresses": {
+    "8453": "0x22a4bca75f3d45baf7d8aaee86cc90348899d99b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moron",
+    "sanitizedSymbol": "MORON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb15777be63bd2B43D376269b8323dE98F7D7F2D5",
+    "lpNftId": "1326512",
+    "lockerAddress": "0xA88862E5746664a1c3E98ebAf66Fa7E0004512e1"
+  },
+  "clankerInfo": null
+}

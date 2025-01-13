@@ -1,0 +1,22 @@
+{
+  "name": "DegenGate",
+  "symbol": "DegenGate",
+  "decimals": 18,
+  "description": "DegenGate is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DegenGate",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DegenGate",
+  "addresses": {
+    "8453": "0x0fa32e6148553e944193969be89e58f0151f26a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DegenGate",
+    "sanitizedSymbol": "DEGENGATE",
+    "created_at": "2024-12-12T14:49:29.692515",
+    "deployer": "0x7e34851B1BD417729d941c8A89d86a053b557177",
+    "lpNftId": "1436326",
+    "lockerAddress": "0xF82b546E79ad4AE2cD1feFb99fb47AA107732b42"
+  },
+  "clankerInfo": null
+}

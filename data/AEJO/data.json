@@ -1,0 +1,22 @@
+{
+  "name": "AEJO",
+  "symbol": "AEJO",
+  "decimals": 18,
+  "description": "AEJO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AEJO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AEJO",
+  "addresses": {
+    "8453": "0x26cfaf4603453ff2e04e23752af1c0cf3c89a3c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AEJO",
+    "sanitizedSymbol": "AEJO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF44D82E2027997aB151c108707d63a5102F24f8D",
+    "lpNftId": "1269055",
+    "lockerAddress": "0x8115293629Ac25622e1A869820d34c566571d065"
+  },
+  "clankerInfo": null
+}

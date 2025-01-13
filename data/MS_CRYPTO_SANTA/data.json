@@ -1,0 +1,22 @@
+{
+  "name": "Ms. Crypto Santa",
+  "symbol": "Ms. Crypto Santa",
+  "decimals": 18,
+  "description": "Ms. Crypto Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ms.%20Crypto%20Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ms. Crypto Santa",
+  "addresses": {
+    "8453": "0x1f22ffa8f7a1d41ac70a020f0b9ae7058bb72315"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ms. Crypto Santa",
+    "sanitizedSymbol": "MS_CRYPTO_SANTA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xBe99589cF9173Ea24ae1E1178dB54Bc6befA6fAA",
+    "lpNftId": "1285372",
+    "lockerAddress": "0x9aC92FA388beC29FeB826134A23e83164d3F5bb2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Doodles",
+  "symbol": "Doodles",
+  "decimals": 18,
+  "description": "Doodles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doodles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doodles",
+  "addresses": {
+    "8453": "0x36cd76e7ed046bb6cf4554929fee1f0b55d30508"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doodles",
+    "sanitizedSymbol": "DOODLES",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x915D5B9BfE21524a6b9f2b4A9D0252a1909E239f",
+    "lpNftId": "1317126",
+    "lockerAddress": "0xC4f01B96c52CB5C8b1149d37d7D335Cae58E99eE"
+  },
+  "clankerInfo": null
+}

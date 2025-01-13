@@ -1,0 +1,22 @@
+{
+  "name": "dogswar",
+  "symbol": "dogswar",
+  "decimals": 18,
+  "description": "dogswar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dogswar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dogswar",
+  "addresses": {
+    "8453": "0x02d84ac0a2ec3c0e2872f0ec24dc15b93f73da60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dogswar",
+    "sanitizedSymbol": "DOGSWAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129945",
+    "lockerAddress": "0x6A3A187a82Bba7c105d8BD9e9C04363842Eb75CD"
+  },
+  "clankerInfo": null
+}

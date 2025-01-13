@@ -1,0 +1,22 @@
+{
+  "name": "chiller",
+  "symbol": "chiller",
+  "decimals": 18,
+  "description": "chiller is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chiller",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chiller",
+  "addresses": {
+    "8453": "0x3c2308043f1d9d83f79d162708d277d4ca15d596"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chiller",
+    "sanitizedSymbol": "CHILLER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1118466",
+    "lockerAddress": "0x3F4745113e0f1b50919d433FAAEFACd24283B499"
+  },
+  "clankerInfo": null
+}

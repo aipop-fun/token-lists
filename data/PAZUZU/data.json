@@ -1,0 +1,22 @@
+{
+  "name": "Pazuzu",
+  "symbol": "Pazuzu",
+  "decimals": 18,
+  "description": "Pazuzu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pazuzu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pazuzu",
+  "addresses": {
+    "8453": "0x071112d72b646c5e6323141680737480d7f071e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pazuzu",
+    "sanitizedSymbol": "PAZUZU",
+    "created_at": "2024-12-12T03:56:05.203258",
+    "deployer": "0x677815c69018cbff0201374Dfd1a61d410049b7f",
+    "lpNftId": "1429029",
+    "lockerAddress": "0xF40Afa02eC1467bc04adeB09333E05bF61a647eD"
+  },
+  "clankerInfo": null
+}

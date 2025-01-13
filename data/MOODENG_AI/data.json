@@ -1,0 +1,22 @@
+{
+  "name": "Moodeng AI",
+  "symbol": "Moodeng AI",
+  "decimals": 18,
+  "description": "Moodeng AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moodeng%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moodeng AI",
+  "addresses": {
+    "8453": "0x0764953233f7259b3e8faaa007c3b8c6d1e6db8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moodeng AI",
+    "sanitizedSymbol": "MOODENG_AI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9EF1CFD333c40244edb67F40889A81eC9399B242",
+    "lpNftId": "1327536",
+    "lockerAddress": "0xde211572CB14276a149A7D2C5b412365230217bc"
+  },
+  "clankerInfo": null
+}

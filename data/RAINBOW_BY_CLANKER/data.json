@@ -1,0 +1,22 @@
+{
+  "name": "Rainbow By Clanker",
+  "symbol": "Rainbow By Clanker",
+  "decimals": 18,
+  "description": "Rainbow By Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rainbow%20By%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rainbow By Clanker",
+  "addresses": {
+    "8453": "0x1ddcdddedfec3f17ac812b086a52e2240c72959c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rainbow By Clanker",
+    "sanitizedSymbol": "RAINBOW_BY_CLANKER",
+    "created_at": "2024-12-11T06:09:56.642439",
+    "deployer": "0x809b53a1dc63Af991f648776aBAa6EEe7724ec2F",
+    "lpNftId": "1413804",
+    "lockerAddress": "0x59803158466C593d35D7CD5C69d234fb2A301305"
+  },
+  "clankerInfo": null
+}

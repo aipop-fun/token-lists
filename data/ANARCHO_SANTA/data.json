@@ -1,0 +1,22 @@
+{
+  "name": "Anarcho-Santa",
+  "symbol": "Anarcho-Santa",
+  "decimals": 18,
+  "description": "Anarcho-Santa is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anarcho-Santa",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anarcho-Santa",
+  "addresses": {
+    "8453": "0x13bfb4ebad6034420bb14003bf8a0683d1137339"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anarcho-Santa",
+    "sanitizedSymbol": "ANARCHO_SANTA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1150034",
+    "lockerAddress": "0xcF49136f8765cD80e245C15eD82AcC708e70d173"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Be VEE",
+  "symbol": "Be VEE",
+  "decimals": 18,
+  "description": "Be VEE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Be%20VEE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Be VEE",
+  "addresses": {
+    "8453": "0x0723b3ea342fc94564239cfb659b769f78240264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Be VEE",
+    "sanitizedSymbol": "BE_VEE",
+    "created_at": "2024-12-09T07:21:46.794303",
+    "deployer": "0x72Df54F3DB8FEEdB05B0B59e4Eb8F190db832726",
+    "lpNftId": "1384351",
+    "lockerAddress": "0xf4544238E8B8B8cB12125Bf79DB3E377fE3b1274"
+  },
+  "clankerInfo": null
+}

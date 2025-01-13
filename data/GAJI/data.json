@@ -1,0 +1,22 @@
+{
+  "name": "GAJI",
+  "symbol": "GAJI",
+  "decimals": 18,
+  "description": "GAJI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GAJI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GAJI",
+  "addresses": {
+    "8453": "0x2f37769e1e83665e373f401cb290a9a10ef0c021"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GAJI",
+    "sanitizedSymbol": "GAJI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231213",
+    "lockerAddress": "0x31820B3160DDdFA50920Cf464f6DA830b698A53c"
+  },
+  "clankerInfo": null
+}

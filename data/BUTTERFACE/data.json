@@ -1,0 +1,22 @@
+{
+  "name": "ButterFace",
+  "symbol": "ButterFace",
+  "decimals": 18,
+  "description": "ButterFace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ButterFace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ButterFace",
+  "addresses": {
+    "8453": "0x3251a198fa43b556a1e1c913cfe06becb6f12418"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ButterFace",
+    "sanitizedSymbol": "BUTTERFACE",
+    "created_at": "2024-12-12T03:01:57.541104",
+    "deployer": "0x3352B1775610AEEc84A06C69b7C7852ABbDB5a37",
+    "lpNftId": "1428772",
+    "lockerAddress": "0xA2D3Ae12d25b9cC26DB3BECB63911849BB2d813b"
+  },
+  "clankerInfo": null
+}

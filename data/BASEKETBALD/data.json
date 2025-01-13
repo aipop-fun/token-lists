@@ -1,0 +1,22 @@
+{
+  "name": "baseketbald",
+  "symbol": "baseketbald",
+  "decimals": 18,
+  "description": "baseketbald is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=baseketbald",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "baseketbald",
+  "addresses": {
+    "8453": "0x08fcb63ba0a7609c10e8353aa691d43dda9ab14b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "baseketbald",
+    "sanitizedSymbol": "BASEKETBALD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229226",
+    "lockerAddress": "0x351122C4B713Cc10ff3A60986B698AE7D78Eb986"
+  },
+  "clankerInfo": null
+}

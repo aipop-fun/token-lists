@@ -1,0 +1,22 @@
+{
+  "name": "CAST",
+  "symbol": "CAST",
+  "decimals": 18,
+  "description": "CAST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAST",
+  "addresses": {
+    "8453": "0x2af97f638e1165b99d50b7968633a82c5e66d5ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAST",
+    "sanitizedSymbol": "CAST",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199385",
+    "lockerAddress": "0xAfdb57aF498543906Ff6Be34Bf402c7d8fA76F93"
+  },
+  "clankerInfo": null
+}

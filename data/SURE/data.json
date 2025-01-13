@@ -1,0 +1,22 @@
+{
+  "name": "$SURE",
+  "symbol": "$SURE",
+  "decimals": 18,
+  "description": "$SURE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24SURE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$SURE",
+  "addresses": {
+    "8453": "0x13b5c1703cb064601251de726a33f7d1d7dbb368"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$SURE",
+    "sanitizedSymbol": "SURE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199281",
+    "lockerAddress": "0xd182024334b0B621b963C9308C9E1E121676B0a1"
+  },
+  "clankerInfo": null
+}

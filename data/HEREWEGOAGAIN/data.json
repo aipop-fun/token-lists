@@ -1,0 +1,22 @@
+{
+  "name": "herewegoagain",
+  "symbol": "herewegoagain",
+  "decimals": 18,
+  "description": "herewegoagain is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=herewegoagain",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "herewegoagain",
+  "addresses": {
+    "8453": "0x3c0f1c98d47d7e0c0354f267e43d1a33c253efb7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "herewegoagain",
+    "sanitizedSymbol": "HEREWEGOAGAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119398",
+    "lockerAddress": "0x7F3388bEf50e21c7d775a0D859B9Bbc1036B58AC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wingscoin",
+  "symbol": "wingscoin",
+  "decimals": 18,
+  "description": "wingscoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=wingscoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "wingscoin",
+  "addresses": {
+    "8453": "0x233475c7cdbacc847dc45fdf877b1553f9108bb1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "wingscoin",
+    "sanitizedSymbol": "WINGSCOIN",
+    "created_at": "2024-12-11T02:24:33.235137",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1410662",
+    "lockerAddress": "0xF67d18cbb7C61432221407087D0f3e8db9DD881E"
+  },
+  "clankerInfo": null
+}

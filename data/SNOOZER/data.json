@@ -1,0 +1,22 @@
+{
+  "name": "Snoozer",
+  "symbol": "Snoozer",
+  "decimals": 18,
+  "description": "Snoozer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snoozer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snoozer",
+  "addresses": {
+    "8453": "0x2352c4527cc518ebc653cfa113fa0d22af57abbc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snoozer",
+    "sanitizedSymbol": "SNOOZER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4c96BAdBDC05D2f62594B3135ba3A8E9f10cBC2d",
+    "lpNftId": "1374846",
+    "lockerAddress": "0x0cB5fe36bff7Bd6D9bCDdd67B8F62fF3DB09bb56"
+  },
+  "clankerInfo": null
+}

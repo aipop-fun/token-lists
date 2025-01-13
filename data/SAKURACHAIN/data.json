@@ -1,0 +1,22 @@
+{
+  "name": "SAKURACHAIN",
+  "symbol": "SAKURACHAIN",
+  "decimals": 18,
+  "description": "SAKURACHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SAKURACHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SAKURACHAIN",
+  "addresses": {
+    "8453": "0x1ea3f392e05bd3ac7f5e677856f55ca788965db3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SAKURACHAIN",
+    "sanitizedSymbol": "SAKURACHAIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x574B65f2092A376DD0f24916ea2a046CeceD762d",
+    "lpNftId": "1311109",
+    "lockerAddress": "0x3DD2D5954B62f30334E14F930dCebcb9B8587015"
+  },
+  "clankerInfo": null
+}

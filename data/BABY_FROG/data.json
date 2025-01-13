@@ -1,0 +1,22 @@
+{
+  "name": "BABY FROG",
+  "symbol": "BABY FROG",
+  "decimals": 18,
+  "description": "BABY FROG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABY%20FROG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABY FROG",
+  "addresses": {
+    "8453": "0x06b2add23e5935a1b8bd58cdde9024f1606a0688"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABY FROG",
+    "sanitizedSymbol": "BABY_FROG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x463d5e22C3F6E0220c58fD1Ecec44891C32eEd9b",
+    "lpNftId": "1308974",
+    "lockerAddress": "0x3E27a8d85e1EaFA7D12FbE6b9c37f445918b0726"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Clanker USD",
+  "symbol": "Clanker USD",
+  "decimals": 18,
+  "description": "Clanker USD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20USD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker USD",
+  "addresses": {
+    "8453": "0x2ba10e21df82b42d0ddfb5e5263c7746341482d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker USD",
+    "sanitizedSymbol": "CLANKER_USD",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF88fA5DD818A5eb84BACB370e844688215f9F607",
+    "lpNftId": "1321779",
+    "lockerAddress": "0x3A05c4aa5629abB7b3E558b4E5D4c5802BFDCa63"
+  },
+  "clankerInfo": null
+}

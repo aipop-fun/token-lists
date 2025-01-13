@@ -1,0 +1,22 @@
+{
+  "name": "boot",
+  "symbol": "boot",
+  "decimals": 18,
+  "description": "boot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boot",
+  "addresses": {
+    "8453": "0x191d2b23315c835d139e3cb5bce2c1011aff9cc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boot",
+    "sanitizedSymbol": "BOOT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9AD01016226CE1D47f76a0D28d62Bc6D689B5485",
+    "lpNftId": "1304014",
+    "lockerAddress": "0xd5FB54384c4736292298450B7AeC0d4808A8aE63"
+  },
+  "clankerInfo": null
+}

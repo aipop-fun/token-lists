@@ -1,0 +1,22 @@
+{
+  "name": "it'stime",
+  "symbol": "it'stime",
+  "decimals": 18,
+  "description": "it'stime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=it'stime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "it'stime",
+  "addresses": {
+    "8453": "0x03274ef19d1f16dad9b13f2b7bf51d962ba73176"
+  },
+  "tokenInfo": {
+    "originalSymbol": "it'stime",
+    "sanitizedSymbol": "IT_STIME",
+    "created_at": "2024-12-12T16:28:05.433261",
+    "deployer": "0x8c8a64fF974F11367AF8367FfB400aB4431f2fC1",
+    "lpNftId": "1438572",
+    "lockerAddress": "0x40226Bd3eE242680AAe6E719853cFC2dD172B21c"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Feeling down",
+  "symbol": "Feeling down",
+  "decimals": 18,
+  "description": "Feeling down is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Feeling%20down",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Feeling down",
+  "addresses": {
+    "8453": "0x0be2cb7be942790425938708c7303a30f84c8353"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Feeling down",
+    "sanitizedSymbol": "FEELING_DOWN",
+    "created_at": "2024-12-10T13:46:15.350503",
+    "deployer": "0xd0e370d498B98A2c19FbF22053CE1d93752fAd46",
+    "lpNftId": "1401560",
+    "lockerAddress": "0x5b5433c76FF1977F5398fBb9b261844d69171509"
+  },
+  "clankerInfo": null
+}

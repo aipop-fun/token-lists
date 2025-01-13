@@ -1,0 +1,22 @@
+{
+  "name": "VOID",
+  "symbol": "VOID",
+  "decimals": 18,
+  "description": "VOID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VOID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VOID",
+  "addresses": {
+    "8453": "0x209c32ea1471c1ffd255ab0aea42386ba2cbeaa6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VOID",
+    "sanitizedSymbol": "VOID",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123358",
+    "lockerAddress": "0x7c609C1bDd004774a74a846e6Bd87330b06DC8a9"
+  },
+  "clankerInfo": null
+}

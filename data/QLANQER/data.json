@@ -1,0 +1,22 @@
+{
+  "name": "QLANQER",
+  "symbol": "QLANQER",
+  "decimals": 18,
+  "description": "QLANQER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=QLANQER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "QLANQER",
+  "addresses": {
+    "8453": "0x1822f9470e7181b404e7ad6d1cf560483cad5e00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "QLANQER",
+    "sanitizedSymbol": "QLANQER",
+    "created_at": "2024-12-11T18:22:42.116854",
+    "deployer": "0xC28396B745Db69c5de551ceA90AF050126981baC",
+    "lpNftId": "1423740",
+    "lockerAddress": "0x66C4f2DC854170a7f950d45Ca6EC2DbA8388Fab4"
+  },
+  "clankerInfo": null
+}

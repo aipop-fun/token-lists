@@ -1,0 +1,22 @@
+{
+  "name": "FELINE VOID",
+  "symbol": "FELINE VOID",
+  "decimals": 18,
+  "description": "FELINE VOID is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FELINE%20VOID",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FELINE VOID",
+  "addresses": {
+    "8453": "0x2cd642ec27fef19ec40f415ef18f8a657977138d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FELINE VOID",
+    "sanitizedSymbol": "FELINE_VOID",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x326fb0EaB3645763bc7CC027864Ce89269838575",
+    "lpNftId": "1288740",
+    "lockerAddress": "0xA64e7177A96C96294403e3b7e0a1272Ee9172B5d"
+  },
+  "clankerInfo": null
+}

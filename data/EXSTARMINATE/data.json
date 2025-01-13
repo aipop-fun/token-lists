@@ -1,0 +1,22 @@
+{
+  "name": "EXSTARMINATE",
+  "symbol": "EXSTARMINATE",
+  "decimals": 18,
+  "description": "EXSTARMINATE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EXSTARMINATE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EXSTARMINATE",
+  "addresses": {
+    "8453": "0x0dd517c84fd08014db9e5a803b5178f75f9a77fb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EXSTARMINATE",
+    "sanitizedSymbol": "EXSTARMINATE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222916",
+    "lockerAddress": "0xA39a9e1554DB9ECfc4846372CC3E3455Bfd1df71"
+  },
+  "clankerInfo": null
+}

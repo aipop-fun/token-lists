@@ -1,0 +1,22 @@
+{
+  "name": "dobpo",
+  "symbol": "dobpo",
+  "decimals": 18,
+  "description": "dobpo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dobpo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dobpo",
+  "addresses": {
+    "8453": "0x309aefec4403a9fcfbc379a53d14b653a54671f4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dobpo",
+    "sanitizedSymbol": "DOBPO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213625",
+    "lockerAddress": "0x17cA42E31ee14159954f94d399ec3EF707F0a117"
+  },
+  "clankerInfo": null
+}

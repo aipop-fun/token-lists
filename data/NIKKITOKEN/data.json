@@ -1,0 +1,22 @@
+{
+  "name": "nikkiToken",
+  "symbol": "nikkiToken",
+  "decimals": 18,
+  "description": "nikkiToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nikkiToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nikkiToken",
+  "addresses": {
+    "8453": "0x24acf9d51aacc2669bed1625b2f6a7048189777e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nikkiToken",
+    "sanitizedSymbol": "NIKKITOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7eaff2BE588F89a7866cDf509a5748EAf9B3318b",
+    "lpNftId": "1288303",
+    "lockerAddress": "0x71cc285EB4257741e7F5A9b94F31E8443242210A"
+  },
+  "clankerInfo": null
+}

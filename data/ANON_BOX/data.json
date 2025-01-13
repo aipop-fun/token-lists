@@ -1,0 +1,22 @@
+{
+  "name": "anon box",
+  "symbol": "anon box",
+  "decimals": 18,
+  "description": "anon box is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anon%20box",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anon box",
+  "addresses": {
+    "8453": "0x0a888bd93edadd1f6911cec291dd69effb1438eb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anon box",
+    "sanitizedSymbol": "ANON_BOX",
+    "created_at": "2024-12-11T06:01:27.179664",
+    "deployer": "0x3c382D28f3F81E948Bc3F09Ea875f7926ab6F8E9",
+    "lpNftId": "1413734",
+    "lockerAddress": "0x982C10F45eFb4a833B9E58fE77743db3e6E30cA1"
+  },
+  "clankerInfo": null
+}

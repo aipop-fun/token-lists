@@ -1,0 +1,22 @@
+{
+  "name": "Orange Cow",
+  "symbol": "Orange Cow",
+  "decimals": 18,
+  "description": "Orange Cow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Orange%20Cow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Orange Cow",
+  "addresses": {
+    "8453": "0x2577068dbe6536c2cdc9ec5e9b70c6f5921a81cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Orange Cow",
+    "sanitizedSymbol": "ORANGE_COW",
+    "created_at": "2024-12-09T14:47:23.439944",
+    "deployer": "0xdb5CA9A99De04806E7914b2B20E665c59B4E25ea",
+    "lpNftId": "1388136",
+    "lockerAddress": "0xA0656E45B25B8FCb2D55e75B7f4C7408889FF0e0"
+  },
+  "clankerInfo": null
+}

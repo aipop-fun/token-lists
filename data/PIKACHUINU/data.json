@@ -1,0 +1,22 @@
+{
+  "name": "pikachuinu",
+  "symbol": "pikachuinu",
+  "decimals": 18,
+  "description": "pikachuinu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pikachuinu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pikachuinu",
+  "addresses": {
+    "8453": "0x251935e910de624b1692d840629170ccdd9c5afd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pikachuinu",
+    "sanitizedSymbol": "PIKACHUINU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD9715323fFc62e09e7C79a44D181590a2227829E",
+    "lpNftId": "1320488",
+    "lockerAddress": "0x07443F6832E92379142f594b13eeBf8982f1feEE"
+  },
+  "clankerInfo": null
+}

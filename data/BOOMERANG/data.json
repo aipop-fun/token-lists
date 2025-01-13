@@ -1,0 +1,22 @@
+{
+  "name": "boomerang",
+  "symbol": "boomerang",
+  "decimals": 18,
+  "description": "boomerang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boomerang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boomerang",
+  "addresses": {
+    "8453": "0x02942e53860511e395a8b39f5227f3edfbd2ae5f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boomerang",
+    "sanitizedSymbol": "BOOMERANG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x008dFEdE2eF0e61578C3BBA84a7ed4b9d25795c3",
+    "lpNftId": "1247030",
+    "lockerAddress": "0x9475AD5A27321701813Cfd3856E716c5fe6641F2"
+  },
+  "clankerInfo": null
+}

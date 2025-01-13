@@ -1,0 +1,22 @@
+{
+  "name": "VaquitaCoin",
+  "symbol": "VaquitaCoin",
+  "decimals": 18,
+  "description": "VaquitaCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VaquitaCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VaquitaCoin",
+  "addresses": {
+    "8453": "0x4145a23a248e98f3678b7c22d2ecdfbaee53ae0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VaquitaCoin",
+    "sanitizedSymbol": "VAQUITACOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1292178",
+    "lockerAddress": "0xc950e22E31632D30E9b211Df0B64207Ce251545C"
+  },
+  "clankerInfo": null
+}

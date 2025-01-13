@@ -1,0 +1,22 @@
+{
+  "name": "monex",
+  "symbol": "monex",
+  "decimals": 18,
+  "description": "monex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=monex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "monex",
+  "addresses": {
+    "8453": "0x084629c045e91e5a96f6fc49119ec5232fa30528"
+  },
+  "tokenInfo": {
+    "originalSymbol": "monex",
+    "sanitizedSymbol": "MONEX",
+    "created_at": "2024-12-10T22:47:54.925029",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408109",
+    "lockerAddress": "0xaa1f874De5A05db49785a9526A190948Ab1c0f3F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Back to Base",
+  "symbol": "Back to Base",
+  "decimals": 18,
+  "description": "Back to Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Back%20to%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Back to Base",
+  "addresses": {
+    "8453": "0x3e2a10b29c9e471e5823899d6a4394e85aeb633e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Back to Base",
+    "sanitizedSymbol": "BACK_TO_BASE",
+    "created_at": "2024-12-10T07:17:11.69424",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1397787",
+    "lockerAddress": "0x0A11bbF7e7F400f5B11a07423a4e75559bdC24C2"
+  },
+  "clankerInfo": null
+}

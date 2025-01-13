@@ -1,0 +1,22 @@
+{
+  "name": "WORP",
+  "symbol": "WORP",
+  "decimals": 18,
+  "description": "WORP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WORP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WORP",
+  "addresses": {
+    "8453": "0x1ff5309c1e44cd0ef169662571b28acd7a3b5de2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WORP",
+    "sanitizedSymbol": "WORP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1354507",
+    "lockerAddress": "0x19885164dCDe00229aB5d0FDB05a9efc10e96192"
+  },
+  "clankerInfo": null
+}

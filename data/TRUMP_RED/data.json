@@ -1,0 +1,22 @@
+{
+  "name": "Trump Red",
+  "symbol": "Trump Red",
+  "decimals": 18,
+  "description": "Trump Red is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trump%20Red",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trump Red",
+  "addresses": {
+    "8453": "0x13049e4434472c0ec8c1c5819ccf285663a66d00"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trump Red",
+    "sanitizedSymbol": "TRUMP_RED",
+    "created_at": "2024-12-10T17:19:26.995222",
+    "deployer": "0xca32f6d4FA7d798ea153D4489645Ef1bC80ecb5f",
+    "lpNftId": "1404501",
+    "lockerAddress": "0x897fBAD4Fa177f4AE93f927e16E0cEC7820153b8"
+  },
+  "clankerInfo": null
+}

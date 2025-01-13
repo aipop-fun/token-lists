@@ -1,0 +1,22 @@
+{
+  "name": "Groker",
+  "symbol": "Groker",
+  "decimals": 18,
+  "description": "Groker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Groker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Groker",
+  "addresses": {
+    "8453": "0x33b441ab90ab0fe798d3f0e2c97425c14bef58e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Groker",
+    "sanitizedSymbol": "GROKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x971a6DA29c0103D8aD1Bc46b884B8ABfF9d66514",
+    "lpNftId": "1309751",
+    "lockerAddress": "0x25cBaadd962F032db03E0f8948e904A4633a8BA9"
+  },
+  "clankerInfo": null
+}

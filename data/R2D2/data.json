@@ -1,0 +1,22 @@
+{
+  "name": "R2D2",
+  "symbol": "R2D2",
+  "decimals": 18,
+  "description": "R2D2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=R2D2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "R2D2",
+  "addresses": {
+    "8453": "0x24b1a224b0beaa0cbb648ece74a82ac11156d89a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "R2D2",
+    "sanitizedSymbol": "R2D2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1296228",
+    "lockerAddress": "0xeE98E104964ed3EE6c2a3Fb8ea08B5fe37c3445c"
+  },
+  "clankerInfo": null
+}

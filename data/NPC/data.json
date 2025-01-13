@@ -1,0 +1,22 @@
+{
+  "name": "NPC",
+  "symbol": "NPC",
+  "decimals": 18,
+  "description": "NPC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NPC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NPC",
+  "addresses": {
+    "8453": "0x271afc54b58a655f559e3ea479b03ab82f84e27b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NPC",
+    "sanitizedSymbol": "NPC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204692",
+    "lockerAddress": "0x83462892479a2e49094eEC433C961a2B9C409a79"
+  },
+  "clankerInfo": null
+}

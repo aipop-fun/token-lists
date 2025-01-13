@@ -1,0 +1,22 @@
+{
+  "name": "TOGGLE",
+  "symbol": "TOGGLE",
+  "decimals": 18,
+  "description": "TOGGLE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TOGGLE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TOGGLE",
+  "addresses": {
+    "8453": "0x33c7a72d8e526121f65e838b5d90cfd9b7e2f36f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TOGGLE",
+    "sanitizedSymbol": "TOGGLE",
+    "created_at": "2024-12-12T04:13:33.126644",
+    "deployer": "0xFFdd1470d481AA7b7d1149A33c2A1e596fa62995",
+    "lpNftId": "1429107",
+    "lockerAddress": "0x9F908f7D8216D5695F7021Fa4CB7f1079efcFBC5"
+  },
+  "clankerInfo": null
+}

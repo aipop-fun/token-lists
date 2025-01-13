@@ -1,0 +1,22 @@
+{
+  "name": "Rainbow Glass",
+  "symbol": "Rainbow Glass",
+  "decimals": 18,
+  "description": "Rainbow Glass is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rainbow%20Glass",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rainbow Glass",
+  "addresses": {
+    "8453": "0x1fe8c1a02a9ab174bd49053aa7d3155060a492b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rainbow Glass",
+    "sanitizedSymbol": "RAINBOW_GLASS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa2758921Dd7E3cA0C28071cbbE0fCe3291F8d589",
+    "lpNftId": "1328479",
+    "lockerAddress": "0xB88CfA2F206D9C2882Ad0A5767cDB0027fd5DE9d"
+  },
+  "clankerInfo": null
+}

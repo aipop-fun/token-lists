@@ -1,0 +1,22 @@
+{
+  "name": "dd4ud",
+  "symbol": "dd4ud",
+  "decimals": 18,
+  "description": "dd4ud is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=dd4ud",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "dd4ud",
+  "addresses": {
+    "8453": "0x034823cd744e3991c3e396a5a81d55b0b715ce02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "dd4ud",
+    "sanitizedSymbol": "DD4UD",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x6A47fA4234c0ae11bb5B582AcAE85888F278EdAF",
+    "lpNftId": "1251712",
+    "lockerAddress": "0x1A56312dc82ABfA2A0d6D528F0398B13268Ac5CE"
+  },
+  "clankerInfo": null
+}

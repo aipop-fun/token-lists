@@ -1,0 +1,22 @@
+{
+  "name": "smokin",
+  "symbol": "smokin",
+  "decimals": 18,
+  "description": "smokin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=smokin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "smokin",
+  "addresses": {
+    "8453": "0x296285fde953a50a5f178dcaccc3b3c8950d1918"
+  },
+  "tokenInfo": {
+    "originalSymbol": "smokin",
+    "sanitizedSymbol": "SMOKIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5A65d3016d761F970B12920d9283B35000bb1Da2",
+    "lpNftId": "1279818",
+    "lockerAddress": "0x91c6bF72bAA109605BEA0cD609320517D7682763"
+  },
+  "clankerInfo": null
+}

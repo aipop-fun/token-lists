@@ -1,0 +1,22 @@
+{
+  "name": "WorkingNeverChiling",
+  "symbol": "WorkingNeverChiling",
+  "decimals": 18,
+  "description": "WorkingNeverChiling is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WorkingNeverChiling",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WorkingNeverChiling",
+  "addresses": {
+    "8453": "0x26204107c630f4caa9e0e4d043da4d769f1927e6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WorkingNeverChiling",
+    "sanitizedSymbol": "WORKINGNEVERCHILING",
+    "created_at": "2024-12-12T17:50:05.409286",
+    "deployer": "0xc717f7aC1550d0Aa2B0319bA3F39499cf2CC618a",
+    "lpNftId": "1440126",
+    "lockerAddress": "0x4f0Ac0956d89724226b9a43bE3E45d1649d91F09"
+  },
+  "clankerInfo": null
+}

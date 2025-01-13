@@ -1,0 +1,22 @@
+{
+  "name": "Chilldeng",
+  "symbol": "Chilldeng",
+  "decimals": 18,
+  "description": "Chilldeng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chilldeng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chilldeng",
+  "addresses": {
+    "8453": "0x12891f1a72f56f82f5f09a6fa0eeac983815aa07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chilldeng",
+    "sanitizedSymbol": "CHILLDENG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x24a0e4EE348f33252e83fE1e824499381dd21aa9",
+    "lpNftId": "1325721",
+    "lockerAddress": "0x5d6b20E0657518d58DC82c714240fD741C2Adaf0"
+  },
+  "clankerInfo": null
+}

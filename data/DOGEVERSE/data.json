@@ -1,0 +1,22 @@
+{
+  "name": "DogeVerse",
+  "symbol": "DogeVerse",
+  "decimals": 18,
+  "description": "DogeVerse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeVerse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeVerse",
+  "addresses": {
+    "8453": "0x05c0e0cba1e84cbaa4556e347464925647a60757"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeVerse",
+    "sanitizedSymbol": "DOGEVERSE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165964",
+    "lockerAddress": "0x576583eBBd72E4F5EFd84359f3FF1d8f70755dF8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "brat",
+  "symbol": "brat",
+  "decimals": 18,
+  "description": "brat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=brat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "brat",
+  "addresses": {
+    "8453": "0x11ae0ea76cf3552767dc55ec9579e838531c70fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "brat",
+    "sanitizedSymbol": "BRAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156740",
+    "lockerAddress": "0x9d83797Bd46F2b81d50A2D22Cd9A8dbe336854a2"
+  },
+  "clankerInfo": null
+}

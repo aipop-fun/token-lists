@@ -1,0 +1,22 @@
+{
+  "name": "warpcast all member",
+  "symbol": "warpcast all member",
+  "decimals": 18,
+  "description": "warpcast all member is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=warpcast%20all%20member",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "warpcast all member",
+  "addresses": {
+    "8453": "0x1a6989d83c49a97184c0f89af78c56ec96a6b0b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "warpcast all member",
+    "sanitizedSymbol": "WARPCAST_ALL_MEMBER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xE74cb48ffBb2995B0412DD8dCBa7c2F0BAb84b39",
+    "lpNftId": "1252420",
+    "lockerAddress": "0xc959f114ee6AB59bf28F144dD6318b593928C22A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Wingdings",
+  "symbol": "Wingdings",
+  "decimals": 18,
+  "description": "Wingdings is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wingdings",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wingdings",
+  "addresses": {
+    "8453": "0x3a56244452d9e438907390cd1fe02a2e55deebe1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wingdings",
+    "sanitizedSymbol": "WINGDINGS",
+    "created_at": "2024-12-11T16:03:34.23628",
+    "deployer": "0xA7efbb4a06A680F3B65c5861Ec387408CeafbEc8",
+    "lpNftId": "1421473",
+    "lockerAddress": "0x338f4081cc93238615498fA6FdB86D75AAa203Cb"
+  },
+  "clankerInfo": null
+}

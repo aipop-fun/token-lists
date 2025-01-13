@@ -1,0 +1,22 @@
+{
+  "name": "stonks on base",
+  "symbol": "stonks on base",
+  "decimals": 18,
+  "description": "stonks on base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stonks%20on%20base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stonks on base",
+  "addresses": {
+    "8453": "0x3bc7c726bbb9a8f6f38299b697b7b1570e8d8ddb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stonks on base",
+    "sanitizedSymbol": "STONKS_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8a6Ca0f498Ee45b5Bcc2E60EAA68f92f93BeDfAF",
+    "lpNftId": "1376053",
+    "lockerAddress": "0xe71adEc31c06E1a27d1af20dE9CC1180f19311c8"
+  },
+  "clankerInfo": null
+}

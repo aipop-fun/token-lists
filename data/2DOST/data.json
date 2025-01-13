@@ -1,0 +1,22 @@
+{
+  "name": "2DOST",
+  "symbol": "2DOST",
+  "decimals": 18,
+  "description": "2DOST is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=2DOST",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "2DOST",
+  "addresses": {
+    "8453": "0x2b4114122f99c6a35c3133c1a6fa2fd98d6f7c40"
+  },
+  "tokenInfo": {
+    "originalSymbol": "2DOST",
+    "sanitizedSymbol": "2DOST",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234890",
+    "lockerAddress": "0x2964aAA310Ab6b8a736816C92D2a081954022a77"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Phoenix Coin",
+  "symbol": "Phoenix Coin",
+  "decimals": 18,
+  "description": "Phoenix Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Phoenix%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Phoenix Coin",
+  "addresses": {
+    "8453": "0x139764ab5a29181f3359ab606952d215c334b17e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Phoenix Coin",
+    "sanitizedSymbol": "PHOENIX_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128671",
+    "lockerAddress": "0x8E6B0a717C9336E50C33671f1A13Ea7C6554a97F"
+  },
+  "clankerInfo": null
+}

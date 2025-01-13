@@ -1,0 +1,22 @@
+{
+  "name": "FomoCoin",
+  "symbol": "FomoCoin",
+  "decimals": 18,
+  "description": "FomoCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FomoCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FomoCoin",
+  "addresses": {
+    "8453": "0x41756c998c972e42c046a69d8b258bf46c7a26c7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FomoCoin",
+    "sanitizedSymbol": "FOMOCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9aE8e67f5741daCD0F7DD29c626EB3bDB470838c",
+    "lpNftId": "1265423",
+    "lockerAddress": "0xe8ecCDB95CE5c316eF9493B7753c7D7bD72BC827"
+  },
+  "clankerInfo": null
+}

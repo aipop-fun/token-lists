@@ -1,0 +1,22 @@
+{
+  "name": "Berocoin",
+  "symbol": "Berocoin",
+  "decimals": 18,
+  "description": "Berocoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Berocoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Berocoin",
+  "addresses": {
+    "8453": "0x385aedaf744ab3ea37a4b852639740b67451e45e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Berocoin",
+    "sanitizedSymbol": "BEROCOIN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233854",
+    "lockerAddress": "0x942Fe9Cfa7AB4bb2C0F08eeEA4A15feE255D14a4"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Derel Tour",
+  "symbol": "Derel Tour",
+  "decimals": 18,
+  "description": "Derel Tour is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Derel%20Tour",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Derel Tour",
+  "addresses": {
+    "8453": "0x271bc7760c29fd23a1f4c5fe435ffc2fa6e94887"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Derel Tour",
+    "sanitizedSymbol": "DEREL_TOUR",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235920",
+    "lockerAddress": "0x5e9bE43cF422D30a981579498DE33D684211A63e"
+  },
+  "clankerInfo": null
+}

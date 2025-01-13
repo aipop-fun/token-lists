@@ -1,0 +1,22 @@
+{
+  "name": "HASTALAVISTA",
+  "symbol": "HASTALAVISTA",
+  "decimals": 18,
+  "description": "HASTALAVISTA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HASTALAVISTA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HASTALAVISTA",
+  "addresses": {
+    "8453": "0x283ee3febaad1541e329814bf5acee88641eec4d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HASTALAVISTA",
+    "sanitizedSymbol": "HASTALAVISTA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217921",
+    "lockerAddress": "0x7cb988836a37B6B39F3Ea34923cDA8034AE3E997"
+  },
+  "clankerInfo": null
+}

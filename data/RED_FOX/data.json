@@ -1,0 +1,22 @@
+{
+  "name": "Red Fox",
+  "symbol": "Red Fox",
+  "decimals": 18,
+  "description": "Red Fox is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20Fox",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red Fox",
+  "addresses": {
+    "8453": "0x278bcd2d2039b4615fa23f806400c5e6b4ca9f89"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red Fox",
+    "sanitizedSymbol": "RED_FOX",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF72E10Ba10c78B845e63328f83AE3623bB525618",
+    "lpNftId": "1326943",
+    "lockerAddress": "0x98641f0809e46b4E4E8204B7B4b371B7B4a6DB3a"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CryptoKat",
+  "symbol": "CryptoKat",
+  "decimals": 18,
+  "description": "CryptoKat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoKat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoKat",
+  "addresses": {
+    "8453": "0x10098f6a19bd47221f27d3d3204a4ffd3f7ebeeb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoKat",
+    "sanitizedSymbol": "CRYPTOKAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163016",
+    "lockerAddress": "0x0836D996e973bcAdf4033cbb6D05BC14Cc610d70"
+  },
+  "clankerInfo": null
+}

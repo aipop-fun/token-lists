@@ -1,0 +1,22 @@
+{
+  "name": "breakk",
+  "symbol": "breakk",
+  "decimals": 18,
+  "description": "breakk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=breakk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "breakk",
+  "addresses": {
+    "8453": "0x0eff37dd3348c601855248f5aedd6f4e03145264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "breakk",
+    "sanitizedSymbol": "BREAKK",
+    "created_at": "2024-12-12T05:23:37.425959",
+    "deployer": "0x0897Dd24bFc5C1368c3170E153146D8827b0453f",
+    "lpNftId": "1429376",
+    "lockerAddress": "0x88883803b271F05ae1960A71705F030137A2Ffaa"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NotWalletConnect",
+  "symbol": "NotWalletConnect",
+  "decimals": 18,
+  "description": "NotWalletConnect is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NotWalletConnect",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NotWalletConnect",
+  "addresses": {
+    "8453": "0x23332eed2ddf0b7c484f6ae9a48718571633b2a2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NotWalletConnect",
+    "sanitizedSymbol": "NOTWALLETCONNECT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236659",
+    "lockerAddress": "0x8F8ce768d9dCFB9ca6D14C8c97d666E03391396c"
+  },
+  "clankerInfo": null
+}

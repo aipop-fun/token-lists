@@ -1,0 +1,22 @@
+{
+  "name": "Anon Romero",
+  "symbol": "Anon Romero",
+  "decimals": 18,
+  "description": "Anon Romero is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Romero",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Romero",
+  "addresses": {
+    "8453": "0x1148e5304676c0c4cca1f878c7590078d3929e8f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Romero",
+    "sanitizedSymbol": "ANON_ROMERO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x828bc1d6Ec4Aeb858fe15Db45b173c8EfBa4d963",
+    "lpNftId": "1315181",
+    "lockerAddress": "0x3A0851532DB4a330804Fb7Adb6cB29B6Eaa64909"
+  },
+  "clankerInfo": null
+}

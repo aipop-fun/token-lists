@@ -1,0 +1,22 @@
+{
+  "name": "tanyaq",
+  "symbol": "tanyaq",
+  "decimals": 18,
+  "description": "tanyaq is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tanyaq",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tanyaq",
+  "addresses": {
+    "8453": "0x1834d01747744dfa7abdfcea8b6ee62afc4b09ad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tanyaq",
+    "sanitizedSymbol": "TANYAQ_3",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2569A1ae43285804944010C805B9B70023B2A19F",
+    "lpNftId": "1285802",
+    "lockerAddress": "0x8c7Eb05dB6463F05A14bEb6C110fbcc871185bAE"
+  },
+  "clankerInfo": null
+}

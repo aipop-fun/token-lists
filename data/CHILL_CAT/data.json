@@ -1,0 +1,22 @@
+{
+  "name": "CHILL CAT",
+  "symbol": "CHILL CAT",
+  "decimals": 18,
+  "description": "CHILL CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHILL%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHILL CAT",
+  "addresses": {
+    "8453": "0x2a2ad6744aee0534dace805a0b5d3681e50de0d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHILL CAT",
+    "sanitizedSymbol": "CHILL_CAT",
+    "created_at": "2024-12-10T06:00:48.703323",
+    "deployer": "0xa0a2e61BEFd38704D3ED6908F79FAF87b0FB34f2",
+    "lpNftId": "1397249",
+    "lockerAddress": "0x6c704281d32d69DCBb6D9123d7D991a8A9A23a6f"
+  },
+  "clankerInfo": null
+}

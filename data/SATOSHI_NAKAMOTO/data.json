@@ -1,0 +1,22 @@
+{
+  "name": "Satoshi Nakamoto",
+  "symbol": "Satoshi Nakamoto",
+  "decimals": 18,
+  "description": "Satoshi Nakamoto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Satoshi%20Nakamoto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Satoshi Nakamoto",
+  "addresses": {
+    "8453": "0x00caed983e7b56f2d32e028ecca26d128abb4d53"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Satoshi Nakamoto",
+    "sanitizedSymbol": "SATOSHI_NAKAMOTO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x33C8ee5e9d7AE3d8d31Ba5e869D477a5c4D4E172",
+    "lpNftId": "1325240",
+    "lockerAddress": "0xCC0e7399438C712783dfa9cDFce5d3aFCD3f8E32"
+  },
+  "clankerInfo": null
+}

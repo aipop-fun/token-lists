@@ -1,0 +1,22 @@
+{
+  "name": "BITBANANAS",
+  "symbol": "BITBANANAS",
+  "decimals": 18,
+  "description": "BITBANANAS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BITBANANAS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BITBANANAS",
+  "addresses": {
+    "8453": "0x3edfcf8f0aab499c2b0dc4c9efeb54b87e5803b1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BITBANANAS",
+    "sanitizedSymbol": "BITBANANAS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x607E26467533Ae3Ed1065F1f3a58fF647fdB43be",
+    "lpNftId": "1312210",
+    "lockerAddress": "0x2a968307ef8d960956b821D901aB8eeB411F0EdE"
+  },
+  "clankerInfo": null
+}

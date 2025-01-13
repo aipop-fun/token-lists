@@ -1,0 +1,22 @@
+{
+  "name": "anondwr",
+  "symbol": "anondwr",
+  "decimals": 18,
+  "description": "anondwr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anondwr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anondwr",
+  "addresses": {
+    "8453": "0x19ebb318de99eee355be0046dc0b494976d7b245"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anondwr",
+    "sanitizedSymbol": "ANONDWR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x333092722E26b24A141BFDDCC72732BBc0de49E4",
+    "lpNftId": "1287706",
+    "lockerAddress": "0x25D520BCC07A3A8602C02385B2F3be0d5741711F"
+  },
+  "clankerInfo": null
+}

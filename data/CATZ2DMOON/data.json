@@ -1,0 +1,22 @@
+{
+  "name": "CATZ2DMOON",
+  "symbol": "CATZ2DMOON",
+  "decimals": 18,
+  "description": "CATZ2DMOON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATZ2DMOON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATZ2DMOON",
+  "addresses": {
+    "8453": "0x16d54bc593e55807078f3d0ced0e9b6809ec23c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATZ2DMOON",
+    "sanitizedSymbol": "CATZ2DMOON",
+    "created_at": "2024-12-10T17:25:41.130229",
+    "deployer": "0x06B66Dd94487c12c4055D437D24Ebd08236aB4f0",
+    "lpNftId": "1404577",
+    "lockerAddress": "0x6417006D425024d86e2D5D7e97ca9645631C4807"
+  },
+  "clankerInfo": null
+}

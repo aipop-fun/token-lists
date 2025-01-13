@@ -1,0 +1,22 @@
+{
+  "name": "fiwreee",
+  "symbol": "fiwreee",
+  "decimals": 18,
+  "description": "fiwreee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fiwreee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fiwreee",
+  "addresses": {
+    "8453": "0x319b3cb0f0aea58c9b75f15d940aa7e358816707"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fiwreee",
+    "sanitizedSymbol": "FIWREEE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234596",
+    "lockerAddress": "0xda73faff43BE22C0F6440ce9382adc4d440eC987"
+  },
+  "clankerInfo": null
+}

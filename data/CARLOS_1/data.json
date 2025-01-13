@@ -1,0 +1,22 @@
+{
+  "name": "Carlos",
+  "symbol": "Carlos",
+  "decimals": 18,
+  "description": "Carlos is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Carlos",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Carlos",
+  "addresses": {
+    "8453": "0x2885bf8ceb75ea809e0bf80c66606cc9f5636f0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Carlos",
+    "sanitizedSymbol": "CARLOS_1",
+    "created_at": "2024-12-12T21:38:00.442128",
+    "deployer": "0xe2525c510fedfE17BfC079EA8393e71E6de7CD86",
+    "lpNftId": "1443973",
+    "lockerAddress": "0xED99aB8DA964567515D65f84cA4A2DC67F42a80C"
+  },
+  "clankerInfo": null
+}

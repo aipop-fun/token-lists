@@ -1,0 +1,22 @@
+{
+  "name": "AlphaDex",
+  "symbol": "AlphaDex",
+  "decimals": 18,
+  "description": "AlphaDex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AlphaDex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AlphaDex",
+  "addresses": {
+    "8453": "0x3d78edd75d4bf9bbf1f3b73f7821be4c41ff6a33"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AlphaDex",
+    "sanitizedSymbol": "ALPHADEX",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x30764b52De3Aa93A3791E70827dB9da020b0aa50",
+    "lpNftId": "1264816",
+    "lockerAddress": "0x493a3a124C93De7f8ecC5aEE6BF906f34Fe73E34"
+  },
+  "clankerInfo": null
+}

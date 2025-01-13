@@ -1,0 +1,22 @@
+{
+  "name": "Aliceterminal",
+  "symbol": "Aliceterminal",
+  "decimals": 18,
+  "description": "Aliceterminal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Aliceterminal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Aliceterminal",
+  "addresses": {
+    "8453": "0x35c5dc9a94e5103e966f6979fe5a29af72fa7a84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Aliceterminal",
+    "sanitizedSymbol": "ALICETERMINAL",
+    "created_at": "2024-12-12T20:23:24.560648",
+    "deployer": "0x2E2Cd888d5048e46Ad24830A76529366145b9c0D",
+    "lpNftId": "1442282",
+    "lockerAddress": "0x6569f867227eD3Cb5151c5b500086C110ff45a03"
+  },
+  "clankerInfo": null
+}

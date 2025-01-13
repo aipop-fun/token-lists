@@ -1,0 +1,22 @@
+{
+  "name": "Gold Pepe",
+  "symbol": "Gold Pepe",
+  "decimals": 18,
+  "description": "Gold Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gold%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gold Pepe",
+  "addresses": {
+    "8453": "0x079dc20bd7a410ee3700733a4c30f494e5b34caa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gold Pepe",
+    "sanitizedSymbol": "GOLD_PEPE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1292385",
+    "lockerAddress": "0x7429a4b55661debFC7c5D242FccA39E9457Ec41b"
+  },
+  "clankerInfo": null
+}

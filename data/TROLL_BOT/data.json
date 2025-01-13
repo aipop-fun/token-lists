@@ -1,0 +1,22 @@
+{
+  "name": "Troll bot",
+  "symbol": "Troll bot",
+  "decimals": 18,
+  "description": "Troll bot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Troll%20bot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Troll bot",
+  "addresses": {
+    "8453": "0x17c2cfc68e54df9cdc8051ac4ac7fc5dce8a6df9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Troll bot",
+    "sanitizedSymbol": "TROLL_BOT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221106",
+    "lockerAddress": "0x2e7aFbC5EC4803d5CB12e98679aE8e1F1eF7DB58"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Meat Sweats",
+  "symbol": "Meat Sweats",
+  "decimals": 18,
+  "description": "Meat Sweats is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meat%20Sweats",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meat Sweats",
+  "addresses": {
+    "8453": "0x2f6b7065978ab8ffaf9754e59d40f3c9fa67651f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meat Sweats",
+    "sanitizedSymbol": "MEAT_SWEATS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3a246792285f652Aecd892c63080017eB25de8aD",
+    "lpNftId": "1376273",
+    "lockerAddress": "0x15E78649bCA28bb973db5DaeFEd77E617ee585Aa"
+  },
+  "clankerInfo": null
+}

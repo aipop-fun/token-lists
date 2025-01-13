@@ -1,0 +1,22 @@
+{
+  "name": "Notpixel",
+  "symbol": "Notpixel",
+  "decimals": 18,
+  "description": "Notpixel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Notpixel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Notpixel",
+  "addresses": {
+    "8453": "0x15c795334c0afda0bed8247eb9a99313407938ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Notpixel",
+    "sanitizedSymbol": "NOTPIXEL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2fE1e19deDaAC992096D706eb75a60C8Bde5326F",
+    "lpNftId": "1329911",
+    "lockerAddress": "0x55A79410567eE460D6bbC9CeEfEC4fb00C57a145"
+  },
+  "clankerInfo": null
+}

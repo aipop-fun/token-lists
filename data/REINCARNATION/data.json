@@ -1,0 +1,22 @@
+{
+  "name": "REINCARNATION",
+  "symbol": "REINCARNATION",
+  "decimals": 18,
+  "description": "REINCARNATION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=REINCARNATION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "REINCARNATION",
+  "addresses": {
+    "8453": "0x0bc347820b0310f7fc01e4ee23e1b4c4d64d2f6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "REINCARNATION",
+    "sanitizedSymbol": "REINCARNATION",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1159897",
+    "lockerAddress": "0xCdB54028d17FfDa6a524D9f717f5FE31Da5D6CF6"
+  },
+  "clankerInfo": null
+}

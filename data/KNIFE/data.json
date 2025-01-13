@@ -1,0 +1,22 @@
+{
+  "name": "knife",
+  "symbol": "knife",
+  "decimals": 18,
+  "description": "knife is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=knife",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "knife",
+  "addresses": {
+    "8453": "0x3a86cb4c20bb4c76898ed6d07f64375564b686b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "knife",
+    "sanitizedSymbol": "KNIFE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8321e06518C20294b336cCBBA8dEf63E96F8d505",
+    "lpNftId": "1251564",
+    "lockerAddress": "0xb3576ec58D82c684558BED2f950991F72CD6BB6e"
+  },
+  "clankerInfo": null
+}

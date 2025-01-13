@@ -1,0 +1,22 @@
+{
+  "name": "anon bot clankr",
+  "symbol": "anon bot clankr",
+  "decimals": 18,
+  "description": "anon bot clankr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anon%20bot%20clankr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anon bot clankr",
+  "addresses": {
+    "8453": "0x2549708e4eac6741b1d30259b362c0145b483a4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anon bot clankr",
+    "sanitizedSymbol": "ANON_BOT_CLANKR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8FF9867ECcfcc753d2b90571dC980eCFfd3A4d93",
+    "lpNftId": "1252169",
+    "lockerAddress": "0x6F2eebf8200112Ed05F13523a70d1079Dc94231a"
+  },
+  "clankerInfo": null
+}

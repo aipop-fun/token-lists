@@ -1,0 +1,22 @@
+{
+  "name": "Chicken Coop",
+  "symbol": "Chicken Coop",
+  "decimals": 18,
+  "description": "Chicken Coop is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chicken%20Coop",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chicken Coop",
+  "addresses": {
+    "8453": "0x16755af30293cdca51555a763cc8e9050297cd5c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chicken Coop",
+    "sanitizedSymbol": "CHICKEN_COOP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237133",
+    "lockerAddress": "0x69Ddbe83f76e0dc5F234cD1a4c076bf22E400e47"
+  },
+  "clankerInfo": null
+}

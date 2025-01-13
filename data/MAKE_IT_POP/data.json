@@ -1,0 +1,22 @@
+{
+  "name": "Make it POP",
+  "symbol": "Make it POP",
+  "decimals": 18,
+  "description": "Make it POP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Make%20it%20POP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Make it POP",
+  "addresses": {
+    "8453": "0x2fb4e5bd21a22fae8fab245800ed51b0bbf79fa4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Make it POP",
+    "sanitizedSymbol": "MAKE_IT_POP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1352243",
+    "lockerAddress": "0x1c5d1f918Ae7957F910c6D5f4E97b227575ffcCd"
+  },
+  "clankerInfo": null
+}

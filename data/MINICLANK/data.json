@@ -1,0 +1,22 @@
+{
+  "name": "Miniclank",
+  "symbol": "Miniclank",
+  "decimals": 18,
+  "description": "Miniclank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Miniclank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Miniclank",
+  "addresses": {
+    "8453": "0x328c71731b01fb4f75a2c5ba56f1832f639c1e37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Miniclank",
+    "sanitizedSymbol": "MINICLANK",
+    "created_at": "2024-12-10T03:36:17.33968",
+    "deployer": "0xc6773d25F31b1a7FE4E4C97B39C10D984F39c069",
+    "lpNftId": "1395772",
+    "lockerAddress": "0x78c539C62e12091d5ebDb4c047E30F954ebB051a"
+  },
+  "clankerInfo": null
+}

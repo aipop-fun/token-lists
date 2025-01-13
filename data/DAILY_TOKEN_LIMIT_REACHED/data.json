@@ -1,0 +1,22 @@
+{
+  "name": "daily token limit reached",
+  "symbol": "daily token limit reached",
+  "decimals": 18,
+  "description": "daily token limit reached is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=daily%20token%20limit%20reached",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "daily token limit reached",
+  "addresses": {
+    "8453": "0x34eb055757286c34a0027a07ed4e7ca61e593a57"
+  },
+  "tokenInfo": {
+    "originalSymbol": "daily token limit reached",
+    "sanitizedSymbol": "DAILY_TOKEN_LIMIT_REACHED",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231080",
+    "lockerAddress": "0x1757F5ECC9a07796C536c8a3c34C81F18b2a5437"
+  },
+  "clankerInfo": null
+}

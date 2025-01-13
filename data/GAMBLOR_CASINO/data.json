@@ -1,0 +1,22 @@
+{
+  "name": "Gamblor Casino",
+  "symbol": "Gamblor Casino",
+  "decimals": 18,
+  "description": "Gamblor Casino is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gamblor%20Casino",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gamblor Casino",
+  "addresses": {
+    "8453": "0x0d4c4f58fe68e6f04d04e59dab3afb0da36077a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gamblor Casino",
+    "sanitizedSymbol": "GAMBLOR_CASINO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE6b0E0f8e0D0F934bECA2EA5B3211b29BFeB67DE",
+    "lpNftId": "1283700",
+    "lockerAddress": "0x81e38901BC0e8890fb5354479E75F78E6319490f"
+  },
+  "clankerInfo": null
+}

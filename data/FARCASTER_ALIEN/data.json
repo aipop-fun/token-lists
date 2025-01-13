@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Alien",
+  "symbol": "Farcaster Alien",
+  "decimals": 18,
+  "description": "Farcaster Alien is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Alien",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Alien",
+  "addresses": {
+    "8453": "0x3612b34e7b572a631f4238fa3ec3fd234179970a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Alien",
+    "sanitizedSymbol": "FARCASTER_ALIEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x548D284Fa71b6fBFa89B914672b20A4b64112D33",
+    "lpNftId": "1376562",
+    "lockerAddress": "0x2077A5f8395B095F6f767004a26c190004592E4C"
+  },
+  "clankerInfo": null
+}

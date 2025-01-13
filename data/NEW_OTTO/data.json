@@ -1,0 +1,22 @@
+{
+  "name": "NEW OTTO",
+  "symbol": "NEW OTTO",
+  "decimals": 18,
+  "description": "NEW OTTO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NEW%20OTTO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NEW OTTO",
+  "addresses": {
+    "8453": "0x3377be087be9f56d42c0cca046aa8b4bf86dc6f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NEW OTTO",
+    "sanitizedSymbol": "NEW_OTTO",
+    "created_at": "2024-12-09T15:23:10.921939",
+    "deployer": "0x8deCEEBFD37B46f13B9FE58B2f2fdb42963f6f87",
+    "lpNftId": "1388481",
+    "lockerAddress": "0x592eC665EAD751dF73858Cc35aCB6c9A23de08a6"
+  },
+  "clankerInfo": null
+}

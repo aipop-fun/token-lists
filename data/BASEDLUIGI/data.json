@@ -1,0 +1,22 @@
+{
+  "name": "BasedLuigi",
+  "symbol": "BasedLuigi",
+  "decimals": 18,
+  "description": "BasedLuigi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BasedLuigi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BasedLuigi",
+  "addresses": {
+    "8453": "0x36abb37c3724e00cccca6e23ef00c876a3b3b0ce"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BasedLuigi",
+    "sanitizedSymbol": "BASEDLUIGI",
+    "created_at": "2024-12-09T19:53:07.267002",
+    "deployer": "0xe4c57c0Dd7F1C9D38079B537556DCd8009Eb6B79",
+    "lpNftId": "1391214",
+    "lockerAddress": "0x4527f9c8e0517108d021a44A30fC78A5E237EB58"
+  },
+  "clankerInfo": null
+}

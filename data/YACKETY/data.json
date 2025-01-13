@@ -1,0 +1,22 @@
+{
+  "name": "Yackety",
+  "symbol": "Yackety",
+  "decimals": 18,
+  "description": "Yackety is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yackety",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yackety",
+  "addresses": {
+    "8453": "0x24bd96dde592aff5fe3a0d9e540e640559b2056e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yackety",
+    "sanitizedSymbol": "YACKETY",
+    "created_at": "2024-12-10T23:21:41.032741",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1408319",
+    "lockerAddress": "0x48Afb9Cf927a761780B116D3D8c00bbCcA3a441f"
+  },
+  "clankerInfo": null
+}

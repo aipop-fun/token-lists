@@ -1,0 +1,22 @@
+{
+  "name": "GOOFY",
+  "symbol": "GOOFY",
+  "decimals": 18,
+  "description": "GOOFY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GOOFY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GOOFY",
+  "addresses": {
+    "8453": "0x0b11775504d2abed26a9cbf01d97563e5f408a95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GOOFY",
+    "sanitizedSymbol": "GOOFY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xEC4B31D4E766C862bCb8752fDb37C32B64814B13",
+    "lpNftId": "1333374",
+    "lockerAddress": "0xAf4f6Cd6D1B30B63C64811dc87c6C4106bCfe859"
+  },
+  "clankerInfo": null
+}

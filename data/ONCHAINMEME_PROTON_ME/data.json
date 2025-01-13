@@ -1,0 +1,22 @@
+{
+  "name": "onchainmeme@proton.me",
+  "symbol": "onchainmeme@proton.me",
+  "decimals": 18,
+  "description": "onchainmeme@proton.me is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=onchainmeme%40proton.me",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "onchainmeme@proton.me",
+  "addresses": {
+    "8453": "0x028ee9685d8d75c75d085d3062c36e54257c548c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "onchainmeme@proton.me",
+    "sanitizedSymbol": "ONCHAINMEME_PROTON_ME",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xD41cEF4f79a2cF4b9Ceb670E64029A93a62b8FB6",
+    "lpNftId": "1251327",
+    "lockerAddress": "0x84BFaeaF3850a1F984861C925E2ae7253A2C6506"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cui",
+  "symbol": "cui",
+  "decimals": 18,
+  "description": "cui is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cui",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cui",
+  "addresses": {
+    "8453": "0x3c3a1f9856e881c1b61701a6c1ae7fd195270594"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cui",
+    "sanitizedSymbol": "CUI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xc96139d9699eA671f6d702E23F3b6A7dc7d5efa3",
+    "lpNftId": "1250702",
+    "lockerAddress": "0xdFdB3f682Cf8619ba739ef7518a3E69cec2A7d52"
+  },
+  "clankerInfo": null
+}

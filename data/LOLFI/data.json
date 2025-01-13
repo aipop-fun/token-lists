@@ -1,0 +1,22 @@
+{
+  "name": "LOLFI",
+  "symbol": "LOLFI",
+  "decimals": 18,
+  "description": "LOLFI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LOLFI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LOLFI",
+  "addresses": {
+    "8453": "0x2fe91371ebca2977ff1b4b256dc4cbd38300c4ef"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LOLFI",
+    "sanitizedSymbol": "LOLFI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe120ADFC210eccD020f553Ea4328B3fbf89C0e17",
+    "lpNftId": "1354967",
+    "lockerAddress": "0x2973c285Dc2E5D3BBdcCe838B7342b72AB920287"
+  },
+  "clankerInfo": null
+}

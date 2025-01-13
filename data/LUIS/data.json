@@ -1,0 +1,22 @@
+{
+  "name": "Luis",
+  "symbol": "Luis",
+  "decimals": 18,
+  "description": "Luis is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Luis",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Luis",
+  "addresses": {
+    "8453": "0x1fa1153252f7a70b1a779845121946f1ce28edee"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Luis",
+    "sanitizedSymbol": "LUIS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8a6Ca0f498Ee45b5Bcc2E60EAA68f92f93BeDfAF",
+    "lpNftId": "1335498",
+    "lockerAddress": "0x33522BF9FE793332204C357492280Bc93B879789"
+  },
+  "clankerInfo": null
+}

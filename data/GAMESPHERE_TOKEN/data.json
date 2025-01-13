@@ -1,0 +1,22 @@
+{
+  "name": "GameSphere Token",
+  "symbol": "GameSphere Token",
+  "decimals": 18,
+  "description": "GameSphere Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GameSphere%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GameSphere Token",
+  "addresses": {
+    "8453": "0x1be659ca20f411b4be205c3fc78ba11daa55022a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GameSphere Token",
+    "sanitizedSymbol": "GAMESPHERE_TOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd44a2d237c3B54E2fe7f3D362bdE024b3001ac37",
+    "lpNftId": "1310839",
+    "lockerAddress": "0x065D8727Bf8214Ab6F9c2ad26FC1bBB2E3F6933a"
+  },
+  "clankerInfo": null
+}

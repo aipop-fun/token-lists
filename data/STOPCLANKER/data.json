@@ -1,0 +1,22 @@
+{
+  "name": "stopclanker",
+  "symbol": "stopclanker",
+  "decimals": 18,
+  "description": "stopclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=stopclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "stopclanker",
+  "addresses": {
+    "8453": "0x190d34cc89054af977df9b89f1da64919e174e90"
+  },
+  "tokenInfo": {
+    "originalSymbol": "stopclanker",
+    "sanitizedSymbol": "STOPCLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1305975",
+    "lockerAddress": "0x7862dcB4ddE0E47015471e42623A79c9336a0120"
+  },
+  "clankerInfo": null
+}

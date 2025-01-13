@@ -1,0 +1,22 @@
+{
+  "name": "EcoFuture",
+  "symbol": "EcoFuture",
+  "decimals": 18,
+  "description": "EcoFuture is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EcoFuture",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EcoFuture",
+  "addresses": {
+    "8453": "0x02477354130685abd031166e62720fb2da4f1c0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EcoFuture",
+    "sanitizedSymbol": "ECOFUTURE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165481",
+    "lockerAddress": "0x46ef0dBDBAd1ec7365c68B290E0A38f227603FAd"
+  },
+  "clankerInfo": null
+}

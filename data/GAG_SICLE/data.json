@@ -1,0 +1,22 @@
+{
+  "name": "Gag-Sicle",
+  "symbol": "Gag-Sicle",
+  "decimals": 18,
+  "description": "Gag-Sicle is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gag-Sicle",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gag-Sicle",
+  "addresses": {
+    "8453": "0x1b2a1b694459e57a90cecb850c8393b70e4bceed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gag-Sicle",
+    "sanitizedSymbol": "GAG_SICLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199946",
+    "lockerAddress": "0xD496028619A3900d7486e53D3Ad36D2Eea58d1fe"
+  },
+  "clankerInfo": null
+}

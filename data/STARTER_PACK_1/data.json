@@ -1,0 +1,22 @@
+{
+  "name": "Starter pack",
+  "symbol": "Starter pack",
+  "decimals": 18,
+  "description": "Starter pack is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Starter%20pack",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Starter pack",
+  "addresses": {
+    "8453": "0x3124f5fe237dfbd9403b3210f48b813535000c6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Starter pack",
+    "sanitizedSymbol": "STARTER_PACK_1",
+    "created_at": "2024-12-09T03:26:14.213271",
+    "deployer": "0xFD4c6C370BFA54d6ccE1B6585a6cfD74BF06F4aC",
+    "lpNftId": "1379967",
+    "lockerAddress": "0xaB35322bc0DBbAe8DEfCa6040920d8A09c85De60"
+  },
+  "clankerInfo": null
+}

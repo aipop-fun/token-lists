@@ -1,0 +1,22 @@
+{
+  "name": "EZZ MONEY",
+  "symbol": "EZZ MONEY",
+  "decimals": 18,
+  "description": "EZZ MONEY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EZZ%20MONEY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EZZ MONEY",
+  "addresses": {
+    "8453": "0x385f55d3ef186f62f3e15cb7d78cc841e4d3184a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EZZ MONEY",
+    "sanitizedSymbol": "EZZ_MONEY",
+    "created_at": "2024-12-12T14:41:42.037886",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1436138",
+    "lockerAddress": "0xEc8Abafc9586f60FFb0E9a840E7F9cbDDe48cA8A"
+  },
+  "clankerInfo": null
+}

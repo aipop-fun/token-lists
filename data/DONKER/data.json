@@ -1,0 +1,22 @@
+{
+  "name": "donker",
+  "symbol": "donker",
+  "decimals": 18,
+  "description": "donker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=donker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "donker",
+  "addresses": {
+    "8453": "0x2ec8b404b7b657f3d2d2afc033c9aa1ccf7fcbed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "donker",
+    "sanitizedSymbol": "DONKER",
+    "created_at": "2024-12-12T05:19:37.409328",
+    "deployer": "0xe9d814201d675306F6ef8d5291BB1705E349083d",
+    "lpNftId": "1429356",
+    "lockerAddress": "0xA668fd5f673468fC45F357b06894d24a656299D1"
+  },
+  "clankerInfo": null
+}

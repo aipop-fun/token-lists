@@ -1,0 +1,22 @@
+{
+  "name": "FarBase",
+  "symbol": "FarBase",
+  "decimals": 18,
+  "description": "FarBase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FarBase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FarBase",
+  "addresses": {
+    "8453": "0x1fba190d516a418edbf114eabbbda7a75bdd7d29"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FarBase",
+    "sanitizedSymbol": "FARBASE",
+    "created_at": "2024-12-10T19:29:39.368397",
+    "deployer": "0x3B007A4cd8dF0aC8278b7796f501eB7b1252C340",
+    "lpNftId": "1406192",
+    "lockerAddress": "0x0c48DCFE1CcBD555235358985026129A1aF1edeD"
+  },
+  "clankerInfo": null
+}

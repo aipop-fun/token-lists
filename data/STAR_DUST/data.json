@@ -1,0 +1,22 @@
+{
+  "name": "Star Dust",
+  "symbol": "Star Dust",
+  "decimals": 18,
+  "description": "Star Dust is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Star%20Dust",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Star Dust",
+  "addresses": {
+    "8453": "0x3778309ad195dbc076b6eadc9b49c7fd09f92522"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Star Dust",
+    "sanitizedSymbol": "STAR_DUST",
+    "created_at": "2024-12-12T20:29:02.104082",
+    "deployer": "0x217107C6157b487fc55d99535141d9514c308F3b",
+    "lpNftId": "1442377",
+    "lockerAddress": "0xdF19A03c19aCdBA9821d199f17B3Aaac264cE5e8"
+  },
+  "clankerInfo": null
+}

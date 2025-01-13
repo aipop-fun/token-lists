@@ -1,0 +1,22 @@
+{
+  "name": "Deguin",
+  "symbol": "Deguin",
+  "decimals": 18,
+  "description": "Deguin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Deguin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Deguin",
+  "addresses": {
+    "8453": "0x0dd20dffa2fcedc3a16bca08998768d0afc229c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Deguin",
+    "sanitizedSymbol": "DEGUIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xEE0a4Eee549311E4dF6E374E0Cff3d84aA263e44",
+    "lpNftId": "1321390",
+    "lockerAddress": "0x57ee32484f8BD08E8fbcA24eD915Cf17567C181c"
+  },
+  "clankerInfo": null
+}

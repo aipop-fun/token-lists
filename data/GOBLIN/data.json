@@ -1,0 +1,22 @@
+{
+  "name": "Goblin",
+  "symbol": "Goblin",
+  "decimals": 18,
+  "description": "Goblin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Goblin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Goblin",
+  "addresses": {
+    "8453": "0x19d5fee1a51d61d6d480fcf5f6b9c3054e0f7dc6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Goblin",
+    "sanitizedSymbol": "GOBLIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa1f124B31238Bb1756f63f5599C14a919995f0a6",
+    "lpNftId": "1310959",
+    "lockerAddress": "0xC02f660BB829407B7cEf2045A5533C8B2b3c9106"
+  },
+  "clankerInfo": null
+}

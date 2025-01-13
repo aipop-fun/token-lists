@@ -1,0 +1,22 @@
+{
+  "name": "MartialPong",
+  "symbol": "MartialPong",
+  "decimals": 18,
+  "description": "MartialPong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MartialPong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MartialPong",
+  "addresses": {
+    "8453": "0x30a8c289b56d82029e552a649262cba1ca095632"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MartialPong",
+    "sanitizedSymbol": "MARTIALPONG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x35a9A4fEde2f889e3E2d8529722a233B7A6aFea6",
+    "lpNftId": "1321864",
+    "lockerAddress": "0x2bE2e885D7De9714995e809311978FC8E88E6b9f"
+  },
+  "clankerInfo": null
+}

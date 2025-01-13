@@ -1,0 +1,22 @@
+{
+  "name": "Moloch on Mushrooms",
+  "symbol": "Moloch on Mushrooms",
+  "decimals": 18,
+  "description": "Moloch on Mushrooms is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Moloch%20on%20Mushrooms",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Moloch on Mushrooms",
+  "addresses": {
+    "8453": "0x2da7466db451d72afd2b51c3c844259c52967f16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Moloch on Mushrooms",
+    "sanitizedSymbol": "MOLOCH_ON_MUSHROOMS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1203227",
+    "lockerAddress": "0x797346dCe487fb7ad36839cC87159BA8306C4440"
+  },
+  "clankerInfo": null
+}

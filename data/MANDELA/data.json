@@ -1,0 +1,22 @@
+{
+  "name": "Mandela",
+  "symbol": "Mandela",
+  "decimals": 18,
+  "description": "Mandela is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mandela",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mandela",
+  "addresses": {
+    "8453": "0x1fe36ff68111281986ec6ad4992053fa90a23e5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mandela",
+    "sanitizedSymbol": "MANDELA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152472",
+    "lockerAddress": "0x21E74855Ff6A5b61163db4C2D3a06fB3Cc852D2d"
+  },
+  "clankerInfo": null
+}

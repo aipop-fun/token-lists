@@ -1,0 +1,22 @@
+{
+  "name": "Kaguya",
+  "symbol": "Kaguya",
+  "decimals": 18,
+  "description": "Kaguya is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kaguya",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kaguya",
+  "addresses": {
+    "8453": "0x1556c92cfea5316889aa8cd3cc970d213acb2d93"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kaguya",
+    "sanitizedSymbol": "KAGUYA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164161",
+    "lockerAddress": "0x30F5499f18f8C60a4Ffa324b0a9D7BC25dfc88Ee"
+  },
+  "clankerInfo": null
+}

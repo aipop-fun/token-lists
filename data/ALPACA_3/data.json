@@ -1,0 +1,22 @@
+{
+  "name": "Alpaca",
+  "symbol": "Alpaca",
+  "decimals": 18,
+  "description": "Alpaca is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alpaca",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alpaca",
+  "addresses": {
+    "8453": "0x2deb818fdc06e0393074a0a4caf296ab5ca3765c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alpaca",
+    "sanitizedSymbol": "ALPACA_3",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xE7f740C1749e153eA6293a5217991C7011928B3E",
+    "lpNftId": "1253199",
+    "lockerAddress": "0x30c83f6838cA692b3d108026B6e5A6EDAf01fCA1"
+  },
+  "clankerInfo": null
+}

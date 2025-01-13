@@ -1,0 +1,22 @@
+{
+  "name": "pumpfunover",
+  "symbol": "pumpfunover",
+  "decimals": 18,
+  "description": "pumpfunover is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pumpfunover",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pumpfunover",
+  "addresses": {
+    "8453": "0x3c8645b71196636297b4201329def64bbb35aa70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pumpfunover",
+    "sanitizedSymbol": "PUMPFUNOVER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223840",
+    "lockerAddress": "0x86bdfc52545063d42fbf552Fc89a35b32F0eC76c"
+  },
+  "clankerInfo": null
+}

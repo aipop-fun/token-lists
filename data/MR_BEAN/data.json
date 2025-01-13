@@ -1,0 +1,22 @@
+{
+  "name": "Mr.Bean",
+  "symbol": "Mr.Bean",
+  "decimals": 18,
+  "description": "Mr.Bean is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.Bean",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr.Bean",
+  "addresses": {
+    "8453": "0x29eb211b3546ab41b5b91b924704a4c52706c625"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr.Bean",
+    "sanitizedSymbol": "MR_BEAN",
+    "created_at": "2024-12-09T14:46:42.088775",
+    "deployer": "0xfF53B6d8912ec0b0E424c02D32C7AcC09fe58619",
+    "lpNftId": "1388134",
+    "lockerAddress": "0x0fD0aFC24BB3046599707E1cB5A1D0A695c83b32"
+  },
+  "clankerInfo": null
+}

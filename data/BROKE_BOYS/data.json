@@ -1,0 +1,22 @@
+{
+  "name": "Broke Boys",
+  "symbol": "Broke Boys",
+  "decimals": 18,
+  "description": "Broke Boys is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Broke%20Boys",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Broke Boys",
+  "addresses": {
+    "8453": "0x3ea0de77cfb0c84e4bd94406082cde3a9491741e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Broke Boys",
+    "sanitizedSymbol": "BROKE_BOYS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223727",
+    "lockerAddress": "0x638724b8F4a0eD68055B9AB335aF712f509204D9"
+  },
+  "clankerInfo": null
+}

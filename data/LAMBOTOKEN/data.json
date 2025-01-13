@@ -1,0 +1,22 @@
+{
+  "name": "LamboToken",
+  "symbol": "LamboToken",
+  "decimals": 18,
+  "description": "LamboToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LamboToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LamboToken",
+  "addresses": {
+    "8453": "0x3886ffd72e65b4524e3f11ea94ef5fa6a0716719"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LamboToken",
+    "sanitizedSymbol": "LAMBOTOKEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x779C9a1C80cCb9b2A00071b7aFD2b9fdb49937B2",
+    "lpNftId": "1286809",
+    "lockerAddress": "0x516E4bdF5aBC860643af08fa59A76D9f5dd1B045"
+  },
+  "clankerInfo": null
+}

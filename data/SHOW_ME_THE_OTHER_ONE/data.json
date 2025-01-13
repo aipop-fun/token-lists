@@ -1,0 +1,22 @@
+{
+  "name": "show me the other one!",
+  "symbol": "show me the other one!",
+  "decimals": 18,
+  "description": "show me the other one! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=show%20me%20the%20other%20one!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "show me the other one!",
+  "addresses": {
+    "8453": "0x3012a911a6c628db36606098efa23cc7e4032753"
+  },
+  "tokenInfo": {
+    "originalSymbol": "show me the other one!",
+    "sanitizedSymbol": "SHOW_ME_THE_OTHER_ONE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90Fa9b6cDe840A219d2E6517122F3E908F794876",
+    "lpNftId": "1326085",
+    "lockerAddress": "0x98A6D839E4F5f585173C25aaD35Fe961C5244399"
+  },
+  "clankerInfo": null
+}

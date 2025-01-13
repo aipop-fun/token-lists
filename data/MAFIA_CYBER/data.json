@@ -1,0 +1,22 @@
+{
+  "name": "MAFIA CYBER",
+  "symbol": "MAFIA CYBER",
+  "decimals": 18,
+  "description": "MAFIA CYBER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MAFIA%20CYBER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MAFIA CYBER",
+  "addresses": {
+    "8453": "0x29d8109989e2ef3d2b46ec6e6cb27219116f4eff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MAFIA CYBER",
+    "sanitizedSymbol": "MAFIA_CYBER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc4A2EcC0faa4d812161b5c19E6145825f99b9079",
+    "lpNftId": "1330325",
+    "lockerAddress": "0x7570Cfab104D296B847f2d6042AF45E2dCdB18ff"
+  },
+  "clankerInfo": null
+}

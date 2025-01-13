@@ -1,0 +1,22 @@
+{
+  "name": "PushUp",
+  "symbol": "PushUp",
+  "decimals": 18,
+  "description": "PushUp is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PushUp",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PushUp",
+  "addresses": {
+    "8453": "0x011cc090974ffc3f24633ecbf19602c7f24a6a37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PushUp",
+    "sanitizedSymbol": "PUSHUP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1151218",
+    "lockerAddress": "0x02DEB3849d9Ff87DB79a731c88117E1cEDe23e9A"
+  },
+  "clankerInfo": null
+}

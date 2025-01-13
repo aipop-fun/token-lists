@@ -1,0 +1,22 @@
+{
+  "name": "CHAMBER",
+  "symbol": "CHAMBER",
+  "decimals": 18,
+  "description": "CHAMBER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAMBER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAMBER",
+  "addresses": {
+    "8453": "0x0a7ff7a1e29a0466d32d5d728db546852d47c617"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAMBER",
+    "sanitizedSymbol": "CHAMBER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x007678a2Fb7EE0E04a6B1ae37ff7fd6CFb22046A",
+    "lpNftId": "1326285",
+    "lockerAddress": "0x0E3054122BFEf5a38F6DE25720868b868A4024B6"
+  },
+  "clankerInfo": null
+}

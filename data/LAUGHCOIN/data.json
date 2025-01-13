@@ -1,0 +1,22 @@
+{
+  "name": "LAUGHCOIN",
+  "symbol": "LAUGHCOIN",
+  "decimals": 18,
+  "description": "LAUGHCOIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAUGHCOIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAUGHCOIN",
+  "addresses": {
+    "8453": "0x3c2479f70fafaa9b5157697efadc2038a0933c0a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAUGHCOIN",
+    "sanitizedSymbol": "LAUGHCOIN",
+    "created_at": "2024-12-10T23:21:51.125564",
+    "deployer": "0x3E9C4F2Dcaa79381b723e7FFd38457778A133fE6",
+    "lpNftId": "1408321",
+    "lockerAddress": "0x7417F77D9710D5C7FA0b9BC1573249538f35d825"
+  },
+  "clankerInfo": null
+}

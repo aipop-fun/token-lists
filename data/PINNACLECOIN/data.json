@@ -1,0 +1,22 @@
+{
+  "name": "PinnacleCoin",
+  "symbol": "PinnacleCoin",
+  "decimals": 18,
+  "description": "PinnacleCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PinnacleCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PinnacleCoin",
+  "addresses": {
+    "8453": "0x0e8000700fd6d83a4da56eeeadbaacb110c4be8a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PinnacleCoin",
+    "sanitizedSymbol": "PINNACLECOIN",
+    "created_at": "2024-12-12T21:05:53.578739",
+    "deployer": "0xc999EFC754cFc2dCDBBB8d236265B26E4D70e1F7",
+    "lpNftId": "1443108",
+    "lockerAddress": "0x0f092cCDF79338357939770450F0F6da2e37F6B2"
+  },
+  "clankerInfo": null
+}

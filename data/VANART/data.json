@@ -1,0 +1,22 @@
+{
+  "name": "VANART",
+  "symbol": "VANART",
+  "decimals": 18,
+  "description": "VANART is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VANART",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VANART",
+  "addresses": {
+    "8453": "0x17fe2f8149e792586e1701576ae379b1964225b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VANART",
+    "sanitizedSymbol": "VANART",
+    "created_at": "2024-12-12T06:35:45.114043",
+    "deployer": "0x27Ee7aBd85D8286a0A13C3da5d223f0bFc2Bb556",
+    "lpNftId": "1429606",
+    "lockerAddress": "0x64dA463f7725D468088f1975Cbb1965F8982B894"
+  },
+  "clankerInfo": null
+}

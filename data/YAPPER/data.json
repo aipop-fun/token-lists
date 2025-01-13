@@ -1,0 +1,22 @@
+{
+  "name": "YAPPER",
+  "symbol": "YAPPER",
+  "decimals": 18,
+  "description": "YAPPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YAPPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YAPPER",
+  "addresses": {
+    "8453": "0x3e1d6342461e5e11cc120a907508702e11fac424"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YAPPER",
+    "sanitizedSymbol": "YAPPER",
+    "created_at": "2024-12-12T14:35:53.165637",
+    "deployer": "0x36de990133D36d7E3DF9a820aA3eDE5a2320De71",
+    "lpNftId": "1435980",
+    "lockerAddress": "0xbff814779E018ee535E5b98aD2461634EF4BA421"
+  },
+  "clankerInfo": null
+}

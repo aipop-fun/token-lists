@@ -1,0 +1,22 @@
+{
+  "name": "Groyper",
+  "symbol": "Groyper",
+  "decimals": 18,
+  "description": "Groyper is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Groyper",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Groyper",
+  "addresses": {
+    "8453": "0x08eba8c3b0955684476f74e01446a513bde00f9f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Groyper",
+    "sanitizedSymbol": "GROYPER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166891",
+    "lockerAddress": "0x1F3b3D46448bE0a74b2B8233c1e783f108C24176"
+  },
+  "clankerInfo": null
+}

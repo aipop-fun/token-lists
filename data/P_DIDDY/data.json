@@ -1,0 +1,22 @@
+{
+  "name": "P.Diddy",
+  "symbol": "P.Diddy",
+  "decimals": 18,
+  "description": "P.Diddy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=P.Diddy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "P.Diddy",
+  "addresses": {
+    "8453": "0x13913d7d08177e9ffe1280d2905fa354fc864744"
+  },
+  "tokenInfo": {
+    "originalSymbol": "P.Diddy",
+    "sanitizedSymbol": "P_DIDDY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7990841BF73A552fcDA5Db9D68446AC6a5aB1E7C",
+    "lpNftId": "1327992",
+    "lockerAddress": "0x01013374E859c53CD58c87c648f082190ddD7167"
+  },
+  "clankerInfo": null
+}

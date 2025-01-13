@@ -1,0 +1,22 @@
+{
+  "name": "segen",
+  "symbol": "segen",
+  "decimals": 18,
+  "description": "segen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=segen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "segen",
+  "addresses": {
+    "8453": "0x2e0df9a538bb0ce9193eae65ea5cf0b17faec264"
+  },
+  "tokenInfo": {
+    "originalSymbol": "segen",
+    "sanitizedSymbol": "SEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1DB877d1739464d1f44699Dd7b40E669dc428706",
+    "lpNftId": "1320760",
+    "lockerAddress": "0xcA4d9e893Db515450f1d17f85EA58f83c17D9cC8"
+  },
+  "clankerInfo": null
+}

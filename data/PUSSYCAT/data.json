@@ -1,0 +1,22 @@
+{
+  "name": "Pussycat",
+  "symbol": "Pussycat",
+  "decimals": 18,
+  "description": "Pussycat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pussycat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pussycat",
+  "addresses": {
+    "8453": "0x399991a12a1d4e7326497becdc834e6433218bb8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pussycat",
+    "sanitizedSymbol": "PUSSYCAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4A627A6f1fa80cf6C9891040456F4b4438F25471",
+    "lpNftId": "1311743",
+    "lockerAddress": "0xa3f76E316BA8aE814D56c98fd9CA2CE0e63BBD46"
+  },
+  "clankerInfo": null
+}

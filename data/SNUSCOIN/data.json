@@ -1,0 +1,22 @@
+{
+  "name": "SnusCoin",
+  "symbol": "SnusCoin",
+  "decimals": 18,
+  "description": "SnusCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SnusCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SnusCoin",
+  "addresses": {
+    "8453": "0x2937ceea537186354069268bb1a9967a9db16ab8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SnusCoin",
+    "sanitizedSymbol": "SNUSCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8069EEA3E3e125752425a954DCee502fe33e765B",
+    "lpNftId": "1285811",
+    "lockerAddress": "0x1cF20E5081305914da0f8a81696FFd301c614Ab5"
+  },
+  "clankerInfo": null
+}

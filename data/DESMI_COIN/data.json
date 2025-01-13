@@ -1,0 +1,22 @@
+{
+  "name": "desmi coin",
+  "symbol": "desmi coin",
+  "decimals": 18,
+  "description": "desmi coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=desmi%20coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "desmi coin",
+  "addresses": {
+    "8453": "0x2be670dc526309895162159a9ea134f9b88913c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "desmi coin",
+    "sanitizedSymbol": "DESMI_COIN",
+    "created_at": "2024-12-11T00:08:45.348415",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408692",
+    "lockerAddress": "0xDAA4C4A0eb2f6768A1F77B506a81c9cb8DE6eFC7"
+  },
+  "clankerInfo": null
+}

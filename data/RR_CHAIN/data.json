@@ -1,0 +1,22 @@
+{
+  "name": "RR CHAIN",
+  "symbol": "RR CHAIN",
+  "decimals": 18,
+  "description": "RR CHAIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RR%20CHAIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RR CHAIN",
+  "addresses": {
+    "8453": "0x09c0e553389a9555f8241b4e09b4b646fc215e6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RR CHAIN",
+    "sanitizedSymbol": "RR_CHAIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195343",
+    "lockerAddress": "0x88526FEBb01D88Cc7B0dd985971438B59CdD3782"
+  },
+  "clankerInfo": null
+}

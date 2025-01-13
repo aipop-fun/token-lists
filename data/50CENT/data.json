@@ -1,0 +1,22 @@
+{
+  "name": "50cent",
+  "symbol": "50cent",
+  "decimals": 18,
+  "description": "50cent is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=50cent",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "50cent",
+  "addresses": {
+    "8453": "0x3726aa724a3b0f084579a23e58e422aeb4b6a5a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "50cent",
+    "sanitizedSymbol": "50CENT",
+    "created_at": "2024-12-10T21:01:57.189482",
+    "deployer": "0xdb9C7cBd85D73583d16D6c98161CaD39aF397A88",
+    "lpNftId": "1407187",
+    "lockerAddress": "0x6E4dEf1869B670dc5E43B3C06e7eeAe525Fe5CeD"
+  },
+  "clankerInfo": null
+}

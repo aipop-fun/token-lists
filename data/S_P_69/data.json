@@ -1,0 +1,22 @@
+{
+  "name": "S&P 69",
+  "symbol": "S&P 69",
+  "decimals": 18,
+  "description": "S&P 69 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=S%26P%2069",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "S&P 69",
+  "addresses": {
+    "8453": "0x03654ca8c15a11fcc65ac4f86c99420a416265a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "S&P 69",
+    "sanitizedSymbol": "S_P_69",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119917",
+    "lockerAddress": "0xBA3acB604F8B2De256975484e9786a63eE49da12"
+  },
+  "clankerInfo": null
+}

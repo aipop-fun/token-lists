@@ -1,0 +1,22 @@
+{
+  "name": "JOKER",
+  "symbol": "JOKER",
+  "decimals": 18,
+  "description": "JOKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JOKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JOKER",
+  "addresses": {
+    "8453": "0x21fd353f4c3efdd9481e8ec679f17c9d211b29a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JOKER",
+    "sanitizedSymbol": "JOKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xFFdd1470d481AA7b7d1149A33c2A1e596fa62995",
+    "lpNftId": "1317175",
+    "lockerAddress": "0x317E3Fa69D7Ba14BEe35142bCa0ac16223f00723"
+  },
+  "clankerInfo": null
+}

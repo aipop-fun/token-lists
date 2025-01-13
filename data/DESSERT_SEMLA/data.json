@@ -1,0 +1,22 @@
+{
+  "name": "Dessert Semla",
+  "symbol": "Dessert Semla",
+  "decimals": 18,
+  "description": "Dessert Semla is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dessert%20Semla",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dessert Semla",
+  "addresses": {
+    "8453": "0x0b5d51aa6850c7d103c1cd049fade257655b9371"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dessert Semla",
+    "sanitizedSymbol": "DESSERT_SEMLA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x21C71369F5ed40aeC7827a6eD2b3627A38Fe4FeB",
+    "lpNftId": "1331615",
+    "lockerAddress": "0xA799F9D6699C0AE2f96f8AfaC141f2335eC25A66"
+  },
+  "clankerInfo": null
+}

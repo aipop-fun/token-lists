@@ -1,0 +1,22 @@
+{
+  "name": "camel on desert",
+  "symbol": "camel on desert",
+  "decimals": 18,
+  "description": "camel on desert is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=camel%20on%20desert",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "camel on desert",
+  "addresses": {
+    "8453": "0x30db2ad5528201a5c3fd1db515ff32537e7e4992"
+  },
+  "tokenInfo": {
+    "originalSymbol": "camel on desert",
+    "sanitizedSymbol": "CAMEL_ON_DESERT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x13F750Dd96148E98bD87d3c123d4a2A77102f8cb",
+    "lpNftId": "1337612",
+    "lockerAddress": "0xe123ea3ab9668293b9d2e3426FD5CEf88c8acb71"
+  },
+  "clankerInfo": null
+}

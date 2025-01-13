@@ -1,0 +1,22 @@
+{
+  "name": "TAI",
+  "symbol": "TAI",
+  "decimals": 18,
+  "description": "TAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TAI",
+  "addresses": {
+    "8453": "0x00c4d0cb0b94866c7d25928bd71c4b7ea8a109f8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TAI",
+    "sanitizedSymbol": "TAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x950B368c993FC5078BD4F78002325fB2bc5c2C3C",
+    "lpNftId": "1330755",
+    "lockerAddress": "0xB1fCdD6d33334E9609C3d44b946d66a77040fA75"
+  },
+  "clankerInfo": null
+}

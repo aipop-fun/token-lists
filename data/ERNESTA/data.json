@@ -1,0 +1,22 @@
+{
+  "name": "Ernesta",
+  "symbol": "Ernesta",
+  "decimals": 18,
+  "description": "Ernesta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ernesta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ernesta",
+  "addresses": {
+    "8453": "0x376f0572fe677c5854a2224ab7209956a3b36b7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ernesta",
+    "sanitizedSymbol": "ERNESTA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1128297",
+    "lockerAddress": "0x64AE490409E2F9D030D9b67Cc243883d2ad2e59e"
+  },
+  "clankerInfo": null
+}

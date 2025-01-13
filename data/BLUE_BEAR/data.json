@@ -1,0 +1,22 @@
+{
+  "name": "Blue Bear",
+  "symbol": "Blue Bear",
+  "decimals": 18,
+  "description": "Blue Bear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Bear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Bear",
+  "addresses": {
+    "8453": "0x21f0a3f0dbf1ab0599d6d82944f7ab9d05ed0b3a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Bear",
+    "sanitizedSymbol": "BLUE_BEAR",
+    "created_at": "2024-12-10T14:36:25.266782",
+    "deployer": "0xB0c1bA3A62FE87402620Aa9396642F2A4d3BCDF9",
+    "lpNftId": "1401814",
+    "lockerAddress": "0xa884955Fa93b81358d24b0372f1582b035b70777"
+  },
+  "clankerInfo": null
+}

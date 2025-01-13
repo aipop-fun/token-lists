@@ -1,0 +1,22 @@
+{
+  "name": "Mexico",
+  "symbol": "Mexico",
+  "decimals": 18,
+  "description": "Mexico is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mexico",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mexico",
+  "addresses": {
+    "8453": "0x3e426835f86f8a9e23e5caf12ab24eb7e231e52a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mexico",
+    "sanitizedSymbol": "MEXICO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1164136",
+    "lockerAddress": "0x4284AAcF485Fb43b21004053Af647622AD3B1564"
+  },
+  "clankerInfo": null
+}

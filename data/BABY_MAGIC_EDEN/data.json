@@ -1,0 +1,22 @@
+{
+  "name": "Baby Magic Eden",
+  "symbol": "Baby Magic Eden",
+  "decimals": 18,
+  "description": "Baby Magic Eden is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Magic%20Eden",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Magic Eden",
+  "addresses": {
+    "8453": "0x11478348acccbc78f5286f7123bf75ccbc5747e5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Magic Eden",
+    "sanitizedSymbol": "BABY_MAGIC_EDEN",
+    "created_at": "2024-12-11T04:02:44.90716",
+    "deployer": "0x3A1949f20304801e24eCcf30ce48556FC01E30A7",
+    "lpNftId": "1412075",
+    "lockerAddress": "0x40118F20409d4Aab55fEcBFE8f74C64f481097C9"
+  },
+  "clankerInfo": null
+}

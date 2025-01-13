@@ -1,0 +1,22 @@
+{
+  "name": "This is chill",
+  "symbol": "This is chill",
+  "decimals": 18,
+  "description": "This is chill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=This%20is%20chill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "This is chill",
+  "addresses": {
+    "8453": "0x18ccffd2c70cfc97ba3c4e4105f56ba950950e13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "This is chill",
+    "sanitizedSymbol": "THIS_IS_CHILL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF868cE3526e9c508e290eF61597E77401297cFE9",
+    "lpNftId": "1265493",
+    "lockerAddress": "0x3Df74F4a9069C106FAD84d129e515d7D21e122fe"
+  },
+  "clankerInfo": null
+}

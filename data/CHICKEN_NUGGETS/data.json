@@ -1,0 +1,22 @@
+{
+  "name": "Chicken Nuggets",
+  "symbol": "Chicken Nuggets",
+  "decimals": 18,
+  "description": "Chicken Nuggets is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chicken%20Nuggets",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chicken Nuggets",
+  "addresses": {
+    "8453": "0x012d089446c4098058727dc3cc1f9f1f73cc6b96"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chicken Nuggets",
+    "sanitizedSymbol": "CHICKEN_NUGGETS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1109535",
+    "lockerAddress": "0x6F342Ad1A2d31CF59f7e1143E23148a9D770ccaD"
+  },
+  "clankerInfo": null
+}

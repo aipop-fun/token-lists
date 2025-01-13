@@ -1,0 +1,22 @@
+{
+  "name": "Dark bat",
+  "symbol": "Dark bat",
+  "decimals": 18,
+  "description": "Dark bat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dark%20bat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dark bat",
+  "addresses": {
+    "8453": "0x2b972010feadbeda68fadaf526df65a9c059905d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dark bat",
+    "sanitizedSymbol": "DARK_BAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd7c1810c3CD2b05658c23Cf41Da7cAC12dCA4a40",
+    "lpNftId": "1289159",
+    "lockerAddress": "0x8C244BD6b9E724A3Df8096CBb33E8A299618cBa7"
+  },
+  "clankerInfo": null
+}

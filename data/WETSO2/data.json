@@ -1,0 +1,22 @@
+{
+  "name": "Wetso2",
+  "symbol": "Wetso2",
+  "decimals": 18,
+  "description": "Wetso2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wetso2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wetso2",
+  "addresses": {
+    "8453": "0x3efe920ccf37c7d9fd7412517d0dc55c7dcaad1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wetso2",
+    "sanitizedSymbol": "WETSO2",
+    "created_at": "2024-12-09T13:49:34.753369",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1387637",
+    "lockerAddress": "0xBAaFc8Bff4a2792A84756AB25c3dCFEf9A16cb8b"
+  },
+  "clankerInfo": null
+}

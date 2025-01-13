@@ -1,0 +1,22 @@
+{
+  "name": "babycatdude",
+  "symbol": "babycatdude",
+  "decimals": 18,
+  "description": "babycatdude is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=babycatdude",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "babycatdude",
+  "addresses": {
+    "8453": "0x1cdf056f6df4dd236ecc359e9ad20c65d26a77fc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "babycatdude",
+    "sanitizedSymbol": "BABYCATDUDE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA4b76992D155c694F74c3dae92A0e4F620e214B2",
+    "lpNftId": "1309562",
+    "lockerAddress": "0x8c7312eB9837D9AA4365A6CD10420Eb9c69f6385"
+  },
+  "clankerInfo": null
+}

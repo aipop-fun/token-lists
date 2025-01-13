@@ -1,0 +1,22 @@
+{
+  "name": "HippyDoggie",
+  "symbol": "HippyDoggie",
+  "decimals": 18,
+  "description": "HippyDoggie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HippyDoggie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HippyDoggie",
+  "addresses": {
+    "8453": "0x2fcef2945e27bfb21434f3774ba1dfc880c156c4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HippyDoggie",
+    "sanitizedSymbol": "HIPPYDOGGIE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1340912",
+    "lockerAddress": "0x35bCb7453Fb103b07913b7c0F44FE93e223990c9"
+  },
+  "clankerInfo": null
+}

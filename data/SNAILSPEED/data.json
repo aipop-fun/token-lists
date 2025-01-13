@@ -1,0 +1,22 @@
+{
+  "name": "SnailSpeed",
+  "symbol": "SnailSpeed",
+  "decimals": 18,
+  "description": "SnailSpeed is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SnailSpeed",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SnailSpeed",
+  "addresses": {
+    "8453": "0x3a1be7895d5ee7b63bf2cbb4f5e3039c4a04a8cb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SnailSpeed",
+    "sanitizedSymbol": "SNAILSPEED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173314",
+    "lockerAddress": "0x072810529bBA011027BA360219a024BFF3FC0191"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "unpossible",
+  "symbol": "unpossible",
+  "decimals": 18,
+  "description": "unpossible is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=unpossible",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "unpossible",
+  "addresses": {
+    "8453": "0x21eeb969aacca131612fc2fb2bf035f1c582e472"
+  },
+  "tokenInfo": {
+    "originalSymbol": "unpossible",
+    "sanitizedSymbol": "UNPOSSIBLE",
+    "created_at": "2024-12-11T14:27:59.154359",
+    "deployer": "0x34E7e05197a7Df84e2F5Bf54Da9425f800843AC9",
+    "lpNftId": "1420151",
+    "lockerAddress": "0x80675a649177ce7eCb50dcfD34b91b4f930F7411"
+  },
+  "clankerInfo": null
+}

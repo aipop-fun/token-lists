@@ -1,0 +1,22 @@
+{
+  "name": "Gorillaz Ape",
+  "symbol": "Gorillaz Ape",
+  "decimals": 18,
+  "description": "Gorillaz Ape is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Gorillaz%20Ape",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Gorillaz Ape",
+  "addresses": {
+    "8453": "0x0cbd07cf3accd486d9b516162e2cb05cba2cebbf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Gorillaz Ape",
+    "sanitizedSymbol": "GORILLAZ_APE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xc8B1f728778812Ca5F7FB5595367b338a6a4D80e",
+    "lpNftId": "1326420",
+    "lockerAddress": "0xb29707507fdfEd726Ba1CfbF0d2c35189e216FeF"
+  },
+  "clankerInfo": null
+}

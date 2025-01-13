@@ -1,0 +1,22 @@
+{
+  "name": "Showgirl",
+  "symbol": "Showgirl",
+  "decimals": 18,
+  "description": "Showgirl is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Showgirl",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Showgirl",
+  "addresses": {
+    "8453": "0x23b7a1e4b85a9921da049ecefdf7bc01f4d1b7cc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Showgirl",
+    "sanitizedSymbol": "SHOWGIRL",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2735D0A6e6AFF9eEdC40a9Dc859907dC36a97086",
+    "lpNftId": "1323908",
+    "lockerAddress": "0x311e8C31Ef71F956C200a5B694819233C548FAdF"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MeezerBoi",
+  "symbol": "MeezerBoi",
+  "decimals": 18,
+  "description": "MeezerBoi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MeezerBoi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MeezerBoi",
+  "addresses": {
+    "8453": "0x0bae06d0978108ea07f4f988456b7494d9f6c4b2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MeezerBoi",
+    "sanitizedSymbol": "MEEZERBOI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158709",
+    "lockerAddress": "0xc2CdAcEA08CF19AA3bfa9e57F7298ffF9012AE50"
+  },
+  "clankerInfo": null
+}

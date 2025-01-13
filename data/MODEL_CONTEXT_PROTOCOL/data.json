@@ -1,0 +1,22 @@
+{
+  "name": "model context protocol",
+  "symbol": "model context protocol",
+  "decimals": 18,
+  "description": "model context protocol is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=model%20context%20protocol",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "model context protocol",
+  "addresses": {
+    "8453": "0x0ea039f9de8a250be2b34a3110f64dbec0bcbd6b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "model context protocol",
+    "sanitizedSymbol": "MODEL_CONTEXT_PROTOCOL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231193",
+    "lockerAddress": "0x0cdE4C2F55293EbBa95f83420Ff43c5aCDa4E462"
+  },
+  "clankerInfo": null
+}

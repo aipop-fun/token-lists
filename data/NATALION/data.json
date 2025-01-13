@@ -1,0 +1,22 @@
+{
+  "name": "NATALION",
+  "symbol": "NATALION",
+  "decimals": 18,
+  "description": "NATALION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NATALION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NATALION",
+  "addresses": {
+    "8453": "0x2baf36fa2322790fe814e49c7d68fdea346ddb43"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NATALION",
+    "sanitizedSymbol": "NATALION",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9481fCc182851E380e306287d566B2589a36EC6C",
+    "lpNftId": "1308675",
+    "lockerAddress": "0x6a20E7c676A95697704C1F2e2280C0b9730Adec5"
+  },
+  "clankerInfo": null
+}

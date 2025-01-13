@@ -1,0 +1,22 @@
+{
+  "name": "revenge cat",
+  "symbol": "revenge cat",
+  "decimals": 18,
+  "description": "revenge cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=revenge%20cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "revenge cat",
+  "addresses": {
+    "8453": "0x13fec883ac88d61ba304bc44d98656f35b9ad03f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "revenge cat",
+    "sanitizedSymbol": "REVENGE_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1317804",
+    "lockerAddress": "0xfA38D1d3604Eeaaf791890D820a9A62dF8CfAcDC"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "MajesticToken",
+  "symbol": "MajesticToken",
+  "decimals": 18,
+  "description": "MajesticToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MajesticToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MajesticToken",
+  "addresses": {
+    "8453": "0x1b788d59fa9dd9faaad473d6dc44a8afa2cca8a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MajesticToken",
+    "sanitizedSymbol": "MAJESTICTOKEN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128921",
+    "lockerAddress": "0xbF3ec77780590129301c93952949aFcBBBbD02FC"
+  },
+  "clankerInfo": null
+}

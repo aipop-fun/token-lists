@@ -1,0 +1,22 @@
+{
+  "name": "Wallet Connect",
+  "symbol": "Wallet Connect",
+  "decimals": 18,
+  "description": "Wallet Connect is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wallet%20Connect",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wallet Connect",
+  "addresses": {
+    "8453": "0x3daf9df3cd37985da34eaf8f66d891ed3e285715"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wallet Connect",
+    "sanitizedSymbol": "WALLET_CONNECT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229436",
+    "lockerAddress": "0xeEc578312457857807aDAf1A5019458AF6c736cB"
+  },
+  "clankerInfo": null
+}

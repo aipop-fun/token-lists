@@ -1,0 +1,22 @@
+{
+  "name": "BONKE",
+  "symbol": "BONKE",
+  "decimals": 18,
+  "description": "BONKE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BONKE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BONKE",
+  "addresses": {
+    "8453": "0x042dede261f21dde01b425efcef2d768ce8a609c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BONKE",
+    "sanitizedSymbol": "BONKE_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xc7a5248E47dC138a95d695b08D02B50FcC750107",
+    "lpNftId": "1265923",
+    "lockerAddress": "0x38AF12DcA3A20e41Ee8F8F0ABda72a48D8C05a2E"
+  },
+  "clankerInfo": null
+}

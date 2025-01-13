@@ -1,0 +1,22 @@
+{
+  "name": "CREATE",
+  "symbol": "CREATE",
+  "decimals": 18,
+  "description": "CREATE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CREATE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CREATE",
+  "addresses": {
+    "8453": "0x2f4d704e4ea52d1cdc3cce9ffdedb7f8392c7139"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CREATE",
+    "sanitizedSymbol": "CREATE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x465D23C8C88cb0Efb204fb2a06c101685819eCAD",
+    "lpNftId": "1369806",
+    "lockerAddress": "0xdA4dd0F44EaA8381f8d5543D8f12E1DFEddAA174"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "cumeme",
+  "symbol": "cumeme",
+  "decimals": 18,
+  "description": "cumeme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cumeme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cumeme",
+  "addresses": {
+    "8453": "0x3833f6ae17641b5fe0e8bfdb980f2e1a0dc5ff84"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cumeme",
+    "sanitizedSymbol": "CUMEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158481",
+    "lockerAddress": "0x02765fc937852C4Ec022Be609916eDCBF7779d5d"
+  },
+  "clankerInfo": null
+}

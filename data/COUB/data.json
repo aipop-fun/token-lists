@@ -1,0 +1,22 @@
+{
+  "name": "Coub",
+  "symbol": "Coub",
+  "decimals": 18,
+  "description": "Coub is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Coub",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Coub",
+  "addresses": {
+    "8453": "0x1d7b021b62cb238a51eade5d79956237a8fe022b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Coub",
+    "sanitizedSymbol": "COUB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234066",
+    "lockerAddress": "0xF8e414211Fa1245e73Efe78666b00F45ec8C91E8"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "INVINOVERITAS",
+  "symbol": "INVINOVERITAS",
+  "decimals": 18,
+  "description": "INVINOVERITAS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=INVINOVERITAS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "INVINOVERITAS",
+  "addresses": {
+    "8453": "0x22e944eea37c9951b4163881e5b9ffeac35a9469"
+  },
+  "tokenInfo": {
+    "originalSymbol": "INVINOVERITAS",
+    "sanitizedSymbol": "INVINOVERITAS_1",
+    "created_at": "2024-12-11T10:27:17.070046",
+    "deployer": "0xCb4328Df3a5A6522BF41fD4Ab1E720CffC2a1F76",
+    "lpNftId": "1416342",
+    "lockerAddress": "0xd9ce5FfD89a32EdD483549A52d5eED6c329B13d5"
+  },
+  "clankerInfo": null
+}

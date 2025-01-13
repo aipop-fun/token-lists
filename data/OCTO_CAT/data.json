@@ -1,0 +1,22 @@
+{
+  "name": "Octo Cat",
+  "symbol": "Octo Cat",
+  "decimals": 18,
+  "description": "Octo Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Octo%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Octo Cat",
+  "addresses": {
+    "8453": "0x02e0cfa1a4e6e915b8941a538abd6f03a1c50a28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Octo Cat",
+    "sanitizedSymbol": "OCTO_CAT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1195540",
+    "lockerAddress": "0xA8740363E7657e150AEE1DcE5732B0574C523E62"
+  },
+  "clankerInfo": null
+}

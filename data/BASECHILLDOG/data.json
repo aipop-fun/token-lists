@@ -1,0 +1,22 @@
+{
+  "name": "BASECHILLDOG",
+  "symbol": "BASECHILLDOG",
+  "decimals": 18,
+  "description": "BASECHILLDOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASECHILLDOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASECHILLDOG",
+  "addresses": {
+    "8453": "0x152fed9ebd392376c05cc6701aa9d01b5f4ddba6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASECHILLDOG",
+    "sanitizedSymbol": "BASECHILLDOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235097",
+    "lockerAddress": "0x65f89ee3B78e48d1C3b9B331a1446d71Ad175e25"
+  },
+  "clankerInfo": null
+}

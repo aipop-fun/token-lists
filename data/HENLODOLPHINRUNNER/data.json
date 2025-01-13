@@ -1,0 +1,22 @@
+{
+  "name": "HenloDolphinRunner",
+  "symbol": "HenloDolphinRunner",
+  "decimals": 18,
+  "description": "HenloDolphinRunner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HenloDolphinRunner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HenloDolphinRunner",
+  "addresses": {
+    "8453": "0x2a1e63c185b601beeb5458793b43374b62c71e2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HenloDolphinRunner",
+    "sanitizedSymbol": "HENLODOLPHINRUNNER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229407",
+    "lockerAddress": "0xf5A150909b592286404e29Cf82c0acAB951CdA6c"
+  },
+  "clankerInfo": null
+}

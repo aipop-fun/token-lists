@@ -1,0 +1,22 @@
+{
+  "name": "Weedy Guy",
+  "symbol": "Weedy Guy",
+  "decimals": 18,
+  "description": "Weedy Guy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weedy%20Guy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weedy Guy",
+  "addresses": {
+    "8453": "0x0b1fdb0c1968f8004e2694147f4f97f3e448fc35"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weedy Guy",
+    "sanitizedSymbol": "WEEDY_GUY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x90D1D211C8D3a94698B8d1B4fa4019AdD4d81543",
+    "lpNftId": "1289694",
+    "lockerAddress": "0xf00c5Aa5a42fB7Bd9C3E9CDa4b20721d8F490452"
+  },
+  "clankerInfo": null
+}

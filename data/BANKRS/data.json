@@ -1,0 +1,22 @@
+{
+  "name": "BanKRs",
+  "symbol": "BanKRs",
+  "decimals": 18,
+  "description": "BanKRs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BanKRs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BanKRs",
+  "addresses": {
+    "8453": "0x226121d3c262b9581842b131f8ad7fca7b95f06c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BanKRs",
+    "sanitizedSymbol": "BANKRS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x7a03d1264508D402E78aaaDf02732cb999513A1e",
+    "lpNftId": "1318358",
+    "lockerAddress": "0xd763aA59982382B6b1D12fe1A9Ec5a8B50CD8986"
+  },
+  "clankerInfo": null
+}

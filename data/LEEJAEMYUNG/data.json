@@ -1,0 +1,22 @@
+{
+  "name": "LeeJaemyung",
+  "symbol": "LeeJaemyung",
+  "decimals": 18,
+  "description": "LeeJaemyung is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LeeJaemyung",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LeeJaemyung",
+  "addresses": {
+    "8453": "0x0b55b6948fd3613b68341243e5f7cb9a53838707"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LeeJaemyung",
+    "sanitizedSymbol": "LEEJAEMYUNG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3De20c2e37cB4B6A0fB502220a2d88B851824361",
+    "lpNftId": "1320236",
+    "lockerAddress": "0x07B0D256AFb1A5B28bF30734cB820d25B47c998E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Joint Exchange",
+  "symbol": "Joint Exchange",
+  "decimals": 18,
+  "description": "Joint Exchange is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Joint%20Exchange",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Joint Exchange",
+  "addresses": {
+    "8453": "0x3486c41fcf698ca169ac57c5e66355780fa67b2e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Joint Exchange",
+    "sanitizedSymbol": "JOINT_EXCHANGE",
+    "created_at": "2024-12-12T14:27:52.289972",
+    "deployer": "0xB3580458B303D12467CA0f79818801aa5780A2A3",
+    "lpNftId": "1435833",
+    "lockerAddress": "0xa472368F2BFd46B25C0B607Fd677d8832f1dFa18"
+  },
+  "clankerInfo": null
+}

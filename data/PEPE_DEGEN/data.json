@@ -1,0 +1,22 @@
+{
+  "name": "Pepe Degen",
+  "symbol": "Pepe Degen",
+  "decimals": 18,
+  "description": "Pepe Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pepe%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pepe Degen",
+  "addresses": {
+    "8453": "0x0483d245f54263c82e08150de841cda9e21ae634"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pepe Degen",
+    "sanitizedSymbol": "PEPE_DEGEN",
+    "created_at": "2024-12-11T14:26:06.247365",
+    "deployer": "0x0511115527ABd9458E09374c9496c9e7407753c1",
+    "lpNftId": "1420141",
+    "lockerAddress": "0x759517Be9AC2032Ec880c0720B2362e511b4d36f"
+  },
+  "clankerInfo": null
+}

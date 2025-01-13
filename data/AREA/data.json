@@ -1,0 +1,22 @@
+{
+  "name": "Area",
+  "symbol": "Area",
+  "decimals": 18,
+  "description": "Area is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Area",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Area",
+  "addresses": {
+    "8453": "0x15130ae3f159134bb7ba2d0f17e55dcc155aec76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Area",
+    "sanitizedSymbol": "AREA",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2117bf88b4Cb0186eaA87500A045fc998290E42a",
+    "lpNftId": "1285715",
+    "lockerAddress": "0x11c47992Bb2a08C964D7b7E808443E4E9e2477b8"
+  },
+  "clankerInfo": null
+}

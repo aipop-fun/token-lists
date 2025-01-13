@@ -1,0 +1,22 @@
+{
+  "name": "Elon Mars",
+  "symbol": "Elon Mars",
+  "decimals": 18,
+  "description": "Elon Mars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Elon%20Mars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Elon Mars",
+  "addresses": {
+    "8453": "0x10b607e4b6d785e643906f79069cb377d4699f44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Elon Mars",
+    "sanitizedSymbol": "ELON_MARS_1",
+    "created_at": "2024-12-10T19:35:40.010121",
+    "deployer": "0x7f8820e5593ae5B67B46053D1c58A0Ed47cEb5e6",
+    "lpNftId": "1406260",
+    "lockerAddress": "0xd58B3223F79B1085A10003930b78BdB8CA9DEee6"
+  },
+  "clankerInfo": null
+}

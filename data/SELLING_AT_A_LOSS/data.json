@@ -1,0 +1,22 @@
+{
+  "name": "Selling at a loss",
+  "symbol": "Selling at a loss",
+  "decimals": 18,
+  "description": "Selling at a loss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Selling%20at%20a%20loss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Selling at a loss",
+  "addresses": {
+    "8453": "0x120f49a4d567371664186361f11d793d95911b76"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Selling at a loss",
+    "sanitizedSymbol": "SELLING_AT_A_LOSS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165327",
+    "lockerAddress": "0xC5851699463e59394c96aaD62a326Dd5b88fAdFe"
+  },
+  "clankerInfo": null
+}

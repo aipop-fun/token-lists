@@ -1,0 +1,22 @@
+{
+  "name": "Yeet",
+  "symbol": "Yeet",
+  "decimals": 18,
+  "description": "Yeet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yeet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yeet",
+  "addresses": {
+    "8453": "0x05d50f879151669575c8068cdf63b5fb5ab5a580"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yeet",
+    "sanitizedSymbol": "YEET",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1199787",
+    "lockerAddress": "0xF3ECa007647D4C0100358f9EC4D6AF28E3EcDF15"
+  },
+  "clankerInfo": null
+}

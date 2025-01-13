@@ -1,0 +1,22 @@
+{
+  "name": "Santa to the Moon",
+  "symbol": "Santa to the Moon",
+  "decimals": 18,
+  "description": "Santa to the Moon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santa%20to%20the%20Moon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santa to the Moon",
+  "addresses": {
+    "8453": "0x107a97b7f74ea05d162d77b196800500181c7d02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santa to the Moon",
+    "sanitizedSymbol": "SANTA_TO_THE_MOON",
+    "created_at": "2024-12-10T08:32:35.603905",
+    "deployer": "0xd519D6eF16aD26b16Fd9485aF53BE503596cf2Ef",
+    "lpNftId": "1398833",
+    "lockerAddress": "0x7A1ec5F38a1e356470F56A767a6ccA4038143991"
+  },
+  "clankerInfo": null
+}

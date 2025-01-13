@@ -1,0 +1,22 @@
+{
+  "name": "Scruffy Toothbrush",
+  "symbol": "Scruffy Toothbrush",
+  "decimals": 18,
+  "description": "Scruffy Toothbrush is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Scruffy%20Toothbrush",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Scruffy Toothbrush",
+  "addresses": {
+    "8453": "0x152f7918a71177751a36517089834b61c758e159"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Scruffy Toothbrush",
+    "sanitizedSymbol": "SCRUFFY_TOOTHBRUSH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1352078",
+    "lockerAddress": "0x4a2720b17044381611b3807D012C5D7Cd0bf2131"
+  },
+  "clankerInfo": null
+}

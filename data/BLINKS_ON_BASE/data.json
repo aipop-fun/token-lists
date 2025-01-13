@@ -1,0 +1,22 @@
+{
+  "name": "Blinks on Base",
+  "symbol": "Blinks on Base",
+  "decimals": 18,
+  "description": "Blinks on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blinks%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blinks on Base",
+  "addresses": {
+    "8453": "0x20e362460300c8480a1d91d020c2e1162daf002c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blinks on Base",
+    "sanitizedSymbol": "BLINKS_ON_BASE",
+    "created_at": "2024-12-12T09:28:54.040042",
+    "deployer": "0x4632250984CC7D28b75e2AF54cE7eD4A36587dD9",
+    "lpNftId": "1431293",
+    "lockerAddress": "0x7e055cD8A97E539E41a6CD2872229538F06F109E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BORTcoin",
+  "symbol": "BORTcoin",
+  "decimals": 18,
+  "description": "BORTcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BORTcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BORTcoin",
+  "addresses": {
+    "8453": "0x360e9f607bbcf77d5650213f9fba372b2d5583aa"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BORTcoin",
+    "sanitizedSymbol": "BORTCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0de290F9717764641B9694C246338A477Cff9543",
+    "lpNftId": "1329383",
+    "lockerAddress": "0x12Df72Bc9bAf3E4330009bd7cea491EE0D05A310"
+  },
+  "clankerInfo": null
+}

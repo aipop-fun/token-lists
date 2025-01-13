@@ -1,0 +1,22 @@
+{
+  "name": "coach",
+  "symbol": "coach",
+  "decimals": 18,
+  "description": "coach is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=coach",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "coach",
+  "addresses": {
+    "8453": "0x20e82fdcdeb13afd153e3414eeaa7e5619f30bb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "coach",
+    "sanitizedSymbol": "COACH",
+    "created_at": "2024-12-12T05:20:41.117858",
+    "deployer": "0x8b15229a2bb3dc037359A5dAdb938a1F7eF4882e",
+    "lpNftId": "1429361",
+    "lockerAddress": "0x6741eAF943426a92653510CbD138b7ae6B6a2c93"
+  },
+  "clankerInfo": null
+}

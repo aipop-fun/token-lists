@@ -1,0 +1,22 @@
+{
+  "name": "Zynthium",
+  "symbol": "Zynthium",
+  "decimals": 18,
+  "description": "Zynthium is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zynthium",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zynthium",
+  "addresses": {
+    "8453": "0x10db68ac35b3bdb79adbaace5493c8a9c1bc830b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zynthium",
+    "sanitizedSymbol": "ZYNTHIUM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132866",
+    "lockerAddress": "0xeF1b57912C80b2c4bC67869B487b7702a3024Ace"
+  },
+  "clankerInfo": null
+}

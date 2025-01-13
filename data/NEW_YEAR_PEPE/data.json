@@ -1,0 +1,22 @@
+{
+  "name": "New Year Pepe",
+  "symbol": "New Year Pepe",
+  "decimals": 18,
+  "description": "New Year Pepe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=New%20Year%20Pepe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "New Year Pepe",
+  "addresses": {
+    "8453": "0x35ca6e3742b49064db094ec832386919ab2b0d86"
+  },
+  "tokenInfo": {
+    "originalSymbol": "New Year Pepe",
+    "sanitizedSymbol": "NEW_YEAR_PEPE",
+    "created_at": "2024-12-09T10:56:32.58035",
+    "deployer": "0xe120ADFC210eccD020f553Ea4328B3fbf89C0e17",
+    "lpNftId": "1386149",
+    "lockerAddress": "0xBc77981262f1787AA3EB1bD6c818f62D53689aD4"
+  },
+  "clankerInfo": null
+}

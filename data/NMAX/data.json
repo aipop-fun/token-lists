@@ -1,0 +1,22 @@
+{
+  "name": "NMAX",
+  "symbol": "NMAX",
+  "decimals": 18,
+  "description": "NMAX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=NMAX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "NMAX",
+  "addresses": {
+    "8453": "0x22a349329c57525be476eca7eb8e520364d1ab16"
+  },
+  "tokenInfo": {
+    "originalSymbol": "NMAX",
+    "sanitizedSymbol": "NMAX",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x261167987F4cc52c8BD3F5766ED727D1b0340CDC",
+    "lpNftId": "1311702",
+    "lockerAddress": "0x719923277FfbAd59125A6547080A029eC566bb8A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Twitcher",
+  "symbol": "Twitcher",
+  "decimals": 18,
+  "description": "Twitcher is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Twitcher",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Twitcher",
+  "addresses": {
+    "8453": "0x2f6b29c2c44791ddb5ea68c95ef94ffe59c0d83b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Twitcher",
+    "sanitizedSymbol": "TWITCHER",
+    "created_at": "2024-12-12T07:35:12.989432",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1429767",
+    "lockerAddress": "0x78FEe233C905294A4A6CDcafcdc6ee61865d1B80"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mouse",
+  "symbol": "Mouse",
+  "decimals": 18,
+  "description": "Mouse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mouse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mouse",
+  "addresses": {
+    "8453": "0x38afed6a94853c0a5352c521273478b779c0f091"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mouse",
+    "sanitizedSymbol": "MOUSE_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x6E44C9F85B1C68567a77cD2E1071aC9c78fd37d7",
+    "lpNftId": "1352829",
+    "lockerAddress": "0x1477bf3e09a34db772B70830Dc9f25B2EA8aAe1e"
+  },
+  "clankerInfo": null
+}

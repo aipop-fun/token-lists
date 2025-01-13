@@ -1,0 +1,22 @@
+{
+  "name": "Nerd",
+  "symbol": "Nerd",
+  "decimals": 18,
+  "description": "Nerd is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nerd",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nerd",
+  "addresses": {
+    "8453": "0x01fb290bbf56b73c2c0f6b218c50bbb093b43390"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nerd",
+    "sanitizedSymbol": "NERD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224143",
+    "lockerAddress": "0x0B25d8a6dE40c69c11034512aDeBB33367aEa7BA"
+  },
+  "clankerInfo": null
+}

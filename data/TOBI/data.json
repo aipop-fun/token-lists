@@ -1,0 +1,22 @@
+{
+  "name": "tobi",
+  "symbol": "tobi",
+  "decimals": 18,
+  "description": "tobi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tobi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tobi",
+  "addresses": {
+    "8453": "0x20f82985303e175890f5842587b624b428d66824"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tobi",
+    "sanitizedSymbol": "TOBI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237130",
+    "lockerAddress": "0x6E1bAB36E5a882CA9B3Be5774FB0264b56DdcBAe"
+  },
+  "clankerInfo": null
+}

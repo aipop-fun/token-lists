@@ -1,0 +1,22 @@
+{
+  "name": "MATCHA",
+  "symbol": "MATCHA",
+  "decimals": 18,
+  "description": "MATCHA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MATCHA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MATCHA",
+  "addresses": {
+    "8453": "0x259986d92548581db7968acf8087649071b864dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MATCHA",
+    "sanitizedSymbol": "MATCHA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x937ec3C05928b403092482D1914e0E0D5A8d4f5b",
+    "lpNftId": "1264145",
+    "lockerAddress": "0x8D1A587b340f5B862B5571781fC4BF8BA790E734"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "AIgator",
+  "symbol": "AIgator",
+  "decimals": 18,
+  "description": "AIgator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AIgator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AIgator",
+  "addresses": {
+    "8453": "0x2ce6e6f42ae7aa8c87d0780be7aebf774aa9a1e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AIgator",
+    "sanitizedSymbol": "AIGATOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xE48058184b1FBDe0b3E54DbC6f893bAf6C6b00D9",
+    "lpNftId": "1283861",
+    "lockerAddress": "0xc6cCBAEED53e9D12bd61C3503599c1F3F3bf9949"
+  },
+  "clankerInfo": null
+}

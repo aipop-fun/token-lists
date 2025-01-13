@@ -1,0 +1,22 @@
+{
+  "name": "AeroFi",
+  "symbol": "AeroFi",
+  "decimals": 18,
+  "description": "AeroFi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AeroFi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AeroFi",
+  "addresses": {
+    "8453": "0x08129698a4d7c560c11abe3e1043c6c792ca1909"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AeroFi",
+    "sanitizedSymbol": "AEROFI_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x41DA985B880835d77ca3E927EC241FB4627028e2",
+    "lpNftId": "1317912",
+    "lockerAddress": "0xd8281D3009f955C6f52f4256bcD54F64CDA77644"
+  },
+  "clankerInfo": null
+}

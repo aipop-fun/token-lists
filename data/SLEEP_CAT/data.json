@@ -1,0 +1,22 @@
+{
+  "name": "Sleep Cat",
+  "symbol": "Sleep Cat",
+  "decimals": 18,
+  "description": "Sleep Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sleep%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sleep Cat",
+  "addresses": {
+    "8453": "0x14f16b3f8aafdbcd35b64bf92685ea92a90307df"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sleep Cat",
+    "sanitizedSymbol": "SLEEP_CAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd168b5fbC2367f5f3F0dACb7547DFa8A4749c40B",
+    "lpNftId": "1321137",
+    "lockerAddress": "0x95D381C68f3a1aa218A6980A7d35CE11eAF3db53"
+  },
+  "clankerInfo": null
+}

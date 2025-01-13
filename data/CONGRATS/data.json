@@ -1,0 +1,22 @@
+{
+  "name": "CONGRATS!",
+  "symbol": "CONGRATS!",
+  "decimals": 18,
+  "description": "CONGRATS! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CONGRATS!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CONGRATS!",
+  "addresses": {
+    "8453": "0x09a0bfef135d5c35266cc223780e545c76c9b5a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CONGRATS!",
+    "sanitizedSymbol": "CONGRATS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd414b7C1Fc311Dd58B009DAAC8De1B63B0d97ea3",
+    "lpNftId": "1310968",
+    "lockerAddress": "0xc51240616107a17194bd6377f5274Aa0fCB9F792"
+  },
+  "clankerInfo": null
+}

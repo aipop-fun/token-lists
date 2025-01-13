@@ -1,0 +1,22 @@
+{
+  "name": "PEPEDOCTOR",
+  "symbol": "PEPEDOCTOR",
+  "decimals": 18,
+  "description": "PEPEDOCTOR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PEPEDOCTOR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PEPEDOCTOR",
+  "addresses": {
+    "8453": "0x130d96a8a5c34f3cdc28e3aa90affec95b704c03"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PEPEDOCTOR",
+    "sanitizedSymbol": "PEPEDOCTOR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x18365374878caA600886740292eD430ce1761a7D",
+    "lpNftId": "1283445",
+    "lockerAddress": "0x997fC25A4C57fe35B0275B9b27f33d15B7a356a7"
+  },
+  "clankerInfo": null
+}

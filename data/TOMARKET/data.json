@@ -1,0 +1,22 @@
+{
+  "name": "Tomarket",
+  "symbol": "Tomarket",
+  "decimals": 18,
+  "description": "Tomarket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tomarket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tomarket",
+  "addresses": {
+    "8453": "0x0b0b985f6f20e4cdcfa0e90bdeb9d13fca023e72"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tomarket",
+    "sanitizedSymbol": "TOMARKET",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x26d63D6E4644700653df283089Bf38F02769FCe5",
+    "lpNftId": "1311118",
+    "lockerAddress": "0x2A6b5d36613F9A51f60687b06756cCAa616829c6"
+  },
+  "clankerInfo": null
+}

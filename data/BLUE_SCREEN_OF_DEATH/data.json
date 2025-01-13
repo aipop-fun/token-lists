@@ -1,0 +1,22 @@
+{
+  "name": "Blue Screen Of Death",
+  "symbol": "Blue Screen Of Death",
+  "decimals": 18,
+  "description": "Blue Screen Of Death is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Blue%20Screen%20Of%20Death",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Blue Screen Of Death",
+  "addresses": {
+    "8453": "0x401402da9be3376eb7ec210805e38d75c5863e95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Blue Screen Of Death",
+    "sanitizedSymbol": "BLUE_SCREEN_OF_DEATH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128765",
+    "lockerAddress": "0xb583457C1B4132a3078672d63f136b99Fe641e44"
+  },
+  "clankerInfo": null
+}

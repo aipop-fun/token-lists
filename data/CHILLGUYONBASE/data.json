@@ -1,0 +1,22 @@
+{
+  "name": "chillguyonbase",
+  "symbol": "chillguyonbase",
+  "decimals": 18,
+  "description": "chillguyonbase is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chillguyonbase",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chillguyonbase",
+  "addresses": {
+    "8453": "0x26f9fbe76630cd7a6512d9ad573a754e3a92e7c0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chillguyonbase",
+    "sanitizedSymbol": "CHILLGUYONBASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2Ae5EecA93eE5eB1023cDD2BcF1B9cd4a45Aa50d",
+    "lpNftId": "1327783",
+    "lockerAddress": "0xBDe0b32136A56776654D96f43FF9473EC370a034"
+  },
+  "clankerInfo": null
+}

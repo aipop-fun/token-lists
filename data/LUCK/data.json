@@ -1,0 +1,22 @@
+{
+  "name": "luck",
+  "symbol": "luck",
+  "decimals": 18,
+  "description": "luck is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=luck",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "luck",
+  "addresses": {
+    "8453": "0x18d3ea7f81612bc781b2d60d777d99e8f595c749"
+  },
+  "tokenInfo": {
+    "originalSymbol": "luck",
+    "sanitizedSymbol": "LUCK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231188",
+    "lockerAddress": "0x631DD39Eec200EabCd581994BE408f70e1E0208e"
+  },
+  "clankerInfo": null
+}

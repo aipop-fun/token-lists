@@ -1,0 +1,22 @@
+{
+  "name": "Podclanker",
+  "symbol": "Podclanker",
+  "decimals": 18,
+  "description": "Podclanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Podclanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Podclanker",
+  "addresses": {
+    "8453": "0x14c4069fb6dc45be9b1bd2688673e00afc9f41b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Podclanker",
+    "sanitizedSymbol": "PODCLANKER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1158669",
+    "lockerAddress": "0xE032DC10a7D31185924749b67f751dbB078816fc"
+  },
+  "clankerInfo": null
+}

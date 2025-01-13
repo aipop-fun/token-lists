@@ -1,0 +1,22 @@
+{
+  "name": "happy weekend",
+  "symbol": "happy weekend",
+  "decimals": 18,
+  "description": "happy weekend is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=happy%20weekend",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "happy weekend",
+  "addresses": {
+    "8453": "0x2d750a1f19ac3a676389a4d8420e39b88a3331d0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "happy weekend",
+    "sanitizedSymbol": "HAPPY_WEEKEND",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9B6f01a888FD5B96D4D0FF67716496c01000e0CE",
+    "lpNftId": "1282678",
+    "lockerAddress": "0x067A1E8C2A06Da2fD6d5E237ee99310bb5500aF2"
+  },
+  "clankerInfo": null
+}

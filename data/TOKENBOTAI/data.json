@@ -1,0 +1,22 @@
+{
+  "name": "tokenbotai",
+  "symbol": "tokenbotai",
+  "decimals": 18,
+  "description": "tokenbotai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tokenbotai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tokenbotai",
+  "addresses": {
+    "8453": "0x348e1acef256018d1fdc1db29db48f31a3c962f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tokenbotai",
+    "sanitizedSymbol": "TOKENBOTAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x582BCEf3884E5ee0F62bf746DBC18BEa29293782",
+    "lpNftId": "1331610",
+    "lockerAddress": "0x4e2f13DAB836bB0851dCB64E1DF9f6Ae4513C600"
+  },
+  "clankerInfo": null
+}

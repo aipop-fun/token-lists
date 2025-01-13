@@ -1,0 +1,22 @@
+{
+  "name": "ICBM",
+  "symbol": "ICBM",
+  "decimals": 18,
+  "description": "ICBM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ICBM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ICBM",
+  "addresses": {
+    "8453": "0x186747124637dbc043f0326c5c88bf45b4dcc423"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ICBM",
+    "sanitizedSymbol": "ICBM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218069",
+    "lockerAddress": "0xE765A4086c7A6350645D23826d57f1Aa7F0826B3"
+  },
+  "clankerInfo": null
+}

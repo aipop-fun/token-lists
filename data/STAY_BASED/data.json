@@ -1,0 +1,22 @@
+{
+  "name": "Stay Based",
+  "symbol": "Stay Based",
+  "decimals": 18,
+  "description": "Stay Based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Stay%20Based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Stay Based",
+  "addresses": {
+    "8453": "0x26c1581d87a15f9b78c1d400ddd30845be728441"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Stay Based",
+    "sanitizedSymbol": "STAY_BASED",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xd3dc3f0A36d7F71e61606ed10bdba414be9590eA",
+    "lpNftId": "1376305",
+    "lockerAddress": "0x531038127016A0f0D87c90eE08a2C3142Dcb1D8C"
+  },
+  "clankerInfo": null
+}

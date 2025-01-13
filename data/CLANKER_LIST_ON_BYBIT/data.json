@@ -1,0 +1,22 @@
+{
+  "name": "Clanker List on Bybit",
+  "symbol": "Clanker List on Bybit",
+  "decimals": 18,
+  "description": "Clanker List on Bybit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanker%20List%20on%20Bybit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanker List on Bybit",
+  "addresses": {
+    "8453": "0x3b2ebb4486f904ec2f427e039a95f13023e69eb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanker List on Bybit",
+    "sanitizedSymbol": "CLANKER_LIST_ON_BYBIT",
+    "created_at": "2024-12-12T06:52:44.864453",
+    "deployer": "0x6E5Dc63Ec5DDcb6F6F6f909d15D545671c435974",
+    "lpNftId": "1429650",
+    "lockerAddress": "0x494B2e19d7A66B12eA5FB7B3d3613BA4d02d44bA"
+  },
+  "clankerInfo": null
+}

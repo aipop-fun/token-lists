@@ -1,0 +1,22 @@
+{
+  "name": "Paper Hands Token",
+  "symbol": "Paper Hands Token",
+  "decimals": 18,
+  "description": "Paper Hands Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Paper%20Hands%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Paper Hands Token",
+  "addresses": {
+    "8453": "0x1b26e547a996daa884c32227ae981bd2c6adbf47"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Paper Hands Token",
+    "sanitizedSymbol": "PAPER_HANDS_TOKEN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217870",
+    "lockerAddress": "0xE210F3372B633a3e20eFAF249c612645F63bf735"
+  },
+  "clankerInfo": null
+}

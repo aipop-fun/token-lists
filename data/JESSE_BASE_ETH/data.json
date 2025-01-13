@@ -1,0 +1,22 @@
+{
+  "name": "jesse.base.eth",
+  "symbol": "jesse.base.eth",
+  "decimals": 18,
+  "description": "jesse.base.eth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=jesse.base.eth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "jesse.base.eth",
+  "addresses": {
+    "8453": "0x26678346802965a6efff3be59bfea99e46446a7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "jesse.base.eth",
+    "sanitizedSymbol": "JESSE_BASE_ETH",
+    "created_at": "2024-12-09T06:16:34.675427",
+    "deployer": "0x3209ACe84CE2Cbe0db0C7919045fE0f1316FE6F4",
+    "lpNftId": "1383805",
+    "lockerAddress": "0xc035E5626224332AC433e5D12604C78808E2f731"
+  },
+  "clankerInfo": null
+}

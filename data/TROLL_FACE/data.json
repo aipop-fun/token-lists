@@ -1,0 +1,22 @@
+{
+  "name": "troll face",
+  "symbol": "troll face",
+  "decimals": 18,
+  "description": "troll face is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=troll%20face",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "troll face",
+  "addresses": {
+    "8453": "0x2d990d45a589d2580ce8970a492e084ef33ef1ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "troll face",
+    "sanitizedSymbol": "TROLL_FACE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226575",
+    "lockerAddress": "0x059643150c27f301dC4015b8b4CCc285ABeD802D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "purrinces",
+  "symbol": "purrinces",
+  "decimals": 18,
+  "description": "purrinces is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=purrinces",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "purrinces",
+  "addresses": {
+    "8453": "0x15612abb4bd8c9664733bc7c8f427840b5d0eefc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "purrinces",
+    "sanitizedSymbol": "PURRINCES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCC32f57400f78376eb3CA9e986b2235Fd34E634e",
+    "lpNftId": "1350502",
+    "lockerAddress": "0xe28a7F50438781FBA6Bed4FCF4ff194b1D3b1bBd"
+  },
+  "clankerInfo": null
+}

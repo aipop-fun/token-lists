@@ -1,0 +1,22 @@
+{
+  "name": "Mr. White",
+  "symbol": "Mr. White",
+  "decimals": 18,
+  "description": "Mr. White is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mr.%20White",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mr. White",
+  "addresses": {
+    "8453": "0x1808c0fe8be1023f801010f1e1d798622cabc45a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mr. White",
+    "sanitizedSymbol": "MR_WHITE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1376052",
+    "lockerAddress": "0x17703c3852459CA4bb165840BF63dABbF3c8CAa1"
+  },
+  "clankerInfo": null
+}

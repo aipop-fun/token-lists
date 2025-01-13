@@ -1,0 +1,22 @@
+{
+  "name": "FightFightFight",
+  "symbol": "FightFightFight",
+  "decimals": 18,
+  "description": "FightFightFight is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FightFightFight",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FightFightFight",
+  "addresses": {
+    "8453": "0x1ce51ef444e286e32c61377c8d2badee192b4d1f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FightFightFight",
+    "sanitizedSymbol": "FIGHTFIGHTFIGHT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1136609",
+    "lockerAddress": "0xFeF00BBC02c77da883a4FE39bE54eCf75CB4Be13"
+  },
+  "clankerInfo": null
+}

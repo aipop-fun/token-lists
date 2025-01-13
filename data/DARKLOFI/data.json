@@ -1,0 +1,22 @@
+{
+  "name": "darklofi",
+  "symbol": "darklofi",
+  "decimals": 18,
+  "description": "darklofi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=darklofi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "darklofi",
+  "addresses": {
+    "8453": "0x1eeb8dfd88416c9de3718d5fe22ddd1c3ab930f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "darklofi",
+    "sanitizedSymbol": "DARKLOFI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201853",
+    "lockerAddress": "0x181eDefd430459217C416DB1F92e28C064dC8206"
+  },
+  "clankerInfo": null
+}

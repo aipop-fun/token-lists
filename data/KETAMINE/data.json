@@ -1,0 +1,22 @@
+{
+  "name": "KETAMINE",
+  "symbol": "KETAMINE",
+  "decimals": 18,
+  "description": "KETAMINE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KETAMINE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KETAMINE",
+  "addresses": {
+    "8453": "0x28451a7b257bacb5786279fb4696e7917d9e55d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KETAMINE",
+    "sanitizedSymbol": "KETAMINE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1347353",
+    "lockerAddress": "0x1a156dd05A26d5FB32d79CA773d135B25837A621"
+  },
+  "clankerInfo": null
+}

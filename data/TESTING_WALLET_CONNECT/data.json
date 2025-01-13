@@ -1,0 +1,22 @@
+{
+  "name": "TESTING WALLET CONNECT",
+  "symbol": "TESTING WALLET CONNECT",
+  "decimals": 18,
+  "description": "TESTING WALLET CONNECT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TESTING%20WALLET%20CONNECT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TESTING WALLET CONNECT",
+  "addresses": {
+    "8453": "0x2505ce09c537f53fdbbf9c1f99f2017424ae0c83"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TESTING WALLET CONNECT",
+    "sanitizedSymbol": "TESTING_WALLET_CONNECT",
+    "created_at": "2024-12-10T01:39:29.147803",
+    "deployer": "0xcff2aa7f9ed4e060234EE27c8F91712DE9617Be7",
+    "lpNftId": "1394368",
+    "lockerAddress": "0xaA5EBe7f44fAD39AB4F353028386979d5C0fD553"
+  },
+  "clankerInfo": null
+}

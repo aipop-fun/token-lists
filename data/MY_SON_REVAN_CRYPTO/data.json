@@ -1,0 +1,22 @@
+{
+  "name": "My Son Revan Crypto",
+  "symbol": "My Son Revan Crypto",
+  "decimals": 18,
+  "description": "My Son Revan Crypto is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=My%20Son%20Revan%20Crypto",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "My Son Revan Crypto",
+  "addresses": {
+    "8453": "0x3797f38e6af03e242ee74c745b893510a05bc92f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "My Son Revan Crypto",
+    "sanitizedSymbol": "MY_SON_REVAN_CRYPTO",
+    "created_at": "2024-12-09T05:45:31.480248",
+    "deployer": "0x498a0c6816A0A7AA2765d640a18cfF8c69b83B78",
+    "lpNftId": "1383337",
+    "lockerAddress": "0xA6e29899B114e96B73177274fAB31baf6aB72794"
+  },
+  "clankerInfo": null
+}

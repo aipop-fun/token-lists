@@ -1,0 +1,22 @@
+{
+  "name": "Kryplon",
+  "symbol": "Kryplon",
+  "decimals": 18,
+  "description": "Kryplon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kryplon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kryplon",
+  "addresses": {
+    "8453": "0x273c197b238a70415fd083e86487521690999519"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kryplon",
+    "sanitizedSymbol": "KRYPLON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xae75ca641a0Efe8771d32200577616caA9EaaB69",
+    "lpNftId": "1132956",
+    "lockerAddress": "0xe3c09355cb8389a5b9f314Be05cc2aE6831F189e"
+  },
+  "clankerInfo": null
+}

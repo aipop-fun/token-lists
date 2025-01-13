@@ -1,0 +1,22 @@
+{
+  "name": "Magic Eden Meme",
+  "symbol": "Magic Eden Meme",
+  "decimals": 18,
+  "description": "Magic Eden Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Eden%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Eden Meme",
+  "addresses": {
+    "8453": "0x1feb1d52eb3bf2f73d4d5d9d6e2a4c8b31730ccf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Eden Meme",
+    "sanitizedSymbol": "MAGIC_EDEN_MEME",
+    "created_at": "2024-12-11T05:36:56.166409",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1413405",
+    "lockerAddress": "0xf63687e956Aa14Ee477057Be0B7020F61D523a01"
+  },
+  "clankerInfo": null
+}

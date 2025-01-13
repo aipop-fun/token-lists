@@ -1,0 +1,22 @@
+{
+  "name": "ANGRY",
+  "symbol": "ANGRY",
+  "decimals": 18,
+  "description": "ANGRY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANGRY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANGRY",
+  "addresses": {
+    "8453": "0x1c60818c182c804ee40d960e6f1cd52b172c5ac4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANGRY",
+    "sanitizedSymbol": "ANGRY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5AfF2d699E8E204E78334c7A16a626d9082df0e8",
+    "lpNftId": "1276972",
+    "lockerAddress": "0xAD393590db11e98E0CF1EA1A18EcAa13E888C667"
+  },
+  "clankerInfo": null
+}

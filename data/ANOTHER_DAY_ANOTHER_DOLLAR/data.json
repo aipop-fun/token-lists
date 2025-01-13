@@ -1,0 +1,22 @@
+{
+  "name": "another day another dollar",
+  "symbol": "another day another dollar",
+  "decimals": 18,
+  "description": "another day another dollar is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=another%20day%20another%20dollar",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "another day another dollar",
+  "addresses": {
+    "8453": "0x0ccc8cfdbc0290064c856b21c2dae522fbf0c362"
+  },
+  "tokenInfo": {
+    "originalSymbol": "another day another dollar",
+    "sanitizedSymbol": "ANOTHER_DAY_ANOTHER_DOLLAR",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x0a3e5705A2AcFa47aE86122EEaC7dcED7DCdBb4a",
+    "lpNftId": "1329469",
+    "lockerAddress": "0x250E0A99ddA1C37D3C810b82292F3064526da8A6"
+  },
+  "clankerInfo": null
+}

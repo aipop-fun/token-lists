@@ -1,0 +1,22 @@
+{
+  "name": "ArthurDAO",
+  "symbol": "ArthurDAO",
+  "decimals": 18,
+  "description": "ArthurDAO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ArthurDAO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ArthurDAO",
+  "addresses": {
+    "8453": "0x04f7e6afc79e5e35505c26f18197983b1237b210"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ArthurDAO",
+    "sanitizedSymbol": "ARTHURDAO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166205",
+    "lockerAddress": "0x271E3e9Ad94eE6c0Fe88Aed7B8FFbe3cbd4fdF04"
+  },
+  "clankerInfo": null
+}

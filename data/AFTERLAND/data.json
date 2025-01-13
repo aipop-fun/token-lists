@@ -1,0 +1,22 @@
+{
+  "name": "Afterland",
+  "symbol": "Afterland",
+  "decimals": 18,
+  "description": "Afterland is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Afterland",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Afterland",
+  "addresses": {
+    "8453": "0x2a5f60b66c3235544327bdbdb295591e0ca6802d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Afterland",
+    "sanitizedSymbol": "AFTERLAND",
+    "created_at": "2024-12-12T20:18:12.972069",
+    "deployer": "0xD6e72c8D0B5f133fd34ddf061cf74215ae71A99C",
+    "lpNftId": "1442191",
+    "lockerAddress": "0x80BBD46B5B57a3AA47f2Eac8acaD4Fa58110D51c"
+  },
+  "clankerInfo": null
+}

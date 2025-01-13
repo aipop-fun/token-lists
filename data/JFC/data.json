@@ -1,0 +1,22 @@
+{
+  "name": "Jfc",
+  "symbol": "Jfc",
+  "decimals": 18,
+  "description": "Jfc is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jfc",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jfc",
+  "addresses": {
+    "8453": "0x0b4ece2885096388525e6311440118179c25b25d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jfc",
+    "sanitizedSymbol": "JFC",
+    "created_at": "2024-12-10T11:22:48.994238",
+    "deployer": "0x3d20eAFc6614561979Cf653781fFDc5C3eE16992",
+    "lpNftId": "1400191",
+    "lockerAddress": "0x3d1E766ae4bfA38Cd452748e7c7675C2E4e1ac94"
+  },
+  "clankerInfo": null
+}

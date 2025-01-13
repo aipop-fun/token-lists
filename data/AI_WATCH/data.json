@@ -1,0 +1,22 @@
+{
+  "name": "AI-Watch",
+  "symbol": "AI-Watch",
+  "decimals": 18,
+  "description": "AI-Watch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI-Watch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI-Watch",
+  "addresses": {
+    "8453": "0x0d5496f770933308f73ea746cc969dc78c134822"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI-Watch",
+    "sanitizedSymbol": "AI_WATCH",
+    "created_at": "2024-12-09T06:32:18.334275",
+    "deployer": "0xDC7b8F952760C4CBe72ca746afe86AeBCc17D2B7",
+    "lpNftId": "1384015",
+    "lockerAddress": "0x4deeD5DAE5123edda562C9e79f05125d274BD928"
+  },
+  "clankerInfo": null
+}

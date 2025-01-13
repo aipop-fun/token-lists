@@ -1,0 +1,22 @@
+{
+  "name": "Partytime",
+  "symbol": "Partytime",
+  "decimals": 18,
+  "description": "Partytime is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Partytime",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Partytime",
+  "addresses": {
+    "8453": "0x34e23cd727761402f1b03936cceeadc0b6369173"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Partytime",
+    "sanitizedSymbol": "PARTYTIME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x595c41C83c249310146ad7556cfDC6a6CbEB753A",
+    "lpNftId": "1312948",
+    "lockerAddress": "0xD57E135d9948F5c0342550cda7fC5Af78203213d"
+  },
+  "clankerInfo": null
+}

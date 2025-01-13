@@ -1,0 +1,22 @@
+{
+  "name": "Jeet Clanker",
+  "symbol": "Jeet Clanker",
+  "decimals": 18,
+  "description": "Jeet Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jeet%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jeet Clanker",
+  "addresses": {
+    "8453": "0x318d9370943adf429833d3b369ea6084fd514408"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jeet Clanker",
+    "sanitizedSymbol": "JEET_CLANKER",
+    "created_at": "2024-12-09T06:34:55.21201",
+    "deployer": "0xb45F9f723c25D4a1f466497e09EA613b0b00f6E2",
+    "lpNftId": "1384032",
+    "lockerAddress": "0x17012adAb14a120Ba0599bd6BB8Ec49A0de28F3A"
+  },
+  "clankerInfo": null
+}

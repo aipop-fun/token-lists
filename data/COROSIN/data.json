@@ -1,0 +1,22 @@
+{
+  "name": "corosin",
+  "symbol": "corosin",
+  "decimals": 18,
+  "description": "corosin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=corosin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "corosin",
+  "addresses": {
+    "8453": "0x26bbf02e418d191d2a7a4128632d6455d48eeb7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "corosin",
+    "sanitizedSymbol": "COROSIN",
+    "created_at": "2024-12-12T05:23:57.122655",
+    "deployer": "0x0897Dd24bFc5C1368c3170E153146D8827b0453f",
+    "lpNftId": "1429378",
+    "lockerAddress": "0x4A2b2A00d57a7407436FB155DD56EC311bC2b49E"
+  },
+  "clankerInfo": null
+}

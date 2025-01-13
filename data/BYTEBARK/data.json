@@ -1,0 +1,22 @@
+{
+  "name": "ByteBark",
+  "symbol": "ByteBark",
+  "decimals": 18,
+  "description": "ByteBark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ByteBark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ByteBark",
+  "addresses": {
+    "8453": "0x4047297a0f012fa43e642d60e2515561abe24866"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ByteBark",
+    "sanitizedSymbol": "BYTEBARK",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1163632",
+    "lockerAddress": "0x1aC517FaAC1Df97E25D165aB711db75bEd665796"
+  },
+  "clankerInfo": null
+}

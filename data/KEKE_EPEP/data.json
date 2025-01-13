@@ -1,0 +1,22 @@
+{
+  "name": "KEKE EPEP",
+  "symbol": "KEKE EPEP",
+  "decimals": 18,
+  "description": "KEKE EPEP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KEKE%20EPEP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KEKE EPEP",
+  "addresses": {
+    "8453": "0x1be98508424da4fa248fbb8f35a947c7ec073607"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KEKE EPEP",
+    "sanitizedSymbol": "KEKE_EPEP",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x80910E11cD00672003EbaCdba8CdED7D47F733F7",
+    "lpNftId": "1320566",
+    "lockerAddress": "0x05b0c8cA1E7c6703E5d32F1D547C52c9edDFc8D5"
+  },
+  "clankerInfo": null
+}

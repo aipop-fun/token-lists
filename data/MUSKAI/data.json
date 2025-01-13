@@ -1,0 +1,22 @@
+{
+  "name": "MuskAI",
+  "symbol": "MuskAI",
+  "decimals": 18,
+  "description": "MuskAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MuskAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MuskAI",
+  "addresses": {
+    "8453": "0x41d6709168d2e152d79b2a815675d5c5f2bce430"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MuskAI",
+    "sanitizedSymbol": "MUSKAI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4763000409b99FA043098596Dc57A79005E703aC",
+    "lpNftId": "1307341",
+    "lockerAddress": "0x145328D06F3287C738a6c5C7b8ccF0D3e8181add"
+  },
+  "clankerInfo": null
+}

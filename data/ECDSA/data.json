@@ -1,0 +1,22 @@
+{
+  "name": "ECDSA",
+  "symbol": "ECDSA",
+  "decimals": 18,
+  "description": "ECDSA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ECDSA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ECDSA",
+  "addresses": {
+    "8453": "0x12d5d21bc4535d26c4ed3b0b8f4b83328ed954f2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ECDSA",
+    "sanitizedSymbol": "ECDSA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1210437",
+    "lockerAddress": "0x93FFf6Da55f1DfD278F00508d04de5d4Ab39c6D0"
+  },
+  "clankerInfo": null
+}

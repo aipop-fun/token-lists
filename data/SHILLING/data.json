@@ -1,0 +1,22 @@
+{
+  "name": "SHILLING",
+  "symbol": "SHILLING",
+  "decimals": 18,
+  "description": "SHILLING is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHILLING",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHILLING",
+  "addresses": {
+    "8453": "0x2f52550e669e353d1d81228abdd67173a75147e7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHILLING",
+    "sanitizedSymbol": "SHILLING",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x598C91d70e16177defB34CbA95C2f80F551A4ccB",
+    "lpNftId": "1312746",
+    "lockerAddress": "0x1952a4183b8DFAAbE79e88d7B5E67f7C677a9BC6"
+  },
+  "clankerInfo": null
+}

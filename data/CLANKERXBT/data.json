@@ -1,0 +1,22 @@
+{
+  "name": "ClankerXBT",
+  "symbol": "ClankerXBT",
+  "decimals": 18,
+  "description": "ClankerXBT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankerXBT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankerXBT",
+  "addresses": {
+    "8453": "0x362a1166414fc339789cececaff5a0a4105d639a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankerXBT",
+    "sanitizedSymbol": "CLANKERXBT",
+    "created_at": "2024-12-09T14:32:02.775828",
+    "deployer": "0x498b57F6296fe88a2c080F6799439fe834E37A4F",
+    "lpNftId": "1388037",
+    "lockerAddress": "0xC3041E6ED1C3F70B12e3A811FF9eAB63DcFe9750"
+  },
+  "clankerInfo": null
+}

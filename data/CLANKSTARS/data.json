@@ -1,0 +1,22 @@
+{
+  "name": "ClankStars",
+  "symbol": "ClankStars",
+  "decimals": 18,
+  "description": "ClankStars is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankStars",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankStars",
+  "addresses": {
+    "8453": "0x39fdfeb2ad8f906fd53c355c1fa76d0c437ddd71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankStars",
+    "sanitizedSymbol": "CLANKSTARS",
+    "created_at": "2024-12-10T03:27:25.558713",
+    "deployer": "0xCa112E1fE7283360781dBdd0c533A6A5fD2F0Dd4",
+    "lpNftId": "1395671",
+    "lockerAddress": "0xFF88ea1f88147c0cC6d48b026bB90FA34C9671F0"
+  },
+  "clankerInfo": null
+}

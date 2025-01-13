@@ -1,0 +1,22 @@
+{
+  "name": "Pun AI",
+  "symbol": "Pun AI",
+  "decimals": 18,
+  "description": "Pun AI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pun%20AI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pun AI",
+  "addresses": {
+    "8453": "0x3a360fa43925b3647176ee6d05cafbe615af553b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pun AI",
+    "sanitizedSymbol": "PUN_AI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc429E560aa61e1562288e2B1056B583df01480BD",
+    "lpNftId": "1312815",
+    "lockerAddress": "0x340f3E86781236F0b8AEEDB5648c72dF3327219C"
+  },
+  "clankerInfo": null
+}

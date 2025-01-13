@@ -1,0 +1,22 @@
+{
+  "name": "HappyNewYear",
+  "symbol": "HappyNewYear",
+  "decimals": 18,
+  "description": "HappyNewYear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HappyNewYear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HappyNewYear",
+  "addresses": {
+    "8453": "0x323bd8892b69d0c38bff6ca642f8a7163672bcf5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HappyNewYear",
+    "sanitizedSymbol": "HAPPYNEWYEAR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x588ffAc7AFb5D4524EfB7EaC1D7Dfd609CE5Dea0",
+    "lpNftId": "1286264",
+    "lockerAddress": "0x4f8Ad0524C171a10852A74Adb42f134f2Ac9C5b5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "OOPS!",
+  "symbol": "OOPS!",
+  "decimals": 18,
+  "description": "OOPS! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OOPS!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OOPS!",
+  "addresses": {
+    "8453": "0x1b3264fea66de60d99059c7a50a1811f3f8f1445"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OOPS!",
+    "sanitizedSymbol": "OOPS",
+    "created_at": "2024-12-09T18:43:59.223037",
+    "deployer": "0xa69F2baD80F3AA8aEbD24a802021B223A9403702",
+    "lpNftId": "1390384",
+    "lockerAddress": "0xDD105a4375Fa208a1e6fDE56307022d61e70A3cA"
+  },
+  "clankerInfo": null
+}

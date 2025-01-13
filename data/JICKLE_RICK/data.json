@@ -1,0 +1,22 @@
+{
+  "name": "Jickle Rick",
+  "symbol": "Jickle Rick",
+  "decimals": 18,
+  "description": "Jickle Rick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jickle%20Rick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jickle Rick",
+  "addresses": {
+    "8453": "0x197bbe6c5b6ad6536eb9bde0db911f34913d52a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jickle Rick",
+    "sanitizedSymbol": "JICKLE_RICK",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xe324476B4648be7F2356dD518F7f60eD76f6048b",
+    "lpNftId": "1264128",
+    "lockerAddress": "0xE546737FD703ffC370D2aC34b410Cf7Dd3558E7a"
+  },
+  "clankerInfo": null
+}

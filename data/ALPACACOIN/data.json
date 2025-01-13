@@ -1,0 +1,22 @@
+{
+  "name": "AlpacaCoin",
+  "symbol": "AlpacaCoin",
+  "decimals": 18,
+  "description": "AlpacaCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AlpacaCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AlpacaCoin",
+  "addresses": {
+    "8453": "0x2faa401d9cb2310ba385e224404083449d4a2dcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AlpacaCoin",
+    "sanitizedSymbol": "ALPACACOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x70Dca3c35761c2b6d5cd36f6f8a4C0cfe4f2Fbc4",
+    "lpNftId": "1365890",
+    "lockerAddress": "0xacc823eaA5Eb5cB6ae6Fd187cd0908c2523e41b2"
+  },
+  "clankerInfo": null
+}

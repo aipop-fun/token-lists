@@ -1,0 +1,22 @@
+{
+  "name": "TEA BASE",
+  "symbol": "TEA BASE",
+  "decimals": 18,
+  "description": "TEA BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEA%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEA BASE",
+  "addresses": {
+    "8453": "0x14cbe45099d2eef8e57abbc0927bece8da5a962c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEA BASE",
+    "sanitizedSymbol": "TEA_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6dc92d2D11136f93c52cBBE2c0298F1071D54300",
+    "lpNftId": "1285699",
+    "lockerAddress": "0xC7D7Aae43c966B169E8Ce112523a5910f32061b7"
+  },
+  "clankerInfo": null
+}

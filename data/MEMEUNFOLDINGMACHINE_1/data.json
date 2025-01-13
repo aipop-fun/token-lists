@@ -1,0 +1,22 @@
+{
+  "name": "MemeUnfoldingMachine",
+  "symbol": "MemeUnfoldingMachine",
+  "decimals": 18,
+  "description": "MemeUnfoldingMachine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemeUnfoldingMachine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemeUnfoldingMachine",
+  "addresses": {
+    "8453": "0x04ef3c64f2a8893115b07a583af7a835db311642"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemeUnfoldingMachine",
+    "sanitizedSymbol": "MEMEUNFOLDINGMACHINE_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xfE5f86F8AEFB83d96c5205C1cCc0b140cFf79E09",
+    "lpNftId": "1285405",
+    "lockerAddress": "0xbDF83Dd16584Ee9E1eFAc61BbD950867D1571ea0"
+  },
+  "clankerInfo": null
+}

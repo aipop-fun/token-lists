@@ -1,0 +1,22 @@
+{
+  "name": "Cashmere",
+  "symbol": "Cashmere",
+  "decimals": 18,
+  "description": "Cashmere is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cashmere",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cashmere",
+  "addresses": {
+    "8453": "0x33b97fc5ea3113b0d8069851b04ae28f531048b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cashmere",
+    "sanitizedSymbol": "CASHMERE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157728",
+    "lockerAddress": "0x88C6F1F1a8f8Af8a514123226D487C5986c5F2c2"
+  },
+  "clankerInfo": null
+}

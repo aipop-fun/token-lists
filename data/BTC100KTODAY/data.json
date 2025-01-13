@@ -1,0 +1,22 @@
+{
+  "name": "BTC100kTODAY",
+  "symbol": "BTC100kTODAY",
+  "decimals": 18,
+  "description": "BTC100kTODAY is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BTC100kTODAY",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BTC100kTODAY",
+  "addresses": {
+    "8453": "0x2df0fd57d18d4cd52619fc25f37194ddc765bb2a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BTC100kTODAY",
+    "sanitizedSymbol": "BTC100KTODAY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x675D882d6CDcDd8b2eAEA95F21Fbfc6916aF89f8",
+    "lpNftId": "1326677",
+    "lockerAddress": "0x286E5424C580898f67F5c3d44dc041ecA537c077"
+  },
+  "clankerInfo": null
+}

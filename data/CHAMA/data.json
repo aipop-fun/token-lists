@@ -1,0 +1,22 @@
+{
+  "name": "CHAMA",
+  "symbol": "CHAMA",
+  "decimals": 18,
+  "description": "CHAMA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHAMA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHAMA",
+  "addresses": {
+    "8453": "0x3086d6080ad9adee73d2a2a6416451250a9bad73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHAMA",
+    "sanitizedSymbol": "CHAMA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x5F3e138Ec9fF0096f6aD82F608c17644426C6491",
+    "lpNftId": "1264395",
+    "lockerAddress": "0x37607e0bDd2EB6099Bdaf1d046065CFEBE7d5c90"
+  },
+  "clankerInfo": null
+}

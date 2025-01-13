@@ -1,0 +1,22 @@
+{
+  "name": "No Fear",
+  "symbol": "No Fear",
+  "decimals": 18,
+  "description": "No Fear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=No%20Fear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "No Fear",
+  "addresses": {
+    "8453": "0x020b1224320f6ad124ddae08a41a76632302a0de"
+  },
+  "tokenInfo": {
+    "originalSymbol": "No Fear",
+    "sanitizedSymbol": "NO_FEAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211207",
+    "lockerAddress": "0x1bF8aBd18043b86588c9dB542da985bB2aDc7E89"
+  },
+  "clankerInfo": null
+}

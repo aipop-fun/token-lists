@@ -1,0 +1,22 @@
+{
+  "name": "bobr",
+  "symbol": "bobr",
+  "decimals": 18,
+  "description": "bobr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bobr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bobr",
+  "addresses": {
+    "8453": "0x3ff23ac966e713fbce2781d24094199dc11e7774"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bobr",
+    "sanitizedSymbol": "BOBR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1281255",
+    "lockerAddress": "0x287aeBb2C1632AB8FE493e1Db423a45F8dCb6BF9"
+  },
+  "clankerInfo": null
+}

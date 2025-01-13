@@ -1,0 +1,22 @@
+{
+  "name": "Crypto Beng",
+  "symbol": "Crypto Beng",
+  "decimals": 18,
+  "description": "Crypto Beng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Crypto%20Beng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Crypto Beng",
+  "addresses": {
+    "8453": "0x1a5dd478a4865b35239aa4042ec463f6082c9a4a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Crypto Beng",
+    "sanitizedSymbol": "CRYPTO_BENG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9c8819aEE0280877B8e13A8cfA77e4B13587d06d",
+    "lpNftId": "1375630",
+    "lockerAddress": "0xd340080E41B8c248541b6AAd79690daF7D99ac55"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Derner",
+  "symbol": "Derner",
+  "decimals": 18,
+  "description": "Derner is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Derner",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Derner",
+  "addresses": {
+    "8453": "0x1fe56aaa6b5d4fd840312cbdc2d26dffbb9b0634"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Derner",
+    "sanitizedSymbol": "DERNER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73c18ddDe43b36469095aFFCc1596fC861A6ea1E",
+    "lpNftId": "1308821",
+    "lockerAddress": "0xd014cf92240772B68a752872831a6c9eDC054825"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "GM",
+  "symbol": "GM",
+  "decimals": 18,
+  "description": "GM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GM",
+  "addresses": {
+    "8453": "0x131d7c4c541fc995dd22b059b10031fae4c95aae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GM",
+    "sanitizedSymbol": "GM_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x7373b0263e3CfAf9C96610b0215B56c9ae141ab1",
+    "lpNftId": "1322108",
+    "lockerAddress": "0x14Be1Be1B01DD494b6D8df355aad8094F529e6E7"
+  },
+  "clankerInfo": null
+}

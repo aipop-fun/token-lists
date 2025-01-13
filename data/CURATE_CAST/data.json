@@ -1,0 +1,22 @@
+{
+  "name": "Curate Cast",
+  "symbol": "Curate Cast",
+  "decimals": 18,
+  "description": "Curate Cast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Curate%20Cast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Curate Cast",
+  "addresses": {
+    "8453": "0x1ebd524551407633fe45349903110cf73774cc9c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Curate Cast",
+    "sanitizedSymbol": "CURATE_CAST",
+    "created_at": "2024-12-09T08:46:25.13241",
+    "deployer": "0x5b8eba0B8fAfa9d92Ec667d7440D5ac3E9D574cE",
+    "lpNftId": "1384850",
+    "lockerAddress": "0x8cCb7e6cB5d7072700b1108c2381B3611DA2B000"
+  },
+  "clankerInfo": null
+}

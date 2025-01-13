@@ -1,0 +1,22 @@
+{
+  "name": "betanet",
+  "symbol": "betanet",
+  "decimals": 18,
+  "description": "betanet is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=betanet",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "betanet",
+  "addresses": {
+    "8453": "0x2df1f2f440ff1d592bb42946171a030d66030252"
+  },
+  "tokenInfo": {
+    "originalSymbol": "betanet",
+    "sanitizedSymbol": "BETANET",
+    "created_at": "2024-12-11T13:34:02.348236",
+    "deployer": "0x1F6923dF80fc257f948CFca6311B43d18764678C",
+    "lpNftId": "1419218",
+    "lockerAddress": "0x7e421193CA4F2eecCE20451cd6B279999b7975DB"
+  },
+  "clankerInfo": null
+}

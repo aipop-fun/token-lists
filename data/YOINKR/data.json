@@ -1,0 +1,22 @@
+{
+  "name": "YOINKr",
+  "symbol": "YOINKr",
+  "decimals": 18,
+  "description": "YOINKr is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YOINKr",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YOINKr",
+  "addresses": {
+    "8453": "0x026690b3a39c47b9fb45eb50345eb4a2f338fa13"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YOINKr",
+    "sanitizedSymbol": "YOINKR",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x2F60D2BB84Eb8df6951F7215ef035eF052BA2725",
+    "lpNftId": "1314977",
+    "lockerAddress": "0x0f281EA9fbA58c81dce529776d455265B3c81C46"
+  },
+  "clankerInfo": null
+}

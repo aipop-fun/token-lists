@@ -1,0 +1,22 @@
+{
+  "name": "MONKEY CLANKER",
+  "symbol": "MONKEY CLANKER",
+  "decimals": 18,
+  "description": "MONKEY CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MONKEY%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MONKEY CLANKER",
+  "addresses": {
+    "8453": "0x3913049e2d585026a0c8df4b47f5d60e6ba6591d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MONKEY CLANKER",
+    "sanitizedSymbol": "MONKEY_CLANKER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAFbF45E33e8797749D116098E198aba5270aD36a",
+    "lpNftId": "1331142",
+    "lockerAddress": "0x8560549c16fa7C1142Bb48b1fDC1065e61C3f1Dd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "WeLuffy",
+  "symbol": "WeLuffy",
+  "decimals": 18,
+  "description": "WeLuffy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WeLuffy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WeLuffy",
+  "addresses": {
+    "8453": "0x367da6d16d4f80908c3a577dead395e5847050ae"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WeLuffy",
+    "sanitizedSymbol": "WELUFFY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9481fCc182851E380e306287d566B2589a36EC6C",
+    "lpNftId": "1327622",
+    "lockerAddress": "0xA8F0838E5E594745f13a4B5272ACc7Ab2b52D6FD"
+  },
+  "clankerInfo": null
+}

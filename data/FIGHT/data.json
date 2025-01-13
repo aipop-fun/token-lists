@@ -1,0 +1,22 @@
+{
+  "name": "Fight!",
+  "symbol": "Fight!",
+  "decimals": 18,
+  "description": "Fight! is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fight!",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fight!",
+  "addresses": {
+    "8453": "0x0ce2b1c6fdba8bdb36267d06cb8d7c3457cef1db"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fight!",
+    "sanitizedSymbol": "FIGHT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160280",
+    "lockerAddress": "0x52bd738f636Fb51CcB1CB883b8c883C09386e204"
+  },
+  "clankerInfo": null
+}

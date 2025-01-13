@@ -1,0 +1,22 @@
+{
+  "name": "Original Lunora",
+  "symbol": "Original Lunora",
+  "decimals": 18,
+  "description": "Original Lunora is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Original%20Lunora",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Original Lunora",
+  "addresses": {
+    "8453": "0x21cfeeab49068dffe5e53fe6687456a4248d5ac2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Original Lunora",
+    "sanitizedSymbol": "ORIGINAL_LUNORA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xCcF06E6D13577acB0cc37F7b21A2DA964D06B583",
+    "lpNftId": "1368232",
+    "lockerAddress": "0xCA1277CFc504a128dB15dc9741bAC5703549EB8A"
+  },
+  "clankerInfo": null
+}

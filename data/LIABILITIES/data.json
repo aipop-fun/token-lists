@@ -1,0 +1,22 @@
+{
+  "name": "Liabilities",
+  "symbol": "Liabilities",
+  "decimals": 18,
+  "description": "Liabilities is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Liabilities",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Liabilities",
+  "addresses": {
+    "8453": "0x0a3bdcf8218813cd82d0aff2ae11b849c843110f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Liabilities",
+    "sanitizedSymbol": "LIABILITIES",
+    "created_at": "2024-12-11T02:22:18.257954",
+    "deployer": "0xc8AA4BCacFFfdd75A2D0Ba077E3Cf9347c572553",
+    "lpNftId": "1410643",
+    "lockerAddress": "0x4a47bBDd9e64181ddC0EeA3E5E22cFE690cc6217"
+  },
+  "clankerInfo": null
+}

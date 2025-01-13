@@ -1,0 +1,22 @@
+{
+  "name": "hihi",
+  "symbol": "hihi",
+  "decimals": 18,
+  "description": "hihi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hihi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hihi",
+  "addresses": {
+    "8453": "0x229190cf34e139b01fe578820c0cd29b6d334e10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hihi",
+    "sanitizedSymbol": "HIHI",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x6d9fFaede2c6CD9bb48becE230ad589e0E0D981c",
+    "lpNftId": "1170870",
+    "lockerAddress": "0x48cd082bf8316c4c018426f7A2e4742e879650cd"
+  },
+  "clankerInfo": null
+}

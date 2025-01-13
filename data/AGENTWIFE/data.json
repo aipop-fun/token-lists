@@ -1,0 +1,22 @@
+{
+  "name": "agentwife",
+  "symbol": "agentwife",
+  "decimals": 18,
+  "description": "agentwife is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=agentwife",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "agentwife",
+  "addresses": {
+    "8453": "0x03adb2dbbac486cf0fe5ec206375b67e954604b0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "agentwife",
+    "sanitizedSymbol": "AGENTWIFE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234359",
+    "lockerAddress": "0xf948418ceCe73A6891BD696128009C6D565C3f02"
+  },
+  "clankerInfo": null
+}

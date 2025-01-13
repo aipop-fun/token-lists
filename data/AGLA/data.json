@@ -1,0 +1,22 @@
+{
+  "name": "AGLA",
+  "symbol": "AGLA",
+  "decimals": 18,
+  "description": "AGLA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AGLA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AGLA",
+  "addresses": {
+    "8453": "0x332810df21368c6d5a0e229fb56fc03b770e7668"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AGLA",
+    "sanitizedSymbol": "AGLA",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xdEd214192212c73c6E56f7a52a50e3dBA6B2747A",
+    "lpNftId": "1323219",
+    "lockerAddress": "0xa6C15e2ED2b210b30d93a751b34E3F320A11cE85"
+  },
+  "clankerInfo": null
+}

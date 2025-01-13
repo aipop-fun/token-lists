@@ -1,0 +1,22 @@
+{
+  "name": "Pony",
+  "symbol": "Pony",
+  "decimals": 18,
+  "description": "Pony is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pony",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pony",
+  "addresses": {
+    "8453": "0x15cecf8b7df142c7080f2fa9550629983c6247c2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pony",
+    "sanitizedSymbol": "PONY",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1119454",
+    "lockerAddress": "0xa448B9A5dE1094630Ca618D498610329A7095f0a"
+  },
+  "clankerInfo": null
+}

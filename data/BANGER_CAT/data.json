@@ -1,0 +1,22 @@
+{
+  "name": "BANGER CAT",
+  "symbol": "BANGER CAT",
+  "decimals": 18,
+  "description": "BANGER CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BANGER%20CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BANGER CAT",
+  "addresses": {
+    "8453": "0x1e2639c7d8dd2b15238ae60fb36e9c69d3dddafe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BANGER CAT",
+    "sanitizedSymbol": "BANGER_CAT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222005",
+    "lockerAddress": "0xE2f800E754Cf9A1AbAf0e149F5B8efB0157c17df"
+  },
+  "clankerInfo": null
+}

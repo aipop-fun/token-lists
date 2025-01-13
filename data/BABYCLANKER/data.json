@@ -1,0 +1,22 @@
+{
+  "name": "BabyClanker",
+  "symbol": "BabyClanker",
+  "decimals": 18,
+  "description": "BabyClanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BabyClanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BabyClanker",
+  "addresses": {
+    "8453": "0x3b8a5f0e14a547b153ad5bcf73023b569b16ef5b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BabyClanker",
+    "sanitizedSymbol": "BABYCLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xA551C69f5EC2838928CEa71986e89E995141B768",
+    "lpNftId": "1309428",
+    "lockerAddress": "0x909C3E90Ab420c4A1ffef605B39e5Fcd9eF48115"
+  },
+  "clankerInfo": null
+}

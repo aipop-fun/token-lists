@@ -1,0 +1,22 @@
+{
+  "name": "TROOPUNK",
+  "symbol": "TROOPUNK",
+  "decimals": 18,
+  "description": "TROOPUNK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TROOPUNK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TROOPUNK",
+  "addresses": {
+    "8453": "0x23834ca93a1c3b785e2a2cd8b292b1d663c4a15a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TROOPUNK",
+    "sanitizedSymbol": "TROOPUNK",
+    "created_at": "2024-12-10T00:53:35.336091",
+    "deployer": "0x43F604D0434bF6a95f85641c2b001828B871F6c0",
+    "lpNftId": "1394018",
+    "lockerAddress": "0x9Eef896a018F3006FF4c7643EAC077Cf124021f1"
+  },
+  "clankerInfo": null
+}

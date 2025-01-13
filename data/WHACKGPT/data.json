@@ -1,0 +1,22 @@
+{
+  "name": "WhackGPT",
+  "symbol": "WhackGPT",
+  "decimals": 18,
+  "description": "WhackGPT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WhackGPT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WhackGPT",
+  "addresses": {
+    "8453": "0x3be7b6b9a67b33240f5834cb80d8c217447f2b9d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WhackGPT",
+    "sanitizedSymbol": "WHACKGPT",
+    "created_at": "2024-12-12T00:39:55.321244",
+    "deployer": "0x0eD592333a9E1BE067518f1C78A7F61BEB89f3c0",
+    "lpNftId": "1428205",
+    "lockerAddress": "0x037B2e2271fC4E15547647646B16fDf7d3B8c4eE"
+  },
+  "clankerInfo": null
+}

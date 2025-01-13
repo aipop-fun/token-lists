@@ -1,0 +1,22 @@
+{
+  "name": "Golden Retriever",
+  "symbol": "Golden Retriever",
+  "decimals": 18,
+  "description": "Golden Retriever is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Golden%20Retriever",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Golden Retriever",
+  "addresses": {
+    "8453": "0x1518ea0d63a4bcb36af6ef88df338c8074a09dc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Golden Retriever",
+    "sanitizedSymbol": "GOLDEN_RETRIEVER",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1206083",
+    "lockerAddress": "0x21D51dC560cA4B91e2b3977Da8f76885c8001bDB"
+  },
+  "clankerInfo": null
+}

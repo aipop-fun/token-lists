@@ -1,0 +1,22 @@
+{
+  "name": "Tins",
+  "symbol": "Tins",
+  "decimals": 18,
+  "description": "Tins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tins",
+  "addresses": {
+    "8453": "0x4192a6c2ddaf061b6bbca315b7f75dff29e21c24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tins",
+    "sanitizedSymbol": "TINS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128954",
+    "lockerAddress": "0x3ff5788F144fF6F28259fca465D4262147B3d00D"
+  },
+  "clankerInfo": null
+}

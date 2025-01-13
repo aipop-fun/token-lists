@@ -1,0 +1,22 @@
+{
+  "name": "mutz",
+  "symbol": "mutz",
+  "decimals": 18,
+  "description": "mutz is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=mutz",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "mutz",
+  "addresses": {
+    "8453": "0x3700cd5b44115fce0f9ac13ae60b1674296bf3bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "mutz",
+    "sanitizedSymbol": "MUTZ",
+    "created_at": "2024-12-10T13:39:39.240099",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401537",
+    "lockerAddress": "0x5001e091953C3791Dd4Dd2567A272AF283eb4aD2"
+  },
+  "clankerInfo": null
+}

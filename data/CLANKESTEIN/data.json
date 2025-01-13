@@ -1,0 +1,22 @@
+{
+  "name": "clankestein",
+  "symbol": "clankestein",
+  "decimals": 18,
+  "description": "clankestein is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankestein",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankestein",
+  "addresses": {
+    "8453": "0x2c811a08fc9ad0ba02018ad23a44d64ee1b6763b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankestein",
+    "sanitizedSymbol": "CLANKESTEIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xaC7491Be41827E21e8a8A6581baBd1e7f60fa22f",
+    "lpNftId": "1286626",
+    "lockerAddress": "0xF5D7FFAb02bfB70313C53DA204999FdbB7D70C0f"
+  },
+  "clankerInfo": null
+}

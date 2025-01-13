@@ -1,0 +1,22 @@
+{
+  "name": "Doge Whale",
+  "symbol": "Doge Whale",
+  "decimals": 18,
+  "description": "Doge Whale is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doge%20Whale",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doge Whale",
+  "addresses": {
+    "8453": "0x1d39a737417497b9cc3737d6f75a6c26fbd3b184"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doge Whale",
+    "sanitizedSymbol": "DOGE_WHALE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xAc34e483065F68a074D0a8d3411a0179ab1bFA2E",
+    "lpNftId": "1264396",
+    "lockerAddress": "0x09ABCFAe79B5F15fD00c75CBF1ff56f6381DEe54"
+  },
+  "clankerInfo": null
+}

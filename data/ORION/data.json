@@ -1,0 +1,22 @@
+{
+  "name": "ORION",
+  "symbol": "ORION",
+  "decimals": 18,
+  "description": "ORION is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ORION",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ORION",
+  "addresses": {
+    "8453": "0x09ff4dfe5581ef164ec954468034cbbbd2652cd4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ORION",
+    "sanitizedSymbol": "ORION",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232589",
+    "lockerAddress": "0xA27b93429F5B180984BA5127EabcFB03EAfbD994"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BUFFEDANON",
+  "symbol": "BUFFEDANON",
+  "decimals": 18,
+  "description": "BUFFEDANON is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BUFFEDANON",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BUFFEDANON",
+  "addresses": {
+    "8453": "0x332a23b9f9e99e4cedcedd905470d48c159bff17"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BUFFEDANON",
+    "sanitizedSymbol": "BUFFEDANON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205666",
+    "lockerAddress": "0x2c575c226e38c99860f5373e85D34B76e3506473"
+  },
+  "clankerInfo": null
+}

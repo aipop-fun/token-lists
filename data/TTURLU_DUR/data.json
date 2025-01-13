@@ -1,0 +1,22 @@
+{
+  "name": "Tturlu Dur",
+  "symbol": "Tturlu Dur",
+  "decimals": 18,
+  "description": "Tturlu Dur is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tturlu%20Dur",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tturlu Dur",
+  "addresses": {
+    "8453": "0x06c0456b072ea78566bc951a19e668a3cd811ee1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tturlu Dur",
+    "sanitizedSymbol": "TTURLU_DUR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x3304000131AB6ae477C9741FEDcFb6Aa93fc94Ef",
+    "lpNftId": "1170936",
+    "lockerAddress": "0x3f21732C35c559C3948C6De00b2A46686f743E3d"
+  },
+  "clankerInfo": null
+}

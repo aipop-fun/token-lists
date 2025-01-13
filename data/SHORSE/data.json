@@ -1,0 +1,22 @@
+{
+  "name": "SHORSE",
+  "symbol": "SHORSE",
+  "decimals": 18,
+  "description": "SHORSE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHORSE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHORSE",
+  "addresses": {
+    "8453": "0x3b8bb7d8c75b07f164b9aad522cac27cf44b3d2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHORSE",
+    "sanitizedSymbol": "SHORSE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x93f048bEeF7b0092628cDCAA25f3645f368Eaa99",
+    "lpNftId": "1323981",
+    "lockerAddress": "0xc4F73f3ee1f0Cc51702fcAc65f15F1D61fBa552c"
+  },
+  "clankerInfo": null
+}

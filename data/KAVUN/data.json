@@ -1,0 +1,22 @@
+{
+  "name": "Kavun",
+  "symbol": "Kavun",
+  "decimals": 18,
+  "description": "Kavun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kavun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kavun",
+  "addresses": {
+    "8453": "0x39135097bafba2e2ac9961f6bc0fdb7529b4f9b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kavun",
+    "sanitizedSymbol": "KAVUN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC88eb8c096D2A6bf50f6E738e992d31A27f56299",
+    "lpNftId": "1326431",
+    "lockerAddress": "0x4F64586EaEDCcC3EDb2cEd9c0e79170c37f87F0c"
+  },
+  "clankerInfo": null
+}

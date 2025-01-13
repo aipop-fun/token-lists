@@ -1,0 +1,22 @@
+{
+  "name": "HAT",
+  "symbol": "HAT",
+  "decimals": 18,
+  "description": "HAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAT",
+  "addresses": {
+    "8453": "0x129facd9bac2ad23c21b4a69a2e59a7bcd1387f1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAT",
+    "sanitizedSymbol": "HAT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xADCcEE0ce6629e10b38A2fA7881683110F445FF6",
+    "lpNftId": "1291675",
+    "lockerAddress": "0x029Aa75e9FDb803C988210a298579725ec171706"
+  },
+  "clankerInfo": null
+}

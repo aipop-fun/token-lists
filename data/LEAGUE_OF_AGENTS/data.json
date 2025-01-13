@@ -1,0 +1,22 @@
+{
+  "name": "League Of Agents",
+  "symbol": "League Of Agents",
+  "decimals": 18,
+  "description": "League Of Agents is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=League%20Of%20Agents",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "League Of Agents",
+  "addresses": {
+    "8453": "0x36f36984e85cef12621ef3e3a510819f1c2d0614"
+  },
+  "tokenInfo": {
+    "originalSymbol": "League Of Agents",
+    "sanitizedSymbol": "LEAGUE_OF_AGENTS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x029f4057F3A615108781ef907f9872A2983b4206",
+    "lpNftId": "1323789",
+    "lockerAddress": "0x55B8A08B3C4C8D2f5E4965009a246F7AC7BB7FB8"
+  },
+  "clankerInfo": null
+}

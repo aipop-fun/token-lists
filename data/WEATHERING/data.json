@@ -1,0 +1,22 @@
+{
+  "name": "Weathering",
+  "symbol": "Weathering",
+  "decimals": 18,
+  "description": "Weathering is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Weathering",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Weathering",
+  "addresses": {
+    "8453": "0x0696691feafb5be83f6395cf240f69c8ec6f0fb3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Weathering",
+    "sanitizedSymbol": "WEATHERING",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1236890",
+    "lockerAddress": "0x8ca84628D6bCEeB19bb8aD1a893ffEB0B932Aa51"
+  },
+  "clankerInfo": null
+}

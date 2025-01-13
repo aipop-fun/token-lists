@@ -1,0 +1,22 @@
+{
+  "name": "WenAI",
+  "symbol": "WenAI",
+  "decimals": 18,
+  "description": "WenAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WenAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WenAI",
+  "addresses": {
+    "8453": "0x3e4ddd3d458875424005ea13ab67a5c8f79a73ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WenAI",
+    "sanitizedSymbol": "WENAI",
+    "created_at": "2024-12-10T13:58:44.153398",
+    "deployer": "0x6a77CFfeF337a07676e803ABe5df4c0c8254cAB6",
+    "lpNftId": "1401638",
+    "lockerAddress": "0x21f278543dc4C183dF0d077865247D81Fd6B61a9"
+  },
+  "clankerInfo": null
+}

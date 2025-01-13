@@ -1,0 +1,22 @@
+{
+  "name": "TheCarrotStaysOn",
+  "symbol": "TheCarrotStaysOn",
+  "decimals": 18,
+  "description": "TheCarrotStaysOn is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TheCarrotStaysOn",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TheCarrotStaysOn",
+  "addresses": {
+    "8453": "0x325ea2d845d620c5d3a499c037d831e3a9e9344c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TheCarrotStaysOn",
+    "sanitizedSymbol": "THECARROTSTAYSON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x193BA5469dd547213eb3b4d4357bc286F00A0e1C",
+    "lpNftId": "1322526",
+    "lockerAddress": "0x070b64666C375304d458f4ab212a67ec4695b0ea"
+  },
+  "clankerInfo": null
+}

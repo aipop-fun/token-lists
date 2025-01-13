@@ -1,0 +1,22 @@
+{
+  "name": "1abcde",
+  "symbol": "1abcde",
+  "decimals": 18,
+  "description": "1abcde is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=1abcde",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "1abcde",
+  "addresses": {
+    "8453": "0x02205bffb38f4f769f2de07053dc76503c5e489c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "1abcde",
+    "sanitizedSymbol": "1ABCDE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x63cfc38B7c175276E4914fF77954561319f18888",
+    "lpNftId": "1234381",
+    "lockerAddress": "0xd4e6EC1d3C959Dca2971f74013e74610D2905076"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BaseBucks",
+  "symbol": "BaseBucks",
+  "decimals": 18,
+  "description": "BaseBucks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BaseBucks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BaseBucks",
+  "addresses": {
+    "8453": "0x25ec235ae1a69a9b8c049bf8e55c4aa5be15b76c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BaseBucks",
+    "sanitizedSymbol": "BASEBUCKS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120190",
+    "lockerAddress": "0x4e052A5E51204F2C0dAc41740A6E5c7F38901a3F"
+  },
+  "clankerInfo": null
+}

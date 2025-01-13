@@ -1,0 +1,22 @@
+{
+  "name": "Trojan",
+  "symbol": "Trojan",
+  "decimals": 18,
+  "description": "Trojan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Trojan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Trojan",
+  "addresses": {
+    "8453": "0x26c144328abc72da072b9c782d1424abf773a552"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Trojan",
+    "sanitizedSymbol": "TROJAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205937",
+    "lockerAddress": "0xC10a7DC30D1a39BDdDe60e6a54A05D8418ca0A68"
+  },
+  "clankerInfo": null
+}

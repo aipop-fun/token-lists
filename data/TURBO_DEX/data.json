@@ -1,0 +1,22 @@
+{
+  "name": "TURBO DEX",
+  "symbol": "TURBO DEX",
+  "decimals": 18,
+  "description": "TURBO DEX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TURBO%20DEX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TURBO DEX",
+  "addresses": {
+    "8453": "0x193fe4be3d4ddbc323f9a295a8f3bca408afa6c9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TURBO DEX",
+    "sanitizedSymbol": "TURBO_DEX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1195184",
+    "lockerAddress": "0x11eDf22D4f4062714f2e1F6C30fEE22cFeaBB05B"
+  },
+  "clankerInfo": null
+}

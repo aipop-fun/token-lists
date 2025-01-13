@@ -1,0 +1,22 @@
+{
+  "name": "superlarry",
+  "symbol": "superlarry",
+  "decimals": 18,
+  "description": "superlarry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=superlarry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "superlarry",
+  "addresses": {
+    "8453": "0x18812fdee89abdbe0dcc6788df44e152028eca56"
+  },
+  "tokenInfo": {
+    "originalSymbol": "superlarry",
+    "sanitizedSymbol": "SUPERLARRY",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1335494",
+    "lockerAddress": "0xA968e3bD529E468D3fd1C263c7fB17234b4912a6"
+  },
+  "clankerInfo": null
+}

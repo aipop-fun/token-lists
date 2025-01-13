@@ -1,0 +1,22 @@
+{
+  "name": "EternalBot",
+  "symbol": "EternalBot",
+  "decimals": 18,
+  "description": "EternalBot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EternalBot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EternalBot",
+  "addresses": {
+    "8453": "0x0b1aac08470e8f7a17a6aab3ba61deac00ced936"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EternalBot",
+    "sanitizedSymbol": "ETERNALBOT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202599",
+    "lockerAddress": "0xFe5bE6C2d814170E711aafBD6D4c466D16F868BB"
+  },
+  "clankerInfo": null
+}

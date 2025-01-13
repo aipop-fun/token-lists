@@ -1,0 +1,22 @@
+{
+  "name": "FUJIKO",
+  "symbol": "FUJIKO",
+  "decimals": 18,
+  "description": "FUJIKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FUJIKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FUJIKO",
+  "addresses": {
+    "8453": "0x2542224fb20b9fad87e3792b75bb7305ad2a1f92"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FUJIKO",
+    "sanitizedSymbol": "FUJIKO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xa0a8a6445664F7F57Bf3f72394EdAf3c02d00d2b",
+    "lpNftId": "1330191",
+    "lockerAddress": "0xF0e280FeDc34f067bA5E4fF42D1cfEFd811c238E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "CodeFlow",
+  "symbol": "CodeFlow",
+  "decimals": 18,
+  "description": "CodeFlow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CodeFlow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CodeFlow",
+  "addresses": {
+    "8453": "0x40da2b00eb53cd7b8701d39374a50b0d822f2e6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CodeFlow",
+    "sanitizedSymbol": "CODEFLOW",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1211281",
+    "lockerAddress": "0xEec34454Cd019D4a6D12DeB81f16E7F037bD2361"
+  },
+  "clankerInfo": null
+}

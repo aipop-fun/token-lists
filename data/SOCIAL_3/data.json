@@ -1,0 +1,22 @@
+{
+  "name": "SOCIAL",
+  "symbol": "SOCIAL",
+  "decimals": 18,
+  "description": "SOCIAL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SOCIAL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SOCIAL",
+  "addresses": {
+    "8453": "0x12f6cfe09af18938017a74f3e8f9eb4b4eef97ca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SOCIAL",
+    "sanitizedSymbol": "SOCIAL_3",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x98D5A312d54e546cF530256e385480dDE97646A7",
+    "lpNftId": "1336852",
+    "lockerAddress": "0xd0A850afc56Ca660e5A0aF45b5FF34705DdDF79F"
+  },
+  "clankerInfo": null
+}

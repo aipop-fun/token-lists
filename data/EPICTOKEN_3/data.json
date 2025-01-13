@@ -1,0 +1,22 @@
+{
+  "name": "EpicToken",
+  "symbol": "EpicToken",
+  "decimals": 18,
+  "description": "EpicToken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EpicToken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EpicToken",
+  "addresses": {
+    "8453": "0x27e8be8a8b8654a746f5242ce1452647f5095863"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EpicToken",
+    "sanitizedSymbol": "EPICTOKEN_3",
+    "created_at": "2024-12-12T22:03:13.590755",
+    "deployer": "0xb74F62007da9a66aB12c57d1b8eDF990E6647c57",
+    "lpNftId": "1444296",
+    "lockerAddress": "0xA8a76D043e085a43E55C93d9aC4555c9EFB88241"
+  },
+  "clankerInfo": null
+}

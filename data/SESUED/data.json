@@ -1,0 +1,22 @@
+{
+  "name": "SESued",
+  "symbol": "SESued",
+  "decimals": 18,
+  "description": "SESued is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SESued",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SESued",
+  "addresses": {
+    "8453": "0x0da24cc185077a537bee44076b8f5c5e12bc7bc4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SESued",
+    "sanitizedSymbol": "SESUED",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1156243",
+    "lockerAddress": "0x4e8499390761FE28f83BbcC952a2F21CdfAd4f64"
+  },
+  "clankerInfo": null
+}

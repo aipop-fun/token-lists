@@ -1,0 +1,22 @@
+{
+  "name": "BASED CATDRIVE",
+  "symbol": "BASED CATDRIVE",
+  "decimals": 18,
+  "description": "BASED CATDRIVE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20CATDRIVE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED CATDRIVE",
+  "addresses": {
+    "8453": "0x1859f9f8057e5fc32e95cd02f0dcd7c237c61c6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED CATDRIVE",
+    "sanitizedSymbol": "BASED_CATDRIVE",
+    "created_at": "2024-12-12T10:30:31.988807",
+    "deployer": "0xdf81E3057EAAae7Dc1439239e88d7bB0dcC75516",
+    "lpNftId": "1432707",
+    "lockerAddress": "0x11bfb53c1c6A9BD54a13A797F6A8635352134379"
+  },
+  "clankerInfo": null
+}

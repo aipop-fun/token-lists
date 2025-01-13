@@ -1,0 +1,22 @@
+{
+  "name": "BEARISH",
+  "symbol": "BEARISH",
+  "decimals": 18,
+  "description": "BEARISH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BEARISH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BEARISH",
+  "addresses": {
+    "8453": "0x175c79b62a88a5338ba64cdb6016b4dc172aa413"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BEARISH",
+    "sanitizedSymbol": "BEARISH_1",
+    "created_at": "2024-12-12T18:06:14.131027",
+    "deployer": "0xA767293B5e17F19803f629225966F95eDbeCB4BD",
+    "lpNftId": "1440462",
+    "lockerAddress": "0xa0969494577afE57deC1cc47771652f0d880661A"
+  },
+  "clankerInfo": null
+}

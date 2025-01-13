@@ -1,0 +1,22 @@
+{
+  "name": "basedYou",
+  "symbol": "basedYou",
+  "decimals": 18,
+  "description": "basedYou is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=basedYou",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "basedYou",
+  "addresses": {
+    "8453": "0x0651742d1f4f0bd0cb340dfa6f8fd2b607be8d78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "basedYou",
+    "sanitizedSymbol": "BASEDYOU",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb1D1B5D86E9f5FBc712ba7e86e0Ad59af93bc33a",
+    "lpNftId": "1283866",
+    "lockerAddress": "0xCB4aBE4dEA36C545a21e96ef9bC3B0FFdF1E29C7"
+  },
+  "clankerInfo": null
+}

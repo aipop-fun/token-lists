@@ -1,0 +1,22 @@
+{
+  "name": "VortexAI",
+  "symbol": "VortexAI",
+  "decimals": 18,
+  "description": "VortexAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VortexAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VortexAI",
+  "addresses": {
+    "8453": "0x3eb7e1a4e907bf585c97d1bc65200b962c6d264b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VortexAI",
+    "sanitizedSymbol": "VORTEXAI",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb29006bB01F23fffC36b0dfc5c5b7D23e57cE729",
+    "lpNftId": "1326031",
+    "lockerAddress": "0x8dFaaAEef502e7649ba9C2e983E443cC513C083f"
+  },
+  "clankerInfo": null
+}

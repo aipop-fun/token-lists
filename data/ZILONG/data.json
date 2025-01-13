@@ -1,0 +1,22 @@
+{
+  "name": "Zilong",
+  "symbol": "Zilong",
+  "decimals": 18,
+  "description": "Zilong is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zilong",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zilong",
+  "addresses": {
+    "8453": "0x3bd357126742c9a4bab169f8706e2c59722592bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zilong",
+    "sanitizedSymbol": "ZILONG",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3373826DEb5d9FE2a057cb1270a973Fa4856c242",
+    "lpNftId": "1252597",
+    "lockerAddress": "0x0859BB413c1e899E70BFA1AF4E07921c75558cEF"
+  },
+  "clankerInfo": null
+}

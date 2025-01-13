@@ -1,0 +1,22 @@
+{
+  "name": "Mito morse",
+  "symbol": "Mito morse",
+  "decimals": 18,
+  "description": "Mito morse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mito%20morse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mito morse",
+  "addresses": {
+    "8453": "0x02bd42009ceada822469fab683c0ebbf10e58a7c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mito morse",
+    "sanitizedSymbol": "MITO_MORSE",
+    "created_at": "2024-12-10T10:14:38.330383",
+    "deployer": "0xC66a10998277c9D9564CBD94356F116c07Eb2B15",
+    "lpNftId": "1399585",
+    "lockerAddress": "0x51bA062ade43f8f3170F2Dede95c66EB57030450"
+  },
+  "clankerInfo": null
+}

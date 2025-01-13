@@ -1,0 +1,22 @@
+{
+  "name": "decoy",
+  "symbol": "decoy",
+  "decimals": 18,
+  "description": "decoy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=decoy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "decoy",
+  "addresses": {
+    "8453": "0x3d6dc665aef73d31767e11730c8eedfaf23abd2f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "decoy",
+    "sanitizedSymbol": "DECOY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xbD2598BAAeE548419e78790984c6d47448507549",
+    "lpNftId": "1253477",
+    "lockerAddress": "0x9FaD18F820cD447245088cE6457486069faF56cB"
+  },
+  "clankerInfo": null
+}

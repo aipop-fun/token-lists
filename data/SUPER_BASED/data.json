@@ -1,0 +1,22 @@
+{
+  "name": "super based",
+  "symbol": "super based",
+  "decimals": 18,
+  "description": "super based is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=super%20based",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "super based",
+  "addresses": {
+    "8453": "0x261ae99343eaaaa32b8a3efe5f02d509c1881ad7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "super based",
+    "sanitizedSymbol": "SUPER_BASED",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x79C4550130cBc66b222e8A9AC8615Cda89F23968",
+    "lpNftId": "1310638",
+    "lockerAddress": "0xa13dBDb0e51344987Bc7e2860a30407112180c91"
+  },
+  "clankerInfo": null
+}

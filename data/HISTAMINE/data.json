@@ -1,0 +1,22 @@
+{
+  "name": "Histamine",
+  "symbol": "Histamine",
+  "decimals": 18,
+  "description": "Histamine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Histamine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Histamine",
+  "addresses": {
+    "8453": "0x3793bd2fbd47727eb406f1b5bb42d2677b190ad2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Histamine",
+    "sanitizedSymbol": "HISTAMINE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1281450",
+    "lockerAddress": "0x1a688bc2C1588743CE321E40fafb33F517CD69a5"
+  },
+  "clankerInfo": null
+}

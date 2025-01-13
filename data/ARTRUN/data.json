@@ -1,0 +1,22 @@
+{
+  "name": "artrun",
+  "symbol": "artrun",
+  "decimals": 18,
+  "description": "artrun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=artrun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "artrun",
+  "addresses": {
+    "8453": "0x00e690c868018f953600268733a42d317a15594d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "artrun",
+    "sanitizedSymbol": "ARTRUN",
+    "created_at": "2024-12-11T02:29:39.576551",
+    "deployer": "0x97Adf81b8Bb3BC76A364134B7DA988668a0A3830",
+    "lpNftId": "1410727",
+    "lockerAddress": "0xc2BF43daAb0A662eedCE807c9803318BC3326C47"
+  },
+  "clankerInfo": null
+}

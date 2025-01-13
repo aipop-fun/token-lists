@@ -1,0 +1,22 @@
+{
+  "name": "KISHU",
+  "symbol": "KISHU",
+  "decimals": 18,
+  "description": "KISHU is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KISHU",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KISHU",
+  "addresses": {
+    "8453": "0x4174998f3ce2d7b4ba6391901fda4b85a2c73122"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KISHU",
+    "sanitizedSymbol": "KISHU_2",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xd8322Ad33c60C8E3147F5644b4cF2293E088c8E6",
+    "lpNftId": "1269000",
+    "lockerAddress": "0x8C40B33B814b09925C3213C4E40810408D3bf142"
+  },
+  "clankerInfo": null
+}

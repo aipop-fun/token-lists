@@ -1,0 +1,22 @@
+{
+  "name": "CastdotFun",
+  "symbol": "CastdotFun",
+  "decimals": 18,
+  "description": "CastdotFun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CastdotFun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CastdotFun",
+  "addresses": {
+    "8453": "0x38e8121e175bf4bd43afc37fe0c306db39cfeb5d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CastdotFun",
+    "sanitizedSymbol": "CASTDOTFUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232295",
+    "lockerAddress": "0xFe842367808c2Bb224E1fa068602B17dF0b4Fc91"
+  },
+  "clankerInfo": null
+}

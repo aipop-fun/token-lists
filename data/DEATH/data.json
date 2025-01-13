@@ -1,0 +1,22 @@
+{
+  "name": "death",
+  "symbol": "death",
+  "decimals": 18,
+  "description": "death is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=death",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "death",
+  "addresses": {
+    "8453": "0x154faa8dd2b43691ee70f1f85fe9bb809d477d24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "death",
+    "sanitizedSymbol": "DEATH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x09Ca6926f0A1fa30dDc04710Db2d89ec0d73b608",
+    "lpNftId": "1345470",
+    "lockerAddress": "0xCFdBF28BF282614eDa8867D13A999846febE2A11"
+  },
+  "clankerInfo": null
+}

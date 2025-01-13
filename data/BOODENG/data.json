@@ -1,0 +1,22 @@
+{
+  "name": "Boodeng",
+  "symbol": "Boodeng",
+  "decimals": 18,
+  "description": "Boodeng is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boodeng",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boodeng",
+  "addresses": {
+    "8453": "0x30f3763227bbf59e006a2491beadba395e80ebe4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boodeng",
+    "sanitizedSymbol": "BOODENG",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1201023",
+    "lockerAddress": "0x60CFebf2DC8cb74Bd7990a02fa7a2c875Fe7E5BE"
+  },
+  "clankerInfo": null
+}

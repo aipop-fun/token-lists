@@ -1,0 +1,22 @@
+{
+  "name": "Baby Ether",
+  "symbol": "Baby Ether",
+  "decimals": 18,
+  "description": "Baby Ether is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Baby%20Ether",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Baby Ether",
+  "addresses": {
+    "8453": "0x28d6eccfe16a31b9ecbcc7ab7c27c3289d478372"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Baby Ether",
+    "sanitizedSymbol": "BABY_ETHER",
+    "created_at": "2024-12-12T17:14:01.395837",
+    "deployer": "0x946a9Ba3C8c3EEa5f9DCe3c65A0d77850187Cb1D",
+    "lpNftId": "1439225",
+    "lockerAddress": "0x2b87F025165005471dE95365a3Ff21e68294A4CD"
+  },
+  "clankerInfo": null
+}

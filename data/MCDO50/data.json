@@ -1,0 +1,22 @@
+{
+  "name": "McDo50",
+  "symbol": "McDo50",
+  "decimals": 18,
+  "description": "McDo50 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=McDo50",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "McDo50",
+  "addresses": {
+    "8453": "0x00f1a6dbda47d0e6870510cc36b897a70d43d8cf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "McDo50",
+    "sanitizedSymbol": "MCDO50",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1142763",
+    "lockerAddress": "0x5A3De507893697434c09eDef3F839227a094cbEb"
+  },
+  "clankerInfo": null
+}

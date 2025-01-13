@@ -1,0 +1,22 @@
+{
+  "name": "Fluffy",
+  "symbol": "Fluffy",
+  "decimals": 18,
+  "description": "Fluffy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fluffy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fluffy",
+  "addresses": {
+    "8453": "0x337a6808dea6d7c5098a06e819d310b23138df51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fluffy",
+    "sanitizedSymbol": "FLUFFY_2",
+    "created_at": "2024-12-11T07:39:23.617356",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1414102",
+    "lockerAddress": "0x01Aa1376282Ee0B30429c2f34988fC4986c60c81"
+  },
+  "clankerInfo": null
+}

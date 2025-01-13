@@ -1,0 +1,22 @@
+{
+  "name": "ANGER",
+  "symbol": "ANGER",
+  "decimals": 18,
+  "description": "ANGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANGER",
+  "addresses": {
+    "8453": "0x031801c8d1b5f32495243d45f6989bdb66548372"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANGER",
+    "sanitizedSymbol": "ANGER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x305eC3f869c719a6821eD8b83A595Fb5dB406df0",
+    "lpNftId": "1341275",
+    "lockerAddress": "0xc095936aa18bb48F540Cc4C120508aB91c281a1b"
+  },
+  "clankerInfo": null
+}

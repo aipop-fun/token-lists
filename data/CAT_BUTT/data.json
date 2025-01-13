@@ -1,0 +1,22 @@
+{
+  "name": "Cat Butt",
+  "symbol": "Cat Butt",
+  "decimals": 18,
+  "description": "Cat Butt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cat%20Butt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cat Butt",
+  "addresses": {
+    "8453": "0x007dc6f385fd3faac1763f1ea40ece65c9d34c07"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cat Butt",
+    "sanitizedSymbol": "CAT_BUTT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229850",
+    "lockerAddress": "0x937B763f74AAe7b051d87516ecaE1349B4e0E323"
+  },
+  "clankerInfo": null
+}

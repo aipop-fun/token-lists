@@ -1,0 +1,22 @@
+{
+  "name": "Manekineko",
+  "symbol": "Manekineko",
+  "decimals": 18,
+  "description": "Manekineko is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Manekineko",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Manekineko",
+  "addresses": {
+    "8453": "0x0d51db4a9128c0d8af4b9296c6cf978c22f1af12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Manekineko",
+    "sanitizedSymbol": "MANEKINEKO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xd5F9Eb9bEa91e0AaD817D8af6d8BcCB2347bFFee",
+    "lpNftId": "1309324",
+    "lockerAddress": "0x409Af951a76637b28F73a49883852ee8dF4252E1"
+  },
+  "clankerInfo": null
+}

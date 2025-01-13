@@ -1,0 +1,22 @@
+{
+  "name": "Clanket",
+  "symbol": "Clanket",
+  "decimals": 18,
+  "description": "Clanket is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Clanket",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Clanket",
+  "addresses": {
+    "8453": "0x2782fe0cd069ce4a50c691a6e866c6429cc1278f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Clanket",
+    "sanitizedSymbol": "CLANKET",
+    "created_at": "2024-12-09T15:37:51.564257",
+    "deployer": "0x16b4cf27e94AdcD943964EC2B29Ca8f3de0DC1ba",
+    "lpNftId": "1388639",
+    "lockerAddress": "0x2ab74844AdB798DEF7f7AAabcC9e9A3A59eE701A"
+  },
+  "clankerInfo": null
+}

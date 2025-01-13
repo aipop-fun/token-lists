@@ -1,0 +1,22 @@
+{
+  "name": "Anon Cash",
+  "symbol": "Anon Cash",
+  "decimals": 18,
+  "description": "Anon Cash is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Anon%20Cash",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Anon Cash",
+  "addresses": {
+    "8453": "0x3286cb905bd9e82aa03ee298e2a5e688afbf7a7e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Anon Cash",
+    "sanitizedSymbol": "ANON_CASH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222767",
+    "lockerAddress": "0x2cD3e059Fee20bbAED47B97eB4330B0ddc2C397C"
+  },
+  "clankerInfo": null
+}

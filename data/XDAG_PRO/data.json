@@ -1,0 +1,22 @@
+{
+  "name": "Xdag Pro",
+  "symbol": "Xdag Pro",
+  "decimals": 18,
+  "description": "Xdag Pro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Xdag%20Pro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Xdag Pro",
+  "addresses": {
+    "8453": "0x05eff5bdd10e354779ac2abe8dd78bdfb526c375"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Xdag Pro",
+    "sanitizedSymbol": "XDAG_PRO",
+    "created_at": "2024-12-12T00:05:21.500948",
+    "deployer": "0xD119b71605d6a284D44c567F1CB33bED61960817",
+    "lpNftId": "1428064",
+    "lockerAddress": "0xD09378399B52883c227090Ba6C5B8F0c335b8F0e"
+  },
+  "clankerInfo": null
+}

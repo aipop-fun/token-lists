@@ -1,0 +1,22 @@
+{
+  "name": "birdsmeme",
+  "symbol": "birdsmeme",
+  "decimals": 18,
+  "description": "birdsmeme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=birdsmeme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "birdsmeme",
+  "addresses": {
+    "8453": "0x35a0a87ca7f0ba35f2bd89a17d2eb15b82cab0bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "birdsmeme",
+    "sanitizedSymbol": "BIRDSMEME",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x566BbB67eB10cea6Ff0A02D2914980E90Ba55b56",
+    "lpNftId": "1309226",
+    "lockerAddress": "0xd505B828Ccf05fd3885eC2F3c1F4C33a8e6f333c"
+  },
+  "clankerInfo": null
+}

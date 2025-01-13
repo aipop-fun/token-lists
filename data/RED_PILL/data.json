@@ -1,0 +1,22 @@
+{
+  "name": "Red pill",
+  "symbol": "Red pill",
+  "decimals": 18,
+  "description": "Red pill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Red%20pill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Red pill",
+  "addresses": {
+    "8453": "0x419f7e49a9694aa82295a49d0c6e186458a11b88"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Red pill",
+    "sanitizedSymbol": "RED_PILL",
+    "created_at": "2024-12-12T17:40:07.036309",
+    "deployer": "0x3Ad226427D6C1d8a53fb1948EfCd7a98890Fe8C1",
+    "lpNftId": "1439829",
+    "lockerAddress": "0xeC58CcB6e3E2E362fcB8146DC62ad1C5f81A2907"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mulligan",
+  "symbol": "Mulligan",
+  "decimals": 18,
+  "description": "Mulligan is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mulligan",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mulligan",
+  "addresses": {
+    "8453": "0x2f4f5547fcf784deba29c252e5a71d8d9a6ff306"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mulligan",
+    "sanitizedSymbol": "MULLIGAN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237079",
+    "lockerAddress": "0xfFc99E097a735057F0057F88118572C248De4Db8"
+  },
+  "clankerInfo": null
+}

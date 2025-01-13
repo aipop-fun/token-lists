@@ -1,0 +1,22 @@
+{
+  "name": "D.O.G",
+  "symbol": "D.O.G",
+  "decimals": 18,
+  "description": "D.O.G is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=D.O.G",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "D.O.G",
+  "addresses": {
+    "8453": "0x3d0b5944ae72193a369be77d52086fe99494ff1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "D.O.G",
+    "sanitizedSymbol": "D_O_G",
+    "created_at": "2024-12-10T23:10:05.38188",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1408252",
+    "lockerAddress": "0x27DbcF593f343F489625F8BC1bAD7b6cdEE102F5"
+  },
+  "clankerInfo": null
+}

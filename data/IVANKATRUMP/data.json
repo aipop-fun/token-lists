@@ -1,0 +1,22 @@
+{
+  "name": "IvankaTrump",
+  "symbol": "IvankaTrump",
+  "decimals": 18,
+  "description": "IvankaTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=IvankaTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "IvankaTrump",
+  "addresses": {
+    "8453": "0x117a5081d2daa578003ca1c36d68b6fa6d6bf658"
+  },
+  "tokenInfo": {
+    "originalSymbol": "IvankaTrump",
+    "sanitizedSymbol": "IVANKATRUMP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x20cAC15393910Bd59D3fec04FE324cC35b45EeF6",
+    "lpNftId": "1124485",
+    "lockerAddress": "0xb8CE71a7fE34B4722D1EBacf1D8cbBeD7c44344d"
+  },
+  "clankerInfo": null
+}

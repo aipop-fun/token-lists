@@ -1,14 +1,22 @@
 {
-  "name": "Subsquid",
+  "name": "SQD",
   "symbol": "SQD",
   "decimals": 18,
-  "description": "SQD enables permissionless, cost-efficient access to petabytes of high-value Web3 data",
-  "website": "https://www.sqd.dev/",
-  "twitter": "https://x.com/helloSQD",
-  "logoURI": "https://res.cloudinary.com/de9uloihj/image/upload/v1733403078/Symbol_wh-bg_f3jvmu.png",
+  "description": "SQD is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SQD",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
   "opTokenId": "SQD",
   "addresses": {
-    "1": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
-    "8453": "0xd4554BEa546EFa83C1E6B389ecac40EA999B3E78"
-   }
+    "8453": "0x2f291ea225de398966f1410b4bb2ebc566e86d75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SQD",
+    "sanitizedSymbol": "SQD",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x21Ed0A373d20980092B07D23750E0677bdA68771",
+    "lpNftId": "1319961",
+    "lockerAddress": "0x9Ea5a9Ce40D3B428D79625E7A60e99dcC74642B4"
+  },
+  "clankerInfo": null
 }

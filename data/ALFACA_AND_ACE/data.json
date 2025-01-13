@@ -1,0 +1,22 @@
+{
+  "name": "Alfaca and Ace",
+  "symbol": "Alfaca and Ace",
+  "decimals": 18,
+  "description": "Alfaca and Ace is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alfaca%20and%20Ace",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alfaca and Ace",
+  "addresses": {
+    "8453": "0x340df851a0d53a804f33207083a51f7c11ce9032"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alfaca and Ace",
+    "sanitizedSymbol": "ALFACA_AND_ACE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x961088b76a515D437D9e3e1fc9D24Bd295FF3b67",
+    "lpNftId": "1345240",
+    "lockerAddress": "0x2a75A604844Cf541728C149f4C092FC633444087"
+  },
+  "clankerInfo": null
+}

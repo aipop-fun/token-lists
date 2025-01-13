@@ -1,0 +1,22 @@
+{
+  "name": "League of Thrones",
+  "symbol": "League of Thrones",
+  "decimals": 18,
+  "description": "League of Thrones is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=League%20of%20Thrones",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "League of Thrones",
+  "addresses": {
+    "8453": "0x343641402bcf17c6579476dcb5c4d71dd5f93921"
+  },
+  "tokenInfo": {
+    "originalSymbol": "League of Thrones",
+    "sanitizedSymbol": "LEAGUE_OF_THRONES",
+    "created_at": "2024-12-11T08:34:53.208686",
+    "deployer": "0x0B4509F330Ff558090571861a723F71657a26f78",
+    "lpNftId": "1415090",
+    "lockerAddress": "0xedf88c239e201Bf28Fb589bEfBf159a5e782FC15"
+  },
+  "clankerInfo": null
+}

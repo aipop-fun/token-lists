@@ -1,0 +1,22 @@
+{
+  "name": "Warpcast for Fun",
+  "symbol": "Warpcast for Fun",
+  "decimals": 18,
+  "description": "Warpcast for Fun is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpcast%20for%20Fun",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpcast for Fun",
+  "addresses": {
+    "8453": "0x287fcbd781688a8a64cfb99ae99d000b37eae223"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpcast for Fun",
+    "sanitizedSymbol": "WARPCAST_FOR_FUN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225243",
+    "lockerAddress": "0x53De4e311fa0D2c1DBF5C0889Cd8204c91ea9B7D"
+  },
+  "clankerInfo": null
+}

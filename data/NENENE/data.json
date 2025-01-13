@@ -1,0 +1,22 @@
+{
+  "name": "nenene",
+  "symbol": "nenene",
+  "decimals": 18,
+  "description": "nenene is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=nenene",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "nenene",
+  "addresses": {
+    "8453": "0x408914e96c33b6b7f4c10001f042cf4d56611786"
+  },
+  "tokenInfo": {
+    "originalSymbol": "nenene",
+    "sanitizedSymbol": "NENENE",
+    "created_at": "2024-12-11T02:58:38.702246",
+    "deployer": "0x677815c69018cbff0201374Dfd1a61d410049b7f",
+    "lpNftId": "1411320",
+    "lockerAddress": "0x9C6b1009e175791a47aeF8ffdDD699fe17F9Ee35"
+  },
+  "clankerInfo": null
+}

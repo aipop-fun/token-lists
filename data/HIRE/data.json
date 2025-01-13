@@ -1,0 +1,22 @@
+{
+  "name": "hire",
+  "symbol": "hire",
+  "decimals": 18,
+  "description": "hire is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=hire",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "hire",
+  "addresses": {
+    "8453": "0x36cf68c66dd14d804b495f1980caa5a6d91f9174"
+  },
+  "tokenInfo": {
+    "originalSymbol": "hire",
+    "sanitizedSymbol": "HIRE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120044",
+    "lockerAddress": "0x384f68B2fEcEfC5923f83C72F27cC02cdB10047b"
+  },
+  "clankerInfo": null
+}

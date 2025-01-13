@@ -1,0 +1,22 @@
+{
+  "name": "PresidentYoon",
+  "symbol": "PresidentYoon",
+  "decimals": 18,
+  "description": "PresidentYoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PresidentYoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PresidentYoon",
+  "addresses": {
+    "8453": "0x229ac6e484077fc06b9c49a0e2ec910e11e5a693"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PresidentYoon",
+    "sanitizedSymbol": "PRESIDENTYOON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3F2f644A37924532d501A00dC4356EE376be2276",
+    "lpNftId": "1309467",
+    "lockerAddress": "0x6a17090cbD79cBC2fDdC569974edb6739fdE2e76"
+  },
+  "clankerInfo": null
+}

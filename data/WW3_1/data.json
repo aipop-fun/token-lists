@@ -1,0 +1,22 @@
+{
+  "name": "WW3",
+  "symbol": "WW3",
+  "decimals": 18,
+  "description": "WW3 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WW3",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WW3",
+  "addresses": {
+    "8453": "0x3c0f4adbbe969038b3644bbdbdb25b338b9cf08b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WW3",
+    "sanitizedSymbol": "WW3_1",
+    "created_at": "2024-12-11T01:07:16.782846",
+    "deployer": "0x9d3f687a2B1b215B92886Bb93E89633bF9579fA7",
+    "lpNftId": "1409278",
+    "lockerAddress": "0x49bCd3629Bd797aeB48cF03671545aF64c6E2c2A"
+  },
+  "clankerInfo": null
+}

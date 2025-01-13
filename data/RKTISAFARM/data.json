@@ -1,0 +1,22 @@
+{
+  "name": "Rktisafarm",
+  "symbol": "Rktisafarm",
+  "decimals": 18,
+  "description": "Rktisafarm is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rktisafarm",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rktisafarm",
+  "addresses": {
+    "8453": "0x3cfbfa79d460f04f6c5e4b5b1dbbfa127b459596"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rktisafarm",
+    "sanitizedSymbol": "RKTISAFARM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1213806",
+    "lockerAddress": "0x8b59465ddA43E7656c13548bdcd83A0556DE9f5F"
+  },
+  "clankerInfo": null
+}

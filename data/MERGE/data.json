@@ -1,0 +1,22 @@
+{
+  "name": "Merge",
+  "symbol": "Merge",
+  "decimals": 18,
+  "description": "Merge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Merge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Merge",
+  "addresses": {
+    "8453": "0x1ad8792adb10b15484690cef8d63896807419ef4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Merge",
+    "sanitizedSymbol": "MERGE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1124716",
+    "lockerAddress": "0xA6C466529559e0c577310Ae27849570c710c6Fef"
+  },
+  "clankerInfo": null
+}

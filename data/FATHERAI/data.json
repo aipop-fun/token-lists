@@ -1,0 +1,22 @@
+{
+  "name": "fatherai",
+  "symbol": "fatherai",
+  "decimals": 18,
+  "description": "fatherai is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=fatherai",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "fatherai",
+  "addresses": {
+    "8453": "0x26722b913e22e7601d7afb136162588e7a2aa21c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "fatherai",
+    "sanitizedSymbol": "FATHERAI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xB42b0b1D0F3946B96ed9c741f7Ef71DAe767541b",
+    "lpNftId": "1252302",
+    "lockerAddress": "0xC3bf1f65409CF4cd9Ab9aeB9DfC7b5C0f9dcFd27"
+  },
+  "clankerInfo": null
+}

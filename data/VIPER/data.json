@@ -1,0 +1,22 @@
+{
+  "name": "VIPER",
+  "symbol": "VIPER",
+  "decimals": 18,
+  "description": "VIPER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VIPER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VIPER",
+  "addresses": {
+    "8453": "0x28847a6a448099e85ea4c075f22fbc482ca81425"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VIPER",
+    "sanitizedSymbol": "VIPER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x5159aE3742346400A9d76edaDa749255e77D6f50",
+    "lpNftId": "1250530",
+    "lockerAddress": "0x001B7f53B8CF7545d22659B14397dd0F78fE3632"
+  },
+  "clankerInfo": null
+}

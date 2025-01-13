@@ -1,0 +1,22 @@
+{
+  "name": "pepe on doge",
+  "symbol": "pepe on doge",
+  "decimals": 18,
+  "description": "pepe on doge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=pepe%20on%20doge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "pepe on doge",
+  "addresses": {
+    "8453": "0x2fcc694d23020ab390e8d6ed93e572eb6981b232"
+  },
+  "tokenInfo": {
+    "originalSymbol": "pepe on doge",
+    "sanitizedSymbol": "PEPE_ON_DOGE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc8B1f728778812Ca5F7FB5595367b338a6a4D80e",
+    "lpNftId": "1283908",
+    "lockerAddress": "0x16C30d6DDD3077dC6E2A19291d0A216848BB8095"
+  },
+  "clankerInfo": null
+}

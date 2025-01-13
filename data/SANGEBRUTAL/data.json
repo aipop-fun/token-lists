@@ -1,0 +1,22 @@
+{
+  "name": "sangebrutal",
+  "symbol": "sangebrutal",
+  "decimals": 18,
+  "description": "sangebrutal is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sangebrutal",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sangebrutal",
+  "addresses": {
+    "8453": "0x39fa9b43118653e1d0957040e843f10b79595add"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sangebrutal",
+    "sanitizedSymbol": "SANGEBRUTAL",
+    "created_at": "2024-12-12T19:20:23.905717",
+    "deployer": "0x9928C3Ee27d2C3EE6dF76ddcA35f42AC1B86b8dD",
+    "lpNftId": "1441579",
+    "lockerAddress": "0x7C74bC96De1B5525b11a9979eabA63F6CeB9465F"
+  },
+  "clankerInfo": null
+}

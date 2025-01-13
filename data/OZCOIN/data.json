@@ -1,0 +1,22 @@
+{
+  "name": "OzCoin",
+  "symbol": "OzCoin",
+  "decimals": 18,
+  "description": "OzCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OzCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OzCoin",
+  "addresses": {
+    "8453": "0x09c29bbc7910d235d38e2d50c4f190999df1c49e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OzCoin",
+    "sanitizedSymbol": "OZCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1144062",
+    "lockerAddress": "0xBAA95596EA74ba4fA76E0949F405A040D4624DB8"
+  },
+  "clankerInfo": null
+}

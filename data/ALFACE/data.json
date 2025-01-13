@@ -1,0 +1,22 @@
+{
+  "name": "Alface",
+  "symbol": "Alface",
+  "decimals": 18,
+  "description": "Alface is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alface",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alface",
+  "addresses": {
+    "8453": "0x2697371df4db3aec63cc8788f6376cefcc644603"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alface",
+    "sanitizedSymbol": "ALFACE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x24538Ea078D3ce04abaB795caA6EA9D4C3eBF02E",
+    "lpNftId": "1319652",
+    "lockerAddress": "0x4e8e89Aab8466771716635ae6048FA896C2d79D8"
+  },
+  "clankerInfo": null
+}

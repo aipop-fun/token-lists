@@ -1,0 +1,22 @@
+{
+  "name": "Lunar Lambo",
+  "symbol": "Lunar Lambo",
+  "decimals": 18,
+  "description": "Lunar Lambo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lunar%20Lambo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lunar Lambo",
+  "addresses": {
+    "8453": "0x2936a6b3fa5916a2347330f38d4a1dbaecb80deb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lunar Lambo",
+    "sanitizedSymbol": "LUNAR_LAMBO",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x8b2c95A97570217d35b7438091E5789a0eF26a74",
+    "lpNftId": "1264531",
+    "lockerAddress": "0xd02D2f5Af92983C471a1fFb56AEAf1964363b325"
+  },
+  "clankerInfo": null
+}

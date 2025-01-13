@@ -1,0 +1,22 @@
+{
+  "name": "Happiness",
+  "symbol": "Happiness",
+  "decimals": 18,
+  "description": "Happiness is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Happiness",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Happiness",
+  "addresses": {
+    "8453": "0x1ea68cff071d6c2ae9f284211da0b267fd014f70"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Happiness",
+    "sanitizedSymbol": "HAPPINESS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdA079046C5676190F3E024cf992bB71A7855C590",
+    "lpNftId": "1300026",
+    "lockerAddress": "0x39c8CAF2E3Bbf2Afe7b33E11a4F9055bdbC4A38B"
+  },
+  "clankerInfo": null
+}

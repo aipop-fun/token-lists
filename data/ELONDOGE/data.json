@@ -1,0 +1,22 @@
+{
+  "name": "ElonDoge",
+  "symbol": "ElonDoge",
+  "decimals": 18,
+  "description": "ElonDoge is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ElonDoge",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ElonDoge",
+  "addresses": {
+    "8453": "0x2619ac2de8b716b33e3bff24f2e20a0e23d8c2d3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ElonDoge",
+    "sanitizedSymbol": "ELONDOGE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcf74BbBDDBB7ed5129a715F20d1cC34Fe1124fe4",
+    "lpNftId": "1324286",
+    "lockerAddress": "0xEabE714F0443237904Fcb2262A931287B58BEA69"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ANONBRETT BASE",
+  "symbol": "ANONBRETT BASE",
+  "decimals": 18,
+  "description": "ANONBRETT BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ANONBRETT%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ANONBRETT BASE",
+  "addresses": {
+    "8453": "0x4134032f3addd644327ce4831ad52a9c7d6860c6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ANONBRETT BASE",
+    "sanitizedSymbol": "ANONBRETT_BASE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5a9c258d4037f46873b42893F4A7a11288628f9c",
+    "lpNftId": "1292295",
+    "lockerAddress": "0x5B2C9c5d8e38010598E3A75FC845925CaBdDdc79"
+  },
+  "clankerInfo": null
+}

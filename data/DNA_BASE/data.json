@@ -1,0 +1,22 @@
+{
+  "name": "DNA BASE",
+  "symbol": "DNA BASE",
+  "decimals": 18,
+  "description": "DNA BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DNA%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DNA BASE",
+  "addresses": {
+    "8453": "0x3701005c937e7744c769456e5d87e2e9303a6986"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DNA BASE",
+    "sanitizedSymbol": "DNA_BASE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224629",
+    "lockerAddress": "0x2881AD3afE9ef777135b25d43d48B1a901936a91"
+  },
+  "clankerInfo": null
+}

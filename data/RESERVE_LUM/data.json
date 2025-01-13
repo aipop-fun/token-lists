@@ -1,0 +1,22 @@
+{
+  "name": "Reserve Lum",
+  "symbol": "Reserve Lum",
+  "decimals": 18,
+  "description": "Reserve Lum is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Reserve%20Lum",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Reserve Lum",
+  "addresses": {
+    "8453": "0x203eaea26e0794ba9409811b1585562f53ac593e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Reserve Lum",
+    "sanitizedSymbol": "RESERVE_LUM",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDbeF70725CC6c8d35d59458AAFFE1834C257a2F1",
+    "lpNftId": "1323565",
+    "lockerAddress": "0x2cF71951d751b8FA6165695fBc6268323784AEfD"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Active Directory",
+  "symbol": "Active Directory",
+  "decimals": 18,
+  "description": "Active Directory is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Active%20Directory",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Active Directory",
+  "addresses": {
+    "8453": "0x3632610c020719e7fecb1de184fec1f5526651d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Active Directory",
+    "sanitizedSymbol": "ACTIVE_DIRECTORY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1235612",
+    "lockerAddress": "0xF201cC64ef548920d082cc27bCE3bA3bd5FeFac7"
+  },
+  "clankerInfo": null
+}

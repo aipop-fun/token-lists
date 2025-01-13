@@ -1,0 +1,22 @@
+{
+  "name": "Doggy Punk",
+  "symbol": "Doggy Punk",
+  "decimals": 18,
+  "description": "Doggy Punk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Doggy%20Punk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Doggy Punk",
+  "addresses": {
+    "8453": "0x1f8e6c58a49ac8e4679cd22118207e34b49f7a0f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Doggy Punk",
+    "sanitizedSymbol": "DOGGY_PUNK",
+    "created_at": "2024-12-09T06:17:12.044975",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1383810",
+    "lockerAddress": "0x3D0C2aE3ac2AF7F987c4482A37232bECB5DBEe3d"
+  },
+  "clankerInfo": null
+}

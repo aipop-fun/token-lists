@@ -1,0 +1,22 @@
+{
+  "name": "Raneza",
+  "symbol": "Raneza",
+  "decimals": 18,
+  "description": "Raneza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Raneza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Raneza",
+  "addresses": {
+    "8453": "0x34cb6245b0489f2db062cadd9a3d0b438278d9f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Raneza",
+    "sanitizedSymbol": "RANEZA",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x62b9ac35FAa5B39a66E13ff5A1Ca74E16f3E2aa1",
+    "lpNftId": "1264728",
+    "lockerAddress": "0x9c947837E8bD61B1A228BA301073d49b08E8b226"
+  },
+  "clankerInfo": null
+}

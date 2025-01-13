@@ -1,0 +1,22 @@
+{
+  "name": "Yougobot",
+  "symbol": "Yougobot",
+  "decimals": 18,
+  "description": "Yougobot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Yougobot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Yougobot",
+  "addresses": {
+    "8453": "0x15b1e469b833c63285fd49f4cad3113926b8a364"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Yougobot",
+    "sanitizedSymbol": "YOUGOBOT",
+    "created_at": "2024-12-11T07:23:17.546265",
+    "deployer": "0x123DC41810c5AFe49C47b5D828736aE5CC14Db90",
+    "lpNftId": "1414058",
+    "lockerAddress": "0x2ee82Ceef77f346c4f9a45b83d4603F13D2e441A"
+  },
+  "clankerInfo": null
+}

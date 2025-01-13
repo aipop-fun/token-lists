@@ -1,0 +1,22 @@
+{
+  "name": "GoobGremlin",
+  "symbol": "GoobGremlin",
+  "decimals": 18,
+  "description": "GoobGremlin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GoobGremlin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GoobGremlin",
+  "addresses": {
+    "8453": "0x337b43d2f68965a5fe51988028fac859a5965ffd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GoobGremlin",
+    "sanitizedSymbol": "GOOBGREMLIN",
+    "created_at": "2024-12-10T02:33:13.53036",
+    "deployer": "0x94aB17e889E5A8A3d4a874a8afE74C85b19089Ca",
+    "lpNftId": "1395193",
+    "lockerAddress": "0xfE686E047E3df10297Fb101134D5e448558fe90F"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LETSGO MARS",
+  "symbol": "LETSGO MARS",
+  "decimals": 18,
+  "description": "LETSGO MARS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LETSGO%20MARS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LETSGO MARS",
+  "addresses": {
+    "8453": "0x1a496500f00408f28ea2c7539d7c1541352c52e8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LETSGO MARS",
+    "sanitizedSymbol": "LETSGO_MARS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204440",
+    "lockerAddress": "0x9961dC46581C7D8633ef9B4EeFc1F12ED523a222"
+  },
+  "clankerInfo": null
+}

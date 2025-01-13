@@ -1,0 +1,22 @@
+{
+  "name": "Super Clanker",
+  "symbol": "Super Clanker",
+  "decimals": 18,
+  "description": "Super Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Super%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Super Clanker",
+  "addresses": {
+    "8453": "0x29618654416205da297e9dd04e81bda0e9f62d28"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Super Clanker",
+    "sanitizedSymbol": "SUPER_CLANKER",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x9C35739128867BfB69fDfC6Df6386Ee6C4c4cceD",
+    "lpNftId": "1315597",
+    "lockerAddress": "0xB1805391beFa19C5552811A9dBc1866757044C0E"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Rainbow Shark",
+  "symbol": "Rainbow Shark",
+  "decimals": 18,
+  "description": "Rainbow Shark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Rainbow%20Shark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Rainbow Shark",
+  "addresses": {
+    "8453": "0x0d504a3ba15234d02411ef57b389f21c5231ed4b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Rainbow Shark",
+    "sanitizedSymbol": "RAINBOW_SHARK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x180D4A7c54bAdB851AaC45Cdd612A13e666a9Ff6",
+    "lpNftId": "1285345",
+    "lockerAddress": "0x583B600C31099a1D1C70a826180c45A19941eC37"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Centenarian Bitcoin",
+  "symbol": "Centenarian Bitcoin",
+  "decimals": 18,
+  "description": "Centenarian Bitcoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Centenarian%20Bitcoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Centenarian Bitcoin",
+  "addresses": {
+    "8453": "0x2226d93b39d1b01216de7da70a2868b2ee2f04f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Centenarian Bitcoin",
+    "sanitizedSymbol": "CENTENARIAN_BITCOIN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xDD4B0803d8cEA3095b8D4dfC0C753A1fdee945B1",
+    "lpNftId": "1331263",
+    "lockerAddress": "0xF18553a1CC03d9d2b6e0906795A4398e78b8629f"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "vitalik mfer",
+  "symbol": "vitalik mfer",
+  "decimals": 18,
+  "description": "vitalik mfer is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vitalik%20mfer",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vitalik mfer",
+  "addresses": {
+    "8453": "0x31fabd5d2d56e030db4870335e947edffbb3bd74"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vitalik mfer",
+    "sanitizedSymbol": "VITALIK_MFER",
+    "created_at": "2024-12-12T17:45:30.816355",
+    "deployer": "0xD37EE843d8a906912543F01E43f13fD7F7753EE2",
+    "lpNftId": "1440031",
+    "lockerAddress": "0x47b5a70DA554691C6288ecE2e6D71e481C18e557"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Monday",
+  "symbol": "Monday",
+  "decimals": 18,
+  "description": "Monday is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monday",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monday",
+  "addresses": {
+    "8453": "0x1ef139c77e8210f42def7a8e9246d1475f78f0b7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monday",
+    "sanitizedSymbol": "MONDAY_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229912",
+    "lockerAddress": "0x713d83E0A74378fCB2b78C386771BeBa91D1A791"
+  },
+  "clankerInfo": null
+}

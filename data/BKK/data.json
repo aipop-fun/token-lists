@@ -1,0 +1,22 @@
+{
+  "name": "bkk",
+  "symbol": "bkk",
+  "decimals": 18,
+  "description": "bkk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bkk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bkk",
+  "addresses": {
+    "8453": "0x13e4433e35d8d3dbddb69916dfaab24a507c95ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bkk",
+    "sanitizedSymbol": "BKK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xa319E7c98a2Fa86527081BC178F9AfeDCEb0A7df",
+    "lpNftId": "1250626",
+    "lockerAddress": "0x029E402Fb74E7De8a8781e35423346545A277F62"
+  },
+  "clankerInfo": null
+}

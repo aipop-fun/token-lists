@@ -1,0 +1,22 @@
+{
+  "name": "Night",
+  "symbol": "Night",
+  "decimals": 18,
+  "description": "Night is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Night",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Night",
+  "addresses": {
+    "8453": "0x0e83b903d44afac4ed215a04470633d36b140076"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Night",
+    "sanitizedSymbol": "NIGHT_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6684E0C8F79d37e173f85A6a9DF792a133809f49",
+    "lpNftId": "1320640",
+    "lockerAddress": "0x09eb629511FDFDD5887cd311cbf89C42d647fFFA"
+  },
+  "clankerInfo": null
+}

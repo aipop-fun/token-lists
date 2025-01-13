@@ -1,0 +1,22 @@
+{
+  "name": "DecemBull",
+  "symbol": "DecemBull",
+  "decimals": 18,
+  "description": "DecemBull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DecemBull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DecemBull",
+  "addresses": {
+    "8453": "0x29b71fb142d5f362c2c38faa55cdec2a964af921"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DecemBull",
+    "sanitizedSymbol": "DECEMBULL",
+    "created_at": "2024-12-10T07:33:17.776754",
+    "deployer": "0x946a9Ba3C8c3EEa5f9DCe3c65A0d77850187Cb1D",
+    "lpNftId": "1398030",
+    "lockerAddress": "0x7fdA4844043Ea7d11b06a8A8EcBabdE712E6E7A9"
+  },
+  "clankerInfo": null
+}

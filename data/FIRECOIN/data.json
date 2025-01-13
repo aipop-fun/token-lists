@@ -1,0 +1,22 @@
+{
+  "name": "Firecoin",
+  "symbol": "Firecoin",
+  "decimals": 18,
+  "description": "Firecoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Firecoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Firecoin",
+  "addresses": {
+    "8453": "0x40df97a9e744e47fa13129815d1b54a859917371"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Firecoin",
+    "sanitizedSymbol": "FIRECOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9392ddaE98D3deC483F604EC2AEb597d4F15DA65",
+    "lpNftId": "1274920",
+    "lockerAddress": "0x8517ac4Af75ACf01D9aaa02815665A5cAeA95934"
+  },
+  "clankerInfo": null
+}

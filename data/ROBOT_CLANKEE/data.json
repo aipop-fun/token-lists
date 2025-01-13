@@ -1,0 +1,22 @@
+{
+  "name": "robot clankee",
+  "symbol": "robot clankee",
+  "decimals": 18,
+  "description": "robot clankee is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=robot%20clankee",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "robot clankee",
+  "addresses": {
+    "8453": "0x30177575cb22d1661d66acea4288485e8e4e9897"
+  },
+  "tokenInfo": {
+    "originalSymbol": "robot clankee",
+    "sanitizedSymbol": "ROBOT_CLANKEE",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x1711f0Db0b40Cd695c82AB40C938B083209f5f2a",
+    "lpNftId": "1251956",
+    "lockerAddress": "0x6A58770bBb1DBE399534E4B6dA91bF0b0B03346A"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "FrostCoin",
+  "symbol": "FrostCoin",
+  "decimals": 18,
+  "description": "FrostCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrostCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrostCoin",
+  "addresses": {
+    "8453": "0x08eae895de9a2c82d2439e9ea1788cddd8fce4f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrostCoin",
+    "sanitizedSymbol": "FROSTCOIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x31a41573368dC725a54041F5d4cC00f24eFbc8F0",
+    "lpNftId": "1320970",
+    "lockerAddress": "0x600550EBe8993d6fD30Aa77bFf0F1Bcd0d6ea20F"
+  },
+  "clankerInfo": null
+}

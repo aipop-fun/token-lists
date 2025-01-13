@@ -1,0 +1,22 @@
+{
+  "name": "BOOK OF CLANKER",
+  "symbol": "BOOK OF CLANKER",
+  "decimals": 18,
+  "description": "BOOK OF CLANKER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BOOK%20OF%20CLANKER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BOOK OF CLANKER",
+  "addresses": {
+    "8453": "0x02f18a0d01e702bc0693f9f6377c85f530d471bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BOOK OF CLANKER",
+    "sanitizedSymbol": "BOOK_OF_CLANKER",
+    "created_at": "2024-12-09T08:15:58.82357",
+    "deployer": "0x62E5875614b44fE7040246236c55DbB2664FA4A9",
+    "lpNftId": "1384642",
+    "lockerAddress": "0x37e3849b24114369bF3ccE1F103EC139D48bC41C"
+  },
+  "clankerInfo": null
+}

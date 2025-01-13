@@ -1,0 +1,22 @@
+{
+  "name": "Jump",
+  "symbol": "Jump",
+  "decimals": 18,
+  "description": "Jump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jump",
+  "addresses": {
+    "8453": "0x008461e48a9e354c7f919269d122a28778850556"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jump",
+    "sanitizedSymbol": "JUMP",
+    "created_at": "2024-12-09T09:56:49.234098",
+    "deployer": "0x3EeD6645C72e5a9C10e4b3dEEa172305D8857D89",
+    "lpNftId": "1385507",
+    "lockerAddress": "0x42388C9b0CA560057b0d195DDA35bC00dB7465d2"
+  },
+  "clankerInfo": null
+}

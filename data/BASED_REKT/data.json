@@ -1,0 +1,22 @@
+{
+  "name": "Based Rekt",
+  "symbol": "Based Rekt",
+  "decimals": 18,
+  "description": "Based Rekt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Rekt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Rekt",
+  "addresses": {
+    "8453": "0x02b169e3727d4ab68de08df27b2adf3c6fbaaeb4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Rekt",
+    "sanitizedSymbol": "BASED_REKT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x6c9f6808F5EE35D59b9f2a474522C87BA75CFf00",
+    "lpNftId": "1291101",
+    "lockerAddress": "0x7183e4f7897c758c50EEdF97d7517Aef795ebc45"
+  },
+  "clankerInfo": null
+}

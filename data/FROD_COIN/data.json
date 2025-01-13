@@ -1,0 +1,22 @@
+{
+  "name": "FROD COIN",
+  "symbol": "FROD COIN",
+  "decimals": 18,
+  "description": "FROD COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FROD%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FROD COIN",
+  "addresses": {
+    "8453": "0x27aeef8e040dbe76950bf375d2d570a4d207e4e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FROD COIN",
+    "sanitizedSymbol": "FROD_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x00169219376146760298417404949075285CAb72",
+    "lpNftId": "1189005",
+    "lockerAddress": "0x6027baE8a787e1CaC756793D71B439AC4A02260A"
+  },
+  "clankerInfo": null
+}

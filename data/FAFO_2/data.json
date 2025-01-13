@@ -1,0 +1,22 @@
+{
+  "name": "FAFO",
+  "symbol": "FAFO",
+  "decimals": 18,
+  "description": "FAFO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FAFO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FAFO",
+  "addresses": {
+    "8453": "0x20f024ed3008a0fdf20643c5812aeaa168d9145c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FAFO",
+    "sanitizedSymbol": "FAFO_2",
+    "created_at": "2024-12-12T15:46:33.512971",
+    "deployer": "0x7309FD10e0838f779ec026090356CB791c68DBA4",
+    "lpNftId": "1437336",
+    "lockerAddress": "0x617BF141aD31E28DB1E10670Ffb27e47760Ee88f"
+  },
+  "clankerInfo": null
+}

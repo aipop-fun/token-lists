@@ -1,0 +1,22 @@
+{
+  "name": "Chill Gen Z",
+  "symbol": "Chill Gen Z",
+  "decimals": 18,
+  "description": "Chill Gen Z is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Chill%20Gen%20Z",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Chill Gen Z",
+  "addresses": {
+    "8453": "0x239e0786c5552fdf542d9af02131b5cfc84c3e95"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Chill Gen Z",
+    "sanitizedSymbol": "CHILL_GEN_Z",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAa66fC4433DFD254F05A720A8c8a2f1F2fbDCB58",
+    "lpNftId": "1341731",
+    "lockerAddress": "0x7a2DFb772Fe5Dd00C7a12E6D7FAba2f04872e462"
+  },
+  "clankerInfo": null
+}

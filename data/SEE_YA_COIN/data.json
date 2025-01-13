@@ -1,0 +1,22 @@
+{
+  "name": "See Ya Coin",
+  "symbol": "See Ya Coin",
+  "decimals": 18,
+  "description": "See Ya Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=See%20Ya%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "See Ya Coin",
+  "addresses": {
+    "8453": "0x19b92dd2feff4b197e8abbb6e6c21d8d478439c5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "See Ya Coin",
+    "sanitizedSymbol": "SEE_YA_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128616",
+    "lockerAddress": "0x103dfF5100E25d9308e0bef33325042ae75b577c"
+  },
+  "clankerInfo": null
+}

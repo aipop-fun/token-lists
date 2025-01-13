@@ -1,0 +1,22 @@
+{
+  "name": "SUPERBULL",
+  "symbol": "SUPERBULL",
+  "decimals": 18,
+  "description": "SUPERBULL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SUPERBULL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SUPERBULL",
+  "addresses": {
+    "8453": "0x1a134d0e34773a83e4c70e0520e6d1731353fc75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SUPERBULL",
+    "sanitizedSymbol": "SUPERBULL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1157541",
+    "lockerAddress": "0xd5A7Ac25E423732D8E526bfc840527aA2e41d4aD"
+  },
+  "clankerInfo": null
+}

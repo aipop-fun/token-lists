@@ -1,0 +1,22 @@
+{
+  "name": "musk",
+  "symbol": "musk",
+  "decimals": 18,
+  "description": "musk is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=musk",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "musk",
+  "addresses": {
+    "8453": "0x18cc84852d9e090070462a1b59c6b7e15e8a230d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "musk",
+    "sanitizedSymbol": "MUSK_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232167",
+    "lockerAddress": "0x4F15A295a5689cCe8C44f73f37b65e4B8194A27E"
+  },
+  "clankerInfo": null
+}

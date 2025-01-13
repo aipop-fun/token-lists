@@ -1,0 +1,22 @@
+{
+  "name": "LIMPdic",
+  "symbol": "LIMPdic",
+  "decimals": 18,
+  "description": "LIMPdic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LIMPdic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LIMPdic",
+  "addresses": {
+    "8453": "0x0c792f791e6990dc4922a6aceb2e963837ee1c0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LIMPdic",
+    "sanitizedSymbol": "LIMPDIC",
+    "created_at": "2024-12-09T18:31:43.065094",
+    "deployer": "0x2EF975b67ce9dda4Da3B483CA1C97ff5c9E8800C",
+    "lpNftId": "1390248",
+    "lockerAddress": "0x9fD9c1751c0C3Fbb3b6e26FB069242FDbe35f146"
+  },
+  "clankerInfo": null
+}

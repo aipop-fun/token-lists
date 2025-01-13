@@ -1,0 +1,22 @@
+{
+  "name": "Based Pudgy Penguins",
+  "symbol": "Based Pudgy Penguins",
+  "decimals": 18,
+  "description": "Based Pudgy Penguins is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Pudgy%20Penguins",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Pudgy Penguins",
+  "addresses": {
+    "8453": "0x26ffdd6275a4c4dda4ad0821374b5f6b87cec0d9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Pudgy Penguins",
+    "sanitizedSymbol": "BASED_PUDGY_PENGUINS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x8152dA697dF99c9E3306667a94a2a21dAD3bBA30",
+    "lpNftId": "1363939",
+    "lockerAddress": "0x0366246ce71479dd0B3Ddc42A356388c141D02f2"
+  },
+  "clankerInfo": null
+}

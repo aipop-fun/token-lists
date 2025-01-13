@@ -1,0 +1,22 @@
+{
+  "name": "President",
+  "symbol": "President",
+  "decimals": 18,
+  "description": "President is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=President",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "President",
+  "addresses": {
+    "8453": "0x1debb43521501edc204a34069badbf227d25266b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "President",
+    "sanitizedSymbol": "PRESIDENT",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3Cf7D788960A44c3da4E25fBEA530D78E61e3853",
+    "lpNftId": "1314669",
+    "lockerAddress": "0x967Ce9f920257283b739AaB3C2dF4A29eF7BcCF5"
+  },
+  "clankerInfo": null
+}

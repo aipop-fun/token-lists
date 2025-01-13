@@ -1,0 +1,22 @@
+{
+  "name": "ETH 10k$",
+  "symbol": "ETH 10k$",
+  "decimals": 18,
+  "description": "ETH 10k$ is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ETH%2010k%24",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ETH 10k$",
+  "addresses": {
+    "8453": "0x0519202c91873e92bb8d05c8905e90ec61b93011"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ETH 10k$",
+    "sanitizedSymbol": "ETH_10K",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225842",
+    "lockerAddress": "0x006064CFb1dAD583A327075eE9282E288A3520Da"
+  },
+  "clankerInfo": null
+}

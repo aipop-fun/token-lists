@@ -1,0 +1,22 @@
+{
+  "name": "HOP",
+  "symbol": "HOP",
+  "decimals": 18,
+  "description": "HOP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HOP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HOP",
+  "addresses": {
+    "8453": "0x1376d2930ab723b206a3ac8d45e0795f50b19db6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HOP",
+    "sanitizedSymbol": "HOP",
+    "created_at": "2024-12-09T15:41:09.956304",
+    "deployer": "0x884e04811e27eD661908C319a9044A9f387eb1a8",
+    "lpNftId": "1388685",
+    "lockerAddress": "0xA3D03f51f5F95EA4D5992AdE5586769b425D4Aad"
+  },
+  "clankerInfo": null
+}

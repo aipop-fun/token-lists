@@ -1,0 +1,22 @@
+{
+  "name": "DISHMAN",
+  "symbol": "DISHMAN",
+  "decimals": 18,
+  "description": "DISHMAN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DISHMAN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DISHMAN",
+  "addresses": {
+    "8453": "0x0b0d84408477553fd83502f6ba543bc380b7022f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DISHMAN",
+    "sanitizedSymbol": "DISHMAN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1197044",
+    "lockerAddress": "0x3A26c5aDa6903c8abF502a8f597a2DE5716c139B"
+  },
+  "clankerInfo": null
+}

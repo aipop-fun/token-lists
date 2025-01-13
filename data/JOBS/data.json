@@ -1,0 +1,22 @@
+{
+  "name": "JOBS",
+  "symbol": "JOBS",
+  "decimals": 18,
+  "description": "JOBS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=JOBS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "JOBS",
+  "addresses": {
+    "8453": "0x3de2d3ebe192692e8878307e18bb011e02187ed4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "JOBS",
+    "sanitizedSymbol": "JOBS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129256",
+    "lockerAddress": "0xb3c2C0799C22A1E04A5bE08ddc50c6aD6C732d3C"
+  },
+  "clankerInfo": null
+}

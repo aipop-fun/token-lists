@@ -1,0 +1,22 @@
+{
+  "name": "foamageddon",
+  "symbol": "foamageddon",
+  "decimals": 18,
+  "description": "foamageddon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=foamageddon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "foamageddon",
+  "addresses": {
+    "8453": "0x0ef4e7715b6e80fee898fde5df09e9cbfb9a38d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "foamageddon",
+    "sanitizedSymbol": "FOAMAGEDDON",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5176C0Dd454B6A15fBA23D7BBD7152114632Ad94",
+    "lpNftId": "1360008",
+    "lockerAddress": "0x38A0Bf8ABe3169d1fb9F715dd2c3794442ae624C"
+  },
+  "clankerInfo": null
+}

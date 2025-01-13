@@ -1,0 +1,22 @@
+{
+  "name": "Real Ape",
+  "symbol": "Real Ape",
+  "decimals": 18,
+  "description": "Real Ape is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Real%20Ape",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Real Ape",
+  "addresses": {
+    "8453": "0x41414f995995ec98e566841c6271532abb84d7e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Real Ape",
+    "sanitizedSymbol": "REAL_APE",
+    "created_at": "2024-12-09T06:26:26.460106",
+    "deployer": "0xCF2aF758B0330B2ED0e4cf660e0712FE243565Fa",
+    "lpNftId": "1383943",
+    "lockerAddress": "0xEbB441A693786FDD0Ef535361868C89009988fA5"
+  },
+  "clankerInfo": null
+}

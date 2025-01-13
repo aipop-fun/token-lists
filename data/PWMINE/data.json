@@ -1,0 +1,22 @@
+{
+  "name": "PWMINE",
+  "symbol": "PWMINE",
+  "decimals": 18,
+  "description": "PWMINE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PWMINE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PWMINE",
+  "addresses": {
+    "8453": "0x11f614b23472c4982c2c9904f116f50cc13d8372"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PWMINE",
+    "sanitizedSymbol": "PWMINE",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223551",
+    "lockerAddress": "0xC51198D8834C5738091B020F94Ff938505Af20F8"
+  },
+  "clankerInfo": null
+}

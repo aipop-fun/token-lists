@@ -1,0 +1,22 @@
+{
+  "name": "instagram",
+  "symbol": "instagram",
+  "decimals": 18,
+  "description": "instagram is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=instagram",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "instagram",
+  "addresses": {
+    "8453": "0x0022c922c5ea4d8341718c81aea28ee23bc4387a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "instagram",
+    "sanitizedSymbol": "INSTAGRAM",
+    "created_at": "2024-12-09T05:37:47.017123",
+    "deployer": "0xeDd77ad3c8057CFd83d9bE94E54C2753A2015218",
+    "lpNftId": "1383257",
+    "lockerAddress": "0x179FD765A16646Da7763386900D3c71af6a3858d"
+  },
+  "clankerInfo": null
+}

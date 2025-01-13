@@ -1,0 +1,22 @@
+{
+  "name": "CLANKER FEES",
+  "symbol": "CLANKER FEES",
+  "decimals": 18,
+  "description": "CLANKER FEES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CLANKER%20FEES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CLANKER FEES",
+  "addresses": {
+    "8453": "0x1d86df21fc1e7b7818f5d7cd65233513126c0998"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CLANKER FEES",
+    "sanitizedSymbol": "CLANKER_FEES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1222725",
+    "lockerAddress": "0xF653D0195FB560111c2B8B92A1c0f4a06C8914c2"
+  },
+  "clankerInfo": null
+}

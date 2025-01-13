@@ -1,0 +1,22 @@
+{
+  "name": "Max Stupid",
+  "symbol": "Max Stupid",
+  "decimals": 18,
+  "description": "Max Stupid is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Max%20Stupid",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Max Stupid",
+  "addresses": {
+    "8453": "0x0eec28e979e48df6df891393a3840360c2c26162"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Max Stupid",
+    "sanitizedSymbol": "MAX_STUPID",
+    "created_at": "2024-12-11T15:55:07.086592",
+    "deployer": "0x41112444E27aeDe950b315dF4DB8C8A792cD68Fc",
+    "lpNftId": "1421316",
+    "lockerAddress": "0xD8294A9CCe0BEf5dc09d7698731bD0fF30D78624"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Merry Jeetmas",
+  "symbol": "Merry Jeetmas",
+  "decimals": 18,
+  "description": "Merry Jeetmas is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Merry%20Jeetmas",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Merry Jeetmas",
+  "addresses": {
+    "8453": "0x01f8e0073589904cf4dce1a577c695b546ef9fde"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Merry Jeetmas",
+    "sanitizedSymbol": "MERRY_JEETMAS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x626bfbac7135B235669f8Dbe8BD9Ce2B40991073",
+    "lpNftId": "1327449",
+    "lockerAddress": "0x9fCD5F79b9F103E5Cc19cbB42c50A901Bc9f39F6"
+  },
+  "clankerInfo": null
+}

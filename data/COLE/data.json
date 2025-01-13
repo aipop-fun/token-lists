@@ -1,0 +1,22 @@
+{
+  "name": "Cole",
+  "symbol": "Cole",
+  "decimals": 18,
+  "description": "Cole is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cole",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cole",
+  "addresses": {
+    "8453": "0x0a4f1d0a39db797728675f437210d05f7a7e492d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cole",
+    "sanitizedSymbol": "COLE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193935",
+    "lockerAddress": "0x537f743578f681E2ed8F5703D57851002a8bE6A8"
+  },
+  "clankerInfo": null
+}

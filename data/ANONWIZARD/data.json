@@ -1,0 +1,22 @@
+{
+  "name": "AnonWizard",
+  "symbol": "AnonWizard",
+  "decimals": 18,
+  "description": "AnonWizard is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AnonWizard",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AnonWizard",
+  "addresses": {
+    "8453": "0x12d1654fdcf81924d919d5b19fbdbc019ccf903a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AnonWizard",
+    "sanitizedSymbol": "ANONWIZARD",
+    "created_at": "2024-12-12T08:06:11.307642",
+    "deployer": "0x9A0445337658e7AC15D6cf44b3A11D30E72aC8f8",
+    "lpNftId": "1429864",
+    "lockerAddress": "0x72BE8701A615Cd5846bACCAD24D13EbbCd4F1cA3"
+  },
+  "clankerInfo": null
+}

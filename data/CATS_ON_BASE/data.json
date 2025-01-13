@@ -1,0 +1,22 @@
+{
+  "name": "Cats on Base",
+  "symbol": "Cats on Base",
+  "decimals": 18,
+  "description": "Cats on Base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cats%20on%20Base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cats on Base",
+  "addresses": {
+    "8453": "0x177d5e3346a811379a31a5cdb46d7427dca22214"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cats on Base",
+    "sanitizedSymbol": "CATS_ON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x915D5B9BfE21524a6b9f2b4A9D0252a1909E239f",
+    "lpNftId": "1330008",
+    "lockerAddress": "0x4cF49f8a65dC7cA45E0575956C37ACeeBB9D328C"
+  },
+  "clankerInfo": null
+}

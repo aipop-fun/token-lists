@@ -1,0 +1,22 @@
+{
+  "name": "Ronaldo",
+  "symbol": "Ronaldo",
+  "decimals": 18,
+  "description": "Ronaldo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Ronaldo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Ronaldo",
+  "addresses": {
+    "8453": "0x09076cbe909716a0b08a8f10fd12053a8eda4c0d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Ronaldo",
+    "sanitizedSymbol": "RONALDO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198078",
+    "lockerAddress": "0x73e5fBC9A40060Ce73102dCfC60cB5DC8d787511"
+  },
+  "clankerInfo": null
+}

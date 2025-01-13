@@ -1,0 +1,22 @@
+{
+  "name": "Bells Bear",
+  "symbol": "Bells Bear",
+  "decimals": 18,
+  "description": "Bells Bear is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bells%20Bear",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bells Bear",
+  "addresses": {
+    "8453": "0x38eb4e3e44928b5440b18f27a37ba31140cc215d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bells Bear",
+    "sanitizedSymbol": "BELLS_BEAR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202137",
+    "lockerAddress": "0x1A421d41a46e30E5BB8f120EE4Fd7D79c82736C6"
+  },
+  "clankerInfo": null
+}

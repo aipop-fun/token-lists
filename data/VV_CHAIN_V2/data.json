@@ -1,0 +1,22 @@
+{
+  "name": "VV CHAIN V2",
+  "symbol": "VV CHAIN V2",
+  "decimals": 18,
+  "description": "VV CHAIN V2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=VV%20CHAIN%20V2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "VV CHAIN V2",
+  "addresses": {
+    "8453": "0x051bcc5a517366e6276c83e20a5cfb0aa3dc98b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "VV CHAIN V2",
+    "sanitizedSymbol": "VV_CHAIN_V2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x3304000131AB6ae477C9741FEDcFb6Aa93fc94Ef",
+    "lpNftId": "1195424",
+    "lockerAddress": "0xb0ef8fBf7999E3f760cCE9d1683921124C874c4c"
+  },
+  "clankerInfo": null
+}

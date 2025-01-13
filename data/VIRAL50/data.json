@@ -1,0 +1,22 @@
+{
+  "name": "Viral50",
+  "symbol": "Viral50",
+  "decimals": 18,
+  "description": "Viral50 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Viral50",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Viral50",
+  "addresses": {
+    "8453": "0x0fc180bedf4d0da23001393a671c01028a26dd0b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Viral50",
+    "sanitizedSymbol": "VIRAL50",
+    "created_at": "2024-12-11T19:27:35.297012",
+    "deployer": "0xaFc048AD1D8944a05D456899F2651708186715d4",
+    "lpNftId": "1424693",
+    "lockerAddress": "0x37e7E402C025F3524a98c31Fe5711b5F07e530Fe"
+  },
+  "clankerInfo": null
+}

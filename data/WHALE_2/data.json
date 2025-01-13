@@ -1,0 +1,22 @@
+{
+  "name": "WHALE",
+  "symbol": "WHALE",
+  "decimals": 18,
+  "description": "WHALE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WHALE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WHALE",
+  "addresses": {
+    "8453": "0x27f645f64125fa67849b11d301e11a56c3b449f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WHALE",
+    "sanitizedSymbol": "WHALE_2",
+    "created_at": "2024-12-11T16:25:58.011818",
+    "deployer": "0xEeA497A33809238910083ca127C1D5Fe4EFc05CA",
+    "lpNftId": "1421831",
+    "lockerAddress": "0x393213dfF6AA20b50D86C9C34a96241de4993E86"
+  },
+  "clankerInfo": null
+}

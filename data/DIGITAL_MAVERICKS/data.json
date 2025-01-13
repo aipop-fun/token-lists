@@ -1,0 +1,22 @@
+{
+  "name": "Digital Mavericks",
+  "symbol": "Digital Mavericks",
+  "decimals": 18,
+  "description": "Digital Mavericks is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Digital%20Mavericks",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Digital Mavericks",
+  "addresses": {
+    "8453": "0x23aab6ac8bb92f48a507d15c9a412a4308f57a75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Digital Mavericks",
+    "sanitizedSymbol": "DIGITAL_MAVERICKS",
+    "created_at": "2024-12-11T23:06:43.471236",
+    "deployer": "0x6E5Dc63Ec5DDcb6F6F6f909d15D545671c435974",
+    "lpNftId": "1427681",
+    "lockerAddress": "0x3341da5398ff1a915Bf5bff0E89a37D46b796721"
+  },
+  "clankerInfo": null
+}

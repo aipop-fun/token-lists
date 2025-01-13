@@ -1,0 +1,22 @@
+{
+  "name": "CryptoDickyBased",
+  "symbol": "CryptoDickyBased",
+  "decimals": 18,
+  "description": "CryptoDickyBased is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoDickyBased",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoDickyBased",
+  "addresses": {
+    "8453": "0x3c6d9aff9fe67229ba20eea5bb312d4fb7d9a4b5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoDickyBased",
+    "sanitizedSymbol": "CRYPTODICKYBASED",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xf4D49945511eadda7b500B87Fdb642a8117625a9",
+    "lpNftId": "1251300",
+    "lockerAddress": "0x4F6945F4aF75FF244a58f3d5943A135f57Cf9Dca"
+  },
+  "clankerInfo": null
+}

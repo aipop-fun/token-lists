@@ -1,0 +1,22 @@
+{
+  "name": "buttload clank",
+  "symbol": "buttload clank",
+  "decimals": 18,
+  "description": "buttload clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=buttload%20clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "buttload clank",
+  "addresses": {
+    "8453": "0x30cb6af5972f4c8c4a0b6a24b6ffdff6846ddee7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "buttload clank",
+    "sanitizedSymbol": "BUTTLOAD_CLANK",
+    "created_at": "2024-12-11T14:22:43.419395",
+    "deployer": "0xbfFd0f67e2E8F9688dD8E6a3ec6f6a74ced85B37",
+    "lpNftId": "1420132",
+    "lockerAddress": "0x79B9299862bC8A8cC504547afEb3b57852d11FBB"
+  },
+  "clankerInfo": null
+}

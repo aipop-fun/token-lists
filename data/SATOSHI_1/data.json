@@ -1,0 +1,22 @@
+{
+  "name": "Satoshi",
+  "symbol": "Satoshi",
+  "decimals": 18,
+  "description": "Satoshi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Satoshi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Satoshi",
+  "addresses": {
+    "8453": "0x00fb7bc004dcce1c5754d752c66f6846a7afda23"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Satoshi",
+    "sanitizedSymbol": "SATOSHI_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x559F806779C387451CF79a916FEf0617De30FBEc",
+    "lpNftId": "1252677",
+    "lockerAddress": "0x4e0c3a1F414d2e5030C27F06DF97715C4d719a49"
+  },
+  "clankerInfo": null
+}

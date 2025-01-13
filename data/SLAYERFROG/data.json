@@ -1,0 +1,22 @@
+{
+  "name": "Slayerfrog",
+  "symbol": "Slayerfrog",
+  "decimals": 18,
+  "description": "Slayerfrog is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Slayerfrog",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Slayerfrog",
+  "addresses": {
+    "8453": "0x3d34d7d6e0d827b7684ada6b902b7785c807c810"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Slayerfrog",
+    "sanitizedSymbol": "SLAYERFROG",
+    "created_at": "2024-12-11T18:44:15.038687",
+    "deployer": "0x219d371Ef3DE0D3aF2cC2c1dB413DFe5A09267b3",
+    "lpNftId": "1424125",
+    "lockerAddress": "0xA99b247A7834B20EF7f533Eb343154EfafFd7833"
+  },
+  "clankerInfo": null
+}

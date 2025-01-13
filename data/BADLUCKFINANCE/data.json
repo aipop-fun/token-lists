@@ -1,0 +1,22 @@
+{
+  "name": "BadLuckFinance",
+  "symbol": "BadLuckFinance",
+  "decimals": 18,
+  "description": "BadLuckFinance is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BadLuckFinance",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BadLuckFinance",
+  "addresses": {
+    "8453": "0x40c970ba98aa0ff6a4991dfb93b380dd4e4d95dd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BadLuckFinance",
+    "sanitizedSymbol": "BADLUCKFINANCE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166002",
+    "lockerAddress": "0x21f0ff58d004BdC16a507AdE029d28094D6e7cBB"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "goombAI",
+  "symbol": "goombAI",
+  "decimals": 18,
+  "description": "goombAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=goombAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "goombAI",
+  "addresses": {
+    "8453": "0x19608c0e4fad8f4ee78de2f602c5e5b4988ebbcf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "goombAI",
+    "sanitizedSymbol": "GOOMBAI",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xE6543e28ee030fF3b12B964030E847798519a024",
+    "lpNftId": "1263702",
+    "lockerAddress": "0x6a26ec6DECe26dD8136c6E18341E9aEa28ee4031"
+  },
+  "clankerInfo": null
+}

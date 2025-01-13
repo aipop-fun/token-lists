@@ -1,0 +1,22 @@
+{
+  "name": "SWISS COIN",
+  "symbol": "SWISS COIN",
+  "decimals": 18,
+  "description": "SWISS COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SWISS%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SWISS COIN",
+  "addresses": {
+    "8453": "0x30ca1a6c2c24a2f2d67712541a290fea7da663a4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SWISS COIN",
+    "sanitizedSymbol": "SWISS_COIN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xa8B8787700Bc549d9c717104aAA2C4c1cC0b089f",
+    "lpNftId": "1312928",
+    "lockerAddress": "0x4eb3344D25532D4e6634d0f2cc1b54ED5dA70F58"
+  },
+  "clankerInfo": null
+}

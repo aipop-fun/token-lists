@@ -1,0 +1,22 @@
+{
+  "name": "Sartoshi",
+  "symbol": "Sartoshi",
+  "decimals": 18,
+  "description": "Sartoshi is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sartoshi",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sartoshi",
+  "addresses": {
+    "8453": "0x27dfd22ee77bc3216923c1fc6e3dbcd9b90ba232"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sartoshi",
+    "sanitizedSymbol": "SARTOSHI",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xdB4508515a0bf62864c2E3fF0ceD87354C5C4522",
+    "lpNftId": "1285772",
+    "lockerAddress": "0xEfD506506E2A3879Bc42134b279d9C271c042d6C"
+  },
+  "clankerInfo": null
+}

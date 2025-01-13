@@ -1,0 +1,22 @@
+{
+  "name": "Lordy",
+  "symbol": "Lordy",
+  "decimals": 18,
+  "description": "Lordy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lordy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lordy",
+  "addresses": {
+    "8453": "0x395eb621a0d309f50fb7339108272cdce292f2b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lordy",
+    "sanitizedSymbol": "LORDY",
+    "created_at": "2024-12-09T07:52:19.463064",
+    "deployer": "0xcD2797af670D8A2C55273fd212e46ec395d2b042",
+    "lpNftId": "1384509",
+    "lockerAddress": "0x94Df632C0ac28081B22BED94096B92c43d71A7A2"
+  },
+  "clankerInfo": null
+}

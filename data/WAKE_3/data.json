@@ -1,0 +1,22 @@
+{
+  "name": "Wake",
+  "symbol": "Wake",
+  "decimals": 18,
+  "description": "Wake is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wake",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wake",
+  "addresses": {
+    "8453": "0x38495e5d7638ffc19d6531b910c8039b4aa1904c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wake",
+    "sanitizedSymbol": "WAKE_3",
+    "created_at": "2024-12-12T04:16:26.269649",
+    "deployer": "0xF68c3d3003fBeC7682cf240e5395Ec138d731a47",
+    "lpNftId": "1429122",
+    "lockerAddress": "0xaCa194Ab20571EdB3D51FE40edA1FB2CfeEaA693"
+  },
+  "clankerInfo": null
+}

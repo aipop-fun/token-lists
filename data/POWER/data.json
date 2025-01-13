@@ -1,0 +1,22 @@
+{
+  "name": "POWER",
+  "symbol": "POWER",
+  "decimals": 18,
+  "description": "POWER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POWER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POWER",
+  "addresses": {
+    "8453": "0x0e289a7495719f19fab1ea07bf066c22fc0061f6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POWER",
+    "sanitizedSymbol": "POWER",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe6E0De95f062Fc9c013e130Ca6760301c15A5745",
+    "lpNftId": "1328466",
+    "lockerAddress": "0x3975C25a76cF7bA7F50358058965A0e4a182e33a"
+  },
+  "clankerInfo": null
+}

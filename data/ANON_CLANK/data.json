@@ -1,0 +1,22 @@
+{
+  "name": "anon clank",
+  "symbol": "anon clank",
+  "decimals": 18,
+  "description": "anon clank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=anon%20clank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "anon clank",
+  "addresses": {
+    "8453": "0x01e7d3dd99910b54d6b5b5f415a6e1f416ef9d1d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "anon clank",
+    "sanitizedSymbol": "ANON_CLANK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD56b8725Ca0Ce6b7c655c113c5b0582d3C169AA4",
+    "lpNftId": "1375410",
+    "lockerAddress": "0x54ea8015DAb6a8B8483e53353e4bE3425eE6457A"
+  },
+  "clankerInfo": null
+}

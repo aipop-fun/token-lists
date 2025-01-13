@@ -1,0 +1,22 @@
+{
+  "name": "BotByte",
+  "symbol": "BotByte",
+  "decimals": 18,
+  "description": "BotByte is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BotByte",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BotByte",
+  "addresses": {
+    "8453": "0x0cc7ab924c3c6f3dcc2358c3bf6ec6413f67871e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BotByte",
+    "sanitizedSymbol": "BOTBYTE",
+    "created_at": "2024-12-11T17:42:01.957731",
+    "deployer": "0x2e1b03a953CE8F6294443F02Ad9a87a6dac94958",
+    "lpNftId": "1422741",
+    "lockerAddress": "0xd95cE76bDffEEe4ea895a0217EfAbE2812D17662"
+  },
+  "clankerInfo": null
+}

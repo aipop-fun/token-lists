@@ -1,0 +1,22 @@
+{
+  "name": "TriggeredCoin",
+  "symbol": "TriggeredCoin",
+  "decimals": 18,
+  "description": "TriggeredCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TriggeredCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TriggeredCoin",
+  "addresses": {
+    "8453": "0x16ac03cf1a4ee806defe8043a1d254b0cbe67093"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TriggeredCoin",
+    "sanitizedSymbol": "TRIGGEREDCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166261",
+    "lockerAddress": "0xe0E376d98AA9f4807FC2De84900FB3cf35274598"
+  },
+  "clankerInfo": null
+}

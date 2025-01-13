@@ -1,0 +1,22 @@
+{
+  "name": "CATCUTE",
+  "symbol": "CATCUTE",
+  "decimals": 18,
+  "description": "CATCUTE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CATCUTE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CATCUTE",
+  "addresses": {
+    "8453": "0x1d6104d6b86ef21409017cf099dace52cd8b4053"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CATCUTE",
+    "sanitizedSymbol": "CATCUTE",
+    "created_at": "2024-12-11T12:02:49.718174",
+    "deployer": "0x0b9096313Bde171b1AD3f97E60514cFFC8f3c859",
+    "lpNftId": "1417354",
+    "lockerAddress": "0x4BB4bf9af8BEf14B94c8C3F3F44939947Fc63de1"
+  },
+  "clankerInfo": null
+}

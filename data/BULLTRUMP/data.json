@@ -1,0 +1,22 @@
+{
+  "name": "BullTrump",
+  "symbol": "BullTrump",
+  "decimals": 18,
+  "description": "BullTrump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BullTrump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BullTrump",
+  "addresses": {
+    "8453": "0x3d0fc4bbd0d8db2a3ed39874c74862312de7539f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BullTrump",
+    "sanitizedSymbol": "BULLTRUMP",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xE3fF190Ee60a7Eec01De2AB9B43D3Ba9DBe5b184",
+    "lpNftId": "1323983",
+    "lockerAddress": "0x15918BC25bEFCa5b5078Bb80fdb8EbF3d994792A"
+  },
+  "clankerInfo": null
+}

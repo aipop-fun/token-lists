@@ -1,0 +1,22 @@
+{
+  "name": "water pump",
+  "symbol": "water pump",
+  "decimals": 18,
+  "description": "water pump is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=water%20pump",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "water pump",
+  "addresses": {
+    "8453": "0x40a6d8fdea9a41d4ad7e0b06a3ebe988389cc960"
+  },
+  "tokenInfo": {
+    "originalSymbol": "water pump",
+    "sanitizedSymbol": "WATER_PUMP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x40c15967C2367f1910cbb80e261d0d5eC31e3430",
+    "lpNftId": "1250697",
+    "lockerAddress": "0x7551533b2c9fa594f1E8c4AAaeb357198F6428D4"
+  },
+  "clankerInfo": null
+}

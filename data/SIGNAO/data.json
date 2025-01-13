@@ -1,0 +1,22 @@
+{
+  "name": "signao",
+  "symbol": "signao",
+  "decimals": 18,
+  "description": "signao is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=signao",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "signao",
+  "addresses": {
+    "8453": "0x291fc47a1548e17cf1b0700551a6a13591543513"
+  },
+  "tokenInfo": {
+    "originalSymbol": "signao",
+    "sanitizedSymbol": "SIGNAO",
+    "created_at": "2024-12-10T13:43:28.375731",
+    "deployer": "0xda2E66Bf9Ce5A975cF1879b549597435fb0Dbb66",
+    "lpNftId": "1401552",
+    "lockerAddress": "0x295F9aAa751EBb3Fe9e9BbF147753179209882CC"
+  },
+  "clankerInfo": null
+}

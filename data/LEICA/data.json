@@ -1,0 +1,22 @@
+{
+  "name": "leica",
+  "symbol": "leica",
+  "decimals": 18,
+  "description": "leica is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=leica",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "leica",
+  "addresses": {
+    "8453": "0x1dfc3e336a7261bbb72ce813f35de7c0df729be8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "leica",
+    "sanitizedSymbol": "LEICA",
+    "created_at": "2024-12-12T08:33:54.569862",
+    "deployer": "0x98F4935dDf355289596E55940D527e7AF232A600",
+    "lpNftId": "1429940",
+    "lockerAddress": "0x8273B3016425D54c6E9C3b6C10Fdd224674086Ed"
+  },
+  "clankerInfo": null
+}

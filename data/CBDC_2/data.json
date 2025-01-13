@@ -1,0 +1,22 @@
+{
+  "name": "CBDC",
+  "symbol": "CBDC",
+  "decimals": 18,
+  "description": "CBDC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CBDC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CBDC",
+  "addresses": {
+    "8453": "0x15522a696fc85b1c89dfb7fda3ab6d2afdd55b60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CBDC",
+    "sanitizedSymbol": "CBDC_2",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1327314",
+    "lockerAddress": "0x9D90cbB8DBf2c115cb5b2d2da440766b7eaDF3A5"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bull Run Waiting Room",
+  "symbol": "Bull Run Waiting Room",
+  "decimals": 18,
+  "description": "Bull Run Waiting Room is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bull%20Run%20Waiting%20Room",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bull Run Waiting Room",
+  "addresses": {
+    "8453": "0x1415ef24acb34f5196b12d6311d82b967cc0d0c1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bull Run Waiting Room",
+    "sanitizedSymbol": "BULL_RUN_WAITING_ROOM",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152211",
+    "lockerAddress": "0x9e2D96ecD08F2f4BE1d0b91413EFD90C23cE735B"
+  },
+  "clankerInfo": null
+}

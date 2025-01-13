@@ -1,0 +1,22 @@
+{
+  "name": "COG COIN",
+  "symbol": "COG COIN",
+  "decimals": 18,
+  "description": "COG COIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=COG%20COIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "COG COIN",
+  "addresses": {
+    "8453": "0x3940db8b5d08ee9abd8507c3d71efca522acee6f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "COG COIN",
+    "sanitizedSymbol": "COG_COIN",
+    "created_at": "2024-12-11T08:49:25.272511",
+    "deployer": "0xeF44326887A8866f525ECaD41aF6d878EBb5Bb2A",
+    "lpNftId": "1415219",
+    "lockerAddress": "0x99F864329c927ffEE05a23EF79d2068d6Ab12FA8"
+  },
+  "clankerInfo": null
+}

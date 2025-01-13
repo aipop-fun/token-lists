@@ -1,0 +1,22 @@
+{
+  "name": "CexDex",
+  "symbol": "CexDex",
+  "decimals": 18,
+  "description": "CexDex is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CexDex",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CexDex",
+  "addresses": {
+    "8453": "0x37dc868850c80cfc954ef2fbb45315fdbae20d3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CexDex",
+    "sanitizedSymbol": "CEXDEX",
+    "created_at": "2024-12-11T20:23:33.12981",
+    "deployer": "0xc4d87CCeA06adaB9874B8fb780EE55A0060a4aDb",
+    "lpNftId": "1425411",
+    "lockerAddress": "0xfc98Ee34fC9834Fa3Ea5A03f51f2A2dD4dF53279"
+  },
+  "clankerInfo": null
+}

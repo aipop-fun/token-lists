@@ -1,0 +1,22 @@
+{
+  "name": "Resource:Wood",
+  "symbol": "Resource:Wood",
+  "decimals": 18,
+  "description": "Resource:Wood is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Resource%3AWood",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Resource:Wood",
+  "addresses": {
+    "8453": "0x2f7a33f61f3fd9a2c225dd8902d5149387d53a51"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Resource:Wood",
+    "sanitizedSymbol": "RESOURCE_WOOD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1218763",
+    "lockerAddress": "0x5A66334fc7d1C14cBAc2479C60e734e388a1e588"
+  },
+  "clankerInfo": null
+}

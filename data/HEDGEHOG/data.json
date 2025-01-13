@@ -1,0 +1,22 @@
+{
+  "name": "HEDGEHOG",
+  "symbol": "HEDGEHOG",
+  "decimals": 18,
+  "description": "HEDGEHOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HEDGEHOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HEDGEHOG",
+  "addresses": {
+    "8453": "0x09fcb543b57b4ae5e1e99fa65bab2e1429aa7a60"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HEDGEHOG",
+    "sanitizedSymbol": "HEDGEHOG",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219308",
+    "lockerAddress": "0x7A6b19CF9F4192A4D1Dd0c911Ad1bb23dd2d9335"
+  },
+  "clankerInfo": null
+}

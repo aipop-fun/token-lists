@@ -1,0 +1,22 @@
+{
+  "name": "most valuable person",
+  "symbol": "most valuable person",
+  "decimals": 18,
+  "description": "most valuable person is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=most%20valuable%20person",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "most valuable person",
+  "addresses": {
+    "8453": "0x3f2842a234dc165387510520bf67454771dfaef8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "most valuable person",
+    "sanitizedSymbol": "MOST_VALUABLE_PERSON",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x60ba240114b825F676D11Cc178409Cc9c385171c",
+    "lpNftId": "1319828",
+    "lockerAddress": "0x0c5aDaBb162A70a0D699320340cC79722201dC4c"
+  },
+  "clankerInfo": null
+}

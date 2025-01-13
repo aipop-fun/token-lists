@@ -1,0 +1,22 @@
+{
+  "name": "kaidoshimon",
+  "symbol": "kaidoshimon",
+  "decimals": 18,
+  "description": "kaidoshimon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=kaidoshimon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "kaidoshimon",
+  "addresses": {
+    "8453": "0x0fef4b64066c13901b437a9677d3cc547d470402"
+  },
+  "tokenInfo": {
+    "originalSymbol": "kaidoshimon",
+    "sanitizedSymbol": "KAIDOSHIMON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x951e79C44DBbbC057bd11603Ff3B61F324d06E98",
+    "lpNftId": "1234650",
+    "lockerAddress": "0x7bB4F5aB71c6816817868BD18259B8789e62fCA3"
+  },
+  "clankerInfo": null
+}

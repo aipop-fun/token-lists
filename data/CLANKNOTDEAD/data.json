@@ -1,0 +1,22 @@
+{
+  "name": "ClankNotDead",
+  "symbol": "ClankNotDead",
+  "decimals": 18,
+  "description": "ClankNotDead is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ClankNotDead",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ClankNotDead",
+  "addresses": {
+    "8453": "0x3e8a62c0a23eb778a1e275310f99e722f2eff173"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ClankNotDead",
+    "sanitizedSymbol": "CLANKNOTDEAD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xdb6Fd19e85988A9fEc6f1c415e9Ef8864f6e6521",
+    "lpNftId": "1250540",
+    "lockerAddress": "0x54cACbc0a20b2eC888eE49e86E53e0dbEFf396F9"
+  },
+  "clankerInfo": null
+}

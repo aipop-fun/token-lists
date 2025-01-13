@@ -1,0 +1,22 @@
+{
+  "name": "Pimpson",
+  "symbol": "Pimpson",
+  "decimals": 18,
+  "description": "Pimpson is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pimpson",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pimpson",
+  "addresses": {
+    "8453": "0x00853a17ba0bb0fab67407e8651bd0b2b9ab81ba"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pimpson",
+    "sanitizedSymbol": "PIMPSON",
+    "created_at": "2024-12-10T03:38:07.116398",
+    "deployer": "0x88B5fA5b6d321f57396715ECED0400F1175cF321",
+    "lpNftId": "1395799",
+    "lockerAddress": "0x02391255f86e7c8DeD94e4896238024d855C7639"
+  },
+  "clankerInfo": null
+}

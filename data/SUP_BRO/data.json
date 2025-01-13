@@ -1,0 +1,22 @@
+{
+  "name": "sup bro",
+  "symbol": "sup bro",
+  "decimals": 18,
+  "description": "sup bro is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sup%20bro",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sup bro",
+  "addresses": {
+    "8453": "0x0a0a9b5cbf78cc46907f7f69d7a78194e2744553"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sup bro",
+    "sanitizedSymbol": "SUP_BRO",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225173",
+    "lockerAddress": "0x48389DC5223c1B50BA1C4c6936357354218aC0BF"
+  },
+  "clankerInfo": null
+}

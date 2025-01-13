@@ -1,0 +1,22 @@
+{
+  "name": "WEATHERS",
+  "symbol": "WEATHERS",
+  "decimals": 18,
+  "description": "WEATHERS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WEATHERS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WEATHERS",
+  "addresses": {
+    "8453": "0x049dc8eebd6f2cefb0c9f256bd3deeaab1c6e6bd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WEATHERS",
+    "sanitizedSymbol": "WEATHERS",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1204324",
+    "lockerAddress": "0x0C62601a130E77d183a7FE2c8De810a9B1f6695D"
+  },
+  "clankerInfo": null
+}

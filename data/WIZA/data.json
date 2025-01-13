@@ -1,0 +1,22 @@
+{
+  "name": "Wiza",
+  "symbol": "Wiza",
+  "decimals": 18,
+  "description": "Wiza is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Wiza",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Wiza",
+  "addresses": {
+    "8453": "0x164dc9f4315f884cacd1691f97c6a8f71c972fe2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Wiza",
+    "sanitizedSymbol": "WIZA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0x0Dd29A896E1f200efDF2f6DF76D27E23df04413d",
+    "lpNftId": "1165528",
+    "lockerAddress": "0x4534C786ca46FE1Bb3D6763622182be574dcAFDD"
+  },
+  "clankerInfo": null
+}

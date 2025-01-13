@@ -1,0 +1,22 @@
+{
+  "name": "UNITED",
+  "symbol": "UNITED",
+  "decimals": 18,
+  "description": "UNITED is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=UNITED",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "UNITED",
+  "addresses": {
+    "8453": "0x30cd6549de8f183fd509b76f0a632f58a2e67714"
+  },
+  "tokenInfo": {
+    "originalSymbol": "UNITED",
+    "sanitizedSymbol": "UNITED",
+    "created_at": "2024-12-11T19:32:27.738647",
+    "deployer": "0x5a5707185e614a78Da8A9cEC3fb994c1cF564910",
+    "lpNftId": "1424724",
+    "lockerAddress": "0x822ac0e56704D880277A016100CaE0Fe08cC7DE0"
+  },
+  "clankerInfo": null
+}

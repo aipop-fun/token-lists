@@ -1,0 +1,22 @@
+{
+  "name": "clankerATH",
+  "symbol": "clankerATH",
+  "decimals": 18,
+  "description": "clankerATH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=clankerATH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "clankerATH",
+  "addresses": {
+    "8453": "0x2090685745b21c750a4bacc493e8a315264f12b6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "clankerATH",
+    "sanitizedSymbol": "CLANKERATH",
+    "created_at": "2024-12-08T23:59:18.455658",
+    "deployer": "0x498b57F6296fe88a2c080F6799439fe834E37A4F",
+    "lpNftId": "1250740",
+    "lockerAddress": "0xBbf8a70bd7F4dD4280C7656e829671B010A3C032"
+  },
+  "clankerInfo": null
+}

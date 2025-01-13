@@ -1,0 +1,22 @@
+{
+  "name": "OCEM",
+  "symbol": "OCEM",
+  "decimals": 18,
+  "description": "OCEM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OCEM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OCEM",
+  "addresses": {
+    "8453": "0x3b8a1330d8fa4cfe2bf42909c5a0330170ad7480"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OCEM",
+    "sanitizedSymbol": "OCEM",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1217456",
+    "lockerAddress": "0x2465C1451a540BA326a6b8024760a8D9Af6464fa"
+  },
+  "clankerInfo": null
+}

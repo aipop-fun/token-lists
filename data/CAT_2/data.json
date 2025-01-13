@@ -1,0 +1,22 @@
+{
+  "name": "CAT",
+  "symbol": "CAT",
+  "decimals": 18,
+  "description": "CAT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CAT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CAT",
+  "addresses": {
+    "8453": "0x16e7f2e79e7b7939161f79005cff543db2646fa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CAT",
+    "sanitizedSymbol": "CAT_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196987",
+    "lockerAddress": "0x5F8D464b912fa863cb962047E1CD7b82d7E5F2f3"
+  },
+  "clankerInfo": null
+}

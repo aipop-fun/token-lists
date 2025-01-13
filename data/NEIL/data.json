@@ -1,0 +1,22 @@
+{
+  "name": "Neil",
+  "symbol": "Neil",
+  "decimals": 18,
+  "description": "Neil is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Neil",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Neil",
+  "addresses": {
+    "8453": "0x31f4aa1bd7582086297482133c6e8f004b7c39f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Neil",
+    "sanitizedSymbol": "NEIL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1229745",
+    "lockerAddress": "0x23bF9C7713c72f1FB6e2C0EDbfcD804789c1087e"
+  },
+  "clankerInfo": null
+}

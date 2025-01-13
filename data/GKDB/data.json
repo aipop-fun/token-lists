@@ -1,0 +1,22 @@
+{
+  "name": "GKDB",
+  "symbol": "GKDB",
+  "decimals": 18,
+  "description": "GKDB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GKDB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GKDB",
+  "addresses": {
+    "8453": "0x2304c8596d24cd40007e9a3bf60944e383040fb5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GKDB",
+    "sanitizedSymbol": "GKDB",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1221476",
+    "lockerAddress": "0xE6A08663BC8061d4bD15d99D377462A4dC35b852"
+  },
+  "clankerInfo": null
+}

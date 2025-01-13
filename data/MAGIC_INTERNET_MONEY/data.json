@@ -1,0 +1,22 @@
+{
+  "name": "Magic Internet Money",
+  "symbol": "Magic Internet Money",
+  "decimals": 18,
+  "description": "Magic Internet Money is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Magic%20Internet%20Money",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Magic Internet Money",
+  "addresses": {
+    "8453": "0x4195b80dbadcf23134ca5defc9266ec5013ebaf1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Magic Internet Money",
+    "sanitizedSymbol": "MAGIC_INTERNET_MONEY",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x9625fb1EB31756A6a2504F36b416729113eDD2ee",
+    "lpNftId": "1264608",
+    "lockerAddress": "0x95Bc263712B68fDb14242F97F38D2A5710183F51"
+  },
+  "clankerInfo": null
+}

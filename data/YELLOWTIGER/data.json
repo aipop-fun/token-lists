@@ -1,0 +1,22 @@
+{
+  "name": "YellowTiger",
+  "symbol": "YellowTiger",
+  "decimals": 18,
+  "description": "YellowTiger is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YellowTiger",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YellowTiger",
+  "addresses": {
+    "8453": "0x181ff4cdee896f57c9dfdef285dcdab75de91749"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YellowTiger",
+    "sanitizedSymbol": "YELLOWTIGER",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220168",
+    "lockerAddress": "0x689c7d28C6c81d229D1E06a92A0091Ef8e4a1AAb"
+  },
+  "clankerInfo": null
+}

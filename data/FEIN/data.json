@@ -1,0 +1,22 @@
+{
+  "name": "Fein",
+  "symbol": "Fein",
+  "decimals": 18,
+  "description": "Fein is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Fein",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Fein",
+  "addresses": {
+    "8453": "0x2f7af1e13cc178d9989ea1bdd378399b1af29e73"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Fein",
+    "sanitizedSymbol": "FEIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128806",
+    "lockerAddress": "0x3EeeDCF4a7c26982fdF88bd9Dd31fd00223d0504"
+  },
+  "clankerInfo": null
+}

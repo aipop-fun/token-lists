@@ -1,0 +1,22 @@
+{
+  "name": "Badge of Honor",
+  "symbol": "Badge of Honor",
+  "decimals": 18,
+  "description": "Badge of Honor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Badge%20of%20Honor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Badge of Honor",
+  "addresses": {
+    "8453": "0x14b29e5b5b9a467ea8430b5e6a48dd28bfa21052"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Badge of Honor",
+    "sanitizedSymbol": "BADGE_OF_HONOR",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1130394",
+    "lockerAddress": "0xb0D1c51D819989D5913eAED8CCe0925DB7655176"
+  },
+  "clankerInfo": null
+}

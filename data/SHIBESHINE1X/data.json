@@ -1,0 +1,22 @@
+{
+  "name": "ShibeShine1x",
+  "symbol": "ShibeShine1x",
+  "decimals": 18,
+  "description": "ShibeShine1x is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ShibeShine1x",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ShibeShine1x",
+  "addresses": {
+    "8453": "0x169a417b09ea2334c2029b6cdc220443b6082618"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ShibeShine1x",
+    "sanitizedSymbol": "SHIBESHINE1X",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x22EcF9234F94f0D8bFCD16e75Fb5aBB5719606B0",
+    "lpNftId": "1321800",
+    "lockerAddress": "0x49946a7168f4F0CE7D10bC31851F3efB0c862c1D"
+  },
+  "clankerInfo": null
+}

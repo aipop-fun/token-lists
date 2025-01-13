@@ -1,0 +1,22 @@
+{
+  "name": "Brimstone",
+  "symbol": "Brimstone",
+  "decimals": 18,
+  "description": "Brimstone is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brimstone",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brimstone",
+  "addresses": {
+    "8453": "0x3adf7768d4c48ef7fa26b05e0832eba75b70c1d8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brimstone",
+    "sanitizedSymbol": "BRIMSTONE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1Cf41Ad63F67f3e7F8A1DB240D812f5392b9a9c4",
+    "lpNftId": "1337479",
+    "lockerAddress": "0x7050FdD4E76661E3Ed0526724FCA1f3a72c5b574"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Cheppy",
+  "symbol": "Cheppy",
+  "decimals": 18,
+  "description": "Cheppy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cheppy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cheppy",
+  "addresses": {
+    "8453": "0x11711c054c9f1ffcb62548e4500e6cd1be18f390"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cheppy",
+    "sanitizedSymbol": "CHEPPY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1232788",
+    "lockerAddress": "0xAf62348b299B4E0afaC1b0778a1159CF8d2B10f3"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "boredbot",
+  "symbol": "boredbot",
+  "decimals": 18,
+  "description": "boredbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=boredbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "boredbot",
+  "addresses": {
+    "8453": "0x4048ade90eaf8425179ba503bd24feefb5b1f29c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "boredbot",
+    "sanitizedSymbol": "BOREDBOT",
+    "created_at": "2024-12-11T07:20:11.640506",
+    "deployer": "0xb9d3388195FBB4dA7b67dc2FC569881BCb58A1b2",
+    "lpNftId": "1414047",
+    "lockerAddress": "0xEc18241B22C404B6278A3c45233EAB7f5105C3cd"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "testing channel",
+  "symbol": "testing channel",
+  "decimals": 18,
+  "description": "testing channel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=testing%20channel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "testing channel",
+  "addresses": {
+    "8453": "0x39dd48578d3bff3cdd1167f564d4ecac65fd1709"
+  },
+  "tokenInfo": {
+    "originalSymbol": "testing channel",
+    "sanitizedSymbol": "TESTING_CHANNEL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152981",
+    "lockerAddress": "0xd084797eBbB3c83d041d7d0F7E5730daaaC951C8"
+  },
+  "clankerInfo": null
+}

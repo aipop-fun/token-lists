@@ -1,0 +1,22 @@
+{
+  "name": "Monaon_base",
+  "symbol": "Monaon_base",
+  "decimals": 18,
+  "description": "Monaon_base is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Monaon_base",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Monaon_base",
+  "addresses": {
+    "8453": "0x3aeb9ee8dd0433ec0f99eb2aa888c177889269d2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Monaon_base",
+    "sanitizedSymbol": "MONAON_BASE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xF8e015478Cd23f8c591DEb4c8e8213Ed1011bea2",
+    "lpNftId": "1329658",
+    "lockerAddress": "0xE6b205F813fA015D4E20F338a6E92b84f9aa8a69"
+  },
+  "clankerInfo": null
+}

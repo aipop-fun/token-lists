@@ -1,0 +1,22 @@
+{
+  "name": "4CATS",
+  "symbol": "4CATS",
+  "decimals": 18,
+  "description": "4CATS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=4CATS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "4CATS",
+  "addresses": {
+    "8453": "0x10e5e6e3821cea38704fc1e32a08130e5826ad80"
+  },
+  "tokenInfo": {
+    "originalSymbol": "4CATS",
+    "sanitizedSymbol": "4CATS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x73e34A7176e47FDF1f45fd7726De86368325c407",
+    "lpNftId": "1311363",
+    "lockerAddress": "0x7c42E7a9FC704bED48bAd0ADE93Bd4Ad454f0409"
+  },
+  "clankerInfo": null
+}

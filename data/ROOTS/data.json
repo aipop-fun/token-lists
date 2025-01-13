@@ -1,0 +1,22 @@
+{
+  "name": "Roots",
+  "symbol": "Roots",
+  "decimals": 18,
+  "description": "Roots is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Roots",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Roots",
+  "addresses": {
+    "8453": "0x1fdbb6a5a8d7e47359eb421cd705a43caa4e6665"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Roots",
+    "sanitizedSymbol": "ROOTS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xc6581173bC325382369803ABfdb26dc499D8462D",
+    "lpNftId": "1304583",
+    "lockerAddress": "0xC95A399d34dc7F5485153185D94Eee763FB8Ee4a"
+  },
+  "clankerInfo": null
+}

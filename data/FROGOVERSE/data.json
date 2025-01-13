@@ -1,0 +1,22 @@
+{
+  "name": "FrogoVerse",
+  "symbol": "FrogoVerse",
+  "decimals": 18,
+  "description": "FrogoVerse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=FrogoVerse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "FrogoVerse",
+  "addresses": {
+    "8453": "0x31334c10ad4c0fcc0b4c02b8ebd958fb427197d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "FrogoVerse",
+    "sanitizedSymbol": "FROGOVERSE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x5CC3F81A202BFb10E0c3190b5B71196FA2be2787",
+    "lpNftId": "1327194",
+    "lockerAddress": "0x7e741CBBED78c0e22779c484Effbd6884c67223D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Shiba Base Inu",
+  "symbol": "Shiba Base Inu",
+  "decimals": 18,
+  "description": "Shiba Base Inu is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Shiba%20Base%20Inu",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Shiba Base Inu",
+  "addresses": {
+    "8453": "0x39aa5ab45568b333116de4b3c581d0bde6a59b45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Shiba Base Inu",
+    "sanitizedSymbol": "SHIBA_BASE_INU",
+    "created_at": "2024-12-12T11:37:07.4073",
+    "deployer": "0x8589BdA82e63761F8fEF907408306b7f4A865E68",
+    "lpNftId": "1433567",
+    "lockerAddress": "0x2c029cEd93ceBe17d16d6f9F2ED96A1e5BB95AfB"
+  },
+  "clankerInfo": null
+}

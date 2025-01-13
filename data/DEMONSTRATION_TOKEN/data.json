@@ -1,0 +1,22 @@
+{
+  "name": "Demonstration Token",
+  "symbol": "Demonstration Token",
+  "decimals": 18,
+  "description": "Demonstration Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Demonstration%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Demonstration Token",
+  "addresses": {
+    "8453": "0x3b7d59d4e7a87df6238d72275d5959b9073d5694"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Demonstration Token",
+    "sanitizedSymbol": "DEMONSTRATION_TOKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xe876275e5e1A77e0DE4006e5d9B85B33621d1442",
+    "lpNftId": "1374270",
+    "lockerAddress": "0x4b26D53c3e9b850ACaC43BF30834BeEeb26f0623"
+  },
+  "clankerInfo": null
+}

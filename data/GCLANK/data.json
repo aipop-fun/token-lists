@@ -1,0 +1,22 @@
+{
+  "name": "gclank",
+  "symbol": "gclank",
+  "decimals": 18,
+  "description": "gclank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=gclank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "gclank",
+  "addresses": {
+    "8453": "0x082553f5f211c1b9ace4f0307f3875dafab3922a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "gclank",
+    "sanitizedSymbol": "GCLANK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216443",
+    "lockerAddress": "0x0E6F624173BDdb913e4F573CC6b68Fa59917cB88"
+  },
+  "clankerInfo": null
+}

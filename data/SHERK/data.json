@@ -1,0 +1,22 @@
+{
+  "name": "SHERK",
+  "symbol": "SHERK",
+  "decimals": 18,
+  "description": "SHERK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHERK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHERK",
+  "addresses": {
+    "8453": "0x0a9b9835d3f199083152b82789bc063b57154b9a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHERK",
+    "sanitizedSymbol": "SHERK",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1219283",
+    "lockerAddress": "0x8a825b12c0DC2364891bb9c0D673732132295cB0"
+  },
+  "clankerInfo": null
+}

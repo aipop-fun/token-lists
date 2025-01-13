@@ -1,0 +1,22 @@
+{
+  "name": "Margincall",
+  "symbol": "Margincall",
+  "decimals": 18,
+  "description": "Margincall is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Margincall",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Margincall",
+  "addresses": {
+    "8453": "0x41379fab68e4d5eef3cd4da724a58446d34496b4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Margincall",
+    "sanitizedSymbol": "MARGINCALL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xcFfCFa61970958eAb40adbfaab46a44305c9C444",
+    "lpNftId": "1320481",
+    "lockerAddress": "0x9DF8cCA231DACDce253bDd272F0c5eC1B9D79cBC"
+  },
+  "clankerInfo": null
+}

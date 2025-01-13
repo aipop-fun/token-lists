@@ -1,0 +1,22 @@
+{
+  "name": "AGUSv2",
+  "symbol": "AGUSv2",
+  "decimals": 18,
+  "description": "AGUSv2 is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AGUSv2",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AGUSv2",
+  "addresses": {
+    "8453": "0x20e90dedf4ff163573e728eae405d0e2f796d9e1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AGUSv2",
+    "sanitizedSymbol": "AGUSV2",
+    "created_at": "2024-12-10T08:51:53.033607",
+    "deployer": "0xdde672dFb4D2DEE9246AD440BEbC568f765a70AA",
+    "lpNftId": "1398957",
+    "lockerAddress": "0xdDd52D9a091fC448AceE71Cb6030F650D7B0DECb"
+  },
+  "clankerInfo": null
+}

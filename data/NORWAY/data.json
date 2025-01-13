@@ -1,0 +1,22 @@
+{
+  "name": "Norway",
+  "symbol": "Norway",
+  "decimals": 18,
+  "description": "Norway is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Norway",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Norway",
+  "addresses": {
+    "8453": "0x3bb7d3a25611ac9e2f2f7de7300bc13438dec9a3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Norway",
+    "sanitizedSymbol": "NORWAY",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0x84be480Ee32f01E59D60D42Cd6574D53Dc4dC412",
+    "lpNftId": "1250589",
+    "lockerAddress": "0xbbe708E495c4d2F7B4Ed4FD91Ae9c7E196800Df2"
+  },
+  "clankerInfo": null
+}

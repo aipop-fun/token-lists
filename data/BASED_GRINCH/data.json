@@ -1,0 +1,22 @@
+{
+  "name": "Based Grinch",
+  "symbol": "Based Grinch",
+  "decimals": 18,
+  "description": "Based Grinch is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Based%20Grinch",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Based Grinch",
+  "addresses": {
+    "8453": "0x27cab2934993774ec78df5ddbd3be236a318f1a1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Based Grinch",
+    "sanitizedSymbol": "BASED_GRINCH",
+    "created_at": "2024-12-11T01:49:43.40128",
+    "deployer": "0x3Ad226427D6C1d8a53fb1948EfCd7a98890Fe8C1",
+    "lpNftId": "1410057",
+    "lockerAddress": "0x78fe27f9839C7A9e46b9C778Ba0E1eA75EAbFc0D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Endless Deploy",
+  "symbol": "Endless Deploy",
+  "decimals": 18,
+  "description": "Endless Deploy is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Endless%20Deploy",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Endless Deploy",
+  "addresses": {
+    "8453": "0x12b1c2913fd1cf2dc83dec9d9162ba531bf99d3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Endless Deploy",
+    "sanitizedSymbol": "ENDLESS_DEPLOY",
+    "created_at": "2024-12-10T03:57:01.027812",
+    "deployer": "0x8d94De8794b612Ea55Cd838ee3B7eB52D008C3Dc",
+    "lpNftId": "1395993",
+    "lockerAddress": "0x5a4662BE6f0699aA14aAA871BF27aE8070b11273"
+  },
+  "clankerInfo": null
+}

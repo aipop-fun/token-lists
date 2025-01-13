@@ -1,0 +1,22 @@
+{
+  "name": "Cardano Rugged",
+  "symbol": "Cardano Rugged",
+  "decimals": 18,
+  "description": "Cardano Rugged is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Cardano%20Rugged",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Cardano Rugged",
+  "addresses": {
+    "8453": "0x3a217396aac7963123e09afda07a65c4d5b6d66b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Cardano Rugged",
+    "sanitizedSymbol": "CARDANO_RUGGED",
+    "created_at": "2024-12-09T15:56:52.347454",
+    "deployer": "0x0BD94705D48c663B9ea1bBab179513201bde08C5",
+    "lpNftId": "1388875",
+    "lockerAddress": "0xD28A5A743d5bc86db224516Dcf2661EF8bAa7884"
+  },
+  "clankerInfo": null
+}

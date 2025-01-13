@@ -1,0 +1,22 @@
+{
+  "name": "CryptoGen",
+  "symbol": "CryptoGen",
+  "decimals": 18,
+  "description": "CryptoGen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CryptoGen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CryptoGen",
+  "addresses": {
+    "8453": "0x2d41bd81184ed8bb024998d2ce300d03733f5aa8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CryptoGen",
+    "sanitizedSymbol": "CRYPTOGEN",
+    "created_at": "2024-12-12T21:48:55.062629",
+    "deployer": "0x6666dd3E374A62277E3D7083ec870e23122ccA03",
+    "lpNftId": "1444168",
+    "lockerAddress": "0x07044E57E5CBD56bfaC5cC09De3D14e10B89df3b"
+  },
+  "clankerInfo": null
+}

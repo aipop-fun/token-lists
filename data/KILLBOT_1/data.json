@@ -1,0 +1,22 @@
+{
+  "name": "killbot",
+  "symbol": "killbot",
+  "decimals": 18,
+  "description": "killbot is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=killbot",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "killbot",
+  "addresses": {
+    "8453": "0x055d455c682bc475cb42d9ef92cad0fb708c246c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "killbot",
+    "sanitizedSymbol": "KILLBOT_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128868",
+    "lockerAddress": "0x8c8cb8512C319e0a7D6DEB890B87e754CdFe47c2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Bullshit",
+  "symbol": "Bullshit",
+  "decimals": 18,
+  "description": "Bullshit is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Bullshit",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Bullshit",
+  "addresses": {
+    "8453": "0x2690f8ba47b6ab1ba3a037b3cd887f037e8abe8b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Bullshit",
+    "sanitizedSymbol": "BULLSHIT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1165756",
+    "lockerAddress": "0xbd78f3468e15fE41981FF16814957D95f420b2D5"
+  },
+  "clankerInfo": null
+}

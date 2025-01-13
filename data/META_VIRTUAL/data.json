@@ -1,0 +1,22 @@
+{
+  "name": "Meta Virtual",
+  "symbol": "Meta Virtual",
+  "decimals": 18,
+  "description": "Meta Virtual is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meta%20Virtual",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meta Virtual",
+  "addresses": {
+    "8453": "0x29557d52a96dc6fab7305070ace7f7eac59c1c61"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meta Virtual",
+    "sanitizedSymbol": "META_VIRTUAL",
+    "created_at": "2024-12-12T13:05:14.796463",
+    "deployer": "0x7948bc7502dDC2b05125FCC4bc9d76D042BcC419",
+    "lpNftId": "1434656",
+    "lockerAddress": "0xc4bABebf2eDD2d5D306C8E8f83B924137dD58944"
+  },
+  "clankerInfo": null
+}

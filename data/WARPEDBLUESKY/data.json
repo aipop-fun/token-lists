@@ -1,0 +1,22 @@
+{
+  "name": "warpedbluesky",
+  "symbol": "warpedbluesky",
+  "decimals": 18,
+  "description": "warpedbluesky is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=warpedbluesky",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "warpedbluesky",
+  "addresses": {
+    "8453": "0x3cc5558dc220795b554894e1f154cdc4b93baad7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "warpedbluesky",
+    "sanitizedSymbol": "WARPEDBLUESKY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xb5e2e5f376c61f40485Bbc11d5dC56609C2c0Db3",
+    "lpNftId": "1294320",
+    "lockerAddress": "0x4D05D429caE5b033F1f30BA1B284201ce1929876"
+  },
+  "clankerInfo": null
+}

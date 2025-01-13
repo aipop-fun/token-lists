@@ -1,0 +1,22 @@
+{
+  "name": "BABYBANKR",
+  "symbol": "BABYBANKR",
+  "decimals": 18,
+  "description": "BABYBANKR is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BABYBANKR",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BABYBANKR",
+  "addresses": {
+    "8453": "0x154b6a80371e8eb5fb5e1d26346b1a3a2f5d983b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BABYBANKR",
+    "sanitizedSymbol": "BABYBANKR",
+    "created_at": "2024-12-12T13:23:01.255098",
+    "deployer": "0xC0338cC8307B2309c2A7f5bC020BB5477A629e6C",
+    "lpNftId": "1434944",
+    "lockerAddress": "0x923147E6822beD41E259CF91065440882BEb81d6"
+  },
+  "clankerInfo": null
+}

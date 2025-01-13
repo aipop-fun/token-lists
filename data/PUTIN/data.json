@@ -1,0 +1,22 @@
+{
+  "name": "PUTIN",
+  "symbol": "PUTIN",
+  "decimals": 18,
+  "description": "PUTIN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PUTIN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PUTIN",
+  "addresses": {
+    "8453": "0x146563a68be7084379221dce7c0b57ef27d92cca"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PUTIN",
+    "sanitizedSymbol": "PUTIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x468f0304983F0d08A5fc9fEAF9Ed0eBA733ad53b",
+    "lpNftId": "1275927",
+    "lockerAddress": "0xB53Dfd81FB45235B02D7C5F82c90FD334c657d56"
+  },
+  "clankerInfo": null
+}

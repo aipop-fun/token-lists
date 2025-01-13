@@ -1,0 +1,22 @@
+{
+  "name": "Strategic Base Reserve",
+  "symbol": "Strategic Base Reserve",
+  "decimals": 18,
+  "description": "Strategic Base Reserve is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Strategic%20Base%20Reserve",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Strategic Base Reserve",
+  "addresses": {
+    "8453": "0x213b063c999a7f358c3e55464aa17cd877dde346"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Strategic Base Reserve",
+    "sanitizedSymbol": "STRATEGIC_BASE_RESERVE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1153836",
+    "lockerAddress": "0x51007371e831F0F3e51E1cB0073bcaf968C76472"
+  },
+  "clankerInfo": null
+}

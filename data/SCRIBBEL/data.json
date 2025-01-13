@@ -1,0 +1,22 @@
+{
+  "name": "SCRIBBEL",
+  "symbol": "SCRIBBEL",
+  "decimals": 18,
+  "description": "SCRIBBEL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SCRIBBEL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SCRIBBEL",
+  "addresses": {
+    "8453": "0x2d569231cd831aa121c28e0e53b2d8b02fde8e5e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SCRIBBEL",
+    "sanitizedSymbol": "SCRIBBEL",
+    "created_at": "2024-12-12T21:01:04.483564",
+    "deployer": "0xaAa72173350720e9B3F1Fd8BD9ed65b14C3A5fC6",
+    "lpNftId": "1442990",
+    "lockerAddress": "0xF33F4ab7CaF6FB18cED5717E8Cb0b80F35dED8b9"
+  },
+  "clankerInfo": null
+}

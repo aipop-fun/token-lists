@@ -1,0 +1,22 @@
+{
+  "name": "lausb",
+  "symbol": "lausb",
+  "decimals": 18,
+  "description": "lausb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=lausb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "lausb",
+  "addresses": {
+    "8453": "0x2812f0525f2fedacec5e32fae5efe058b4cc7d45"
+  },
+  "tokenInfo": {
+    "originalSymbol": "lausb",
+    "sanitizedSymbol": "LAUSB",
+    "created_at": "2024-12-12T16:25:17.041727",
+    "deployer": "0x557c4816d619E527E78f00262c5EA784065e7570",
+    "lpNftId": "1438551",
+    "lockerAddress": "0x614caBDF4bE12DB194EB78b2bD810BcF7d99adE6"
+  },
+  "clankerInfo": null
+}

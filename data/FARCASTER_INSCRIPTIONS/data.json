@@ -1,0 +1,22 @@
+{
+  "name": "Farcaster Inscriptions",
+  "symbol": "Farcaster Inscriptions",
+  "decimals": 18,
+  "description": "Farcaster Inscriptions is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Farcaster%20Inscriptions",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Farcaster Inscriptions",
+  "addresses": {
+    "8453": "0x3b1609120c4300321ad9e3a2f93e72a7585e0ca5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Farcaster Inscriptions",
+    "sanitizedSymbol": "FARCASTER_INSCRIPTIONS",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x1b3bFfa8825924E5195C6D282c3B8dA524E31214",
+    "lpNftId": "1376204",
+    "lockerAddress": "0xB2382f9A405d74Ef7731cC640Fe3ee0758C362fd"
+  },
+  "clankerInfo": null
+}

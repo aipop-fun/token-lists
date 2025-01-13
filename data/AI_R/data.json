@@ -1,0 +1,22 @@
+{
+  "name": "AI R",
+  "symbol": "AI R",
+  "decimals": 18,
+  "description": "AI R is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=AI%20R",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "AI R",
+  "addresses": {
+    "8453": "0x40a6278091002287f97cf076c9a073aee0e35f6c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "AI R",
+    "sanitizedSymbol": "AI_R",
+    "created_at": "2024-12-10T12:22:57.443772",
+    "deployer": "0x0C6489C3aaD8606174Ab54ED55b8CA9EE6916587",
+    "lpNftId": "1400792",
+    "lockerAddress": "0xbAEa01F538B27dbDfABF64893D2AFa6cB9364C7D"
+  },
+  "clankerInfo": null
+}

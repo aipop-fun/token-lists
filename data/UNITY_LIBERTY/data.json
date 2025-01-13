@@ -1,0 +1,22 @@
+{
+  "name": "Unity&Liberty",
+  "symbol": "Unity&Liberty",
+  "decimals": 18,
+  "description": "Unity&Liberty is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Unity%26Liberty",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Unity&Liberty",
+  "addresses": {
+    "8453": "0x1a624cbac4efc98ce283012bcf0faa3d0cdbdc3d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Unity&Liberty",
+    "sanitizedSymbol": "UNITY_LIBERTY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x1916dB2419f06A5E351Df2e7eb376cAA9c424c7f",
+    "lpNftId": "1320561",
+    "lockerAddress": "0xF5ACB5E21E45E545d60098BCaF93c637d4aee1d4"
+  },
+  "clankerInfo": null
+}

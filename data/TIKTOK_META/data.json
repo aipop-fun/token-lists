@@ -1,0 +1,22 @@
+{
+  "name": "Tiktok Meta",
+  "symbol": "Tiktok Meta",
+  "decimals": 18,
+  "description": "Tiktok Meta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Tiktok%20Meta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Tiktok Meta",
+  "addresses": {
+    "8453": "0x1b568eb5c6203c97cfed25e93442b93864abde44"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Tiktok Meta",
+    "sanitizedSymbol": "TIKTOK_META",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193273",
+    "lockerAddress": "0x36b824Bd4Bfc25cd4083aB61b6Ea486226Ed4d62"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Token Name Poetry",
+  "symbol": "Token Name Poetry",
+  "decimals": 18,
+  "description": "Token Name Poetry is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Token%20Name%20Poetry",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Token Name Poetry",
+  "addresses": {
+    "8453": "0x10706f0b801886e1852bac9e6e0baca381eff948"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Token Name Poetry",
+    "sanitizedSymbol": "TOKEN_NAME_POETRY",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x98D5A312d54e546cF530256e385480dDE97646A7",
+    "lpNftId": "1312575",
+    "lockerAddress": "0x6Ed954c5E942Befb340C864F4289B64a06B291CE"
+  },
+  "clankerInfo": null
+}

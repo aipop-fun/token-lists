@@ -1,0 +1,22 @@
+{
+  "name": "comes",
+  "symbol": "comes",
+  "decimals": 18,
+  "description": "comes is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=comes",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "comes",
+  "addresses": {
+    "8453": "0x3392a1cb533c3a474bf9be62fd4509778b337217"
+  },
+  "tokenInfo": {
+    "originalSymbol": "comes",
+    "sanitizedSymbol": "COMES",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x751814f2fe2Cdf48696621eE133BCad889BB6e8c",
+    "lpNftId": "1365724",
+    "lockerAddress": "0xBd984c1b3a1e164bE9158e63B56d1a48dF6103B4"
+  },
+  "clankerInfo": null
+}

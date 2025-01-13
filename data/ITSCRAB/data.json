@@ -1,0 +1,22 @@
+{
+  "name": "ITSCRAB",
+  "symbol": "ITSCRAB",
+  "decimals": 18,
+  "description": "ITSCRAB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ITSCRAB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ITSCRAB",
+  "addresses": {
+    "8453": "0x3ffbb9953ce7476154c5f188e1a1eacd02e3e6f0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ITSCRAB",
+    "sanitizedSymbol": "ITSCRAB",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xeaF16Eb1310b503f951bA57775d8fcC9f460783A",
+    "lpNftId": "1327520",
+    "lockerAddress": "0x4343A790746edB4DC76A0FC2004B1f80057E51f0"
+  },
+  "clankerInfo": null
+}

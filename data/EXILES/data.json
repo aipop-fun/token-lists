@@ -1,0 +1,22 @@
+{
+  "name": "EXILES",
+  "symbol": "EXILES",
+  "decimals": 18,
+  "description": "EXILES is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EXILES",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EXILES",
+  "addresses": {
+    "8453": "0x0114a7ba67194cb4c1f825134809eaeb5b048d75"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EXILES",
+    "sanitizedSymbol": "EXILES",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1202784",
+    "lockerAddress": "0x4D310c15D67253928c3F195f25D0bd7b6DF3Bafd"
+  },
+  "clankerInfo": null
+}

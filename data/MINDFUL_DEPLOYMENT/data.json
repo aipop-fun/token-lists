@@ -1,0 +1,22 @@
+{
+  "name": "Mindful Deployment",
+  "symbol": "Mindful Deployment",
+  "decimals": 18,
+  "description": "Mindful Deployment is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mindful%20Deployment",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mindful Deployment",
+  "addresses": {
+    "8453": "0x3d753fafc9ab422cdaf1d69758066b5745eedee1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mindful Deployment",
+    "sanitizedSymbol": "MINDFUL_DEPLOYMENT",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1205252",
+    "lockerAddress": "0x90633c62819A725Fcfa7D710a4554d773BED336b"
+  },
+  "clankerInfo": null
+}

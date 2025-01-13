@@ -1,0 +1,22 @@
+{
+  "name": "SHRUB",
+  "symbol": "SHRUB",
+  "decimals": 18,
+  "description": "SHRUB is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHRUB",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHRUB",
+  "addresses": {
+    "8453": "0x0d99a72db94ff56686f941b12a7754b5f75965f7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHRUB",
+    "sanitizedSymbol": "SHRUB",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xCDf8E93BD9700d7274bC02927621A968Aede4cb5",
+    "lpNftId": "1267016",
+    "lockerAddress": "0xed458e0EC76e620f082A180Bdd41e9052D534E3F"
+  },
+  "clankerInfo": null
+}

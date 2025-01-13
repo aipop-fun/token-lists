@@ -1,0 +1,22 @@
+{
+  "name": "Dirt",
+  "symbol": "Dirt",
+  "decimals": 18,
+  "description": "Dirt is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dirt",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dirt",
+  "addresses": {
+    "8453": "0x23bc0574851a263b72b49cb882ae6ba6f9ce0d1c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dirt",
+    "sanitizedSymbol": "DIRT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212902",
+    "lockerAddress": "0xab1373C485Ff59A8D4aA30a062699145FD5CA49F"
+  },
+  "clankerInfo": null
+}

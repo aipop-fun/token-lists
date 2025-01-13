@@ -1,0 +1,22 @@
+{
+  "name": "monkeylike",
+  "symbol": "monkeylike",
+  "decimals": 18,
+  "description": "monkeylike is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=monkeylike",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "monkeylike",
+  "addresses": {
+    "8453": "0x1519de47c7b2b62007f11a2e70f8177a7dcc1970"
+  },
+  "tokenInfo": {
+    "originalSymbol": "monkeylike",
+    "sanitizedSymbol": "MONKEYLIKE",
+    "created_at": "2024-12-10T21:02:21.755891",
+    "deployer": "0x40d52d5C8fda261e929B6eE228Bc5Ca270E0f9c9",
+    "lpNftId": "1407190",
+    "lockerAddress": "0xf458E2330C5B25048D9cf526693608A4253CBAFF"
+  },
+  "clankerInfo": null
+}

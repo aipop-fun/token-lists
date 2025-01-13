@@ -1,0 +1,22 @@
+{
+  "name": "HAM DOG",
+  "symbol": "HAM DOG",
+  "decimals": 18,
+  "description": "HAM DOG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=HAM%20DOG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "HAM DOG",
+  "addresses": {
+    "8453": "0x33a3ce49701dfdd7b0ecfc335e8cffd40c8386f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "HAM DOG",
+    "sanitizedSymbol": "HAM_DOG",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x4B8B8601a4b5D280254c3610aF2A44fcF5C12A9C",
+    "lpNftId": "1330326",
+    "lockerAddress": "0x5dfd3871C860B712cf7e08414A8788c1B4E7AdE9"
+  },
+  "clankerInfo": null
+}

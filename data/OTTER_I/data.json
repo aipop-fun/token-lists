@@ -1,0 +1,22 @@
+{
+  "name": "OTTER i",
+  "symbol": "OTTER i",
+  "decimals": 18,
+  "description": "OTTER i is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=OTTER%20i",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "OTTER i",
+  "addresses": {
+    "8453": "0x1b7795ab1ab24031d79340c2fa94c2b89e3bf796"
+  },
+  "tokenInfo": {
+    "originalSymbol": "OTTER i",
+    "sanitizedSymbol": "OTTER_I",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x183Ae8774788c92F9824E837689f14a94863be3F",
+    "lpNftId": "1333650",
+    "lockerAddress": "0xe3c6cD2B02FBcb5688194B519744635074f80a2A"
+  },
+  "clankerInfo": null
+}

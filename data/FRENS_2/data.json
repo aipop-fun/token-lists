@@ -1,0 +1,22 @@
+{
+  "name": "Frens",
+  "symbol": "Frens",
+  "decimals": 18,
+  "description": "Frens is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Frens",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Frens",
+  "addresses": {
+    "8453": "0x318dd70f6493f63325f25fbc6c9b3038ebf92431"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Frens",
+    "sanitizedSymbol": "FRENS_2",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173069",
+    "lockerAddress": "0xC3B56fa2205648A5109cE08B75d7124c3883Bcd9"
+  },
+  "clankerInfo": null
+}

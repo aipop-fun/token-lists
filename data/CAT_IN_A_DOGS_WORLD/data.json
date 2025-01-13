@@ -1,0 +1,22 @@
+{
+  "name": "cat in a dogs world",
+  "symbol": "cat in a dogs world",
+  "decimals": 18,
+  "description": "cat in a dogs world is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=cat%20in%20a%20dogs%20world",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "cat in a dogs world",
+  "addresses": {
+    "8453": "0x317172c966806ac6fd96d31566181646d2b9d60d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "cat in a dogs world",
+    "sanitizedSymbol": "CAT_IN_A_DOGS_WORLD",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230092",
+    "lockerAddress": "0xf9fDdDC9dF7948AAf2252102FD8CFDEA1bb878A5"
+  },
+  "clankerInfo": null
+}

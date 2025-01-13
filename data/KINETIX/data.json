@@ -1,0 +1,22 @@
+{
+  "name": "Kinetix",
+  "symbol": "Kinetix",
+  "decimals": 18,
+  "description": "Kinetix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kinetix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kinetix",
+  "addresses": {
+    "8453": "0x208a33fa8a72b504b309a6869390072d712e179d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kinetix",
+    "sanitizedSymbol": "KINETIX",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x137878D2e1cA1739e3F584bDf43741a739Df3E7f",
+    "lpNftId": "1270197",
+    "lockerAddress": "0xC29a633205924778606E04DC5f71fA9C1317c20D"
+  },
+  "clankerInfo": null
+}

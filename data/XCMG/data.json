@@ -1,0 +1,22 @@
+{
+  "name": "XCMG",
+  "symbol": "XCMG",
+  "decimals": 18,
+  "description": "XCMG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=XCMG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "XCMG",
+  "addresses": {
+    "8453": "0x2234d47e80885ff2af94fa76a92d2ce6b6ebccc7"
+  },
+  "tokenInfo": {
+    "originalSymbol": "XCMG",
+    "sanitizedSymbol": "XCMG",
+    "created_at": "2024-12-11T02:38:47.923478",
+    "deployer": "0x5E4D8288bE97CAf6412E014c523b272d05c6ce86",
+    "lpNftId": "1410897",
+    "lockerAddress": "0x11364D41dFbB20944977Ceefd62669787b161292"
+  },
+  "clankerInfo": null
+}

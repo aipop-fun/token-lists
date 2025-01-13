@@ -1,0 +1,22 @@
+{
+  "name": "KEPANO",
+  "symbol": "KEPANO",
+  "decimals": 18,
+  "description": "KEPANO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KEPANO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KEPANO",
+  "addresses": {
+    "8453": "0x2da6ebfa685f72c6ae0fd860265b1b93461e3602"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KEPANO",
+    "sanitizedSymbol": "KEPANO",
+    "created_at": "2024-12-11T08:01:59.290549",
+    "deployer": "0x9CB86794dcC6F029B5E1718088C6d9Ff6117df73",
+    "lpNftId": "1414530",
+    "lockerAddress": "0x4943e5EF06f5ac85c61360770D93FCD6f94aA96D"
+  },
+  "clankerInfo": null
+}

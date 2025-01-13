@@ -1,0 +1,22 @@
+{
+  "name": "Useless Coin",
+  "symbol": "Useless Coin",
+  "decimals": 18,
+  "description": "Useless Coin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Useless%20Coin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Useless Coin",
+  "addresses": {
+    "8453": "0x171a9ae031231184a167e3b0056e7756fadf538f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Useless Coin",
+    "sanitizedSymbol": "USELESS_COIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1196213",
+    "lockerAddress": "0x43865e5F4fd3849ffD69e440B7a3ca6D3Daaa5D1"
+  },
+  "clankerInfo": null
+}

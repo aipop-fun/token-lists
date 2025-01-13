@@ -1,0 +1,22 @@
+{
+  "name": "SPERO",
+  "symbol": "SPERO",
+  "decimals": 18,
+  "description": "SPERO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SPERO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SPERO",
+  "addresses": {
+    "8453": "0x000e6b7ce75873eedc619da8ee88f58a3f07722b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SPERO",
+    "sanitizedSymbol": "SPERO",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC8FD0cF0d95EF6977ee14F62a6eadcc723B15D77",
+    "lpNftId": "1323880",
+    "lockerAddress": "0xe82F059506d97aAd7b41b6901cC2De1fFb61cfEf"
+  },
+  "clankerInfo": null
+}

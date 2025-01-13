@@ -1,0 +1,22 @@
+{
+  "name": "Kolkata",
+  "symbol": "Kolkata",
+  "decimals": 18,
+  "description": "Kolkata is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Kolkata",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Kolkata",
+  "addresses": {
+    "8453": "0x30ec76387a8a4337cc8c1db40ed1f55aa1ee5b8e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Kolkata",
+    "sanitizedSymbol": "KOLKATA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1129857",
+    "lockerAddress": "0x3a885085adC29e99E649168c7E8d8210D05CD34B"
+  },
+  "clankerInfo": null
+}

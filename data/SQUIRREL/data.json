@@ -1,0 +1,22 @@
+{
+  "name": "squirrel",
+  "symbol": "squirrel",
+  "decimals": 18,
+  "description": "squirrel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=squirrel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "squirrel",
+  "addresses": {
+    "8453": "0x18cfeb9eb03295fc452d3005aab791086d8c2baf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "squirrel",
+    "sanitizedSymbol": "SQUIRREL",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233426",
+    "lockerAddress": "0xfDa51b83B4898C137cE00629e548C378C436C22D"
+  },
+  "clankerInfo": null
+}

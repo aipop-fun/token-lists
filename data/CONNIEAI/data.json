@@ -1,0 +1,22 @@
+{
+  "name": "ConnieAI",
+  "symbol": "ConnieAI",
+  "decimals": 18,
+  "description": "ConnieAI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ConnieAI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ConnieAI",
+  "addresses": {
+    "8453": "0x1d3d3339c78fc0099a2ed4c623a8b61c9a4459fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ConnieAI",
+    "sanitizedSymbol": "CONNIEAI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226853",
+    "lockerAddress": "0x04cF55B19961109f0Eb0c6F41ae8CC796e663e47"
+  },
+  "clankerInfo": null
+}

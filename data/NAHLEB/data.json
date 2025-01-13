@@ -1,0 +1,22 @@
+{
+  "name": "Nahleb",
+  "symbol": "Nahleb",
+  "decimals": 18,
+  "description": "Nahleb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nahleb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nahleb",
+  "addresses": {
+    "8453": "0x3b91b132996c19d1a9b5e87cdaae75eb377aa4a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nahleb",
+    "sanitizedSymbol": "NAHLEB",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4c4Ab134AC8B35545B1b9a589027a971DC0E9368",
+    "lpNftId": "1286364",
+    "lockerAddress": "0x2e6D629186f5496063C81eAE459f0792998d17BA"
+  },
+  "clankerInfo": null
+}

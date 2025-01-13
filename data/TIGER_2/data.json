@@ -1,0 +1,22 @@
+{
+  "name": "TIGER",
+  "symbol": "TIGER",
+  "decimals": 18,
+  "description": "TIGER is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TIGER",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TIGER",
+  "addresses": {
+    "8453": "0x3f6c41b70551d23df37d2c4fedde5a74de164ebf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TIGER",
+    "sanitizedSymbol": "TIGER_2",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf98162Fd059525872a3d28a6f3ca296689f5Dcdc",
+    "lpNftId": "1285329",
+    "lockerAddress": "0x5cd347Bad3914fD892B86f42d99a93184098789e"
+  },
+  "clankerInfo": null
+}

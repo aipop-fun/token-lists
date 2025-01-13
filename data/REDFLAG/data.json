@@ -1,0 +1,22 @@
+{
+  "name": "redflag",
+  "symbol": "redflag",
+  "decimals": 18,
+  "description": "redflag is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=redflag",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "redflag",
+  "addresses": {
+    "8453": "0x32585abec55cd7ae59e434b4765d2acba667100e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "redflag",
+    "sanitizedSymbol": "REDFLAG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x61AdceE0922DEA2FC417803A661111554CD5F7c2",
+    "lpNftId": "1312932",
+    "lockerAddress": "0x968980aB22A0316710Fcc7e1c6e0c44ea154Cf4F"
+  },
+  "clankerInfo": null
+}

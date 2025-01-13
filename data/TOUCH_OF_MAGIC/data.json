@@ -1,0 +1,22 @@
+{
+  "name": "Touch of Magic",
+  "symbol": "Touch of Magic",
+  "decimals": 18,
+  "description": "Touch of Magic is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Touch%20of%20Magic",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Touch of Magic",
+  "addresses": {
+    "8453": "0x19810c60a1b761301012671ec749fba2e9484d12"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Touch of Magic",
+    "sanitizedSymbol": "TOUCH_OF_MAGIC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0b18297DdCE2778A42C9c63AdCFB00F89223A299",
+    "lpNftId": "1307552",
+    "lockerAddress": "0xCd3Eaa10e820f66996e89389f6b322B05C2717f2"
+  },
+  "clankerInfo": null
+}

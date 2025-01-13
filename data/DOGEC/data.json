@@ -1,0 +1,22 @@
+{
+  "name": "DOGEC",
+  "symbol": "DOGEC",
+  "decimals": 18,
+  "description": "DOGEC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOGEC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOGEC",
+  "addresses": {
+    "8453": "0x21130e6f3d3491595832a0fd0ae19cdfa88f7c71"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOGEC",
+    "sanitizedSymbol": "DOGEC",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xCd175E0D488B64c414cd2B13e5982A39f0bA2dc0",
+    "lpNftId": "1289759",
+    "lockerAddress": "0xdcfC8343493274eB99366BF3F675047C2cf21586"
+  },
+  "clankerInfo": null
+}

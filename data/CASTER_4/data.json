@@ -1,0 +1,22 @@
+{
+  "name": "caster",
+  "symbol": "caster",
+  "decimals": 18,
+  "description": "caster is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=caster",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "caster",
+  "addresses": {
+    "8453": "0x2a57ddcc5cb06f4f702d26aeb1b828fe88cf4b78"
+  },
+  "tokenInfo": {
+    "originalSymbol": "caster",
+    "sanitizedSymbol": "CASTER_4",
+    "created_at": "2024-12-10T21:02:07.845331",
+    "deployer": "0x1b3bFfa8825924E5195C6D282c3B8dA524E31214",
+    "lpNftId": "1407188",
+    "lockerAddress": "0xdd65Ca113B7aea90DEa89EbF4F0E472fB424b178"
+  },
+  "clankerInfo": null
+}

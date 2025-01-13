@@ -1,0 +1,22 @@
+{
+  "name": "tanceh",
+  "symbol": "tanceh",
+  "decimals": 18,
+  "description": "tanceh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=tanceh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "tanceh",
+  "addresses": {
+    "8453": "0x2b9d6f8090a02421bb55a115b61d497660273291"
+  },
+  "tokenInfo": {
+    "originalSymbol": "tanceh",
+    "sanitizedSymbol": "TANCEH",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x76868A1A6b9C845327483a9b4144F877547934E0",
+    "lpNftId": "1313383",
+    "lockerAddress": "0x913c43F4F6Ac36aD7bA6F8016c06E8fBaa35f1F2"
+  },
+  "clankerInfo": null
+}

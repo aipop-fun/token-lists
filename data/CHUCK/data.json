@@ -1,0 +1,22 @@
+{
+  "name": "CHUCK",
+  "symbol": "CHUCK",
+  "decimals": 18,
+  "description": "CHUCK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=CHUCK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "CHUCK",
+  "addresses": {
+    "8453": "0x110565ac9ad22b82f67ee2762def800f07678e36"
+  },
+  "tokenInfo": {
+    "originalSymbol": "CHUCK",
+    "sanitizedSymbol": "CHUCK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x45db9d3457c2Cb05C4BFc7334a33ceE6e19d508F",
+    "lpNftId": "1330215",
+    "lockerAddress": "0x44570D7A7c4434D65B2b2a1F23c65E1937bc0DA7"
+  },
+  "clankerInfo": null
+}

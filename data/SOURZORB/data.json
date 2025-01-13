@@ -1,0 +1,22 @@
+{
+  "name": "sourzorb",
+  "symbol": "sourzorb",
+  "decimals": 18,
+  "description": "sourzorb is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=sourzorb",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "sourzorb",
+  "addresses": {
+    "8453": "0x3bedae44121e651680e4ada48966328695aaba6a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "sourzorb",
+    "sanitizedSymbol": "SOURZORB",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166329",
+    "lockerAddress": "0x0C67E450f7E25bCf9Da9D8fBF0b92306ae15BcE0"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pixelator",
+  "symbol": "Pixelator",
+  "decimals": 18,
+  "description": "Pixelator is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pixelator",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pixelator",
+  "addresses": {
+    "8453": "0x2323d5b0ace85db7d6c884d767f1ce51ad46b9c3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pixelator",
+    "sanitizedSymbol": "PIXELATOR",
+    "created_at": "2024-12-12T15:40:27.730357",
+    "deployer": "0x726dB6A8d139d0B5588CDEa3E247128176Da97E6",
+    "lpNftId": "1437230",
+    "lockerAddress": "0x6d684eBeAeA807Dc78E4b0f8C6432684F4CCC57E"
+  },
+  "clankerInfo": null
+}

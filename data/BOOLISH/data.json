@@ -1,0 +1,22 @@
+{
+  "name": "Boolish",
+  "symbol": "Boolish",
+  "decimals": 18,
+  "description": "Boolish is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Boolish",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Boolish",
+  "addresses": {
+    "8453": "0x1c22b2b6155a165c9e52ee3ab5277752804e3b26"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Boolish",
+    "sanitizedSymbol": "BOOLISH",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xb3b6EE6DF63a51ffb3379bFE7Aa25F9549b5AbA7",
+    "lpNftId": "1329142",
+    "lockerAddress": "0x81A9C382cDEaed2838F7585a935aE447B0dB4d15"
+  },
+  "clankerInfo": null
+}

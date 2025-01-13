@@ -1,0 +1,22 @@
+{
+  "name": "RTCHT and Clanker",
+  "symbol": "RTCHT and Clanker",
+  "decimals": 18,
+  "description": "RTCHT and Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=RTCHT%20and%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "RTCHT and Clanker",
+  "addresses": {
+    "8453": "0x1d35741c51fb615ca70e28d3321f6f01e8d8a12d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "RTCHT and Clanker",
+    "sanitizedSymbol": "RTCHT_AND_CLANKER",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x11BC6e6E4739C24332C5D384f939F2DA3C06b130",
+    "lpNftId": "1263678",
+    "lockerAddress": "0x2aC267D4e2A01d98cD8A45265de9E1b78a2457Fd"
+  },
+  "clankerInfo": null
+}

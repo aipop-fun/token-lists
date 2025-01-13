@@ -1,0 +1,22 @@
+{
+  "name": "Owls",
+  "symbol": "Owls",
+  "decimals": 18,
+  "description": "Owls is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Owls",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Owls",
+  "addresses": {
+    "8453": "0x15b2379cd73565d6ea4a3f94d03c6a26f8a0511e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Owls",
+    "sanitizedSymbol": "OWLS",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1234320",
+    "lockerAddress": "0x146c235BaF8B95b9BC5Ae382e7e51662B808E455"
+  },
+  "clankerInfo": null
+}

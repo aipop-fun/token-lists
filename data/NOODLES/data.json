@@ -1,0 +1,22 @@
+{
+  "name": "noodles",
+  "symbol": "noodles",
+  "decimals": 18,
+  "description": "noodles is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=noodles",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "noodles",
+  "addresses": {
+    "8453": "0x05d34dc3b6c8a5932891fd24a8cc5fe0c48b50ed"
+  },
+  "tokenInfo": {
+    "originalSymbol": "noodles",
+    "sanitizedSymbol": "NOODLES",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237628",
+    "lockerAddress": "0xc9D5d948ec7e9cf121503C9036589878C286Bbf6"
+  },
+  "clankerInfo": null
+}

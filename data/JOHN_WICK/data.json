@@ -1,0 +1,22 @@
+{
+  "name": "John Wick",
+  "symbol": "John Wick",
+  "decimals": 18,
+  "description": "John Wick is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=John%20Wick",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "John Wick",
+  "addresses": {
+    "8453": "0x25a3afdb71fa2e9d8caf4354df381ba478de587d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "John Wick",
+    "sanitizedSymbol": "JOHN_WICK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xB276ACDE7EF0D8c878f25b18c5779EcFBb557799",
+    "lpNftId": "1321837",
+    "lockerAddress": "0xf4A770d278d59Bf8279eceDB19974DC39B372E40"
+  },
+  "clankerInfo": null
+}

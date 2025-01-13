@@ -1,0 +1,22 @@
+{
+  "name": "I am Not Clanker",
+  "symbol": "I am Not Clanker",
+  "decimals": 18,
+  "description": "I am Not Clanker is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=I%20am%20Not%20Clanker",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "I am Not Clanker",
+  "addresses": {
+    "8453": "0x1b91ec5db1f71ddf7e9c19ef7fbe3dbc9850aac8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "I am Not Clanker",
+    "sanitizedSymbol": "I_AM_NOT_CLANKER",
+    "created_at": "2024-12-12T21:41:51.600012",
+    "deployer": "0x94E60C1ee34ee4CD69b6bF5d854FF3C10097953c",
+    "lpNftId": "1444041",
+    "lockerAddress": "0x2df1262Edff7BBf13AA791d3c11E46DF44344f20"
+  },
+  "clankerInfo": null
+}

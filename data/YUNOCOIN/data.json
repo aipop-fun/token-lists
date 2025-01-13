@@ -1,0 +1,22 @@
+{
+  "name": "YUNOCoin",
+  "symbol": "YUNOCoin",
+  "decimals": 18,
+  "description": "YUNOCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=YUNOCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "YUNOCoin",
+  "addresses": {
+    "8453": "0x3bff23088730d25eb1431f574b4aa15ec683d174"
+  },
+  "tokenInfo": {
+    "originalSymbol": "YUNOCoin",
+    "sanitizedSymbol": "YUNOCOIN",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1166025",
+    "lockerAddress": "0x9f76f7BE505f82244651110426e24d7d40744513"
+  },
+  "clankerInfo": null
+}

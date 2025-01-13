@@ -1,0 +1,22 @@
+{
+  "name": "Lumie",
+  "symbol": "Lumie",
+  "decimals": 18,
+  "description": "Lumie is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Lumie",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Lumie",
+  "addresses": {
+    "8453": "0x190165fa16932ea6e62f476cae6f815b2a3de3e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Lumie",
+    "sanitizedSymbol": "LUMIE",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1152461",
+    "lockerAddress": "0xE021Fc55FC48F491CBe44a7A88435A87A1ebd898"
+  },
+  "clankerInfo": null
+}

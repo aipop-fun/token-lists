@@ -1,0 +1,22 @@
+{
+  "name": "Starcast Token",
+  "symbol": "Starcast Token",
+  "decimals": 18,
+  "description": "Starcast Token is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Starcast%20Token",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Starcast Token",
+  "addresses": {
+    "8453": "0x223252547ddf564db33e6ad47a7d2288c4366a97"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Starcast Token",
+    "sanitizedSymbol": "STARCAST_TOKEN",
+    "created_at": "2024-12-12T19:27:19.191321",
+    "deployer": "0x98c7F0ca65DD2e3de1c2143b85aDB36D5e3B97C5",
+    "lpNftId": "1441667",
+    "lockerAddress": "0x204A24D27EC2DcAc4dBCA28DDdF12d538D41b763"
+  },
+  "clankerInfo": null
+}

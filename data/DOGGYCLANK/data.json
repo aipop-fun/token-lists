@@ -1,0 +1,22 @@
+{
+  "name": "DoggyClank",
+  "symbol": "DoggyClank",
+  "decimals": 18,
+  "description": "DoggyClank is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DoggyClank",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DoggyClank",
+  "addresses": {
+    "8453": "0x27562111a18cea48780a4f3dd8457483218ba9fe"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DoggyClank",
+    "sanitizedSymbol": "DOGGYCLANK",
+    "created_at": "2024-12-11T21:37:51.041686",
+    "deployer": "0x62477F087B9D1e618505B62b62081C00A409C221",
+    "lpNftId": "1426384",
+    "lockerAddress": "0x7c4cf97ecA3EBEd1f37dC0AE14CAE0030B697C5a"
+  },
+  "clankerInfo": null
+}

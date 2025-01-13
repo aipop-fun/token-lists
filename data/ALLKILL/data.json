@@ -1,0 +1,22 @@
+{
+  "name": "allkill",
+  "symbol": "allkill",
+  "decimals": 18,
+  "description": "allkill is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=allkill",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "allkill",
+  "addresses": {
+    "8453": "0x36822af5e0b4b9eca6cf344770c5bd0cd23289e4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "allkill",
+    "sanitizedSymbol": "ALLKILL",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0xF1cc2f3047CD31eDAd0b35dE19B45830d2a4E281",
+    "lpNftId": "1264811",
+    "lockerAddress": "0xdBaC27C0992C844c9501Ad23bA96B3A06C8BAE2C"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LAIKA",
+  "symbol": "LAIKA",
+  "decimals": 18,
+  "description": "LAIKA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=LAIKA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "LAIKA",
+  "addresses": {
+    "8453": "0x2457615c7e6a280783efabd8469acb4b05b59ef0"
+  },
+  "tokenInfo": {
+    "originalSymbol": "LAIKA",
+    "sanitizedSymbol": "LAIKA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1231964",
+    "lockerAddress": "0xf75fD6670F61672F3bF8F33a8471143208890B56"
+  },
+  "clankerInfo": null
+}

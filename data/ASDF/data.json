@@ -1,0 +1,22 @@
+{
+  "name": "asdf",
+  "symbol": "asdf",
+  "decimals": 18,
+  "description": "asdf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=asdf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "asdf",
+  "addresses": {
+    "8453": "0x2cddb4d4d8aea2248a02b469c00b7df266c8e701"
+  },
+  "tokenInfo": {
+    "originalSymbol": "asdf",
+    "sanitizedSymbol": "ASDF",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1114824",
+    "lockerAddress": "0x27b56155B777E5F80F1480f5b55A10B27ef2e477"
+  },
+  "clankerInfo": null
+}

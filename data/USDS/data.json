@@ -1,0 +1,22 @@
+{
+  "name": "USDS",
+  "symbol": "USDS",
+  "decimals": 18,
+  "description": "USDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=USDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "USDS",
+  "addresses": {
+    "8453": "0x09898af8029e3bc2c62dee6d55bfd27856b2d38b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "USDS",
+    "sanitizedSymbol": "USDS",
+    "created_at": "2024-12-10T01:17:53.264189",
+    "deployer": "0x851432cA77546B472b08e06cE050e4fDeB557dA1",
+    "lpNftId": "1394225",
+    "lockerAddress": "0xaB41BD4D681c1C32309759f5f53f815DED74171C"
+  },
+  "clankerInfo": null
+}

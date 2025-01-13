@@ -1,0 +1,22 @@
+{
+  "name": "Jacekdegen",
+  "symbol": "Jacekdegen",
+  "decimals": 18,
+  "description": "Jacekdegen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Jacekdegen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Jacekdegen",
+  "addresses": {
+    "8453": "0x26d43565bfd8ec49fe90f492c2a2f18941666d82"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Jacekdegen",
+    "sanitizedSymbol": "JACEKDEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xD5E3A2bd12f8360f09fD8148565550545fFa9412",
+    "lpNftId": "1305951",
+    "lockerAddress": "0x9123d123E6254B379D020bd5f692243Eca49697e"
+  },
+  "clankerInfo": null
+}

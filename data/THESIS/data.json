@@ -1,0 +1,22 @@
+{
+  "name": "THESIS",
+  "symbol": "THESIS",
+  "decimals": 18,
+  "description": "THESIS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THESIS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THESIS",
+  "addresses": {
+    "8453": "0x2890c674dfdd761f23ac8ace1cdb36b142310ed5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THESIS",
+    "sanitizedSymbol": "THESIS",
+    "created_at": "2024-12-09T02:48:15.287907",
+    "deployer": "0x01A29134723ef72a968838cb1DF498BC4f910bEc",
+    "lpNftId": "1379023",
+    "lockerAddress": "0x3313e7C57e1D63826d15B3451cF9cf3Bb1EbaFDF"
+  },
+  "clankerInfo": null
+}

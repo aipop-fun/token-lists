@@ -1,0 +1,22 @@
+{
+  "name": "KONTOL",
+  "symbol": "KONTOL",
+  "decimals": 18,
+  "description": "KONTOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KONTOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KONTOL",
+  "addresses": {
+    "8453": "0x37aa7e36848336c79ada310358443173c2999b7d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KONTOL",
+    "sanitizedSymbol": "KONTOL",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160811",
+    "lockerAddress": "0x6A58c55A086bdb4732f6929242116d2B496a31C5"
+  },
+  "clankerInfo": null
+}

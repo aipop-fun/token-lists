@@ -1,0 +1,22 @@
+{
+  "name": "DICK",
+  "symbol": "DICK",
+  "decimals": 18,
+  "description": "DICK is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DICK",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DICK",
+  "addresses": {
+    "8453": "0x06ed6b2c31b4f42506c1f7305b16e0933f3979d4"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DICK",
+    "sanitizedSymbol": "DICK",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8532DDe31dC62E65ba539F42D4B60B4b0159f354",
+    "lpNftId": "1319498",
+    "lockerAddress": "0x31D397c5844100476Cf5CCFf85dC06b1125265B9"
+  },
+  "clankerInfo": null
+}

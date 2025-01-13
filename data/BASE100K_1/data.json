@@ -1,0 +1,22 @@
+{
+  "name": "BASE100K",
+  "symbol": "BASE100K",
+  "decimals": 18,
+  "description": "BASE100K is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASE100K",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASE100K",
+  "addresses": {
+    "8453": "0x3c2b1cdf0a708a4cf4e630652c0f73cffd3e23f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASE100K",
+    "sanitizedSymbol": "BASE100K_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x60013D2fd7775756aD0884CfEF0bDA44b5fB98FC",
+    "lpNftId": "1252664",
+    "lockerAddress": "0xBA44954bEbe59e92de1A8efb933029EcdCd4898e"
+  },
+  "clankerInfo": null
+}

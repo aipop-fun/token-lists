@@ -1,0 +1,22 @@
+{
+  "name": "skypark",
+  "symbol": "skypark",
+  "decimals": 18,
+  "description": "skypark is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=skypark",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "skypark",
+  "addresses": {
+    "8453": "0x2aef5a6a1572377e294108c389119bf43d71f493"
+  },
+  "tokenInfo": {
+    "originalSymbol": "skypark",
+    "sanitizedSymbol": "SKYPARK",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xC5954F958dFdA2de002b9a997192041438c62a00",
+    "lpNftId": "1358380",
+    "lockerAddress": "0xE9ECEB30D045dF7D9bCAc3D23Ad391712F72Cc59"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "5 USDC",
+  "symbol": "5 USDC",
+  "decimals": 18,
+  "description": "5 USDC is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=5%20USDC",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "5 USDC",
+  "addresses": {
+    "8453": "0x102ab2499e1e65b3bfb03f911072bc33cc286826"
+  },
+  "tokenInfo": {
+    "originalSymbol": "5 USDC",
+    "sanitizedSymbol": "5_USDC",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1144043",
+    "lockerAddress": "0x29df8E7B0760F7eb048EE9A80a16185eA2aD5dE8"
+  },
+  "clankerInfo": null
+}

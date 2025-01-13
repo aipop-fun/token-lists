@@ -1,0 +1,22 @@
+{
+  "name": "APT",
+  "symbol": "APT",
+  "decimals": 18,
+  "description": "APT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=APT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "APT",
+  "addresses": {
+    "8453": "0x1bf55c6f5823b6613ef73f5857588ae8e71e6691"
+  },
+  "tokenInfo": {
+    "originalSymbol": "APT",
+    "sanitizedSymbol": "APT",
+    "created_at": "2024-12-10T08:25:53.429838",
+    "deployer": "0x2B83F654B3aA613D91a49fc323EBF8edC5592734",
+    "lpNftId": "1398777",
+    "lockerAddress": "0xD5825525dEcFEE9080E40a229Fd5586bCC1159b8"
+  },
+  "clankerInfo": null
+}

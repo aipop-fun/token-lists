@@ -1,0 +1,22 @@
+{
+  "name": "Haribo",
+  "symbol": "Haribo",
+  "decimals": 18,
+  "description": "Haribo is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Haribo",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Haribo",
+  "addresses": {
+    "8453": "0x0daa00937382da898f530919630f95d33e2f52d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Haribo",
+    "sanitizedSymbol": "HARIBO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xAE5A04C25531949Edc6fC3e650efEc82c1ba773a",
+    "lpNftId": "1314860",
+    "lockerAddress": "0x8179A5ec80b7Cf1DF56c0B13dd2D0100A760022F"
+  },
+  "clankerInfo": null
+}

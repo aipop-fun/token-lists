@@ -1,0 +1,22 @@
+{
+  "name": "DEGEN ATH",
+  "symbol": "DEGEN ATH",
+  "decimals": 18,
+  "description": "DEGEN ATH is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DEGEN%20ATH",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DEGEN ATH",
+  "addresses": {
+    "8453": "0x3184e57b667ee148d63011ae045d75a33aed9998"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DEGEN ATH",
+    "sanitizedSymbol": "DEGEN_ATH",
+    "created_at": "2024-12-11T03:12:55.251601",
+    "deployer": "0xCdfd5ECE9739fdC0DEEB51800723CfeA68727129",
+    "lpNftId": "1411680",
+    "lockerAddress": "0xE31AA7504c4D9516762Ff5B20a458DCFf845751B"
+  },
+  "clankerInfo": null
+}

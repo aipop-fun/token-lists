@@ -1,0 +1,22 @@
+{
+  "name": "Remix Cat",
+  "symbol": "Remix Cat",
+  "decimals": 18,
+  "description": "Remix Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Remix%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Remix Cat",
+  "addresses": {
+    "8453": "0x412ac77194a6a052e956a7c95fcfca7ccd649dc5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Remix Cat",
+    "sanitizedSymbol": "REMIX_CAT",
+    "created_at": "2024-12-09T07:05:03.804103",
+    "deployer": "0x2ad26e8Da92642478Ae0FB623922139539418831",
+    "lpNftId": "1384244",
+    "lockerAddress": "0x94cf1BA49d4E3A480614eb9A5F9CBCf42C0c6C77"
+  },
+  "clankerInfo": null
+}

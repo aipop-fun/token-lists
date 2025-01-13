@@ -1,0 +1,22 @@
+{
+  "name": "PumpFun Meme",
+  "symbol": "PumpFun Meme",
+  "decimals": 18,
+  "description": "PumpFun Meme is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpFun%20Meme",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpFun Meme",
+  "addresses": {
+    "8453": "0x014dd0126fd57c6bfa8c9060d19cc219fa287f05"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpFun Meme",
+    "sanitizedSymbol": "PUMPFUN_MEME",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1123565",
+    "lockerAddress": "0x3958C12A28a716035cD21e74709b58Db4b32c63A"
+  },
+  "clankerInfo": null
+}

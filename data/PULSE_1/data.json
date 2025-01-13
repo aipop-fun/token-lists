@@ -1,0 +1,22 @@
+{
+  "name": "Pulse",
+  "symbol": "Pulse",
+  "decimals": 18,
+  "description": "Pulse is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Pulse",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Pulse",
+  "addresses": {
+    "8453": "0x161f780ad26594ab8285130eefe17c575820ee06"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Pulse",
+    "sanitizedSymbol": "PULSE_1",
+    "created_at": "2024-12-12T17:06:37.430212",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1439104",
+    "lockerAddress": "0xADF4147bE040D929c1F7Bc7819061Bf4eC204C0e"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Diamond Skull",
+  "symbol": "Diamond Skull",
+  "decimals": 18,
+  "description": "Diamond Skull is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Diamond%20Skull",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Diamond Skull",
+  "addresses": {
+    "8453": "0x1265512a7001c6d93ca8108a7f5a54432e206a0e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Diamond Skull",
+    "sanitizedSymbol": "DIAMOND_SKULL",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x180D4A7c54bAdB851AaC45Cdd612A13e666a9Ff6",
+    "lpNftId": "1313301",
+    "lockerAddress": "0xfdae361d14020ca42bf17935750715B06a751017"
+  },
+  "clankerInfo": null
+}

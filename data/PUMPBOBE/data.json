@@ -1,0 +1,22 @@
+{
+  "name": "PumpBoBe",
+  "symbol": "PumpBoBe",
+  "decimals": 18,
+  "description": "PumpBoBe is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PumpBoBe",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PumpBoBe",
+  "addresses": {
+    "8453": "0x1e65f330459698b3a966534adf64deb36a277b24"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PumpBoBe",
+    "sanitizedSymbol": "PUMPBOBE",
+    "created_at": "2024-12-12T10:35:37.38645",
+    "deployer": "0x9939c32a29fa019988fF1Fe3f12eA571007c6A36",
+    "lpNftId": "1432723",
+    "lockerAddress": "0x03F5c917068B2D59C7DFD5ECc35945CeA94AD581"
+  },
+  "clankerInfo": null
+}

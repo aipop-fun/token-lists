@@ -1,0 +1,22 @@
+{
+  "name": "chrismast",
+  "symbol": "chrismast",
+  "decimals": 18,
+  "description": "chrismast is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=chrismast",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "chrismast",
+  "addresses": {
+    "8453": "0x34934f7ff00818d75f5ceb78b47656feac3c16f3"
+  },
+  "tokenInfo": {
+    "originalSymbol": "chrismast",
+    "sanitizedSymbol": "CHRISMAST",
+    "created_at": "2024-12-10T16:58:38.245964",
+    "deployer": "0x0a85C7a4158Ecb4E3f962ae8ec1D9ad5Be42421a",
+    "lpNftId": "1404265",
+    "lockerAddress": "0x1d662a708A85C4361ad95831916f4AdDac6039bb"
+  },
+  "clankerInfo": null
+}

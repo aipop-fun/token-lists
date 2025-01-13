@@ -1,0 +1,22 @@
+{
+  "name": "PIXIE",
+  "symbol": "PIXIE",
+  "decimals": 18,
+  "description": "PIXIE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PIXIE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PIXIE",
+  "addresses": {
+    "8453": "0x0948ceddb2df2b35e2975dca212d600d18ed6b58"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PIXIE",
+    "sanitizedSymbol": "PIXIE",
+    "created_at": "2024-12-12T20:05:04.179701",
+    "deployer": "0x9CB86794dcC6F029B5E1718088C6d9Ff6117df73",
+    "lpNftId": "1442043",
+    "lockerAddress": "0xCc2C76Da06b58F27B503A36E0db133Dee433BDbC"
+  },
+  "clankerInfo": null
+}

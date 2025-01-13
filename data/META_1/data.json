@@ -1,0 +1,22 @@
+{
+  "name": "Meta",
+  "symbol": "Meta",
+  "decimals": 18,
+  "description": "Meta is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Meta",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Meta",
+  "addresses": {
+    "8453": "0x1ae3a6fb2029b460fd51a4fd7c7bd2906718643d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Meta",
+    "sanitizedSymbol": "META_1",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xcEeeC734ECb02377937446d1a38130d076bAAd74",
+    "lpNftId": "1324845",
+    "lockerAddress": "0x73c8Bd29Bb4A6CbBd8B272D972bB5d013899278a"
+  },
+  "clankerInfo": null
+}

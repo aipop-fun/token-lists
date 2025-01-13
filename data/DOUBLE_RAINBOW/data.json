@@ -1,0 +1,22 @@
+{
+  "name": "Double Rainbow",
+  "symbol": "Double Rainbow",
+  "decimals": 18,
+  "description": "Double Rainbow is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Double%20Rainbow",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Double Rainbow",
+  "addresses": {
+    "8453": "0x0ddd41c903ca47705bce1fd76e7a01c0d8dc08bf"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Double Rainbow",
+    "sanitizedSymbol": "DOUBLE_RAINBOW",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x60DA6aDB09E45F24D694d560B04e194184519b80",
+    "lpNftId": "1353301",
+    "lockerAddress": "0x94Ae3e569294c85b8C10cDc6FA6b87ad4321b4b2"
+  },
+  "clankerInfo": null
+}

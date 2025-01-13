@@ -1,0 +1,22 @@
+{
+  "name": "GalaxStor",
+  "symbol": "GalaxStor",
+  "decimals": 18,
+  "description": "GalaxStor is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GalaxStor",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GalaxStor",
+  "addresses": {
+    "8453": "0x3ddc01c040df5cc9890c1ea26cbdb8d8a3314b27"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GalaxStor",
+    "sanitizedSymbol": "GALAXSTOR",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x30eA1D7618c84272C679F2962dD8F7980C999de0",
+    "lpNftId": "1251745",
+    "lockerAddress": "0xBB083d40cd763856FEb4C8cE441fDF8254d68B5A"
+  },
+  "clankerInfo": null
+}

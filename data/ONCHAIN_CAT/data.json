@@ -1,0 +1,22 @@
+{
+  "name": "Onchain Cat",
+  "symbol": "Onchain Cat",
+  "decimals": 18,
+  "description": "Onchain Cat is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Onchain%20Cat",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Onchain Cat",
+  "addresses": {
+    "8453": "0x2a975189aac992e109111dbca2ea1fe547ff3fdc"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Onchain Cat",
+    "sanitizedSymbol": "ONCHAIN_CAT",
+    "created_at": "2024-12-12T13:45:32.632721",
+    "deployer": "0xd9f6cCc5B69FE06A5c6c15E533b681aCC3DBBd65",
+    "lpNftId": "1435299",
+    "lockerAddress": "0xF416025F50995C3010D945B2d72F4Ab192030a3D"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BASED SYMBOL",
+  "symbol": "BASED SYMBOL",
+  "decimals": 18,
+  "description": "BASED SYMBOL is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=BASED%20SYMBOL",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "BASED SYMBOL",
+  "addresses": {
+    "8453": "0x09c1d4eaa6ecc01bbc513430a6be764fc2bc7cb9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "BASED SYMBOL",
+    "sanitizedSymbol": "BASED_SYMBOL",
+    "created_at": "2024-12-12T20:37:19.670897",
+    "deployer": "0xca9D536A0bd8Dccd118066cf283B5Fd32496cd5E",
+    "lpNftId": "1442443",
+    "lockerAddress": "0x8C657E47126827D5B8036C210F64FC8489622E6C"
+  },
+  "clankerInfo": null
+}

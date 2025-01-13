@@ -1,0 +1,22 @@
+{
+  "name": "DOMINO",
+  "symbol": "DOMINO",
+  "decimals": 18,
+  "description": "DOMINO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DOMINO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DOMINO",
+  "addresses": {
+    "8453": "0x17367de2ba109685c71733c99698653c5cfecce1"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DOMINO",
+    "sanitizedSymbol": "DOMINO",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1193259",
+    "lockerAddress": "0x46cCAD9E1361dFB07c8f64850B30f88C42964601"
+  },
+  "clankerInfo": null
+}

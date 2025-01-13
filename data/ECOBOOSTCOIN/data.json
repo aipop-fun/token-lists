@@ -1,0 +1,22 @@
+{
+  "name": "EcoBoostCoin",
+  "symbol": "EcoBoostCoin",
+  "decimals": 18,
+  "description": "EcoBoostCoin is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=EcoBoostCoin",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "EcoBoostCoin",
+  "addresses": {
+    "8453": "0x13e138c4d581c45466434bd8d31ebc6f51449f10"
+  },
+  "tokenInfo": {
+    "originalSymbol": "EcoBoostCoin",
+    "sanitizedSymbol": "ECOBOOSTCOIN",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x4F217324694B8016Ba7D5D9b23FD57294454b4C9",
+    "lpNftId": "1280912",
+    "lockerAddress": "0x8c83f9607c92eD20cad696067Ed5ef17769cAd51"
+  },
+  "clankerInfo": null
+}

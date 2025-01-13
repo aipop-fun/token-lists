@@ -1,0 +1,22 @@
+{
+  "name": "WARP",
+  "symbol": "WARP",
+  "decimals": 18,
+  "description": "WARP is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=WARP",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "WARP",
+  "addresses": {
+    "8453": "0x1b9ff0b0f2cd01005c027e1d01b6e8e379746523"
+  },
+  "tokenInfo": {
+    "originalSymbol": "WARP",
+    "sanitizedSymbol": "WARP",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1160903",
+    "lockerAddress": "0x4f6C66Df7923fDBe3e3c327A43e9Bc8733C04874"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "THECLANKERONE",
+  "symbol": "THECLANKERONE",
+  "decimals": 18,
+  "description": "THECLANKERONE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=THECLANKERONE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "THECLANKERONE",
+  "addresses": {
+    "8453": "0x32bc2959300f831e4faa19c6f36e8378615d2b64"
+  },
+  "tokenInfo": {
+    "originalSymbol": "THECLANKERONE",
+    "sanitizedSymbol": "THECLANKERONE",
+    "created_at": "2024-12-12T16:49:15.415569",
+    "deployer": "0x1E2d78F6A937558b23886986b62E7DCD4C920484",
+    "lpNftId": "1438871",
+    "lockerAddress": "0x8f25800360658Ce4a0169d6eC8964f951F77A1E1"
+  },
+  "clankerInfo": null
+}

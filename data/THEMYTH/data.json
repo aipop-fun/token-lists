@@ -1,0 +1,22 @@
+{
+  "name": "themyth",
+  "symbol": "themyth",
+  "decimals": 18,
+  "description": "themyth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=themyth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "themyth",
+  "addresses": {
+    "8453": "0x1505089f4d4e1f513888d3c4e417a9bf475b13be"
+  },
+  "tokenInfo": {
+    "originalSymbol": "themyth",
+    "sanitizedSymbol": "THEMYTH",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x3770fC866d3a9357eb17b0111973667838B73c34",
+    "lpNftId": "1279542",
+    "lockerAddress": "0x288DdbD3e87f2c5ffD0065fe810C91Ba1BDd607B"
+  },
+  "clankerInfo": null
+}

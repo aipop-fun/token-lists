@@ -1,0 +1,22 @@
+{
+  "name": "Warpped-ETN",
+  "symbol": "Warpped-ETN",
+  "decimals": 18,
+  "description": "Warpped-ETN is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Warpped-ETN",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Warpped-ETN",
+  "addresses": {
+    "8453": "0x003c00956f259fb6bb4fe57bb3d9d3082056a5e9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Warpped-ETN",
+    "sanitizedSymbol": "WARPPED_ETN_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x4b347ED507539B4cAA2a5aA473719882b87aA40C",
+    "lpNftId": "1306921",
+    "lockerAddress": "0xc7a0C22C5d0f3Ab968BA5655b1CaA3C4a5F57FCe"
+  },
+  "clankerInfo": null
+}

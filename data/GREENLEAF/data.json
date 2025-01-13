@@ -1,0 +1,22 @@
+{
+  "name": "Greenleaf",
+  "symbol": "Greenleaf",
+  "decimals": 18,
+  "description": "Greenleaf is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Greenleaf",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Greenleaf",
+  "addresses": {
+    "8453": "0x0e9be86417cd806439992ac5a3f202df7bc1725e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Greenleaf",
+    "sanitizedSymbol": "GREENLEAF",
+    "created_at": "2024-12-11T11:14:47.461719",
+    "deployer": "0x2ba582cdbffFb09D2D10477925fF6019b4113Ca7",
+    "lpNftId": "1416784",
+    "lockerAddress": "0x78bbbf59E9Dc75f28b4003E472205d87114e49E8"
+  },
+  "clankerInfo": null
+}

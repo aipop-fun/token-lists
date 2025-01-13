@@ -1,0 +1,22 @@
+{
+  "name": "who's the alt?",
+  "symbol": "who's the alt?",
+  "decimals": 18,
+  "description": "who's the alt? is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=who's%20the%20alt%3F",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "who's the alt?",
+  "addresses": {
+    "8453": "0x087a2657e5a2df4cf3ec1bb3986b9acdaedf8dad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "who's the alt?",
+    "sanitizedSymbol": "WHO_S_THE_ALT",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9C20aDE9D7073c68f35A84EBAf22a0518ac6f112",
+    "lpNftId": "1330958",
+    "lockerAddress": "0xA1191e4E8f3FaA071450d7dbF111F5F6D0EAA79A"
+  },
+  "clankerInfo": null
+}

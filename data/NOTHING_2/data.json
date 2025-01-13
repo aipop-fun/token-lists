@@ -1,0 +1,22 @@
+{
+  "name": "Nothing",
+  "symbol": "Nothing",
+  "decimals": 18,
+  "description": "Nothing is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Nothing",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Nothing",
+  "addresses": {
+    "8453": "0x16582068a05a37bce0d0e8494f6dd5b5e0e144ff"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Nothing",
+    "sanitizedSymbol": "NOTHING_2",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1230380",
+    "lockerAddress": "0x33Eac647BceD1D42C9A3336bd1609Bc0a66d0e1e"
+  },
+  "clankerInfo": null
+}

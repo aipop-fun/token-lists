@@ -1,0 +1,22 @@
+{
+  "name": "Umbra",
+  "symbol": "Umbra",
+  "decimals": 18,
+  "description": "Umbra is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Umbra",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Umbra",
+  "addresses": {
+    "8453": "0x0e525b094919ec0fbe0a89ca41fbc2e4141f6531"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Umbra",
+    "sanitizedSymbol": "UMBRA",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1120089",
+    "lockerAddress": "0x7eaEA5844638DB50EceC46dF61436DE79CD39D64"
+  },
+  "clankerInfo": null
+}

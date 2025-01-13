@@ -1,0 +1,22 @@
+{
+  "name": "Caseoh",
+  "symbol": "Caseoh",
+  "decimals": 18,
+  "description": "Caseoh is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Caseoh",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Caseoh",
+  "addresses": {
+    "8453": "0x12b720fa2cc79fa754f46b46b5d5647e724e285f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Caseoh",
+    "sanitizedSymbol": "CASEOH",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1198074",
+    "lockerAddress": "0x89B5Ba0efEF34608B642480E94068765de6E0229"
+  },
+  "clankerInfo": null
+}

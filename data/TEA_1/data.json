@@ -1,0 +1,22 @@
+{
+  "name": "TEA",
+  "symbol": "TEA",
+  "decimals": 18,
+  "description": "TEA is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TEA",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TEA",
+  "addresses": {
+    "8453": "0x2a02992cd83cfd9aecf686033e5b41b02b9ee0ac"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TEA",
+    "sanitizedSymbol": "TEA_1",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xB61712f928927Cc88B05e376579E0BC76C5b6b06",
+    "lpNftId": "1306439",
+    "lockerAddress": "0x7e990566682b948b3FCeC69a1F647541843E028d"
+  },
+  "clankerInfo": null
+}

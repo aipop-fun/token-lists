@@ -1,0 +1,22 @@
+{
+  "name": "DogeWrap",
+  "symbol": "DogeWrap",
+  "decimals": 18,
+  "description": "DogeWrap is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DogeWrap",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DogeWrap",
+  "addresses": {
+    "8453": "0x0116f6138ac3a718035a869872de92ea94fb3190"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DogeWrap",
+    "sanitizedSymbol": "DOGEWRAP",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1225546",
+    "lockerAddress": "0x553E7F4632ee3d45Df6886ae93210f2a93777369"
+  },
+  "clankerInfo": null
+}

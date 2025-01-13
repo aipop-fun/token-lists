@@ -1,0 +1,22 @@
+{
+  "name": "MemePhoenix",
+  "symbol": "MemePhoenix",
+  "decimals": 18,
+  "description": "MemePhoenix is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MemePhoenix",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MemePhoenix",
+  "addresses": {
+    "8453": "0x0cba7003b9b713e7d16d1a9dd5df7e75fe2c7762"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MemePhoenix",
+    "sanitizedSymbol": "MEMEPHOENIX",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1173386",
+    "lockerAddress": "0xed1357AB32573045c94081aCC670eaB12cbce675"
+  },
+  "clankerInfo": null
+}

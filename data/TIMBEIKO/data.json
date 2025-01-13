@@ -1,0 +1,22 @@
+{
+  "name": "TIMBEIKO",
+  "symbol": "TIMBEIKO",
+  "decimals": 18,
+  "description": "TIMBEIKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=TIMBEIKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "TIMBEIKO",
+  "addresses": {
+    "8453": "0x30d1dcd4effa047c24a140f8433f3a86f7b1cd7b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "TIMBEIKO",
+    "sanitizedSymbol": "TIMBEIKO",
+    "created_at": "2024-12-11T13:01:28.125383",
+    "deployer": "0xD6e72c8D0B5f133fd34ddf061cf74215ae71A99C",
+    "lpNftId": "1418666",
+    "lockerAddress": "0x232F2e90F56e4Bc02A00A523E6e57F2b4e1Dff0B"
+  },
+  "clankerInfo": null
+}

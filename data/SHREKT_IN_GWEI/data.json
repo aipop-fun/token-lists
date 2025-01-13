@@ -1,0 +1,22 @@
+{
+  "name": "SHREKT IN GWEI",
+  "symbol": "SHREKT IN GWEI",
+  "decimals": 18,
+  "description": "SHREKT IN GWEI is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHREKT%20IN%20GWEI",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHREKT IN GWEI",
+  "addresses": {
+    "8453": "0x077871c9ba1e997909c240d169f17f902362bc34"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHREKT IN GWEI",
+    "sanitizedSymbol": "SHREKT_IN_GWEI",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1216941",
+    "lockerAddress": "0xd4ec9Aac858df1eAC1F1111645f307f9B88c2fb5"
+  },
+  "clankerInfo": null
+}

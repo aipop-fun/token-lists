@@ -1,0 +1,22 @@
+{
+  "name": "Sassmouth",
+  "symbol": "Sassmouth",
+  "decimals": 18,
+  "description": "Sassmouth is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Sassmouth",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Sassmouth",
+  "addresses": {
+    "8453": "0x3493c2a500cc374f778b4bd920640c6c28c615a6"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Sassmouth",
+    "sanitizedSymbol": "SASSMOUTH",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1223697",
+    "lockerAddress": "0xcB285EC093ab573AA0C45b3D553790F078b90f73"
+  },
+  "clankerInfo": null
+}

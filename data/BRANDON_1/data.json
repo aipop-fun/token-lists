@@ -1,0 +1,22 @@
+{
+  "name": "Brandon",
+  "symbol": "Brandon",
+  "decimals": 18,
+  "description": "Brandon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Brandon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Brandon",
+  "addresses": {
+    "8453": "0x24654632322d70aaef2d023a1b144bff5f01a3b9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Brandon",
+    "sanitizedSymbol": "BRANDON_1",
+    "created_at": "2024-12-08T23:59:21.915716",
+    "deployer": "0x103d139a2F7ef66B694AfB48DDF9D22D71445497",
+    "lpNftId": "1264952",
+    "lockerAddress": "0x18aedA446ff4B83b714961780174664590b95da2"
+  },
+  "clankerInfo": null
+}

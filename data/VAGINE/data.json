@@ -1,0 +1,22 @@
+{
+  "name": "vagine",
+  "symbol": "vagine",
+  "decimals": 18,
+  "description": "vagine is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=vagine",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "vagine",
+  "addresses": {
+    "8453": "0x2cafcc9609239f45149a8f6d5798aa0b36b8184c"
+  },
+  "tokenInfo": {
+    "originalSymbol": "vagine",
+    "sanitizedSymbol": "VAGINE",
+    "created_at": "2024-12-11T18:32:35.644899",
+    "deployer": "0xB88fb8Eab8Eb05689c61F657E368093b13Fd40c8",
+    "lpNftId": "1423863",
+    "lockerAddress": "0xd05AE52ddb86178f34D939367859a8Dd21Ac5670"
+  },
+  "clankerInfo": null
+}

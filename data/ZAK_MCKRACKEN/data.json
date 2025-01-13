@@ -1,0 +1,22 @@
+{
+  "name": "Zak McKracken",
+  "symbol": "Zak McKracken",
+  "decimals": 18,
+  "description": "Zak McKracken is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Zak%20McKracken",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Zak McKracken",
+  "addresses": {
+    "8453": "0x14184d4e3a456954558ffabfbc55dd47109fbd3f"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Zak McKracken",
+    "sanitizedSymbol": "ZAK_MCKRACKEN",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x3C515F7776F41FFC9Df45a4BBD515C85e21ABA62",
+    "lpNftId": "1360865",
+    "lockerAddress": "0xE96e7f9fbF6B914FD0E0956a9E59cbA01E3a38d4"
+  },
+  "clankerInfo": null
+}

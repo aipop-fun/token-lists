@@ -1,0 +1,22 @@
+{
+  "name": "Mega Shon",
+  "symbol": "Mega Shon",
+  "decimals": 18,
+  "description": "Mega Shon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mega%20Shon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mega Shon",
+  "addresses": {
+    "8453": "0x2b2759f6cfa200013037bbbfd9de7661d2183dad"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mega Shon",
+    "sanitizedSymbol": "MEGA_SHON",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1194496",
+    "lockerAddress": "0x1BC5a13E33136E0FA8208dF5eE2a3561305052e7"
+  },
+  "clankerInfo": null
+}

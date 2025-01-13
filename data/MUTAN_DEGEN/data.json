@@ -1,0 +1,22 @@
+{
+  "name": "Mutan Degen",
+  "symbol": "Mutan Degen",
+  "decimals": 18,
+  "description": "Mutan Degen is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Mutan%20Degen",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Mutan Degen",
+  "addresses": {
+    "8453": "0x2ae8ec5cdfd65cf3947ad43e70f16f692e252183"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Mutan Degen",
+    "sanitizedSymbol": "MUTAN_DEGEN",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x102D697EfC0B6f5A8275533F10882D57C448Ea58",
+    "lpNftId": "1317252",
+    "lockerAddress": "0x366612F689E71950d52ECfB830D87C4DF0dF8334"
+  },
+  "clankerInfo": null
+}

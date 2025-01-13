@@ -1,0 +1,22 @@
+{
+  "name": "bang",
+  "symbol": "bang",
+  "decimals": 18,
+  "description": "bang is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=bang",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "bang",
+  "addresses": {
+    "8453": "0x25e7b5763ecd7564b71eb35c53946b9cd75bbe37"
+  },
+  "tokenInfo": {
+    "originalSymbol": "bang",
+    "sanitizedSymbol": "BANG",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x0Fb75c54038130A4bFB753c3AAAa21266625Cc98",
+    "lpNftId": "1297240",
+    "lockerAddress": "0x452D091bF327Fff28E380E63602D80405014c9cb"
+  },
+  "clankerInfo": null
+}

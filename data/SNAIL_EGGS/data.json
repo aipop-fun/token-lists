@@ -1,0 +1,22 @@
+{
+  "name": "Snail Eggs",
+  "symbol": "Snail Eggs",
+  "decimals": 18,
+  "description": "Snail Eggs is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Snail%20Eggs",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Snail Eggs",
+  "addresses": {
+    "8453": "0x397ee813efa87545889816f255fb57d14ee3f8f9"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Snail Eggs",
+    "sanitizedSymbol": "SNAIL_EGGS",
+    "created_at": "2024-12-10T16:29:49.001211",
+    "deployer": "0x7E5283035e728073E8ED1cB1d26490A7dAeA3766",
+    "lpNftId": "1404054",
+    "lockerAddress": "0x71EF507bFd21bA4efC7e7acC2d02a635165e2fE9"
+  },
+  "clankerInfo": null
+}

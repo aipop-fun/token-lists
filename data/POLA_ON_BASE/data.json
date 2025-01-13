@@ -1,0 +1,22 @@
+{
+  "name": "POLA ON BASE",
+  "symbol": "POLA ON BASE",
+  "decimals": 18,
+  "description": "POLA ON BASE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=POLA%20ON%20BASE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "POLA ON BASE",
+  "addresses": {
+    "8453": "0x22942b2f0455a10d469fc2a7a29fc09044ffbace"
+  },
+  "tokenInfo": {
+    "originalSymbol": "POLA ON BASE",
+    "sanitizedSymbol": "POLA_ON_BASE",
+    "created_at": "2024-12-09T18:14:55.332298",
+    "deployer": "0x832b4f764bCC2c8689A5256A5b0C6bA9aABc72BB",
+    "lpNftId": "1390060",
+    "lockerAddress": "0xf01c0Bf7781cA7626e74484e64b9FfBfB9557134"
+  },
+  "clankerInfo": null
+}

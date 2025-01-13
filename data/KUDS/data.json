@@ -1,0 +1,22 @@
+{
+  "name": "KUDS",
+  "symbol": "KUDS",
+  "decimals": 18,
+  "description": "KUDS is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=KUDS",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "KUDS",
+  "addresses": {
+    "8453": "0x34904d3b2ac6586b45d9ea3b9269362cad704f02"
+  },
+  "tokenInfo": {
+    "originalSymbol": "KUDS",
+    "sanitizedSymbol": "KUDS",
+    "created_at": "2024-12-08T23:59:18.455658",
+    "deployer": "0x5eE5b07Ba735e7cE7ce29079651259232C104eb1",
+    "lpNftId": "1250725",
+    "lockerAddress": "0xAc164777FB0113D3DdF751368b2088279eB76750"
+  },
+  "clankerInfo": null
+}

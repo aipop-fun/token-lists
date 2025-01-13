@@ -1,0 +1,22 @@
+{
+  "name": "ALONE",
+  "symbol": "ALONE",
+  "decimals": 18,
+  "description": "ALONE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ALONE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ALONE",
+  "addresses": {
+    "8453": "0x0a26c95358c52e893772154fae727e232d10cd69"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ALONE",
+    "sanitizedSymbol": "ALONE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0xD22A4B424351cc9fA5fa5374FA1b7273f047baa5",
+    "lpNftId": "1334753",
+    "lockerAddress": "0xed085696C53dE12733A42779844F0ACa9EbfB5D2"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Santaboss",
+  "symbol": "Santaboss",
+  "decimals": 18,
+  "description": "Santaboss is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Santaboss",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Santaboss",
+  "addresses": {
+    "8453": "0x1e755f413f9e7d47290c8e081d6783ed4d939aa2"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Santaboss",
+    "sanitizedSymbol": "SANTABOSS",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xbB757f8777dd30776d610DC68E10a6D76AaDFEA3",
+    "lpNftId": "1310061",
+    "lockerAddress": "0x6c51B9100e3c413602610fac452D350Da9D105A2"
+  },
+  "clankerInfo": null
+}

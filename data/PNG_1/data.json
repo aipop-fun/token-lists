@@ -1,0 +1,22 @@
+{
+  "name": "PNG",
+  "symbol": "PNG",
+  "decimals": 18,
+  "description": "PNG is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PNG",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PNG",
+  "addresses": {
+    "8453": "0x0df067022c199f3e85b042b666e0f609bc97a139"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PNG",
+    "sanitizedSymbol": "PNG_1",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1226745",
+    "lockerAddress": "0xB9901E0288635a201Ed8fDD2823ba6a2D464E082"
+  },
+  "clankerInfo": null
+}

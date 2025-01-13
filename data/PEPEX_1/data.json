@@ -1,0 +1,22 @@
+{
+  "name": "PepeX",
+  "symbol": "PepeX",
+  "decimals": 18,
+  "description": "PepeX is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=PepeX",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "PepeX",
+  "addresses": {
+    "8453": "0x2ddda5210bc584b35bb323161a98c5ce69b9ea85"
+  },
+  "tokenInfo": {
+    "originalSymbol": "PepeX",
+    "sanitizedSymbol": "PEPEX_1",
+    "created_at": "2024-12-11T16:26:29.190766",
+    "deployer": "0xc6c9B9C154D7053f14BeCA7483aB14a9ce279328",
+    "lpNftId": "1421836",
+    "lockerAddress": "0x4CBc6a9af244Ca5B68eb3c06F47353CfC9bF26e4"
+  },
+  "clankerInfo": null
+}

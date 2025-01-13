@@ -1,0 +1,22 @@
+{
+  "name": "ladida",
+  "symbol": "ladida",
+  "decimals": 18,
+  "description": "ladida is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=ladida",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "ladida",
+  "addresses": {
+    "8453": "0x325201543e894e8fbb3dcf0e2b0bf8af46cc7beb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "ladida",
+    "sanitizedSymbol": "LADIDA",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1237322",
+    "lockerAddress": "0x12688Dbc836BEd6A4b7a56Af2843892892d37C75"
+  },
+  "clankerInfo": null
+}

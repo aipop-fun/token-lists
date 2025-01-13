@@ -1,0 +1,22 @@
+{
+  "name": "Alice",
+  "symbol": "Alice",
+  "decimals": 18,
+  "description": "Alice is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Alice",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Alice",
+  "addresses": {
+    "8453": "0x1704a2621007b4ca752f72b9bb450eb3f64e0f25"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Alice",
+    "sanitizedSymbol": "ALICE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x3a904b9797f8ff2E1337c6871705048c482D155d",
+    "lpNftId": "1302104",
+    "lockerAddress": "0x4a61c7C0DfAeF85f85594d64E3B23692F1A11edE"
+  },
+  "clankerInfo": null
+}

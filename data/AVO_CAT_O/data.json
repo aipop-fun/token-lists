@@ -1,0 +1,22 @@
+{
+  "name": "Avo Cat O",
+  "symbol": "Avo Cat O",
+  "decimals": 18,
+  "description": "Avo Cat O is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Avo%20Cat%20O",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Avo Cat O",
+  "addresses": {
+    "8453": "0x10fe85020235426877fff9238478e929fdc7030d"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Avo Cat O",
+    "sanitizedSymbol": "AVO_CAT_O",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0xf4bA6552836c9F8F7B1b8fB34470B81854Ef2dCB",
+    "lpNftId": "1319713",
+    "lockerAddress": "0x2fea38DE37F29BB796066326A3e504d868299505"
+  },
+  "clankerInfo": null
+}

@@ -1,0 +1,22 @@
+{
+  "name": "$MAXIM",
+  "symbol": "$MAXIM",
+  "decimals": 18,
+  "description": "$MAXIM is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24MAXIM",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$MAXIM",
+  "addresses": {
+    "8453": "0x22b8338743aee1083cc04e3c864f4243fd8f4239"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$MAXIM",
+    "sanitizedSymbol": "MAXIM_1",
+    "created_at": "2024-12-08T23:59:14.012266",
+    "deployer": "0xC204af95b0307162118f7Bc36a91c9717490AB69",
+    "lpNftId": "1128796",
+    "lockerAddress": "0x484ec11925FFD6F01315993e3D93aaB18E84B275"
+  },
+  "clankerInfo": null
+}

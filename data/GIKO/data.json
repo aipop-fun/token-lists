@@ -1,0 +1,22 @@
+{
+  "name": "GIKO",
+  "symbol": "GIKO",
+  "decimals": 18,
+  "description": "GIKO is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=GIKO",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "GIKO",
+  "addresses": {
+    "8453": "0x0cce52516311c42afefff2ee12d4fd31c4b7ed1e"
+  },
+  "tokenInfo": {
+    "originalSymbol": "GIKO",
+    "sanitizedSymbol": "GIKO",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x5dFc6294FE6E30e8F555998E1601DA99589349F9",
+    "lpNftId": "1312916",
+    "lockerAddress": "0x7e19A85113e6D876252D0f0DEC19758251d9A85d"
+  },
+  "clankerInfo": null
+}

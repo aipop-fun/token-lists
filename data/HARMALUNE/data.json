@@ -1,0 +1,22 @@
+{
+  "name": "Harmalune",
+  "symbol": "Harmalune",
+  "decimals": 18,
+  "description": "Harmalune is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Harmalune",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Harmalune",
+  "addresses": {
+    "8453": "0x40aaacba394ffcdf69b0ff200098b69256a22c7a"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Harmalune",
+    "sanitizedSymbol": "HARMALUNE",
+    "created_at": "2024-12-08T23:59:30.131001",
+    "deployer": "0x9be0871ed7Fb016028e92aaBC4A652dAB60B1626",
+    "lpNftId": "1346275",
+    "lockerAddress": "0xdA710E99C6230A054a3A62C4ED23896C05210339"
+  },
+  "clankerInfo": null
+}

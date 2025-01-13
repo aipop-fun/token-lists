@@ -1,0 +1,22 @@
+{
+  "name": "$se7en",
+  "symbol": "$se7en",
+  "decimals": 18,
+  "description": "$se7en is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=%24se7en",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "$se7en",
+  "addresses": {
+    "8453": "0x2dd3fde8030429321250549c6cebf216d10587fd"
+  },
+  "tokenInfo": {
+    "originalSymbol": "$se7en",
+    "sanitizedSymbol": "SE7EN",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1224224",
+    "lockerAddress": "0xAA611f98db3CF199213dD1eac7745ea90A198d2B"
+  },
+  "clankerInfo": null
+}

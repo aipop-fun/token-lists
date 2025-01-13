@@ -1,0 +1,22 @@
+{
+  "name": "DICT",
+  "symbol": "DICT",
+  "decimals": 18,
+  "description": "DICT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=DICT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "DICT",
+  "addresses": {
+    "8453": "0x2dc706840a9818d34a9776b25c59405769a49906"
+  },
+  "tokenInfo": {
+    "originalSymbol": "DICT",
+    "sanitizedSymbol": "DICT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1220205",
+    "lockerAddress": "0x7A62f402bb83a14913cBc1BE9dF7B780958f7E21"
+  },
+  "clankerInfo": null
+}

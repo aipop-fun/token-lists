@@ -1,0 +1,22 @@
+{
+  "name": "MindfulMoon",
+  "symbol": "MindfulMoon",
+  "decimals": 18,
+  "description": "MindfulMoon is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MindfulMoon",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MindfulMoon",
+  "addresses": {
+    "8453": "0x1f8ced49feab65e52c93484982b5bf61aaf729c8"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MindfulMoon",
+    "sanitizedSymbol": "MINDFULMOON",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1233006",
+    "lockerAddress": "0x7265A8Bb9261cf968BaCccAC64C79CF90835B4C8"
+  },
+  "clankerInfo": null
+}

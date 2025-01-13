@@ -1,0 +1,22 @@
+{
+  "name": "MILLIONARE",
+  "symbol": "MILLIONARE",
+  "decimals": 18,
+  "description": "MILLIONARE is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=MILLIONARE",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "MILLIONARE",
+  "addresses": {
+    "8453": "0x1c7fc3016e483b02f24e8f762fe01c062df9b7d5"
+  },
+  "tokenInfo": {
+    "originalSymbol": "MILLIONARE",
+    "sanitizedSymbol": "MILLIONARE",
+    "created_at": "2024-12-08T23:59:25.918854",
+    "deployer": "0x8C3e9573Ff9795f8ce0992EC93aBAf4445419B0E",
+    "lpNftId": "1312359",
+    "lockerAddress": "0x3C63C652aCeF1990F88d17C3012a3ec4F307E39E"
+  },
+  "clankerInfo": null
+}

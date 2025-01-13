@@ -1,0 +1,22 @@
+{
+  "name": "SHREKT",
+  "symbol": "SHREKT",
+  "decimals": 18,
+  "description": "SHREKT is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=SHREKT",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "SHREKT",
+  "addresses": {
+    "8453": "0x18e57b9c03e81739750fde8970c3d6d40616cd2b"
+  },
+  "tokenInfo": {
+    "originalSymbol": "SHREKT",
+    "sanitizedSymbol": "SHREKT",
+    "created_at": "2024-12-08T23:59:18.381973",
+    "deployer": "0xE0c959EeDcFD004952441Ea4FB4B8f5af424e74B",
+    "lpNftId": "1212282",
+    "lockerAddress": "0x7c25C4A04f10B4558ffC2D4a5Eb1C02bc2A48b6C"
+  },
+  "clankerInfo": null
+}

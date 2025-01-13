@@ -1,0 +1,22 @@
+{
+  "name": "windy the squirrel",
+  "symbol": "windy the squirrel",
+  "decimals": 18,
+  "description": "windy the squirrel is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=windy%20the%20squirrel",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "windy the squirrel",
+  "addresses": {
+    "8453": "0x015a155317d9e953e11459699a91a1460339eceb"
+  },
+  "tokenInfo": {
+    "originalSymbol": "windy the squirrel",
+    "sanitizedSymbol": "WINDY_THE_SQUIRREL",
+    "created_at": "2024-12-11T15:00:41.108121",
+    "deployer": "0x49a9589225cA3371f38E1B8F908715c41D94228c",
+    "lpNftId": "1420770",
+    "lockerAddress": "0xC4e84005C5242df76458633BAA88FA9C9FafE7b5"
+  },
+  "clankerInfo": null
+}

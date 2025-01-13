@@ -1,0 +1,22 @@
+{
+  "name": "Dog Blue",
+  "symbol": "Dog Blue",
+  "decimals": 18,
+  "description": "Dog Blue is a token created on Base",
+  "website": "https://clanker.world",
+  "twitter": "https://x.com/search?q=Dog%20Blue",
+  "logoURI": "https://clanker.world/default-token-logo.svg",
+  "opTokenId": "Dog Blue",
+  "addresses": {
+    "8453": "0x10107eb248ae131a02f7dcb28507d62baeba6408"
+  },
+  "tokenInfo": {
+    "originalSymbol": "Dog Blue",
+    "sanitizedSymbol": "DOG_BLUE",
+    "created_at": "2024-12-12T14:31:18.173763",
+    "deployer": "0x0AFA50960ED5F44c873c19a9a6A1Be7c7E5a7C2d",
+    "lpNftId": "1435897",
+    "lockerAddress": "0x7B644D00E0C2739e4AE82b0A89271A68d5ADab2A"
+  },
+  "clankerInfo": null
+}
